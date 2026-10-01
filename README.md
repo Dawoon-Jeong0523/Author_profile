@@ -138,11 +138,11 @@ Run from the login node (the name search reads a 6 GB parquet with 4 threads, ~3
 
 ```bash
 cd "/project/jevans/Dawoon/Nobel Prize"
-$PY pipeline/profile_person.py "Albert-László Barabási" --wait            # not a laureate: files start with NA_NA_
-$PY pipeline/profile_person.py "Jennifer Doudna" --dry-run                  # only show the candidates and the choice
-$PY pipeline/profile_person.py "James Evans" --affiliation "University of Chicago"
-$PY pipeline/profile_person.py "James Evans" --affiliation "University of Chicago" --pick 2   # take rank 2 of the table
-$PY pipeline/profile_person.py --author-id A5076633756 --wait             # skip the name search
+$PY pipeline/profile_person.py "Geoffrey Hinton" --wait                    # resolve, run, print the dashboard and record paths
+$PY pipeline/profile_person.py "Geoffrey Hinton" --dry-run                 # only show the candidates and the choice
+$PY pipeline/profile_person.py "Geoffrey Hinton" --affiliation "University of Toronto"   # narrow down namesakes
+$PY pipeline/profile_person.py "Geoffrey Hinton" --pick 1                  # take rank 1 of the candidate table
+$PY pipeline/profile_person.py --author-id "A5108093963;A5110248343" --wait   # skip the name search
 $PY pipeline/profile_person.py --names-file people.txt --wait              # one "name[<TAB>affiliation]" per line
 ```
 
@@ -164,7 +164,7 @@ $PY pipeline/profile_person.py --names-file people.txt --wait              # one
 | `--local` | run the notebook in the current allocation instead of submitting a job |
 | `--mem`, `--cpus` | Slurm resources (default 64G, 8) |
 
-When the choice is ambiguous (e.g. several "James Evans" at the University of Chicago) the candidate table is printed
+When the choice is ambiguous (several namesakes with similar citation counts, even at the same university) the candidate table is printed
 and nothing is submitted; re-run with `--pick`, `--orcid` or `--author-id`.
 
 ### Run the notebook directly
