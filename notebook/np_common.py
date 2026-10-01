@@ -1387,8 +1387,8 @@ def _clean_person(s) -> str:
     if not isinstance(s, str):
         return ''
     s = re.sub(r'\(.*?\)', ' ', s)
-    s = re.split(r',\s*(?:née|nee|born)\b', s, flags=re.I)[0]
-    s = re.sub(r'^\s*(?:sir|lord|lady|dame|baron|baroness|prof\.?|dr\.?)\s+', '', s, flags=re.I)
+    s = re.split(r'(?:,\s*|\s+)(?:née|nee|born)\b', s, flags=re.I)[0]
+    s = re.sub(r'^\s*(?:(?:sir|lord|lady|dame|baron|baroness|prof\.?|professor|dr\.?)\s+)+', '', s, flags=re.I)
     s = re.sub(r'[,\s]+(?:jr\.?|sr\.?|ii|iii|iv)\s*$', '', s, flags=re.I)
     return re.sub(r'\s+', ' ', s).strip()
 
@@ -1756,15 +1756,17 @@ def _institutions_text(js) -> str:
         return ''
 
 
-def find_author_candidates(con, name, affiliation=None, orcid=None, use_api=True, min_works=1, limit=15, log=print) -> pd.DataFrame:
+def find_author_candidates(con, name, affiliation=None, orcid=None, prize_ids=(), use_api=True, min_works=1, limit=15, log=print) -> pd.DataFrame:
     """OpenAlex author candidates for a person's name, best first.
 
-    Sources: the 2026-01 snapshot's authors table (cache/openalex_authors.parquet; display name and alternative names) and,
-    with use_api, the live OpenAlex author search (ids created after the snapshot are resolved later by the notebook's
-    author id check). A candidate's first + last name must agree with the query (a first name may be an initial, middle
-    initials must not conflict). Ranking: ORCID equal to `orcid`, an institution matching `affiliation` (a distinctive word
-    of the name), exact full-name match, citations. Columns: author_id, display_name, orcid, works_count, cited_by_count,
-    institutions, source, name_match, affiliation_match, orcid_match, rank_score."""
+    Sources: the 2026-01 snapshot's authors table (cache/openalex_authors.parquet) and, with use_api, the live OpenAlex author
+    search (ids created after the snapshot are resolved later by the notebook's author id check), plus `prize_ids` (the
+    PrizeAtlas OpenAlex ids of a laureate with this name). Tiers (`match`):
+      'display' - the display name agrees with the query: same surname, first name equal or an initial, no conflicting middle initials;
+      'alias'   - only an alternative name agrees (OpenAlex alternative names also hold co-authors' and namesakes' names);
+      'orcid' / 'prizeatlas' - the ORCID or a PrizeAtlas id of the laureate.
+    Ranking: ORCID > PrizeAtlas id > affiliation (a distinctive word of `affiliation` among the last known institutions) >
+    display tier before alias tier > citations; `limit` is applied after the ranking."""
     query = _clean_person(name)
     raw = _raw_name_tokens(query)
     if len(raw) < 2:
@@ -1772,6 +1774,7 @@ def find_author_candidates(con, name, affiliation=None, orcid=None, use_api=True
     first, last = raw[0], raw[-1]
     full = ' '.join(raw)
     orcid = (orcid or '').rstrip('/').rsplit('/', 1)[-1] or None
+    prize_ids = [str(i).strip() for i in prize_ids if str(i).strip()]
 
     def agrees(n):
         t = _raw_name_tokens(_clean_person(n))
@@ -1783,18 +1786,27 @@ def find_author_candidates(con, name, affiliation=None, orcid=None, use_api=True
     build_openalex_authors(con, log)
     A = f"read_parquet('{OA_AUTHORS_PQ}')"
     esc_last = last.replace("'", "''")
+    pid_ints = [int(i[1:]) for i in prize_ids if re.fullmatch(r'A\d+', i)]
     snap = con.sql(f'''SELECT author_id, orcid, display_name, display_name_alternatives, works_count, cited_by_count, last_known_institutions
-                       FROM {A} WHERE works_count >= {int(min_works)}
+                       FROM {A} WHERE (works_count >= {int(min_works)}
                        AND (contains(lower(strip_accents(display_name)), '{esc_last}')
-                            OR contains(lower(strip_accents(display_name_alternatives)), '{esc_last}')
-                            {f"OR orcid = '{orcid}'" if orcid else ''})''').df()
-    alt_ok = snap.display_name_alternatives.fillna('[]').map(lambda s: any(agrees(a) for a in (json.loads(s) if s.startswith('[') else [])))
-    # the alternative names of an OpenAlex author also hold co-authors' names: they count only when the display name has the same surname
-    snap = snap[(snap.display_name.map(agrees) | (alt_ok & snap.display_name.map(same_last)) | (snap.orcid == orcid)).astype(bool)].copy()
+                            OR contains(lower(strip_accents(display_name_alternatives)), '{esc_last}')))
+                       {f"OR orcid = '{orcid}'" if orcid else ''}
+                       {f"OR author_id IN ({', '.join(map(str, pid_ints))})" if pid_ints else ''}''').df()
     snap['author_id'] = 'A' + snap.author_id.astype('int64').astype(str)
+    disp_ok = snap.display_name.map(agrees).astype(bool)
+    alt_ok = snap.display_name_alternatives.fillna('[]').map(lambda s: any(agrees(a) for a in (json.loads(s) if s.startswith('[') else [])))
+    alt_ok = (alt_ok & snap.display_name.map(same_last)).astype(bool)
+    keep = disp_ok | alt_ok | (snap.orcid == orcid) | snap.author_id.isin(prize_ids)
+    snap = snap[keep.astype(bool)].copy()
+    snap['match'] = np.where(snap.display_name.map(agrees).astype(bool), 'display', 'alias')
     snap['institutions'] = snap.last_known_institutions.map(_institutions_text)
     snap['source'] = 'snapshot'
     C = snap.drop(columns=['display_name_alternatives', 'last_known_institutions'])
+    missing_prize = [i for i in prize_ids if i not in set(C.author_id)]      # PrizeAtlas ids created after the snapshot
+    if missing_prize:
+        C = pd.concat([C, pd.DataFrame({'author_id': missing_prize, 'display_name': query, 'source': 'PrizeAtlas (not in the snapshot)',
+                                        'match': 'display', 'institutions': ''})], ignore_index=True)
     if use_api:
         import urllib.parse
         import urllib.request
@@ -1805,7 +1817,7 @@ def find_author_candidates(con, name, affiliation=None, orcid=None, use_api=True
                 res = json.load(r).get('results', [])
             api = pd.DataFrame([{'author_id': x['id'].rsplit('/', 1)[-1], 'display_name': x.get('display_name'),
                                  'orcid': (x.get('orcid') or '').rsplit('/', 1)[-1] or None, 'works_count': x.get('works_count'),
-                                 'cited_by_count': x.get('cited_by_count'), 'source': 'OpenAlex API',
+                                 'cited_by_count': x.get('cited_by_count'), 'source': 'OpenAlex API', 'match': 'display',
                                  'institutions': '; '.join(f"{i.get('display_name')} ({i.get('country_code') or '?'})" for i in (x.get('last_known_institutions') or []))}
                                 for x in res])
             if len(api):
@@ -1818,31 +1830,44 @@ def find_author_candidates(con, name, affiliation=None, orcid=None, use_api=True
         return C
     aff_tok = org_tokens(affiliation) if affiliation else set()
     C['name_match'] = np.where(C.display_name.map(lambda n: ' '.join(_raw_name_tokens(_clean_person(n))) == full), 'exact', 'compatible')
-    C['affiliation_match'] = C.institutions.fillna('').map(lambda s: bool(aff_tok and org_tokens(s) & aff_tok))
-    C['orcid_match'] = bool(orcid) & (C.orcid == orcid)
-    C['rank_score'] = (C.orcid_match * 1e12 + C.affiliation_match * 1e10 + pd.to_numeric(C.cited_by_count, errors='coerce').fillna(0)
-                       + (C.name_match == 'exact') * .5)            # the exact spelling only breaks ties
+    C['affiliation_match'] = C.institutions.fillna('').map(lambda s: bool(aff_tok and org_tokens(s) & aff_tok)).astype(bool)
+    C['orcid_match'] = (C.orcid == orcid).astype(bool) if orcid else False
+    C['prize_match'] = C.author_id.isin(prize_ids).astype(bool)
+    C.loc[C.orcid_match, 'match'] = 'orcid'
+    C.loc[C.prize_match & ~C.orcid_match, 'match'] = 'prizeatlas'
+    cites = pd.to_numeric(C.cited_by_count, errors='coerce').fillna(0)
+    C['rank_score'] = (C.orcid_match * 1e14 + C.prize_match * 1e13 + C.affiliation_match * 1e12 + (C.match != 'alias') * 1e11
+                       + cites + (C.name_match == 'exact') * .5)            # the exact spelling only breaks ties
     C = C.sort_values('rank_score', ascending=False).reset_index(drop=True)
-    return C[['author_id', 'display_name', 'orcid', 'works_count', 'cited_by_count', 'institutions', 'source', 'name_match',
-              'affiliation_match', 'orcid_match', 'rank_score']].head(limit)
+    return C[['author_id', 'display_name', 'orcid', 'works_count', 'cited_by_count', 'institutions', 'source', 'match', 'name_match',
+              'affiliation_match', 'orcid_match', 'prize_match', 'rank_score']].head(limit)
 
 
 def pick_author(C, dominance=3.0):
-    """(row, reason) of the candidate to profile, or (None, reason) when the choice should be left to the user: the top
-    candidate is taken when it matches the ORCID or the affiliation alone, is the only candidate, or has at least
-    `dominance` times the citations of the next one."""
+    """(row, reason) of the candidate to profile, or (None, reason) when the user should choose. Automatic choices: an ORCID
+    match; a PrizeAtlas id of the laureate named by the query; the only display-name candidate at the given affiliation; the
+    most cited display-name candidate when it has at least `dominance` times the citations of the next display-name candidate.
+    Candidates found only through an alternative name are never chosen automatically."""
     if C is None or C.empty:
         return None, 'no candidate'
     top = C.iloc[0]
     if top.orcid_match:
         return top, 'ORCID'
-    if top.affiliation_match and not C.affiliation_match.iloc[1:].any():
-        return top, 'only candidate at the given affiliation'
-    if len(C) == 1:
-        return top, 'only candidate'
-    c1, c2 = float(top.cited_by_count or 0), float(C.cited_by_count.iloc[1] or 0)
+    if top.prize_match:
+        return top, 'PrizeAtlas OpenAlex id of the laureate'
+    D = C[C.match == 'display']
+    if D.empty:
+        return None, 'only candidates matched through alternative names: check them'
+    if D.affiliation_match.any():
+        at = D[D.affiliation_match]
+        if len(at) == 1:
+            return at.iloc[0], 'only candidate at the given affiliation'
+        D = at
+    if len(D) == 1:
+        return D.iloc[0], 'only candidate whose display name matches'
+    c1, c2 = float(D.cited_by_count.iloc[0] or 0), float(D.cited_by_count.iloc[1] or 0)
     if c1 >= dominance * max(c2, 1):
-        return top, f'most cited ({c1:,.0f} vs {c2:,.0f} citations)'
+        return D.iloc[0], f'most cited ({c1:,.0f} vs {c2:,.0f} citations)'
     return None, f'ambiguous: the two most cited candidates have {c1:,.0f} and {c2:,.0f} citations'
 
 

@@ -12,8 +12,8 @@ the name pipeline works for **anybody with an OpenAlex author profile**.
 ```bash
 python pipeline/profile_person.py "Geoffrey Hinton" --wait
 # Nobel laureate: Geoffrey Hinton, Physics 2024 (PrizeAtlas)
-# query 'Geoffrey Hinton': picked A5108093963 Geoffrey E. Hinton [most cited (439,513 vs 28,551 citations)]; same-name fragments A5110248343
-# submitted Slurm job 59835250 for ['A5108093963', 'A5110248343']
+# query 'Geoffrey Hinton': picked A5108093963 Geoffrey E. Hinton [PrizeAtlas OpenAlex id of the laureate]; same-name fragments A5110248343
+# submitted Slurm job 59836554 for ['A5108093963', 'A5110248343']
 # dashboard: output/dashboard/2024_Physics_Geoffrey-Hinton_A5108093963.html
 # record:    output/record/2024_Physics_Geoffrey-Hinton_A5108093963.md
 ```
@@ -37,7 +37,7 @@ python pipeline/profile_person.py "Geoffrey Hinton" --wait
 ## Example: Geoffrey Hinton
 
 `python pipeline/profile_person.py "Geoffrey Hinton" --wait` resolves the name to the OpenAlex author
-`A5108093963` (plus a 36-work fragment `A5110248343` of the same person), finds his PatentsView inventor id by name
+`A5108093963` (the laureate's PrizeAtlas id, plus a 36-work fragment `A5110248343` of the same person), finds his PatentsView inventor id by name
 search (the pqrs crosswalk points to an OpenAlex id that now belongs to someone else), and writes the dashboard and
 the record below. Works published and patents granted up to 2021.
 
@@ -84,8 +84,8 @@ of the first collaboration, black rim = also a co-inventor):
 ```markdown
 ---
 record_type: "research_profile"
-schema_version: 1
-query: {"name": "Geoffrey Hinton", "resolution": "query 'Geoffrey Hinton': picked A5108093963 Geoffrey E. Hinton [...]"}
+schema_version: 2
+query: {"name": "Geoffrey Hinton", "resolution": "query 'Geoffrey Hinton': picked A5108093963 Geoffrey E. Hinton [PrizeAtlas OpenAlex id of the laureate]; ..."}
 person: {"name": "Geoffrey E. Hinton", "openalex_author_ids": ["A5108093963", "A5110248343"], "orcid": [],
          "patentsview_inventor_ids": ["fl:ge_ln:hinton-1"], "inventor_source": "name search", ...}
 nobel: {"prizes": ["Physics 2024"], "year": "2024", "field": "Physics", "wikidata_qid": "Q92894", ...}
@@ -146,12 +146,15 @@ $PY pipeline/profile_person.py --author-id "A5108093963;A5110248343" --wait   # 
 $PY pipeline/profile_person.py --names-file people.txt --wait              # one "name[<TAB>affiliation]" per line
 ```
 
+Exit status: 0 when every query was profiled (resolved with `--dry-run`, submitted without `--wait`), 2 when a
+query needs a choice, 1 on any other failure (no candidate, a malformed id, a failed job).
+
 | Option | Meaning |
 |---|---|
-| `name` | first + last name (initials and accents are fine; honorifics, `Jr.` and `née …` are removed) |
+| `name` | first + last name (initials and accents are fine; leading titles such as Sir, Lord, Prof., Dr., trailing `Jr.` / `III`, parentheses and `née …` are removed; a single name such as `Rayleigh` needs `--author-id`) |
 | `--affiliation TEXT` | an institution of the person: candidates at it rank first |
-| `--orcid ID` | the person's ORCID: decides when present |
-| `--author-id A…;A…` | OpenAlex author id(s): skips the search |
+| `--orcid ID` | the person's ORCID: decides when a candidate carries it |
+| `--author-id A…;A…` | OpenAlex author id(s) (`A…`, digits or `https://openalex.org/A…`): skips the search |
 | `--pick N` | take rank *N* of the printed candidate table |
 | `--dominance X` | automatic choice needs X times the citations of the next candidate (default 3) |
 | `--no-merge` | do not add same-name fragments of the chosen author |
@@ -159,13 +162,15 @@ $PY pipeline/profile_person.py --names-file people.txt --wait              # one
 | `--label-year`, `--label-field` | the first two parts of the file names (default: Nobel prize year / field, else `NA`) |
 | `--year-max YEAR` | last publication / grant year analysed (default 2021) |
 | `--titles api\|<parquet>\|''` | work titles from the OpenAlex API (default), a shared (id, title) table, or a scan of the raw works table |
+| `--names-file FILE` | one person per line, `name` or `name<TAB>affiliation`; blank lines and `#` comments skipped. Per-person options (`--author-id`, `--orcid`, `--pick`, `--label-*`) cannot be combined with it |
 | `--dry-run` | resolve only |
 | `--wait` | wait for the Slurm job and print the dashboard and record paths |
 | `--local` | run the notebook in the current allocation instead of submitting a job |
 | `--mem`, `--cpus` | Slurm resources (default 64G, 8) |
 
-When the choice is ambiguous (several namesakes with similar citation counts, even at the same university) the candidate table is printed
-and nothing is submitted; re-run with `--pick`, `--orcid` or `--author-id`.
+When the choice is ambiguous (several namesakes with similar citation counts, only alternative-name matches, or a name
+shared by several laureates such as `George Smith`) the candidate table is printed, nothing is submitted and the exit
+status is 2; re-run with `--pick`, `--affiliation`, `--orcid` or `--author-id`.
 
 ### Run the notebook directly
 
@@ -182,7 +187,7 @@ sbatch --export=ALL,NP_AUTHOR_ID=A5108093963,NP_EXTRA_AUTHOR_IDS=A5110248343,NP_
 ```mermaid
 flowchart LR
     Q["name"] --> C["candidates<br/>snapshot authors table<br/>+ OpenAlex author search"]
-    C --> P["choice: ORCID > affiliation > most cited<br/>+ same-name fragments"]
+    C --> P["choice: ORCID > PrizeAtlas id > affiliation > most cited<br/>+ same-name fragments"]
     P --> K["0b author id check<br/>(ids without works -> ORCID / Li bridge / name)"]
     K --> W["2 works<br/>(1.0 B-row authorship table)"]
     K --> X["1 pqrs crosswalk"] --> I["inventor ids"]
@@ -214,19 +219,24 @@ flowchart LR
 `same_person_fragments`:
 
 1. **Candidates**: the snapshot's authors table (`cache/openalex_authors.parquet`, built once from
-   `OpenAlex_2026_Jan_16_Renly_parquet/authors.csv.gz`; display name, and alternative names when the display name has
-   the same surname) plus the live OpenAlex author search. First and last name must agree with the query (a first name
-   may be an initial; middle initials must not conflict).
-2. **Choice**: an ORCID match decides; else the only candidate at `--affiliation`; else the most cited candidate if it
-   has at least `--dominance` (3) times the citations of the next one; else the table is printed for `--pick`.
-3. **Fragments**: candidates with exactly the same display name, a shared institution word and no different ORCID are
-   added (OpenAlex splits prolific people; Hinton's 36-work fragment). Without an institution to compare nothing is merged.
-4. **Nobel prizes**: a query matching a PrizeAtlas laureate labels the files with the prize year and field. For other
-   people the notebook matches prizes on ids and ORCID only (`NP_NOBEL_LOOKUP=ids`), so a namesake of a laureate is
-   not labelled as one.
-5. **Author id check** (notebook section 0b): an id with fewer than 5 works in the snapshot — often an id OpenAlex
-   created after January 2026 — is resolved by ORCID, the Li et al. laureate bridge or name; ids with the same ORCID are
-   added. The id with the most works names the output folder and the files.
+   `OpenAlex_2026_Jan_16_Renly_parquet/authors.csv.gz`) plus the live OpenAlex author search, in tiers (`match` column):
+   `display` — the display name agrees with the query (same surname, first name equal or an initial, no conflicting
+   middle initials); `alias` — only an alternative name agrees (OpenAlex alternative names also hold namesakes'
+   spellings), listed but never chosen automatically; `orcid` / `prizeatlas` — the ORCID, or the PrizeAtlas OpenAlex id
+   of the laureate the query names (ids created after the snapshot are added from PrizeAtlas too).
+2. **Choice**: an ORCID match (`--orcid`, or the laureate's ORCID from PrizeAtlas) decides; else the laureate's
+   PrizeAtlas id; else the only display-name candidate at `--affiliation`; else the most cited display-name candidate
+   if it has at least `--dominance` (3) times the citations of the next one; else the table is printed for `--pick`.
+   A name shared by several laureates (`George Smith`) is never chosen by citations alone.
+3. **Fragments**: candidates with the same display name (case, accents and punctuation ignored, middle initials
+   included), at least 2 works, a shared institution word and no different ORCID are added (OpenAlex splits prolific
+   people; Hinton's 36-work fragment). Without an institution to compare nothing is merged.
+4. **Nobel prizes**: the files carry the prize year and field only when the chosen ids are linked to the laureate the
+   query names (a PrizeAtlas id, or the laureate's ORCID); a namesake, or a name shared by several laureates, gets no
+   prize label and the notebook matches prizes on ids and ORCID only (`NP_NOBEL_LOOKUP=ids`).
+5. **Author id check** (notebook section 0b): when the given ids together have fewer than 5 works in the snapshot —
+   often ids OpenAlex created after January 2026 — they are resolved by ORCID, the Li et al. laureate bridge or name;
+   otherwise ids with the same ORCID are added. The id with the most works names the output folder and the files.
 
 Spelling matters for people whose OpenAlex profile uses another form (`James Peebles` is `P. J. E. Peebles` in
 OpenAlex): try the initials, or give `--orcid` / `--author-id`.
@@ -256,19 +266,20 @@ several prizes (`1956-1972_Physics_John-Bardeen_A5110170702.html`), `NA` for peo
 
 Markdown for agents (LLM context, retrieval, comparison), the numbers behind every dashboard block:
 
-* **YAML header** (values are JSON, which is valid YAML): `record_type`, `schema_version`, `query` (typed name and how
-  the id was chosen), `person` (name, OpenAlex ids, ORCID, PatentsView ids, how they were found), `nobel` (prizes, year,
+* **YAML header** (values are JSON, which is valid YAML): `record_type`, `schema_version` (2), `query` (typed name and how
+  the id was chosen; `null` when the notebook ran without the name pipeline), `person` (name, OpenAlex ids, ORCID, PatentsView ids, how they were found), `nobel` (prizes, year,
   field, Wikidata, PrizeAtlas URL, lookup rule), `window`, `dashboard`, `outputs_folder`, `generated`, `generator`, `sources`.
 * **Sections**: At a glance · Percentile summary · Output per year · Mean percentile per year · Citations received per
   year · Works / patents with the highest impact percentile · Textbook reach (sources, works, years) · Patent → paper
   citations (works, years) · Collaboration networks (co-authors, co-inventors, people on both sides, new collaborators,
   institutions, assignees, network statistics) · Definitions and caveats.
+* The records of the 2026-09-30 laureate batch are `schema_version: 1`: the same content without the `query` key.
 
 ### Per-person folder — `output/<author id>/`
 
 Tables and figures behind the dashboard: `papers_metrics.parquet/.csv` (one row per work, every metric and percentile),
 `patents_metrics.parquet/.csv`, `percentile_summary.csv`, `yearly_percentiles.csv`, `citation_trajectory.csv`,
-`book_citations_by_work.csv`, `citing_books.csv`, `patents_citing_papers.csv`, `patents_science_references.csv`,
+`book_citations_by_work.csv`, `citing_books.csv` (`book_title` stays empty with `--titles api`), `patents_citing_papers.csv`, `patents_science_references.csv`,
 `ppp_pairs.csv`, `crosswalk_candidates.csv`, `inventor_name_search.csv`, network node / edge tables and GraphML,
 `figures/*.png`, `html/*.html` (interactive figures, full measure set), `manifest.json` (parameters, author id check,
 source fingerprints, files written), `profile_summary.json`, and `_cache/` (per-person scans keyed on their inputs).
@@ -318,11 +329,14 @@ Other parameters (cohort windows, `BOOK_MIN`, `MAX_TEAM_SIZE`, `DASH_MEASURES`, 
 | PrizeAtlas crawl (login node, internet) | run `notebook/prizeatlas_crawl.ipynb` | `Data/prizeatlas/` (662 Nobel awards with OpenAlex / ORCID / Wikidata / ROR ids, link to the Li et al. laureates) |
 | Pre-pass | `sbatch jobs/prizeatlas_prepass.sbatch` | `output/batch_prizeatlas/targets.tsv`, `cache/titles_prizeatlas.parquet`, API title cache |
 | Profiles | `sbatch --dependency=afterany:<pre-pass> jobs/prizeatlas_dashboards.sbatch` | 20 array tasks × ~33 people; `done/`, `logs/`, `failed_task*.txt`; a rerun skips finished ids |
-| Laureate aggregate | `sbatch jobs/nobel_laureate_papers.sbatch` | `output/nobel_laureates/` and the field × decade dashboard |
+| Laureate aggregate | `sbatch jobs/nobel_laureate_papers.sbatch` | `output/nobel_laureates/` and `output/dashboard/1902-2016_Physics-Chemistry-Medicine_Nobel-laureates_SciSciNet.html` |
 
-The 2026-09-30 batch profiled all 656 PrizeAtlas author ids (658 people; Dalén has no OpenAlex id, G. E. and G. P.
-Smith share one) in 2 h 15 min. 63 ids without works in the snapshot were resolved by ORCID, the Li et al. bridge or
-name. `notebook/nobel_laureate_papers.ipynb` aggregates the SciSciNet / Li et al. laureate papers (Type 1 =
+The 2026-09-30 batch profiled all 656 PrizeAtlas author ids (662 awards to 658 people; Dalén has no OpenAlex id,
+G. E. and G. P. Smith share one) in 2 h 15 min. 592 ids had works in the snapshot (one more gained ids with the same
+ORCID). Of the 63 ids without works, 34 were resolved through the Li et al. bridge, 15 by ORCID and 9 by name (2 of
+them flagged ambiguous: check those dashboards); 5 stay unresolved and their dashboards are nearly empty (Grignard
+`A5034810986`, Peebles `A5043531064`, Finsen `A5091481560`, Golgi `A5028941387`, Eijkman `A5068473799`; rerun them
+with `--author-id`). `notebook/nobel_laureate_papers.ipynb` aggregates the SciSciNet / Li et al. laureate papers (Type 1 =
 prize-winning) by field × prize decade and field × publication year.
 
 ## Repository layout
@@ -381,7 +395,9 @@ Not versioned (`.gitignore`): `output/` (dashboards, records, per-person folders
 * **Percentile baseline**: the cohorts include every OpenAlex document type, so research works sit slightly above 0.5
   on average (a known review finding; research-only population tables are a planned change).
 * **Name resolution** picks the most cited namesake automatically only when it dominates; check the printed table for
-  common names, and the `query` / `person` entries of the record.
+  common names, and the `query` / `person` entries of the record. A query that names a laureate whose PrizeAtlas id is
+  wrong picks that id anyway (PrizeAtlas gives G. E. and G. P. Smith the same id; the ORCID breaks the tie for
+  G. P. Smith).
 * **Inventor ids**: pqrs ids can point to OpenAlex ids that were reassigned since (Hinton's pqrs author id now belongs to
   another person); the name search then finds the inventor. PatentsView ids of common names can mix people; the name
   search therefore needs evidence on at least half of a candidate's patents for common names.
