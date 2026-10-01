@@ -1,0 +1,20 @@
+# Regenerated outputs and caches (tens of GB): dashboards, records, per-author folders, shared parquet caches
+output/
+cache/
+jobs/logs/
+
+# PrizeAtlas page cache (the crawl notebook re-downloads it); the parsed CSV tables in Data/prizeatlas/ stay in the repository
+Data/prizeatlas/html/
+
+# no parquet file in the repository (every parquet table here has a CSV twin or is regenerated)
+*.parquet
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.tmp
+.venv/
+
+# personal working copies of the notebooks
+notebook/*[Cc]opy*.ipynb

@@ -1,0 +1,659 @@
+person_key,name,n_prizes,categories,prize_years,openalex_author_ids,orcid,wikidata_qid,birth_date,death_date,person_slug,n_openalex_ids
+Q151564,Frederick Sanger,2,Chemistry,1958; 1980,A5114007683,,Q151564,1918-08-13,2013-11-19,frederick-sanger,1
+Q949,John Bardeen,2,Physics,1956; 1972,A5110170702,,Q949,1908-05-23,1991-01-30,john-bardeen,1
+Q110925,K. Barry Sharpless,2,Chemistry,2001; 2022,A5077401880,0000-0001-6051-1599,Q110925,1941-04-28,,k-barry-sharpless,1
+Q7186,"Marie Curie, née Sklodowska",2,Chemistry; Physics,1903; 1911,A5038745913,,Q7186,1867-11-07,1934-07-04,marie-curie-nee-sklodowska,1
+Q103854,Aage Niels Bohr,1,Physics,1975,A5103347189,,Q103854,1922-06-19,2009-09-08,aage-niels-bohr,1
+Q233205,Aaron Ciechanover,1,Chemistry,2004,A5087180436,0000-0001-9184-8944,Q233205,1947-10-01,,aaron-ciechanover,1
+Q190626,Aaron Klug,1,Chemistry,1982,A5106084352,,Q190626,1926-08-11,2018-11-20,aaron-klug,1
+Q28189,Abdus Salam,1,Physics,1979,A5101859682,0000-0002-6251-9575,Q28189,1926-01-29,1996-11-21,abdus-salam,1
+Q7426,Ada E. Yonath,1,Chemistry,2009,A5016847667,0000-0002-1856-6964,Q7426,1939-06-22,,ada-e-yonath,1
+Q106454,Adam G. Riess,1,Physics,2011,A5017158718,0000-0002-6124-1196,Q106454,1969-12-16,,adam-g-riess,1
+Q5327,Adolf Friedrich Johann Butenandt,1,Chemistry,1939,A5009038900,,Q5327,1903-03-24,1995-01-18,adolf-friedrich-johann-butenandt,1
+Q77142,Adolf Otto Reinhold Windaus,1,Chemistry,1928,A5006651410,,Q77142,1876-12-25,1959-06-09,adolf-otto-reinhold-windaus,1
+Q106624,Ahmed H. Zewail,1,Chemistry,1999,A5077807260,,Q106624,1946-02-26,2016-08-02,ahmed-h-zewail,1
+Q105949,Akira Suzuki,1,Chemistry,2010,A5114860378,0000-0002-8167-0414,Q105949,1930-09-12,,akira-suzuki,1
+Q4701206,Akira Yoshino,1,Chemistry,2019,A5103185273,0000-0002-0226-2827,Q4701206,1948-01-30,,akira-yoshino,1
+Q364997,Alain Aspect,1,Physics,2022,A5046427077,0000-0003-0094-5584,Q364997,1947-06-15,,alain-aspect,1
+Q110942,Alan G. MacDiarmid,1,Chemistry,2000,A5108238128,,Q110942,1927-04-14,2007-02-07,alan-g-macdiarmid,1
+Q106751,Alan J. Heeger,1,Chemistry,2000,A5087631107,,Q106751,1936-01-22,,alan-j-heeger,1
+Q193650,Alan Lloyd Hodgkin,1,Medicine,1963,A5030452986,,Q193650,1914-02-05,1998-12-20,alan-lloyd-hodgkin,1
+Q127234,Albert Abraham Michelson,1,Physics,1907,A5110645705,,Q127234,1852-12-19,1931-05-09,albert-abraham-michelson,1
+Q233943,Albert Claude,1,Medicine,1974,A5042531309,,Q233943,1898-08-24,1983-05-22,albert-claude,1
+Q937,Albert Einstein,1,Physics,1921,A5083138872,,Q937,1879-03-14,1955-04-18,albert-einstein,1
+Q153219,Albert Fert,1,Physics,2007,A5055262951,0000-0003-0670-8539,Q153219,1938-03-07,,albert-fert,1
+Q180468,Albert von Szent-Györgyi Nagyrápolt,1,Medicine,1937,A5109521432,,Q180468,1893-09-16,1986-10-22,albert-von-szent-gyorgyi-nagyrapolt,1
+Q57128,Albrecht Kossel,1,Medicine,1910,A5063935697,,Q57128,1853-09-16,1927-07-05,albrecht-kossel,1
+Q83552,Aleksandr Mikhailovich Prokhorov,1,Physics,1964,A5031450140,,Q83552,1916-07-11,2002-01-08,aleksandr-mikhailovich-prokhorov,1
+Q1547368,Aleksey Yekimov,1,Chemistry,2023,A5021920207,,Q1547368,1945,,aleksey-yekimov,1
+Q188128,Alexei A. Abrikosov,1,Physics,2003,A5111686980,,Q188128,1928-06-25,2017-03-29,alexei-a-abrikosov,1
+Q185777,Alexis Carrel,1,Medicine,1912,A5112098647,,Q185777,1873-06-28,1944-11-05,alexis-carrel,1
+Q271703,Alfred D. Hershey,1,Medicine,1969,A5037196391,,Q271703,1908-12-04,1997-05-22,alfred-d-hershey,1
+Q296423,Alfred G. Gilman,1,Medicine,1994,A5054552947,,Q296423,1941-07-01,2015-12-23,alfred-g-gilman,1
+Q71023,Alfred Kastler,1,Physics,1966,A5108712478,,Q71023,1902-05-03,1984-01-07,alfred-kastler,1
+Q123014,Alfred Werner,1,Chemistry,1913,A5110161121,,Q123014,1866-12-12,1919-11-15,alfred-werner,1
+Q223542,Allan M. Cormack,1,Medicine,1979,A5029051742,0000-0002-5867-3529,Q223542,1924-02-23,1998-05-07,allan-m-cormack,1
+Q192651,Allvar Gullstrand,1,Medicine,1911,A5066444378,,Q192651,1862-06-05,1930-07-28,allvar-gullstrand,1
+Q104104,Andre Geim,1,Physics,2010,A5058357018,0000-0003-2861-8331,Q104104,1958-10-21,,andre-geim,1
+Q493956,Andrea M. Ghez,1,Physics,2020,A5140947075,0000-0003-3230-5055,Q493956,1965-06-16,,andrea-m-ghez,1
+Q104607,Andrew Fielding Huxley,1,Medicine,1963,A5113698511,,Q104607,1917-11-22,2012-05-30,andrew-fielding-huxley,1
+Q141147,Andrew V. Schally,1,Medicine,1977,A5068739269,0000-0003-1273-6747,Q141147,1926-11-30,2024-10-17,andrew-v-schally,1
+Q202152,Andrew Z. Fire,1,Medicine,2006,A5057231025,0000-0001-6217-8312,Q202152,1959-04-27,,andrew-z-fire,1
+Q271757,André Frédéric Cournand,1,Medicine,1956,A5108588998,,Q271757,1895-09-24,1988-02-19,andre-frederic-cournand,1
+Q223309,André Lwoff,1,Medicine,1965,A5046682441,,Q223309,1902-05-08,1994-09-30,andre-lwoff,1
+Q565544,Anne L’Huillier,1,Physics,2023,A5137020528,0000-0002-1335-4022,Q565544,1958-08-16,,anne-lhuillier,1
+Q192718,Anthony J. Leggett,1,Physics,2003,A5112509340,,Q192718,1938-03-26,2026-03-08,anthony-j-leggett,1
+Q41269,Antoine Henri Becquerel,1,Physics,1903,A5085786958,,Q41269,1852-12-15,1908-08-25,antoine-henri-becquerel,1
+Q78610,Anton Zeilinger,1,Physics,2022,A5001105113,0000-0002-6778-0887,Q78610,1945-05-20,,anton-zeilinger,1
+Q273219,Antonio Caetano de Abreu Freire Egas Moniz,1,Medicine,1949,A5090479084,,Q273219,1874-11-29,1955-12-13,antonio-caetano-de-abreu-freire-egas-moniz,1
+Q189990,Antony Hewish,1,Physics,1974,A5043581834,,Q189990,1924-05-11,2021-09-13,antony-hewish,1
+Q48977,Archer John Porter Martin,1,Chemistry,1952,A5076905510,,Q48977,1910-03-01,2002-07-28,archer-john-porter-martin,1
+Q155375,Archibald Vivian Hill,1,Medicine,1922,A5112089062,,Q155375,1886-09-26,1977-06-03,archibald-vivian-hill,1
+Q60322501,Ardem Patapoutian,1,Medicine,2021,A5066449841,0000-0003-0726-7034,Q60322501,1967,,ardem-patapoutian,1
+Q4790366,Arieh Warshel,1,Chemistry,2013,A5088665303,0000-0001-7971-5401,Q4790366,1940-11-20,,arieh-warshel,1
+Q233026,Arne Wilhelm Kaurin Tiselius,1,Chemistry,1948,A5020892563,,Q233026,1902-08-10,1971-10-29,arne-wilhelm-kaurin-tiselius,1
+Q172877,Arno Allan Penzias,1,Physics,1978,A5109860341,,Q172877,1933-04-26,2024-01-22,arno-allan-penzias,1
+Q708472,Arthur Ashkin,1,Physics,2018,A5045721355,,Q708472,1922-09-02,2020-09-21,arthur-ashkin,1
+Q710597,Arthur B. McDonald,1,Physics,2015,A5003241485,,Q710597,1943-08-29,,arthur-b-mcdonald,1
+Q189803,Arthur Harden,1,Chemistry,1929,A5113762277,,Q189803,1865-10-12,1940-06-17,arthur-harden,1
+Q127944,Arthur Holly Compton,1,Physics,1927,A5047440561,,Q127944,1892-09-10,1962-03-15,arthur-holly-compton,1
+Q295678,Arthur Kornberg,1,Medicine,1959,A5074009134,,Q295678,1918-03-03,2007-10-26,arthur-kornberg,1
+Q190503,Arthur Leonard Schawlow,1,Physics,1981,A5020129164,,Q190503,1921-05-05,1999-04-28,arthur-leonard-schawlow,1
+Q157239,Artturi Ilmari Virtanen,1,Chemistry,1945,A5103498219,,Q157239,1895-01-15,1973-11-11,artturi-ilmari-virtanen,1
+Q298045,Arvid Carlsson,1,Medicine,2000,A5110564232,,Q298045,1923-01-25,2018-06-29,arvid-carlsson,1
+Q232302,Avram Hershko,1,Chemistry,2004,A5035630459,,Q232302,1937-12-31,,avram-hershko,1
+Q156480,Axel Hugo Theodor Theorell,1,Medicine,1955,A5073804103,,Q156480,1903-07-06,1982-08-15,axel-hugo-theodor-theorell,1
+Q15118973,Aziz Sancar,1,Chemistry,2015,A5016678671,0000-0001-6469-4900,Q15118973,1946-09-08,,aziz-sancar,1
+Q199654,Barbara McClintock,1,Medicine,1983,A5029209905,,Q199654,1902-06-16,1992-09-02,barbara-mcclintock,1
+Q15900993,Barry C. Barish,1,Physics,2017,A5040898326,0000-0001-6386-7371,Q15900993,1936-01-27,,barry-c-barish,1
+Q202136,Barry J. Marshall,1,Medicine,2005,A5058569055,0000-0003-4853-5015,Q202136,1951-09-30,,barry-j-marshall,1
+Q105830,Baruch S. Blumberg,1,Medicine,1976,A5030590633,,Q105830,1925-07-28,2011-04-05,baruch-s-blumberg,1
+Q234701,Baruj Benacerraf,1,Medicine,1980,A5001497872,,Q234701,1920-10-29,2011-08-02,baruj-benacerraf,1
+Q107423,Ben Roy Mottelson,1,Physics,1975,A5129310364,,Q107423,1926-07-09,2022-05-13,ben-roy-mottelson,1
+Q295768,Bengt I. Samuelsson,1,Medicine,1982,A5112759205,0000-0003-2218-881X,Q295768,1934-05-21,2024-07-05,bengt-i-samuelsson,1
+Q105572,Benjamin List,1,Chemistry,2021,A5040055598,0000-0002-9804-599X,Q105572,1968-01-11,,benjamin-list,1
+Q3259614,Bernard L. Feringa,1,Chemistry,2016,A5138276000,0000-0003-0588-8435,Q3259614,1951-05-18,,bernard-l-feringa,1
+Q237160,Bernardo Alberto Houssay,1,Medicine,1947,A5112052280,,Q237160,1887-04-10,1971-09-21,bernardo-alberto-houssay,1
+Q77081,Bert Sakmann,1,Medicine,1991,A5082041058,,Q77081,1942-06-12,,bert-sakmann,1
+Q192689,Bertram N. Brockhouse,1,Physics,1994,A5039701235,,Q192689,1918-07-15,2003-10-13,bertram-n-brockhouse,1
+Q181363,Brian David Josephson,1,Physics,1973,A5101426062,0000-0001-9104-4700,Q181363,1940-01-04,,brian-david-josephson,1
+Q80907,Brian K. Kobilka,1,Chemistry,2012,A5079682203,0000-0001-5958-3990,Q80907,1955-05-30,,brian-k-kobilka,1
+Q201452,Brian P. Schmidt,1,Physics,2011,A5102850551,0000-0001-6589-1287,Q201452,1967-02-24,,brian-p-schmidt,1
+Q104592,Bruce A. Beutler,1,Medicine,2011,A5059140393,0000-0002-3639-246X,Q104592,1957-12-29,,bruce-a-beutler,1
+Q192106,Burton Richter,1,Physics,1976,A5111475116,,Q192106,1931-03-22,2018-07-18,burton-richter,1
+Q150630,Camillo Golgi,1,Medicine,1906,A5028941387,,Q150630,1843-07-07,1926-01-21,camillo-golgi,1
+Q76606,Carl Bosch,1,Chemistry,1931,A5088399320,,Q76606,1874-08-27,1940-04-26,carl-bosch,1
+Q169366,Carl David Anderson,1,Physics,1936,A5045167016,,Q169366,1905-09-03,1991-01-11,carl-david-anderson,1
+Q206379,Carl E. Wieman,1,Physics,2001,A5006656464,0000-0003-1449-9319,Q206379,1951-03-26,,carl-e-wieman,1
+Q78501,Carl Ferdinand Cori,1,Medicine,1947,A5108568908,,Q78501,1896-12-05,1984-10-20,carl-ferdinand-cori,1
+Q187199,Carlo Rubbia,1,Physics,1984,A5105889392,,Q187199,1934-03-31,,carlo-rubbia,1
+Q26322,Carol W. Greider,1,Medicine,2009,A5041730448,0000-0002-5494-8126,Q26322,1961-04-15,,carol-w-greider,1
+Q7442,Carolyn R. Bertozzi,1,Chemistry,2022,A5088409133,0000-0003-4482-2754,Q7442,1966-10-10,,carolyn-r-bertozzi,1
+Q178103,Cecil Frank Powell,1,Physics,1950,A5002865454,,Q178103,1903-12-05,1969-08-09,cecil-frank-powell,1
+Q155371,Charles Brenton Huggins,1,Medicine,1966,A5111513007,,Q155371,1901-09-22,1997-01-12,charles-brenton-huggins,1
+Q123026,Charles Edouard Guillaume,1,Physics,1920,A5111371325,,Q123026,1861-02-15,1938-06-13,charles-edouard-guillaume,1
+Q160522,Charles Glover Barkla,1,Physics,1917,A5023621480,,Q160522,1877-06-07,1944-10-23,charles-glover-barkla,1
+Q184566,Charles Hard Townes,1,Physics,1964,A5041614657,,Q184566,1915-07-28,2015-01-27,charles-hard-townes,1
+Q244998,Charles J. Pedersen,1,Chemistry,1987,A5063677220,,Q244998,1904-10-03,1989-10-26,charles-j-pedersen,1
+Q233965,Charles Jules Henri Nicolle,1,Medicine,1928,A5009354937,,Q233965,1866-09-21,1936-02-28,charles-jules-henri-nicolle,1
+Q16389,Charles Kuen Kao,1,Physics,2009,A5029955290,,Q16389,1933-11-04,2018-09-23,charles-kuen-kao,1
+Q189006,Charles Louis Alphonse Laveran,1,Medicine,1907,A5018889707,,Q189006,1845-06-18,1922-05-18,charles-louis-alphonse-laveran,1
+Q22669757,Charles M. Rice,1,Medicine,2020,A5019683467,0000-0003-3087-8079,Q22669757,1952-08-25,,charles-m-rice,1
+Q214851,Charles Robert Richet,1,Medicine,1913,A5018358489,,Q214851,1850-08-26,1935-12-04,charles-robert-richet,1
+Q162900,Charles Thomson Rees Wilson,1,Physics,1927,A5103532205,,Q162900,1869-02-14,1959-11-15,charles-thomson-rees-wilson,1
+Q181369,Chen Ning Yang,1,Physics,1957,A5101822713,0000-0002-3794-7543,Q181369,1922-09-22,2025-10-18,chen-ning-yang,1
+Q107609,Christiaan Eijkman,1,Medicine,1929,A5068473799,,Q107609,1858-08-11,1930-11-05,christiaan-eijkman,1
+Q102278,Christian B. Anfinsen,1,Chemistry,1972,A5111464295,,Q102278,1916-03-26,1995-05-14,christian-b-anfinsen,1
+Q234590,Christian de Duve,1,Medicine,1974,A5113448164,,Q234590,1917-10-02,2013-05-04,christian-de-duve,1
+Q77174,Christiane Nüsslein-Volhard,1,Medicine,1995,A5072765144,0000-0002-7688-1401,Q77174,1942-10-20,,christiane-nusslein-volhard,1
+Q190697,Claude Cohen-Tannoudji,1,Physics,1997,A5015209954,,Q190697,1933-04-01,,claude-cohen-tannoudji,1
+Q201506,Clifford G. Shull,1,Physics,1994,A5058128161,,Q201506,1915-09-23,2001-03-31,clifford-g-shull,1
+Q133222,Clinton Joseph Davisson,1,Physics,1937,A5088811775,,Q133222,1881-10-22,1958-02-01,clinton-joseph-davisson,1
+Q156482,Corneille Jean François Heymans,1,Medicine,1938,A5039587600,,Q156482,1892-03-28,1968-07-18,corneille-jean-francois-heymans,1
+Q206455,Craig C. Mello,1,Medicine,2006,A5029315886,0000-0001-9176-6551,Q206455,1960-10-19,,craig-c-mello,1
+Q155525,César Milstein,1,Medicine,1984,A5108412595,,Q155525,1927-10-08,2002-03-24,cesar-milstein,1
+Q108576,D. Carleton Gajdusek,1,Medicine,1976,A5111936437,,Q108576,1923-09-09,2008-12-12,d-carleton-gajdusek,1
+Q44111,Dan Shechtman,1,Chemistry,2011,A5112641125,,Q44111,1941-01-24,,dan-shechtman,1
+Q115448,Daniel Bovet,1,Medicine,1957,A5042775842,,Q115448,1907-03-23,1992-04-08,daniel-bovet,1
+Q202138,Daniel C. Tsui,1,Physics,1998,A5110862535,,Q202138,1939-02-28,,daniel-c-tsui,1
+Q295706,Daniel Nathans,1,Medicine,1978,A5046735421,,Q295706,1928-10-30,1999-11-16,daniel-nathans,1
+Q3814528,David Baker,1,Chemistry,2024,A5135542215,0000-0001-7896-6217,Q3814528,1962,,david-baker,1
+Q234949,David Baltimore,1,Medicine,1975,A5135320255,0000-0001-8723-8190,Q234949,1938-03-07,2025-09-06,david-baltimore,1
+Q295644,David H. Hubel,1,Medicine,1981,A5109168228,,Q295644,1926-02-27,2013-09-22,david-h-hubel,1
+Q40262,David J. Gross,1,Physics,2004,A5101843635,0000-0002-1485-7107,Q40262,1941-02-19,,david-j-gross,1
+Q726394,David J. Thouless,1,Physics,2016,A5110124079,,Q726394,1934-09-21,2019-04-06,david-j-thouless,1
+Q61045,David J. Wineland,1,Physics,2012,A5001536933,0000-0002-9770-5220,Q61045,1944-02-24,,david-j-wineland,1
+Q1174906,David Julius,1,Medicine,2021,A5014886042,0000-0002-6365-4867,Q1174906,1955-11-04,,david-julius,1
+Q201853,David M. Lee,1,Physics,1996,A5100841472,,Q201853,1931-01-20,,david-m-lee,1
+Q5237001,David W.C. MacMillan,1,Chemistry,2021,A5102868038,0000-0003-3352-4532,Q5237001,1968-03-16,,david-w-c-macmillan,1
+Q3022141,Demis Hassabis,1,Chemistry,2024,A5005349213,0000-0003-2812-9917,Q3022141,1976-07-27,,demis-hassabis,1
+Q155786,Dennis Gabor,1,Physics,1971,A5044944912,,Q155786,1900-06-05,1979-02-08,dennis-gabor,1
+Q102419,Derek H. R. Barton,1,Chemistry,1969,A5016045140,,Q102419,1918-09-08,1998-03-16,derek-h-r-barton,1
+Q312963,Dickinson W. Richards,1,Medicine,1956,A5003482340,,Q312963,1895-10-30,1973-02-23,dickinson-w-richards,1
+Q124013,Didier Queloz,1,Physics,2019,A5023914308,0000-0002-3012-0316,Q124013,1966-02-23,,didier-queloz,1
+Q80905,Donald Arthur Glaser,1,Physics,1960,A5079370543,,Q80905,1926-09-21,2013-02-28,donald-arthur-glaser,1
+Q135151,Donald J. Cram,1,Chemistry,1987,A5113579649,,Q135151,1919-04-22,2001-06-17,donald-j-cram,1
+Q56855591,Donna Strickland,1,Physics,2018,A5019063503,0000-0003-2925-5413,Q56855591,1959-05-27,,donna-strickland,1
+Q7487,Dorothy Crowfoot Hodgkin,1,Chemistry,1964,A5109169384,,Q7487,1910-05-12,1994-07-29,dorothy-crowfoot-hodgkin,1
+Q206405,Douglas D. Osheroff,1,Physics,1996,A5023092855,,Q206405,1945-08-01,,douglas-d-osheroff,1
+Q88608402,Drew Weissman,1,Medicine,2023,A5068253145,0000-0002-1501-6510,Q88608402,1959-09-07,,drew-weissman,1
+Q243196,Dudley R. Herschbach,1,Chemistry,1986,A5000346379,0000-0003-3225-0648,Q243196,1932-06-18,,dudley-r-herschbach,1
+Q310485,E. Donnall Thomas,1,Medicine,1990,A5077135046,,Q310485,1920-03-15,2012-10-20,e-donnall-thomas,1
+Q68118,Earl Wilbur Sutherland,1,Medicine,1971,A5112711352,,Q68118,1915-11-19,1974-03-09,earl-wilbur-sutherland,1
+Q231292,Edgar Douglas Adrian,1,Medicine,1932,A5051584702,,Q231292,1889-11-30,1977-08-08,edgar-douglas-adrian,1
+Q109726,Edmond H. Fischer,1,Medicine,1992,A5038922448,,Q109726,1920-04-06,2021-08-27,edmond-h-fischer,1
+Q43917,Eduard Buchner,1,Chemistry,1907,A5110023642,,Q43917,1860-05-20,1917-08-13,eduard-buchner,1
+Q5341373,Edvard I. Moser,1,Medicine,2014,A5086289649,0000-0003-0226-5566,Q5341373,1962-04-27,,edvard-i-moser,1
+Q230612,Edward Adelbert Doisy,1,Medicine,1943,A5111368343,,Q230612,1893-11-13,1986-10-23,edward-adelbert-doisy,1
+Q274123,Edward B. Lewis,1,Medicine,1995,A5112790416,,Q274123,1918-05-20,2004-07-21,edward-b-lewis,1
+Q110101,Edward Calvin Kendall,1,Medicine,1950,A5103333722,,Q110101,1886-03-08,1972-05-04,edward-calvin-kendall,1
+Q237499,Edward Lawrie Tatum,1,Medicine,1958,A5063122237,,Q237499,1909-12-14,1975-11-05,edward-lawrie-tatum,1
+Q183270,Edward Mills Purcell,1,Physics,1952,A5084516018,,Q183270,1912-08-30,1997-03-07,edward-mills-purcell,1
+Q109731,Edwin G. Krebs,1,Medicine,1992,A5110020206,,Q109731,1918-06-06,2009-12-21,edwin-g-krebs,1
+Q19009,Edwin Mattison McMillan,1,Chemistry,1951,A5108662232,,Q19009,1907-09-18,1991-09-07,edwin-mattison-mcmillan,1
+Q105927,Ei-ichi Negishi,1,Chemistry,2010,A5049086283,0000-0002-5746-5779,Q105927,1935-07-14,2021-06-06,ei-ichi-negishi,1
+Q135171,Elias James Corey,1,Chemistry,1990,A5062182194,0000-0002-1196-7896,Q135171,1928-07-12,,elias-james-corey,1
+Q26321,Elizabeth H. Blackburn,1,Medicine,2009,A5064437582,0000-0002-4885-0544,Q26321,1948-11-26,,elizabeth-h-blackburn,1
+Q76425,Emil Adolf von Behring,1,Medicine,1901,A5078999781,,Q76425,1854-03-15,1917-03-31,emil-adolf-von-behring,1
+Q115478,Emil Theodor Kocher,1,Medicine,1909,A5076163925,,Q115478,1841-08-25,1917-07-27,emil-theodor-kocher,1
+Q173028,Emilio Gino Segrè,1,Physics,1959,A5029816247,,Q173028,1905-02-01,1989-04-22,emilio-gino-segre,1
+Q17280087,Emmanuelle Charpentier,1,Chemistry,2020,A5074743574,0000-0002-0254-0778,Q17280087,1968-12-11,,emmanuelle-charpentier,1
+Q8753,Enrico Fermi,1,Physics,1938,A5053459131,,Q8753,1901-09-29,1954-11-28,enrico-fermi,1
+Q205954,Eric A. Cornell,1,Physics,2001,A5004950660,0009-0004-8034-9057,Q205954,1961-12-19,,eric-a-cornell,1
+Q1351105,Eric Betzig,1,Chemistry,2014,A5048568518,0000-0002-4192-1274,Q1351105,1960-01-13,,eric-betzig,1
+Q301438,Eric F. Wieschaus,1,Medicine,1995,A5083154783,0000-0002-0727-3349,Q301438,1947-06-08,,eric-f-wieschaus,1
+Q155529,Eric R. Kandel,1,Medicine,2000,A5034071817,0000-0001-7851-6902,Q155529,1929-11-07,,eric-r-kandel,1
+Q169577,Ernest Orlando Lawrence,1,Physics,1939,A5111854489,,Q169577,1901-08-08,1958-08-27,ernest-orlando-lawrence,1
+Q9123,Ernest Rutherford,1,Chemistry,1908,A5113946075,,Q9123,1871-08-30,1937-10-19,ernest-rutherford,1
+Q183631,Ernest Thomas Sinton Walton,1,Physics,1951,A5080894409,,Q183631,1903-10-06,1995-06-25,ernest-thomas-sinton-walton,1
+Q58054,Ernst Boris Chain,1,Medicine,1945,A5108629317,,Q58054,1906-06-19,1979-08-12,ernst-boris-chain,1
+Q44594,Ernst Otto Fischer,1,Chemistry,1973,A5112083926,,Q44594,1918-11-10,2007-07-23,ernst-otto-fischer,1
+Q71022,Ernst Ruska,1,Physics,1986,A5078172315,,Q71022,1906-12-25,1988-05-27,ernst-ruska,1
+Q77126,Erwin Neher,1,Medicine,1991,A5027089376,0000-0002-9758-7922,Q77126,1944-03-20,,erwin-neher,1
+Q9130,Erwin Schrödinger,1,Physics,1933,A5001002446,,Q9130,1887-08-12,1961-01-04,erwin-schrodinger,1
+Q155790,Eugene Paul Wigner,1,Physics,1963,A5006868097,,Q155790,1902-11-17,1995-01-01,eugene-paul-wigner,1
+Q1002250,F. Duncan M. Haldane,1,Physics,2016,A5089213304,0000-0001-6420-9549,Q1002250,1951-09-14,,f-duncan-m-haldane,1
+Q111190,F. Sherwood Rowland,1,Chemistry,1995,A5112419224,,Q111190,1927-06-28,2012-03-10,f-sherwood-rowland,1
+Q123022,Felix Bloch,1,Physics,1952,A5110098200,,Q123022,1905-10-23,1983-09-10,felix-bloch,1
+Q44597,Feodor Lynen,1,Medicine,1964,A5107094688,,Q44597,1911-04-06,1979-08-06,feodor-lynen,1
+Q86970,Ferenc Krausz,1,Physics,2023,A5049801219,0000-0002-6525-9449,Q86970,1962-05-17,,ferenc-krausz,1
+Q295999,Ferid Murad,1,Medicine,1998,A5113484200,,Q295999,1936-09-14,2023-09-04,ferid-murad,1
+Q4273363,Frances H. Arnold,1,Chemistry,2018,A5043841592,0000-0002-4027-364X,Q4273363,1956-07-25,,frances-h-arnold,1
+Q123280,Francis Harry Compton Crick,1,Medicine,1962,A5109884453,,Q123280,1916-06-08,2004-07-28,francis-harry-compton-crick,1
+Q102291,Francis William Aston,1,Chemistry,1922,A5090137942,,Q102291,1877-09-01,1945-11-20,francis-william-aston,1
+Q193550,Frank Macfarlane Burnet,1,Medicine,1960,A5109855464,,Q193550,1899-09-03,1985-08-31,frank-macfarlane-burnet,1
+Q107450,Frank Wilczek,1,Physics,2004,A5091196459,0000-0002-6489-6155,Q107450,1951-05-15,,frank-wilczek,1
+Q151746,François Englert,1,Physics,2013,A5109059719,,Q151746,1932-11-06,2026-06-18,francois-englert,1
+Q218311,François Jacob,1,Medicine,1965,A5108348962,0000-0002-1006-4871,Q218311,1920-06-17,2013-04-19,francois-jacob,1
+Q103844,Françoise Barré-Sinoussi,1,Medicine,2008,A5107827488,,Q103844,1947-07-30,,francoise-barre-sinoussi,1
+Q309885,Frederick Chapman Robbins,1,Medicine,1954,A5065034781,,Q309885,1916-08-25,2003-08-04,frederick-chapman-robbins,1
+Q180350,Frederick Grant Banting,1,Medicine,1923,A5141664781,,Q180350,1891-11-14,1941-02-21,frederick-grant-banting,1
+Q28212107,Frederick J. Ramsdell,1,Medicine,2025,A5050752577,,Q28212107,1960-12-04,,frederick-j-ramsdell,1
+Q191922,Frederick Reines,1,Physics,1995,A5072325608,,Q191922,1918-03-16,1998-08-26,frederick-reines,1
+Q102830,Frederick Soddy,1,Chemistry,1921,A5053765594,,Q102830,1877-09-02,1956-09-22,frederick-soddy,1
+Q76614,Friedrich Bergius,1,Chemistry,1931,A5063574367,,Q76614,1884-10-11,1949-03-30,friedrich-bergius,1
+Q188293,Frits Zernike,1,Physics,1953,A5067247920,,Q188293,1888-07-16,1966-03-10,frits-zernike,1
+Q77104,Fritz Albert Lipmann,1,Medicine,1953,A5075443787,,Q77104,1899-06-12,1986-07-24,fritz-albert-lipmann,1
+Q57075,Fritz Haber,1,Chemistry,1918,A5066846491,,Q57075,1868-12-09,1934-01-29,fritz-haber,1
+Q78482,Fritz Pregl,1,Chemistry,1923,A5112197388,,Q78482,1869-09-03,1930-12-13,fritz-pregl,1
+Q150989,Frédéric Joliot,1,Chemistry,1935,A5067500746,,Q150989,1900-03-19,1958-08-14,frederic-joliot,1
+Q133232,Gabriel Lippmann,1,Physics,1908,A5141734328,,Q133232,1845-08-16,1921-07-13,gabriel-lippmann,1
+Q504021,Gary Ruvkun,1,Medicine,2024,A5066998461,0000-0002-7473-8484,Q504021,1952,,gary-ruvkun,1
+Q92894,Geoffrey Hinton,1,Physics,2024,A5108093963,,Q92894,1947-12-06,,geoffrey-hinton,1
+Q274128,Geoffrey Wilkinson,1,Chemistry,1973,A5107195870,,Q274128,1921-07-14,1996-09-26,geoffrey-wilkinson,1
+Q77171,Georg Wittig,1,Chemistry,1979,A5086359715,,Q77171,1897-06-16,1987-08-26,georg-wittig,1
+Q238716,Georg von Békésy,1,Medicine,1961,A5002557532,,Q238716,1899-06-03,1972-06-13,georg-von-bekesy,1
+Q192603,George A. Olah,1,Chemistry,1994,A5071446330,0000-0002-1788-9753,Q192603,1927-05-22,2017-03-08,george-a-olah,1
+Q295666,George D. Snell,1,Medicine,1980,A5082173129,,Q295666,1903-12-19,1996-06-06,george-d-snell,1
+Q219718,George E. Palade,1,Medicine,1974,A5113604582,,Q219718,1912-11-19,2008-10-07,george-e-palade,1
+Q76373,George E. Smith,1,Physics,2009,A5048212308,,Q76373,1930-05-10,2025-05-28,george-e-smith,1
+Q179572,George F. Smoot,1,Physics,2006,A5106522067,0000-0001-7575-0816,Q179572,1945-02-20,2025-09-18,george-f-smoot,1
+Q310487,George H. Hitchings,1,Medicine,1988,A5044855710,,Q310487,1905-04-18,1998-02-27,george-h-hitchings,1
+Q273238,George Hoyt Whipple,1,Medicine,1934,A5045033585,,Q273238,1878-08-28,1976-02-01,george-hoyt-whipple,1
+Q56868017,George P. Smith,1,Chemistry,2018,A5048212308,0000-0002-8085-0886,Q56868017,1941-03-10,,george-p-smith,1
+Q133846,George Paget Thomson,1,Physics,1937,A5113975792,,Q133846,1892-05-03,1975-09-10,george-paget-thomson,1
+Q106762,George Porter,1,Chemistry,1967,A5082600490,0000-0001-5267-2843,Q106762,1920-12-06,2002-08-31,george-porter,1
+Q245000,George Richards Minot,1,Medicine,1934,A5113268786,,Q245000,1885-12-02,1950-02-25,george-richards-minot,1
+Q295724,George Wald,1,Medicine,1967,A5063158693,,Q295724,1906-11-18,1997-04-12,george-wald,1
+Q238739,George Wells Beadle,1,Medicine,1958,A5052135945,,Q238739,1903-10-22,1989-06-09,george-wells-beadle,1
+Q76951,George de Hevesy,1,Chemistry,1943,A5113661650,,Q76951,1885-08-01,1966-07-05,george-de-hevesy,1
+Q153178,Georges Charpak,1,Physics,1992,A5003649130,,Q153178,1924-08-01,2010-09-29,georges-charpak,1
+Q77160,Georges J. F. Köhler,1,Medicine,1984,A5005525178,,Q77160,1946-04-17,1995-03-01,georges-j-f-kohler,1
+Q271766,Gerald M. Edelman,1,Medicine,1972,A5111917213,,Q271766,1929-07-01,2014-05-17,gerald-m-edelman,1
+Q184592,Gerardus 't Hooft,1,Physics,1999,A5059474142,0000-0002-5405-5504,Q184592,1946-07-05,,gerardus-t-hooft,1
+Q76766,Gerd Binnig,1,Physics,1986,A5071169826,,Q76766,1947-07-20,,gerd-binnig,1
+Q57192,Gerhard Domagk,1,Medicine,1939,A5108393610,,Q57192,1895-10-30,1964-04-24,gerhard-domagk,1
+Q60066,Gerhard Ertl,1,Chemistry,2007,A5010170160,0000-0001-7172-2797,Q60066,1936-10-10,,gerhard-ertl,1
+Q76602,Gerhard Herzberg,1,Chemistry,1971,A5049036967,,Q76602,1904-12-25,1999-03-03,gerhard-herzberg,1
+Q35703,Gertrude B. Elion,1,Medicine,1988,A5012121429,,Q35703,1918-01-23,1999-02-21,gertrude-b-elion,1
+Q204733,"Gerty Theresa Cori, née Radnitz",1,Medicine,1947,A5003134752,,Q204733,1896-08-15,1957-10-26,gerty-theresa-cori-nee-radnitz,1
+Q1235614,Giorgio Parisi,1,Physics,2021,A5052777339,0000-0001-6500-5222,Q1235614,1948-08-04,,giorgio-parisi,1
+Q234145,Giulio Natta,1,Chemistry,1963,A5004409289,,Q234145,1903-02-26,1979-05-02,giulio-natta,1
+Q48973,Glenn Theodore Seaborg,1,Chemistry,1951,A5129801973,,Q48973,1912-04-19,1999-02-25,glenn-theodore-seaborg,1
+Q273769,Godfrey N. Hounsfield,1,Medicine,1979,A5108463138,,Q273769,1919-08-28,2004-08-12,godfrey-n-hounsfield,1
+Q1545025,Gregg L. Semenza,1,Medicine,2019,A5051276665,0000-0002-0913-211X,Q1545025,1956-07-12,,gregg-l-semenza,1
+Q1545000,Gregory P. Winter,1,Chemistry,2018,A5113550627,0000-0003-0183-3859,Q1545000,1951-04-14,,gregory-p-winter,1
+Q36488,Guglielmo Marconi,1,Physics,1909,A5030327443,,Q36488,1874-04-25,1937-07-20,guglielmo-marconi,1
+Q57070,Gustav Ludwig Hertz,1,Physics,1925,A5141420213,,Q57070,1887-07-22,1975-10-30,gustav-ludwig-hertz,1
+Q556543,Gérard Mourou,1,Physics,2018,A5057252770,,Q556543,1944-06-22,,gerard-mourou,1
+Q60108,Günter Blobel,1,Medicine,1999,A5081060821,0000-0002-7839-8341,Q60108,1936-05-21,2018-02-18,gunter-blobel,1
+Q107407,H. David Politzer,1,Physics,2004,A5032993578,,Q107407,1949-08-31,,h-david-politzer,1
+Q295659,H. Robert Horvitz,1,Medicine,2002,A5075093223,0000-0002-9964-9613,Q295659,1947-05-08,,h-robert-horvitz,1
+Q309879,Haldan Keffer Hartline,1,Medicine,1967,A5006716330,,Q309879,1903-12-22,1983-03-17,haldan-keffer-hartline,1
+Q108896,Hamilton O. Smith,1,Medicine,1978,A5076771387,,Q108896,1931-08-23,2025-10-25,hamilton-o-smith,1
+Q54945,Hannes Olof Gösta Alfvén,1,Physics,1970,A5110126522,,Q54945,1908-05-30,1995-04-02,hannes-olof-gosta-alfven,1
+Q57191,Hans Adolf Krebs,1,Medicine,1953,A5113454028,,Q57191,1900-08-25,1981-11-22,hans-adolf-krebs,1
+Q155794,Hans Albrecht Bethe,1,Physics,1967,A5075738642,,Q155794,1906-07-02,2005-03-06,hans-albrecht-bethe,1
+Q76604,Hans Fischer,1,Chemistry,1930,A5111485167,,Q76604,1881-07-27,1945-03-31,hans-fischer,1
+Q70532,Hans G. Dehmelt,1,Physics,1989,A5054282961,,Q70532,1922-09-09,2017-03-07,hans-g-dehmelt,1
+Q76613,Hans Karl August Simon von Euler-Chelpin,1,Chemistry,1929,A5050670031,,Q76613,1873-02-15,1964-11-06,hans-karl-august-simon-von-euler-chelpin,1
+Q57568,Hans Spemann,1,Medicine,1935,A5021930742,,Q57568,1869-06-27,1941-09-12,hans-spemann,1
+Q107462,Har Gobind Khorana,1,Medicine,1968,A5016516519,,Q107462,1922-01-09,2011-11-09,har-gobind-khorana,1
+Q75847,Harald zur Hausen,1,Medicine,2008,A5076220155,0000-0003-1103-0347,Q75847,1936-03-11,2023-05-28,harald-zur-hausen,1
+Q179777,Harold Clayton Urey,1,Chemistry,1934,A5089754331,,Q179777,1893-04-29,1981-01-05,harold-clayton-urey,1
+Q295691,Harold E. Varmus,1,Medicine,1989,A5023586836,0000-0002-6444-1943,Q295691,1939-12-18,,harold-e-varmus,1
+Q77086,Hartmut Michel,1,Chemistry,1988,A5065696174,0000-0003-4351-7846,Q77086,1948-07-18,,hartmut-michel,1
+Q5677307,Harvey J. Alter,1,Medicine,2020,A5105717171,,Q5677307,1935-09-12,,harvey-j-alter,1
+Q62891,Heike Kamerlingh Onnes,1,Physics,1913,A5058521007,,Q62891,1853-09-21,1926-02-21,heike-kamerlingh-onnes,1
+Q76610,Heinrich Otto Wieland,1,Chemistry,1927,A5085975174,,Q76610,1877-06-04,1957-08-05,heinrich-otto-wieland,1
+Q123029,Heinrich Rohrer,1,Physics,1986,A5108397582,,Q123029,1933-06-06,2013-05-16,heinrich-rohrer,1
+Q41688,Hendrik Antoon Lorentz,1,Physics,1902,A5112216175,,Q41688,1853-07-18,1928-02-04,hendrik-antoon-lorentz,1
+Q102804,Henri Moissan,1,Chemistry,1906,A5076091880,,Q102804,1852-09-28,1907-02-20,henri-moissan,1
+Q190501,Henrik Carl Peter Dam,1,Medicine,1943,A5030633672,,Q190501,1895-02-21,1976-04-17,henrik-carl-peter-dam,1
+Q235983,Henry Taube,1,Chemistry,1983,A5090797597,,Q235983,1915-11-30,2005-11-16,henry-taube,1
+Q190495,Henry W. Kendall,1,Physics,1990,A5020205138,,Q190495,1926-12-09,1999-02-15,henry-w-kendall,1
+Q107422,Herbert A. Hauptman,1,Chemistry,1985,A5084474101,,Q107422,1917-02-14,2011-10-23,herbert-a-hauptman,1
+Q102406,Herbert C. Brown,1,Chemistry,1979,A5113728728,,Q102406,1912-05-22,2004-12-19,herbert-c-brown,1
+Q71016,Herbert Kroemer,1,Physics,2000,A5055558095,,Q71016,1928-08-25,2024-03-08,herbert-kroemer,1
+Q273201,Herbert Spencer Gasser,1,Medicine,1944,A5006416610,,Q273201,1888-07-05,1963-05-11,herbert-spencer-gasser,1
+Q70554,Hermann Emil Fischer,1,Chemistry,1902,A5056929612,,Q70554,1852-10-09,1919-07-15,hermann-emil-fischer,1
+Q83598,Hermann Joseph Muller,1,Medicine,1946,A5109951871,,Q83598,1890-12-21,1967-04-05,hermann-joseph-muller,1
+Q48956,Hermann Staudinger,1,Chemistry,1953,A5109985870,,Q48956,1881-03-23,1965-09-08,hermann-staudinger,1
+Q110916,Hideki Shirakawa,1,Chemistry,2000,A5113680723,,Q110916,1936-08-20,,hideki-shirakawa,1
+Q155777,Hideki Yukawa,1,Physics,1949,A5110090983,,Q155777,1907-01-23,1981-09-08,hideki-yukawa,1
+Q11443689,Hiroshi Amano,1,Physics,2014,A5048399593,0000-0002-7598-2593,Q11443689,1960-09-11,,hiroshi-amano,1
+Q71015,Horst L. Störmer,1,Physics,1998,A5111474378,,Q71015,1949-04-06,,horst-l-stormer,1
+Q243536,Howard Martin Temin,1,Medicine,1975,A5111998828,,Q243536,1934-12-10,1994-02-09,howard-martin-temin,1
+Q155759,Igor Yevgenyevich Tamm,1,Physics,1958,A5033389221,,Q155759,1895-07-08,1971-04-12,igor-yevgenyevich-tamm,1
+Q172254,Ilya Ilyich Mechnikov,1,Medicine,1908,A5059954113,,Q172254,1845-05-15,1916-07-15,ilya-ilyich-mechnikov,1
+Q183509,Ilya Prigogine,1,Chemistry,1977,A5034255098,,Q183509,1917-01-25,2003-05-28,ilya-prigogine,1
+Q192703,Il´ja Mikhailovich Frank,1,Physics,1958,A5049807778,,Q192703,1908-10-23,1990-06-22,il-ja-mikhailovich-frank,1
+Q184286,Irving Langmuir,1,Chemistry,1932,A5112358123,,Q184286,1881-01-31,1957-08-16,irving-langmuir,1
+Q230652,Irwin Rose,1,Chemistry,2004,A5027088821,,Q230652,1926-07-16,2015-06-03,irwin-rose,1
+Q7504,Irène Joliot-Curie,1,Chemistry,1935,A5036145844,,Q7504,1897-09-12,1956-03-17,irene-joliot-curie,1
+Q1673706,Isamu Akasaki,1,Physics,2014,A5081597179,,Q1673706,1929-01-30,2021-04-01,isamu-akasaki,1
+Q165969,Isidor Isaac Rabi,1,Physics,1944,A5068549714,,Q165969,1898-07-29,1988-01-11,isidor-isaac-rabi,1
+Q42985,Ivan Petrovich Pavlov,1,Medicine,1904,A5027265834,,Q42985,1849-09-14,1936-02-27,ivan-petrovich-pavlov,1
+Q192688,Ivar Giaever,1,Physics,1973,A5074066171,,Q192688,1929-04-05,2025-06-20,ivar-giaever,1
+Q76687,J. Georg Bednorz,1,Physics,1987,A5112801181,,Q76687,1950-05-16,,j-georg-bednorz,1
+Q76797,J. Hans D. Jensen,1,Physics,1963,A5033192767,,Q76797,1907-06-25,1973-02-11,j-hans-d-jensen,1
+Q311358,J. Michael Bishop,1,Medicine,1989,A5089138950,,Q311358,1936-02-22,2026-03-20,j-michael-bishop,1
+Q1700920,J. Michael Kosterlitz,1,Physics,2016,A5057254153,0000-0002-2608-6952,Q1700920,1943-06-22,,j-michael-kosterlitz,1
+Q208670,J. Robin Warren,1,Medicine,2005,A5103471926,,Q208670,1937-06-11,2024-07-23,j-robin-warren,1
+Q182031,Jack S. Kilby,1,Physics,2000,A5025589417,,Q182031,1923-11-08,2005-06-20,jack-s-kilby,1
+Q153210,Jack Steinberger,1,Physics,1988,A5110517027,,Q153210,1921-05-25,2020-12-12,jack-steinberger,1
+Q104600,Jack W. Szostak,1,Medicine,2009,A5023274897,0000-0003-4131-1203,Q104600,1952-11-09,,jack-w-szostak,1
+Q102822,Jacobus Henricus van 't Hoff,1,Chemistry,1901,A5012710873,,Q102822,1852-08-30,1911-03-01,jacobus-henricus-van-t-hoff,1
+Q41585344,Jacques Dubochet,1,Chemistry,2017,A5008622925,0000-0002-9159-7361,Q41585344,1942-06-08,,jacques-dubochet,1
+Q231402,Jacques Monod,1,Medicine,1965,A5057454601,,Q231402,1910-02-09,1976-05-31,jacques-monod,1
+Q106756,James Batcheller Sumner,1,Chemistry,1946,A5013711522,,Q106756,1887-11-19,1955-08-12,james-batcheller-sumner,1
+Q80884,James Chadwick,1,Physics,1935,A5042900711,0000-0003-4456-0117,Q80884,1891-10-20,1974-07-24,james-chadwick,1
+Q83333,James Dewey Watson,1,Medicine,1962,A5101495056,0009-0009-1659-3238,Q83333,1928-04-06,2025-11-06,james-dewey-watson,1
+Q444270,James E. Rothman,1,Medicine,2013,A5101629940,0000-0003-4822-4161,Q444270,1950-11-03,,james-e-rothman,1
+Q57066,James Franck,1,Physics,1925,A5111730510,,Q57066,1882-08-26,1964-05-21,james-franck,1
+Q6140731,James P. Allison,1,Medicine,2018,A5047117233,0000-0001-8980-5697,Q6140731,1948-08-07,,james-p-allison,1
+Q728331,James Peebles,1,Physics,2019,A5043531064,,Q728331,1935-04-25,,james-peebles,1
+Q110974,James W. Black,1,Medicine,1988,A5110411584,,Q110974,1924-06-14,2010-03-21,james-w-black,1
+Q193496,James Watson Cronin,1,Physics,1980,A5030051084,,Q193496,1931-09-29,2016-08-25,james-watson-cronin,1
+Q157701,Jaroslav Heyrovsky,1,Chemistry,1959,A5006208227,,Q157701,1890-12-20,1967-03-27,jaroslav-heyrovsky,1
+Q134085,Jean Baptiste Perrin,1,Physics,1926,A5142556382,,Q134085,1870-09-30,1942-04-17,jean-baptiste-perrin,1
+Q152760,Jean Dausset,1,Medicine,1980,A5111852671,,Q152760,1916-10-19,2009-06-06,jean-dausset,1
+Q107690,Jean-Marie Lehn,1,Chemistry,1987,A5136384454,0000-0001-8981-4593,Q107690,1939-09-30,,jean-marie-lehn,1
+Q3169751,Jean-Pierre Sauvage,1,Chemistry,2016,A5108401018,,Q3169751,1944-10-21,,jean-pierre-sauvage,1
+Q1686435,Jeffrey C. Hall,1,Medicine,2017,A5111697256,,Q1686435,1945-05-03,,jeffrey-c-hall,1
+Q56068,Jennifer A. Doudna,1,Chemistry,2020,A5138164644,0000-0001-9161-999X,Q56068,1964-02-19,,jennifer-a-doudna,1
+Q1687170,Jens C. Skou,1,Chemistry,1997,A5110862710,,Q1687170,1918-10-08,2018-05-28,jens-c-skou,1
+Q187822,Jerome I. Friedman,1,Physics,1990,A5108251783,,Q187822,1930-03-28,,jerome-i-friedman,1
+Q106733,Jerome Karle,1,Chemistry,1985,A5112270334,,Q106733,1918-06-18,2013-06-06,jerome-karle,1
+Q28833112,Joachim Frank,1,Chemistry,2017,A5042892654,0000-0001-5449-6943,Q28833112,1940-09-12,,joachim-frank,1
+Q76612,Johann Deisenhofer,1,Chemistry,1988,A5033642634,0000-0003-1006-1344,Q76612,1943-09-30,,johann-deisenhofer,1
+Q57078,Johann Friedrich Wilhelm Adolf von Baeyer,1,Chemistry,1905,A5109983401,,Q57078,1835-10-31,1917-08-20,johann-friedrich-wilhelm-adolf-von-baeyer,1
+Q216324,Johannes Andreas Grib Fibiger,1,Medicine,1926,A5084229158,,Q216324,1867-04-23,1928-01-30,johannes-andreas-grib-fibiger,1
+Q131721,Johannes Diderik van der Waals,1,Physics,1910,A5026360614,,Q131721,1837-11-23,1923-03-08,johannes-diderik-van-der-waals,1
+Q57092,Johannes Stark,1,Physics,1919,A5044638494,0000-0002-3526-911X,Q57092,1874-04-15,1957-06-21,johannes-stark,1
+Q233973,John A. Pople,1,Chemistry,1998,A5038387078,,Q233973,1925-10-31,2004-03-15,john-a-pople,1
+Q106738,John B. Fenn,1,Chemistry,2002,A5041577693,,Q106738,1917-06-15,2010-12-10,john-b-fenn,1
+Q906529,John B. Goodenough,1,Chemistry,2019,A5088016695,0000-0001-9350-3034,Q906529,1922-07-25,2023-06-25,john-b-goodenough,1
+Q81218,John B. Gurdon,1,Medicine,2012,A5059632675,0000-0002-5621-3799,Q81218,1933-10-02,2025-10-07,john-b-gurdon,1
+Q104651,John C. Mather,1,Physics,2006,A5105469517,0000-0002-6460-0078,Q104651,1946-08-07,,john-c-mather,1
+Q237825,John C. Polanyi,1,Chemistry,1986,A5027531932,0000-0002-4401-7758,Q237825,1929-01-23,,john-c-polanyi,1
+Q1038391,John Clarke,1,Physics,2025,A5010797318,0000-0001-6402-7841,Q1038391,1942,,john-clarke,1
+Q232295,John Cowdery Kendrew,1,Chemistry,1962,A5051150473,,Q232295,1917-03-24,1997-08-23,john-cowdery-kendrew,1
+Q271532,John E. Sulston,1,Medicine,2002,A5018043809,,Q271532,1942-03-27,2018-03-06,john-e-sulston,1
+Q235184,John E. Walker,1,Chemistry,1997,A5007387177,0000-0001-7929-2162,Q235184,1941-01-07,,john-e-walker,1
+Q1365270,John F. Clauser,1,Physics,2022,A5084511570,,Q1365270,1942-12-01,,john-f-clauser,1
+Q312961,John Franklin Enders,1,Medicine,1954,A5103579514,,Q312961,1897-02-10,1985-09-08,john-franklin-enders,1
+Q193655,John Hasbrouck van Vleck,1,Physics,1977,A5039188573,,Q193655,1899-03-13,1980-10-27,john-hasbrouck-van-vleck,1
+Q106399,John Howard Northrop,1,Chemistry,1946,A5041451813,,Q106399,1891-07-05,1987-05-27,john-howard-northrop,1
+Q391237,John J. Hopfield,1,Physics,2024,A5001584643,,Q391237,1933-07-15,,john-j-hopfield,1
+Q232024,John James Rickard Macleod,1,Medicine,1923,A5103633627,,Q232024,1876-09-06,1935-03-16,john-james-rickard-macleod,1
+Q206390,John L. Hall,1,Physics,2005,A5009444030,0000-0001-6137-8945,Q206390,1934-08-21,,john-l-hall,1
+Q89620738,John M. Jumper,1,Chemistry,2024,A5059179935,0000-0001-6169-6580,Q89620738,1985,,john-m-jumper,1
+Q28976188,John M. Martinis,1,Physics,2025,A5025871595,0000-0003-1399-2566,Q28976188,1958,,john-m-martinis,1
+Q1701279,John O'Keefe,1,Medicine,2014,A5053583655,0000-0001-5697-4881,Q1701279,1939-11-18,,john-o-keefe,1
+Q309971,John R. Vane,1,Medicine,1982,A5059382959,,Q309971,1927-03-29,2004-11-19,john-r-vane,1
+Q153201,John Robert Schrieffer,1,Physics,1972,A5065234398,,Q153201,1931-05-31,2019-07-27,john-robert-schrieffer,1
+Q135154,John Warcup Cornforth,1,Chemistry,1975,A5079161700,,Q135154,1917-09-07,2013-12-08,john-warcup-cornforth,1
+Q192282,Joseph E. Murray,1,Medicine,1990,A5103688689,,Q192282,1919-04-01,2012-11-26,joseph-e-murray,1
+Q243532,Joseph Erlanger,1,Medicine,1944,A5016962982,,Q243532,1874-01-05,1965-12-05,joseph-erlanger,1
+Q192685,Joseph H. Taylor Jr.,1,Physics,1993,A5112769462,,Q192685,1941-03-29,,joseph-h-taylor-jr,1
+Q47285,Joseph John Thomson,1,Physics,1906,A5109162332,,Q47285,1856-12-18,1940-08-30,joseph-john-thomson,1
+Q271424,Joseph L. Goldstein,1,Medicine,1985,A5058164552,0000-0002-1894-9463,Q271424,1940-04-18,,joseph-l-goldstein,1
+Q218823,Joshua Lederberg,1,Medicine,1958,A5060761413,,Q218823,1925-05-23,2008-02-02,joshua-lederberg,1
+Q105605,Jules A. Hoffmann,1,Medicine,2011,A5109919304,0000-0001-7286-1967,Q105605,1941-08-02,,jules-a-hoffmann,1
+Q211787,Jules Bordet,1,Medicine,1919,A5109263654,,Q211787,1870-06-13,1961-04-06,jules-bordet,1
+Q186465,Julian Schwinger,1,Physics,1965,A5088438810,,Q186465,1918-02-12,1994-07-16,julian-schwinger,1
+Q110106,Julius Axelrod,1,Medicine,1970,A5103384109,,Q110106,1912-05-30,2004-12-29,julius-axelrod,1
+Q78479,Julius Wagner-Jauregg,1,Medicine,1927,A5021858981,,Q78479,1857-03-07,1940-09-27,julius-wagner-jauregg,1
+Q122298,K. Alexander Müller,1,Physics,1987,A5025810793,,Q122298,1927-04-20,2023-01-09,k-alexander-muller,1
+Q192712,Kai M. Siegbahn,1,Physics,1981,A5017996890,,Q192712,1918-04-20,2007-07-20,kai-m-siegbahn,1
+Q57077,Karl Ferdinand Braun,1,Physics,1909,A5029699763,,Q57077,1850-06-06,1918-04-20,karl-ferdinand-braun,1
+Q84405,Karl Landsteiner,1,Medicine,1930,A5015297458,0000-0003-4583-4511,Q84405,1868-06-14,1943-06-26,karl-landsteiner,1
+Q170741,Karl Manne Georg Siegbahn,1,Physics,1924,A5111992777,,Q170741,1886-12-03,1978-09-26,karl-manne-georg-siegbahn,1
+Q295696,Karl Sune Bergström,1,Medicine,1982,A5113465569,,Q295696,1916-01-10,2004-08-15,karl-sune-bergstrom,1
+Q76624,Karl Ziegler,1,Chemistry,1963,A5061196658,,Q76624,1898-11-26,1973-08-12,karl-ziegler,1
+Q60060,Karl von Frisch,1,Medicine,1973,A5001831229,,Q60060,1886-11-20,1982-06-12,karl-von-frisch,1
+Q157224,Kary B. Mullis,1,Chemistry,1993,A5073738482,,Q157224,1944-12-28,2019-08-07,kary-b-mullis,1
+Q88608397,Katalin Karikó,1,Medicine,2023,A5030598859,0000-0002-1864-3851,Q88608397,1955-01-17,,katalin-kariko,1
+Q217734,Kenichi Fukui,1,Chemistry,1981,A5103182830,0000-0001-8780-5853,Q217734,1918-10-04,1998-01-09,kenichi-fukui,1
+Q193503,Kenneth G. Wilson,1,Physics,1982,A5106764096,,Q193503,1936-06-08,2013-06-15,kenneth-g-wilson,1
+Q323320,Kip S. Thorne,1,Physics,2017,A5103423628,0000-0002-9475-4318,Q323320,1940-06-01,,kip-s-thorne,1
+Q109370,Klaus Hasselmann,1,Physics,2021,A5112219120,0000-0002-8501-1387,Q109370,1931-10-25,,klaus-hasselmann,1
+Q71024,Klaus von Klitzing,1,Physics,1985,A5056170134,0000-0002-1720-7396,Q71024,1943-06-28,,klaus-von-klitzing,1
+Q110963,Koichi Tanaka,1,Chemistry,2002,A5009335876,0000-0002-1853-1374,Q110963,1959-08-03,,koichi-tanaka,1
+Q35698,Konrad Bloch,1,Medicine,1964,A5079501364,0000-0002-2377-7387,Q35698,1912-01-21,2000-10-15,konrad-bloch,1
+Q78496,Konrad Lorenz,1,Medicine,1973,A5072331162,,Q78496,1903-11-07,1989-02-27,konrad-lorenz,1
+Q106494,Konstantin Novoselov,1,Physics,2010,A5135234997,0000-0003-4972-5371,Q106494,1974-08-23,,konstantin-novoselov,1
+Q76595,Kurt Alder,1,Chemistry,1950,A5057232011,,Q76595,1902-07-10,1958-06-20,kurt-alder,1
+Q110957,Kurt Wüthrich,1,Chemistry,2002,A5000254356,0000-0001-8739-6965,Q110957,1938-10-04,,kurt-wuthrich,1
+Q107405,Lars Onsager,1,Chemistry,1968,A5060039934,,Q107405,1903-11-27,1976-10-05,lars-onsager,1
+Q295869,Leland H. Hartwell,1,Medicine,2001,A5112821745,,Q295869,1939-10-30,,leland-h-hartwell,1
+Q179852,Leo Esaki,1,Physics,1973,A5086299514,,Q179852,1925-03-12,,leo-esaki,1
+Q190745,Leo James Rainwater,1,Physics,1975,A5130148368,,Q190745,1917-12-09,1986-03-31,leo-james-rainwater,1
+Q192695,Leon M. Lederman,1,Physics,1988,A5046315734,,Q192695,1922-07-15,2018-10-03,leon-m-lederman,1
+Q82563,Leon Neil Cooper,1,Physics,1972,A5109971261,,Q82563,1930-02-28,2024-10-23,leon-neil-cooper,1
+Q122996,Leopold Ruzicka,1,Chemistry,1939,A5037272113,,Q122996,1887-09-13,1976-09-26,leopold-ruzicka,1
+Q133267,Lev Davidovich Landau,1,Physics,1962,A5109036612,,Q133267,1908-01-22,1968-04-01,lev-davidovich-landau,1
+Q200136,Linda B. Buck,1,Medicine,2004,A5041469934,0000-0001-6735-8961,Q200136,1947-01-29,,linda-b-buck,1
+Q48983,Linus Carl Pauling,1,Chemistry,1954,A5018806471,,Q48983,1901-02-28,1994-08-19,linus-carl-pauling,1
+Q157242,Lord (Alexander R.) Todd,1,Chemistry,1957,A5065867961,,Q157242,1907-10-02,1997-01-10,lord-alexander-r-todd,1
+Q83297,Lord Rayleigh (John William Strutt),1,Physics,1904,A5103608189,,Q83297,1842-11-12,1919-06-30,lord-rayleigh-john-william-strutt,1
+Q194646,Louis E. Brus,1,Chemistry,2023,A5012651049,0000-0002-5337-5776,Q194646,1943,2026-01-11,louis-e-brus,1
+Q155781,Louis Eugène Félix Néel,1,Physics,1970,A5027927828,,Q155781,1904-11-22,2000-11-17,louis-eugene-felix-neel,1
+Q309820,Louis J. Ignarro,1,Medicine,1998,A5113501898,,Q309820,1941-05-31,,louis-j-ignarro,1
+Q83331,Louis-Victor Pierre Raymond de Broglie,1,Physics,1929,A5081108187,,Q83331,1892-08-15,1987-03-19,louis-victor-pierre-raymond-de-broglie,1
+Q103598,Luc Montagnier,1,Medicine,2008,A5016871448,,Q103598,1932-08-18,2022-02-08,luc-montagnier,1
+Q233985,Luis F. Leloir,1,Chemistry,1970,A5109570430,,Q233985,1906-09-06,1987-12-02,luis-f-leloir,1
+Q178344,Luis Walter Alvarez,1,Physics,1968,A5103959892,,Q178344,1911-06-13,1988-09-01,luis-walter-alvarez,1
+Q285062,M. Stanley Whittingham,1,Chemistry,2019,A5023061999,0000-0002-5039-9334,Q285062,1941-12-22,,m-stanley-whittingham,1
+Q202164,Makoto Kobayashi,1,Physics,2008,A5061619362,0000-0003-0920-2154,Q202164,1944-04-07,,makoto-kobayashi,1
+Q76600,Manfred Eigen,1,Chemistry,1967,A5086771096,,Q76600,1927-05-09,2019-02-06,manfred-eigen,1
+Q57100,Maria Goeppert Mayer,1,Physics,1963,A5011711444,,Q57100,1906-06-28,1972-02-20,maria-goeppert-mayer,1
+Q19045,Mario J. Molina,1,Chemistry,1995,A5103473790,0000-0003-2339-3225,Q19045,1943-03-19,2020-10-07,mario-j-molina,1
+Q215574,Mario R. Capecchi,1,Medicine,2007,A5065080973,0000-0002-9591-4993,Q215574,1937-10-06,,mario-r-capecchi,1
+Q110060,Marshall W. Nirenberg,1,Medicine,1968,A5025743622,,Q110060,1927-04-10,2010-01-15,marshall-w-nirenberg,1
+Q106699,Martin Chalfie,1,Chemistry,2008,A5074638214,0000-0002-9079-7046,Q106699,1947-01-15,,martin-chalfie,1
+Q207719,Martin J. Evans,1,Medicine,2007,A5089983912,0000-0001-7741-1535,Q207719,1941-01-01,,martin-j-evans,1
+Q903471,Martin Karplus,1,Chemistry,2013,A5076499540,0000-0002-5485-6117,Q903471,1930-03-15,2024-12-28,martin-karplus,1
+Q107416,Martin L. Perl,1,Physics,1995,A5110436516,,Q107416,1927-06-24,2014-09-30,martin-l-perl,1
+Q60031,Martin Rodbell,1,Medicine,1994,A5025375601,,Q60031,1925-12-01,1998-12-07,martin-rodbell,1
+Q202149,Martinus J.G. Veltman,1,Physics,1999,A5087850537,,Q202149,1931-06-27,2021-01-04,martinus-j-g-veltman,1
+Q136445350,Mary E. Brunkow,1,Medicine,2025,A5135135835,,Q136445350,1961-04-23,,mary-e-brunkow,1
+Q155773,Masatoshi Koshiba,1,Physics,2002,A5107839752,,Q155773,1926-09-19,2020-11-12,masatoshi-koshiba,1
+Q184659,Maurice Hugh Frederick Wilkins,1,Medicine,1962,A5110085423,,Q184659,1916-12-15,2004-10-05,maurice-hugh-frederick-wilkins,1
+Q58978,Max Born,1,Physics,1954,A5014976555,0000-0003-4807-0211,Q58978,1882-12-11,1970-01-05,max-born,1
+Q76807,Max Delbrück,1,Medicine,1969,A5109867900,,Q76807,1906-09-04,1981-03-09,max-delbruck,1
+Q78480,Max Ferdinand Perutz,1,Chemistry,1962,A5110082880,,Q78480,1914-05-19,2002-02-06,max-ferdinand-perutz,1
+Q9021,Max Karl Ernst Ludwig Planck,1,Physics,1918,A5111387565,,Q9021,1858-04-23,1947-10-04,max-karl-ernst-ludwig-planck,1
+Q46928,Max Theiler,1,Medicine,1951,A5043974167,,Q46928,1899-01-30,1972-08-11,max-theiler,1
+Q57067,Max von Laue,1,Physics,1914,A5059362679,,Q57067,1879-10-09,1960-04-23,max-von-laue,1
+Q6796222,May-Britt Moser,1,Medicine,2014,A5053497962,0000-0001-7884-3049,Q6796222,1963-01-04,,may-britt-moser,1
+Q49347,Melvin Calvin,1,Chemistry,1961,A5108469716,,Q49347,1911-04-08,1997-01-08,melvin-calvin,1
+Q189741,Melvin Schwartz,1,Physics,1988,A5074909955,,Q189741,1932-11-02,2006-08-28,melvin-schwartz,1
+Q1927895,Michael Houghton,1,Medicine,2020,A5090612228,0000-0003-3762-6771,Q1927895,1949,,michael-houghton,1
+Q6832227,Michael Levitt,1,Chemistry,2013,A5019080704,0000-0002-8414-7397,Q6832227,1947-05-09,,michael-levitt,1
+Q1297741,Michael Rosbash,1,Medicine,2017,A5068402917,0000-0003-3366-1780,Q1297741,1944-03-07,,michael-rosbash,1
+Q295684,Michael S. Brown,1,Medicine,1985,A5079762911,0000-0002-1324-152X,Q295684,1941-04-13,,michael-s-brown,1
+Q232289,Michael Smith,1,Chemistry,1993,A5113718395,,Q232289,1932-04-26,2000-10-04,michael-smith,1
+Q1929672,Michael W. Young,1,Medicine,2017,A5103089991,0000-0002-9726-2247,Q1929672,1949-03-28,,michael-w-young,1
+Q26703310,Michel H. Devoret,1,Physics,2025,A5089631322,0000-0002-2883-9575,Q26703310,1953,,michel-h-devoret,1
+Q123975,Michel Mayor,1,Physics,2019,A5006919346,0000-0002-9352-5935,Q123975,1942-01-12,,michel-mayor,1
+Q6914509,Morten Meldal,1,Chemistry,2022,A5008925360,0000-0001-6114-9018,Q6914509,1954-01-16,,morten-meldal,1
+Q15433043,Moungi G. Bawendi,1,Chemistry,2023,A5108389294,0000-0003-2220-4365,Q15433043,1961,,moungi-g-bawendi,1
+Q172840,Murray Gell-Mann,1,Physics,1969,A5017032627,,Q172840,1929-09-15,2019-05-24,murray-gell-mann,1
+Q189987,Nicolaas Bloembergen,1,Physics,1981,A5034196416,,Q189987,1920-03-11,2017-09-05,nicolaas-bloembergen,1
+Q83557,Nicolay Gennadiyevich Basov,1,Physics,1964,A5071723707,,Q83557,1922-12-14,2001-07-01,nicolay-gennadiyevich-basov,1
+Q7085,Niels Henrik David Bohr,1,Physics,1922,A5110436352,,Q7085,1885-10-07,1962-11-18,niels-henrik-david-bohr,1
+Q309876,Niels K. Jerne,1,Medicine,1984,A5107036166,,Q309876,1911-12-23,1994-10-07,niels-k-jerne,1
+Q182964,Niels Ryberg Finsen,1,Medicine,1903,A5091481560,,Q182964,1860-12-15,1904-09-24,niels-ryberg-finsen,1
+Q153890,Nikolaas Tinbergen,1,Medicine,1973,A5113577450,,Q153890,1907-04-15,1988-12-21,nikolaas-tinbergen,1
+Q48990,Nikolay Nikolaevich Semenov,1,Chemistry,1956,A5103960338,,Q48990,1896-04-03,1986-09-25,nikolay-nikolaevich-semenov,1
+Q160518,Nils Gustaf Dalén,1,Physics,1912,,,Q160518,1869-11-30,1937-12-09,nils-gustaf-dalen,0
+Q107419,Norman F. Ramsey,1,Physics,1989,A5068702687,0000-0002-5435-1135,Q107419,1915-08-27,2011-11-04,norman-f-ramsey,1
+Q157212,Odd Hassel,1,Chemistry,1969,A5034143666,,Q157212,1897-05-17,1981-05-11,odd-hassel,1
+Q216318,Oliver Smithies,1,Medicine,2007,A5070335657,0000-0002-4934-3931,Q216318,1925-06-23,2017-01-10,oliver-smithies,1
+Q743252,Omar M. Yaghi,1,Chemistry,2025,A5044268160,0000-0002-5611-3325,Q743252,1965-02-09,,omar-m-yaghi,1
+Q205345,Osamu Shimomura,1,Chemistry,2008,A5085164052,0000-0002-1735-5057,Q205345,1928-08-27,2018-10-19,osamu-shimomura,1
+Q57132,Otto Fritz Meyerhof,1,Medicine,1922,A5024378293,,Q57132,1884-04-12,1951-10-06,otto-fritz-meyerhof,1
+Q57065,Otto Hahn,1,Chemistry,1944,A5062274657,,Q57065,1879-03-08,1968-07-28,otto-hahn,1
+Q76464,Otto Heinrich Warburg,1,Medicine,1931,A5081458871,,Q76464,1883-10-08,1970-08-01,otto-heinrich-warburg,1
+Q77173,Otto Loewi,1,Medicine,1936,A5007361971,,Q77173,1873-06-03,1961-12-25,otto-loewi,1
+Q76616,Otto Paul Hermann Diels,1,Chemistry,1950,A5027048127,,Q76616,1876-01-23,1954-03-07,otto-paul-hermann-diels,1
+Q57072,Otto Stern,1,Physics,1943,A5113947643,,Q57072,1888-02-17,1969-08-17,otto-stern,1
+Q57127,Otto Wallach,1,Chemistry,1910,A5066998776,,Q57127,1847-03-27,1931-02-26,otto-wallach,1
+Q183655,Owen Chamberlain,1,Physics,1959,A5042538706,,Q183655,1920-07-10,2006-02-28,owen-chamberlain,1
+Q169330,Owen Willans Richardson,1,Physics,1928,A5104048855,,Q169330,1879-04-26,1959-02-15,owen-willans-richardson,1
+Q184499,Patrick Maynard Stuart Blackett,1,Physics,1948,A5040927725,,Q184499,1897-11-18,1974-07-13,patrick-maynard-stuart-blackett,1
+Q47480,Paul Adrien Maurice Dirac,1,Physics,1933,A5078382819,,Q47480,1902-08-08,1984-10-20,paul-adrien-maurice-dirac,1
+Q102379,Paul Berg,1,Chemistry,1980,A5110714596,,Q102379,1926-06-30,2023-02-15,paul-berg,1
+Q106547,Paul C. Lauterbur,1,Medicine,2003,A5077010419,,Q106547,1929-05-06,2007-03-27,paul-c-lauterbur,1
+Q102395,Paul D. Boyer,1,Chemistry,1997,A5112866860,,Q102395,1918-07-31,2018-06-02,paul-d-boyer,1
+Q57089,Paul Ehrlich,1,Medicine,1908,A5046706191,0000-0001-6079-8403,Q57089,1854-03-14,1915-08-20,paul-ehrlich,1
+Q309979,Paul Greengard,1,Medicine,2000,A5052825834,0000-0002-4437-0893,Q309979,1925-12-11,2019-04-13,paul-greengard,1
+Q115475,Paul Hermann Müller,1,Medicine,1948,A5014564395,,Q115475,1899-01-12,1965-10-12,paul-hermann-muller,1
+Q135139,Paul J. Crutzen,1,Chemistry,1995,A5109231427,,Q135139,1933-12-03,2021-01-28,paul-j-crutzen,1
+Q176351,Paul J. Flory,1,Chemistry,1974,A5058114693,,Q176351,1910-06-19,1985-09-08,paul-j-flory,1
+Q73093,Paul Karrer,1,Chemistry,1937,A5112818375,,Q73093,1889-04-21,1971-06-18,paul-karrer,1
+Q219716,Paul M. Nurse,1,Medicine,2001,A5019124036,0000-0002-9244-7787,Q219716,1949-01-25,,paul-m-nurse,1
+Q7151888,Paul Modrich,1,Chemistry,2015,A5060041272,0000-0001-8708-9885,Q7151888,1946-06-13,,paul-modrich,1
+Q104575,Paul Sabatier,1,Chemistry,1912,A5076069804,,Q104575,1854-11-05,1941-08-14,paul-sabatier,1
+Q76970,Pavel Alekseyevich Cherenkov,1,Physics,1958,A5060050699,,Q76970,1904-07-28,1990-01-06,pavel-alekseyevich-cherenkov,1
+Q172118,Percy Williams Bridgman,1,Physics,1946,A5035442844,,Q172118,1882-04-21,1961-08-20,percy-williams-bridgman,1
+Q102250,Peter Agre,1,Chemistry,2003,A5017989879,0000-0002-9581-890X,Q102250,1949-01-30,,peter-agre,1
+Q214209,Peter Brian Medawar,1,Medicine,1960,A5112594972,,Q214209,1915-02-28,1987-10-02,peter-brian-medawar,1
+Q309814,Peter C. Doherty,1,Medicine,1996,A5074692390,0000-0002-5028-3489,Q309814,1940-10-15,,peter-c-doherty,1
+Q207992,Peter D. Mitchell,1,Chemistry,1978,A5020193109,,Q207992,1920-09-29,1992-04-10,peter-d-mitchell,1
+Q57120,Peter Grünberg,1,Physics,2007,A5029618808,,Q57120,1939-05-18,2018-04-09,peter-grunberg,1
+Q2075967,Peter J. Ratcliffe,1,Medicine,2019,A5064727417,0000-0002-2853-806X,Q2075967,1954-05-14,,peter-j-ratcliffe,1
+Q192112,Peter W. Higgs,1,Physics,2013,A5103709169,,Q192112,1929-05-29,2024-04-08,peter-w-higgs,1
+Q103835,Petrus (Peter) Josephus Wilhelmus Debye,1,Chemistry,1936,A5110078059,,Q103835,1884-03-24,1966-11-02,petrus-peter-josephus-wilhelmus-debye,1
+Q298707,Peyton Rous,1,Medicine,1966,A5040080492,,Q298707,1879-10-05,1972-02-16,peyton-rous,1
+Q235651,Philip Showalter Hench,1,Medicine,1950,A5080055556,,Q235651,1896-02-28,1965-03-30,philip-showalter-hench,1
+Q190770,Philip Warren Anderson,1,Physics,1977,A5075284674,,Q190770,1923-12-13,2020-03-29,philip-warren-anderson,1
+Q57063,Philipp Eduard Anton von Lenard,1,Physics,1905,A5089200801,,Q57063,1862-06-07,1947-05-20,philipp-eduard-anton-von-lenard,1
+Q312977,Phillip A. Sharp,1,Medicine,1993,A5022945869,0000-0003-1465-1691,Q312977,1944-06-06,,phillip-a-sharp,1
+Q57020342,Pierre Agostini,1,Physics,2023,A5054821424,0000-0002-7741-4581,Q57020342,1941-07-23,,pierre-agostini,1
+Q37463,Pierre Curie,1,Physics,1903,A5005765862,,Q37463,1859-05-15,1906-04-19,pierre-curie,1
+Q187224,Pierre-Gilles de Gennes,1,Physics,1991,A5113527785,,Q187224,1932-10-24,2007-05-18,pierre-gilles-de-gennes,1
+Q79000,Pieter Zeeman,1,Physics,1902,A5086631495,,Q79000,1865-05-25,1943-10-09,pieter-zeeman,1
+Q184571,Polykarp Kusch,1,Physics,1955,A5019169301,,Q184571,1911-01-26,1993-03-20,polykarp-kusch,1
+Q172844,Pyotr Leonidovich Kapitsa,1,Physics,1978,A5109256076,,Q172844,1894-07-09,1984-04-08,pyotr-leonidovich-kapitsa,1
+Q217722,Ragnar Granit,1,Medicine,1967,A5109098348,,Q217722,1900-10-30,1991-03-12,ragnar-granit,1
+Q2128461,Rainer Weiss,1,Physics,2017,A5103619207,,Q2128461,1932-09-29,2025-08-25,rainer-weiss,1
+Q105494,Ralph M. Steinman,1,Medicine,2011,A5113434905,,Q105494,1943-01-14,2011-09-30,ralph-m-steinman,1
+Q740638,Randy W. Schekman,1,Medicine,2013,A5016859611,0000-0001-8615-6409,Q740638,1948-12-30,,randy-w-schekman,1
+Q175519,Raymond Davis Jr.,1,Physics,2002,A5088919307,,Q175519,1914-10-14,2006-05-31,raymond-davis-jr,1
+Q65807,Reinhard Genzel,1,Physics,2020,A5032049136,0000-0002-2767-9653,Q65807,1952-03-24,,reinhard-genzel,1
+Q109553,Renato Dulbecco,1,Medicine,1975,A5112826065,,Q109553,1914-02-22,2012-02-19,renato-dulbecco,1
+Q186481,Riccardo Giacconi,1,Physics,2002,A5090764693,,Q186481,1931-10-06,2018-12-16,riccardo-giacconi,1
+Q78481,Richard Adolf Zsigmondy,1,Chemistry,1925,A5023483563,,Q78481,1865-04-01,1929-09-24,richard-adolf-zsigmondy,1
+Q211940,Richard Axel,1,Medicine,2004,A5140697054,0000-0002-3141-4076,Q211940,1946-07-02,,richard-axel,1
+Q106746,Richard E. Smalley,1,Chemistry,1996,A5015746014,,Q106746,1943-06-06,2005-10-28,richard-e-smalley,1
+Q201470,Richard E. Taylor,1,Physics,1990,A5009098444,0000-0003-1146-7493,Q201470,1929-11-02,2018-02-22,richard-e-taylor,1
+Q106471,Richard F. Heck,1,Chemistry,2010,A5113728961,,Q106471,1931-08-15,2015-10-09,richard-f-heck,1
+Q1678456,Richard Henderson,1,Chemistry,2017,A5073357045,0000-0003-1444-0528,Q1678456,1945-07-19,,richard-henderson,1
+Q309816,Richard J. Roberts,1,Medicine,1993,A5091034547,0000-0002-4348-0169,Q309816,1943-09-06,,richard-j-roberts,1
+Q78483,Richard Kuhn,1,Chemistry,1938,A5069864999,0000-0003-4148-1026,Q78483,1900-12-03,1967-07-31,richard-kuhn,1
+Q48979,Richard Laurence Millington Synge,1,Chemistry,1952,A5110043456,,Q48979,1914-10-28,1994-08-18,richard-laurence-millington-synge,1
+Q77072,Richard Martin Willstätter,1,Chemistry,1915,A5026203400,,Q77072,1872-08-13,1942-08-03,richard-martin-willstatter,1
+Q39246,Richard P. Feynman,1,Physics,1965,A5037710835,,Q39246,1918-05-11,1988-02-15,richard-p-feynman,1
+Q122272,Richard R. Ernst,1,Chemistry,1991,A5103547741,,Q122272,1933-08-14,2021-06-04,richard-r-ernst,1
+Q202159,Richard R. Schrock,1,Chemistry,2005,A5079660000,0000-0001-5827-3552,Q202159,1945-01-04,,richard-r-schrock,1
+Q23073819,Richard Robson,1,Chemistry,2025,A5086734482,0000-0003-1716-6114,Q23073819,1937-06-04,,richard-robson,1
+Q185007,Rita Levi-Montalcini,1,Medicine,1986,A5059952422,,Q185007,1909-04-22,2012-12-30,rita-levi-montalcini,1
+Q273279,Roald Hoffmann,1,Chemistry,1981,A5137646326,0000-0001-5369-6046,Q273279,1937-07-18,,roald-hoffmann,1
+Q130975,Robert Andrews Millikan,1,Physics,1923,A5111890695,,Q130975,1868-03-22,1953-12-19,robert-andrews-millikan,1
+Q189997,Robert B. Laughlin,1,Physics,1998,A5051731365,,Q189997,1950-11-01,,robert-b-laughlin,1
+Q224153,Robert Bruce Merrifield,1,Chemistry,1984,A5104652915,,Q224153,1921-07-15,2006-05-14,robert-bruce-merrifield,1
+Q232316,Robert Burns Woodward,1,Chemistry,1965,A5020822146,,Q232316,1917-04-10,1979-07-08,robert-burns-woodward,1
+Q78478,Robert Bárány,1,Medicine,1914,A5031332171,,Q78478,1876-04-22,1936-04-08,robert-barany,1
+Q402649,Robert C. Richardson,1,Physics,1996,A5065382176,0000-0002-3850-3709,Q402649,1937-06-26,2013-02-19,robert-c-richardson,1
+Q110930,Robert F. Curl Jr.,1,Chemistry,1996,A5050630131,,Q110930,1933-08-23,2022-07-03,robert-f-curl-jr,1
+Q108880,Robert F. Furchgott,1,Medicine,1998,A5010310471,,Q108880,1916-06-04,2009-05-19,robert-f-furchgott,1
+Q104913,Robert G. Edwards,1,Medicine,2010,A5076630534,0000-0002-5667-291X,Q104913,1925-09-27,2013-04-10,robert-g-edwards,1
+Q202140,Robert H. Grubbs,1,Chemistry,2005,A5135520780,0000-0002-0057-7817,Q202140,1942-02-27,2021-12-19,robert-h-grubbs,1
+Q130113,Robert Hofstadter,1,Physics,1961,A5014383473,,Q130113,1915-02-05,1990-11-17,robert-hofstadter,1
+Q76623,Robert Huber,1,Chemistry,1988,A5101832860,0000-0002-0133-5334,Q76623,1937-02-20,,robert-huber,1
+Q80910,Robert J. Lefkowitz,1,Chemistry,2012,A5080672788,0000-0003-1472-7545,Q80910,1943-04-15,,robert-j-lefkowitz,1
+Q37193,Robert Koch,1,Medicine,1905,A5111886592,,Q37193,1843-12-11,1910-05-27,robert-koch,1
+Q233355,Robert S. Mulliken,1,Chemistry,1966,A5088324238,,Q233355,1896-06-07,1986-10-31,robert-s-mulliken,1
+Q108891,Robert W. Holley,1,Medicine,1968,A5035909625,,Q108891,1922-01-28,1993-02-11,robert-w-holley,1
+Q171034,Robert Woodrow Wilson,1,Physics,1978,A5028123846,0000-0001-5694-6725,Q171034,1936-01-10,,robert-woodrow-wilson,1
+Q211482,Roderick MacKinnon,1,Chemistry,2003,A5025045433,0000-0001-7605-4679,Q211482,1956-02-19,,roderick-mackinnon,1
+Q295700,Rodney R. Porter,1,Medicine,1972,A5103427668,,Q295700,1917-10-08,1985-09-06,rodney-r-porter,1
+Q170676,Roger D. Kornberg,1,Chemistry,2006,A5049465163,0000-0002-2425-7519,Q170676,1947-04-24,,roger-d-kornberg,1
+Q242169,Roger Guillemin,1,Medicine,1977,A5061993952,,Q242169,1924-01-11,2024-02-21,roger-guillemin,1
+Q193803,Roger Penrose,1,Physics,2020,A5014894861,,Q193803,1931-08-08,,roger-penrose,1
+Q232305,Roger Wolcott Sperry,1,Medicine,1981,A5113693560,,Q232305,1913-08-20,1994-04-17,roger-wolcott-sperry,1
+Q200470,Roger Y. Tsien,1,Chemistry,2008,A5109193097,,Q200470,1952-02-01,2016-08-24,roger-y-tsien,1
+Q116064,Rolf M. Zinkernagel,1,Medicine,1996,A5113991567,,Q116064,1944-01-06,,rolf-m-zinkernagel,1
+Q235834,Ronald George Wreyford Norrish,1,Chemistry,1967,A5061978447,,Q235834,1897-11-09,1978-06-07,ronald-george-wreyford-norrish,1
+Q102034,Ronald Ross,1,Medicine,1902,A5109814053,,Q102034,1857-05-13,1932-09-16,ronald-ross,1
+Q107402,Rosalyn Sussman Yalow,1,Medicine,1977,A5053147774,,Q107402,1921-07-19,2011-05-30,rosalyn-sussman-yalow,1
+Q64188,Roy J. Glauber,1,Physics,2005,A5049446469,,Q64188,1925-09-01,2018-12-26,roy-j-glauber,1
+Q44286,Rudolf Ludwig Mössbauer,1,Physics,1961,A5090789783,,Q44286,1929-01-31,2011-09-14,rudolf-ludwig-mossbauer,1
+Q239067,Rudolph A. Marcus,1,Chemistry,1992,A5051289041,0000-0001-6547-1469,Q239067,1923-07-21,,rudolph-a-marcus,1
+Q156286,Russell A. Hulse,1,Physics,1993,A5015145579,,Q156286,1950-11-28,,russell-a-hulse,1
+Q157210,Ryōji Noyori,1,Chemistry,2001,A5054350731,0000-0003-0688-8066,Q157210,1938-09-03,,ryoji-noyori,1
+Q205667,Salvador E. Luria,1,Medicine,1969,A5112011799,,Q205667,1912-08-13,1991-02-06,salvador-e-luria,1
+Q192715,Samuel Chao Chung Ting,1,Physics,1976,A5000492107,,Q192715,1936-01-27,,samuel-chao-chung-ting,1
+Q150526,Santiago Ramón y Cajal,1,Medicine,1906,A5135103711,0000-0002-3867-1390,Q150526,1852-05-01,1934-10-17,santiago-ramon-y-cajal,1
+Q21061207,Satoshi Ōmura,1,Medicine,2015,A5045164227,0000-0002-9187-2044,Q21061207,1935-07-12,,satoshi-omura,1
+Q106949,Saul Perlmutter,1,Physics,2011,A5030135192,0000-0002-4436-4661,Q106949,1959,,saul-perlmutter,1
+Q152187,Schack August Steenberg Krogh,1,Medicine,1920,A5098549773,,Q152187,1874-11-15,1949-09-13,schack-august-steenberg-krogh,1
+Q232308,Selman Abraham Waksman,1,Medicine,1952,A5068222051,,Q232308,1888-07-22,1973-08-16,selman-abraham-waksman,1
+Q109588,Serge Haroche,1,Physics,2012,A5108398851,,Q109588,1944-09-11,,serge-haroche,1
+Q233957,Severo Ochoa,1,Medicine,1959,A5104366377,,Q233957,1905-09-24,1993-11-01,severo-ochoa,1
+Q107420,Sheldon Lee Glashow,1,Physics,1979,A5071631119,0000-0002-4796-9666,Q107420,1932-12-05,,sheldon-lee-glashow,1
+Q17502433,Shimon Sakaguchi,1,Medicine,2025,A5025764166,0000-0001-8265-6094,Q17502433,1951-01-19,,shimon-sakaguchi,1
+Q80917,Shinya Yamanaka,1,Medicine,2012,A5081862387,0009-0003-1393-0987,Q80917,1962-09-04,,shinya-yamanaka,1
+Q730065,Shuji Nakamura,1,Physics,2014,A5060156624,0000-0001-6286-884X,Q730065,1954-05-22,,shuji-nakamura,1
+Q102266,Sidney Altman,1,Chemistry,1989,A5003873129,0000-0001-7287-0337,Q102266,1939-05-07,2022-04-05,sidney-altman,1
+Q104779,Simon van der Meer,1,Physics,1984,A5014887350,,Q104779,1925-11-24,2011-03-04,simon-van-der-meer,1
+Q184563,Sin-Itiro Tomonaga,1,Physics,1965,A5113843719,,Q184563,1906-03-31,1979-07-08,sin-itiro-tomonaga,1
+Q37064,Sir Alexander Fleming,1,Medicine,1945,A5112243224,,Q37064,1881-08-06,1955-03-11,sir-alexander-fleming,1
+Q4517,Sir Bernard Katz,1,Medicine,1970,A5113492319,,Q4517,1911-03-26,2003-04-20,sir-bernard-katz,1
+Q60429,Sir Chandrasekhara Venkata Raman,1,Physics,1930,A5108634248,,Q60429,1888-11-07,1970-11-21,sir-chandrasekhara-venkata-raman,1
+Q213504,Sir Charles Scott Sherrington,1,Medicine,1932,A5010255332,,Q213504,1857-11-27,1952-03-04,sir-charles-scott-sherrington,1
+Q48986,Sir Cyril Norman Hinshelwood,1,Chemistry,1956,A5033359230,,Q48986,1897-05-19,1967-10-09,sir-cyril-norman-hinshelwood,1
+Q153194,Sir Edward Victor Appleton,1,Physics,1947,A5113984956,,Q153194,1892-09-06,1965-04-21,sir-edward-victor-appleton,1
+Q233976,Sir Frederick Gowland Hopkins,1,Medicine,1929,A5058687221,,Q233976,1861-06-20,1947-05-16,sir-frederick-gowland-hopkins,1
+Q157250,Sir Harold W. Kroto,1,Chemistry,1996,A5050518847,,Q157250,1939-10-07,2016-04-30,sir-harold-w-kroto,1
+Q72194,Sir Henry Hallett Dale,1,Medicine,1936,A5059720021,,Q72194,1875-06-09,1968-07-23,sir-henry-hallett-dale,1
+Q137106,Sir Howard Walter Florey,1,Medicine,1945,A5110094148,,Q137106,1898-09-24,1968-02-21,sir-howard-walter-florey,1
+Q376243,Sir J. Fraser Stoddart,1,Chemistry,2016,A5027688873,0000-0003-3161-3697,Q376243,1942-05-24,2024-12-30,sir-j-fraser-stoddart,1
+Q273223,Sir John Carew Eccles,1,Medicine,1963,A5108408497,,Q273223,1903-01-27,1997-05-02,sir-john-carew-eccles,1
+Q62897,Sir John Douglas Cockcroft,1,Physics,1951,A5041782118,,Q62897,1897-05-27,1967-09-18,sir-john-douglas-cockcroft,1
+Q190766,Sir Martin Ryle,1,Physics,1974,A5096232385,,Q190766,1918-09-27,1984-10-14,sir-martin-ryle,1
+Q189485,Sir Nevill Francis Mott,1,Physics,1977,A5109562332,,Q189485,1905-09-30,1996-08-08,sir-nevill-francis-mott,1
+Q243601,Sir Peter Mansfield,1,Medicine,2003,A5053266229,,Q243601,1933-10-09,2017-02-08,sir-peter-mansfield,1
+Q49351,Sir Robert Robinson,1,Chemistry,1947,A5067434209,,Q49351,1886-09-13,1975-02-08,sir-robert-robinson,1
+Q133747,Sir William Henry Bragg,1,Physics,1915,A5111774863,,Q133747,1862-07-02,1942-03-12,sir-william-henry-bragg,1
+Q950726,Sir William Ramsay,1,Chemistry,1904,A5072406075,,Q950726,1852-10-02,1916-07-23,sir-william-ramsay,1
+Q110952,Stanford Moore,1,Chemistry,1972,A5023645345,,Q110952,1913-09-04,1982-08-23,stanford-moore,1
+Q155380,Stanley B. Prusiner,1,Medicine,1997,A5066991343,0000-0003-1955-5498,Q155380,1942-05-28,,stanley-b-prusiner,1
+Q232299,Stanley Cohen,1,Medicine,1986,A5027994912,0000-0003-3846-6028,Q232299,1922-11-17,2020-02-05,stanley-cohen,1
+Q91410,Stefan W. Hell,1,Chemistry,2014,A5088219208,0000-0002-9638-5077,Q91410,1962-12-23,,stefan-w-hell,1
+Q172466,Steven Chu,1,Physics,1997,A5001967033,0000-0002-4572-0154,Q172466,1948-02-28,,steven-chu,1
+Q179282,Steven Weinberg,1,Physics,1979,A5043632498,,Q179282,1933-05-03,2021-07-23,steven-weinberg,1
+Q148109,Subramanyan Chandrasekhar,1,Physics,1983,A5110168523,,Q148109,1910-10-19,1995-08-21,subramanyan-chandrasekhar,1
+Q11401680,Susumu Kitagawa,1,Chemistry,2025,A5140762726,0000-0001-6956-9543,Q11401680,1951-07-04,,susumu-kitagawa,1
+Q108602,Susumu Tonegawa,1,Medicine,1987,A5038557565,0000-0003-2839-8228,Q108602,1939-09-06,2026-07-11,susumu-tonegawa,1
+Q80956,Svante August Arrhenius,1,Chemistry,1903,A5079191490,,Q80956,1859-02-19,1927-10-02,svante-august-arrhenius,1
+Q170342,Svante Pääbo,1,Medicine,2022,A5012216367,0000-0002-4670-6311,Q170342,1955-04-20,,svante-paabo,1
+Q234463,Sydney Brenner,1,Medicine,2002,A5111910776,0000-0002-9433-7557,Q234463,1927-01-13,2019-04-05,sydney-brenner,1
+Q3675789,Syukuro Manabe,1,Physics,2021,A5045338372,,Q3675789,1931-09-21,,syukuro-manabe,1
+Q115490,Tadeus Reichstein,1,Medicine,1950,A5066359670,,Q115490,1897-07-20,1996-08-01,tadeus-reichstein,1
+Q11538917,Takaaki Kajita,1,Physics,2015,A5136088398,0000-0003-1207-6638,Q11538917,1959-03-09,,takaaki-kajita,1
+Q2395341,Tasuku Honjo,1,Medicine,2018,A5019039647,0000-0003-2300-3928,Q2395341,1942-01-27,,tasuku-honjo,1
+Q186391,The (Theodor) Svedberg,1,Chemistry,1926,A5031324909,,Q186391,1884-08-30,1971-02-25,the-theodor-svedberg,1
+Q71013,Theodor W. Hänsch,1,Physics,2005,A5136703544,0000-0002-6476-9033,Q71013,1941-10-30,,theodor-w-hansch,1
+Q189465,Theodore William Richards,1,Chemistry,1914,A5112362648,,Q189465,1868-01-31,1928-04-02,theodore-william-richards,1
+Q109559,Thomas A. Steitz,1,Chemistry,2009,A5005980770,0000-0002-3357-3505,Q109559,1940-08-23,2018-08-23,thomas-a-steitz,1
+Q97270,Thomas C. Südhof,1,Medicine,2013,A5061921730,0000-0003-3361-9275,Q97270,1955-12-22,,thomas-c-sudhof,1
+Q310131,Thomas Huckle Weller,1,Medicine,1954,A5110189596,,Q310131,1915-06-15,2008-08-23,thomas-huckle-weller,1
+Q177681,Thomas Hunt Morgan,1,Medicine,1933,A5079834850,0000-0002-4017-3147,Q177681,1866-09-25,1945-12-04,thomas-hunt-morgan,1
+Q135180,Thomas R. Cech,1,Chemistry,1989,A5017573996,0000-0001-7338-3389,Q135180,1947-12-08,,thomas-r-cech,1
+Q309977,Tim Hunt,1,Medicine,2001,A5046551180,0000-0001-5174-6038,Q309977,1943-02-19,,tim-hunt,1
+Q1886068,Tomas Lindahl,1,Chemistry,2015,A5060285944,0000-0003-0174-8152,Q1886068,1938-01-28,,tomas-lindahl,1
+Q271421,Torsten N. Wiesel,1,Medicine,1981,A5108520299,,Q271421,1924-06-03,,torsten-n-wiesel,1
+Q202168,Toshihide Maskawa,1,Physics,2008,A5071580792,,Q202168,1940-02-07,2021-07-23,toshihide-maskawa,1
+Q183679,Tsung-Dao (T.D.) Lee,1,Physics,1957,A5065102787,,Q183679,1926-11-24,2024-08-04,tsung-dao-t-d-lee,1
+Q462843,Tu Youyou,1,Medicine,2015,A5010459426,0000-0001-9781-3857,Q462843,1930-12-30,,tu-youyou,1
+Q237142,Ulf von Euler,1,Medicine,1970,A5027420679,,Q237142,1905-02-07,1983-03-09,ulf-von-euler,1
+Q206499,Val Logsdon Fitch,1,Physics,1980,A5112731354,,Q206499,1923-03-10,2015-02-05,val-logsdon-fitch,1
+Q60061,Venkatraman Ramakrishnan,1,Chemistry,2009,A5086176987,0000-0002-4699-2194,Q60061,1952,,venkatraman-ramakrishnan,1
+Q983858,Victor Ambros,1,Medicine,2024,A5067882558,0000-0002-5562-5345,Q983858,1953-12-01,,victor-ambros,1
+Q78520,Victor Franz Hess,1,Physics,1936,A5018430739,,Q78520,1883-06-24,1964-12-17,victor-franz-hess,1
+Q104582,Victor Grignard,1,Chemistry,1912,A5034810986,,Q104582,1871-05-06,1935-12-13,victor-grignard,1
+Q33128,Vincent du Vigneaud,1,Chemistry,1955,A5049650244,,Q33128,1901-05-18,1978-12-11,vincent-du-vigneaud,1
+Q104668,Vitaly L. Ginzburg,1,Physics,2003,A5107701637,,Q104668,1916-10-04,2009-11-08,vitaly-l-ginzburg,1
+Q83501,Vladimir Prelog,1,Chemistry,1975,A5059650171,,Q83501,1906-07-23,1998-01-07,vladimir-prelog,1
+Q217486,Walter Gilbert,1,Chemistry,1980,A5111554935,,Q217486,1932-03-21,,walter-gilbert,1
+Q184577,Walter Houser Brattain,1,Physics,1956,A5013640557,,Q184577,1902-02-10,1987-10-13,walter-houser-brattain,1
+Q78510,Walter Kohn,1,Chemistry,1998,A5015070406,,Q78510,1923-03-09,2016-04-19,walter-kohn,1
+Q204600,Walter Norman Haworth,1,Chemistry,1937,A5110767057,,Q204600,1883-03-19,1950-03-19,walter-norman-haworth,1
+Q115470,Walter Rudolf Hess,1,Medicine,1949,A5111718960,,Q115470,1881-03-17,1973-08-12,walter-rudolf-hess,1
+Q76474,Walther Bothe,1,Physics,1954,A5108455621,,Q76474,1891-01-08,1957-02-08,walther-bothe,1
+Q57125,Walther Hermann Nernst,1,Chemistry,1920,A5041162507,,Q57125,1864-06-25,1941-11-18,walther-hermann-nernst,1
+Q105937,Wendell Meredith Stanley,1,Chemistry,1946,A5027448493,,Q105937,1904-08-16,1971-06-15,wendell-meredith-stanley,1
+Q115495,Werner Arber,1,Medicine,1978,A5032554900,0009-0001-0086-1447,Q115495,1929-06-03,,werner-arber,1
+Q77152,Werner Forssmann,1,Medicine,1956,A5074450749,,Q77152,1904-08-29,1979-06-01,werner-forssmann,1
+Q40904,Werner Karl Heisenberg,1,Physics,1932,A5109038703,,Q40904,1901-12-05,1976-02-01,werner-karl-heisenberg,1
+Q35149,Wilhelm Conrad Röntgen,1,Physics,1901,A5026985236,,Q35149,1845-03-27,1923-02-10,wilhelm-conrad-rontgen,1
+Q12658,Wilhelm Ostwald,1,Chemistry,1909,A5044295858,,Q12658,1853-09-02,1932-04-04,wilhelm-ostwald,1
+Q57068,Wilhelm Wien,1,Physics,1911,A5013992358,,Q57068,1864-01-13,1928-08-30,wilhelm-wien,1
+Q190486,Willard Frank Libby,1,Chemistry,1960,A5034422732,,Q190486,1908-12-17,1980-09-08,willard-frank-libby,1
+Q73058,Willard S. Boyle,1,Physics,2009,A5078466641,,Q73058,1924-08-19,2011-05-07,willard-s-boyle,1
+Q189488,Willem Einthoven,1,Medicine,1924,A5013691349,,Q189488,1860-05-21,1927-09-29,willem-einthoven,1
+Q46120,William Alfred Fowler,1,Physics,1983,A5110183614,,Q46120,1911-08-09,1995-03-14,william-alfred-fowler,1
+Q163415,William Bradford Shockley,1,Physics,1956,A5043077347,,Q163415,1910-02-13,1989-08-12,william-bradford-shockley,1
+Q21061212,William C. Campbell,1,Medicine,2015,A5018339760,,Q21061212,1930-06-28,,william-c-campbell,1
+Q190756,William D. Phillips,1,Physics,1997,A5023921458,0000-0002-5405-8422,Q190756,1948-11-05,,william-d-phillips,1
+Q1387059,William E. Moerner,1,Chemistry,2014,A5137045539,0000-0002-2830-209X,Q1387059,1953-06-24,,william-e-moerner,1
+Q110073,William Francis Giauque,1,Chemistry,1949,A5033850368,,Q110073,1895-05-12,1982-03-28,william-francis-giauque,1
+Q1603351,William G. Kaelin,1,Medicine,2019,A5088456751,0000-0002-0574-4856,Q1603351,1957-11-23,,william-g-kaelin,1
+Q156492,William H. Stein,1,Chemistry,1972,A5016638160,,Q156492,1911-06-25,1980-02-02,william-h-stein,1
+Q131729,William Lawrence Bragg,1,Physics,1915,A5097192634,,Q131729,1890-03-31,1971-07-01,william-lawrence-bragg,1
+Q110935,William N. Lipscomb,1,Chemistry,1976,A5110136758,,Q110935,1919-12-09,2011-04-14,william-n-lipscomb,1
+Q80323,William Parry Murphy,1,Medicine,1934,A5103116165,,Q80323,1892-02-06,1987-10-09,william-parry-murphy,1
+Q110947,William S. Knowles,1,Chemistry,2001,A5048820883,,Q110947,1917-06-01,2012-06-13,william-s-knowles,1
+Q186497,Willis Eugene Lamb,1,Physics,1955,A5026273475,,Q186497,1913-07-12,2008-05-15,willis-eugene-lamb,1
+Q76462,Wolfgang Ketterle,1,Physics,2001,A5040820196,0000-0002-9528-3044,Q76462,1957-10-21,,wolfgang-ketterle,1
+Q57227,Wolfgang Paul,1,Physics,1989,A5070929934,0000-0002-5637-8163,Q57227,1913-08-10,1993-12-07,wolfgang-paul,1
+Q65989,Wolfgang Pauli,1,Physics,1945,A5112153934,,Q65989,1900-04-25,1958-12-15,wolfgang-pauli,1
+Q188120,Yoichiro Nambu,1,Physics,2008,A5053860646,,Q188120,1921-01-18,2015-07-05,yoichiro-nambu,1
+Q8056214,Yoshinori Ohsumi,1,Medicine,2016,A5056765809,0000-0003-2384-2166,Q8056214,1945-02-09,,yoshinori-ohsumi,1
+Q243190,Yuan T. Lee,1,Chemistry,1986,A5089443280,,Q243190,1936-11-19,,yuan-t-lee,1
+Q202146,Yves Chauvin,1,Chemistry,2005,A5106409475,,Q202146,1930-10-10,2015-01-27,yves-chauvin,1
+Q183279,Zhores I. Alferov,1,Physics,2000,A5048587348,,Q183279,1930-03-15,2019-03-01,zhores-i-alferov,1

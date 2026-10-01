@@ -1,0 +1,27 @@
+{
+ "finished": "2026-09-30T17:09:26",
+ "base_url": "https://prizeatlas.org/es/nobel-prize/",
+ "delay_s": 1.0,
+ "limit": 0,
+ "refresh": false,
+ "pages": 662,
+ "failed": [],
+ "unknown_fact_labels": {},
+ "requests_live": 0,
+ "requests_cached": 1020,
+ "with_openalex": 661,
+ "people": 658,
+ "li_matched": 543,
+ "li_laureates": 545,
+ "seconds": 11.3,
+ "outputs": [
+  "Data/prizeatlas/awards.csv",
+  "Data/prizeatlas/prizeatlas_nobel_laureates.csv",
+  "Data/prizeatlas/prizeatlas_nobel_laureates.parquet",
+  "Data/prizeatlas/prizeatlas_nobel_affiliations.csv",
+  "Data/prizeatlas/prizeatlas_nobel_people.csv",
+  "Data/prizeatlas/prizeatlas_sciscinet_laureate_link.csv",
+  "Data/prizeatlas/crawl_log.csv",
+  "Data/prizeatlas/SOURCE.md"
+ ]
+}

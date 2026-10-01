@@ -1,0 +1,29 @@
+# Nobel Prize research profiles — Python dependencies
+# Tested with Python 3.12 (the "Curvature" conda environment on Midway3, jupyter kernel name "curvature").
+#   python -m venv .venv && . .venv/bin/activate && pip install -r requirements.txt
+#   python -m ipykernel install --user --name curvature --display-name "Python (Curvature)"
+# The notebooks read local data (OpenAlex 2026-01 snapshot, PatentsView, Science of Science outputs); see README.md.
+
+# data
+pandas==2.2.3
+numpy==1.26.4
+pyarrow==22.0.0
+duckdb==1.5.5
+scipy==1.11.4
+
+# networks and figures
+networkx==3.6.1
+matplotlib==3.10.7
+plotly==6.5.0
+
+# web (PrizeAtlas crawl, OpenAlex API titles and author search)
+requests==2.32.5
+beautifulsoup4==4.14.2
+
+# notebook execution (batch runners use `python -m jupyter nbconvert --execute`)
+nbconvert==7.16.6
+nbclient==0.10.2
+nbformat==5.10.4
+ipykernel==6.31.0
+jupyter_client==8.6.3
+jupyter_core==5.9.1
