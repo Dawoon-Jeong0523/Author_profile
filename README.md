@@ -50,21 +50,32 @@ the record below. Works published and patents granted up to 2021.
 | Patent → paper citations | **5,192** distinct inventions cite the works (11 of them his own) |
 | Collaboration | 245 co-authors, 13 co-inventors, **10** people on both sides |
 
-**Overview** — headline tiles, the percentile summary, every document against its cohort, cumulative output:
+The figures below are captures of the interactive (plotly) figures the notebook writes for the dashboard; the same
+figures are saved as `output/<author id>/figures/*.png` and `output/<author id>/html/*.html`.
 
-![Hinton: overview](docs/example/hinton_overview.png)
+**Every document against its cohort** — one dot per work or patent: its percentile among the documents of the same
+year and field (works) or grant year and CPC section (patents); boxes show the interquartile range:
 
-**Networks** — the person as a star in the co-authorship, co-invention and combined networks (people labelled
-`name (id)`; a black rim marks people on both sides); institution and assignee networks ring his own affiliations:
+![Hinton: percentile profile](docs/example/hinton/percentile_profile.png)
 
-![Hinton: networks](docs/example/hinton_networks.png)
+**Co-authorship network** — the person as a star among the co-authors (labelled `name (OpenAlex id)`, colour = year
+of the first collaboration, black rim = also a co-inventor):
+
+![Hinton: co-authorship network](docs/example/hinton/coauthorship_network.png)
+
+**Co-authorship and co-invention combined** — blue edges co-authorship, orange edges co-invention, green people on both sides:
+
+![Hinton: combined network](docs/example/hinton/combined_network.png)
 
 <details>
-<summary>More sections of the same dashboard: over time, books, patent → paper citations</summary>
+<summary>More figures: cumulative output, percentiles and citations per year, books, patent → paper citations, institutions</summary>
 
-![Hinton: mean percentile and citations per year](docs/example/hinton_over_time.png)
-![Hinton: citations from books](docs/example/hinton_books.png)
-![Hinton: patent to paper citations](docs/example/hinton_patent_citations.png)
+![Hinton: cumulative output](docs/example/hinton/cumulative_output.png)
+![Hinton: mean percentile per year](docs/example/hinton/percentile_per_year.png)
+![Hinton: citations per year](docs/example/hinton/citations_per_year.png)
+![Hinton: textbook reach](docs/example/hinton/textbook_reach.png)
+![Hinton: patent to paper citations](docs/example/hinton/patent_citations.png)
+![Hinton: institution network](docs/example/hinton/institution_network.png)
 
 </details>
 
@@ -330,7 +341,7 @@ Nobel Prize/
 │   ├── SciSciNet_Link_NobelLaureates.tsv   LaureateID, MAG PaperID, Type (1 = prize-winning paper)
 │   ├── Li2019/                       Li et al. (2019) laureate publication records (SOURCE.md)
 │   └── prizeatlas/                   PrizeAtlas crawl tables as CSV (SOURCE.md; the parquet twins and the html/ page cache are not versioned)
-├── docs/example/                     README screenshots
+├── docs/example/hinton/              README figures (captures of the interactive figures of the example)
 ├── requirements.txt
 └── README.md
 ```
