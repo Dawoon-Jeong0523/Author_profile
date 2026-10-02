@@ -1,0 +1,321 @@
+{
+ "field": "physics",
+ "runs": {
+  "balanced": 1,
+  "cards": 3,
+  "control": 5,
+  "main": 1
+ },
+ "noise_pairwise_all_control": 0.009142338461538462,
+ "noise_pairwise_1oct_control": 0.009253128205128204,
+ "single_run_dev": {
+  "control": [
+   0.005247730769230765,
+   0.005597461538461539,
+   0.011510653846153842,
+   0.006180115384615385,
+   0.007135807692307691
+  ],
+  "cards": [
+   0.009582092307692308,
+   0.011874276923076925,
+   0.003612369230769229
+  ],
+  "balanced": [
+   0.02277587692307692
+  ],
+  "main": [
+   0.03200387692307692
+  ]
+ },
+ "drift_2oct_control_vs_1oct_mean": 0.007135807692307691,
+ "drift_2oct_control_outside_1oct_range": 4,
+ "cards": {
+  "mean_abs_diff_vs_control": 0.006215989743589742,
+  "ratio_to_pairwise_noise": 0.6799124501614352,
+  "options_outside_control_range": 2,
+  "other": 0.31100900000000004,
+  "named_mass": 0.6889909999999999,
+  "entropy_bits": 3.155824534197256,
+  "spearman_vs_control": 0.9835164835164836,
+  "leader": 2,
+  "leader_p": 0.15440566666666666,
+  "rank_changes": {
+   "4": 1,
+   "6": 1,
+   "11": -2
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.14685314685314685,
+   "p": 0.6487957097846664,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": -0.1328671328671329,
+   "p": 0.6805975082860818,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": 0.07692307692307693,
+   "p": 0.8121826980280591,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.4755244755244756,
+   "p": 0.11817595701303213,
+   "n": 12
+  }
+ },
+ "balanced": {
+  "mean_abs_diff_vs_control": 0.02277587692307692,
+  "ratio_to_pairwise_noise": 2.4912528691531537,
+  "options_outside_control_range": 9,
+  "other": 0.3,
+  "named_mass": 0.7,
+  "entropy_bits": 3.202431041540772,
+  "spearman_vs_control": 0.8296703296703297,
+  "leader": 9,
+  "leader_p": 0.127746,
+  "rank_changes": {
+   "1": 2,
+   "2": 1,
+   "3": 2,
+   "4": 3,
+   "5": -1,
+   "8": -3,
+   "9": -4,
+   "10": -3,
+   "11": 3
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.5104895104895105,
+   "p": 0.08991373630263913,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": 0.14685314685314685,
+   "p": 0.6487957097846664,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": 0.4825174825174825,
+   "p": 0.11210929146889191,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.5104895104895105,
+   "p": 0.08991373630263913,
+   "n": 12
+  }
+ },
+ "main": {
+  "mean_abs_diff_vs_control": 0.03200387692307692,
+  "ratio_to_pairwise_noise": 3.5006226314762086,
+  "options_outside_control_range": 11,
+  "other": 0.38,
+  "named_mass": 0.62,
+  "entropy_bits": 3.0329938685414985,
+  "spearman_vs_control": 0.6648351648351648,
+  "leader": 9,
+  "leader_p": 0.133477,
+  "rank_changes": {
+   "1": 2,
+   "2": 6,
+   "3": -1,
+   "4": 3,
+   "5": -1,
+   "6": -1,
+   "7": 2,
+   "8": -3,
+   "9": -4,
+   "10": -4,
+   "11": 4,
+   "12": -3
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.3216783216783217,
+   "p": 0.30790987618065263,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": 0.0979020979020979,
+   "p": 0.762121655996299,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": 0.4685314685314686,
+   "p": 0.124454791188834,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.6153846153846154,
+   "p": 0.03316990109010587,
+   "n": 12
+  }
+ },
+ "control": {
+  "other": 0.334702,
+  "named_mass": 0.665298,
+  "leader": 2,
+  "leader_p": 0.1470072,
+  "entropy_bits": 3.1084091872306496,
+  "level_vs_impact_share": {
+   "spearman": 0.1188811188811189,
+   "p": 0.712884219214772,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.49650349650349657,
+   "p": 0.10060263183225483,
+   "n": 12
+  }
+ },
+ "main_minus_cards_mean_abs": 0.03379471794871794,
+ "balanced_position": {
+  "projection_cards0_main1": 0.5017410237095652,
+  "mean_abs_vs_cards": 0.02092164102564103,
+  "mean_abs_vs_main": 0.018374615384615385,
+  "spearman_vs_cards": 0.7967032967032966,
+  "spearman_vs_main": 0.8626373626373626
+ },
+ "writeup_term_means": {
+  "balanced": {
+   "percentile": 5.0,
+   "disruption": 3.0,
+   "patent": 8.0,
+   "textbook/book": 6.0,
+   "laureate": 4.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 11.0,
+   "premise": 3.0,
+   "sub: percentile": 28.0,
+   "sub: disruption": 22.0,
+   "sub: patent": 50.0,
+   "sub: textbook/book": 52.0,
+   "sub: laureate": 39.0,
+   "sub: co-author": 4.0,
+   "sub: supplied bibliometrics": 18.0,
+   "sub: premise": 4.0,
+   "chars": 15509.0,
+   "n_sources": 175.0
+  },
+  "cards": {
+   "percentile": 0.67,
+   "disruption": 0.33,
+   "patent": 3.33,
+   "textbook/book": 0.0,
+   "laureate": 5.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 1.0,
+   "premise": 0.33,
+   "sub: percentile": 3.67,
+   "sub: disruption": 1.33,
+   "sub: patent": 16.33,
+   "sub: textbook/book": 1.67,
+   "sub: laureate": 26.33,
+   "sub: co-author": 2.0,
+   "sub: supplied bibliometrics": 8.0,
+   "sub: premise": 0.33,
+   "chars": 15608.67,
+   "n_sources": 310.0
+  },
+  "control": {
+   "percentile": 0.0,
+   "disruption": 0.0,
+   "patent": 2.6,
+   "textbook/book": 0.0,
+   "laureate": 7.4,
+   "co-author": 0.0,
+   "supplied bibliometrics": 0.0,
+   "premise": 0.8,
+   "sub: percentile": 0.0,
+   "sub: disruption": 0.2,
+   "sub: patent": 13.0,
+   "sub: textbook/book": 0.0,
+   "sub: laureate": 27.0,
+   "sub: co-author": 0.0,
+   "sub: supplied bibliometrics": 0.4,
+   "sub: premise": 1.8,
+   "chars": 13836.6,
+   "n_sources": 283.8
+  },
+  "main": {
+   "percentile": 4.0,
+   "disruption": 2.0,
+   "patent": 11.0,
+   "textbook/book": 14.0,
+   "laureate": 10.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 2.0,
+   "premise": 0.0,
+   "sub: percentile": 26.0,
+   "sub: disruption": 29.0,
+   "sub: patent": 61.0,
+   "sub: textbook/book": 75.0,
+   "sub: laureate": 60.0,
+   "sub: co-author": 9.0,
+   "sub: supplied bibliometrics": 18.0,
+   "sub: premise": 3.0,
+   "chars": 14456.0,
+   "n_sources": 130.0
+  }
+ },
+ "main_quotes_final": [
+  "That benchmark supports comparisons across research impact, technological use and textbook incorporation ([profile provenance](sandbox:/mnt/data/physics_forecast_basis.",
+  "The primary evidence consists of the supplied profiles for 34 people across 12 discoveries.",
+  "Work-level cohort percentiles and the percentage of past laureates exceeded remain separate quantities ([supplied profile evidence](sandbox:/mnt/data/physics_forecast_basis.",
+  "I use a profile ensemble rather than one rigid weighting.",
+  "Here \\(P_O\\) is the probability of Other, \\(q_i\\) is the pooled profile-only probability conditional on a named discovery winning, and \\(a_i\\) is its secondary multiplier.",
+  "| Discovery | Final chance | Main profile driver |",
+  "| Cosmic neutrinos | 2% | Strong defining discovery and impact, but less uniform breadth across the named profiles.",
+  "All table entries are rounded summaries of the supplied profiles and final calculation; the JSON probabilities retain the normalized allocation ([table basis](sandbox:/mnt/data/physics_forecast_basis."
+ ],
+ "main_quotes_sub": [
+  "I treated the user-provided profiles as the primary evidence for allocating probability among the named options.",
+  "- Impact block: mean of the percentile ranks for median impact, top-10% work share and top-1% work share.",
+  "- Translation block: mean of the percentile ranks for citing inventions and own patents.",
+  "- Textbook block: mean of the percentile ranks for works cited by books and distinct citing books.",
+  "- Option profile score: arithmetic mean of its named people’s person scores.",
+  "72 | Extraordinary profiles, but a broad platform and close to recent quantum prizes |",
+  "97 | Exceptional profiles and momentum, offset by youth and attribution complexity |",
+  "85 | Strong profiles and theory-to-experiment chain, offset by the 2016 topology prize |",
+  "15 | Patent-light profile understates basic-science importance; collaboration credit remains difficult |",
+  "05 | Profile metrics understate instrumentation impact, but attribution is difficult |"
+ ],
+ "main_subforecast_sd_mean": 0.014456816587018214,
+ "main_subforecast_other": [
+  0.4,
+  0.4,
+  0.33,
+  0.35
+ ],
+ "balanced_quotes_final": [
+  "Settlement follows the discovery in the official motivation, not an exact match to the printed laureate lineup ([client’s resolution rules](sandbox:/mnt/data/profile_evidence.",
+  "This forecast uses the client’s information cutoff of October 2, 2026, at 15:12 UTC ([timing premises](sandbox:/mnt/data/profile_evidence.",
+  "Different recipients can still produce a match ([resolution rules](sandbox:/mnt/data/profile_evidence.",
+  "Individual publication windows and sample sizes are preserved in the [profile evidence note](sandbox:/mnt/data/profile_evidence.",
+  "Profiles and outside evidence receive equal influence in the ranking model.",
+  "For each listed discovery, \\(B_i\\) is a dimensionless profile-support score summarizing discovery-relevant impact, defining works, textbook incorporation, technological translation and collaboration.",
+  "Profile-only weights are proportional to \\(\\exp(6B_i)\\).",
+  "| Discovery | Profile support B | Outside weight R |"
+ ],
+ "balanced_quotes_sub": [
+  "User-supplied profile evidence, about one-third of the relative evidence among named options.",
+  "Profile evidence: Katori's defining optical-clock papers are all exceptionally high-impact, while Ye has one of the stronger overall profiles: high median impact, substantial top-1% work, strong technological translation and extensive collaborations with prior atomic-physics Nobel laureates.",
+  "Profile evidence: Jarillo-Herrero and MacDonald have elite profiles, with unusually large shares of top-impact papers and strong textbook reach.",
+  "Bistritzer's publication count is tiny, but his nine-paper profile is extraordinarily concentrated in high-impact work, led by the 2011 magic-angle theory.",
+  "This is one of the strongest theory-to-experiment combinations in the supplied profiles.",
+  "Profile evidence: Berry and Aharonov do not dominate every bibliometric measure, but their historic works have exceptional conceptual disruption and textbook reach.",
+  "Aharonov's 1959 potentials paper is among the clearest genuinely disruptive works in the supplied profiles, and both researchers' ideas permeate several areas of physics rather than one narrow application.",
+  "Profile evidence: this is arguably the strongest three-person profile set.",
+  "Bloch's median impact percentile and top-1% share exceed the reference set of recent laureates; Cirac and Zoller also have exceptional citation, textbook and collaboration records.",
+  "Profile evidence: Kane has one of the strongest individual profiles in the entire set, including a very high median impact percentile and an exceptional concentration of top-impact work."
+ ],
+ "balanced_subforecast_sd_mean": 0.016053234411284065,
+ "balanced_subforecast_other": [
+  0.245,
+  0.316,
+  0.2969,
+  0.32
+ ]
+}

@@ -254,6 +254,7 @@ def style():
         'axes.labelcolor': INK2, 'axes.titlecolor': INK, 'xtick.color': INK2, 'ytick.color': INK2,
         'axes.grid': True, 'grid.color': GRID, 'grid.linewidth': .6, 'grid.linestyle': '-',
         'lines.linewidth': 2, 'lines.markersize': 6, 'legend.frameon': False,
+        'text.parse_math': False,      # titles such as '$GL_n(\mathbb C)$' are text, not mathtext (an unknown macro raises)
     })
 
 

@@ -1,0 +1,325 @@
+{
+ "field": "medicine",
+ "runs": {
+  "balanced": 1,
+  "cards": 3,
+  "control": 5,
+  "main": 1
+ },
+ "noise_pairwise_all_control": 0.008917769230769229,
+ "noise_pairwise_1oct_control": 0.008937102564102564,
+ "single_run_dev": {
+  "control": [
+   0.005996211538461537,
+   0.0063041730769230735,
+   0.00803375,
+   0.010061596153846152,
+   0.007266615384615382
+  ],
+  "cards": [
+   0.008212076923076924,
+   0.006469830769230769,
+   0.006038584615384614
+  ],
+  "balanced": [
+   0.02125853846153846
+  ],
+  "main": [
+   0.04665949230769231
+  ]
+ },
+ "drift_2oct_control_vs_1oct_mean": 0.007266615384615382,
+ "drift_2oct_control_outside_1oct_range": 4,
+ "cards": {
+  "mean_abs_diff_vs_control": 0.004231805128205126,
+  "ratio_to_pairwise_noise": 0.4745362902646113,
+  "options_outside_control_range": 4,
+  "other": 0.30383333333333334,
+  "named_mass": 0.6961666666666666,
+  "entropy_bits": 3.0761717643872486,
+  "spearman_vs_control": 0.9285714285714285,
+  "leader": 1,
+  "leader_p": 0.19646533333333335,
+  "rank_changes": {
+   "2": -3,
+   "3": 1,
+   "6": 3,
+   "8": -1,
+   "9": -1,
+   "11": 2,
+   "12": -1
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.5104895104895105,
+   "p": 0.08991373630263913,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": 0.06293706293706294,
+   "p": 0.8459309212287789,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": -0.1328671328671329,
+   "p": 0.6805975082860818,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": -0.5104895104895105,
+   "p": 0.08991373630263913,
+   "n": 12
+  }
+ },
+ "balanced": {
+  "mean_abs_diff_vs_control": 0.02125853846153846,
+  "ratio_to_pairwise_noise": 2.3838403878168912,
+  "options_outside_control_range": 9,
+  "other": 0.34,
+  "named_mass": 0.6599999999999999,
+  "entropy_bits": 3.1142599211214397,
+  "spearman_vs_control": 0.8131868131868131,
+  "leader": 7,
+  "leader_p": 0.116748,
+  "rank_changes": {
+   "1": 1,
+   "2": -2,
+   "4": 4,
+   "6": 4,
+   "7": -1,
+   "8": -4,
+   "9": -3,
+   "10": -1,
+   "11": 2
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.4125874125874127,
+   "p": 0.18256397857316675,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": 0.4125874125874127,
+   "p": 0.18256397857316675,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": -0.06293706293706294,
+   "p": 0.8459309212287789,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": -0.2657342657342658,
+   "p": 0.40383308831471165,
+   "n": 12
+  }
+ },
+ "main": {
+  "mean_abs_diff_vs_control": 0.04665949230769231,
+  "ratio_to_pairwise_noise": 5.2321932873864645,
+  "options_outside_control_range": 13,
+  "other": 0.4,
+  "named_mass": 0.6,
+  "entropy_bits": 3.063895903449678,
+  "spearman_vs_control": -0.027472527472527472,
+  "leader": 2,
+  "leader_p": 0.079003,
+  "rank_changes": {
+   "1": 9,
+   "2": -5,
+   "3": 3,
+   "4": 7,
+   "5": -2,
+   "6": 3,
+   "7": 5,
+   "8": -7,
+   "9": -7,
+   "10": -3,
+   "11": 4,
+   "12": -7
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.6363636363636365,
+   "p": 0.026096891052703127,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": 0.3846153846153847,
+   "p": 0.21702022575997748,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": 0.5804195804195805,
+   "p": 0.04785597684206058,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.1258741258741259,
+   "p": 0.6966831093957659,
+   "n": 12
+  }
+ },
+ "control": {
+  "other": 0.3097778,
+  "named_mass": 0.6902222,
+  "leader": 1,
+  "leader_p": 0.20324040000000002,
+  "entropy_bits": 3.04010118195512,
+  "level_vs_impact_share": {
+   "spearman": -0.32867132867132864,
+   "p": 0.2969041156887641,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": -0.44055944055944063,
+   "p": 0.15173503571673022,
+   "n": 12
+  }
+ },
+ "main_minus_cards_mean_abs": 0.044014128205128206,
+ "balanced_position": {
+  "projection_cards0_main1": 0.41531156489929943,
+  "mean_abs_vs_cards": 0.018667000000000003,
+  "mean_abs_vs_main": 0.031542615384615384,
+  "spearman_vs_cards": 0.901098901098901,
+  "spearman_vs_main": 0.41208791208791207
+ },
+ "writeup_term_means": {
+  "balanced": {
+   "percentile": 2.0,
+   "disruption": 3.0,
+   "patent": 6.0,
+   "textbook/book": 7.0,
+   "laureate": 9.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 14.0,
+   "premise": 2.0,
+   "sub: percentile": 31.0,
+   "sub: disruption": 27.0,
+   "sub: patent": 62.0,
+   "sub: textbook/book": 54.0,
+   "sub: laureate": 35.0,
+   "sub: co-author": 4.0,
+   "sub: supplied bibliometrics": 16.0,
+   "sub: premise": 7.0,
+   "chars": 15961.0,
+   "n_sources": 281.0
+  },
+  "cards": {
+   "percentile": 0.0,
+   "disruption": 0.0,
+   "patent": 0.0,
+   "textbook/book": 0.0,
+   "laureate": 7.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 1.0,
+   "premise": 0.33,
+   "sub: percentile": 3.67,
+   "sub: disruption": 1.33,
+   "sub: patent": 5.33,
+   "sub: textbook/book": 3.0,
+   "sub: laureate": 32.0,
+   "sub: co-author": 1.33,
+   "sub: supplied bibliometrics": 8.0,
+   "sub: premise": 1.33,
+   "chars": 13590.67,
+   "n_sources": 311.33
+  },
+  "control": {
+   "percentile": 0.0,
+   "disruption": 0.0,
+   "patent": 0.0,
+   "textbook/book": 0.0,
+   "laureate": 7.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 0.0,
+   "premise": 0.2,
+   "sub: percentile": 0.0,
+   "sub: disruption": 0.0,
+   "sub: patent": 0.2,
+   "sub: textbook/book": 0.0,
+   "sub: laureate": 34.2,
+   "sub: co-author": 0.0,
+   "sub: supplied bibliometrics": 0.4,
+   "sub: premise": 1.8,
+   "chars": 14376.2,
+   "n_sources": 320.8
+  },
+  "main": {
+   "percentile": 1.0,
+   "disruption": 6.0,
+   "patent": 12.0,
+   "textbook/book": 11.0,
+   "laureate": 5.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 1.0,
+   "premise": 2.0,
+   "sub: percentile": 31.0,
+   "sub: disruption": 48.0,
+   "sub: patent": 104.0,
+   "sub: textbook/book": 91.0,
+   "sub: laureate": 31.0,
+   "sub: co-author": 6.0,
+   "sub: supplied bibliometrics": 20.0,
+   "sub: premise": 6.0,
+   "chars": 11363.0,
+   "n_sources": 207.0
+  }
+ },
+ "main_quotes_final": [
+  "0% ([forecast calculation](sandbox:/mnt/data/nobel_2026_profile_model.",
+  "Optogenetics and Wnt signaling/organoids lead the named discoveries, each at 8% ([forecast calculation](sandbox:/mnt/data/nobel_2026_profile_model.",
+  "0% probability, and a different laureate lineup does not invalidate a matching discovery ([calculation and resolution rules](sandbox:/mnt/data/nobel_2026_profile_model.",
+  "The Medicine announcement remains ahead: it is scheduled for October 5, 2026, at 11:30 CEST at the earliest, equivalent to 09:30 UTC ([forecast cutoff](sandbox:/mnt/data/nobel_2026_profile_model.",
+  "I apply the larger-share rule, then the first-mentioned rule for equal shares, and make the supplied profiles the main evidence for comparing named discoveries ([client premises and resolution rules](sandbox:/mnt/data/nobel_2026_profile_model.",
+  "Individual coverage windows and work sample sizes are retained in the [profile data and calculation](sandbox:/mnt/data/nobel_2026_profile_model.",
+  "I accept these premises without a vintage or attribution penalty.",
+  "Cohort percentiles and foundation shares are fractions; inventions, patents and books are counts ([supplied definitions](sandbox:/mnt/data/nobel_2026_profile_model."
+ ],
+ "main_quotes_sub": [
+  "I followed the instruction to make the supplied profiles the primary basis for dividing probability among the named options.",
+  "For each named person I calculated a profile score from the supplied profile figures.",
+  "- 18%: percentile comparison for median research impact",
+  "- 12%: percentile comparison for share of works in the top 10%",
+  "- 14%: percentile comparison for share of works in the top 1%",
+  "- 16%: percentile comparison for distinct citing inventions",
+  "- 10%: percentile comparison for works cited by books",
+  "- 12%: percentile comparison for distinct citing books",
+  "- 7%: maximum disruption percentile among the three defining works",
+  "I converted these option scores into relative profile weights using:"
+ ],
+ "main_subforecast_sd_mean": 0.018998091326651232,
+ "main_subforecast_other": [
+  0.48,
+  0.32,
+  0.35,
+  0.3
+ ],
+ "balanced_quotes_final": [
+  "The supplied profiles are a main evidence source, with influence comparable to awards and other external evidence.",
+  "Impact and disruption measures are dimensionless percentiles; foundation shares are proportions; inventions, patents and books are counts.",
+  "References labeled supplied profiles identify these client-provided premises, not independently collected measurements.",
+  "Three checks drove the assessment: whether orexin's recent milestones were substantive rather than publicity; whether the profiles changed a headline-led ranking; and whether omitted discoveries warranted a large Other allocation.",
+  "The profile case rests on unusually clear defining discoveries, despite less exceptional career-wide impact comparisons.",
+  "De Lecea's supplied hypocretin paper has disruption percentile 0.",
+  "These are five-year measures for the respective papers, not career averages (supplied profiles).",
+  "Their career-wide impact comparisons are less uniformly exceptional than those of several competing teams, which restrains the probability (supplied profiles)."
+ ],
+ "balanced_quotes_sub": [
+  "GLP-1 has the strongest accumulation of major recognition and the clearest same-year bibliometric signal; orexin has the strongest late-breaking biological narrative, combining the September 2026 Lasker Award with an August 2026 FDA approval that directly validates the discovery.",
+  "From the client-supplied profiles, I averaged five equally weighted relative-to-past-laureate measures: median-impact standing, top-10%-work standing, top-1%-work standing, citing-invention standing and citing-book standing.",
+  "| Discovery | Profile | External signal | Nobel fit | Composite |",
+  "Holst has exceptional technological and textbook reach—his citing-invention comparison exceeds 97% of recent laureates and his citing-book count exceeds all of them—but Mojsov has a small publication record and comparatively limited book reach, while Knudsen’s strongest profile dimension is translation rather than broad academic impact.",
+  "Their defining papers are highly impactful, but the profile evidence is less uniformly elite than for Wnt, PCSK9, leptin or optogenetics.",
+  "Profile evidence: The broad profile index is again modest at 40.",
+  "Thus the profiles support a sharply concentrated landmark discovery rather than uniformly exceptional career-wide metrics.",
+  "Profile evidence: CAR-T’s profiles show extraordinary translation.",
+  "Lower career-wide impact percentiles for June and especially Sadelain prevent an even higher profile score.",
+  "Profile evidence: This is one of the strongest profile packages."
+ ],
+ "balanced_subforecast_sd_mean": 0.02202551743620211,
+ "balanced_subforecast_other": [
+  0.42,
+  0.28,
+  0.27,
+  0.3
+ ]
+}

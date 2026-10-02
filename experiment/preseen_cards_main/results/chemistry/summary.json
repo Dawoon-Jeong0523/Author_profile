@@ -1,0 +1,324 @@
+{
+ "field": "chemistry",
+ "runs": {
+  "balanced": 1,
+  "cards": 3,
+  "control": 5,
+  "main": 1
+ },
+ "noise_pairwise_all_control": 0.007203123076923076,
+ "noise_pairwise_1oct_control": 0.006978897435897436,
+ "single_run_dev": {
+  "control": [
+   0.005733480769230772,
+   0.005860942307692307,
+   0.006050846153846152,
+   0.0050807692307692325,
+   0.006675307692307688
+  ],
+  "cards": [
+   0.006671446153846156,
+   0.0063966769230769235,
+   0.0055559384615384575
+  ],
+  "balanced": [
+   0.019379107692307693
+  ],
+  "main": [
+   0.02857261538461538
+  ]
+ },
+ "drift_2oct_control_vs_1oct_mean": 0.006675307692307688,
+ "drift_2oct_control_outside_1oct_range": 7,
+ "cards": {
+  "mean_abs_diff_vs_control": 0.004696676923076925,
+  "ratio_to_pairwise_noise": 0.6520334128572439,
+  "options_outside_control_range": 5,
+  "other": 0.33146666666666663,
+  "named_mass": 0.6685333333333334,
+  "entropy_bits": 3.0924224683220936,
+  "spearman_vs_control": 0.945054945054945,
+  "leader": 2,
+  "leader_p": 0.192267,
+  "rank_changes": {
+   "3": 2,
+   "4": 2,
+   "5": -1,
+   "7": -2,
+   "8": -2,
+   "9": -1,
+   "10": 1,
+   "11": 1
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.1188811188811189,
+   "p": 0.712884219214772,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": 0.40280271929454914,
+   "p": 0.19420166941805767,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": -0.5174825174825175,
+   "p": 0.08486877113393493,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.08056054385890982,
+   "p": 0.80345110920634,
+   "n": 12
+  }
+ },
+ "balanced": {
+  "mean_abs_diff_vs_control": 0.019379107692307693,
+  "ratio_to_pairwise_noise": 2.69037575581532,
+  "options_outside_control_range": 9,
+  "other": 0.375,
+  "named_mass": 0.625,
+  "entropy_bits": 3.1157401346764555,
+  "spearman_vs_control": 0.8516483516483516,
+  "leader": 2,
+  "leader_p": 0.100333,
+  "rank_changes": {
+   "1": 4,
+   "3": -1,
+   "4": 2,
+   "5": 2,
+   "6": -1,
+   "7": -2,
+   "8": 2,
+   "9": -2,
+   "11": -4
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.22377622377622378,
+   "p": 0.48445166145539886,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": 0.3747816605610153,
+   "p": 0.23000298000625266,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": -0.6153846153846154,
+   "p": 0.03316990109010587,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.12959739664259406,
+   "p": 0.6881039438604584,
+   "n": 12
+  }
+ },
+ "main": {
+  "mean_abs_diff_vs_control": 0.02857261538461538,
+  "ratio_to_pairwise_noise": 3.9666982056928295,
+  "options_outside_control_range": 9,
+  "other": 0.38,
+  "named_mass": 0.62,
+  "entropy_bits": 3.124968599975448,
+  "spearman_vs_control": 0.521978021978022,
+  "leader": 11,
+  "leader_p": 0.094229,
+  "rank_changes": {
+   "1": 4,
+   "2": 4,
+   "3": -2,
+   "4": 1,
+   "5": 6,
+   "7": 1,
+   "8": 1,
+   "9": -7,
+   "10": -1,
+   "11": -7
+  },
+  "delta_vs_impact_share": {
+   "spearman": 0.3426573426573427,
+   "p": 0.27556745095678037,
+   "n": 12
+  },
+  "delta_vs_inventions_share": {
+   "spearman": 0.12609476430090233,
+   "p": 0.6961737926666621,
+   "n": 12
+  },
+  "level_vs_impact_share": {
+   "spearman": -0.37762237762237766,
+   "p": 0.22620604493502663,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.3187395430939476,
+   "p": 0.31260167621841195,
+   "n": 12
+  }
+ },
+ "control": {
+  "other": 0.3355082,
+  "named_mass": 0.6644918,
+  "leader": 2,
+  "leader_p": 0.19047039999999998,
+  "entropy_bits": 3.0815588211352924,
+  "level_vs_impact_share": {
+   "spearman": -0.6293706293706295,
+   "p": 0.02831967129576002,
+   "n": 12
+  },
+  "level_vs_inventions_share": {
+   "spearman": 0.03852895575860905,
+   "p": 0.9053700700498719,
+   "n": 12
+  }
+ },
+ "main_minus_cards_mean_abs": 0.03019769230769231,
+ "balanced_position": {
+  "projection_cards0_main1": 0.634687713997177,
+  "mean_abs_vs_cards": 0.019545179487179487,
+  "mean_abs_vs_main": 0.014210153846153846,
+  "spearman_vs_cards": 0.7857142857142857,
+  "spearman_vs_main": 0.7802197802197801
+ },
+ "writeup_term_means": {
+  "balanced": {
+   "percentile": 4.0,
+   "disruption": 4.0,
+   "patent": 15.0,
+   "textbook/book": 11.0,
+   "laureate": 17.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 8.0,
+   "premise": 2.0,
+   "sub: percentile": 49.0,
+   "sub: disruption": 33.0,
+   "sub: patent": 115.0,
+   "sub: textbook/book": 75.0,
+   "sub: laureate": 55.0,
+   "sub: co-author": 5.0,
+   "sub: supplied bibliometrics": 18.0,
+   "sub: premise": 1.0,
+   "chars": 18371.0,
+   "n_sources": 234.0
+  },
+  "cards": {
+   "percentile": 0.33,
+   "disruption": 0.0,
+   "patent": 0.33,
+   "textbook/book": 0.0,
+   "laureate": 10.33,
+   "co-author": 0.0,
+   "supplied bibliometrics": 1.0,
+   "premise": 0.33,
+   "sub: percentile": 3.33,
+   "sub: disruption": 1.0,
+   "sub: patent": 9.67,
+   "sub: textbook/book": 2.0,
+   "sub: laureate": 40.33,
+   "sub: co-author": 1.0,
+   "sub: supplied bibliometrics": 11.0,
+   "sub: premise": 1.33,
+   "chars": 14860.0,
+   "n_sources": 316.0
+  },
+  "control": {
+   "percentile": 0.0,
+   "disruption": 0.0,
+   "patent": 0.2,
+   "textbook/book": 0.0,
+   "laureate": 9.4,
+   "co-author": 0.0,
+   "supplied bibliometrics": 0.0,
+   "premise": 0.4,
+   "sub: percentile": 0.0,
+   "sub: disruption": 0.0,
+   "sub: patent": 1.0,
+   "sub: textbook/book": 0.0,
+   "sub: laureate": 34.6,
+   "sub: co-author": 0.0,
+   "sub: supplied bibliometrics": 0.0,
+   "sub: premise": 2.6,
+   "chars": 13784.4,
+   "n_sources": 275.6
+  },
+  "main": {
+   "percentile": 1.0,
+   "disruption": 9.0,
+   "patent": 26.0,
+   "textbook/book": 11.0,
+   "laureate": 7.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 2.0,
+   "premise": 0.0,
+   "sub: percentile": 14.0,
+   "sub: disruption": 58.0,
+   "sub: patent": 148.0,
+   "sub: textbook/book": 93.0,
+   "sub: laureate": 44.0,
+   "sub: co-author": 9.0,
+   "sub: supplied bibliometrics": 22.0,
+   "sub: premise": 3.0,
+   "chars": 13659.0,
+   "n_sources": 101.0
+  }
+ },
+ "main_quotes_final": [
+  "The profile evidence supports a spread-out forecast, not a dominant named favorite.",
+  "The supplied profiles are the main evidence for comparing named options.",
+  "Within each case, conditional probabilities are proportional to \\(\\exp(5S_i)\\), where \\(S_i\\) is the combined profile score.",
+  "The resulting discovery probabilities and their main profile drivers are:",
+  "| Discovery | Probability | Profile evidence driving the estimate |",
+  "([Profiles](sandbox:/mnt/data/chemistry_forecast_inputs.",
+  "| Solid-state perovskite solar cells | 8% | Snaith’s median impact percentile is 0.",
+  "After normalization, these changes move about 2% of conditional named-option probability mass, leaving the ranking principally profile-driven ([adjustment calculation](sandbox:/mnt/data/chemistry_forecast_inputs."
+ ],
+ "main_quotes_sub": [
+  "I treated the supplied profiles as true and made them the primary comparative evidence.",
+  "Because resolution is by discovery and the named people need not exactly equal the eventual laureates, I did not let a weak third profile dominate an option.",
+  "I then applied qualitative multipliers for facts not captured by the seven profile metrics: whether the defining works directly establish the named discovery, whether attribution fits the three-person ceiling, maturity, overlap with very recent Nobel topics, and current precursor or technological-validation signals.",
+  "| Discovery | Profile score | Profile baseline | Adjustment multiplier | Final probability |",
+  "The profiles themselves are mixed but contain two strong anchors.",
+  "Balasubramanian has exceptionally high technological translation—above 97% of the comparison laureates in citing inventions and 88% in own patents—while Klenerman's profile is also above 92% in citing inventions.",
+  "Mayer's publication and book profile is substantially weaker, which keeps this from being much higher.",
+  "This is the strongest or nearly strongest profile-derived option.",
+  "The supplied profiles show a balanced, high-level trio.",
+  "This option is led by Snaith's exceptional profile: median impact above 95% of recent Chemistry laureates, top-1% share above 97%, and a highly disruptive 2012 defining paper."
+ ],
+ "main_subforecast_sd_mean": 0.016687608229705556,
+ "main_subforecast_other": [
+  0.43,
+  0.3,
+  0.3,
+  0.3
+ ],
+ "balanced_quotes_final": [
+  "The client-supplied profiles are accepted premises and receive half the weight in the comparison among listed discoveries.",
+  "Profile citations below refer to these supplied premises.",
+  "For the profiles, I emphasize defining-work evidence, technological translation and durable textbook influence.",
+  "Its profile case rests on the reversible-terminator sequencing paper’s 1,532 citing inventions and fourteen citing books, plus Balasubramanian’s and Klenerman’s career totals of 2,366 and 2,009 citing inventions.",
+  "Mayer’s smaller publication record does not negate the technological contribution (supplied profiles).",
+  "Nanoparticle delivery has the strongest overall profile assessment.",
+  "Langer’s supplied record contains 20,350 citing inventions, 419 patents and 13,033 citing books; Cullis and Kataoka add substantial discovery-linked translation (supplied profiles).",
+  "Perovskite solar cells combine exceptional profile evidence with direct recent recognition."
+ ],
+ "balanced_quotes_sub": [
+  "Profile evidence supplied by the client — 30% of the comparative model.",
+  "For each person, I formed a profile composite from the supplied comparisons with 2000–2025 Chemistry laureates:",
+  "- 45% impact: mean of median-impact, top-10%, and top-1% comparison percentiles;",
+  "- 35% technological translation: mean of citing-invention and own-patent comparison percentiles;",
+  "- 20% textbook reach: mean of works-cited-by-books and distinct-citing-books percentiles.",
+  "Profile evidence: Balasubramanian and Klenerman have very strong technological-translation records: their supplied profiles place citing inventions at the 97th and 92nd percentiles respectively versus recent Chemistry laureates, while the reversible-terminator whole-genome paper is cited by 1,532 inventions.",
+  "Mayer's publication and textbook profile is much weaker, but the option is about the discovery, and his industrial contribution is reflected better by patents and external awards than by publication counts.",
+  "Profile evidence: Snaith has the strongest pure-impact profile in the entire supplied set: median impact at the 95th comparison percentile, top-1% work share at the 97th, and a seminal 2012 paper with 0.",
+  "Profile evidence: The option has three strong profiles.",
+  "Their profile evidence is less uniformly overwhelming than the drug-delivery or nanopore groups, but it is closely tied to a genuinely new drug-design paradigm."
+ ],
+ "balanced_subforecast_sd_mean": 0.011977459697122802,
+ "balanced_subforecast_other": [
+  0.38,
+  0.38,
+  0.34,
+  0.4
+ ]
+}

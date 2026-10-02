@@ -22,3 +22,7 @@ notebook/*[Cc]opy*.ipynb
 # Preseen experiment: client state (question ids, API responses) and raw committee outputs
 experiment/preseen/preseen_exp/
 experiment/preseen/committee/*/raw/
+
+# "cards as main evidence" follow-up: client state
+experiment/preseen_cards_main/preseen_exp/
+experiment/preseen_cards_balanced/preseen_exp/

@@ -1,0 +1,24 @@
+{
+  "type": "multiple_choice",
+  "title": "Which discovery will the 2026 Nobel Prize in Physics be awarded for?",
+  "description": "The 2026 Nobel Prize in Physics is scheduled to be announced on Tuesday 6 October 2026. Each option names a discovery and the people most closely associated with it.",
+  "resolution_criteria": "Resolves to the option whose discovery matches the discovery named in the official motivation of the 2026 Nobel Prize in Physics, as published at nobelprize.org. Options are matched by discovery; the people named in an option need not match the laureates exactly. If the prize is divided between two discoveries, only the discovery with the larger share counts; if the shares are equal, the discovery named first in the announcement counts. If no option matches that discovery, the question resolves to Other.",
+  "options": [
+    "for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect — Charles L. Kane, Eugene J. Mele, Laurens W. Molenkamp",
+    "for the invention and development of optical lattice clocks, enabling time and frequency measurements at unprecedented precision — Hidetoshi Katori, Jun Ye",
+    "for the theoretical prediction and experimental realization of negative index metamaterials — John B. Pendry, David R. Smith, Eli Yablonovitch",
+    "for the discovery of topological and geometric phases in quantum systems — Michael V. Berry, Yakir Aharonov",
+    "for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene — Allan H. MacDonald, Pablo Jarillo-Herrero, Rafi Bistritzer",
+    "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms — Charles H. Bennett, Gilles Brassard, Peter W. Shor",
+    "for pioneering contributions to neutrino astronomy, in particular the discovery of high-energy cosmic neutrinos — Francis Halzen, Albrecht Karle, Naoko Kurahashi Neilson",
+    "for the observation of the shadow of a black hole by event-horizon-scale radio interferometry — Heino Falcke, Sheperd S. Doeleman, Katherine L. Bouman",
+    "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices — Immanuel Bloch, J. Ignacio Cirac, Peter Zoller",
+    "for the invention of the quantum cascade laser — Alfred Y. Cho, Federico Capasso, Jérôme Faist",
+    "for the invention of aberration-corrected electron optics, enabling electron microscopy with sub-ångström resolution — Maximilian Haider, Knut Urban, Ondrej L. Krivanek",
+    "for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure — Alan H. Guth, Andrei Linde, Viatcheslav Mukhanov",
+    "Other"
+  ],
+  "options_are_mutually_exclusive": true,
+  "options_are_comprehensive": true,
+  "visibility": "private"
+}

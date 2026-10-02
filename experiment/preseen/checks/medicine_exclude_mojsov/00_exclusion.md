@@ -1,0 +1,1 @@
+Assumption for this forecast: Svetlana Mojsov will not be among the laureates of the 2026 Nobel Prize in Physiology or Medicine. Exclude her from consideration as a possible laureate when you estimate the probabilities.

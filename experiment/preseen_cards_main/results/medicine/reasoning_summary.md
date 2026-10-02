@@ -1,0 +1,7 @@
+**The run turns the cards into a scoring model.** The main-evidence run scores every named person from the card figures (impact, technological translation, textbook reach and collaboration weighted 40/30/25/5), blends the strongest person with the group mean (65:35), adds the option's defining works (20 %), and averages 81 weightings with a 10 % uniform component. It says it accepts the premises "without a vintage or attribution penalty". Prizes and news no longer rank the named options; they are used to size "Other" (40 %), which now lists optical coherence tomography, integrins, cGAS, TOR and low-complexity domains as unlisted contenders.
+
+**The award favourite collapses.** GLP-1 falls from 20.3 % (control mean) to 3.0 %: the write-up cites Holst's translation figures but finds the group's impact comparisons and Mojsov's and Knudsen's book reach "below the leaders". Its 2024 Lasker and the 2026 Clarivate selection are mentioned but no longer move it. Orexin, the other award-backed option, falls from 12.1 % to 4.8 %.
+
+**Profile-strong options rise.** Optogenetics (7.9 %; Deisseroth with 37 % of works in the cohort top 1 %, 103 patents, 3,009 citing books) and Wnt/organoids (7.7 %; Clevers with 2,724 citing inventions) lead the named options, followed by inherited breast-cancer genes, leptin and PCSK9 (5.7–6.4 % each). The named options now lie between 2 % and 8 % instead of led by one or two favourites.
+
+**The same-day control run is unchanged:** GLP-1 18 %, orexin 12 %, Other 32.9 %, as on 1 October.
