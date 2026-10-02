@@ -18,3 +18,7 @@ __pycache__/
 
 # personal working copies of the notebooks
 notebook/*[Cc]opy*.ipynb
+
+# Preseen experiment: client state (question ids, API responses) and raw committee outputs
+experiment/preseen/preseen_exp/
+experiment/preseen/committee/*/raw/

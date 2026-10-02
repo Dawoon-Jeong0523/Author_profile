@@ -1,0 +1,2 @@
+subset: 6,288,031 author rows for 34 surnames in 38 s -> people/_authors_subset.parquet
+chemistry: 34 people, 33 resolved, 1 need a choice -> people/chemistry_dryrun_fast.log

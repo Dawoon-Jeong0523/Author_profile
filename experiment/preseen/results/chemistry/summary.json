@@ -1,0 +1,95 @@
+{
+ "field": "chemistry",
+ "runs": {
+  "control": 4,
+  "treat": 3
+ },
+ "control_run_to_run_mean_abs_diff": 0.006978897435897436,
+ "treat": {
+  "mean_abs_diff_vs_control": 0.004994923076923078,
+  "options_outside_control_range": 5,
+  "other_control": 0.3328995,
+  "other_treat": 0.33146666666666663,
+  "entropy_bits_control": 3.0925286943818637,
+  "entropy_bits_treat": 3.0924224683220936,
+  "spearman_rank_control_vs_arm": 0.9560439560439561,
+  "rank_changes": {
+   "3": 2,
+   "4": 2,
+   "5": -1,
+   "7": -2,
+   "8": -1,
+   "9": -1,
+   "10": 1
+  }
+ },
+ "subforecast_mean_abs_diff": {
+  "treat_sub0": 0.011756769230769234,
+  "treat_sub1": 0.010603147435897436,
+  "treat_sub2": 0.00838572435897436,
+  "treat_sub3": 0.008384641025641026
+ },
+ "writeup_term_means": {
+  "control": {
+   "percentile": 0.0,
+   "disruption": 0.0,
+   "patent": 0.0,
+   "textbook/book": 0.0,
+   "laureate": 8.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 0.0,
+   "sub: percentile": 0.0,
+   "sub: disruption": 0.0,
+   "sub: patent": 0.75,
+   "sub: textbook/book": 0.0,
+   "sub: laureate": 34.5,
+   "sub: co-author": 0.0,
+   "sub: supplied bibliometrics": 0.0,
+   "chars": 13162.5,
+   "n_sources": 302.5
+  },
+  "treat": {
+   "percentile": 0.33,
+   "disruption": 0.0,
+   "patent": 0.33,
+   "textbook/book": 0.0,
+   "laureate": 10.33,
+   "co-author": 0.0,
+   "supplied bibliometrics": 1.0,
+   "sub: percentile": 3.33,
+   "sub: disruption": 1.0,
+   "sub: patent": 9.67,
+   "sub: textbook/book": 2.0,
+   "sub: laureate": 40.33,
+   "sub: co-author": 1.0,
+   "sub: supplied bibliometrics": 11.0,
+   "chars": 14860.0,
+   "n_sources": 316.0
+  }
+ },
+ "drift_control_rep1_vs_later_mean_abs_diff": 0.0051519487179487195,
+ "committee_vs_preseen": {
+  "spearman_borda_vs_control": 0.912286317569255,
+  "spearman_n_models_vs_control": 0.43452409462674085,
+  "control_mean_cross_model_consensus": 0.07332679166666665,
+  "control_mean_single_model": null
+ },
+ "exploratory_card_strength": {
+  "impact_share": {
+   "spearman": 0.013986013986013986,
+   "p": 0.9655902689187795,
+   "n": 12
+  },
+  "inventions_share": {
+   "spearman": 0.3187395430939476,
+   "p": 0.31260167621841195,
+   "n": 12
+  }
+ },
+ "uptake_quotes": [
+  "The user-provided bibliometric profiles were used as evidence of general Nobel-worthiness, not exact-year timing.",
+  "I did not turn the supplied bibliometric profiles into numerical predictors.",
+  "This is not a judgment that bibliometrics are useless.",
+  "Are the supplied bibliometrics sufficiently reliable to influence the forecast? Their author identification and historical coverage needed checking."
+ ]
+}

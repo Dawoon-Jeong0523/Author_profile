@@ -1,0 +1,186 @@
+15:56:39 start
+
+=== Krzysztof Matyjaszewski
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id                       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                          institutions
+    1 A5056539244            Krzysztof Matyjaszewski 0000-0003-1960-3402         1768          158426 display               True snapshot                       Carnegie Mellon University (US)
+    2 A5095795059      Prof. Krzysztof Matyjaszewski                None            2               1 display               True snapshot                       Carnegie Mellon University (US)
+    3 A5097674061  Prof. Dr. Krzysztof Matyjaszewski                None            2               0 display               True snapshot                       Carnegie Mellon University (US)
+    4 A5112835457            Krzysztof Matyjaszewski                None            3               0 display               True snapshot                       Carnegie Mellon University (US)
+    5 A5075241687                    K Matyjaszewski                None            4              13 display              False snapshot                                                      
+    6 A5065609258 Krzysztof Aleksander Matyjaszewski                None            8               7 display              False snapshot                            Institute of Polymers (BG)
+    7 A5082177920                    K Matyjaszewski                None            1               2 display              False snapshot                                                      
+    8 A5062379183                    K MATYJASZEWSKI                None            1               1 display              False snapshot                                                      
+    9 A5087639679                    K Matyjaszewski                None            1               1 display              False snapshot                                                      
+   10 A5044202244                   K. Matyjaszewski                None            1               0 display              False snapshot                                                      
+   11 A5041146039                    K Matyjaszewski                None            1               0 display              False snapshot Experimental Station (US); Wilmington University (US)
+   12 A5017668030             Kristoff Matyjaszewski                None            2              73   alias              False snapshot                                                      
+query 'Krzysztof Matyjaszewski': picked A5056539244 Krzysztof Matyjaszewski [most cited (158,426 vs 1 citations)]; same-name fragments A5095795059, A5097674061, A5112835457
+
+=== Mitsuo Sawamoto
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id      display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                            institutions
+    1 A5009874386   Mitsuo Sawamoto 0000-0003-0352-9666          523           27678 display              False snapshot      Green Chemistry (PL); Integra (United States) (US)
+    2 A5083869496       M. Sawamoto                None            1              24 display              False snapshot                                                        
+    3 A5007334005       M. Sawamoto                None            4              18 display              False snapshot                               Hiroshima University (JP)
+    4 A5021066296       M. Sawamoto                None            2              16 display              False snapshot                                                        
+    5 A5008271102       M. Sawamoto                None            2               1 display              False snapshot                                                        
+    6 A5000240386   Mitsuo SAWAMOTO                None            1               0 display              False snapshot                                                        
+    7 A5030543857       M. Sawamoto                None            1               0 display              False snapshot                                                        
+    8 A5074617559       M. Sawamoto                None            1               0 display              False snapshot                                                        
+    9 A5047913277       M. Sawamoto                None            2               0 display              False snapshot                                                        
+   10 A5035079467       M. Sawamoto                None            1               0 display              False snapshot                                                        
+   11 A5046868052        M Sawamoto                None            1               0 display              False snapshot                                                        
+   12 A5103630418   Masaki Sawamoto                None          161            1262   alias              False snapshot                                                        
+   13 A5056525620 Masakazu Sawamoto                None            5              28   alias              False snapshot                                Kanazawa University (JP)
+   14 A5020268298   Mayuri Sawamoto                None            2               6   alias              False snapshot                              Osaka City University (JP)
+   15 A5044633531    Masae Sawamoto                None            2               5   alias              False snapshot National Institute for Agro-Environmental Sciences (JP)
+query 'Mitsuo Sawamoto': picked A5009874386 Mitsuo Sawamoto [most cited (27,678 vs 24 citations)]
+
+=== Ezio Rizzardo
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name orcid  works_count  cited_by_count   match  affiliation_match   source                                     institutions
+    1 A5083403173 Ezio Rizzardo  None          254           31005 display               True snapshot CSIRO Manufacturing (AU); Monash University (AU)
+    2 A5027122896   E. Rizzardo  None            1               1 display               True snapshot                         CSIRO Manufacturing (AU)
+    3 A5033062693 EZIO RIZZARDO  None            1               1 display              False snapshot                                                 
+    4 A5078267898 EZIO RIZZARDO  None            1               0 display              False snapshot                                                 
+    5 A5047504668 Ezio Rizzardo  None            4               0 display              False snapshot                           Monash University (AU)
+    6 A5035740298   E. Rizzardo  None            1               0 display              False snapshot                                                 
+query 'Ezio Rizzardo': picked A5083403173 Ezio Rizzardo [most cited (31,005 vs 1 citations)]; same-name fragments A5047504668
+
+=== David Klenerman
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5042822683 David Klenerman 0000-0001-7116-6954          516           26981 display               True snapshot Stowers Institute for Medical Research (US); Cambridge Schoo
+    2 A5121227404 David Klenerman                None            2               0 display              False snapshot                                 Imperial College London (GB)
+    3 A5068855598    D. Klenerman                None            1               0 display              False snapshot                                                             
+    4 A5033120373    D. Klenerman                None            1               0 display              False snapshot                                                             
+query 'David Klenerman': picked A5042822683 David Klenerman [only candidate at the given affiliation]
+
+=== Shankar Balasubramanian
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id            display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5040551102 Shankar Balasubramanian 0000-0002-0281-5815          519           55485 display               True snapshot University of Cambridge (GB); Cambridge School (PT); Bridge 
+    2 A5121215137 Shankar Balasubramanian                None            1               0 display               True snapshot                                 University of Cambridge (GB)
+    3 A5035106650 Skankar Balasubramanian                None            2               6   alias               True snapshot                                 University of Cambridge (GB)
+    4 A5022956004      S. Balasubramanian 0000-0002-6277-2837          322            6934 display              False snapshot                     Agnitron Technology (United States) (US)
+    5 A5043966719   S. C. Balasubramanian                None           17            2664 display              False snapshot                                                             
+    6 A5113869683      S. Balasubramanian                None           83            1206 display              False snapshot Tamil Nadu Agricultural University (IN); Nassau University M
+    7 A5101606796      S. Balasubramanian 0000-0002-3044-4097           52            1178 display              False snapshot KPR Institute of Engineering and Technology (IN); University
+    8 A5050935020      S. Balasubramanian 0000-0002-0906-9819          109            1112 display              False snapshot                                    Annamalai University (IN)
+    9 A5004865243      S. Balasubramanian 0000-0002-2641-4602           40             861 display              False snapshot University of Calgary (CA); Vel Tech Rangarajan Dr. Saguntha
+   10 A5006197061      S. Balasubramanian 0000-0001-8947-4840          102             666 display              False snapshot Amrita Vishwa Vidyapeetham (IN); Government of Maharashtra (
+   11 A5110081317      S. Balasubramanian                None           24             615 display              False snapshot                              Madurai Kamaraj University (IN)
+   12 A5032320706      S. Balasubramanian                None           29             606 display              False snapshot                   Fermi National Accelerator Laboratory (US)
+   13 A5109918742      S. Balasubramanian 0009-0000-2161-5643           37             572 display              False snapshot      Shrewsbury College (GB); Royal Shrewsbury Hospital (GB)
+   14 A5072836218      S. Balasubramanian 0000-0002-6277-2837           13             405 display              False snapshot                   Fermi National Accelerator Laboratory (US)
+   15 A5049606178       S Balasubramanian 0000-0003-3334-7222           63             405 display              False snapshot                                                             
+query 'Shankar Balasubramanian': picked A5040551102 Shankar Balasubramanian [most cited (55,485 vs 0 citations)]
+
+=== Pascal Mayer
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5008914922     P. Mayer 0000-0001-6112-4398          619            4490 display              False snapshot                                    University of Ottawa (CA)
+    2 A5109557158     P. Mayer                None          343            4383 display              False snapshot Ludwig-Maximilians-Universität München (DE); Center for Nano
+    3 A5038952642     P. Mayer                None           18             793 display              False snapshot                                                             
+    4 A5108459536     P. Mayer                None           14             546 display              False snapshot                                                             
+    5 A5003816322     P. Mayer 0000-0003-1892-1345          144             486 display              False snapshot Czech Academy of Sciences, Astronomical Institute (CZ); Char
+    6 A5050699304 Pascal Mayer 0000-0003-3348-9036           33             427 display              False snapshot                Université de Pau et des Pays de l'Adour (FR)
+    7 A5048873686     P. Mayer 0000-0002-9340-8296           36             288 display              False snapshot Wrocław University of Science and Technology (PL); AGH Unive
+    8 A5110496482      P Mayer 0000-0002-0274-1537            7             135 display              False snapshot                          Technical University of Munich (DE)
+    9 A5066700444      P Mayer 0000-0003-0832-781X            5             110 display              False snapshot                                    University of Vienna (AT)
+   10 A5111063779     P. Mayer                None            4              98 display              False snapshot                                                             
+   11 A5051425664     P. Mayer 0000-0001-9230-4869            9              89 display              False snapshot                     Universitat Politècnica de València (ES)
+   12 A5103471843    P J Mayer                None            5              76 display              False snapshot                                                             
+   13 A5062154364    P V Mayer                None            1              45 display              False snapshot                                                             
+   14 A5084932424    P S MAYER                None            1              34 display              False snapshot                                                             
+   15 A5044913268      P Mayer                None            2              27 display              False snapshot                                                             
+NOT RESOLVED: ambiguous: the two most cited candidates have 4,490 and 4,383 citations. Choose with --pick N (the rank above), --affiliation, --orcid or --author-id.
+
+=== Henry J. Snaith
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                      institutions
+    1 A5081428881 Henry J. Snaith 0000-0001-8511-790X          735          173047 display               True snapshot         University of Oxford (GB)
+    2 A5122924083        H Snaith                None            1               0 display              False snapshot                                  
+    3 A5110678482       H. Snaith                None            3               0 display              False snapshot                                  
+    4 A5059074242 Helen M. Snaith 0000-0001-7751-2985           72            1549   alias              False snapshot National Oceanography Centre (GB)
+    5 A5070364816    H. M. Snaith                None            6             136   alias              False snapshot                                  
+query 'Henry J. Snaith': picked A5081428881 Henry J. Snaith [only candidate at the given affiliation]
+
+=== Nam-Gyu Park
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5013544504  Nam‐Gyu Park 0000-0003-2368-6300         1070           81226 display               True snapshot Energy Institute (GB); Korea University of Science and Techn
+    2 A5111808545 Na Young Park                None            2              12   alias               True snapshot                                 Sungkyunkwan University (KR)
+    3 A5051708983       N. Park 0000-0002-4282-736X           95            3206 display              False snapshot                                      Queen's University (CA)
+    4 A5103107613  Nam Gyu Park 0000-0002-7816-1491           88            1309 display              False snapshot                                                             
+    5 A5010804661       N. Park                None           31            1131 display              False snapshot                                                             
+    6 A5032592992       N. Park                None            2             429 display              False snapshot                        University of California, Irvine (US)
+    7 A5062866635       N. Park                None            5             354 display              False snapshot                                                             
+    8 A5028731059        N Park                None            2             297 display              False snapshot        Columbia University (US); New York Genome Center (US)
+    9 A5074987121       N. Park                None            8             224 display              False snapshot                                                             
+   10 A5072317446       N. Park                None            7             211 display              False snapshot                            Atomic Weapons Establishment (GB)
+   11 A5112970883       N. Park 0009-0000-0825-402X           51             192 display              False snapshot Kongju National University (KR); Oklahoma State University (
+   12 A5057680804       N. Park                None            2             170 display              False snapshot                                                             
+   13 A5008237215       N. Park                None            1             157 display              False snapshot                         University of Wisconsin–Madison (US)
+   14 A5042291887       N. Park                None            5             145 display              False snapshot                                                             
+   15 A5044802050       N. Park                None            1             138 display              False snapshot                               St Bartholomew's Hospital (GB)
+query 'Nam-Gyu Park': picked A5013544504 Nam‐Gyu Park [only candidate at the given affiliation]
+
+=== Tsutomu Miyasaka
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5030322278 Tsutomu Miyasaka 0000-0001-8535-7911          411           55318 display               True snapshot Toin University of Yokohama (JP); The University of Tokyo (J
+    2 A5033545639 Toshiki Miyasaka                None           10              40   alias               True snapshot                            Yokohama National University (JP)
+    3 A5109993095      T. MIYASAKA                None           71            1021 display              False snapshot                                        Kyoto University (JP)
+    4 A5111707322      T. MIYASAKA                None          116             669 display              False snapshot                                        Tokai University (JP)
+    5 A5061943095      T. Miyasaka                None           10             507 display              False snapshot                                                   RIKEN (JP)
+    6 A5037228672      T. Miyasaka                None           12             163 display              False snapshot                                                             
+    7 A5111649071      T. Miyasaka                None           14              61 display              False snapshot                                                             
+    8 A5065616958      T. Miyasaka                None            1              21 display              False snapshot                                                             
+    9 A5050773536      T. Miyasaka                None            1              13 display              False snapshot                                                             
+   10 A5045279390       T Miyasaka                None            1              11 display              False snapshot                                                             
+   11 A5033159146      T. Miyasaka                None            1              10 display              False snapshot             Alzheimer’s Disease Neuroimaging Initiative (US)
+   12 A5010955116       T Miyasaka                None           11               8 display              False snapshot                                                             
+   13 A5002300563       T Miyasaka                None            9               8 display              False snapshot                                                             
+   14 A5017373707      T. Miyasaka                None            1               0 display              False snapshot                                                             
+   15 A5064096042      T. MIYASAKA                None            3               0 display              False snapshot                                        Showa University (JP)
+query 'Tsutomu Miyasaka': picked A5030322278 Tsutomu Miyasaka [only candidate at the given affiliation]
+
+=== Marvin H. Caruthers
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id        display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                       institutions
+    1 A5027707988 Marvin H. Caruthers 0000-0002-4931-468X          223           12956 display               True snapshot                University of Colorado Boulder (US)
+    2 A5052458327     M. H. CARUTHERS                None           23            1231 display              False snapshot                                                   
+    3 A5095944982 Mackenzie Caruthers                None            6               1   alias              False snapshot Riverside Methodist Hospital (US); OhioHealth (US)
+query 'Marvin H. Caruthers': picked A5027707988 Marvin H. Caruthers [only candidate at the given affiliation]
+
+=== Serge L. Beaucage
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id      display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5022821865 Serge L. Beaucage 0000-0001-9320-5395          191            8432 display               True snapshot United States Food and Drug Administration (US); Food and Dr
+    2 A5021723822    S. L. BEAUCAGE                None            1               0 display              False snapshot                                                             
+    3 A5017761532    S. L. BEAUCAGE                None            1               0 display              False snapshot                                                             
+query 'Serge L. Beaucage': picked A5022821865 Serge L. Beaucage [only candidate at the given affiliation]
+
+=== Mark D. Matteucci
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id           display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5111590685      Mark D. Matteucci                None           98            6184 display              False snapshot                                           Cancer Clinic (US)
+    2 A5111668579         Mark Matteucci                None           36            1446 display              False snapshot               Threshold Pharmaceuticals (United States) (US)
+    3 A5063016978           M. Matteucci 0000-0002-3660-5621           89            1210 display              False snapshot Ørsted (Denmark) (DK); Technical University of Denmark (DK);
+    4 A5002982088           M. Matteucci                None            7             186 display              False snapshot                             Sapienza University of Rome (IT)
+    5 A5035379111            M Matteucci                None            1              45 display              False snapshot                                                             
+    6 A5109886177           M. Matteucci                None            5              13 display              False snapshot                           Marche Polytechnic University (IT)
+    7 A5034599183           M. Matteucci                None            1               1 display              False snapshot                                                             
+    8 A5073532822           M. Matteucci                None            2               0 display              False snapshot                                                             
+    9 A5071779313           M. Matteucci                None            1               0 display              False snapshot                                                             
+   10 A5056711769           M. Matteucci                None            2               0 display              False snapshot                                                             
+   11 A5041501720            M Matteucci                None            1               0 display              False snapshot                                                             
+   12 A5003932703       Matteo Matteucci 0000-0002-8306-6739          515            6795   alias              False snapshot   Politecnico di Milano (IT); EssilorLuxottica (France) (FR)
+   13 A5002561302        Marco Matteucci 0000-0002-7224-2522           78            1967   alias              False snapshot                              Scuola Superiore Sant'Anna (IT)
+   14 A5025067372       Matteo Matteucci 0000-0003-0694-2747          108            1579   alias              False snapshot Fondazione Audiologica Varese (IT); Ospedale San Paolo (IT);
+   15 A5014795604 Maria Chiara Matteucci 0000-0002-4716-2627           54            1367   alias              False snapshot                                  Azienda USL di Bologna (IT)
+query 'Mark D. Matteucci': picked A5111590685 Mark D. Matteucci [most cited (6,184 vs 1,446 citations)]
+
+=== John F. Hartwig

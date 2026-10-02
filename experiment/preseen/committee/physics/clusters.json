@@ -1,0 +1,1565 @@
+[
+ {
+  "rank": 1,
+  "option": "for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect — Charles L. Kane, Eugene J. Mele, Laurens W. Molenkamp",
+  "discovery": "for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect",
+  "score": 8.75,
+  "points_per_model": {
+   "claude-opus-5-5": 4.625,
+   "gpt-5.5-2026-04-23": 2.625,
+   "gemini-3.1-pro-preview": 1.5
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 8,
+  "n_ballots": 18,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Charles L. Kane",
+    "affiliation": "University of Pennsylvania",
+    "weight": 8.75,
+    "n_nominations": 18,
+    "key": "c kane"
+   },
+   {
+    "name": "Eugene J. Mele",
+    "affiliation": "University of Pennsylvania",
+    "weight": 8.75,
+    "n_nominations": 18,
+    "key": "e mele"
+   },
+   {
+    "name": "Laurens W. Molenkamp",
+    "affiliation": "University of Würzburg",
+    "weight": 8.5,
+    "n_nominations": 17,
+    "key": "l molenkamp"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Charles L. Kane",
+    "affiliation": "University of Pennsylvania",
+    "weight": 8.75,
+    "n_nominations": 18,
+    "key": "c kane"
+   },
+   {
+    "name": "Eugene J. Mele",
+    "affiliation": "University of Pennsylvania",
+    "weight": 8.75,
+    "n_nominations": 18,
+    "key": "e mele"
+   },
+   {
+    "name": "Laurens W. Molenkamp",
+    "affiliation": "University of Würzburg",
+    "weight": 8.5,
+    "n_nominations": 17,
+    "key": "l molenkamp"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/astroparticle-physics/r1/#3",
+   "anthropic/theoretical-magnetism/r1/#1",
+   "anthropic/applied-and-theoretical-quantum-physics/r1/#1",
+   "anthropic/atomic-physics/r1/#1",
+   "anthropic/general-physics/r1/#1",
+   "anthropic/theoretical-physics/r1/#1",
+   "anthropic/complex-systems/r1/#1",
+   "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#2",
+   "openai/theoretical-magnetism/r1/#2",
+   "openai/applied-and-theoretical-quantum-physics/r1/#4",
+   "openai/general-physics/r1/#2",
+   "openai/theoretical-physics/r1/#2",
+   "openai/complex-systems/r1/#2",
+   "openai/experimental-physics-microscopy-and-microanalysis/r1/#3",
+   "gemini/astroparticle-physics/r1/#4",
+   "gemini/applied-and-theoretical-quantum-physics/r1/#2",
+   "gemini/atomic-physics/r1/#4",
+   "gemini/general-physics/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 2,
+  "option": "for the invention and development of optical lattice clocks, enabling time and frequency measurements at unprecedented precision — Hidetoshi Katori, Jun Ye",
+  "discovery": "for the invention and development of optical lattice clocks, enabling time and frequency measurements at unprecedented precision",
+  "score": 7.0,
+  "points_per_model": {
+   "claude-opus-5-5": 1.875,
+   "gpt-5.5-2026-04-23": 4.625,
+   "gemini-3.1-pro-preview": 0.5
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 8,
+  "n_ballots": 14,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Hidetoshi Katori",
+    "affiliation": "University of Tokyo and RIKEN",
+    "weight": 7.0,
+    "n_nominations": 14,
+    "key": "h katori"
+   },
+   {
+    "name": "Jun Ye",
+    "affiliation": "JILA, NIST and University of Colorado Boulder",
+    "weight": 7.0,
+    "n_nominations": 14,
+    "key": "j ye"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Hidetoshi Katori",
+    "affiliation": "University of Tokyo and RIKEN",
+    "weight": 7.0,
+    "n_nominations": 14,
+    "key": "h katori"
+   },
+   {
+    "name": "Jun Ye",
+    "affiliation": "JILA, NIST and University of Colorado Boulder",
+    "weight": 7.0,
+    "n_nominations": 14,
+    "key": "j ye"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/astroparticle-physics/r1/#2",
+   "anthropic/theoretical-magnetism/r1/#4",
+   "anthropic/atomic-physics/r1/#3",
+   "anthropic/general-physics/r1/#3",
+   "anthropic/theoretical-physics/r1/#3",
+   "openai/astroparticle-physics/r1/#2",
+   "openai/theoretical-magnetism/r1/#1",
+   "openai/applied-and-theoretical-quantum-physics/r1/#2",
+   "openai/atomic-physics/r1/#1",
+   "openai/general-physics/r1/#1",
+   "openai/theoretical-physics/r1/#1",
+   "openai/complex-systems/r1/#1",
+   "openai/experimental-physics-microscopy-and-microanalysis/r1/#2",
+   "gemini/atomic-physics/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 3,
+  "option": "for the theoretical prediction and experimental realization of negative index metamaterials — John B. Pendry, David R. Smith, Eli Yablonovitch",
+  "discovery": "for the theoretical prediction and experimental realization of negative index metamaterials",
+  "score": 5.125,
+  "points_per_model": {
+   "claude-opus-5-5": 1.75,
+   "gpt-5.5-2026-04-23": 0.5,
+   "gemini-3.1-pro-preview": 2.875
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 8,
+  "n_ballots": 16,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "John B. Pendry",
+    "affiliation": "Imperial College London",
+    "weight": 3.875,
+    "n_nominations": 13,
+    "key": "j pendry"
+   },
+   {
+    "name": "David R. Smith",
+    "affiliation": "Duke University",
+    "weight": 3.75,
+    "n_nominations": 12,
+    "key": "d smith"
+   },
+   {
+    "name": "Eli Yablonovitch",
+    "affiliation": "University of California, Berkeley",
+    "weight": 1.375,
+    "n_nominations": 6,
+    "key": "e yablonovitch"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "John B. Pendry",
+    "affiliation": "Imperial College London",
+    "weight": 3.875,
+    "n_nominations": 13,
+    "key": "j pendry"
+   },
+   {
+    "name": "David R. Smith",
+    "affiliation": "Duke University",
+    "weight": 3.75,
+    "n_nominations": 12,
+    "key": "d smith"
+   },
+   {
+    "name": "Eli Yablonovitch",
+    "affiliation": "University of California, Berkeley",
+    "weight": 1.375,
+    "n_nominations": 6,
+    "key": "e yablonovitch"
+   },
+   {
+    "name": "Sajeev John",
+    "affiliation": "University of Toronto",
+    "weight": 1.25,
+    "n_nominations": 5,
+    "key": "s john"
+   },
+   {
+    "name": "John D. Joannopoulos",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 0.375,
+    "n_nominations": 2,
+    "key": "j joannopoulos"
+   },
+   {
+    "name": "Richard A. Shelby",
+    "affiliation": "retired, formerly University of California, San Diego",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "r shelby"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/astroparticle-physics/r1/#5",
+   "anthropic/applied-and-theoretical-quantum-physics/r1/#5",
+   "anthropic/atomic-physics/r1/#4",
+   "anthropic/general-physics/r1/#2",
+   "anthropic/complex-systems/r1/#2",
+   "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#4",
+   "openai/astroparticle-physics/r1/#5",
+   "openai/atomic-physics/r1/#4",
+   "openai/experimental-physics-microscopy-and-microanalysis/r1/#5",
+   "gemini/theoretical-magnetism/r1/#2",
+   "gemini/applied-and-theoretical-quantum-physics/r1/#4",
+   "gemini/applied-and-theoretical-quantum-physics/r1/#5",
+   "gemini/atomic-physics/r1/#5",
+   "gemini/general-physics/r1/#4",
+   "gemini/theoretical-physics/r1/#5",
+   "gemini/complex-systems/r1/#1",
+   "gemini/experimental-physics-microscopy-and-microanalysis/r1/#2",
+   "gemini/experimental-physics-microscopy-and-microanalysis/r1/#3"
+  ],
+  "flags": [
+   "6 people named across nominations; shown: top 3; also: Sajeev John (1.25), John D. Joannopoulos (0.38), Richard A. Shelby (0.12)"
+  ]
+ },
+ {
+  "rank": 4,
+  "option": "for the discovery of topological and geometric phases in quantum systems — Michael V. Berry, Yakir Aharonov",
+  "discovery": "for the discovery of topological and geometric phases in quantum systems",
+  "score": 4.125,
+  "points_per_model": {
+   "claude-opus-5-5": 1.25,
+   "gpt-5.5-2026-04-23": 0.875,
+   "gemini-3.1-pro-preview": 2.0
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 6,
+  "n_ballots": 12,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Michael V. Berry",
+    "affiliation": "University of Bristol",
+    "weight": 4.125,
+    "n_nominations": 12,
+    "key": "m berry"
+   },
+   {
+    "name": "Yakir Aharonov",
+    "affiliation": "Chapman University",
+    "weight": 4.0,
+    "n_nominations": 11,
+    "key": "y aharonov"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Michael V. Berry",
+    "affiliation": "University of Bristol",
+    "weight": 4.125,
+    "n_nominations": 12,
+    "key": "m berry"
+   },
+   {
+    "name": "Yakir Aharonov",
+    "affiliation": "Chapman University",
+    "weight": 4.0,
+    "n_nominations": 11,
+    "key": "y aharonov"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/theoretical-magnetism/r1/#2",
+   "anthropic/theoretical-physics/r1/#2",
+   "anthropic/complex-systems/r1/#4",
+   "openai/theoretical-magnetism/r1/#3",
+   "openai/general-physics/r1/#3",
+   "openai/complex-systems/r1/#5",
+   "gemini/theoretical-magnetism/r1/#5",
+   "gemini/applied-and-theoretical-quantum-physics/r1/#1",
+   "gemini/general-physics/r1/#3",
+   "gemini/theoretical-physics/r1/#1",
+   "gemini/complex-systems/r1/#5",
+   "gemini/experimental-physics-microscopy-and-microanalysis/r1/#5"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 5,
+  "option": "for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene — Allan H. MacDonald, Pablo Jarillo-Herrero, Rafi Bistritzer",
+  "discovery": "for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene",
+  "score": 3.0,
+  "points_per_model": {
+   "claude-opus-5-5": 1.0,
+   "gpt-5.5-2026-04-23": 0.125,
+   "gemini-3.1-pro-preview": 1.875
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 8,
+  "n_ballots": 13,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Allan H. MacDonald",
+    "affiliation": "University of Texas at Austin",
+    "weight": 3.0,
+    "n_nominations": 13,
+    "key": "a macdonald"
+   },
+   {
+    "name": "Pablo Jarillo-Herrero",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 3.0,
+    "n_nominations": 13,
+    "key": "p herrero"
+   },
+   {
+    "name": "Rafi Bistritzer",
+    "affiliation": "Tel Aviv University",
+    "weight": 2.625,
+    "n_nominations": 10,
+    "key": "r bistritzer"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Allan H. MacDonald",
+    "affiliation": "University of Texas at Austin",
+    "weight": 3.0,
+    "n_nominations": 13,
+    "key": "a macdonald"
+   },
+   {
+    "name": "Pablo Jarillo-Herrero",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 3.0,
+    "n_nominations": 13,
+    "key": "p herrero"
+   },
+   {
+    "name": "Rafi Bistritzer",
+    "affiliation": "Tel Aviv University",
+    "weight": 2.625,
+    "n_nominations": 10,
+    "key": "r bistritzer"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/theoretical-magnetism/r1/#5",
+   "anthropic/applied-and-theoretical-quantum-physics/r1/#4",
+   "anthropic/atomic-physics/r1/#5",
+   "anthropic/general-physics/r1/#4",
+   "anthropic/theoretical-physics/r1/#5",
+   "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#5",
+   "openai/atomic-physics/r1/#5",
+   "gemini/astroparticle-physics/r1/#2",
+   "gemini/atomic-physics/r1/#3",
+   "gemini/general-physics/r1/#5",
+   "gemini/theoretical-physics/r1/#4",
+   "gemini/complex-systems/r1/#3",
+   "gemini/experimental-physics-microscopy-and-microanalysis/r1/#4"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 6,
+  "option": "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms — Charles H. Bennett, Gilles Brassard, Peter W. Shor",
+  "discovery": "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms",
+  "score": 2.5,
+  "points_per_model": {
+   "claude-opus-5-5": 0.875,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 1.625
+  },
+  "n_models": 2,
+  "models": [
+   "claude-opus-5-5",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 4,
+  "n_ballots": 6,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Charles H. Bennett",
+    "affiliation": "IBM Research",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "c bennett h"
+   },
+   {
+    "name": "Gilles Brassard",
+    "affiliation": "Université de Montréal",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "g brassard"
+   },
+   {
+    "name": "Peter W. Shor",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 1.75,
+    "n_nominations": 4,
+    "key": "p shor"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Charles H. Bennett",
+    "affiliation": "IBM Research",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "c bennett h"
+   },
+   {
+    "name": "Gilles Brassard",
+    "affiliation": "Université de Montréal",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "g brassard"
+   },
+   {
+    "name": "Peter W. Shor",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 1.75,
+    "n_nominations": 4,
+    "key": "p shor"
+   },
+   {
+    "name": "Artur K. Ekert",
+    "affiliation": "University of Oxford and Centre for Quantum Technologies, Singapore",
+    "weight": 0.75,
+    "n_nominations": 2,
+    "key": "a ekert"
+   },
+   {
+    "name": "David Deutsch",
+    "affiliation": "University of Oxford",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "d deutsch"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/theoretical-magnetism/r1/#3",
+   "anthropic/applied-and-theoretical-quantum-physics/r1/#2",
+   "gemini/theoretical-magnetism/r1/#4",
+   "gemini/applied-and-theoretical-quantum-physics/r1/#3",
+   "gemini/general-physics/r1/#1",
+   "gemini/theoretical-physics/r1/#3"
+  ],
+  "flags": [
+   "5 people named across nominations; shown: top 3; also: Artur K. Ekert (0.75), David Deutsch (0.62)"
+  ]
+ },
+ {
+  "rank": 7,
+  "option": "for pioneering contributions to neutrino astronomy, in particular the discovery of high-energy cosmic neutrinos — Francis Halzen, Albrecht Karle, Naoko Kurahashi Neilson",
+  "discovery": "for pioneering contributions to neutrino astronomy, in particular the discovery of high-energy cosmic neutrinos",
+  "score": 2.125,
+  "points_per_model": {
+   "claude-opus-5-5": 0.625,
+   "gpt-5.5-2026-04-23": 0.875,
+   "gemini-3.1-pro-preview": 0.625
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 2,
+  "n_ballots": 4,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Francis Halzen",
+    "affiliation": "University of Wisconsin–Madison",
+    "weight": 2.125,
+    "n_nominations": 4,
+    "key": "f halzen"
+   },
+   {
+    "name": "Albrecht Karle",
+    "affiliation": "University of Wisconsin–Madison",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "a karle"
+   },
+   {
+    "name": "Naoko Kurahashi Neilson",
+    "affiliation": "Drexel University",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "n neilson"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Francis Halzen",
+    "affiliation": "University of Wisconsin–Madison",
+    "weight": 2.125,
+    "n_nominations": 4,
+    "key": "f halzen"
+   },
+   {
+    "name": "Albrecht Karle",
+    "affiliation": "University of Wisconsin–Madison",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "a karle"
+   },
+   {
+    "name": "Naoko Kurahashi Neilson",
+    "affiliation": "Drexel University",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "n neilson"
+   },
+   {
+    "name": "Elisa Resconi",
+    "affiliation": "Technical University of Munich",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "e resconi"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/astroparticle-physics/r1/#1",
+   "openai/astroparticle-physics/r1/#1",
+   "openai/complex-systems/r1/#4",
+   "gemini/astroparticle-physics/r1/#1"
+  ],
+  "flags": [
+   "possibly already awarded: resembles 2002 \"for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos\" (word overlap 0.45)",
+   "4 people named across nominations; shown: top 3; also: Elisa Resconi (0.25)"
+  ]
+ },
+ {
+  "rank": 8,
+  "option": "for the observation of the shadow of a black hole by event-horizon-scale radio interferometry — Heino Falcke, Sheperd S. Doeleman, Katherine L. Bouman",
+  "discovery": "for the observation of the shadow of a black hole by event-horizon-scale radio interferometry",
+  "score": 1.875,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 1.75,
+   "gemini-3.1-pro-preview": 0.125
+  },
+  "n_models": 2,
+  "models": [
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 6,
+  "n_ballots": 6,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Heino Falcke",
+    "affiliation": "Radboud University",
+    "weight": 1.875,
+    "n_nominations": 6,
+    "key": "h falcke"
+   },
+   {
+    "name": "Sheperd S. Doeleman",
+    "affiliation": "Center for Astrophysics | Harvard & Smithsonian",
+    "weight": 1.875,
+    "n_nominations": 6,
+    "key": "s doeleman"
+   },
+   {
+    "name": "Katherine L. Bouman",
+    "affiliation": "California Institute of Technology",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "k bouman"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Heino Falcke",
+    "affiliation": "Radboud University",
+    "weight": 1.875,
+    "n_nominations": 6,
+    "key": "h falcke"
+   },
+   {
+    "name": "Sheperd S. Doeleman",
+    "affiliation": "Center for Astrophysics | Harvard & Smithsonian",
+    "weight": 1.875,
+    "n_nominations": 6,
+    "key": "s doeleman"
+   },
+   {
+    "name": "Katherine L. Bouman",
+    "affiliation": "California Institute of Technology",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "k bouman"
+   },
+   {
+    "name": "Luciano Rezzolla",
+    "affiliation": "Goethe University Frankfurt",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "l rezzolla"
+   },
+   {
+    "name": "Feryal Özel",
+    "affiliation": "Georgia Institute of Technology",
+    "weight": 0.375,
+    "n_nominations": 2,
+    "key": "f ozel"
+   }
+  ],
+  "nomination_ids": [
+   "openai/theoretical-magnetism/r1/#4",
+   "openai/applied-and-theoretical-quantum-physics/r1/#1",
+   "openai/atomic-physics/r1/#2",
+   "openai/general-physics/r1/#4",
+   "openai/theoretical-physics/r1/#5",
+   "gemini/astroparticle-physics/r1/#5"
+  ],
+  "flags": [
+   "5 people named across nominations; shown: top 3; also: Luciano Rezzolla (0.50), Feryal Özel (0.38)"
+  ]
+ },
+ {
+  "rank": 9,
+  "option": "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices — Immanuel Bloch, J. Ignacio Cirac, Peter Zoller",
+  "discovery": "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices",
+  "score": 1.875,
+  "points_per_model": {
+   "claude-opus-5-5": 1.25,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.625
+  },
+  "n_models": 2,
+  "models": [
+   "claude-opus-5-5",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 4,
+  "n_ballots": 5,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Immanuel Bloch",
+    "affiliation": "Max Planck Institute of Quantum Optics and LMU Munich",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "i bloch"
+   },
+   {
+    "name": "J. Ignacio Cirac",
+    "affiliation": "Max Planck Institute of Quantum Optics",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "j cirac"
+   },
+   {
+    "name": "Peter Zoller",
+    "affiliation": "University of Innsbruck",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "p zoller"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Immanuel Bloch",
+    "affiliation": "Max Planck Institute of Quantum Optics and LMU Munich",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "i bloch"
+   },
+   {
+    "name": "J. Ignacio Cirac",
+    "affiliation": "Max Planck Institute of Quantum Optics",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "j cirac"
+   },
+   {
+    "name": "Peter Zoller",
+    "affiliation": "University of Innsbruck",
+    "weight": 1.875,
+    "n_nominations": 5,
+    "key": "p zoller"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/astroparticle-physics/r1/#4",
+   "anthropic/applied-and-theoretical-quantum-physics/r1/#3",
+   "anthropic/atomic-physics/r1/#2",
+   "anthropic/complex-systems/r1/#5",
+   "gemini/atomic-physics/r1/#1"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 10,
+  "option": "for the invention of the quantum cascade laser — Alfred Y. Cho, Federico Capasso, Jérôme Faist",
+  "discovery": "for the invention of the quantum cascade laser",
+  "score": 1.75,
+  "points_per_model": {
+   "claude-opus-5-5": 0.5,
+   "gpt-5.5-2026-04-23": 1.25,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 2,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 5,
+  "n_ballots": 6,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Alfred Y. Cho",
+    "affiliation": "Bell Laboratories, emeritus",
+    "weight": 1.75,
+    "n_nominations": 6,
+    "key": "a cho"
+   },
+   {
+    "name": "Federico Capasso",
+    "affiliation": "Harvard University",
+    "weight": 1.75,
+    "n_nominations": 6,
+    "key": "f capasso"
+   },
+   {
+    "name": "Jérôme Faist",
+    "affiliation": "ETH Zurich",
+    "weight": 1.75,
+    "n_nominations": 6,
+    "key": "j faist"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Alfred Y. Cho",
+    "affiliation": "Bell Laboratories, emeritus",
+    "weight": 1.75,
+    "n_nominations": 6,
+    "key": "a cho"
+   },
+   {
+    "name": "Federico Capasso",
+    "affiliation": "Harvard University",
+    "weight": 1.75,
+    "n_nominations": 6,
+    "key": "f capasso"
+   },
+   {
+    "name": "Jérôme Faist",
+    "affiliation": "ETH Zurich",
+    "weight": 1.75,
+    "n_nominations": 6,
+    "key": "j faist"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/general-physics/r1/#5",
+   "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#3",
+   "openai/astroparticle-physics/r1/#3",
+   "openai/applied-and-theoretical-quantum-physics/r1/#3",
+   "openai/general-physics/r1/#5",
+   "openai/theoretical-physics/r1/#3"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 11,
+  "option": "for the invention of aberration-corrected electron optics, enabling electron microscopy with sub-ångström resolution — Maximilian Haider, Knut Urban, Ondrej L. Krivanek",
+  "discovery": "for the invention of aberration-corrected electron optics, enabling electron microscopy with sub-ångström resolution",
+  "score": 1.5,
+  "points_per_model": {
+   "claude-opus-5-5": 0.625,
+   "gpt-5.5-2026-04-23": 0.25,
+   "gemini-3.1-pro-preview": 0.625
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 3,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Maximilian Haider",
+    "affiliation": "CEOS GmbH",
+    "weight": 1.5,
+    "n_nominations": 3,
+    "key": "m haider"
+   },
+   {
+    "name": "Knut Urban",
+    "affiliation": "Forschungszentrum Jülich",
+    "weight": 1.25,
+    "n_nominations": 2,
+    "key": "k urban"
+   },
+   {
+    "name": "Ondrej L. Krivanek",
+    "affiliation": "Nion Co.",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "o krivanek"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Maximilian Haider",
+    "affiliation": "CEOS GmbH",
+    "weight": 1.5,
+    "n_nominations": 3,
+    "key": "m haider"
+   },
+   {
+    "name": "Knut Urban",
+    "affiliation": "Forschungszentrum Jülich",
+    "weight": 1.25,
+    "n_nominations": 2,
+    "key": "k urban"
+   },
+   {
+    "name": "Ondrej L. Krivanek",
+    "affiliation": "Nion Co.",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "o krivanek"
+   },
+   {
+    "name": "Harald Rose",
+    "affiliation": "Ulm University / TU Darmstadt",
+    "weight": 1.5,
+    "n_nominations": 3,
+    "key": "h rose"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#1",
+   "openai/experimental-physics-microscopy-and-microanalysis/r1/#4",
+   "gemini/experimental-physics-microscopy-and-microanalysis/r1/#1"
+  ],
+  "flags": [
+   "Harald Rose: deceased (died 2026-07-27 (Wikidata Q122014; Microscopy Society of America and TU Darmstadt obituaries)); not shown, next living person by weight shown instead",
+   "4 people named across nominations; shown: top 3; also: Harald Rose (1.50)"
+  ]
+ },
+ {
+  "rank": 12,
+  "option": "for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure — Alan H. Guth, Andrei Linde, Viatcheslav Mukhanov",
+  "discovery": "for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure",
+  "score": 1.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.25,
+   "gpt-5.5-2026-04-23": 0.125,
+   "gemini-3.1-pro-preview": 0.875
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 3,
+  "n_ballots": 4,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Alan H. Guth",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 1.25,
+    "n_nominations": 4,
+    "key": "a guth"
+   },
+   {
+    "name": "Andrei Linde",
+    "affiliation": "Stanford University",
+    "weight": 1.25,
+    "n_nominations": 4,
+    "key": "a linde"
+   },
+   {
+    "name": "Viatcheslav Mukhanov",
+    "affiliation": "Ludwig Maximilian University of Munich",
+    "weight": 0.875,
+    "n_nominations": 3,
+    "key": "v mukhanov"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Alan H. Guth",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 1.25,
+    "n_nominations": 4,
+    "key": "a guth"
+   },
+   {
+    "name": "Andrei Linde",
+    "affiliation": "Stanford University",
+    "weight": 1.25,
+    "n_nominations": 4,
+    "key": "a linde"
+   },
+   {
+    "name": "Viatcheslav Mukhanov",
+    "affiliation": "Ludwig Maximilian University of Munich",
+    "weight": 0.875,
+    "n_nominations": 3,
+    "key": "v mukhanov"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/theoretical-physics/r1/#4",
+   "openai/applied-and-theoretical-quantum-physics/r1/#5",
+   "gemini/astroparticle-physics/r1/#3",
+   "gemini/theoretical-physics/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 13,
+  "option": "for the invention of atomic force microscopy — Christoph Gerber, Gerd Binnig",
+  "discovery": "for the invention of atomic force microscopy",
+  "score": 1.0,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 1.0,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 2,
+  "n_ballots": 2,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Christoph Gerber",
+    "affiliation": "University of Basel and Swiss Nanoscience Institute",
+    "weight": 1.0,
+    "n_nominations": 2,
+    "key": "c gerber"
+   },
+   {
+    "name": "Gerd Binnig",
+    "affiliation": "IBM Zurich Research Laboratory (emeritus)",
+    "weight": 1.0,
+    "n_nominations": 2,
+    "key": "g binnig"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Christoph Gerber",
+    "affiliation": "University of Basel and Swiss Nanoscience Institute",
+    "weight": 1.0,
+    "n_nominations": 2,
+    "key": "c gerber"
+   },
+   {
+    "name": "Gerd Binnig",
+    "affiliation": "IBM Zurich Research Laboratory (emeritus)",
+    "weight": 1.0,
+    "n_nominations": 2,
+    "key": "g binnig"
+   }
+  ],
+  "nomination_ids": [
+   "openai/complex-systems/r1/#3",
+   "openai/experimental-physics-microscopy-and-microanalysis/r1/#1"
+  ],
+  "flags": [
+   "Gerd Binnig: Nobel laureate (Physics 1986)"
+  ]
+ },
+ {
+  "rank": 14,
+  "option": "for the discovery of quantum error correction and fault-tolerant quantum computation — Andrew M. Steane, Peter W. Shor, Alexei Y. Kitaev",
+  "discovery": "for the discovery of quantum error correction and fault-tolerant quantum computation",
+  "score": 0.625,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.625,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 2,
+  "n_ballots": 2,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Andrew M. Steane",
+    "affiliation": "University of Oxford",
+    "weight": 0.625,
+    "n_nominations": 2,
+    "key": "a steane"
+   },
+   {
+    "name": "Peter W. Shor",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 0.625,
+    "n_nominations": 2,
+    "key": "p shor"
+   },
+   {
+    "name": "Alexei Y. Kitaev",
+    "affiliation": "California Institute of Technology",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "a kitaev"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Andrew M. Steane",
+    "affiliation": "University of Oxford",
+    "weight": 0.625,
+    "n_nominations": 2,
+    "key": "a steane"
+   },
+   {
+    "name": "Peter W. Shor",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 0.625,
+    "n_nominations": 2,
+    "key": "p shor"
+   },
+   {
+    "name": "Alexei Y. Kitaev",
+    "affiliation": "California Institute of Technology",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "a kitaev"
+   },
+   {
+    "name": "Daniel Gottesman",
+    "affiliation": "University of Maryland, College Park",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "d gottesman"
+   }
+  ],
+  "nomination_ids": [
+   "openai/astroparticle-physics/r1/#4",
+   "openai/atomic-physics/r1/#3"
+  ],
+  "flags": [
+   "4 people named across nominations; shown: top 3; also: Daniel Gottesman (0.25)"
+  ]
+ },
+ {
+  "rank": 15,
+  "option": "for theoretical discoveries of quantum spin liquids and exactly solvable models of topological order — Alexei Y. Kitaev, Patrick A. Lee",
+  "discovery": "for theoretical discoveries of quantum spin liquids and exactly solvable models of topological order",
+  "score": 0.625,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.625
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Alexei Y. Kitaev",
+    "affiliation": "California Institute of Technology",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "a kitaev"
+   },
+   {
+    "name": "Patrick A. Lee",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "p lee"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Alexei Y. Kitaev",
+    "affiliation": "California Institute of Technology",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "a kitaev"
+   },
+   {
+    "name": "Patrick A. Lee",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "p lee"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/theoretical-magnetism/r1/#1"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 16,
+  "option": "for the formulation of the hydrodynamic theories of active matter and flocking — John Toner, Sriram Ramaswamy, Yuhai Tu",
+  "discovery": "for the formulation of the hydrodynamic theories of active matter and flocking",
+  "score": 0.5,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.5
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "John Toner",
+    "affiliation": "University of Oregon",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "j toner"
+   },
+   {
+    "name": "Sriram Ramaswamy",
+    "affiliation": "Indian Institute of Science",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "s ramaswamy"
+   },
+   {
+    "name": "Yuhai Tu",
+    "affiliation": "IBM T. J. Watson Research Center",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "y tu"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "John Toner",
+    "affiliation": "University of Oregon",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "j toner"
+   },
+   {
+    "name": "Sriram Ramaswamy",
+    "affiliation": "Indian Institute of Science",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "s ramaswamy"
+   },
+   {
+    "name": "Yuhai Tu",
+    "affiliation": "IBM T. J. Watson Research Center",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "y tu"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/complex-systems/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 17,
+  "option": "for the discovery of fluctuation theorems and exact nonequilibrium work relations that extend thermodynamics to small systems far from equilibrium — Christopher Jarzynski, Denis J. Evans, Gavin E. Crooks",
+  "discovery": "for the discovery of fluctuation theorems and exact nonequilibrium work relations that extend thermodynamics to small systems far from equilibrium",
+  "score": 0.375,
+  "points_per_model": {
+   "claude-opus-5-5": 0.375,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Christopher Jarzynski",
+    "affiliation": "University of Maryland",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "c jarzynski"
+   },
+   {
+    "name": "Denis J. Evans",
+    "affiliation": "Australian National University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "d evans"
+   },
+   {
+    "name": "Gavin E. Crooks",
+    "affiliation": "Lawrence Berkeley National Laboratory (formerly)",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "g crooks"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Christopher Jarzynski",
+    "affiliation": "University of Maryland",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "c jarzynski"
+   },
+   {
+    "name": "Denis J. Evans",
+    "affiliation": "Australian National University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "d evans"
+   },
+   {
+    "name": "Gavin E. Crooks",
+    "affiliation": "Lawrence Berkeley National Laboratory (formerly)",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "g crooks"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/complex-systems/r1/#3"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 18,
+  "option": "for the measurement of baryon acoustic oscillations, providing a standard ruler to probe the expansion history of the universe — Daniel J. Eisenstein, John A. Peacock, Shaun Cole",
+  "discovery": "for the measurement of baryon acoustic oscillations, providing a standard ruler to probe the expansion history of the universe",
+  "score": 0.375,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.375
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Daniel J. Eisenstein",
+    "affiliation": "Harvard University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "d eisenstein"
+   },
+   {
+    "name": "John A. Peacock",
+    "affiliation": "University of Edinburgh",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "j peacock"
+   },
+   {
+    "name": "Shaun Cole",
+    "affiliation": "Durham University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "s cole"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Daniel J. Eisenstein",
+    "affiliation": "Harvard University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "d eisenstein"
+   },
+   {
+    "name": "John A. Peacock",
+    "affiliation": "University of Edinburgh",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "j peacock"
+   },
+   {
+    "name": "Shaun Cole",
+    "affiliation": "Durham University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "s cole"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/theoretical-magnetism/r1/#3"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 19,
+  "option": "for the formulation of the Kuramoto model and foundational contributions to the physics of synchronization in complex systems — Steven H. Strogatz, Yoshiki Kuramoto",
+  "discovery": "for the formulation of the Kuramoto model and foundational contributions to the physics of synchronization in complex systems",
+  "score": 0.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.25
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Steven H. Strogatz",
+    "affiliation": "Cornell University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "s strogatz"
+   },
+   {
+    "name": "Yoshiki Kuramoto",
+    "affiliation": "Kyoto University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "y kuramoto"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Steven H. Strogatz",
+    "affiliation": "Cornell University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "s strogatz"
+   },
+   {
+    "name": "Yoshiki Kuramoto",
+    "affiliation": "Kyoto University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "y kuramoto"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/complex-systems/r1/#4"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 20,
+  "option": "for precision mapping of the cosmic microwave background anisotropies and the establishment of the standard cosmological model — Charles L. Bennett, David N. Spergel, Jean-Loup Puget",
+  "discovery": "for precision mapping of the cosmic microwave background anisotropies and the establishment of the standard cosmological model",
+  "score": 0.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.25,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Charles L. Bennett",
+    "affiliation": "Johns Hopkins University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "c bennett l"
+   },
+   {
+    "name": "David N. Spergel",
+    "affiliation": "Simons Foundation and Princeton University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "d spergel"
+   },
+   {
+    "name": "Jean-Loup Puget",
+    "affiliation": "Institut d'Astrophysique Spatiale, CNRS/Université Paris-Saclay",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "j puget"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Charles L. Bennett",
+    "affiliation": "Johns Hopkins University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "c bennett l"
+   },
+   {
+    "name": "David N. Spergel",
+    "affiliation": "Simons Foundation and Princeton University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "d spergel"
+   },
+   {
+    "name": "Jean-Loup Puget",
+    "affiliation": "Institut d'Astrophysique Spatiale, CNRS/Université Paris-Saclay",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "j puget"
+   }
+  ],
+  "nomination_ids": [
+   "openai/theoretical-physics/r1/#4"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 21,
+  "option": "for the discovery of magnetic skyrmion lattices and topological spin textures in chiral magnets — Christian Pfleiderer, Naoto Nagaosa, Yoshinori Tokura",
+  "discovery": "for the discovery of magnetic skyrmion lattices and topological spin textures in chiral magnets",
+  "score": 0.125,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.125,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Christian Pfleiderer",
+    "affiliation": "Technical University of Munich",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "c pfleiderer"
+   },
+   {
+    "name": "Naoto Nagaosa",
+    "affiliation": "RIKEN and University of Tokyo",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "n nagaosa"
+   },
+   {
+    "name": "Yoshinori Tokura",
+    "affiliation": "RIKEN and University of Tokyo",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "y tokura"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Christian Pfleiderer",
+    "affiliation": "Technical University of Munich",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "c pfleiderer"
+   },
+   {
+    "name": "Naoto Nagaosa",
+    "affiliation": "RIKEN and University of Tokyo",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "n nagaosa"
+   },
+   {
+    "name": "Yoshinori Tokura",
+    "affiliation": "RIKEN and University of Tokyo",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "y tokura"
+   }
+  ],
+  "nomination_ids": [
+   "openai/theoretical-magnetism/r1/#5"
+  ],
+  "flags": []
+ }
+]

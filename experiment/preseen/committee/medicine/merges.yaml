@@ -1,0 +1,24 @@
+# Manual merge decisions, Medicine committee. Read by `committee.py aggregate --field medicine`; every entry is listed
+# in review.md. split = these nomination ids leave their automatic (shared-person) option and form their own option;
+# merge = the options holding these ids become one. person_notes = flags shown next to a person.
+split:
+  - ids: ["openai/neurology/r1/#5"]
+    reason: >-
+      p53 tumour-suppressor pathway (Lane, Levine, Vogelstein) is a different discovery from BRCA1/BRCA2 inherited
+      breast-cancer genes (King); the two were linked only through the umbrella nomination below, which names both
+      Vogelstein and King.
+  - ids: ["openai/molecular-developmental-biology/r1/#2"]
+    reason: >-
+      umbrella nomination "oncogenes, tumor-suppressor genes and inherited susceptibility genes in human cancer"
+      (Weinberg, Vogelstein, King) spans several discoveries; kept as its own option instead of joining BRCA and p53.
+merge: []
+person_notes: {}
+people:            # shown people chosen by hand (user decision at CHECKPOINT 1b, 2026-10-01)
+  - id: "anthropic/neuroscience/r1/#4"
+    names: ["Helen H. Hobbs", "Nabil G. Seidah", "Jonathan C. Cohen"]
+    reason: >-
+      tie for the third place (Cohen = Boileau, weight 0.833); Cohen, Hobbs's long-standing collaborator on the human
+      genetics of PCSK9 loss of function (user decision).
+deceased:          # living check 2026-10-01 (Wikidata + obituaries); not shown in option texts
+  "Joel F. Habener": "died 2025-12-28 (Wikidata Q96637578; ASBMB Today and Lasker Foundation obituaries)"
+  "Zelig Eshhar": "died 2025-07-03 (Wikidata Q18029986; Leibniz Institute for Immunotherapy notice; Human Gene Therapy tribute 2026)"

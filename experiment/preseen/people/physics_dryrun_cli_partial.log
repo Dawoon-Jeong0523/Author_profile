@@ -1,0 +1,166 @@
+15:56:39 start
+
+=== Charles L. Kane
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5003262716      C. L. Kane 0000-0002-9551-2177          202           72847 display               True snapshot University of Pennsylvania (US); California University of Pe
+    2 A5081090405         C. Kane                None           16            1061 display              False snapshot        DKTE Society's Textile and Engineering Institute (IN)
+    3 A5110244332          C Kane                None            7             217 display              False snapshot                                     Columbia University (US)
+    4 A5055746124         C. Kane                None           17             127 display              False snapshot                                     Syracuse University (US)
+    5 A5014330057 Charles L. Kane                None            4              79 display              False snapshot                                                             
+    6 A5058565394         C. Kane                None            1              32 display              False snapshot                      California Institute of Technology (US)
+    7 A5077889388          C Kane                None            5              21 display              False snapshot                                                             
+    8 A5114197463          C Kane                None            5               7 display              False snapshot                                                             
+    9 A5111490231         C. Kane                None            3               3 display              False snapshot                                                             
+   10 A5045946114         C. Kane                None            1               2 display              False snapshot                                                             
+   11 A5023911108          C KANE                None            1               1 display              False snapshot                                                             
+   12 A5044539212          C Kane                None            1               1 display              False snapshot                                                             
+   13 A5004185565          C KANE                None            1               0 display              False snapshot                                                             
+   14 A5070462510          C.Kane                None            1               0 display              False snapshot                                                             
+   15 A5053960823          C Kane                None            1               0 display              False snapshot                                                             
+query 'Charles L. Kane': picked A5003262716 C. L. Kane [only candidate at the given affiliation]
+
+=== Eugene J. Mele
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5068161598   E. J. Melé 0000-0001-7140-5353          366           37702 display               True snapshot University of Pennsylvania (US); University of Salento (IT);
+    2 A5016478835   E. J. Mele                None            2               0 display               True snapshot                              University of Pennsylvania (US)
+    3 A5080397766     E J Mele                None            1              16 display              False snapshot                                                             
+    4 A5110834355      E. Mele                None            8               7 display              False snapshot Arcispedale Sant'Anna (IT); Ospedale Infermi di Rimini (IT);
+    5 A5040826185      E. Mele                None            2               4 display              False snapshot                                                             
+    6 A5055163532      E. Mele                None            1               2 display              False snapshot                                                             
+    7 A5083438705       E Mele                None            2               2 display              False snapshot                                                             
+    8 A5010527329      E. Mele                None            2               2 display              False snapshot                                                             
+    9 A5068074924      E. Mele                None            1               2 display              False snapshot                                                             
+   10 A5040960002      É. MÈLE                None            1               1 display              False snapshot                                                             
+   11 A5084257121       E Mele                None            1               0 display              False snapshot                                                             
+   12 A5070971444      E. Mele                None            2               0 display              False snapshot                                                             
+   13 A5010642531      E. Mele                None            1               0 display              False snapshot                                                             
+   14 A5043132985      E. Mele                None            1               0 display              False snapshot                                                             
+   15 A5024519386      E. Mele                None            1               0 display              False snapshot                                                             
+query 'Eugene J. Mele': picked A5068161598 E. J. Melé [most cited (37,702 vs 0 citations)]; same-name fragments A5016478835
+
+=== Laurens W. Molenkamp
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5085660056 L. W. Molenkamp 0000-0003-4833-5179          643           31780 display               True snapshot University of Würzburg (DE); Max Planck Institute for Chemic
+    2 A5035180695     L Molenkamp                None            1               1 display              False snapshot                                                             
+    3 A5083815303    L. Molenkamp                None            1               0 display              False snapshot                                                             
+    4 A5023005277   L W Molenkamp                None            1               0 display              False snapshot                                                             
+    5 A5051056748   L W Molenkamp                None            2               0 display              False snapshot                                                             
+    6 A5078381858    L. Molenkamp                None            2               0 display              False snapshot                                                             
+    7 A5039782403    L. Molenkamp                None            1               0 display              False snapshot                                  EVRAZ (United Kingdom) (GB)
+    8 A5039448730     L Molenkamp                None            1               0 display              False snapshot                                                             
+    9 A5087048082   L W Molenkamp                None            1               0 display              False snapshot                                                             
+query 'Laurens W. Molenkamp': picked A5085660056 L. W. Molenkamp [only candidate at the given affiliation]
+
+=== Hidetoshi Katori
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id        display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5081417357    Hidetoshi Katori 0000-0002-8500-3678          174            8047 display               True snapshot RIKEN Advanced Science Institute (JP); The University of Tok
+    2 A5085185158           H. Katori                None           16              81 display              False snapshot                                                             
+    3 A5008537966           H. Katori                None            1               1 display              False snapshot                                    Nippon Steel (Japan) (JP)
+    4 A5050850937           H. Katori                None            1               0 display              False snapshot                                                             
+    5 A5012168899 Hiroko Aruga Katori                None          283            5151   alias              False snapshot          Tokyo University of Agriculture and Technology (JP)
+    6 A5108504106     Hideyuki Katori                None           80            1305   alias              False snapshot                                  Ebina General Hospital (JP)
+    7 A5084463872      Hideaki Katori                None           40             812   alias              False snapshot                     Jikei University School of Medicine (JP)
+    8 A5012129834       Hiroto Katori                None           12              14   alias              False snapshot                                       Teikyo University (JP)
+query 'Hidetoshi Katori': picked A5081417357 Hidetoshi Katori [only candidate at the given affiliation]
+
+=== Jun Ye
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5100382923       Jun Ye 0000-0003-0076-2112          795           40502 display               True snapshot National Institute of Standards and Technology (US); Univers
+    2 A5100382930       Jun Ye 0000-0003-2841-6529          570           14458 display               True snapshot Hebei University (CN); Hainan University (CN); Ningbo Univer
+    3 A5029823127        J. Ye                None           28            1995 display               True snapshot University of Colorado System (US); Joint Institute for Labo
+    4 A5108688194        J. Ye                None            7             671 display               True snapshot Joint Institute for Laboratory Astrophysics (US); University
+    5 A5045984393        J. Ye                None            2             654 display               True snapshot National Institute of Standards and Technology (US); Univers
+    6 A5043248298        J. Ye                None            2             362 display               True snapshot University of Colorado Boulder (US); Joint Institute for Lab
+    7 A5037551144        J. Ye                None            2             210 display               True snapshot Joint Institute for Laboratory Astrophysics (US); University
+    8 A5011773435       Jun Ye                None            1             114 display               True snapshot National Institute of Standards and Technology (US); Univers
+    9 A5086706091        J. Ye                None            1              49 display               True snapshot National Institute of Standards and Technology (US); Univers
+   10 A5088613924        J. Ye                None            1               0 display               True snapshot University of Colorado Boulder (US); National Institute of S
+   11 A5024407909        J. Ye                None            1               0 display               True snapshot National Institute of Standards and Technology (US); Univers
+   12 A5004620870        J. Ye                None            1               0 display               True snapshot University of Colorado Boulder (US); National Institute of S
+   13 A5107856006        J. Ye                None          216           15488 display              False snapshot                 The First People's Hospital of Zhaoqing (CN)
+   14 A5114242012        J. Ye                None          246           13326 display              False snapshot Beijing Technology and Business University (CN); Beijing Nor
+   15 A5030009208        J. Ye                None           24           11758 display              False snapshot                                                             
+NOT RESOLVED: ambiguous: the two most cited candidates have 40,502 and 14,458 citations. Choose with --pick N (the rank above), --affiliation, --orcid or --author-id.
+
+=== John B. Pendry
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5011614810 J. B. Pendry 0000-0003-3839-8547          607          100691 display               True snapshot Imperial College London (GB); City University of New York (U
+    2 A5074269764 J. B. Pendry                None            1               0 display               True snapshot                                 Imperial College London (GB)
+    3 A5044125517 J. B. Pendry                None            1               0 display               True snapshot                                 Imperial College London (GB)
+    4 A5065557736  J.B. Pendry                None            5               2 display              False snapshot                                                             
+    5 A5014705330  J.B. Pendry                None            3               1 display              False snapshot                                                             
+    6 A5122245168 J. B. Pendry                None            1               0 display              False snapshot                                                             
+    7 A5034867902  J.B. Pendry                None            2               0 display              False snapshot                                                             
+    8 A5082751854  J.B. Pendry                None            2               0 display              False snapshot                                                             
+    9 A5078694911   J B Pendry                None            1               0 display              False snapshot                                                             
+   10 A5026819305  J.B. Pendry                None            2               0 display              False snapshot                                                             
+   11 A5009744761  J.B. Pendry                None            1               0 display              False snapshot                                                             
+   12 A5025316087 J. B. Pendry                None            1               0 display              False snapshot                                                             
+   13 A5022354992    J. Pendry                None            1               0 display              False snapshot                                                             
+   14 A5002848750  J.B. Pendry                None            1               0 display              False snapshot                                                             
+   15 A5000106719  J.B. Pendry                None            1               0 display              False snapshot                                                             
+query 'John B. Pendry': picked A5011614810 J. B. Pendry [most cited (100,691 vs 0 citations)]
+
+=== David R. Smith
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5042580914  David R. Smith 0000-0002-4832-6208          657          103240 display               True snapshot            Université de Bordeaux (FR); Duke University (US)
+    2 A5059119479  David R. Smith 0000-0003-3658-4506          329            2728 display               True snapshot                                         Duke University (US)
+    3 A5012274220     D. R. Smith                None            4             842 display               True snapshot                                         Duke University (US)
+    4 A5101805003  David R. Smith 0000-0001-9093-7056           29             313 display               True snapshot                                         Duke University (US)
+    5 A5108116580  David R. Smith                None            4              70 display               True snapshot                                         Duke University (US)
+    6 A5112184375         D Smith                None           12              28 display               True snapshot          Duke University (US); Duke University Hospital (US)
+    7 A5047474127     D. A. Smith 0000-0002-7833-0275          305           25181   alias               True snapshot Centre National de la Recherche Scientifique (FR); Duke Univ
+    8 A5090728060  David A. Smith 0000-0001-6671-0978          346            6618   alias               True snapshot Duke University (US); University of California System (US); 
+    9 A5078224387  D. MOODY SMITH                None            2               0   alias               True snapshot                                         Duke University (US)
+   10 A5107873109        D. Smith                None          426           60239 display              False snapshot                                                             
+   11 A5075965166     David Smith 0000-0002-7860-9452         1021           38692 display              False snapshot Piedmont Cancer Institute (US); Oregon State University (US)
+   12 A5086123605     David Smith 0000-0001-9644-2353          393           15327 display              False snapshot   Glasgow Royal Infirmary (GB); Mercy Health Foundation (US)
+   13 A5107854064        D. Smith                None           99            9860 display              False snapshot                    Embry–Riddle Aeronautical University (US)
+   14 A5107910068        D. Smith                None          132            7468 display              False snapshot                                   University of Bristol (GB)
+   15 A5066619822 David Roy Smith 0000-0001-9560-5210          258            6921 display              False snapshot                                      Western University (CA)
+query 'David R. Smith': picked A5042580914 David R. Smith [most cited (103,240 vs 2,728 citations)]; same-name fragments A5108116580
+
+=== Eli Yablonovitch
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                           institutions
+    1 A5017829753 Eli Yablonovitch 0000-0002-5724-3375          628           52432 display               True snapshot                University of California, Berkeley (US)
+    2 A5017105294  E. Yablonovitch                None            1              18 display              False snapshot             University of California, Los Angeles (US)
+    3 A5099243685 Eli Yablonovitch                None            6               3 display              False snapshot University of the Holy Quran and Islamic Sciences (SD)
+    4 A5043533222  E. Yablonovitch                None            1               0 display              False snapshot                                                       
+    5 A5037550843  E. Yablonovitch                None            1               0 display              False snapshot                                                       
+    6 A5077950987  E. Yablonovitch                None            3               0 display              False snapshot             University of California, Los Angeles (US)
+    7 A5026271407  E. Yablonovitch                None            1               0 display              False snapshot                                   Core Competence (US)
+    8 A5049071896   E Yablonovitch                None            1               0 display              False snapshot                                                       
+    9 A5050238892  E. Yablonovitch                None            1               0 display              False snapshot             University of California, Los Angeles (US)
+   10 A5037493034   E Yablonovitch                None            1               0 display              False snapshot                                                       
+   11 A5011364909  E. Yablonovitch                None            1               0 display              False snapshot             University of California, Los Angeles (US)
+query 'Eli Yablonovitch': picked A5017829753 Eli Yablonovitch [only candidate at the given affiliation]
+
+=== Michael V. Berry
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                       institutions
+    1 A5006305535   M. V. BERRY                None            5             311 display               True snapshot                         University of Bristol (GB)
+    2 A5102434585 Michael Berry                None            5              14 display               True snapshot                         University of Bristol (GB)
+    3 A5058909979   M. V. BERRY                None            1              11 display               True snapshot                   Bristol Robotics Laboratory (GB)
+    4 A5020886565   M. V. BERRY                None            1               3 display               True snapshot                   Bristol Robotics Laboratory (GB)
+    5 A5022096698   M. V. Berry                None            1               2 display               True snapshot                   Bristol Robotics Laboratory (GB)
+    6 A5032028611   M. V. BERRY                None            1               0 display               True snapshot                   Bristol Robotics Laboratory (GB)
+    7 A5032503181 Michael Berry 0000-0001-7921-2468          551           47597 display              False snapshot            Oregon Health & Science University (US)
+    8 A5003372081      M. Berry                None           31            4025 display              False snapshot                                                   
+    9 A5027365314      M. Berry 0000-0002-9712-0919           41             860 display              False snapshot        Edinburgh Instruments (United Kingdom) (GB)
+   10 A5035782278 Michael Berry 0000-0002-0869-9608           39             711 display              False snapshot                                                   
+   11 A5062982324 Michael Berry 0000-0003-2134-9335           34             634 display              False snapshot                                Oldham Council (GB)
+   12 A5109211418 Michael Berry                None           35             553 display              False snapshot                                                   
+   13 A5110462174 Michael Berry                None           61             346 display              False snapshot                        University of Tasmania (AU)
+   14 A5005425182      M. Berry 0000-0002-2465-2789           17             212 display              False snapshot                 North Dakota State University (US)
+   15 A5057497305       M Berry                None           11             143 display              False snapshot St. Elisabeth Hospital (CW); Erasmus Hospital (BE)
+query 'Michael V. Berry': picked A5006305535 M. V. BERRY [most cited (311 vs 14 citations)]
+
+=== Yakir Aharonov

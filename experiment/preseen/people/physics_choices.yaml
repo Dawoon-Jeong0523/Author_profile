@@ -1,0 +1,16 @@
+# Identity decisions for people the dry-run could not resolve or resolved to a wrong fragment (Phase 3, 2026-10-01).
+"Jun Ye":
+  author_id: "A5100382923;A5029823127;A5108688194"
+  reason: two strong namesakes; A5100382923 (ORCID 0000-0003-0076-2112, NIST / JILA, 795 works) plus the two larger JILA "J. Ye" fragments; A5100382930 is a namesake in China
+"Maximilian Haider":
+  author_id: "A5085200056"
+  reason: the top candidate is M. Ali Haider (NREL); A5085200056 Maximilian Haider, ORCID 0000-0002-4712-8832, Corrected Electron Optical Systems (CEOS), electron-microscopy topics
+"Alan H. Guth":
+  author_id: "A5105707535"
+  reason: the top candidates are A. Güth (CERN / RWTH Aachen, particle physics); A5105707535 Alan H. Guth, 130 works
+"Michael V. Berry":
+  author_id: "A5032503181;A5006305535"
+  reason: the automatic pick (A5006305535, 5 works) is a fragment; A5032503181 Michael Berry, 514 works, University of Bristol, quantum chaos / optics topics (the snapshot lists other institutions, the live record Bristol), plus the Bristol fragment
+"Knut Urban":
+  author_id: "A5102812716"
+  reason: the automatic pick (A5103487546, 2 works) is a fragment; A5102812716 Knut W. Urban, ORCID 0000-0003-2677-6651, 543 works, Forschungszentrum Jülich / Ernst Ruska Centre

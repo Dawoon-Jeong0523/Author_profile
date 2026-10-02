@@ -1,0 +1,24 @@
+{
+  "type": "multiple_choice",
+  "title": "Which discovery will the 2026 Nobel Prize in Chemistry be awarded for?",
+  "description": "The 2026 Nobel Prize in Chemistry is scheduled to be announced on Wednesday 7 October 2026. Each option names a discovery and the people most closely associated with it.",
+  "resolution_criteria": "Resolves to the option whose discovery matches the discovery named in the official motivation of the 2026 Nobel Prize in Chemistry, as published at nobelprize.org. Options are matched by discovery; the people named in an option need not match the laureates exactly. If the prize is divided between two discoveries, only the discovery with the larger share counts; if the shares are equal, the discovery named first in the announcement counts. If no option matches that discovery, the question resolves to Other.",
+  "options": [
+    "for the development of controlled radical polymerization — Krzysztof Matyjaszewski, Mitsuo Sawamoto, Ezio Rizzardo",
+    "for the development of massively parallel sequencing-by-synthesis of DNA — David Klenerman, Shankar Balasubramanian, Pascal Mayer",
+    "for the discovery and development of solid-state perovskite solar cells — Henry J. Snaith, Nam-Gyu Park, Tsutomu Miyasaka",
+    "for the development of phosphoramidite chemistry for automated DNA synthesis — Marvin H. Caruthers, Serge L. Beaucage, Mark D. Matteucci",
+    "for the development of transition-metal-catalyzed C-H functionalization reactions — John F. Hartwig, Jin-Quan Yu, Robert G. Bergman",
+    "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis, Robert S. Langer, Kazunori Kataoka",
+    "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies, Stuart L. Schreiber",
+    "for the discovery of molecular chaperones that assist protein folding in the cell — Arthur L. Horwich, F. Ulrich Hartl",
+    "for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids — David W. Deamer, Hagan Bayley, Daniel Branton",
+    "for the development of ab initio molecular dynamics — Michele Parrinello, Roberto Car",
+    "for the development of efficient organic light-emitting diodes — Ching W. Tang, Steven A. Van Slyke, Mark E. Thompson",
+    "for the development of DNA origami and programmable self-assembly of DNA nanostructures — Paul W. K. Rothemund, William M. Shih, Hao Yan",
+    "Other"
+  ],
+  "options_are_mutually_exclusive": true,
+  "options_are_comprehensive": true,
+  "visibility": "private"
+}

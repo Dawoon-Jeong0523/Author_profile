@@ -1,0 +1,1924 @@
+[
+ {
+  "rank": 1,
+  "option": "for the development of controlled radical polymerization — Krzysztof Matyjaszewski, Mitsuo Sawamoto, Ezio Rizzardo",
+  "discovery": "for the development of controlled radical polymerization",
+  "score": 8.625,
+  "points_per_model": {
+   "claude-opus-5-5": 3.25,
+   "gpt-5.5-2026-04-23": 3.125,
+   "gemini-3.1-pro-preview": 2.25
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 8,
+  "n_ballots": 20,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Krzysztof Matyjaszewski",
+    "affiliation": "Carnegie Mellon University",
+    "weight": 8.625,
+    "n_nominations": 20,
+    "key": "k matyjaszewski"
+   },
+   {
+    "name": "Mitsuo Sawamoto",
+    "affiliation": "Kyoto University",
+    "weight": 8.625,
+    "n_nominations": 20,
+    "key": "m sawamoto"
+   },
+   {
+    "name": "Ezio Rizzardo",
+    "affiliation": "CSIRO",
+    "weight": 2.875,
+    "n_nominations": 7,
+    "key": "e rizzardo"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Krzysztof Matyjaszewski",
+    "affiliation": "Carnegie Mellon University",
+    "weight": 8.625,
+    "n_nominations": 20,
+    "key": "k matyjaszewski"
+   },
+   {
+    "name": "Mitsuo Sawamoto",
+    "affiliation": "Kyoto University",
+    "weight": 8.625,
+    "n_nominations": 20,
+    "key": "m sawamoto"
+   },
+   {
+    "name": "Ezio Rizzardo",
+    "affiliation": "CSIRO",
+    "weight": 2.875,
+    "n_nominations": 7,
+    "key": "e rizzardo"
+   },
+   {
+    "name": "Graeme Moad",
+    "affiliation": "CSIRO, Australia",
+    "weight": 1.0,
+    "n_nominations": 2,
+    "key": "g moad"
+   },
+   {
+    "name": "San H. Thang",
+    "affiliation": "Monash University",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "s thang"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/nanophysics/r1/#2",
+   "anthropic/organic-chemistry/r1/#1",
+   "anthropic/physical-chemistry/r1/#1",
+   "anthropic/inorganic-and-structural-chemistry/r1/#3",
+   "anthropic/molecular-physics/r1/#2",
+   "anthropic/theoretical-chemistry/r1/#1",
+   "openai/nanophysics/r1/#2",
+   "openai/medical-biochemistry/r1/#2",
+   "openai/organic-chemistry/r1/#3",
+   "openai/physical-chemistry/r1/#4",
+   "openai/inorganic-and-structural-chemistry/r1/#2",
+   "openai/molecular-physics/r1/#3",
+   "openai/biochemistry/r1/#4",
+   "openai/theoretical-chemistry/r1/#3",
+   "gemini/nanophysics/r1/#5",
+   "gemini/organic-chemistry/r1/#2",
+   "gemini/physical-chemistry/r1/#4",
+   "gemini/inorganic-and-structural-chemistry/r1/#1",
+   "gemini/molecular-physics/r1/#3",
+   "gemini/theoretical-chemistry/r1/#3"
+  ],
+  "flags": [
+   "5 people named across nominations; shown: top 3; also: Graeme Moad (1.00), San H. Thang (0.88)"
+  ]
+ },
+ {
+  "rank": 2,
+  "option": "for the development of massively parallel sequencing-by-synthesis of DNA — David Klenerman, Shankar Balasubramanian, Pascal Mayer",
+  "discovery": "for the development of massively parallel sequencing-by-synthesis of DNA",
+  "score": 8.625,
+  "points_per_model": {
+   "claude-opus-5-5": 2.25,
+   "gpt-5.5-2026-04-23": 3.0,
+   "gemini-3.1-pro-preview": 3.375
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 8,
+  "n_ballots": 19,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "David Klenerman",
+    "affiliation": "University of Cambridge",
+    "weight": 8.625,
+    "n_nominations": 19,
+    "key": "d klenerman"
+   },
+   {
+    "name": "Shankar Balasubramanian",
+    "affiliation": "University of Cambridge",
+    "weight": 8.625,
+    "n_nominations": 19,
+    "key": "s balasubramanian"
+   },
+   {
+    "name": "Pascal Mayer",
+    "affiliation": "Alphanosos, France",
+    "weight": 3.375,
+    "n_nominations": 8,
+    "key": "p mayer"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "David Klenerman",
+    "affiliation": "University of Cambridge",
+    "weight": 8.625,
+    "n_nominations": 19,
+    "key": "d klenerman"
+   },
+   {
+    "name": "Shankar Balasubramanian",
+    "affiliation": "University of Cambridge",
+    "weight": 8.625,
+    "n_nominations": 19,
+    "key": "s balasubramanian"
+   },
+   {
+    "name": "Pascal Mayer",
+    "affiliation": "Alphanosos, France",
+    "weight": 3.375,
+    "n_nominations": 8,
+    "key": "p mayer"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/medical-biochemistry/r1/#2",
+   "anthropic/physical-chemistry/r1/#2",
+   "anthropic/inorganic-and-structural-chemistry/r1/#2",
+   "anthropic/biochemistry/r1/#2",
+   "anthropic/theoretical-chemistry/r1/#4",
+   "openai/nanophysics/r1/#1",
+   "openai/medical-biochemistry/r1/#3",
+   "openai/organic-chemistry/r1/#5",
+   "openai/inorganic-and-structural-chemistry/r1/#3",
+   "openai/molecular-physics/r1/#1",
+   "openai/biochemistry/r1/#1",
+   "openai/theoretical-chemistry/r1/#4",
+   "gemini/nanophysics/r1/#4",
+   "gemini/medical-biochemistry/r1/#1",
+   "gemini/physical-chemistry/r1/#1",
+   "gemini/inorganic-and-structural-chemistry/r1/#4",
+   "gemini/molecular-physics/r1/#2",
+   "gemini/biochemistry/r1/#1",
+   "gemini/theoretical-chemistry/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 3,
+  "option": "for the discovery and development of solid-state perovskite solar cells — Henry J. Snaith, Nam-Gyu Park, Tsutomu Miyasaka",
+  "discovery": "for the discovery and development of solid-state perovskite solar cells",
+  "score": 4.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.875,
+   "gpt-5.5-2026-04-23": 2.375,
+   "gemini-3.1-pro-preview": 1.0
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 8,
+  "n_ballots": 13,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Henry J. Snaith",
+    "affiliation": "University of Oxford",
+    "weight": 4.25,
+    "n_nominations": 13,
+    "key": "h snaith"
+   },
+   {
+    "name": "Nam-Gyu Park",
+    "affiliation": "Sungkyunkwan University",
+    "weight": 4.25,
+    "n_nominations": 13,
+    "key": "n park"
+   },
+   {
+    "name": "Tsutomu Miyasaka",
+    "affiliation": "Toin University of Yokohama",
+    "weight": 4.25,
+    "n_nominations": 13,
+    "key": "t miyasaka"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Henry J. Snaith",
+    "affiliation": "University of Oxford",
+    "weight": 4.25,
+    "n_nominations": 13,
+    "key": "h snaith"
+   },
+   {
+    "name": "Nam-Gyu Park",
+    "affiliation": "Sungkyunkwan University",
+    "weight": 4.25,
+    "n_nominations": 13,
+    "key": "n park"
+   },
+   {
+    "name": "Tsutomu Miyasaka",
+    "affiliation": "Toin University of Yokohama",
+    "weight": 4.25,
+    "n_nominations": 13,
+    "key": "t miyasaka"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/organic-chemistry/r1/#5",
+   "anthropic/physical-chemistry/r1/#3",
+   "anthropic/inorganic-and-structural-chemistry/r1/#4",
+   "anthropic/biochemistry/r1/#5",
+   "openai/nanophysics/r1/#4",
+   "openai/medical-biochemistry/r1/#4",
+   "openai/organic-chemistry/r1/#2",
+   "openai/physical-chemistry/r1/#3",
+   "openai/inorganic-and-structural-chemistry/r1/#4",
+   "openai/molecular-physics/r1/#4",
+   "openai/theoretical-chemistry/r1/#2",
+   "gemini/nanophysics/r1/#1",
+   "gemini/physical-chemistry/r1/#3"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 4,
+  "option": "for the development of phosphoramidite chemistry for automated DNA synthesis — Marvin H. Caruthers, Serge L. Beaucage, Mark D. Matteucci",
+  "discovery": "for the development of phosphoramidite chemistry for automated DNA synthesis",
+  "score": 3.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.5,
+   "gpt-5.5-2026-04-23": 2.5,
+   "gemini-3.1-pro-preview": 0.25
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 4,
+  "n_ballots": 6,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Marvin H. Caruthers",
+    "affiliation": "University of Colorado Boulder",
+    "weight": 3.25,
+    "n_nominations": 6,
+    "key": "m caruthers"
+   },
+   {
+    "name": "Serge L. Beaucage",
+    "affiliation": "retired; formerly U.S. Food and Drug Administration",
+    "weight": 1.875,
+    "n_nominations": 3,
+    "key": "s beaucage"
+   },
+   {
+    "name": "Mark D. Matteucci",
+    "affiliation": "retired; formerly Gilead Sciences",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "m matteucci"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Marvin H. Caruthers",
+    "affiliation": "University of Colorado Boulder",
+    "weight": 3.25,
+    "n_nominations": 6,
+    "key": "m caruthers"
+   },
+   {
+    "name": "Serge L. Beaucage",
+    "affiliation": "retired; formerly U.S. Food and Drug Administration",
+    "weight": 1.875,
+    "n_nominations": 3,
+    "key": "s beaucage"
+   },
+   {
+    "name": "Mark D. Matteucci",
+    "affiliation": "retired; formerly Gilead Sciences",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "m matteucci"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/organic-chemistry/r1/#2",
+   "openai/medical-biochemistry/r1/#1",
+   "openai/organic-chemistry/r1/#1",
+   "openai/physical-chemistry/r1/#1",
+   "openai/inorganic-and-structural-chemistry/r1/#1",
+   "gemini/organic-chemistry/r1/#4"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 5,
+  "option": "for the development of transition-metal-catalyzed C-H functionalization reactions — John F. Hartwig, Jin-Quan Yu, Robert G. Bergman",
+  "discovery": "for the development of transition-metal-catalyzed C-H functionalization reactions",
+  "score": 2.5,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 1.5,
+   "gemini-3.1-pro-preview": 1.0
+  },
+  "n_models": 2,
+  "models": [
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 5,
+  "n_ballots": 6,
+  "consensus": "",
+  "people": [
+   {
+    "name": "John F. Hartwig",
+    "affiliation": "University of California, Berkeley",
+    "weight": 2.5,
+    "n_nominations": 6,
+    "key": "j hartwig"
+   },
+   {
+    "name": "Jin-Quan Yu",
+    "affiliation": "Scripps Research",
+    "weight": 2.125,
+    "n_nominations": 5,
+    "key": "j yu"
+   },
+   {
+    "name": "Robert G. Bergman",
+    "affiliation": "University of California, Berkeley",
+    "weight": 1.625,
+    "n_nominations": 4,
+    "key": "r bergman"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "John F. Hartwig",
+    "affiliation": "University of California, Berkeley",
+    "weight": 2.5,
+    "n_nominations": 6,
+    "key": "j hartwig"
+   },
+   {
+    "name": "Jin-Quan Yu",
+    "affiliation": "Scripps Research",
+    "weight": 2.125,
+    "n_nominations": 5,
+    "key": "j yu"
+   },
+   {
+    "name": "Robert G. Bergman",
+    "affiliation": "University of California, Berkeley",
+    "weight": 1.625,
+    "n_nominations": 4,
+    "key": "r bergman"
+   },
+   {
+    "name": "Melanie S. Sanford",
+    "affiliation": "University of Michigan",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "m sanford"
+   }
+  ],
+  "nomination_ids": [
+   "openai/organic-chemistry/r1/#4",
+   "openai/molecular-physics/r1/#2",
+   "openai/biochemistry/r1/#5",
+   "openai/theoretical-chemistry/r1/#1",
+   "gemini/medical-biochemistry/r1/#3",
+   "gemini/organic-chemistry/r1/#1"
+  ],
+  "flags": [
+   "4 people named across nominations; shown: top 3; also: Melanie S. Sanford (0.88)"
+  ]
+ },
+ {
+  "rank": 6,
+  "option": "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis, Robert S. Langer, Kazunori Kataoka",
+  "discovery": "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids",
+  "score": 2.375,
+  "points_per_model": {
+   "claude-opus-5-5": 2.125,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.25
+  },
+  "n_models": 2,
+  "models": [
+   "claude-opus-5-5",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 8,
+  "n_ballots": 10,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Pieter R. Cullis",
+    "affiliation": "University of British Columbia, Canada",
+    "weight": 2.0,
+    "n_nominations": 9,
+    "key": "p cullis"
+   },
+   {
+    "name": "Robert S. Langer",
+    "affiliation": "Massachusetts Institute of Technology, USA",
+    "weight": 2.0,
+    "n_nominations": 9,
+    "key": "r langer"
+   },
+   {
+    "name": "Kazunori Kataoka",
+    "affiliation": "Innovation Center of NanoMedicine, Kawasaki / University of Tokyo, Japan",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "k kataoka"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Pieter R. Cullis",
+    "affiliation": "University of British Columbia, Canada",
+    "weight": 2.0,
+    "n_nominations": 9,
+    "key": "p cullis"
+   },
+   {
+    "name": "Robert S. Langer",
+    "affiliation": "Massachusetts Institute of Technology, USA",
+    "weight": 2.0,
+    "n_nominations": 9,
+    "key": "r langer"
+   },
+   {
+    "name": "Kazunori Kataoka",
+    "affiliation": "Innovation Center of NanoMedicine, Kawasaki / University of Tokyo, Japan",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "k kataoka"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/nanophysics/r1/#5",
+   "anthropic/medical-biochemistry/r1/#3",
+   "anthropic/organic-chemistry/r1/#3",
+   "anthropic/physical-chemistry/r1/#5",
+   "anthropic/inorganic-and-structural-chemistry/r1/#5",
+   "anthropic/molecular-physics/r1/#4",
+   "anthropic/biochemistry/r1/#3",
+   "anthropic/theoretical-chemistry/r1/#3",
+   "gemini/inorganic-and-structural-chemistry/r1/#5",
+   "gemini/biochemistry/r1/#5"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 7,
+  "option": "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies, Stuart L. Schreiber",
+  "discovery": "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases",
+  "score": 1.875,
+  "points_per_model": {
+   "claude-opus-5-5": 1.125,
+   "gpt-5.5-2026-04-23": 0.25,
+   "gemini-3.1-pro-preview": 0.5
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 5,
+  "n_ballots": 6,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Craig M. Crews",
+    "affiliation": "Yale University, USA",
+    "weight": 1.875,
+    "n_nominations": 6,
+    "key": "c crews"
+   },
+   {
+    "name": "Raymond J. Deshaies",
+    "affiliation": "Amgen, USA",
+    "weight": 1.25,
+    "n_nominations": 5,
+    "key": "r deshaies"
+   },
+   {
+    "name": "Stuart L. Schreiber",
+    "affiliation": "Broad Institute of MIT and Harvard, USA",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "s schreiber"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Craig M. Crews",
+    "affiliation": "Yale University, USA",
+    "weight": 1.875,
+    "n_nominations": 6,
+    "key": "c crews"
+   },
+   {
+    "name": "Raymond J. Deshaies",
+    "affiliation": "Amgen, USA",
+    "weight": 1.25,
+    "n_nominations": 5,
+    "key": "r deshaies"
+   },
+   {
+    "name": "Stuart L. Schreiber",
+    "affiliation": "Broad Institute of MIT and Harvard, USA",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "s schreiber"
+   },
+   {
+    "name": "Gerald R. Crabtree",
+    "affiliation": "Stanford University, USA",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "g crabtree"
+   },
+   {
+    "name": "Hiroshi Handa",
+    "affiliation": "Tokyo Medical University, Japan",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "h handa"
+   },
+   {
+    "name": "Alessio Ciulli",
+    "affiliation": "University of Dundee",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "a ciulli"
+   },
+   {
+    "name": "Kathleen M. Sakamoto",
+    "affiliation": "Stanford University",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "k sakamoto"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/medical-biochemistry/r1/#4",
+   "anthropic/organic-chemistry/r1/#4",
+   "anthropic/inorganic-and-structural-chemistry/r1/#1",
+   "openai/nanophysics/r1/#5",
+   "openai/molecular-physics/r1/#5",
+   "gemini/medical-biochemistry/r1/#2"
+  ],
+  "flags": [
+   "7 people named across nominations; shown: top 3; also: Gerald R. Crabtree (0.62), Hiroshi Handa (0.25), Alessio Ciulli (0.12), Kathleen M. Sakamoto (0.12)"
+  ]
+ },
+ {
+  "rank": 8,
+  "option": "for the discovery of molecular chaperones that assist protein folding in the cell — Arthur L. Horwich, F. Ulrich Hartl",
+  "discovery": "for the discovery of molecular chaperones that assist protein folding in the cell",
+  "score": 1.75,
+  "points_per_model": {
+   "claude-opus-5-5": 1.25,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.5
+  },
+  "n_models": 2,
+  "models": [
+   "claude-opus-5-5",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 2,
+  "n_ballots": 3,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Arthur L. Horwich",
+    "affiliation": "Yale School of Medicine, New Haven, USA",
+    "weight": 1.75,
+    "n_nominations": 3,
+    "key": "a horwich"
+   },
+   {
+    "name": "F. Ulrich Hartl",
+    "affiliation": "Max Planck Institute of Biochemistry, Martinsried, Germany",
+    "weight": 1.75,
+    "n_nominations": 3,
+    "key": "f hartl"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Arthur L. Horwich",
+    "affiliation": "Yale School of Medicine, New Haven, USA",
+    "weight": 1.75,
+    "n_nominations": 3,
+    "key": "a horwich"
+   },
+   {
+    "name": "F. Ulrich Hartl",
+    "affiliation": "Max Planck Institute of Biochemistry, Martinsried, Germany",
+    "weight": 1.75,
+    "n_nominations": 3,
+    "key": "f hartl"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/medical-biochemistry/r1/#1",
+   "anthropic/biochemistry/r1/#1",
+   "gemini/biochemistry/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 9,
+  "option": "for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids — David W. Deamer, Hagan Bayley, Daniel Branton",
+  "discovery": "for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids",
+  "score": 1.625,
+  "points_per_model": {
+   "claude-opus-5-5": 1.125,
+   "gpt-5.5-2026-04-23": 0.5,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 2,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 3,
+  "n_ballots": 4,
+  "consensus": "",
+  "people": [
+   {
+    "name": "David W. Deamer",
+    "affiliation": "University of California, Santa Cruz, USA",
+    "weight": 1.625,
+    "n_nominations": 4,
+    "key": "d deamer"
+   },
+   {
+    "name": "Hagan Bayley",
+    "affiliation": "University of Oxford, UK",
+    "weight": 1.625,
+    "n_nominations": 4,
+    "key": "h bayley"
+   },
+   {
+    "name": "Daniel Branton",
+    "affiliation": "Harvard University, USA",
+    "weight": 1.125,
+    "n_nominations": 3,
+    "key": "d branton"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "David W. Deamer",
+    "affiliation": "University of California, Santa Cruz, USA",
+    "weight": 1.625,
+    "n_nominations": 4,
+    "key": "d deamer"
+   },
+   {
+    "name": "Hagan Bayley",
+    "affiliation": "University of Oxford, UK",
+    "weight": 1.625,
+    "n_nominations": 4,
+    "key": "h bayley"
+   },
+   {
+    "name": "Daniel Branton",
+    "affiliation": "Harvard University, USA",
+    "weight": 1.125,
+    "n_nominations": 3,
+    "key": "d branton"
+   },
+   {
+    "name": "Mark Akeson",
+    "affiliation": "University of California, Santa Cruz",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "m akeson"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/nanophysics/r1/#1",
+   "anthropic/physical-chemistry/r1/#4",
+   "anthropic/biochemistry/r1/#4",
+   "openai/physical-chemistry/r1/#2"
+  ],
+  "flags": [
+   "4 people named across nominations; shown: top 3; also: Mark Akeson (0.50)"
+  ]
+ },
+ {
+  "rank": 10,
+  "option": "for the development of ab initio molecular dynamics — Michele Parrinello, Roberto Car",
+  "discovery": "for the development of ab initio molecular dynamics",
+  "score": 1.5,
+  "points_per_model": {
+   "claude-opus-5-5": 0.125,
+   "gpt-5.5-2026-04-23": 0.125,
+   "gemini-3.1-pro-preview": 1.25
+  },
+  "n_models": 3,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 3,
+  "n_ballots": 4,
+  "consensus": "cross-model consensus",
+  "people": [
+   {
+    "name": "Michele Parrinello",
+    "affiliation": "ETH Zurich",
+    "weight": 1.5,
+    "n_nominations": 4,
+    "key": "m parrinello"
+   },
+   {
+    "name": "Roberto Car",
+    "affiliation": "Princeton University",
+    "weight": 1.5,
+    "n_nominations": 4,
+    "key": "r car"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Michele Parrinello",
+    "affiliation": "ETH Zurich",
+    "weight": 1.5,
+    "n_nominations": 4,
+    "key": "m parrinello"
+   },
+   {
+    "name": "Roberto Car",
+    "affiliation": "Princeton University",
+    "weight": 1.5,
+    "n_nominations": 4,
+    "key": "r car"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/theoretical-chemistry/r1/#5",
+   "openai/physical-chemistry/r1/#5",
+   "gemini/molecular-physics/r1/#1",
+   "gemini/theoretical-chemistry/r1/#1"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 11,
+  "option": "for the development of efficient organic light-emitting diodes — Ching W. Tang, Steven A. Van Slyke, Mark E. Thompson",
+  "discovery": "for the development of efficient organic light-emitting diodes",
+  "score": 1.125,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.5,
+   "gemini-3.1-pro-preview": 0.625
+  },
+  "n_models": 2,
+  "models": [
+   "gpt-5.5-2026-04-23",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 4,
+  "n_ballots": 4,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Ching W. Tang",
+    "affiliation": "Hong Kong University of Science and Technology",
+    "weight": 1.125,
+    "n_nominations": 4,
+    "key": "c tang"
+   },
+   {
+    "name": "Steven A. Van Slyke",
+    "affiliation": "formerly Eastman Kodak",
+    "weight": 1.0,
+    "n_nominations": 3,
+    "key": "s slyke"
+   },
+   {
+    "name": "Mark E. Thompson",
+    "affiliation": "University of Southern California",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "m thompson"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Ching W. Tang",
+    "affiliation": "Hong Kong University of Science and Technology",
+    "weight": 1.125,
+    "n_nominations": 4,
+    "key": "c tang"
+   },
+   {
+    "name": "Steven A. Van Slyke",
+    "affiliation": "formerly Eastman Kodak",
+    "weight": 1.0,
+    "n_nominations": 3,
+    "key": "s slyke"
+   },
+   {
+    "name": "Mark E. Thompson",
+    "affiliation": "University of Southern California",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "m thompson"
+   },
+   {
+    "name": "Chihaya Adachi",
+    "affiliation": "Kyushu University",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "c adachi"
+   }
+  ],
+  "nomination_ids": [
+   "openai/biochemistry/r1/#2",
+   "gemini/organic-chemistry/r1/#3",
+   "gemini/physical-chemistry/r1/#5",
+   "gemini/theoretical-chemistry/r1/#5"
+  ],
+  "flags": [
+   "4 people named across nominations; shown: top 3; also: Chihaya Adachi (0.12)"
+  ]
+ },
+ {
+  "rank": 12,
+  "option": "for the development of DNA origami and programmable self-assembly of DNA nanostructures — Paul W. K. Rothemund, William M. Shih, Hao Yan",
+  "discovery": "for the development of DNA origami and programmable self-assembly of DNA nanostructures",
+  "score": 1.125,
+  "points_per_model": {
+   "claude-opus-5-5": 0.375,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.75
+  },
+  "n_models": 2,
+  "models": [
+   "claude-opus-5-5",
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 2,
+  "n_ballots": 3,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Paul W. K. Rothemund",
+    "affiliation": "California Institute of Technology",
+    "weight": 1.125,
+    "n_nominations": 3,
+    "key": "p rothemund"
+   },
+   {
+    "name": "William M. Shih",
+    "affiliation": "Harvard University and Dana-Farber Cancer Institute, USA",
+    "weight": 0.75,
+    "n_nominations": 2,
+    "key": "w shih"
+   },
+   {
+    "name": "Hao Yan",
+    "affiliation": "Arizona State University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "h yan"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Paul W. K. Rothemund",
+    "affiliation": "California Institute of Technology",
+    "weight": 1.125,
+    "n_nominations": 3,
+    "key": "p rothemund"
+   },
+   {
+    "name": "William M. Shih",
+    "affiliation": "Harvard University and Dana-Farber Cancer Institute, USA",
+    "weight": 0.75,
+    "n_nominations": 2,
+    "key": "w shih"
+   },
+   {
+    "name": "Hao Yan",
+    "affiliation": "Arizona State University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "h yan"
+   },
+   {
+    "name": "Chad A. Mirkin",
+    "affiliation": "Northwestern University",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "c mirkin"
+   },
+   {
+    "name": "Peng Yin",
+    "affiliation": "Harvard University, USA",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "p yin"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/nanophysics/r1/#3",
+   "gemini/nanophysics/r1/#3",
+   "gemini/inorganic-and-structural-chemistry/r1/#3"
+  ],
+  "flags": [
+   "5 people named across nominations; shown: top 3; also: Chad A. Mirkin (0.38), Peng Yin (0.38)"
+  ]
+ },
+ {
+  "rank": 13,
+  "option": "for the development of self-assembled monolayers on solid surfaces — George M. Whitesides, Ralph G. Nuzzo, David L. Allara",
+  "discovery": "for the development of self-assembled monolayers on solid surfaces",
+  "score": 1.0,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 1.0
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 4,
+  "n_ballots": 4,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "George M. Whitesides",
+    "affiliation": "Harvard University",
+    "weight": 1.0,
+    "n_nominations": 4,
+    "key": "g whitesides"
+   },
+   {
+    "name": "Ralph G. Nuzzo",
+    "affiliation": "University of Illinois at Urbana-Champaign",
+    "weight": 0.625,
+    "n_nominations": 2,
+    "key": "r nuzzo"
+   },
+   {
+    "name": "David L. Allara",
+    "affiliation": "Pennsylvania State University",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "d allara"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "George M. Whitesides",
+    "affiliation": "Harvard University",
+    "weight": 1.0,
+    "n_nominations": 4,
+    "key": "g whitesides"
+   },
+   {
+    "name": "Ralph G. Nuzzo",
+    "affiliation": "University of Illinois at Urbana-Champaign",
+    "weight": 0.625,
+    "n_nominations": 2,
+    "key": "r nuzzo"
+   },
+   {
+    "name": "David L. Allara",
+    "affiliation": "Pennsylvania State University",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "d allara"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/nanophysics/r1/#2",
+   "gemini/medical-biochemistry/r1/#4",
+   "gemini/organic-chemistry/r1/#5",
+   "gemini/molecular-physics/r1/#5"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 14,
+  "option": "for the development of accurate exchange-correlation functionals that made density functional theory the workhorse of computational chemistry — Axel D. Becke, John P. Perdew",
+  "discovery": "for the development of accurate exchange-correlation functionals that made density functional theory the workhorse of computational chemistry",
+  "score": 0.875,
+  "points_per_model": {
+   "claude-opus-5-5": 0.875,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "n_personas": 2,
+  "n_ballots": 2,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Axel D. Becke",
+    "affiliation": "Dalhousie University, Canada",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "a becke"
+   },
+   {
+    "name": "John P. Perdew",
+    "affiliation": "Tulane University, USA",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "j perdew"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Axel D. Becke",
+    "affiliation": "Dalhousie University, Canada",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "a becke"
+   },
+   {
+    "name": "John P. Perdew",
+    "affiliation": "Tulane University, USA",
+    "weight": 0.875,
+    "n_nominations": 2,
+    "key": "j perdew"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/molecular-physics/r1/#3",
+   "anthropic/theoretical-chemistry/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 15,
+  "option": "for the development of atomic layer deposition — Tuomo Suntola, Markku Leskelä, Mikko Ritala",
+  "discovery": "for the development of atomic layer deposition",
+  "score": 0.625,
+  "points_per_model": {
+   "claude-opus-5-5": 0.25,
+   "gpt-5.5-2026-04-23": 0.375,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 2,
+  "models": [
+   "claude-opus-5-5",
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 2,
+  "n_ballots": 2,
+  "consensus": "",
+  "people": [
+   {
+    "name": "Tuomo Suntola",
+    "affiliation": "Finland (formerly Lohja Corporation and Microchemistry Ltd.)",
+    "weight": 0.625,
+    "n_nominations": 2,
+    "key": "t suntola"
+   },
+   {
+    "name": "Markku Leskelä",
+    "affiliation": "University of Helsinki",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "m leskela"
+   },
+   {
+    "name": "Mikko Ritala",
+    "affiliation": "University of Helsinki",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "m ritala"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Tuomo Suntola",
+    "affiliation": "Finland (formerly Lohja Corporation and Microchemistry Ltd.)",
+    "weight": 0.625,
+    "n_nominations": 2,
+    "key": "t suntola"
+   },
+   {
+    "name": "Markku Leskelä",
+    "affiliation": "University of Helsinki",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "m leskela"
+   },
+   {
+    "name": "Mikko Ritala",
+    "affiliation": "University of Helsinki",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "m ritala"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/nanophysics/r1/#4",
+   "openai/biochemistry/r1/#3"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 16,
+  "option": "for the development of chemical methods for the synthesis and massively parallel sequencing of DNA — David Klenerman, Marvin H. Caruthers, Shankar Balasubramanian",
+  "discovery": "for the development of chemical methods for the synthesis and massively parallel sequencing of DNA",
+  "score": 0.625,
+  "points_per_model": {
+   "claude-opus-5-5": 0.625,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "David Klenerman",
+    "affiliation": "University of Cambridge, UK",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "d klenerman"
+   },
+   {
+    "name": "Marvin H. Caruthers",
+    "affiliation": "University of Colorado Boulder, USA",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "m caruthers"
+   },
+   {
+    "name": "Shankar Balasubramanian",
+    "affiliation": "University of Cambridge, UK",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "s balasubramanian"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "David Klenerman",
+    "affiliation": "University of Cambridge, UK",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "d klenerman"
+   },
+   {
+    "name": "Marvin H. Caruthers",
+    "affiliation": "University of Colorado Boulder, USA",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "m caruthers"
+   },
+   {
+    "name": "Shankar Balasubramanian",
+    "affiliation": "University of Cambridge, UK",
+    "weight": 0.625,
+    "n_nominations": 1,
+    "key": "s balasubramanian"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/molecular-physics/r1/#1"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 17,
+  "option": "for the development of dye-sensitized and perovskite solar cells — Henry J. Snaith, Michael Grätzel, Tsutomu Miyasaka",
+  "discovery": "for the development of dye-sensitized and perovskite solar cells",
+  "score": 0.5,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.5
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Henry J. Snaith",
+    "affiliation": "University of Oxford",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "h snaith"
+   },
+   {
+    "name": "Michael Grätzel",
+    "affiliation": "Ecole Polytechnique Federale de Lausanne",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "m gratzel"
+   },
+   {
+    "name": "Tsutomu Miyasaka",
+    "affiliation": "Toin University of Yokohama",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "t miyasaka"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Henry J. Snaith",
+    "affiliation": "University of Oxford",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "h snaith"
+   },
+   {
+    "name": "Michael Grätzel",
+    "affiliation": "Ecole Polytechnique Federale de Lausanne",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "m gratzel"
+   },
+   {
+    "name": "Tsutomu Miyasaka",
+    "affiliation": "Toin University of Yokohama",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "t miyasaka"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/inorganic-and-structural-chemistry/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 18,
+  "option": "for his pioneering work on electron transfer in proteins — Harry B. Gray",
+  "discovery": "for his pioneering work on electron transfer in proteins",
+  "score": 0.5,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.5
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Harry B. Gray",
+    "affiliation": "California Institute of Technology",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "h gray"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Harry B. Gray",
+    "affiliation": "California Institute of Technology",
+    "weight": 0.5,
+    "n_nominations": 1,
+    "key": "h gray"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/physical-chemistry/r1/#2"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 19,
+  "option": "for the development of palladium-catalyzed carbon-heteroatom bond formation — John F. Hartwig, Stephen L. Buchwald",
+  "discovery": "for the development of palladium-catalyzed carbon-heteroatom bond formation",
+  "score": 0.375,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.375
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "John F. Hartwig",
+    "affiliation": "University of California, Berkeley",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "j hartwig"
+   },
+   {
+    "name": "Stephen L. Buchwald",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "s buchwald"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "John F. Hartwig",
+    "affiliation": "University of California, Berkeley",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "j hartwig"
+   },
+   {
+    "name": "Stephen L. Buchwald",
+    "affiliation": "Massachusetts Institute of Technology",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "s buchwald"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/biochemistry/r1/#3"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 20,
+  "option": "for the development of mass-spectrometry-based proteomics — John R. Yates III, Matthias Mann, Ruedi Aebersold",
+  "discovery": "for the development of mass-spectrometry-based proteomics",
+  "score": 0.375,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.375,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "John R. Yates III",
+    "affiliation": "Scripps Research",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "j yates"
+   },
+   {
+    "name": "Matthias Mann",
+    "affiliation": "Max Planck Institute of Biochemistry",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "m mann"
+   },
+   {
+    "name": "Ruedi Aebersold",
+    "affiliation": "ETH Zurich and University of Zurich",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "r aebersold"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "John R. Yates III",
+    "affiliation": "Scripps Research",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "j yates"
+   },
+   {
+    "name": "Matthias Mann",
+    "affiliation": "Max Planck Institute of Biochemistry",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "m mann"
+   },
+   {
+    "name": "Ruedi Aebersold",
+    "affiliation": "ETH Zurich and University of Zurich",
+    "weight": 0.375,
+    "n_nominations": 1,
+    "key": "r aebersold"
+   }
+  ],
+  "nomination_ids": [
+   "openai/nanophysics/r1/#3"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 21,
+  "option": "for the isolation of stable carbenes and the development of N-heterocyclic carbenes as ligands in catalysis — Anthony J. Arduengo III, Guy Bertrand, Wolfgang A. Herrmann",
+  "discovery": "for the isolation of stable carbenes and the development of N-heterocyclic carbenes as ligands in catalysis",
+  "score": 0.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.25,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 2,
+  "n_ballots": 2,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Anthony J. Arduengo III",
+    "affiliation": "University of Alabama, emeritus",
+    "weight": 0.25,
+    "n_nominations": 2,
+    "key": "a arduengo"
+   },
+   {
+    "name": "Guy Bertrand",
+    "affiliation": "University of California, San Diego",
+    "weight": 0.25,
+    "n_nominations": 2,
+    "key": "g bertrand"
+   },
+   {
+    "name": "Wolfgang A. Herrmann",
+    "affiliation": "Technical University of Munich, emeritus",
+    "weight": 0.25,
+    "n_nominations": 2,
+    "key": "w herrmann"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Anthony J. Arduengo III",
+    "affiliation": "University of Alabama, emeritus",
+    "weight": 0.25,
+    "n_nominations": 2,
+    "key": "a arduengo"
+   },
+   {
+    "name": "Guy Bertrand",
+    "affiliation": "University of California, San Diego",
+    "weight": 0.25,
+    "n_nominations": 2,
+    "key": "g bertrand"
+   },
+   {
+    "name": "Wolfgang A. Herrmann",
+    "affiliation": "Technical University of Munich, emeritus",
+    "weight": 0.25,
+    "n_nominations": 2,
+    "key": "w herrmann"
+   }
+  ],
+  "nomination_ids": [
+   "openai/medical-biochemistry/r1/#5",
+   "openai/theoretical-chemistry/r1/#5"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 22,
+  "option": "for their discoveries of chemical communication in bacteria — Bonnie L. Bassler, E. Peter Greenberg",
+  "discovery": "for their discoveries of chemical communication in bacteria",
+  "score": 0.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.25
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Bonnie L. Bassler",
+    "affiliation": "Princeton University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "b bassler"
+   },
+   {
+    "name": "E. Peter Greenberg",
+    "affiliation": "University of Washington",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "e greenberg"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Bonnie L. Bassler",
+    "affiliation": "Princeton University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "b bassler"
+   },
+   {
+    "name": "E. Peter Greenberg",
+    "affiliation": "University of Washington",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "e greenberg"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/biochemistry/r1/#4"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 23,
+  "option": "for the discovery and development of semiconductor photocatalysis for water splitting — Akira Fujishima, Kazunari Domen",
+  "discovery": "for the discovery and development of semiconductor photocatalysis for water splitting",
+  "score": 0.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.25
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Akira Fujishima",
+    "affiliation": "Tokyo University of Science",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "a fujishima"
+   },
+   {
+    "name": "Kazunari Domen",
+    "affiliation": "Shinshu University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "k domen"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Akira Fujishima",
+    "affiliation": "Tokyo University of Science",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "a fujishima"
+   },
+   {
+    "name": "Kazunari Domen",
+    "affiliation": "Shinshu University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "k domen"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/molecular-physics/r1/#4"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 24,
+  "option": "for foundational contributions to the theory and understanding of proton-coupled electron transfer — Sharon Hammes-Schiffer, Thomas J. Meyer",
+  "discovery": "for foundational contributions to the theory and understanding of proton-coupled electron transfer",
+  "score": 0.25,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.25
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Sharon Hammes-Schiffer",
+    "affiliation": "Princeton University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "s schiffer"
+   },
+   {
+    "name": "Thomas J. Meyer",
+    "affiliation": "University of North Carolina at Chapel Hill",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "t meyer"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Sharon Hammes-Schiffer",
+    "affiliation": "Princeton University",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "s schiffer"
+   },
+   {
+    "name": "Thomas J. Meyer",
+    "affiliation": "University of North Carolina at Chapel Hill",
+    "weight": 0.25,
+    "n_nominations": 1,
+    "key": "t meyer"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/theoretical-chemistry/r1/#4"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 25,
+  "option": "for the discovery of the nuclear receptor superfamily of ligand-regulated transcription factors — Pierre Chambon, Ronald M. Evans",
+  "discovery": "for the discovery of the nuclear receptor superfamily of ligand-regulated transcription factors",
+  "score": 0.125,
+  "points_per_model": {
+   "claude-opus-5-5": 0.125,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Pierre Chambon",
+    "affiliation": "IGBMC, Strasbourg, France",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "p chambon"
+   },
+   {
+    "name": "Ronald M. Evans",
+    "affiliation": "Salk Institute for Biological Studies, USA",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "r evans"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Pierre Chambon",
+    "affiliation": "IGBMC, Strasbourg, France",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "p chambon"
+   },
+   {
+    "name": "Ronald M. Evans",
+    "affiliation": "Salk Institute for Biological Studies, USA",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "r evans"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/medical-biochemistry/r1/#5"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 26,
+  "option": "for the expansion of the genetic code to incorporate unnatural amino acids into proteins — Jason W. Chin, Peter G. Schultz",
+  "discovery": "for the expansion of the genetic code to incorporate unnatural amino acids into proteins",
+  "score": 0.125,
+  "points_per_model": {
+   "claude-opus-5-5": 0.125,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Jason W. Chin",
+    "affiliation": "MRC Laboratory of Molecular Biology, UK",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "j chin"
+   },
+   {
+    "name": "Peter G. Schultz",
+    "affiliation": "Scripps Research, USA",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "p schultz"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Jason W. Chin",
+    "affiliation": "MRC Laboratory of Molecular Biology, UK",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "j chin"
+   },
+   {
+    "name": "Peter G. Schultz",
+    "affiliation": "Scripps Research, USA",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "p schultz"
+   }
+  ],
+  "nomination_ids": [
+   "anthropic/molecular-physics/r1/#5"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 27,
+  "option": "for the invention of dye-sensitized solar cells — Michael Grätzel",
+  "discovery": "for the invention of dye-sensitized solar cells",
+  "score": 0.125,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.0,
+   "gemini-3.1-pro-preview": 0.125
+  },
+  "n_models": 1,
+  "models": [
+   "gemini-3.1-pro-preview"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Michael Grätzel",
+    "affiliation": "École Polytechnique Fédérale de Lausanne",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "m gratzel"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Michael Grätzel",
+    "affiliation": "École Polytechnique Fédérale de Lausanne",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "m gratzel"
+   }
+  ],
+  "nomination_ids": [
+   "gemini/medical-biochemistry/r1/#5"
+  ],
+  "flags": []
+ },
+ {
+  "rank": 28,
+  "option": "for the development of native chemical ligation and chemical protein synthesis — Philip E. Dawson, Stephen B. H. Kent, Tom W. Muir",
+  "discovery": "for the development of native chemical ligation and chemical protein synthesis",
+  "score": 0.125,
+  "points_per_model": {
+   "claude-opus-5-5": 0.0,
+   "gpt-5.5-2026-04-23": 0.125,
+   "gemini-3.1-pro-preview": 0.0
+  },
+  "n_models": 1,
+  "models": [
+   "gpt-5.5-2026-04-23"
+  ],
+  "n_personas": 1,
+  "n_ballots": 1,
+  "consensus": "single-model",
+  "people": [
+   {
+    "name": "Philip E. Dawson",
+    "affiliation": "Scripps Research",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "p dawson"
+   },
+   {
+    "name": "Stephen B. H. Kent",
+    "affiliation": "University of Chicago",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "s kent"
+   },
+   {
+    "name": "Tom W. Muir",
+    "affiliation": "Princeton University",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "t muir"
+   }
+  ],
+  "people_all": [
+   {
+    "name": "Philip E. Dawson",
+    "affiliation": "Scripps Research",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "p dawson"
+   },
+   {
+    "name": "Stephen B. H. Kent",
+    "affiliation": "University of Chicago",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "s kent"
+   },
+   {
+    "name": "Tom W. Muir",
+    "affiliation": "Princeton University",
+    "weight": 0.125,
+    "n_nominations": 1,
+    "key": "t muir"
+   }
+  ],
+  "nomination_ids": [
+   "openai/inorganic-and-structural-chemistry/r1/#5"
+  ],
+  "flags": []
+ }
+]

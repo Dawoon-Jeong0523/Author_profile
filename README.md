@@ -27,6 +27,7 @@ python pipeline/profile_person.py "Geoffrey Hinton" --wait
 [Measures](#measures-and-conventions) ·
 [Configuration](#configuration) ·
 [Batch runs](#batch-runs-nobel-laureates) ·
+[Experiment: profiles as forecasting context](#experiment-profiles-as-context-for-an-ai-forecast-of-the-2026-nobel-prizes) ·
 [Repository layout](#repository-layout) ·
 [Data inputs](#data-inputs) ·
 [Caveats](#caveats-and-known-limitations) ·
@@ -339,6 +340,26 @@ them flagged ambiguous: check those dashboards); 5 stay unresolved and their das
 with `--author-id`). `notebook/nobel_laureate_papers.ipynb` aggregates the SciSciNet / Li et al. laureate papers (Type 1 =
 prize-winning) by field × prize decade and field × publication year.
 
+## Experiment: profiles as context for an AI forecast of the 2026 Nobel Prizes
+
+[`experiment/preseen/`](experiment/preseen/README.md) uses this pipeline for a controlled experiment: do neutral
+bibliometric profiles of the people named in a forecasting question change an AI forecaster's probabilities for the 2026
+Nobel Prizes in Physiology or Medicine, Physics and Chemistry?
+
+- A **virtual Nobel committee** (personas with the specialties of the 2026 committees, each run on Anthropic
+  `claude-opus-5-5`, OpenAI `gpt-5.5-2026-04-23` and Google `gemini-3.1-pro-preview`) nominated discoveries; a
+  model-balanced Borda count and a recorded merge review gave 12 candidate discoveries + “Other” per field.
+- The same multiple-choice question was created twice on [Preseen](https://preseen.com): **control** (no context) and
+  **treat** (one profile card per named person — 98 cards built from this pipeline, each comparing the person with the
+  field's 2000–2025 laureates at prize time). Both arms were run repeatedly and interleaved (4 control, 3 treat runs per
+  field, 1 October 2026).
+- **Result:** the cards moved an option by 0.53×, 0.56× and 0.72× the run-to-run spread of the control arm; the leading
+  discovery (GLP-1; optical lattice clocks; sequencing-by-synthesis) and “Other” (30–33 %) are unchanged. The forecaster
+  cites the cards in its subforecasts but uses them only as a secondary cross-check.
+
+Details, every decision and the full step log: [`experiment/preseen/README.md`](experiment/preseen/README.md);
+interactive results: `experiment/preseen/results/dashboard.html`; write-up: `manuscript/preseen_nobel2026_experiment.tex`.
+
 ## Repository layout
 
 ```
@@ -356,6 +377,8 @@ Nobel Prize/
 │   ├── Li2019/                       Li et al. (2019) laureate publication records (SOURCE.md)
 │   └── prizeatlas/                   PrizeAtlas crawl tables as CSV (SOURCE.md; the parquet twins and the html/ page cache are not versioned)
 ├── docs/example/hinton/              README figures (captures of the interactive figures of the example)
+├── experiment/preseen/               Preseen context experiment on the 2026 Nobel Prizes (own README)
+├── manuscript/                       LaTeX write-up of the experiment
 ├── requirements.txt
 └── README.md
 ```

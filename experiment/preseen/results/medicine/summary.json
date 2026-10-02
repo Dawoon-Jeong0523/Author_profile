@@ -1,0 +1,95 @@
+{
+ "field": "medicine",
+ "runs": {
+  "control": 4,
+  "treat": 3
+ },
+ "control_run_to_run_mean_abs_diff": 0.008937102564102564,
+ "treat": {
+  "mean_abs_diff_vs_control": 0.004735782051282047,
+  "options_outside_control_range": 4,
+  "other_control": 0.30508599999999997,
+  "other_treat": 0.30383333333333334,
+  "entropy_bits_control": 3.034604155486464,
+  "entropy_bits_treat": 3.0761717643872486,
+  "spearman_rank_control_vs_arm": 0.9505494505494506,
+  "rank_changes": {
+   "2": -3,
+   "3": 1,
+   "4": 1,
+   "6": 2,
+   "9": -1,
+   "11": 1,
+   "12": -1
+  }
+ },
+ "subforecast_mean_abs_diff": {
+  "treat_sub0": 0.007003384615384619,
+  "treat_sub1": 0.007627205128205124,
+  "treat_sub2": 0.010443884615384615,
+  "treat_sub3": 0.011813826923076923
+ },
+ "writeup_term_means": {
+  "control": {
+   "percentile": 0.0,
+   "disruption": 0.0,
+   "patent": 0.0,
+   "textbook/book": 0.0,
+   "laureate": 7.25,
+   "co-author": 0.0,
+   "supplied bibliometrics": 0.0,
+   "sub: percentile": 0.0,
+   "sub: disruption": 0.0,
+   "sub: patent": 0.25,
+   "sub: textbook/book": 0.0,
+   "sub: laureate": 33.25,
+   "sub: co-author": 0.0,
+   "sub: supplied bibliometrics": 0.5,
+   "chars": 14529.0,
+   "n_sources": 315.5
+  },
+  "treat": {
+   "percentile": 0.0,
+   "disruption": 0.0,
+   "patent": 0.0,
+   "textbook/book": 0.0,
+   "laureate": 7.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 1.0,
+   "sub: percentile": 3.67,
+   "sub: disruption": 1.33,
+   "sub: patent": 5.33,
+   "sub: textbook/book": 3.0,
+   "sub: laureate": 32.0,
+   "sub: co-author": 1.33,
+   "sub: supplied bibliometrics": 8.0,
+   "chars": 13590.67,
+   "n_sources": 311.33
+  }
+ },
+ "drift_control_rep1_vs_later_mean_abs_diff": 0.005269538461538466,
+ "committee_vs_preseen": {
+  "spearman_borda_vs_control": 0.6737475372655036,
+  "spearman_n_models_vs_control": 0.25514415107113575,
+  "control_mean_cross_model_consensus": 0.08577675,
+  "control_mean_single_model": 0.02215525
+ },
+ "exploratory_card_strength": {
+  "impact_share": {
+   "spearman": 0.5244755244755246,
+   "p": 0.08001937592027475,
+   "n": 12
+  },
+  "inventions_share": {
+   "spearman": 0.0979020979020979,
+   "p": 0.762121655996299,
+   "n": 12
+  }
+ },
+ "uptake_quotes": [
+  "The user-provided bibliometrics were used as a secondary cross-check.",
+  "I gave the supplied bibliometrics little quantitative weight, for four reasons:",
+  "Percentiles among previous laureates cannot by themselves supply a calibrated Nobel-selection probability.",
+  "Can the supplied bibliometrics be used predictively? Their comparability, author-disambiguation issues, and absence of unsuccessful-candidate controls make direct probability estimation inappropriate."
+ ]
+}
