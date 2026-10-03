@@ -1,0 +1,150 @@
+# Preseen context-effect experiment, 2026 Nobel Prizes: configuration (SPEC.md is the source of truth).
+# Times are America/Chicago (CDT = UTC-5). Paths are relative to experiment/preseen/ unless absolute.
+# API keys are never stored here: only the names of the environment variables that hold them.
+
+timezone: America/Chicago
+repo_root: /project/jevans/Dawoon/Nobel Prize
+experiment_root: experiment/preseen
+
+python:
+  interpreter: /project/jevans/Dawoon/env/Curvature/bin/python
+  ld_library_path: /project/jevans/Dawoon/env/Curvature/lib
+
+api_keys:                          # environment variable names (values are read inside Python at request time)
+  preseen: PRESEEN_API_KEY                   # names confirmed by the user, 2026-10-01
+  anthropic: COMMITTEE_ANTHROPIC_API_KEY     # NOT ANTHROPIC_API_KEY: that one stays unset (Claude Code's own login); never set it
+  openai: OPENAI_API_KEY
+  gemini: GEMINI_API_KEY                     # keys are judged by the HTTP status of check_keys.py only, never by format
+
+order: [medicine, physics, chemistry]        # Medicine end-to-end first, then Physics, then Chemistry
+
+fields:
+  medicine:
+    prize: Physiology or Medicine            # as in the question title
+    prizeatlas_category: Medicine            # Data/prizeatlas category_en
+    will_object: discovery                   # Nobel's will: "the most important discovery"
+    will_text: the most important discovery within the domain of physiology or medicine
+    announcement: "2026-10-05T04:30:00-05:00"        # earliest; Nobel Assembly at Karolinska Institutet
+    runs_finished_by: "2026-10-04T23:00:00-05:00"
+    tag: nobel26-med
+    exp_dir: preseen_exp/medicine
+    personas:                                # specialties of the 2026 Nobel Committee (no names)
+      - neurology
+      - molecular systems biology
+      - neuroscience
+      - molecular genetics
+      - experimental rheumatology (immunology, autoimmunity)
+      - molecular developmental biology
+  physics:
+    prize: Physics
+    prizeatlas_category: Physics
+    will_object: discovery or invention
+    will_text: the most important discovery or invention within the field of physics
+    announcement: "2026-10-06T04:45:00-05:00"
+    runs_finished_by: "2026-10-05T23:00:00-05:00"
+    tag: nobel26-phys
+    exp_dir: preseen_exp/physics
+    personas:
+      - astroparticle physics
+      - theoretical magnetism
+      - applied and theoretical quantum physics
+      - atomic physics
+      - general physics
+      - theoretical physics
+      - complex systems
+      - experimental physics, microscopy and microanalysis
+  chemistry:
+    prize: Chemistry
+    prizeatlas_category: Chemistry
+    will_object: discovery or improvement
+    will_text: the most important chemical discovery or improvement
+    announcement: "2026-10-07T04:45:00-05:00"
+    runs_finished_by: "2026-10-06T23:00:00-05:00"
+    tag: nobel26-chem
+    exp_dir: preseen_exp/chemistry
+    personas:
+      - nanophysics
+      - medical biochemistry
+      - organic chemistry
+      - physical chemistry
+      - inorganic and structural chemistry
+      - molecular physics
+      - biochemistry
+      - theoretical chemistry
+
+models:                            # one per provider, chosen by the user at CHECKPOINT 0 (2026-10-01), fixed for all three fields
+  anthropic: claude-opus-5-5                 # in the /v1/models list of COMMITTEE_ANTHROPIC_API_KEY (2026-10-01 13:49)
+  openai: gpt-5.5-2026-04-23                 # dated snapshot
+  gemini: gemini-3.1-pro-preview             # preview model; the modelVersion each response reports is recorded
+
+committee:
+  persona_template: "a senior member of the Nobel Committee for {prize} whose own expertise is {specialty}"
+  date_context: "It is late September 2026; the 2026 prize has not been announced."
+  R_c: 1                           # runs per persona x model cell (ballots: medicine 18, physics 24, chemistry 24)
+  max_nominations: 5
+  max_people: 3                    # living people per nomination
+  max_key_papers: 3
+  max_rationale_sentences: 2
+  borda_points: [5, 4, 3, 2, 1]    # rank 1..5; each model's points divided by its number of valid ballots
+  json_retries: 1                  # one retry on invalid JSON, then the cell is recorded as missing
+  sampling: provider_default       # no temperature / top_p / top_k sent (user decision at CHECKPOINT 0)
+  reasoning: provider_default      # no effort / reasoning / thinking settings sent; the defaults are recorded per response
+  fallbacks: none                  # no server-side model fallback (it would swap the model inside a cell)
+  max_output_tokens: 32000         # cap only (billed by use); thinking tokens count against it on all three providers
+  tools: none                      # no tools, web search or grounding (user decision at CHECKPOINT 0)
+  test: {field: medicine, persona: 0}        # Phase 1 test ballot: one persona (the first Medicine one) on each model
+  prior_prizes: [2000, 2025]       # prizes and official motivations given to every persona (Data/prizeatlas)
+
+question:
+  K: 12                            # top discoveries + "Other"
+  other_option: Other
+  type: multiple_choice
+  visibility: private
+  title_template: "Which discovery will the 2026 Nobel Prize in {prize} be awarded for?"
+  description_template: >-
+    The 2026 Nobel Prize in {prize} is scheduled to be announced on {date}. Each option names a discovery and the
+    people most closely associated with it.
+  resolution_template: >-
+    Resolves to the option whose discovery matches the discovery named in the official motivation of the 2026 Nobel
+    Prize in {prize}, as published at nobelprize.org. Options are matched by discovery; the people named in an option
+    need not match the laureates exactly. If the prize is divided between two discoveries, only the discovery with
+    the larger share counts; if the shares are equal, the discovery named first in the announcement counts. If no
+    option matches that discovery, the question resolves to Other.
+  forbidden_words: [committee, ballot, persona, model, LLM, Claude, GPT, Gemini, profile, bibliometric, card,
+                    experiment, Preseen, treatment, control]   # must not appear in title / description / criteria
+  options_are_mutually_exclusive: true
+  options_are_comprehensive: true
+
+preseen:
+  base_url: https://preseen.com/api/v1/external
+  arms: [control, treat]           # shuffle is added when placebo is true
+  placebo: false
+  treatment: consider
+  allow_incomplete_context: false
+  control_first_look_reps: 1       # control rep 1 before any context is added to the treat arm
+  reps: 3                          # per arm after the context is ready
+  min_reps: 2                      # lowest acceptable if time runs short (ask first)
+  max_active: 3                    # client --max-active
+  seed: 2026                       # client --seed (card order and run interleaving)
+
+profiles:
+  year_max: 2021                   # pipeline default: works published / patents granted up to 2021
+  titles: api
+  card_words: [300, 500]
+  defining_works: 3
+  no_profile_card: "No bibliometric profile available."
+  laureate_reference_years: [2000, 2025]
+  exclude_unresolved_laureates:    # README "Batch runs": ids with no usable OpenAlex profile
+    - A5034810986                  # Grignard
+    - A5043531064                  # Peebles
+    - A5091481560                  # Finsen
+    - A5028941387                  # Golgi
+    - A5068473799                  # Eijkman
+
+max_shortlist:                     # Max Zhu's shortlist: not used and his folder never accessed (user decision, 2026-10-01)
+  use: false
+
+pricing:                           # USD per 1M tokens, standard tier, short prompts (for cost estimates only; checked 2026-10-01)
+  claude-opus-5-5: {input: 4.00, output: 20.00}         # Anthropic model table (claude-api reference, cached 2026-09-25)
+  gpt-5.5-2026-04-23: {input: 5.00, output: 30.00}      # developers.openai.com/api/docs/pricing, gpt-5.5 <=272K input
+  gemini-3.1-pro-preview: {input: 2.00, output: 12.00}  # ai.google.dev/gemini-api/docs/pricing, <=200K; output incl. thinking

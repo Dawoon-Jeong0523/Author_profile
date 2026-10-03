@@ -1,0 +1,91 @@
+{
+ "field": "physics",
+ "runs": {
+  "control": 4,
+  "treat": 3
+ },
+ "control_run_to_run_mean_abs_diff": 0.009253128205128204,
+ "treat": {
+  "mean_abs_diff_vs_control": 0.005138782051282052,
+  "options_outside_control_range": 2,
+  "other_control": 0.3271275,
+  "other_treat": 0.31100900000000004,
+  "entropy_bits_control": 3.1296434244399407,
+  "entropy_bits_treat": 3.155824534197256,
+  "spearman_rank_control_vs_arm": 0.9835164835164836,
+  "rank_changes": {
+   "4": 1,
+   "6": 1,
+   "11": -2
+  }
+ },
+ "subforecast_mean_abs_diff": {
+  "treat_sub0": 0.01846153846153846,
+  "treat_sub1": 0.007595282051282052,
+  "treat_sub2": 0.006564025641025641,
+  "treat_sub3": 0.008856564102564102
+ },
+ "writeup_term_means": {
+  "control": {
+   "percentile": 0.0,
+   "disruption": 0.0,
+   "patent": 2.75,
+   "textbook/book": 0.0,
+   "laureate": 8.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 0.0,
+   "sub: percentile": 0.0,
+   "sub: disruption": 0.25,
+   "sub: patent": 14.5,
+   "sub: textbook/book": 0.0,
+   "sub: laureate": 27.0,
+   "sub: co-author": 0.0,
+   "sub: supplied bibliometrics": 0.5,
+   "chars": 13974.0,
+   "n_sources": 291.25
+  },
+  "treat": {
+   "percentile": 0.67,
+   "disruption": 0.33,
+   "patent": 3.33,
+   "textbook/book": 0.0,
+   "laureate": 5.0,
+   "co-author": 0.0,
+   "supplied bibliometrics": 1.0,
+   "sub: percentile": 3.67,
+   "sub: disruption": 1.33,
+   "sub: patent": 16.33,
+   "sub: textbook/book": 1.67,
+   "sub: laureate": 26.33,
+   "sub: co-author": 2.0,
+   "sub: supplied bibliometrics": 8.0,
+   "chars": 15608.67,
+   "n_sources": 310.0
+  }
+ },
+ "drift_control_rep1_vs_later_mean_abs_diff": 0.005508051282051281,
+ "committee_vs_preseen": {
+  "spearman_borda_vs_control": 0.847637026689399,
+  "spearman_n_models_vs_control": 0.3072549338995135,
+  "control_mean_cross_model_consensus": 0.06525365624999999,
+  "control_mean_single_model": null
+ },
+ "exploratory_card_strength": {
+  "impact_share": {
+   "spearman": 0.06993006993006995,
+   "p": 0.8290236405313092,
+   "n": 12
+  },
+  "inventions_share": {
+   "spearman": -0.16783216783216784,
+   "p": 0.602099427786538,
+   "n": 12
+  }
+ },
+ "uptake_quotes": [
+  "The supplied bibliometrics were used only as a quality and plausibility check.",
+  "The supplied bibliometrics are not used as numerical predictors.",
+  "I did not fit award probabilities to the profile notes.",
+  "The client-supplied bibliometrics were used only as qualitative context."
+ ]
+}

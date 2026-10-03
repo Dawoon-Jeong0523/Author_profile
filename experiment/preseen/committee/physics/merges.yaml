@@ -1,0 +1,27 @@
+# Manual merge decisions, Physics committee. Read by `committee.py aggregate --field physics`; every entry is listed
+# in review.md. split = these nomination ids leave their automatic (shared-person) option and form their own option;
+# merge = the options holding these ids become one. aliases = spelling variants of one person's name.
+aliases:
+  "Ignacio Cirac": "J. Ignacio Cirac"
+  "Juan Ignacio Cirac": "J. Ignacio Cirac"
+split:
+  - ids: ["openai/astroparticle-physics/r1/#4", "openai/atomic-physics/r1/#3"]
+    reason: >-
+      quantum error correction and fault-tolerant quantum computation (Shor, Steane, Gottesman / Kitaev) is a different
+      discovery from quantum cryptography and quantum algorithms (Bennett, Brassard, Shor, Ekert, Deutsch); the two were
+      linked only through Peter Shor.
+  - ids: ["gemini/theoretical-magnetism/r1/#1"]
+    reason: >-
+      quantum spin liquids and exactly solvable models of topological order (Kitaev, Lee) is a different discovery
+      from quantum error correction; it was linked only through Alexei Kitaev.
+merge: []
+person_notes: {}
+wording_from:
+  - id: "anthropic/theoretical-magnetism/r1/#3"
+    reason: >-
+      the automatic wording (from the Deutsch / Shor nomination, "theoretical foundations of quantum computing and
+      quantum algorithms") does not fit the option's top three people (Bennett, Brassard, Shor); this wording ("for
+      foundational discoveries in quantum information science, including quantum cryptography and quantum
+      algorithms") is used, nearly verbatim, by 3 of the option's 6 nominations and names both halves.
+deceased:          # living check 2026-10-01 (Wikidata + obituaries); not shown in option texts
+  "Harald Rose": "died 2026-07-27 (Wikidata Q122014; Microscopy Society of America and TU Darmstadt obituaries)"

@@ -1,0 +1,17 @@
+# Identity decisions for people the dry-run could not resolve or resolved to a wrong fragment (Phase 3, 2026-10-01).
+# people.py applies them to the identity table; the profiles run with --author-id "<ids>" for these people.
+"Michel Sadelain":
+  author_id: "A5059625599;A5103081365;A5058976864"
+  reason: dry-run tied two small MSKCC fragments; A5059625599 has ORCID 0000-0002-9031-8025, 674 works, CAR-T topics (now Columbia); plus the MSKCC fragments
+"Peter Walter":
+  author_id: "A5087493059"
+  reason: two strong namesakes; A5087493059 (ORCID 0000-0002-6849-708X, Altos Labs, ER-stress topics) is the UPR researcher; A5103257547 is an Aachen ophthalmologist
+"Emmanuel Mignot":
+  author_id: "A5073040042;A5021339764;A5109153776"
+  reason: A5107994045 (39,854 cit.) carries Juliette Mignot's ORCID (0000-0002-4894-898X, climate science) and mixes two people; A5073040042 has Emmanuel Mignot's ORCID 0000-0002-6928-5310 (Stanford); plus two Stanford same-name fragments; undercounts his work rather than mixing in a namesake
+"Stephen O'Rahilly":
+  author_id: "A5013261212"
+  reason: the name search fails on the apostrophe (OpenAlex writes O’Rahilly); A5013261212 Stephen O’Rahilly, ORCID 0000-0003-2199-4449, 737 works
+"Mark H. Skolnick":
+  author_id: "A5110003746;A5108406066"
+  reason: the automatic pick (A5013067354, 6 works, at the given affiliation) is a fragment; A5110003746 Mark H. Skolnick (178 works, BRCA topics) plus the Myriad Genetics fragment A5108406066 (BRCA topics)

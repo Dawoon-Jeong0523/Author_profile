@@ -254,6 +254,7 @@ def style():
         'axes.labelcolor': INK2, 'axes.titlecolor': INK, 'xtick.color': INK2, 'ytick.color': INK2,
         'axes.grid': True, 'grid.color': GRID, 'grid.linewidth': .6, 'grid.linestyle': '-',
         'lines.linewidth': 2, 'lines.markersize': 6, 'legend.frameon': False,
+        'text.parse_math': False,      # titles such as '$GL_n(\mathbb C)$' are text, not mathtext (an unknown macro raises)
     })
 
 
@@ -1423,7 +1424,8 @@ def _first_compatible(a: str, b: str) -> bool:
 
 def inventor_name_search(con, author_names, coauthor_names=(), work_ints=(), affiliations=(), countries=(), years=(),
                          max_same_name=2, log=print) -> pd.DataFrame:
-    """Candidate PatentsView inventor ids (current release, g_inventor_disambiguated) for a person searched by name, with
+    """Legacy (author_profile.ipynb until 2026-10-03; superseded by link_inventors, kept for older notebook copies).
+    Candidate PatentsView inventor ids (current release, g_inventor_disambiguated) for a person searched by name, with
     the evidence that a candidate is the same person. Used when pqrs has no inventor for the author.
 
     A candidate's last name contains the author's family name and its first name agrees with the author's (equal, or an
@@ -1559,6 +1561,697 @@ def inventor_name_search(con, author_names, coauthor_names=(), work_ints=(), aff
                                             ascending=False).reset_index(drop=True)
     log(f'{len(C)} PatentsView inventor ids named like {variants[:3]}; {int(C.selected.sum())} selected by the evidence rule')
     return C[empty.columns]
+
+
+# ---------------------------------------------------------------------------------------------
+# Author -> inventor linking (author_profile.ipynb section 2b): pqrs candidates and a PatentsView name search, every
+# candidate checked against the author's record, and the patents of a PatentsView id that belong to a namesake left out
+# ---------------------------------------------------------------------------------------------
+LINK_VERSION = 1                                            # in the notebook's cache key: bump when the linking rule changes
+NAME_INDEX_PQ = CACHE / 'inventor_name_index.v1.parquet'    # g_inventor_disambiguated rows with folded name keys
+NAME_FREQ_PQ = CACHE / 'inventor_name_freq.v1.parquet'      # inventor ids per (first_key, last_key); ('*', '*') = all ids
+NAME_SUFFIXES = {'jr', 'sr', 'ii', 'iii', 'iv'}
+SURNAME_PARTICLES = {'van', 'von', 'der', 'den', 'de', 'del', 'della', 'di', 'da', 'du', 'la', 'le', 'ter', 'ten', 'dos', 'das',
+                     'do', 'af', 'zu', 'vom', 'zur', 'st', 'ibn', 'bin'}
+# nickname and spelling groups of given names: two given names agree when they share a group ('jeff' ~ 'jeffrey' ~ 'geoffrey')
+_NICK_GROUPS = [
+    'jeffrey jeffery jeff', 'geoffrey geoff jeff', 'robert rob robbie bob bobby bert', 'william will bill billy willy willie liam',
+    'richard rich rick ricky dick richie', 'james jim jimmy jamie', 'michael mike mick mickey', 'mikhail misha',
+    'thomas tom tommy', 'joseph joe joey', 'david dave davey', 'daniel dan danny', 'christopher chris kit',
+    'christian chris', 'christine chris', 'christina chris tina',
+    'alexander alexandr aleksandr alexandre alessandro alex sasha sandy', 'alexandra alex sasha',
+    'alexei alexey aleksei aleksey alex', 'samuel sam sammy', 'samantha sam', 'benjamin ben benji', 'kenneth ken kenny',
+    'stephen steven steve', 'stefan stephan', 'andrew andy drew', 'anthony antony tony',
+    'nicholas nicolas nikolas niklas nick nicky', 'nikolai nikolay kolya', 'peter pete', 'matthew mathew matt',
+    'patrick pat', 'patricia pat trish', 'edward ed eddie ted ned', 'theodore ted teddy theo', 'edwin ed', 'edmund ed',
+    'frederick frederic fredrik friedrich fred freddie fritz', 'gregory greg', 'lawrence laurence larry',
+    'harold harry hal', 'henry harry hank hal', 'john jack johnny', 'jonathan jon jonny', 'nathan nate nat',
+    'nathaniel nate nat', 'philip phillip philipp philippe phil', 'ronald ron ronnie', 'donald don', 'douglas doug',
+    'raymond ray', 'walter walt', 'eugene evgeny evgenii yevgeny gene', 'timothy tim',
+    'elizabeth elisabeth eliza liz beth betty betsy',
+    'katherine catherine kathryn katharine catharine katharina kate katie kathy cathy kat', 'susan sue susie',
+    'jennifer jen jenn jenny', 'margaret margarete meg peggy maggie marge', 'deborah debra debbie deb',
+    'victoria vicky vicki tori', 'barbara barb', 'arthur art', 'albert al bert', 'alan allan allen al',
+    'alfred al alf fred', 'herbert herb bert', 'gilbert gil bert', 'charles charlie chuck', 'francis frank',
+    'franklin frank', 'gerald gerry jerry', 'jerome jerry', 'joshua josh', 'leonard leo len lenny', 'stanley stan',
+    'vincent vince', 'zachary zach zack', 'vladimir volodya', 'dmitri dmitry dmitrii dima', 'sergei sergey sergej serguei',
+    'yuri yury yurii iouri', 'andrei andrey andrej', 'mohammad mohammed muhammad mohamed mohamad', 'jacob jakob jake',
+    'johannes johann hans hannes', 'willem wim', 'rebecca becky', 'jessica jess', 'cynthia cindy', 'pamela pam',
+    'judith judy', 'terence terrence terry', 'mitchell mitch', 'russell russ', 'bradley brad', 'clifford cliff',
+    'wesley wes', 'randolph randall randy']
+NICKNAMES: dict = {}
+for _i, _g in enumerate(_NICK_GROUPS):
+    for _t in _g.split():
+        NICKNAMES.setdefault(_t, set()).add(_i)
+_MATCH_RANK = {'full': 0, 'nickname': 1, 'middle': 2, 'initial': 3}
+
+
+def _fold_sql(col: str) -> str:
+    """SQL twin of fold(): lower case, TRANSLIT, accents and apostrophes removed."""
+    e = f'lower({col})'
+    for k, v in TRANSLIT.items():
+        e = f"replace({e}, '{k}', '{v}')"
+    return f"regexp_replace(strip_accents({e}), '[''’′`]', '', 'g')"
+
+
+def _name_words(s) -> list:
+    """Words of a person name (honorifics, suffixes and parentheses removed), each a tuple of its hyphen parts; periods
+    separate words: 'J.-P. Sauvage' -> [('j',), ('p',), ('sauvage',)], 'Li Fei-Fei' -> [('li',), ('fei', 'fei')]."""
+    if not isinstance(s, str):
+        return []
+    out = []
+    for w in re.split(r'[\s,.;]+', fold(_clean_person(s))):
+        parts = tuple(p for p in re.split(r'[^a-z]+', w) if p)
+        if parts and not (len(parts) == 1 and parts[0] in NAME_SUFFIXES):
+            out.append(parts)
+    return out
+
+
+def _compact(w) -> str:
+    return ''.join(w)
+
+
+def _is_initial(w) -> bool:
+    return all(len(p) == 1 for p in w)
+
+
+def _initials(w) -> str:
+    return ''.join(p[0] for p in w)
+
+
+def first_group(key: str) -> set:
+    """A given name and its nickname / spelling variants ('jeff' -> {'jeff', 'jeffrey', 'geoffrey', ...})."""
+    out = {key}
+    for g in NICKNAMES.get(key, ()):
+        out |= set(_NICK_GROUPS[g].split())
+    return out
+
+
+def name_forms(name) -> list:
+    """Readings (order, given words, family-name words) of a free-text person name: family name last ('western', with its
+    particles: 'Steven A. Van Slyke'); family name first ('eastern': 'Li Fei-Fei', 'Zhang Feng') unless the name starts
+    with an initial or has more than two words ('Chen Ning Yang' is not 'Ning Chen'); 'inverted' when only initials follow the
+    family name ('Doudna J. A.')."""
+    w = _name_words(name)
+    if len(w) < 2:
+        return []
+    if not _is_initial(w[0]) and all(_is_initial(x) for x in w[1:]):
+        return [('inverted', tuple(w[1:]), (w[0],))]
+    k = len(w) - 1
+    while k > 1 and len(w[k - 1]) == 1 and w[k - 1][0] in SURNAME_PARTICLES:
+        k -= 1
+    out = [('western', tuple(w[:k]), tuple(w[k:]))]
+    if len(w) == 2 and not any(_is_initial(x) for x in w):
+        out.append(('eastern', tuple(w[1:]), (w[0],)))
+    return out
+
+
+def _surname_forms(sur) -> tuple:
+    """(main, forms) of family-name words: main = the last word joined over hyphens ('Jarillo-Herrero' -> 'jarilloherrero'),
+    forms = main, all words joined ('Van Slyke' -> 'vanslyke') and every word that is not a particle."""
+    words = [_compact(x) for x in sur]
+    return words[-1], {words[-1], ''.join(words)} | {x for x in words if len(x) > 1 and x not in SURNAME_PARTICLES}
+
+
+def _surname_match(sa, sb) -> bool:
+    am, af = _surname_forms(sa)
+    bm, bf = _surname_forms(sb)
+    return am in bf or bm in af
+
+
+def _same_given(a: str, b: str) -> bool:
+    return a == b or bool(NICKNAMES.get(a, set()) & NICKNAMES.get(b, set()))
+
+
+def given_match(ga, gb, allow_initials=True):
+    """How two lists of given-name words agree, or None: 'full' (the same name; hyphens and spaces ignored, 'Mary Claire' ~
+    'Mary-Claire'), 'nickname' ('Jeff' ~ 'Jeffrey'), 'initial' (one side has an initial: 'J.' ~ 'Jennifer', 'J.-P.' ~
+    'Jean-Pierre'), 'middle' (one side goes by the middle name: 'J. Craig' ~ 'Craig'). Middle initials must not conflict.
+    allow_initials=False accepts only 'full' and 'nickname'."""
+    if not ga or not gb:
+        return None
+    a, b = ga[0], gb[0]
+    kind = None
+    if _compact(a) == _compact(b) or ''.join(map(_compact, ga)) == ''.join(map(_compact, gb)):
+        kind = 'full'
+    elif not _is_initial(a) and not _is_initial(b) and _same_given(_compact(a), _compact(b)):
+        kind = 'nickname'
+    elif allow_initials and (_is_initial(a) or _is_initial(b)):
+        ia, ib = _initials(a), _initials(b)
+        if (_is_initial(a) and ib.startswith(ia)) or (_is_initial(b) and ia.startswith(ib)):
+            kind = 'initial'
+    if kind is None and allow_initials:      # a hyphenated given name against a middle initial: 'Yuan-Teh' ~ 'Yuan T.'
+        for x, y in ((ga, gb), (gb, ga)):
+            if len(x[0]) > 1 and len(y) > 1 and _is_initial(y[1]) and x[0][0] == _compact(y[0]) and x[0][1][0] == y[1][0][0]:
+                return 'full'
+    if kind is None:
+        if allow_initials:
+            if _is_initial(a) and len(ga) > 1 and not _is_initial(ga[1]) and not _is_initial(b) and _same_given(_compact(ga[1]), _compact(b)):
+                return 'middle'
+            if _is_initial(b) and len(gb) > 1 and not _is_initial(gb[1]) and not _is_initial(a) and _same_given(_compact(gb[1]), _compact(a)):
+                return 'middle'
+        return None
+    if kind == 'full' and ''.join(map(_compact, ga)) == ''.join(map(_compact, gb)):
+        return kind
+    ma = {w[0][0] for w in ga[1:]} | {p[0] for p in a[1:]}           # middle initials: further words, further hyphen parts
+    mb = {w[0][0] for w in gb[1:]} | {p[0] for p in b[1:]}
+    return None if (ma and mb and not ma & mb) else kind
+
+
+def match_name(forms, first, last):
+    """Best agreement of an inventor name (PatentsView first and last name fields) with the readings of a person's names
+    (name_forms), or None. Kinds: 'full', 'nickname', 'middle', 'initial'; ' (family name first)' marks the eastern reading,
+    which accepts full given names only. An initial does not override a known full given name: when the person also goes
+    by a full first name with this family name ('Jun Ye' next to 'J. Ye'), an inventor with another full first name
+    ('Jilun Ye') does not match."""
+    gb, sb = _name_words(first), _name_words(last)
+    if not gb or not sb:
+        return None
+    best, full_firsts = None, set()
+    for order, ga, sa in forms:
+        if not _surname_match(sa, sb):
+            continue
+        if order != 'eastern' and not _is_initial(ga[0]):
+            full_firsts.add(_compact(ga[0]))
+        k = given_match(ga, gb, allow_initials=order != 'eastern')
+        if k and (best is None or _MATCH_RANK[k] < _MATCH_RANK[best[0]]):
+            best = (k, order)
+    if best and best[0] == 'initial' and not _is_initial(gb[0]) and full_firsts \
+            and not any(_same_given(_compact(gb[0]), f) for f in full_firsts):
+        return None
+    return None if best is None else best[0] + (' (family name first)' if best[1] == 'eastern' else '')
+
+
+def full_given_match(forms, first, last) -> bool:
+    """The inventor carries the person's whole given name: the same first given name (or a nickname of it), no full given
+    name dropped on either side (middle initials may be missing: 'Richard F.' ~ 'Richard', but 'Chen Ning' is not 'Chen')."""
+    gb, sb = _name_words(first), _name_words(last)
+    if not gb or not sb or _is_initial(gb[0]):
+        return False
+    for order, ga, sa in forms:
+        if order == 'eastern' or _is_initial(ga[0]) or not _surname_match(sa, sb):
+            continue
+        if ''.join(map(_compact, ga)) == ''.join(map(_compact, gb)):
+            return True
+        ma, mb = {x[0][0] for x in ga[1:]}, {x[0][0] for x in gb[1:]}       # middle initials, which must not conflict
+        if _same_given(_compact(ga[0]), _compact(gb[0])) and all(_is_initial(x) for x in list(ga[1:]) + list(gb[1:])) \
+                and not (ma and mb and not ma & mb):
+            return True
+    return False
+
+
+# organisations: assignee (PatentsView) vs affiliation (OpenAlex)
+ASSIGNEE_STOP = ORG_STOP | {
+    'pharmaceuticals', 'pharmaceutical', 'pharma', 'therapeutics', 'biosciences', 'bioscience', 'biotech', 'biotechnology',
+    'biologics', 'labs', 'lab', 'electric', 'electronics', 'electronic', 'chemical', 'chemicals', 'industries', 'industrial',
+    'engineering', 'energy', 'materials', 'semiconductor', 'semiconductors', 'devices', 'genetics', 'genomics', 'innovations',
+    'innovation', 'solutions', 'networks', 'network', 'software', 'computer', 'computing', 'instruments', 'applied', 'general',
+    'american', 'european', 'royal', 'cancer', 'children', 'childrens', 'memorial', 'clinic', 'clinical', 'agency', 'council',
+    'ministry', 'division', 'unit', 'program', 'office', 'consortium', 'partners', 'enterprises', 'ventures', 'products',
+    'biomedical', 'biological', 'biology', 'chemistry', 'physics', 'polytechnic', 'academy', 'global', 'advanced',
+    'development', 'diagnostics', 'healthcare', 'care', 'therapy', 'life', 'north', 'south', 'east', 'west', 'northern',
+    'southern', 'eastern', 'western', 'central', 'pacific', 'atlantic', 'institutes', 'scientific', 'association', 'trust',
+    'commission', 'public', 'federal', 'government', 'universiteit', 'universitaet', 'hochschule', 'ecole', 'politecnico',
+    'technische', 'laboratoire', 'laboratorium', 'centro', 'zentrum', 'centrum', 'institutet', 'fondazione', 'stiftung',
+    'gesellschaft', 'forderung', 'wissenschaften', 'angewandten', 'forschung', 'recherche', 'scientifique', 'nationale',
+    'nacional', 'nazionale', 'commissariat', 'energie', 'atomique', 'alternatives', 'universidade', 'catholic', 'katholieke',
+    'state', 'states', 'county', 'environmental', 'environment', 'chinese', 'japanese', 'korean', 'german', 'french', 'british',
+    'canadian', 'australian', 'indian', 'swiss', 'dutch', 'swedish', 'danish', 'italian', 'spanish', 'russian', 'israel',
+    'korea', 'india', 'canada', 'australia', 'europe', 'asia', 'africa', 'shanghai', 'beijing', 'shenzhen'}
+_ORG_SMALL = {'the', 'of', 'and', 'for', 'de', 'du', 'des', 'la', 'le', 'der', 'die', 'das', 'fur', 'zur', 'et', 'y', 'e', 'v',
+              'inc', 'llc', 'ltd', 'co', 'corp', 'plc', 'gmbh', 'ag', 'sa', 'nv', 'bv', 'kk', 'srl', 'spa', 'ab', 'oy', 'as',
+              'limited', 'incorporated', 'corporation', 'company'}
+_ORG_GOVERNANCE = re.compile(r'^(?:the\s+)?(?:(?:regents|trustees|board\s+of\s+(?:regents|trustees|governors|supervisors|directors)|'
+                             r'president\s+and\s+fellows|governing\s+council|chancellor\s+masters\s+and\s+scholars)\s+of\s+)?(?:the\s+)?')
+
+
+def _org_seq(s) -> list:
+    """Folded words of an organisation name without the governing body, legal forms and small words
+    ('The Regents of the University of California' -> ['university', 'california'])."""
+    if not isinstance(s, str):
+        return []
+    s = _ORG_GOVERNANCE.sub('', re.sub(r'[^a-z0-9]+', ' ', fold(s)).strip())
+    return [t for t in s.split() if t not in _ORG_SMALL]
+
+
+def _org_distinct(seq) -> set:
+    return {t for t in seq if len(t) >= 4 and t not in ASSIGNEE_STOP}
+
+
+def _contains_seq(hay, needle) -> bool:
+    n = len(needle)
+    return any(hay[i:i + n] == needle for i in range(len(hay) - n + 1))
+
+
+def org_match_level(a, b) -> int:
+    """How closely an assignee `a` and an affiliation `b` name the same organisation: 2 = closely (the assignee's distinctive
+    words are all in the affiliation, or the affiliation's, at least two, are all in the assignee: 'DeepMind Technologies
+    Limited' ~ 'DeepMind (United Kingdom)', 'Asahi Kasei Kogyo' ~ 'Asahi Kasei', but 'TI Automotive (Heidelberg)' is only 1
+    for 'Heidelberg University'; an acronym
+    of the other's words: 'IBM' ~ 'International Business Machines', 'CNRS'; or, when one name is made of generic words only,
+    its words in the same order inside the other: 'Massachusetts Institute of Technology', 'The Regents of the University
+    of California' ~ 'University of California, Berkeley', but not 'University of Southern California'); 1 = some
+    distinctive word in common ('Asahi Kasei' ~ 'Asahi Glass'); 0 = no."""
+    sa, sb = (a, b) if isinstance(a, list) else (_org_seq(a), _org_seq(b))
+    if not sa or not sb:
+        return 0
+    da, db = _org_distinct(sa), _org_distinct(sb)
+    if da & db:
+        return 2 if (da <= db or (db <= da and len(db) >= 2)) else 1
+    for x, y in ((sa, sb), (sb, sa)):
+        acr = ''.join(t[0] for t in y)
+        if len(y) >= 2 and any(2 <= len(t) <= 6 and t == acr for t in x):
+            return 2
+    for x, dx, y in ((sa, da, sb), (sb, db, sa)):
+        if len(x) >= 2 and not dx and _contains_seq(y, x):
+            return 2
+    return 0
+
+
+def org_match(a, b) -> bool:
+    """Two organisation names name the same organisation (org_match_level >= 1)."""
+    return org_match_level(a, b) >= 1
+
+
+_LINK_RELS = {
+    'nl_idx': lambda: f"SELECT patent_id, inventor_id, location_id, name_first, name_last, first_key, last_words, last_key FROM read_parquet('{NAME_INDEX_PQ}')",
+    'nl_freq': lambda: f"SELECT * FROM read_parquet('{NAME_FREQ_PQ}')",
+    'nl_pat': lambda: f"SELECT patent_id, year(TRY_CAST(patent_date AS DATE)) AS grant_year FROM read_parquet('{CACHE / 'g_patent_min.parquet'}')",
+    'nl_loc': lambda: f"SELECT location_id, any_value(disambig_country) AS country FROM read_parquet('{LOCATION_PQ}') GROUP BY 1",
+    'nl_asg': lambda: f'''SELECT patent_id, assignee_id, disambig_assignee_organization AS org FROM read_parquet('{CACHE / 'g_assignee_disambiguated.parquet'}')
+                          WHERE disambig_assignee_organization IS NOT NULL''',
+    'nl_pcs': lambda: f"SELECT patent_id, oaid, doc_kind FROM read_parquet('{PCS_PQ}') WHERE patent_id IS NOT NULL AND oaid IS NOT NULL",
+    'nl_pgx': lambda: f'''SELECT DISTINCT pgpub_id, patent_id FROM read_parquet('{CACHE / 'pg_granted_pgpubs_crosswalk.parquet'}')
+                          WHERE pgpub_id IS NOT NULL AND patent_id IS NOT NULL''',
+}
+
+
+def inventor_name_index(con, log=print):
+    """Build (once, about a minute) cache/inventor_name_index.v1.parquet: the rows of g_inventor_disambiguated with folded
+    name keys - first_key = the first given name without punctuation ('Fei-Fei' -> 'feifei', 'J. Craig' -> 'j'), last_words =
+    the words of the family name ('Van Slyke' -> ['van', 'slyke']), last_key = those words joined ('vanslyke') - and
+    cache/inventor_name_freq.v1.parquet: inventor ids per (first_key, last_key), with all ids as ('*', '*')."""
+    src = CACHE / 'g_inventor_disambiguated.parquet'
+    if not fresh(NAME_INDEX_PQ, [src]):
+        log(f'building {NAME_INDEX_PQ.name} ...')
+        t0 = time.time()
+        split = "'[\\s.,;]+'"
+        sfx = ', '.join(f"'{s}'" for s in sorted(NAME_SUFFIXES))
+        copy_atomic(con, f'''
+            SELECT patent_id, inventor_id, location_id, name_first, name_last,
+                   coalesce(regexp_replace(list_filter(string_split_regex(trim(ff), {split}), x -> regexp_matches(x, '[a-z]'))[1],
+                                           '[^a-z]', '', 'g'), '') AS first_key,
+                   lw AS last_words, array_to_string(lw, '') AS last_key
+            FROM (SELECT patent_id, inventor_id, location_id, disambig_inventor_name_first AS name_first,
+                         disambig_inventor_name_last AS name_last, {_fold_sql('disambig_inventor_name_first')} AS ff,
+                         list_filter(list_transform(string_split_regex(trim({_fold_sql('disambig_inventor_name_last')}), {split}),
+                                                    x -> regexp_replace(x, '[^a-z]', '', 'g')),
+                                     x -> x <> '' AND NOT list_contains([{sfx}], x)) AS lw
+                  FROM read_parquet('{src}'))''', NAME_INDEX_PQ)
+        log(f'{NAME_INDEX_PQ.name} built in {time.time() - t0:.0f}s')
+    if not fresh(NAME_FREQ_PQ, [NAME_INDEX_PQ]):
+        copy_atomic(con, f'''SELECT first_key, last_key, count(DISTINCT inventor_id) AS n_ids FROM read_parquet('{NAME_INDEX_PQ}')
+                             WHERE last_key <> '' GROUP BY 1, 2
+                             UNION ALL SELECT '*', '*', count(DISTINCT inventor_id) FROM read_parquet('{NAME_INDEX_PQ}')''', NAME_FREQ_PQ)
+    return NAME_INDEX_PQ
+
+
+def link_tables(con, materialize=False, log=print):
+    """Register the relations link_inventors reads (nl_idx, nl_freq, nl_pat, nl_loc, nl_asg, nl_pcs, nl_pgx) as views over
+    the shared caches, or load them into memory (materialize=True, for batch runs over many people; ~10 GB)."""
+    ensure_lookups(con)
+    inventor_name_index(con, log)
+    if not fresh(LOCATION_PQ, [granted('g_location_disambiguated.tsv.zip')]):
+        _tsv_zip_to_parquet(granted('g_location_disambiguated.tsv.zip'), LOCATION_PQ, ['location_id', 'disambig_city', 'disambig_state', 'disambig_country'])
+    for name, sql in _LINK_RELS.items():
+        for kind, cat, col in (('VIEW', 'duckdb_views()', 'view_name'), ('TABLE', 'duckdb_tables()', 'table_name')):
+            if con.sql(f"SELECT count(*) FROM {cat} WHERE {col} = '{name}'").fetchone()[0]:
+                con.execute(f'DROP {kind} {name}')
+        con.execute(f"CREATE {'TABLE' if materialize else 'VIEW'} {name} AS {sql()}")
+
+
+def _has_relation(con, name) -> bool:
+    return bool(con.sql(f"""SELECT (SELECT count(*) FROM duckdb_views() WHERE view_name = '{name}')
+                                 + (SELECT count(*) FROM duckdb_tables() WHERE table_name = '{name}')""").fetchone()[0])
+
+
+def _components(items, links) -> dict:
+    """Connected components (item -> component root) of items joined by links (iterables of items)."""
+    parent = {i: i for i in items}
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+    for grp in links:
+        grp = [g for g in grp if g in parent]
+        for y in grp[1:]:
+            ra, rb = find(grp[0]), find(y)
+            if ra != rb:
+                parent[rb] = ra
+    return {i: find(i) for i in items}
+
+
+def _namesake_stats(con, keys) -> dict:
+    """For (first_key, last_key) pairs: (inventor ids carrying the name, nicknames included; expected namesakes).
+
+    PatentsView lumps frequent names into few ids ('Hao Yan': 1 id, 117 patents of several people), so the id count alone
+    understates common names. Expected namesakes = ids with the given name x the share of the family name among the family
+    names that occur with that given name (ids(first) x ids(last) / ids(family names seen with first)): given names are tied
+    to naming cultures, so 'Liang Zhao' is expected about 5 times, 'Geoffrey Hinton' 0.6 times (independence would give
+    0.5 and 0.1)."""
+    keys = [(f, l) for f, l in dict.fromkeys(keys) if f and l]
+    if not keys:
+        return {}
+    groups = {f: sorted(first_group(f)) for f in {f for f, _ in keys}}
+    firsts = sorted({g for v in groups.values() for g in v})
+    lasts = sorted({l for _, l in keys})
+    pair = con.sql(f'''SELECT first_key, last_key, n_ids FROM nl_freq
+                       WHERE first_key IN ({sql_list(firsts)}) AND last_key IN ({sql_list(lasts)})''').df().set_index(['first_key', 'last_key']).n_ids
+    con.register('nl_g', pd.DataFrame([(f, g) for f, v in groups.items() for g in v], columns=['grp', 'first_key']))
+    G = con.sql('''WITH nl AS (SELECT last_key, sum(n_ids) AS n FROM nl_freq WHERE first_key <> '*' GROUP BY 1),
+                        s AS (SELECT DISTINCT g.grp, q.last_key FROM nl_freq q JOIN nl_g g USING (first_key)),
+                        sup AS (SELECT s.grp, sum(nl.n) AS n_sup FROM s JOIN nl USING (last_key) GROUP BY 1),
+                        nf AS (SELECT g.grp, sum(q.n_ids) AS n_first FROM nl_freq q JOIN nl_g g USING (first_key) GROUP BY 1)
+                   SELECT nf.grp, nf.n_first, sup.n_sup FROM nf JOIN sup USING (grp)''').df().set_index('grp')
+    nl = con.sql(f"SELECT last_key, sum(n_ids) AS n FROM nl_freq WHERE last_key IN ({sql_list(lasts)}) GROUP BY 1").df().set_index('last_key').n
+    out = {}
+    for f, l in keys:
+        same = int(sum(pair.get((g, l), 0) for g in groups[f]))
+        expected = (float(G.n_first[f]) * float(nl.get(l, 0)) / float(G.n_sup[f])) if f in G.index and G.n_sup[f] else 0.0
+        out[(f, l)] = (same, expected)
+    return out
+
+
+LINK_CAND_COLS = ['inventor_id', 'name', 'source', 'name_match', 'pqrs_confidence', 'n_patents', 'first_year', 'last_year',
+                  'n_ids_same_name', 'expected_namesakes', 'common_name', 'n_clusters', 'n_coauthor_coinventors',
+                  'n_coauthor_coinventors_rare', 'coauthor_coinventors', 'n_patents_citing_works', 'n_patents_citing_specific',
+                  'n_works_cited', 'n_patents_assignee_match', 'assignees_matched', 'inventor_countries', 'country_match',
+                  'selected', 'n_patents_kept', 'n_patents_dropped', 'reason']
+LINK_PAT_COLS = ['inventor_id', 'patent_id', 'grant_year', 'country', 'cluster', 'cluster_n_patents', 'coauthor_coinventors',
+                 'coauthor_rare', 'n_works_cited', 'cites_specific_work', 'assignees', 'assignee_match', 'assignee_strong', 'cluster_evidence',
+                 'cluster_conflict', 'kept', 'why']
+
+
+def link_inventors(con, author_names, coauthor_names=(), work_ints=(), affiliations=(), countries=(), years=(), pqrs=None,
+                   affiliation_works=(), search=True, verify_pqrs=True, patent_filter=True, max_namesakes=2.0, rare_coinventor=3.0, specific_work=25,
+                   max_assignee_namesakes=0.05, min_density=0.1, min_coverage=0.5, log=print) -> dict:
+    """PatentsView inventor ids (2025-12-31 release) of an OpenAlex author and the patents of each that are the author's.
+
+    Candidates: the pqrs ids (`pqrs`: DataFrame inventor_id, confidence, already translated to the current release) and,
+    with `search`, every inventor whose name agrees with one of `author_names` (match_name: family name, then given names
+    equal, nickname / spelling variants, an initial, or the middle name used as first name; family-name-first readings for
+    names like 'Li Fei-Fei'). The family name is matched as a whole word, so short names (Li, Ng, He) are searched too.
+
+    Evidence, per patent of a candidate:
+      strong   - a co-inventor whose name is a co-author's (`coauthor_names`, full given names) and is rare among inventors
+                 (at most `rare_coinventor` ids and expected namesakes); a citation of one of the author's works (`work_ints`,
+                 Reliance on Science, grants and their pre-grant publications) that at most `specific_work` patents cite;
+                 an assignee that closely names one of the author's major `affiliations` (org_match_level 2; on at least 2
+                 and 5 % of the works by `affiliation_works`, the works per affiliation) and is small enough that a namesake
+                 among its inventors is unlikely (expected namesakes, at least 1, x its inventors / all inventors at most
+                 `max_assignee_namesakes`); only when the inventor carries the whole given name (full_given_match) and at
+                 most 10 namesakes are expected;
+      moderate - a co-author co-inventor with a common name; a citation of a widely cited work only; any other assignee
+                 that names an affiliation (org_match); the pqrs link (for pqrs candidates);
+      conflict - inventor countries outside the affiliation `countries`, or grant years outside the publication `years`
+                 (5 before the first to 15 after the last).
+    The patents of a candidate are split into clusters connected by shared co-inventors or assignees (PatentsView ids can
+    merge namesakes: 'Feng Zhang', 'Hao Yan'). A cluster supports the link when it has strong evidence, or moderate evidence
+    of at least one kind (two kinds for a common name) and no conflict; for a common name the evidence must also cover at
+    least `min_density` of the cluster's patents (one co-author on one of 108 patents does not carry the cluster).
+    A name is common when more than `max_namesakes` inventor ids carry it (for a name that agrees through an initial: every
+    inventor with that initial and family name) or are expected to carry it (_namesake_stats), or when it agrees only in the
+    family-name-first reading. A candidate is selected when its name agrees and one of its clusters supports the link. With
+    `patent_filter`, the selected candidate keeps the supporting clusters and, for a rare name, the clusters without
+    conflict as long as the supporting clusters hold at least `min_coverage` of its patents (otherwise the id looks mixed);
+    the other patents are left out as a namesake's.
+    verify_pqrs=False keeps every pqrs candidate whole (the behaviour before 2026-10-03).
+
+    Returns {'candidates': one row per candidate (LINK_CAND_COLS), 'patents': one row per candidate patent (LINK_PAT_COLS),
+    'selected': selected inventor ids, 'kept_patents': patent ids kept}."""
+    out_empty = {'candidates': pd.DataFrame(columns=LINK_CAND_COLS), 'patents': pd.DataFrame(columns=LINK_PAT_COLS),
+                 'selected': [], 'kept_patents': []}
+    if not _has_relation(con, 'nl_idx'):
+        link_tables(con, log=log)
+    variants = [n for n in dict.fromkeys(author_names) if isinstance(n, str) and n.strip()]
+    forms = list(dict.fromkeys(f for n in variants for f in name_forms(n)))
+    pq_ = pqrs if pqrs is not None and len(pqrs) else pd.DataFrame({'inventor_id': pd.Series(dtype=str), 'confidence': pd.Series(dtype=float)})
+    pq_ = pq_.sort_values('confidence', ascending=False).drop_duplicates('inventor_id')
+    pq_conf = pq_.set_index('inventor_id').confidence.astype(float).to_dict()
+
+    # ---- candidates by name
+    name_ids = set()
+    if search and forms:
+        lk, ini = set(), set()
+        for order, ga, sa in forms:
+            lk |= _surname_forms(sa)[1]
+            heads = [ga[0]] + ([ga[1]] if order != 'eastern' and _is_initial(ga[0]) and len(ga) > 1 else [])
+            for h in heads:
+                ini |= {g[0] for g in first_group(_compact(h))}
+        lk = sorted(x for x in lk if len(x) > 1)
+        if lk:
+            hits = con.sql(f'''SELECT DISTINCT inventor_id, name_first, name_last FROM nl_idx
+                               WHERE (list_has_any(last_words, [{sql_list(lk)}]) OR last_key IN ({sql_list(lk)}))
+                                 AND (left(first_key, 1) IN ({sql_list(sorted(ini))}) OR length(first_key) = 1)''').df()
+            un = hits[['name_first', 'name_last']].drop_duplicates()
+            un['m'] = [match_name(forms, f, l) for f, l in un.itertuples(index=False)]
+            hits = hits.merge(un, on=['name_first', 'name_last'])
+            name_ids = set(hits.loc[hits.m.notna(), 'inventor_id'])
+    cand_ids = sorted(name_ids | set(pq_conf))
+    if not cand_ids:
+        log(f'no PatentsView inventor named like {variants[:3]} and no pqrs candidate')
+        return out_empty
+    con.register('nl_cids', pd.DataFrame({'inventor_id': pd.Series(cand_ids, dtype='string')}))
+    R = con.sql('''SELECT i.inventor_id, i.patent_id, i.name_first, i.name_last, i.first_key, i.last_key, p.grant_year, l.country
+                   FROM nl_idx i LEFT JOIN nl_pat p USING (patent_id) LEFT JOIN nl_loc l USING (location_id)
+                   WHERE i.inventor_id IN (SELECT inventor_id FROM nl_cids)''').df().drop_duplicates(['inventor_id', 'patent_id'])
+    if R.empty:
+        log(f'the candidate inventor ids {cand_ids[:5]} have no patent in the current release')
+        return out_empty
+    un = R[['name_first', 'name_last']].drop_duplicates()
+    un['name_match'] = [match_name(forms, f, l) for f, l in un.itertuples(index=False)]
+    R = R.merge(un, on=['name_first', 'name_last'], how='left')
+    R['full'] = (R.name_first.fillna('') + ' ' + R.name_last.fillna('')).str.strip()
+
+    # ---- co-inventors who are co-authors
+    con.register('nl_cpat', pd.DataFrame({'patent_id': pd.Series(R.patent_id.unique(), dtype='string')}))
+    CO = con.sql('''SELECT patent_id, inventor_id AS co_id, name_first, name_last, first_key, last_key FROM nl_idx
+                    WHERE patent_id IN (SELECT patent_id FROM nl_cpat)''').df()
+    by_main, by_form = {}, {}
+    for n in dict.fromkeys(x for x in coauthor_names if isinstance(x, str)):
+        for f in name_forms(n):
+            m, fs = _surname_forms(f[2])
+            by_main.setdefault(m, []).append(f + (n,))
+            for x in fs:
+                by_form.setdefault(x, []).append(f + (n,))
+    co_un = CO[['name_first', 'name_last', 'first_key', 'last_key']].drop_duplicates(['name_first', 'name_last'])
+    own, co_hit = [], []
+    for f, l in zip(co_un.name_first, co_un.name_last):
+        own.append(match_name(forms, f, l) is not None)
+        gb, sb = _name_words(f), _name_words(l)
+        hit = None
+        if gb and sb and not own[-1]:
+            bm, bf = _surname_forms(sb)
+            for order, ga, sa, disp in [c for x in bf for c in by_main.get(x, [])] + by_form.get(bm, []):
+                if _surname_match(sa, sb) and given_match(ga, gb, allow_initials=False):
+                    hit = disp
+                    break
+        co_hit.append(hit)
+    co_un['own'] = own
+    co_un['coauthor'] = co_hit
+    CO = CO.merge(co_un[['name_first', 'name_last', 'own', 'coauthor']], on=['name_first', 'name_last'], how='left')
+    stats = _namesake_stats(con, list(zip(R.first_key, R.last_key)) +
+                            list(zip(CO.loc[CO.coauthor.notna(), 'first_key'], CO.loc[CO.coauthor.notna(), 'last_key'])))
+    CO['co_rare'] = [bool(c) and max(stats.get((f, l), (0, 0))) <= rare_coinventor
+                     for c, f, l in zip(CO.coauthor.notna(), CO.first_key, CO.last_key)]
+    pairs = R[['inventor_id', 'patent_id']].merge(CO, on='patent_id')
+    pairs = pairs[(pairs.inventor_id != pairs.co_id) & ~pairs.own.astype(bool)]
+    coa = pairs[pairs.coauthor.notna()]
+    co_by_pat = coa.groupby(['inventor_id', 'patent_id']).agg(coauthor_coinventors=('coauthor', lambda s: '; '.join(sorted(set(s)))),
+                                                              coauthor_rare=('co_rare', 'any'))
+
+    # ---- citations of the author's works (grants and the pre-grant publications of granted patents)
+    works = sorted({int(w) for w in work_ints})
+    cites = pd.DataFrame(columns=['patent_id', 'oaid', 'n_citing'])
+    if works:
+        con.register('nl_w', pd.DataFrame({'oaid': pd.Series(works, dtype='int64')}))
+        cites = con.sql('''SELECT patent_id, oaid FROM nl_pcs WHERE doc_kind = 'grant' AND patent_id IN (SELECT patent_id FROM nl_cpat)
+                                  AND oaid IN (SELECT oaid FROM nl_w)
+                           UNION
+                           SELECT x.patent_id, p.oaid FROM nl_pcs p JOIN nl_pgx x ON x.pgpub_id = p.patent_id
+                           WHERE p.doc_kind = 'pgpub' AND x.patent_id IN (SELECT patent_id FROM nl_cpat) AND p.oaid IN (SELECT oaid FROM nl_w)''').df()
+        if len(cites):
+            con.register('nl_cw', pd.DataFrame({'oaid': pd.Series(cites.oaid.unique(), dtype='int64')}))
+            spec = con.sql('''SELECT oaid, count(DISTINCT patent_id) AS n_citing FROM nl_pcs
+                              WHERE doc_kind = 'grant' AND oaid IN (SELECT oaid FROM nl_cw) GROUP BY 1''').df()
+            cites = cites.merge(spec, on='oaid', how='left')
+    if 'n_citing' not in cites:
+        cites['n_citing'] = pd.Series(dtype=float)
+    cites['specific'] = pd.to_numeric(cites.n_citing, errors='coerce').fillna(0) <= specific_work
+    cit_by_pat = cites.groupby('patent_id').agg(n_works_cited=('oaid', 'nunique'), cites_specific_work=('specific', 'any'))
+
+    # ---- assignees that name an affiliation
+    A = con.sql('SELECT patent_id, assignee_id, org FROM nl_asg WHERE patent_id IN (SELECT patent_id FROM nl_cpat)').df()
+    aff_w = dict(zip(affiliations, affiliation_works)) if len(affiliation_works) else {}
+    floor = max(2.0, .05 * sum(aff_w.values())) if aff_w else 0.0
+    aff_seqs = [(s, not aff_w or aff_w.get(a, 0) >= floor)       # (words, major affiliation)
+                for a in dict.fromkeys(x for x in affiliations if isinstance(x, str)) for s in [_org_seq(a)] if s]
+    lv = {o: [(org_match_level(_org_seq(o), s), major) for s, major in aff_seqs] for o in A.org.dropna().unique()}
+    A['level'] = A.org.map({o: max([x for x, _ in v] or [0]) for o, v in lv.items()}).fillna(0).astype(int)
+    A['match'] = A.level >= 1
+    A['close_major'] = A.org.map({o: any(x == 2 and m for x, m in v) for o, v in lv.items()}).fillna(False).astype(bool)
+    close = sorted(set(A.loc[A.close_major, 'assignee_id'].dropna()))
+    if close:                                 # inventors per closely matched assignee: how likely a namesake works there
+        con.register('nl_ca', pd.DataFrame({'assignee_id': pd.Series(close, dtype='string')}))
+        n_inv = con.sql('''SELECT a.assignee_id, count(DISTINCT i.inventor_id) AS n FROM nl_asg a JOIN nl_idx i USING (patent_id)
+                           WHERE a.assignee_id IN (SELECT assignee_id FROM nl_ca) GROUP BY 1''').df().set_index('assignee_id').n
+        A['asg_inventors'] = A.assignee_id.map(n_inv).where(A.close_major)
+    else:
+        A['asg_inventors'] = np.nan
+    asg_by_pat = A.groupby('patent_id').agg(assignees=('org', lambda s: '; '.join(sorted(set(s.dropna()))[:4])), assignee_match=('match', 'any'),
+                                            asg_inventors=('asg_inventors', 'min'))
+    asg_matched = A[A.match].groupby('patent_id').org.agg(lambda s: set(s.dropna()))
+    n_all = float(con.sql("SELECT n_ids FROM nl_freq WHERE first_key = '*'").fetchone()[0])
+
+    # ---- one row per (candidate, patent)
+    P = (R[['inventor_id', 'patent_id', 'grant_year', 'country']]
+         .merge(co_by_pat.reset_index(), on=['inventor_id', 'patent_id'], how='left')
+         .merge(cit_by_pat.reset_index(), on='patent_id', how='left').merge(asg_by_pat.reset_index(), on='patent_id', how='left'))
+    P['coauthor_rare'] = P.coauthor_rare.fillna(False).astype(bool)
+    P['n_works_cited'] = P.n_works_cited.fillna(0).astype(int)
+    P['cites_specific_work'] = P.cites_specific_work.fillna(False).astype(bool)
+    P['assignee_match'] = P.assignee_match.fillna(False).astype(bool)
+    P['assignee_strong'] = False
+    auth_c = {str(c).upper() for c in countries if isinstance(c, str) and c}
+    yrs = pd.to_numeric(pd.Series(list(years), dtype='object'), errors='coerce').dropna()
+    lo, hi = (yrs.min() - 5, yrs.max() + 15) if len(yrs) else (-np.inf, np.inf)
+
+    # ---- clusters: patents of a candidate joined by a shared co-inventor (not the person) or assignee
+    links = pd.concat([pairs[['inventor_id', 'patent_id']].assign(k='i:' + pairs.co_id.astype(str)),
+                       R[['inventor_id', 'patent_id']].merge(A[['patent_id', 'assignee_id']].dropna(), on='patent_id')
+                       .assign(k=lambda x: 'a:' + x.assignee_id.astype(str))[['inventor_id', 'patent_id', 'k']]])
+    P['cluster'] = 0
+    for inv, grp in P.groupby('inventor_id'):
+        lk = links[links.inventor_id == inv]
+        comp = _components(list(grp.patent_id), lk.groupby('k').patent_id.agg(list).tolist())
+        sizes = pd.Series(comp).value_counts()
+        order = {root: i + 1 for i, root in enumerate(sizes.index)}          # 1 = the largest cluster
+        P.loc[grp.index, 'cluster'] = grp.patent_id.map(lambda p: order[comp[p]]).values
+    P['cluster_n_patents'] = P.groupby(['inventor_id', 'cluster']).patent_id.transform('size')
+
+    # ---- candidate-level name facts
+    id_name = R.groupby('inventor_id').full.agg(lambda s: s.mode().iloc[0])
+    id_key = R.groupby('inventor_id')[['first_key', 'last_key']].agg(lambda s: s.mode().iloc[0])
+    id_match = R.dropna(subset=['name_match']).groupby('inventor_id').name_match.agg(lambda s: min(s, key=lambda k: _MATCH_RANK[k.split(' (')[0]]))
+    lead_full = next((_compact(g) for _, ga, _ in forms for g in ga if not _is_initial(g)), None)
+    un['full_given'] = [full_given_match(forms, f, l) for f, l in zip(un.name_first, un.name_last)]
+    id_full = R.merge(un[['name_first', 'name_last', 'full_given']], on=['name_first', 'name_last'], how='left') \
+               .groupby('inventor_id').full_given.any().to_dict()
+
+    def namesakes(inv):
+        f, l = id_key.loc[inv]
+        if len(f) <= 1 and lead_full:          # an initial: count namesakes by the author's full given name
+            f = lead_full
+            stats.update(_namesake_stats(con, [(f, l)]))
+        same, expected = stats.get((f, l), (1, 0.0))
+        if str(id_match.get(inv, '')).startswith('initial') and f and l:
+            # the name agrees through an initial only: every inventor with that initial and family name is a namesake
+            same = max(same, int(con.sql(f"""SELECT coalesce(sum(n_ids), 0) FROM nl_freq
+                                            WHERE last_key = '{l}' AND left(first_key, 1) = '{f[0]}'""").fetchone()[0]))
+        return same, expected
+
+    # ---- decisions
+    cand_rows, P['kept'], P['why'], P['cluster_evidence'], P['cluster_conflict'] = [], False, '', '', ''
+    for inv, g in P.groupby('inventor_id'):
+        same, expected = namesakes(inv)
+        common = same > max_namesakes or expected > max_namesakes or 'family name first' in str(id_match.get(inv, ''))
+        in_pqrs, name_ok = inv in pq_conf, inv in id_match.index
+        selected = False
+        cl = {}
+        asg_strong = (P.loc[g.index, 'asg_inventors'] * max(expected, 1.0) / n_all <= max_assignee_namesakes).fillna(False).astype(bool)
+        if not id_full.get(inv, False) or expected > 10:      # only a whole given name of a not very common name
+            asg_strong[:] = False
+        P.loc[g.index, 'assignee_strong'] = asg_strong
+        g = P.loc[g.index]
+        for k, c in g.groupby('cluster'):
+            strong = bool(c.coauthor_rare.any() or c.cites_specific_work.any() or c.assignee_strong.any())
+            kinds = [c.coauthor_coinventors.notna().any() and not c.coauthor_rare.any(),
+                     (c.n_works_cited > 0).any() and not c.cites_specific_work.any(), c.assignee_match.any() and not c.assignee_strong.any(), in_pqrs]
+            cc = set(c.country.dropna())
+            gy = c.grant_year.dropna()
+            conflict = [w for w, bad in (('countries ' + '/'.join(sorted(cc)), bool(cc and auth_c and not cc & auth_c)),
+                                         ('grant years outside the publication years', bool(len(gy) and ((gy < lo) | (gy > hi)).all()))) if bad]
+            n_ev = int((c.coauthor_coinventors.notna() | (c.n_works_cited > 0) | c.assignee_match).sum())
+            dense = not common or n_ev >= max(1, min_density * len(c))
+            support = dense and (strong or (sum(kinds) >= (2 if common else 1) and not conflict))
+            ev = ('strong' if strong else f'{sum(kinds)} moderate kind(s)' if sum(kinds) else 'none') + ('' if dense else f', on {n_ev} of {len(c)} patents')
+            cl[k] = (support, conflict, ev)
+            selected |= support
+        selected &= name_ok
+        if in_pqrs and not verify_pqrs:
+            selected = True
+        coverage = sum(int((g.cluster == k).sum()) for k, v in cl.items() if v[0]) / max(len(g), 1)
+        pure = not common and coverage >= min_coverage
+        for k, (support, conflict, ev) in cl.items():
+            idx = g.index[g.cluster == k]
+            P.loc[idx, 'cluster_evidence'] = ev
+            P.loc[idx, 'cluster_conflict'] = '; '.join(conflict)
+            if not selected:
+                keep, why = False, 'candidate not selected'
+            elif support:
+                keep, why = True, 'cluster linked to the author (' + ev + ')'
+            elif not patent_filter or (in_pqrs and not verify_pqrs):
+                keep, why = True, 'kept: no patent filter'
+            elif pure and not conflict:
+                keep, why = True, 'rare name, no conflict'
+            else:
+                keep = False
+                why = 'namesake: ' + ('; '.join(conflict) if conflict else
+                                      ('common name' if common else f'mixed id ({coverage:.0%} of the patents linked)') + ' and '
+                                      + ('no link to the author' if ev == 'none' else ev + ' only'))
+            P.loc[idx, 'kept'] = keep
+            P.loc[idx, 'why'] = why
+        gk = P.loc[g.index]
+        co_names = sorted({n for s in g.coauthor_coinventors.dropna() for n in s.split('; ')})
+        rare_names = sorted({n for s in g.loc[g.coauthor_rare, 'coauthor_coinventors'].dropna() for n in s.split('; ')})
+        cc_all = g.country.dropna()
+        n_cite, n_spec, n_asg = int((g.n_works_cited > 0).sum()), int(g.cites_specific_work.sum()), int(g.assignee_match.sum())
+        src = ('pqrs + name search' if inv in name_ids else 'pqrs') if in_pqrs else 'name search'
+        if not name_ok:
+            reason = 'not selected: the inventor name does not agree with the author\'s names'
+        elif not selected:
+            reason = 'not selected: no cluster of patents linked to the author' + (' strongly enough for a common name' if common else '')
+        else:
+            reason = 'selected' + (' (pqrs, not verified)' if in_pqrs and not verify_pqrs else '')
+        parts = [f'{len(co_names)} co-author co-inventor(s) ({len(rare_names)} rare name)'] if co_names else []
+        parts += [f'{n_cite} patent(s) citing the works ({n_spec} citing a work few patents cite)'] if n_cite else []
+        parts += [f'{n_asg} patent(s) with an affiliation assignee'] if n_asg else []
+        parts += [f'pqrs confidence {pq_conf[inv]:.2f}'] if in_pqrs else []
+        parts += [('common' if common else 'rare') + f' name: {same} inventor id(s), {expected:.1f} expected namesakes']
+        parts += [f'{coverage:.0%} of the patents in clusters linked to the author']
+        n_drop = int((~gk.kept.astype(bool)).sum()) if selected else 0
+        parts += [f'{n_drop} patent(s) left out as a namesake\'s'] if n_drop else []
+        cand_rows.append({
+            'inventor_id': inv, 'name': id_name.get(inv), 'source': src, 'name_match': id_match.get(inv, 'no'),
+            'pqrs_confidence': pq_conf.get(inv, np.nan), 'n_patents': len(g), 'first_year': g.grant_year.min(), 'last_year': g.grant_year.max(),
+            'n_ids_same_name': same, 'expected_namesakes': round(expected, 2), 'common_name': common, 'n_clusters': g.cluster.nunique(),
+            'n_coauthor_coinventors': len(co_names), 'n_coauthor_coinventors_rare': len(rare_names), 'coauthor_coinventors': '; '.join(co_names[:30]),
+            'n_patents_citing_works': n_cite, 'n_patents_citing_specific': n_spec, 'n_works_cited': int(cites[cites.patent_id.isin(g.patent_id)].oaid.nunique()),
+            'n_patents_assignee_match': n_asg, 'assignees_matched': '; '.join(sorted(set().union(*[asg_matched.get(p_, set()) for p_ in g.patent_id]))[:5]),
+            'inventor_countries': ';'.join(cc_all.value_counts().index), 'country_match': bool(set(cc_all) & auth_c),
+            'selected': bool(selected), 'n_patents_kept': int(gk.kept.astype(bool).sum()) if selected else 0, 'n_patents_dropped': n_drop,
+            'reason': reason + ': ' + '; '.join(parts)})
+    C = pd.DataFrame(cand_rows)
+    C = C.sort_values(['selected', 'n_patents_kept', 'n_coauthor_coinventors', 'n_patents_citing_works', 'n_patents'], ascending=False).reset_index(drop=True)
+    P['kept'] = P.kept.astype(bool)
+    sel = C.loc[C.selected, 'inventor_id'].tolist()
+    kept = sorted(set(P.loc[P.kept & P.inventor_id.isin(sel), 'patent_id']))
+    log(f'{len(C)} candidate inventor id(s) ({len(name_ids)} by name, {len(pq_conf)} from pqrs); selected {sel}: '
+        f'{len(kept)} patent(s) kept, {int(C.n_patents_dropped.sum())} left out as a namesake\'s')
+    return {'candidates': C[LINK_CAND_COLS], 'patents': P[LINK_PAT_COLS].sort_values(['inventor_id', 'cluster', 'patent_id']).reset_index(drop=True),
+            'selected': sel, 'kept_patents': kept}
 
 
 # ---------------------------------------------------------------------------------------------

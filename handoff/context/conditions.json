@@ -1,0 +1,68 @@
+{
+ "note": "Notes are posted to the question in the order listed; a note stays on the question for every later run. Every condition used the same question file (questions/<field>.json).",
+ "conditions": {
+  "control": {
+   "notes": [],
+   "runs_per_field": 5,
+   "dates": "4 runs on 2026-10-01, 1 on 2026-10-02"
+  },
+  "cards_as_context": {
+   "notes": [
+    {
+     "file": "definitions.jsonl",
+     "select": "same field",
+     "treatment": "consider"
+    },
+    {
+     "file": "profile_cards_used_in_runs.jsonl",
+     "select": "same field, by order",
+     "treatment": "consider"
+    }
+   ],
+   "runs_per_field": 3,
+   "dates": "2026-10-01"
+  },
+  "cards_one_main_source": {
+   "notes": [
+    {
+     "file": "instruction_notes.jsonl",
+     "select": "id = cards_one_main_source",
+     "treatment": "assume_true"
+    },
+    {
+     "file": "definitions.jsonl",
+     "select": "same field",
+     "treatment": "consider"
+    },
+    {
+     "file": "profile_cards_used_in_runs.jsonl",
+     "select": "same field, by order",
+     "treatment": "consider"
+    }
+   ],
+   "runs_per_field": 1,
+   "dates": "2026-10-02"
+  },
+  "cards_main_evidence": {
+   "notes": [
+    {
+     "file": "instruction_notes.jsonl",
+     "select": "id = cards_main_evidence",
+     "treatment": "assume_true"
+    },
+    {
+     "file": "definitions.jsonl",
+     "select": "same field",
+     "treatment": "consider"
+    },
+    {
+     "file": "profile_cards_used_in_runs.jsonl",
+     "select": "same field, by order",
+     "treatment": "consider"
+    }
+   ],
+   "runs_per_field": 1,
+   "dates": "2026-10-02"
+  }
+ }
+}

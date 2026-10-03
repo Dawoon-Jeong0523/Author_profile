@@ -1,0 +1,25 @@
+# Identity decisions for people the dry-run could not resolve or resolved to a wrong fragment (Phase 3, 2026-10-01).
+"Pascal Mayer":
+  author_id: "A5050699304"
+  reason: >-
+    no automatic pick (the top candidates are other P. Mayers in Ottawa and Munich); A5050699304 Pascal Mayer, ORCID 0000-0003-3348-9036, 23 works on capillary electrophoresis / microfluidics / nanopores, consistent with the DNA-colony co-inventor; few papers (mostly patents), so a thin profile
+"John F. Hartwig":
+  author_id: "A5088865204"
+  reason: >-
+    the automatic pick (A5099899912, 1 work, at the given affiliation) is a fragment; A5088865204 John F. Hartwig, ORCID 0000-0002-4157-468X, 1,112 works
+"Jin-Quan Yu":
+  author_id: "A5108685090;A5122352517"
+  reason: >-
+    the automatic pick (A5018896725 "J Yu", 1 work) is a fragment; A5108685090 Jin-Quan Yu, ORCID 0000-0003-3560-5774, 690 works, plus the Scripps fragment A5122352517
+"Michele Parrinello":
+  author_id: "A5023487560;A5109157985"
+  reason: >-
+    the automatic pick (A5109157985, 10 works) is a fragment; A5023487560 Michele Parrinello, ORCID 0000-0001-6550-3272, 914 works, plus that ETH fragment
+"Ching W. Tang":
+  author_id: "A5085816509;A5103415041;A5075010179"
+  reason: >-
+    the automatic pick (A5075010179, 7 works) is a fragment; OpenAlex splits him: C. W. Tang (A5085816509, Rochester, 8,505 cit., the 1987 OLED work), Ching Wan Tang (A5103415041, Rochester, 93 works) and Ching W. Tang (A5075010179, HKUST, ORCID); all three have OLED topics
+"Steven A. Van Slyke":
+  author_id: "A5025520043;A5036976819"
+  reason: >-
+    the automatic pick (A5036976819, 14 works) lacks the 1987 OLED paper, which sits under S. A. VanSlyke (A5025520043, Kodak, 17,403 cit.); both have Kodak / OLED topics

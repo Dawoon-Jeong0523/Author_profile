@@ -1,0 +1,27 @@
+# Craig M. Crews
+
+Affiliation: Yale University.
+Listed under: option "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies, Stuart L. Schreiber".
+Prior Nobel Prize: none.
+
+## Impact
+- Research works analysed: 207 (published 1989-2021).
+- Median impact percentile: 0.91 (higher than 56 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Works in the cohort top 10 %: 56 % (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time); top 1 %: 20 % (higher than 72 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+
+## Three defining works (most cited research works)
+1. "Protacs: Chimeric molecules that target proteins to the Skp1–Cullin–F box complex for ubiquitination and degradation" (2001): impact percentile 0.93, disruption percentile 0.35, Foundation share 0.47, cited by 175 inventions and 3 books.
+2. "Induced protein degradation: an emerging drug discovery paradigm" (2016): impact percentile 1.00, disruption percentile 0.10, Foundation share 0.45, cited by 74 inventions and 0 books.
+3. "Catalytic in vivo protein knockdown by small-molecule PROTACs" (2015): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.82, cited by 156 inventions and 0 books.
+
+## Technological translation
+- Distinct citing inventions: 1,348 (higher than 90 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Own US utility patents: 23 (higher than 77 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+
+## Textbook reach
+- Works cited by books: 153 (higher than 51 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Distinct citing books: 615 (higher than 56 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+
+## Collaboration
+- Nobel laureate co-authors: Robert Huber (Chemistry 1988; 2 shared works); Richard E. Taylor (Physics 1990; 1 shared work).
+- People who are both co-authors and co-inventors: 47.

@@ -1,0 +1,51 @@
+# Manual merge decisions, Chemistry committee. Read by `committee.py aggregate --field chemistry`; every entry is listed
+# in review.md. split = these nomination ids leave their automatic (shared-person) option and form their own option;
+# merge = the options holding these ids become one. aliases = spelling variants of one person's name.
+# wording_from = the option holding this id takes this nomination's discovery wording.
+aliases:
+  "Michael Graetzel": "Michael Grätzel"
+  "Mark H. Matteucci": "Mark D. Matteucci"    # the models' middle initial is wrong (published as Mark D. Matteucci)
+split:
+  - ids: ["anthropic/organic-chemistry/r1/#2", "openai/medical-biochemistry/r1/#1", "openai/organic-chemistry/r1/#1",
+          "openai/physical-chemistry/r1/#1", "openai/inorganic-and-structural-chemistry/r1/#1",
+          "gemini/organic-chemistry/r1/#4"]
+    reason: >-
+      phosphoramidite chemical synthesis of DNA (Caruthers, Beaucage, Matteucci) is a different discovery from
+      sequencing-by-synthesis (Balasubramanian, Klenerman, Mayer); the two were linked only through the umbrella
+      nomination below.
+  - ids: ["anthropic/molecular-physics/r1/#1"]
+    reason: >-
+      umbrella nomination "chemical methods for the synthesis and massively parallel sequencing of DNA" (Caruthers,
+      Balasubramanian, Klenerman) spans both discoveries; kept as its own option (same rule as the Medicine umbrella).
+  - ids: ["gemini/inorganic-and-structural-chemistry/r1/#2"]
+    reason: >-
+      umbrella nomination "dye-sensitized and perovskite solar cells" (Grätzel, Miyasaka, Snaith) spans two discoveries
+      that also have options of their own; kept as its own option.
+  - ids: ["gemini/biochemistry/r1/#3"]
+    reason: >-
+      palladium-catalysed carbon-heteroatom bond formation (Buchwald, Hartwig) is a different discovery from C-H
+      functionalization (Bergman, Hartwig, Yu, Sanford); linked only through John Hartwig.
+merge: []
+wording_from:
+  - id: "anthropic/theoretical-chemistry/r1/#3"
+    reason: >-
+      the automatic wording came from the single Langer / Kataoka polymer nomination (a tie at 3 points broken by
+      persona order) and does not fit the option's top people (Cullis, Langer); 7 of the 10 nominations describe
+      polymer and lipid nanoparticle delivery together, as this wording does.
+  - id: "anthropic/medical-biochemistry/r1/#4"
+    reason: >-
+      the automatic wording came from the single "chemically induced proximity" nomination (Schreiber, Crabtree,
+      Crews); the other 5 nominations describe targeted protein degradation (Crews, Deshaies); this wording covers
+      both bifunctional degraders and molecular glues.
+person_notes: {}
+people:            # shown people chosen by hand (user decision at CHECKPOINT 1b, 2026-10-01)
+  - id: "anthropic/medical-biochemistry/r1/#4"
+    names: ["Craig M. Crews", "Raymond J. Deshaies", "Stuart L. Schreiber"]
+    reason: >-
+      tie for the third place (Crabtree = Schreiber, weight 0.625, both from one nomination); Schreiber, named first in
+      that nomination (user decision).
+  - id: "anthropic/nanophysics/r1/#3"
+    names: ["Paul W. K. Rothemund", "William M. Shih", "Hao Yan"]
+    reason: >-
+      tie for the third place (Mirkin = Hao Yan = Peng Yin, weight 0.375); Mirkin entered through a nomination for
+      spherical nucleic acids, a different discovery; Hao Yan, named in a DNA-origami nomination (user decision).

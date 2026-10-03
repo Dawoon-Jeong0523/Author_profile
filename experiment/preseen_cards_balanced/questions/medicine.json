@@ -1,0 +1,24 @@
+{
+  "type": "multiple_choice",
+  "title": "Which discovery will the 2026 Nobel Prize in Physiology or Medicine be awarded for?",
+  "description": "The 2026 Nobel Prize in Physiology or Medicine is scheduled to be announced on Monday 5 October 2026. Each option names a discovery and the people most closely associated with it.",
+  "resolution_criteria": "Resolves to the option whose discovery matches the discovery named in the official motivation of the 2026 Nobel Prize in Physiology or Medicine, as published at nobelprize.org. Options are matched by discovery; the people named in an option need not match the laureates exactly. If the prize is divided between two discoveries, only the discovery with the larger share counts; if the shares are equal, the discovery named first in the announcement counts. If no option matches that discovery, the question resolves to Other.",
+  "options": [
+    "for the discovery of glucagon-like peptide-1 and its development into therapies for diabetes and obesity — Svetlana Mojsov, Jens Juul Holst, Lotte Bjerre Knudsen",
+    "for the development of optogenetics, a method to control the activity of genetically defined neurons with light — Karl Deisseroth, Peter Hegemann, Gero Miesenböck",
+    "for the development of chimeric antigen receptor T-cell therapy — Carl H. June, Michel Sadelain, Steven A. Rosenberg",
+    "for their discovery of the unfolded protein response — Kazutoshi Mori, Peter Walter",
+    "for the discovery of PCSK9 and its role in regulating LDL cholesterol metabolism — Helen H. Hobbs, Nabil G. Seidah, Jonathan C. Cohen",
+    "for their development of high-throughput next-generation DNA sequencing methods — David Klenerman, Shankar Balasubramanian",
+    "for their discovery of orexin and its role in the regulation of sleep and wakefulness — Emmanuel Mignot, Masashi Yanagisawa, Luis de Lecea",
+    "for their discoveries concerning the Wnt signaling pathway and its application in cultivating organoids — Hans Clevers, Roel Nusse",
+    "for the discovery of leptin and the hormonal regulation of body weight — Jeffrey M. Friedman, Stephen O'Rahilly",
+    "for the discovery of tumour necrosis factor as a therapeutic target in chronic inflammatory autoimmune disease — Marc Feldmann, Ravinder N. Maini",
+    "for the discovery of chaperone-mediated protein folding in cells — Arthur L. Horwich, Franz-Ulrich Hartl",
+    "for the discovery of inherited susceptibility genes for breast and ovarian cancer — Mary-Claire King, Mark H. Skolnick, Michael R. Stratton",
+    "Other"
+  ],
+  "options_are_mutually_exclusive": true,
+  "options_are_comprehensive": true,
+  "visibility": "private"
+}

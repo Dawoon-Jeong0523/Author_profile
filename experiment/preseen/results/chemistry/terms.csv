@@ -1,0 +1,3 @@
+arm,percentile,disruption,patent,textbook/book,laureate,co-author,supplied bibliometrics,sub: percentile,sub: disruption,sub: patent,sub: textbook/book,sub: laureate,sub: co-author,sub: supplied bibliometrics,chars,n_sources
+control,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.75,0.0,34.5,0.0,0.0,13162.5,302.5
+treat,0.3333333333333333,0.0,0.3333333333333333,0.0,10.333333333333334,0.0,1.0,3.3333333333333335,1.0,9.666666666666666,2.0,40.333333333333336,1.0,11.0,14860.0,316.0

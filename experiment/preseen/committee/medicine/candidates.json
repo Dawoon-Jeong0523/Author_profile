@@ -1,0 +1,886 @@
+{
+ "field": "medicine",
+ "generated": "2026-10-01T20:13:40+00:00",
+ "K": 12,
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 6,
+  "gpt-5.5-2026-04-23": 6,
+  "gemini-3.1-pro-preview": 6
+ },
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots, summed over models",
+ "options": [
+  {
+   "rank": 1,
+   "option": "for the discovery of glucagon-like peptide-1 and its development into therapies for diabetes and obesity — Svetlana Mojsov, Jens Juul Holst, Lotte Bjerre Knudsen",
+   "discovery": "for the discovery of glucagon-like peptide-1 and its development into therapies for diabetes and obesity",
+   "score": 11.5,
+   "points_per_model": {
+    "claude-opus-5-5": 5.0,
+    "gpt-5.5-2026-04-23": 5.0,
+    "gemini-3.1-pro-preview": 1.5
+   },
+   "n_models": 3,
+   "models": [
+    "claude-opus-5-5",
+    "gpt-5.5-2026-04-23",
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 6,
+   "n_ballots": 15,
+   "consensus": "cross-model consensus",
+   "people": [
+    {
+     "name": "Svetlana Mojsov",
+     "affiliation": "The Rockefeller University, USA",
+     "weight": 11.5,
+     "n_nominations": 15,
+     "key": "s mojsov"
+    },
+    {
+     "name": "Jens Juul Holst",
+     "affiliation": "University of Copenhagen",
+     "weight": 6.5,
+     "n_nominations": 8,
+     "key": "j holst"
+    },
+    {
+     "name": "Lotte Bjerre Knudsen",
+     "affiliation": "Novo Nordisk, Denmark",
+     "weight": 3.6667,
+     "n_nominations": 5,
+     "key": "l knudsen"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Svetlana Mojsov",
+     "affiliation": "The Rockefeller University, USA",
+     "weight": 11.5,
+     "n_nominations": 15,
+     "key": "s mojsov"
+    },
+    {
+     "name": "Jens Juul Holst",
+     "affiliation": "University of Copenhagen",
+     "weight": 6.5,
+     "n_nominations": 8,
+     "key": "j holst"
+    },
+    {
+     "name": "Lotte Bjerre Knudsen",
+     "affiliation": "Novo Nordisk, Denmark",
+     "weight": 3.6667,
+     "n_nominations": 5,
+     "key": "l knudsen"
+    },
+    {
+     "name": "Daniel J. Drucker",
+     "affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, University of Toronto, Canada",
+     "weight": 3.3333,
+     "n_nominations": 4,
+     "key": "d drucker"
+    },
+    {
+     "name": "Joel F. Habener",
+     "affiliation": "Massachusetts General Hospital and Harvard Medical School, USA",
+     "weight": 9.0,
+     "n_nominations": 12,
+     "key": "j habener"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/neurology/r1/#1",
+    "anthropic/molecular-systems-biology/r1/#1",
+    "anthropic/neuroscience/r1/#1",
+    "anthropic/molecular-genetics/r1/#1",
+    "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#1",
+    "anthropic/molecular-developmental-biology/r1/#1",
+    "openai/neurology/r1/#1",
+    "openai/molecular-systems-biology/r1/#1",
+    "openai/neuroscience/r1/#1",
+    "openai/molecular-genetics/r1/#1",
+    "openai/experimental-rheumatology-immunology-autoimmunity/r1/#1",
+    "openai/molecular-developmental-biology/r1/#1",
+    "gemini/neurology/r1/#4",
+    "gemini/molecular-genetics/r1/#2",
+    "gemini/molecular-developmental-biology/r1/#3"
+   ],
+   "flags": [
+    "Joel F. Habener: deceased (died 2025-12-28 (Wikidata Q96637578; ASBMB Today and Lasker Foundation obituaries)); not shown, next living person by weight shown instead",
+    "5 people named across nominations; shown: top 3; also: Daniel J. Drucker (3.33), Joel F. Habener (9.00)"
+   ]
+  },
+  {
+   "rank": 2,
+   "option": "for the development of optogenetics, a method to control the activity of genetically defined neurons with light — Karl Deisseroth, Peter Hegemann, Gero Miesenböck",
+   "discovery": "for the development of optogenetics, a method to control the activity of genetically defined neurons with light",
+   "score": 9.5,
+   "points_per_model": {
+    "claude-opus-5-5": 3.6667,
+    "gpt-5.5-2026-04-23": 2.0,
+    "gemini-3.1-pro-preview": 3.8333
+   },
+   "n_models": 3,
+   "models": [
+    "claude-opus-5-5",
+    "gpt-5.5-2026-04-23",
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 6,
+   "n_ballots": 16,
+   "consensus": "cross-model consensus",
+   "people": [
+    {
+     "name": "Karl Deisseroth",
+     "affiliation": "Stanford University",
+     "weight": 9.5,
+     "n_nominations": 16,
+     "key": "k deisseroth"
+    },
+    {
+     "name": "Peter Hegemann",
+     "affiliation": "Humboldt University of Berlin",
+     "weight": 8.6667,
+     "n_nominations": 15,
+     "key": "p hegemann"
+    },
+    {
+     "name": "Gero Miesenböck",
+     "affiliation": "University of Oxford",
+     "weight": 5.6667,
+     "n_nominations": 10,
+     "key": "g miesenbock"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Karl Deisseroth",
+     "affiliation": "Stanford University",
+     "weight": 9.5,
+     "n_nominations": 16,
+     "key": "k deisseroth"
+    },
+    {
+     "name": "Peter Hegemann",
+     "affiliation": "Humboldt University of Berlin",
+     "weight": 8.6667,
+     "n_nominations": 15,
+     "key": "p hegemann"
+    },
+    {
+     "name": "Gero Miesenböck",
+     "affiliation": "University of Oxford",
+     "weight": 5.6667,
+     "n_nominations": 10,
+     "key": "g miesenbock"
+    },
+    {
+     "name": "Edward S. Boyden",
+     "affiliation": "Massachusetts Institute of Technology, USA",
+     "weight": 4.0,
+     "n_nominations": 6,
+     "key": "e boyden"
+    },
+    {
+     "name": "Georg Nagel",
+     "affiliation": "University of Würzburg, Germany",
+     "weight": 0.6667,
+     "n_nominations": 1,
+     "key": "g nagel"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/neurology/r1/#2",
+    "anthropic/molecular-systems-biology/r1/#2",
+    "anthropic/neuroscience/r1/#2",
+    "anthropic/molecular-genetics/r1/#2",
+    "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#3",
+    "anthropic/molecular-developmental-biology/r1/#3",
+    "openai/neurology/r1/#3",
+    "openai/molecular-systems-biology/r1/#3",
+    "openai/neuroscience/r1/#3",
+    "openai/molecular-developmental-biology/r1/#3",
+    "gemini/neurology/r1/#1",
+    "gemini/molecular-systems-biology/r1/#2",
+    "gemini/neuroscience/r1/#1",
+    "gemini/molecular-genetics/r1/#3",
+    "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#4",
+    "gemini/molecular-developmental-biology/r1/#2"
+   ],
+   "flags": [
+    "5 people named across nominations; shown: top 3; also: Edward S. Boyden (4.00), Georg Nagel (0.67)"
+   ]
+  },
+  {
+   "rank": 3,
+   "option": "for the development of chimeric antigen receptor T-cell therapy — Carl H. June, Michel Sadelain, Steven A. Rosenberg",
+   "discovery": "for the development of chimeric antigen receptor T-cell therapy",
+   "score": 5.1667,
+   "points_per_model": {
+    "claude-opus-5-5": 0.5,
+    "gpt-5.5-2026-04-23": 2.8333,
+    "gemini-3.1-pro-preview": 1.8333
+   },
+   "n_models": 3,
+   "models": [
+    "claude-opus-5-5",
+    "gpt-5.5-2026-04-23",
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 6,
+   "n_ballots": 13,
+   "consensus": "cross-model consensus",
+   "people": [
+    {
+     "name": "Carl H. June",
+     "affiliation": "University of Pennsylvania",
+     "weight": 5.1667,
+     "n_nominations": 13,
+     "key": "c june"
+    },
+    {
+     "name": "Michel Sadelain",
+     "affiliation": "Memorial Sloan Kettering Cancer Center",
+     "weight": 5.1667,
+     "n_nominations": 13,
+     "key": "m sadelain"
+    },
+    {
+     "name": "Steven A. Rosenberg",
+     "affiliation": "National Cancer Institute",
+     "weight": 0.1667,
+     "n_nominations": 1,
+     "key": "s rosenberg"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Carl H. June",
+     "affiliation": "University of Pennsylvania",
+     "weight": 5.1667,
+     "n_nominations": 13,
+     "key": "c june"
+    },
+    {
+     "name": "Michel Sadelain",
+     "affiliation": "Memorial Sloan Kettering Cancer Center",
+     "weight": 5.1667,
+     "n_nominations": 13,
+     "key": "m sadelain"
+    },
+    {
+     "name": "Steven A. Rosenberg",
+     "affiliation": "National Cancer Institute",
+     "weight": 0.1667,
+     "n_nominations": 1,
+     "key": "s rosenberg"
+    },
+    {
+     "name": "Zelig Eshhar",
+     "affiliation": "Weizmann Institute of Science",
+     "weight": 3.8333,
+     "n_nominations": 8,
+     "key": "z eshhar"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/neurology/r1/#5",
+    "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#4",
+    "openai/neurology/r1/#2",
+    "openai/molecular-systems-biology/r1/#2",
+    "openai/neuroscience/r1/#5",
+    "openai/molecular-genetics/r1/#3",
+    "openai/experimental-rheumatology-immunology-autoimmunity/r1/#2",
+    "openai/molecular-developmental-biology/r1/#5",
+    "gemini/neurology/r1/#3",
+    "gemini/molecular-systems-biology/r1/#5",
+    "gemini/molecular-genetics/r1/#5",
+    "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#1",
+    "gemini/molecular-developmental-biology/r1/#5"
+   ],
+   "flags": [
+    "Zelig Eshhar: deceased (died 2025-07-03 (Wikidata Q18029986; Leibniz Institute for Immunotherapy notice; Human Gene Therapy tribute 2026)); not shown, next living person by weight shown instead",
+    "4 people named across nominations; shown: top 3; also: Zelig Eshhar (3.83)"
+   ]
+  },
+  {
+   "rank": 4,
+   "option": "for their discovery of the unfolded protein response — Kazutoshi Mori, Peter Walter",
+   "discovery": "for their discovery of the unfolded protein response",
+   "score": 2.6667,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.1667,
+    "gemini-3.1-pro-preview": 2.5
+   },
+   "n_models": 2,
+   "models": [
+    "gpt-5.5-2026-04-23",
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 6,
+   "n_ballots": 7,
+   "consensus": "",
+   "people": [
+    {
+     "name": "Kazutoshi Mori",
+     "affiliation": "Kyoto University",
+     "weight": 2.6667,
+     "n_nominations": 7,
+     "key": "k mori"
+    },
+    {
+     "name": "Peter Walter",
+     "affiliation": "Altos Labs",
+     "weight": 2.6667,
+     "n_nominations": 7,
+     "key": "p walter"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Kazutoshi Mori",
+     "affiliation": "Kyoto University",
+     "weight": 2.6667,
+     "n_nominations": 7,
+     "key": "k mori"
+    },
+    {
+     "name": "Peter Walter",
+     "affiliation": "Altos Labs",
+     "weight": 2.6667,
+     "n_nominations": 7,
+     "key": "p walter"
+    }
+   ],
+   "nomination_ids": [
+    "openai/molecular-systems-biology/r1/#5",
+    "gemini/neurology/r1/#5",
+    "gemini/molecular-systems-biology/r1/#3",
+    "gemini/neuroscience/r1/#3",
+    "gemini/molecular-genetics/r1/#4",
+    "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#2",
+    "gemini/molecular-developmental-biology/r1/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "option": "for the discovery of PCSK9 and its role in regulating LDL cholesterol metabolism — Helen H. Hobbs, Nabil G. Seidah, Jonathan C. Cohen",
+   "discovery": "for the discovery of PCSK9 and its role in regulating LDL cholesterol metabolism",
+   "score": 1.6667,
+   "points_per_model": {
+    "claude-opus-5-5": 0.5,
+    "gpt-5.5-2026-04-23": 1.1667,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 2,
+   "models": [
+    "claude-opus-5-5",
+    "gpt-5.5-2026-04-23"
+   ],
+   "n_personas": 4,
+   "n_ballots": 5,
+   "consensus": "",
+   "people": [
+    {
+     "name": "Helen H. Hobbs",
+     "affiliation": "University of Texas Southwestern Medical Center",
+     "weight": 1.6667,
+     "n_nominations": 5,
+     "key": "h hobbs"
+    },
+    {
+     "name": "Nabil G. Seidah",
+     "affiliation": "Montreal Clinical Research Institute, Canada",
+     "weight": 1.6667,
+     "n_nominations": 5,
+     "key": "n seidah"
+    },
+    {
+     "name": "Jonathan C. Cohen",
+     "affiliation": "University of Texas Southwestern Medical Center, USA",
+     "weight": 0.8333,
+     "n_nominations": 3,
+     "key": "j cohen"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Helen H. Hobbs",
+     "affiliation": "University of Texas Southwestern Medical Center",
+     "weight": 1.6667,
+     "n_nominations": 5,
+     "key": "h hobbs"
+    },
+    {
+     "name": "Nabil G. Seidah",
+     "affiliation": "Montreal Clinical Research Institute, Canada",
+     "weight": 1.6667,
+     "n_nominations": 5,
+     "key": "n seidah"
+    },
+    {
+     "name": "Jonathan C. Cohen",
+     "affiliation": "University of Texas Southwestern Medical Center, USA",
+     "weight": 0.8333,
+     "n_nominations": 3,
+     "key": "j cohen"
+    },
+    {
+     "name": "Catherine Boileau",
+     "affiliation": "Université Paris Cité; INSERM; AP-HP",
+     "weight": 0.8333,
+     "n_nominations": 2,
+     "key": "c boileau"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/neuroscience/r1/#4",
+    "anthropic/molecular-genetics/r1/#5",
+    "openai/neurology/r1/#4",
+    "openai/neuroscience/r1/#2",
+    "openai/experimental-rheumatology-immunology-autoimmunity/r1/#5"
+   ],
+   "flags": [
+    "4 people named across nominations; shown: top 3; also: Catherine Boileau (0.83)"
+   ]
+  },
+  {
+   "rank": 6,
+   "option": "for their development of high-throughput next-generation DNA sequencing methods — David Klenerman, Shankar Balasubramanian",
+   "discovery": "for their development of high-throughput next-generation DNA sequencing methods",
+   "score": 1.6667,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 1.6667
+   },
+   "n_models": 1,
+   "models": [
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 2,
+   "n_ballots": 2,
+   "consensus": "single-model",
+   "people": [
+    {
+     "name": "David Klenerman",
+     "affiliation": "University of Cambridge",
+     "weight": 1.6667,
+     "n_nominations": 2,
+     "key": "d klenerman"
+    },
+    {
+     "name": "Shankar Balasubramanian",
+     "affiliation": "University of Cambridge",
+     "weight": 1.6667,
+     "n_nominations": 2,
+     "key": "s balasubramanian"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "David Klenerman",
+     "affiliation": "University of Cambridge",
+     "weight": 1.6667,
+     "n_nominations": 2,
+     "key": "d klenerman"
+    },
+    {
+     "name": "Shankar Balasubramanian",
+     "affiliation": "University of Cambridge",
+     "weight": 1.6667,
+     "n_nominations": 2,
+     "key": "s balasubramanian"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/molecular-systems-biology/r1/#1",
+    "gemini/molecular-genetics/r1/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "option": "for their discovery of orexin and its role in the regulation of sleep and wakefulness — Emmanuel Mignot, Masashi Yanagisawa, Luis de Lecea",
+   "discovery": "for their discovery of orexin and its role in the regulation of sleep and wakefulness",
+   "score": 1.6667,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.3333,
+    "gemini-3.1-pro-preview": 1.3333
+   },
+   "n_models": 2,
+   "models": [
+    "gpt-5.5-2026-04-23",
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 3,
+   "n_ballots": 3,
+   "consensus": "",
+   "people": [
+    {
+     "name": "Emmanuel Mignot",
+     "affiliation": "Stanford University",
+     "weight": 1.6667,
+     "n_nominations": 3,
+     "key": "e mignot"
+    },
+    {
+     "name": "Masashi Yanagisawa",
+     "affiliation": "University of Tsukuba",
+     "weight": 1.6667,
+     "n_nominations": 3,
+     "key": "m yanagisawa"
+    },
+    {
+     "name": "Luis de Lecea",
+     "affiliation": "Stanford University School of Medicine",
+     "weight": 0.3333,
+     "n_nominations": 1,
+     "key": "l lecea"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Emmanuel Mignot",
+     "affiliation": "Stanford University",
+     "weight": 1.6667,
+     "n_nominations": 3,
+     "key": "e mignot"
+    },
+    {
+     "name": "Masashi Yanagisawa",
+     "affiliation": "University of Tsukuba",
+     "weight": 1.6667,
+     "n_nominations": 3,
+     "key": "m yanagisawa"
+    },
+    {
+     "name": "Luis de Lecea",
+     "affiliation": "Stanford University School of Medicine",
+     "weight": 0.3333,
+     "n_nominations": 1,
+     "key": "l lecea"
+    }
+   ],
+   "nomination_ids": [
+    "openai/molecular-developmental-biology/r1/#4",
+    "gemini/neurology/r1/#2",
+    "gemini/neuroscience/r1/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "option": "for their discoveries concerning the Wnt signaling pathway and its application in cultivating organoids — Hans Clevers, Roel Nusse",
+   "discovery": "for their discoveries concerning the Wnt signaling pathway and its application in cultivating organoids",
+   "score": 1.5,
+   "points_per_model": {
+    "claude-opus-5-5": 0.6667,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.8333
+   },
+   "n_models": 2,
+   "models": [
+    "claude-opus-5-5",
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 1,
+   "n_ballots": 2,
+   "consensus": "",
+   "people": [
+    {
+     "name": "Hans Clevers",
+     "affiliation": "Hubrecht Institute, Netherlands",
+     "weight": 1.5,
+     "n_nominations": 2,
+     "key": "h clevers"
+    },
+    {
+     "name": "Roel Nusse",
+     "affiliation": "Stanford University School of Medicine, USA",
+     "weight": 1.5,
+     "n_nominations": 2,
+     "key": "r nusse"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Hans Clevers",
+     "affiliation": "Hubrecht Institute, Netherlands",
+     "weight": 1.5,
+     "n_nominations": 2,
+     "key": "h clevers"
+    },
+    {
+     "name": "Roel Nusse",
+     "affiliation": "Stanford University School of Medicine, USA",
+     "weight": 1.5,
+     "n_nominations": 2,
+     "key": "r nusse"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/molecular-developmental-biology/r1/#2",
+    "gemini/molecular-developmental-biology/r1/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "option": "for the discovery of leptin and the hormonal regulation of body weight — Jeffrey M. Friedman, Stephen O'Rahilly",
+   "discovery": "for the discovery of leptin and the hormonal regulation of body weight",
+   "score": 1.5,
+   "points_per_model": {
+    "claude-opus-5-5": 1.1667,
+    "gpt-5.5-2026-04-23": 0.3333,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 2,
+   "models": [
+    "claude-opus-5-5",
+    "gpt-5.5-2026-04-23"
+   ],
+   "n_personas": 4,
+   "n_ballots": 5,
+   "consensus": "",
+   "people": [
+    {
+     "name": "Jeffrey M. Friedman",
+     "affiliation": "The Rockefeller University, USA",
+     "weight": 1.5,
+     "n_nominations": 5,
+     "key": "j friedman"
+    },
+    {
+     "name": "Stephen O'Rahilly",
+     "affiliation": "University of Cambridge, UK",
+     "weight": 0.1667,
+     "n_nominations": 1,
+     "key": "s rahilly"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Jeffrey M. Friedman",
+     "affiliation": "The Rockefeller University, USA",
+     "weight": 1.5,
+     "n_nominations": 5,
+     "key": "j friedman"
+    },
+    {
+     "name": "Stephen O'Rahilly",
+     "affiliation": "University of Cambridge, UK",
+     "weight": 0.1667,
+     "n_nominations": 1,
+     "key": "s rahilly"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/molecular-systems-biology/r1/#3",
+    "anthropic/neuroscience/r1/#5",
+    "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#5",
+    "anthropic/molecular-developmental-biology/r1/#4",
+    "openai/experimental-rheumatology-immunology-autoimmunity/r1/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "option": "for the discovery of tumour necrosis factor as a therapeutic target in chronic inflammatory autoimmune disease — Marc Feldmann, Ravinder N. Maini",
+   "discovery": "for the discovery of tumour necrosis factor as a therapeutic target in chronic inflammatory autoimmune disease",
+   "score": 1.3333,
+   "points_per_model": {
+    "claude-opus-5-5": 0.6667,
+    "gpt-5.5-2026-04-23": 0.5,
+    "gemini-3.1-pro-preview": 0.1667
+   },
+   "n_models": 3,
+   "models": [
+    "claude-opus-5-5",
+    "gpt-5.5-2026-04-23",
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 1,
+   "n_ballots": 3,
+   "consensus": "cross-model consensus",
+   "people": [
+    {
+     "name": "Marc Feldmann",
+     "affiliation": "University of Oxford",
+     "weight": 1.3333,
+     "n_nominations": 3,
+     "key": "m feldmann"
+    },
+    {
+     "name": "Ravinder N. Maini",
+     "affiliation": "Imperial College London",
+     "weight": 1.3333,
+     "n_nominations": 3,
+     "key": "r maini"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Marc Feldmann",
+     "affiliation": "University of Oxford",
+     "weight": 1.3333,
+     "n_nominations": 3,
+     "key": "m feldmann"
+    },
+    {
+     "name": "Ravinder N. Maini",
+     "affiliation": "Imperial College London",
+     "weight": 1.3333,
+     "n_nominations": 3,
+     "key": "r maini"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#2",
+    "openai/experimental-rheumatology-immunology-autoimmunity/r1/#3",
+    "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "option": "for the discovery of chaperone-mediated protein folding in cells — Arthur L. Horwich, Franz-Ulrich Hartl",
+   "discovery": "for the discovery of chaperone-mediated protein folding in cells",
+   "score": 1.0,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.6667,
+    "gemini-3.1-pro-preview": 0.3333
+   },
+   "n_models": 2,
+   "models": [
+    "gpt-5.5-2026-04-23",
+    "gemini-3.1-pro-preview"
+   ],
+   "n_personas": 2,
+   "n_ballots": 3,
+   "consensus": "",
+   "people": [
+    {
+     "name": "Arthur L. Horwich",
+     "affiliation": "Yale University and Howard Hughes Medical Institute",
+     "weight": 1.0,
+     "n_nominations": 3,
+     "key": "a horwich"
+    },
+    {
+     "name": "Franz-Ulrich Hartl",
+     "affiliation": "Max Planck Institute of Biochemistry",
+     "weight": 1.0,
+     "n_nominations": 3,
+     "key": "f hartl"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Arthur L. Horwich",
+     "affiliation": "Yale University and Howard Hughes Medical Institute",
+     "weight": 1.0,
+     "n_nominations": 3,
+     "key": "a horwich"
+    },
+    {
+     "name": "Franz-Ulrich Hartl",
+     "affiliation": "Max Planck Institute of Biochemistry",
+     "weight": 1.0,
+     "n_nominations": 3,
+     "key": "f hartl"
+    }
+   ],
+   "nomination_ids": [
+    "openai/molecular-systems-biology/r1/#4",
+    "openai/molecular-genetics/r1/#4",
+    "gemini/molecular-systems-biology/r1/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "option": "for the discovery of inherited susceptibility genes for breast and ovarian cancer — Mary-Claire King, Mark H. Skolnick, Michael R. Stratton",
+   "discovery": "for the discovery of inherited susceptibility genes for breast and ovarian cancer",
+   "score": 0.8333,
+   "points_per_model": {
+    "claude-opus-5-5": 0.6667,
+    "gpt-5.5-2026-04-23": 0.1667,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 2,
+   "models": [
+    "claude-opus-5-5",
+    "gpt-5.5-2026-04-23"
+   ],
+   "n_personas": 2,
+   "n_ballots": 3,
+   "consensus": "",
+   "people": [
+    {
+     "name": "Mary-Claire King",
+     "affiliation": "University of Washington, USA",
+     "weight": 0.8333,
+     "n_nominations": 3,
+     "key": "m king"
+    },
+    {
+     "name": "Mark H. Skolnick",
+     "affiliation": "University of Utah",
+     "weight": 0.1667,
+     "n_nominations": 1,
+     "key": "m skolnick"
+    },
+    {
+     "name": "Michael R. Stratton",
+     "affiliation": "Wellcome Sanger Institute",
+     "weight": 0.1667,
+     "n_nominations": 1,
+     "key": "m stratton"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Mary-Claire King",
+     "affiliation": "University of Washington, USA",
+     "weight": 0.8333,
+     "n_nominations": 3,
+     "key": "m king"
+    },
+    {
+     "name": "Mark H. Skolnick",
+     "affiliation": "University of Utah",
+     "weight": 0.1667,
+     "n_nominations": 1,
+     "key": "m skolnick"
+    },
+    {
+     "name": "Michael R. Stratton",
+     "affiliation": "Wellcome Sanger Institute",
+     "weight": 0.1667,
+     "n_nominations": 1,
+     "key": "m stratton"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/molecular-genetics/r1/#3",
+    "anthropic/molecular-developmental-biology/r1/#5",
+    "openai/molecular-genetics/r1/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "option": "Other"
+  }
+ ]
+}

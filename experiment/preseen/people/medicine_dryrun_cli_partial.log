@@ -1,0 +1,168 @@
+15:56:39 start
+
+=== Svetlana Mojsov
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                institutions
+    1 A5013143800 Svetlana Mojsov 0000-0002-3111-9923           52            5933 display               True snapshot Rockefeller University (US)
+    2 A5040218333       S. Mojsov                None            2              33 display              False snapshot                            
+query 'Svetlana Mojsov': picked A5013143800 Svetlana Mojsov [only candidate at the given affiliation]
+
+=== Jens Juul Holst
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id           display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5085434984          Jens J. Holst 0000-0001-6853-3805         2690          157815 display               True snapshot Novo Nordisk (Denmark) (DK); Novo Nordisk Foundation (DK); I
+    2 A5010025064             Jens Holst 0000-0002-0896-1549           56             418 display               True snapshot ETH Zurich (CH); Fulda University of Applied Sciences (DE); 
+    3 A5107964227           Jens J Holst                None            9              16 display               True snapshot  University of Copenhagen (DK); Novo Nordisk Foundation (DK)
+    4 A5079439715            J. J. Holst                None            4              12 display               True snapshot  University of Copenhagen (DK); Novo Nordisk Foundation (DK)
+    5 A5053751698                J Holst                None            2               0 display               True snapshot                Copenhagen Institute for Futures Studies (DK)
+    6 A5057342720             J.J. Holst                None            1               0 display               True snapshot                                University of Copenhagen (DK)
+    7 A5067252274 J. J. M. van der Holst                None            9             552 display              False snapshot               Max Planck Institute for Polymer Research (DE)
+    8 A5113648312               J. Holst                None           32             476 display              False snapshot                           Technische Universität Berlin (DE)
+    9 A5030294941               J. HOLST                None            2             111 display              False snapshot                                       Statistics Sweden (SE)
+   10 A5105359769                J HOLST                None            1             103 display              False snapshot                    Norwegian Institute of Public Health (NO)
+   11 A5033209173               J. Holst                None            1              73 display              False snapshot                           Cisco Systems (United States) (US)
+   12 A5012972706            J. J. Holst                None            2              56 display              False snapshot                                                             
+   13 A5011872180               J. Holst                None            2              54 display              False snapshot                                                             
+   14 A5060650242            J. J. Holst                None            1              30 display              False snapshot                                                             
+   15 A5054197512    J J M Van Der Holst                None            2              25 display              False snapshot                                   Institute of Polymers (BG)
+query 'Jens Juul Holst': picked A5085434984 Jens J. Holst [most cited (157,815 vs 418 citations)]; same-name fragments A5107964227
+
+=== Lotte Bjerre Knudsen
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id           display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5088627727   Lotte Bjerre Knudsen 0000-0002-2439-7116          141           14743 display               True snapshot                                  Novo Nordisk (Denmark) (DK)
+    2 A5036232437              L Knudsen 0000-0003-1980-6218           29             470 display               True snapshot University of Southern Denmark (DK); Sygehus Sønderjylland (
+    3 A5122850794   Lotte Bjerre Knudsen                None            1               0 display               True snapshot                           Novo Nordisk (United Kingdom) (GB)
+    4 A5025303610        Lars R. Knudsen 0000-0003-3057-9327          194           10282   alias               True snapshot                         Technical University of Denmark (DK)
+    5 A5026422817         Lisbet Knudsen                None           19             314   alias               True snapshot                                  Novo Nordisk (Denmark) (DK)
+    6 A5112161052 Louise Stjerne Knudsen                None           37              46   alias               True snapshot                          University of Southern Denmark (DK)
+    7 A5073852003             L. Knudsen                None           15             250 display              False snapshot                                     Klinikum Ingolstadt (DE)
+    8 A5111442816            L B Knudsen                None            7              45 display              False snapshot                                                             
+    9 A5057103340             L. Knudsen                None            5              38 display              False snapshot                                                             
+   10 A5048556721             L. Knudsen                None            1              11 display              False snapshot American Electric Power (United States) (?); Public Service 
+   11 A5008336811              L Knudsen                None            3               4 display              False snapshot                                                             
+   12 A5064701882              L Knudsen                None            2               3 display              False snapshot                        Medizinische Hochschule Hannover (DE)
+   13 A5025958679             L. Knudsen                None            1               2 display              False snapshot                                                             
+   14 A5082910396              L Knudsen                None            1               0 display              False snapshot                        Medizinische Hochschule Hannover (DE)
+   15 A5096159004           L.B. Knudsen                None            1               0 display              False snapshot                                                             
+query 'Lotte Bjerre Knudsen': picked A5088627727 Lotte Bjerre Knudsen [most cited (14,743 vs 470 citations)]
+
+=== Karl Deisseroth
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5014360828    Karl Deisseroth 0000-0001-9440-3967          631          129103 display               True snapshot Neurological Surgery (US); Universitätsklinikum Erlangen (DE
+    2 A5112205636    Karl Deisseroth                None           13            2081 display               True snapshot Stanford University (US); Howard Hughes Medical Institute (U
+    3 A5016794780       K Deisseroth                None            3             176 display               True snapshot Stanford University (US); Howard Hughes Medical Institute (U
+    4 A5025551541    Karl Deisseroth                None            8              26 display              False snapshot Palo Alto University (US); Howard Hughes Medical Institute (
+    5 A5000609051    Karl Deisseroth                None            1               0 display              False snapshot                                                             
+    6 A5050190255    Karl Deisseroth                None            1               0 display              False snapshot                                                             
+    7 A5059705856 Karl A. Deisseroth                None            2               0 display              False snapshot                                                             
+query 'Karl Deisseroth': picked A5014360828 Karl Deisseroth [most cited (129,103 vs 2,081 citations)]; same-name fragments A5112205636, A5025551541
+
+=== Peter Hegemann
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id   display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                        institutions
+    1 A5032787107 Peter Hegemann 0000-0003-3589-6452          393           29388 display               True snapshot Humboldt-Universität zu Berlin (DE)
+    2 A5083313982    P. Hegemann 0000-0002-7603-6267            3              53 display              False snapshot             University of Bonn (DE)
+query 'Peter Hegemann': picked A5032787107 Peter Hegemann [only candidate at the given affiliation]
+
+=== Gero Miesenböck
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5109272997 Gero Miesenböck  None           69           12095 display               True snapshot Wellcome Centre for Integrative Neuroimaging (GB); Mansfield
+    2 A5033359833    G Miesenböck  None            1               1 display              False snapshot                                                             
+    3 A5037836963 Gero Miesenbock  None            1               0 display              False snapshot                                                             
+    4 A5024694515   G. Miesenböck  None            1               0 display              False snapshot                                                             
+query 'Gero Miesenböck': picked A5109272997 Gero Miesenböck [only candidate at the given affiliation]
+
+=== Carl H. June
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id            display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5008558372            Carl H. June 0000-0003-0241-3557         1416          141308 display               True snapshot Uplift (US); Cancer Research Institute (US); University of P
+    2 A5113470066                C H June                None           41            4493 display               True snapshot University of Pennsylvania (US); Parker Institute for Cancer
+    3 A5056377818                C H June                None            1             109 display              False snapshot                         Howard Hughes Medical Institute (US)
+    4 A5082808467              C. H. June                None            1              10 display              False snapshot                                                             
+    5 A5082056124              C. H. June                None            1               2 display              False snapshot                                                             
+    6 A5088801316              C. H. June                None            1               1 display              False snapshot                                                             
+    7 A5013309446                C H June                None            1               0 display              False snapshot                                                             
+    8 A5095596454                  C June                None            1               0 display              False snapshot Boston University (US); Foundation for Ichthyosis and Relate
+    9 A5072825699                 C. June                None            1               0 display              False snapshot                                                             
+   10 A5083356760                  C June                None            1               0 display              False snapshot                                                             
+   11 A5008863012                 C. June                None            1               0 display              False snapshot                                                             
+   12 A5004885642 Cindy Getah Trisna June                None            3              10   alias              False snapshot                                                             
+query 'Carl H. June': picked A5008558372 Carl H. June [most cited (141,308 vs 4,493 citations)]
+
+=== Michel Sadelain
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5103081365 Michel Sadelain                None           14             453 display               True snapshot                  Memorial Sloan Kettering Cancer Center (US)
+    2 A5058976864      M Sadelain                None            3             421 display               True snapshot                  Memorial Sloan Kettering Cancer Center (US)
+    3 A5059625599 Michel Sadelain 0000-0002-9031-8025          641           60772 display              False snapshot Columbia University Irving Medical Center (US); Columbia Uni
+    4 A5045664419  M. W. Sadelain                None            1              72 display              False snapshot                                                             
+    5 A5021009995      M Sadelain                None            1               5 display              False snapshot                                                             
+    6 A5102546593 Michel Sadelain                None            1               0 display              False snapshot                                                             
+    7 A5072076409     M. Sadelain                None            1               0 display              False snapshot                                                             
+    8 A5033385435     MW Sadelain                None            3              12   alias              False snapshot                                   University of Alberta (CA)
+NOT RESOLVED: ambiguous: the two most cited candidates have 453 and 421 citations. Choose with --pick N (the rank above), --affiliation, --orcid or --author-id.
+
+=== Steven A. Rosenberg
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id          display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5072133376   Steven A. Rosenberg 0000-0002-8939-8910         1555          195374 display               True snapshot Center for Cancer Research (US); National Institutes of Heal
+    2 A5103160719   Steven A. Rosenberg 0000-0002-4344-3608          128            3990 display               True snapshot National Institutes of Health (US); National Cancer Institut
+    3 A5005189631         S A Rosenberg                None            4             230 display               True snapshot National Cancer Institute (US); National Institutes of Healt
+    4 A5000819729           S ROSENBERG                None            2              70 display               True snapshot                               National Cancer Institute (US)
+    5 A5020076711   STEVEN A. ROSENBERG                None            1              55 display               True snapshot National Institutes of Health (US); National Cancer Institut
+    6 A5071914848       S. A. ROSENBERG                None            1               2 display               True snapshot National Cancer Institute (US); National Institutes of Healt
+    7 A5031256283        S.A. Rosenberg                None            1               0 display               True snapshot                                   Moffitt Cancer Center (US)
+    8 A5050853585        S.A. Rosenberg                None            1               0 display               True snapshot                                   Moffitt Cancer Center (US)
+    9 A5026001356    Susan M. Rosenberg 0000-0003-1444-473X          209           10689   alias               True snapshot Baylor Genetics (US); Baylor College of Medicine (US); Child
+   10 A5024392666 Shoshana M. Rosenberg 0000-0002-0074-6385          342            4181   alias               True snapshot Cornell University (US); Dana-Farber Cancer Institute (US); 
+   11 A5108611197  Stephen A. Rosenberg                None          171            2558   alias               True snapshot Moffitt Cancer Center (US); University of South Florida (US)
+   12 A5004953971       Steve Rosenberg                None           10             314   alias               True snapshot                               National Cancer Institute (US)
+   13 A5062579882    Simon W. Rosenberg                None            8             151   alias               True snapshot IS practice (BE); Memorial Sloan Kettering Cancer Center (US
+   14 A5111570357         S A Rosenberg                None          169           20159 display              False snapshot     National Institutes of Health (US); Herzog Hospital (IL)
+   15 A5040381447      Steven Rosenberg                None           77            4932 display              False snapshot                               Miltenyi Biotec (Germany) (DE)
+query 'Steven A. Rosenberg': picked A5072133376 Steven A. Rosenberg [most cited (195,374 vs 3,990 citations)]
+
+=== Kazutoshi Mori
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5024825620  Kazutoshi Mori 0000-0001-7378-4019          194           28033 display               True snapshot                                        Kyoto University (JP)
+    2 A5102399723  Kazutoshi Mori                None           19              66 display               True snapshot                                        Kyoto University (JP)
+    3 A5103964342  Kazutoshi Mori                None            4              64 display               True snapshot                                        Kyoto University (JP)
+    4 A5112153844          K Mori                None            8               7 display               True snapshot                                     Kyoto City Hospital (JP)
+    5 A5032527419    Kensaku Mori 0000-0002-0100-4797          772           16672   alias               True snapshot Nagoya University (JP); University of Oslo (NO); Oslo Univer
+    6 A5038102022  Keiichiro Mori 0000-0002-6147-6569          539            6133   alias               True snapshot Medical University of Vienna (AT); Jikei University School o
+    7 A5082043581    Koreaki Mori                None          238            3651   alias               True snapshot Osaka University (JP); Juntendo University (JP); Kyoto Prefe
+    8 A5082820503     Kotaro Mori 0000-0003-4751-9435           66             666   alias               True snapshot         Aoyama Gakuin University (JP); Kyoto University (JP)
+    9 A5108827952      Kohei Mori                None           61             526   alias               True snapshot Hokkaido Pharmaceutical University (JP); Kyoto University (J
+   10 A5111516386    Kenjiro Mori                None            4              22   alias               True snapshot                               Kyoto University Hospital (JP)
+   11 A5102815371   Keita P. Mori 0000-0001-5468-3634           10              20   alias               True snapshot                  Kitano Hospital (JP); Kyoto University (JP)
+   12 A5112085026 Keiichirou MORI                None            3               4   alias               True snapshot                                        Kyoto University (JP)
+   13 A5057326811         K. Mori 0000-0002-1872-5363          666           10660 display              False snapshot Kumamoto University (JP); Institute of Biomedical Science (G
+   14 A5037070390         K. Mori 0000-0002-9813-4853          375            3201 display              False snapshot                                          Mie University (JP)
+   15 A5111714148         K. Mori                None           62            2958 display              False snapshot                                                             
+query 'Kazutoshi Mori': picked A5024825620 Kazutoshi Mori [most cited (28,033 vs 66 citations)]; same-name fragments A5102399723, A5103964342
+
+=== Peter Walter
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5087493059    Peter Walter 0000-0002-6849-708X          584           65137 display              False snapshot F5 Networks (United States) (US); RWTH Aachen University (DE
+    2 A5103257547    Peter Walter 0000-0001-8745-6593          752           27650 display              False snapshot Universität Hamburg (DE); RWTH Aachen University (DE); Unive
+    3 A5028547017   P. von Walter                None           78            6642 display              False snapshot                                   Heidelberg University (US)
+    4 A5068056560 Peter J. Walter 0000-0001-8571-398X           97            5816 display              False snapshot RWTH Aachen University (DE); National Institutes of Health (
+    5 A5023960405    Peter Walter 0000-0001-8839-1154          116            1489 display              False snapshot Menlo School (US); Tao Systems (United States) (US); Univers
+    6 A5073054673    Peter Walter 0000-0002-3129-5310           44             748 display              False snapshot                                  RWTH Aachen University (DE)
+    7 A5056838986 P Wright Walter                None            2             713 display              False snapshot                                                             
+    8 A5110869843        P Walter                None           60             656 display              False snapshot                                      Petrobras (Brazil) (BR)
+    9 A5103195654       P. Walter 0009-0002-5852-8177           97             576 display              False snapshot Université Paris-Saclay (FR); Mines Saint-Étienne (FR); Nati
+   10 A5027971295       P. Walter                None           15             558 display              False snapshot                             Antwerp University Hospital (BE)
+   11 A5102856212    Peter Walter 0000-0001-9522-9163           10             447 display              False snapshot Universität Hamburg (DE); SLAC National Accelerator Laborato
+   12 A5109288527        P Walter                None           32             396 display              False snapshot                                 University of Minnesota (US)
+   13 A5039799453        P Walter                None           19             353 display              False snapshot                                                             
+   14 A5109195605        P Walter                None           13             173 display              False snapshot                                                             
+   15 A5111883627        P Walter                None           12             137 display              False snapshot                                  Maria Hilf Krankenhaus (DE)
+NOT RESOLVED: ambiguous: the two most cited candidates have 65,137 and 27,650 citations. Choose with --pick N (the rank above), --affiliation, --orcid or --author-id.
+
+=== Helen H. Hobbs
