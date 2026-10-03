@@ -22,6 +22,7 @@ python pipeline/profile_person.py "Geoffrey Hinton" --wait
 [Example](#example-geoffrey-hinton) ·
 [Quick start](#quick-start) ·
 [How it works](#how-it-works) ·
+[Inventor linking](#inventor-linking) ·
 [Name resolution](#name-resolution) ·
 [Outputs](#outputs) ·
 [Measures](#measures-and-conventions) ·
@@ -191,9 +192,9 @@ flowchart LR
     C --> P["choice: ORCID > PrizeAtlas id > affiliation > most cited<br/>+ same-name fragments"]
     P --> K["0b author id check<br/>(ids without works -> ORCID / Li bridge / name)"]
     K --> W["2 works<br/>(1.0 B-row authorship table)"]
-    K --> X["1 pqrs crosswalk"] --> I["inventor ids"]
-    W -. "no pqrs inventor" .-> N["2b PatentsView name search<br/>+ co-author / citation / assignee evidence"] --> I
-    I --> T["3 patents"]
+    K --> X["1 pqrs crosswalk"] --> N["2b inventor linking: pqrs + PatentsView name search,<br/>checked by co-authors / cited works / affiliations"]
+    W --> N
+    N --> T["3 patents<br/>(namesake patents left out)"]
     W --> M["4 work metrics + cohort percentiles"]
     T --> MT["5 patent metrics + percentiles"]
     M --> L["6 patent <-> paper links, 6b books"]
@@ -204,8 +205,9 @@ flowchart LR
 
 * **Works**: every (work, affiliation) row of the author ids in the OpenAlex `works_au_affs` table of the 2026-01
   snapshot (1.0 B rows, `Scientist_Inventor/Data/authorships_parquet/`), then every author of those works (co-authors).
-* **Patents**: the pqrs author–inventor crosswalk (PatentsView 2023-03-30 ids, translated to the 2025-12-31 release);
-  when it has no inventor, a PatentsView name search that keeps a candidate only with independent evidence.
+* **Patents**: candidates from the pqrs author–inventor crosswalk (PatentsView 2023-03-30 ids, translated to the
+  2025-12-31 release) and from a PatentsView name search, all checked against the author's own record — see
+  [Inventor linking](#inventor-linking). Only the patents linked to the person are kept.
 * **Metrics**: the *Science of Science* outputs for papers and patents, attached through
   [`notebook/np_common.py`](notebook/np_common.py) (shared by every notebook so a paper carries the same numbers
   everywhere), each turned into a cohort percentile from shared population tables.
@@ -213,6 +215,40 @@ flowchart LR
 * **Patent → paper**: Reliance on Science links from US patents and pre-grant publications.
 * **Networks**: co-authors on works with at most 50 authors, co-inventors, the people on both sides (pqrs or names),
   institutions of the works and assignees of the patents.
+
+## Inventor linking
+
+`np_common.link_inventors` (notebook section 2b) decides which PatentsView inventor ids are the person's and which of their
+patents to keep. The pqrs crosswalk alone misses inventors and can be wrong: its OpenAlex author ids can have been
+reassigned since (Hinton), its inventor id can be a namesake's (Jeff Dean), and one PatentsView id can hold the patents of
+several people with the same name (Feng Zhang, Hao Yan).
+
+1. **Candidates**: the pqrs ids and every inventor whose name agrees with a display name the author uses on at least 5 %
+   of the works. The family name is matched as a whole word (so Li, Ng and He are searched). Given names agree when they
+   are the same (hyphens and spaces ignored: Fei-Fei ~ Feifei), nickname or spelling variants (Jeff ~ Jeffrey,
+   Hans ~ Johannes), an initial (unless the author's full first name is known and differs: Jun Ye does not match Jilun Ye),
+   or the middle name used as first name (J. Craig ~ Craig), and a hyphenated given name agrees with a middle initial
+   (Yuan-Teh ~ Yuan T.). Two-word names are also read family name first (Li Fei-Fei).
+2. **Evidence per patent**: *strong* — a co-inventor who is a co-author with a name rare among inventors; a citation of
+   one of the author's works that at most 25 patents cite; an assignee that closely names a major affiliation of the
+   author and is small enough that a namesake among its inventors is unlikely (Asahi Kasei for Akira Yoshino);
+   *moderate* — a co-author co-inventor with a common name, a
+   citation of a widely cited work, an assignee naming an affiliation (`The Regents of the University of California` ~
+   `University of California, Berkeley`, `International Business Machines` ~ `IBM`), the pqrs link; *conflict* — inventor
+   countries outside the affiliation countries, grant years far outside the publication years.
+3. **Clusters**: a candidate's patents are grouped by shared co-inventors and assignees. A cluster is linked when it has
+   strong evidence, or moderate evidence (two kinds for a common name) and no conflict; for a common name the evidence
+   must cover at least 10 % of the cluster's patents.
+4. **Common names**: more than 2 inventor ids carry the name, or more than 2 inventors are expected to carry it — ids
+   with the given name × the share of the family name among the family names that occur with that given name, because
+   PatentsView lumps frequent names into few ids (Hao Yan: one id with 117 patents of several people). A name that
+   agrees only through an initial counts every inventor with that initial and family name.
+5. **Decision**: a candidate is selected when one cluster is linked. It keeps its linked clusters and, for a rare name,
+   its other conflict-free clusters if the linked ones hold at least half of its patents; the rest is left out as a
+   namesake's and listed with the reason.
+
+Outputs: `inventor_link_candidates.csv` (one row per candidate: evidence, decision, reason) and `inventor_link_patents.csv`
+(one row per candidate patent: cluster, evidence, kept or why not).
 
 ## Name resolution
 
@@ -281,7 +317,7 @@ Markdown for agents (LLM context, retrieval, comparison), the numbers behind eve
 Tables and figures behind the dashboard: `papers_metrics.parquet/.csv` (one row per work, every metric and percentile),
 `patents_metrics.parquet/.csv`, `percentile_summary.csv`, `yearly_percentiles.csv`, `citation_trajectory.csv`,
 `book_citations_by_work.csv`, `citing_books.csv` (`book_title` stays empty with `--titles api`), `patents_citing_papers.csv`, `patents_science_references.csv`,
-`ppp_pairs.csv`, `crosswalk_candidates.csv`, `inventor_name_search.csv`, network node / edge tables and GraphML,
+`ppp_pairs.csv`, `crosswalk_candidates.csv`, `inventor_link_candidates.csv`, `inventor_link_patents.csv`, network node / edge tables and GraphML,
 `figures/*.png`, `html/*.html` (interactive figures, full measure set), `manifest.json` (parameters, author id check,
 source fingerprints, files written), `profile_summary.json`, and `_cache/` (per-person scans keyed on their inputs).
 
@@ -314,7 +350,9 @@ Environment variables read by `notebook/author_profile.ipynb` (the pipeline sets
 | `NP_EXTRA_AUTHOR_IDS` | — | further ids of the same person, `;`-separated |
 | `NP_YEAR_MAX` | `2021` | last publication / grant year |
 | `NP_ID_CHECK` | `auto` | author id check (section 0b): `auto` or `off` |
-| `NP_NAME_SEARCH` | `auto` | PatentsView name search: `auto` (only without a pqrs inventor), `always`, `off` |
+| `NP_NAME_SEARCH` | `always` | PatentsView name search: `always`, `auto` (only without a pqrs inventor), `off` |
+| `NP_VERIFY_PQRS` | `1` | `1` checks pqrs inventor ids like name-search ids; `0` takes them whole |
+| `NP_PATENT_FILTER` | `1` | `1` leaves out the patents of a selected inventor id that belong to a namesake |
 | `NP_FETCH_TITLES` | `0` | `1` adds work titles |
 | `NP_TITLES_TABLE` | — | titles source: `api`, a shared `(id, title)` parquet, or empty for the raw works table scan (205 GB) |
 | `NP_NOBEL_LOOKUP` | `auto` | Nobel prize lookup: `auto` (ids, ORCID, then name), `ids`, `off` |
@@ -370,7 +408,7 @@ Nobel Prize/
 │   ├── nobel_laureate_papers.ipynb   all SciSciNet laureates aggregated by field and year (+ dashboard)
 │   ├── prizeatlas_crawl.ipynb        PrizeAtlas Nobel pages -> Data/prizeatlas/
 │   └── np_common.py                  shared library: paths, caches, metric joins, percentiles, name helpers,
-│                                     inventor name search, author id check, candidate search, dashboard renderer
+│                                     inventor linking (name index, evidence, clusters), author id check, candidate search, dashboard renderer
 ├── jobs/                             Slurm runners (author_profile, laureate aggregate, PrizeAtlas pre-pass and array)
 ├── Data/
 │   ├── SciSciNet_Link_NobelLaureates.tsv   LaureateID, MAG PaperID, Type (1 = prize-winning paper)
@@ -421,9 +459,10 @@ Not versioned (`.gitignore`): `output/` (dashboards, records, per-person folders
   common names, and the `query` / `person` entries of the record. A query that names a laureate whose PrizeAtlas id is
   wrong picks that id anyway (PrizeAtlas gives G. E. and G. P. Smith the same id; the ORCID breaks the tie for
   G. P. Smith).
-* **Inventor ids**: pqrs ids can point to OpenAlex ids that were reassigned since (Hinton's pqrs author id now belongs to
-  another person); the name search then finds the inventor. PatentsView ids of common names can mix people; the name
-  search therefore needs evidence on at least half of a candidate's patents for common names.
+* **Inventor ids**: the linking evidence comes from the OpenAlex author record. When OpenAlex has merged a namesake's
+  works into the record (common names such as Jun Ye or Fei-Fei Li), the namesake's patents look linked too. Conversely,
+  a person's patents without any link to the record are left out when the name is common (Jeff Dean's DEC / Compaq
+  patents). `inventor_link_patents.csv` shows every decision; `INVENTOR_IDS` in the notebook overrides it.
 * **Old laureates**: OpenAlex coverage before ~1950 is thin (a handful of works for some early laureates).
 * **Year axes** stop at `YEAR_MAX`; the 2022+ citation years are incomplete in the snapshot.
 * Patent cohorts 1976–1979 have inflated CD (left-censored reference graph).
