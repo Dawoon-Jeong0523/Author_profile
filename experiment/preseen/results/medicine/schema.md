@@ -1,6 +1,6 @@
 # Run JSON schema (Preseen forecast task)
 
-Documented from `preseen_exp/medicine/runs/control_rep01_77bcb60f-9fd4-46ab-acd1-22d13e8c901c.json` (2026-10-01), as
+Documented from `preseen_exp/medicine/runs/control_rep01_<id removed>.json` (2026-10-01), as
 saved by `nobel_preseen_exp.py poll` (`GET /forecasts/<task id>/?include_subforecasts=true`). The Physics and Chemistry
 runs have the same structure.
 

@@ -152,7 +152,8 @@ def field_panel(d):
           ("balanced", d.get("reason_bal"), None), ("main", d.get("reason"), None)]
     cols = "".join(f"<div class='card'><div class='armh'>{b2.legend([(a, NAME[a])])}</div>{bd.md_to_html(t)}</div>"
                    for a, t, _ in rs if t)
-    out.append("<details class='card'><summary>Why the arms differ: how each run used the cards (summaries of the write-ups)"
+    out.append("<details class='card'><summary>Why the arms differ: how each run used the cards (our summaries of Preseen's "
+               "write-ups, written with Claude, an LLM; not Preseen's own words)"
                f"</summary><div class='three' style='margin-top:10px'>{cols}</div></details>")
     return "\n".join(out)
 
@@ -233,8 +234,9 @@ def build(out_path):
              "the experiment.</p></div>"
              "<div class='card'><h4>Why four copies of one question</h4><p>Context notes attach to a Preseen question and apply to every "
              "later run, so each arm is its own copy of an identically defined question. Arms 1 and 2 ran interleaved on 1 October; "
-             "arms 3 and 4 were added on 2 October with one run each (plus one more control run that day, which stayed inside the "
-             "1 October control range).</p>"
+             "arms 3 and 4 were added on 2 October with one run each, plus one more control run that day. That control run was "
+             "0.73, 0.71 and 0.67 points per option from the 1 October control mean (medicine, physics, chemistry), about the noise "
+             "unit below, but fell outside the range of the four 1 October runs on 4, 4 and 7 of the 13 options.</p>"
              "<h4>The yardstick</h4><p>Runs of the same question differ by chance. The noise unit is how far one control run lies from "
              "the mean of the other four control runs (about 0.6–0.75 percentage points per option). An arm’s run is compared in "
              "that unit; an option “moved” when it leaves the range of the five control runs.</p></div></div>"

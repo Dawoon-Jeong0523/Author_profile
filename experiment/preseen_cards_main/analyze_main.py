@@ -55,7 +55,7 @@ def load(field):
             if set(p) != set(opts):
                 sys.exit(f"{f}: option texts differ from the question")
             for i, o in enumerate(opts, 1):
-                rows.append({"arm": arm, "rep": k, "batch": batch, "file": f.name, "task_id": t["id"],
+                rows.append({"arm": arm, "rep": k, "batch": batch,                      # no Preseen ids in outputs
                              "created_at": t["created_at"], "option": i, "p": p[o]})
             for s in t.get("subforecasts") or []:
                 sp = s["forecast_data"]["payload"]["probabilities"]

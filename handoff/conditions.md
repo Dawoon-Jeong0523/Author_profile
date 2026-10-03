@@ -49,9 +49,7 @@ The notes are also in `context/` as JSONL (`definitions.jsonl`, `profile_cards_u
 `instruction_notes.jsonl`), and `context/conditions.json` lists which ones each condition posted, in order, with the
 `treatment` used. `post_notes.py` replays a condition on a new question.
 
-Question and run ids are not in `context/` or `forecasts/`. They do appear in the experiment logs
-(`experiment/*/LOG.md`) and in `experiment/*/results/*/runs_long.csv`. The raw API responses are not in the
-repository.
+Question and run ids and the raw API responses are not in the repository. I can send the ids if you need them.
 
 ## Other things worth knowing
 

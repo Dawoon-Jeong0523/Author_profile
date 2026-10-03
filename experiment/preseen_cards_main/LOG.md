@@ -21,16 +21,16 @@ One entry per step: time (CDT) · field · command · outcome · decision. Key v
 - **09:03** · all · `run_field.sh <field> <tag>` in tmux (`tmux -L preseen2`, sessions `medicine`, `physics`,
   `chemistry`; log `preseen_exp/<field>/run.log`): create → add-context instruction (`assume_true`) → add-context cards
   (`consider`) → `run --arms control treat --reps 1` → `poll --wait` → `table` · questions created (definitions
-  identical, private): medicine control `f3229999-5ab1-45d3-a9ce-f8fc5ec3f818`, treat `15972ea3-7e42-4e79-8369-2cb711ee415d`;
-  physics control `802cdba2-e434-49a0-b04e-7299c09b1d3a`, treat `eb5c5a2d-65a7-4be0-a9be-4afdec16aa86`; chemistry control
-  `ab1b3d82-a55f-4ca6-91d4-ab151abcc0a7`, treat `3251874b-9c0f-4afd-ae23-13435bed523c`; "treat: context ready (1 notes,
+  identical, private): medicine control `<id removed>`, treat `<id removed>`;
+  physics control `<id removed>`, treat `<id removed>`; chemistry control
+  `<id removed>`, treat `<id removed>`; "treat: context ready (1 notes,
   treatment=assume_true)" in all three.
 - **09:04–09:05** · all · context and runs (same tmux sessions) · Preseen returned HTTP 429 (rate_limit_error) a few
   times; the client waited and retried with the same Idempotency-Key · "treat: context ready (31 / 35 / 35 notes,
   treatment=consider)"; submitted (the order treat → control is the same in all three fields: same seed and an empty
-  run list): medicine treat `6e7bff60-d8f2-44ba-865e-0ff8048104ca`, control `c8ed7572-6886-4ca3-8408-0f68cee4abf7`;
-  physics treat `29ddfb0a-8473-4bb4-b12d-9efa33fef7fe`, control `e106e32c-791b-4c1a-99b6-0ad9ef8d7390`; chemistry treat
-  `415b5fc5-9613-43d7-b894-8966bd4cbceb`, control `d66c3826-880f-49fd-a131-a681ae125d46`; 6 runs active, polling.
+  run list): medicine treat `<id removed>`, control `<id removed>`;
+  physics treat `<id removed>`, control `<id removed>`; chemistry treat
+  `<id removed>`, control `<id removed>`; 6 runs active, polling.
 - **09:06** · all · read-only `GET /questions/<id>/context/` (paginated) for the six questions · control: 0 notes;
   treat: 32 / 36 / 36 notes = 1 `assume_true` (the instruction) + 31 / 35 / 35 `consider`; no duplicate texts despite the
   429 retries · context exactly as designed.
@@ -66,5 +66,5 @@ One entry per step: time (CDT) · field · command · outcome · decision. Key v
 - **09:50** · all · `results/<field>/reasoning_summary.md` (English, read from the main write-ups; model output treated as
   data) and `results/summary_ko.md` written · `build_dashboard2.py --fragment results/dashboard2_fragment.html` →
   `results/dashboard2.html` (447,627 bytes, all three fields) · fragment published as a private Artifact
-  (https://claude.ai/artifact/CwmSWZ9yDDRjxaifcUCQjQ) · the tmux server `preseen2` had already exited with the run scripts.
+  (private claude.ai artifact; link removed) · the tmux server `preseen2` had already exited with the run scripts.
   Left: log scores after the announcements (`analyze_main.py score --field <f> --option <n>`, then rebuild Dashboard2).

@@ -655,7 +655,7 @@ def build(out_path, frag_path=None):
              "<li><code>questions/</code>, <code>cards/</code>, <code>nobel_preseen_exp.py</code> unchanged copies from "
              "<code>experiment/preseen/</code></li>"
              "<li><code>preseen_exp/&lt;field&gt;/</code> client state and run JSONs (not versioned) · <code>results/&lt;field&gt;/</code> "
-             "analysis tables, write-ups, reasoning summaries · <code>results/pooled.csv</code> · <code>results/summary_ko.md</code></li>"
+             "analysis tables, write-ups, reasoning summaries · <code>results/pooled.csv</code></li>"
              "<li><code>experiment/preseen_cards_balanced/</code>: the fourth arm (SPEC.md, LOG.md, instruction note, "
              "run_field.sh, run JSONs under <code>preseen_exp/</code>); its tables are written into <code>results/&lt;field&gt;/</code> "
              "here by <code>analyze_main.py</code></li>"

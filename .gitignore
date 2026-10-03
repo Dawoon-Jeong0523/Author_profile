@@ -26,3 +26,11 @@ experiment/preseen/committee/*/raw/
 # "cards as main evidence" follow-up: client state
 experiment/preseen_cards_main/preseen_exp/
 experiment/preseen_cards_balanced/preseen_exp/
+
+# kept on disk, not versioned: notes and helpers of the AI-assisted sessions, title caches, originals of edited files
+experiment/**/summary_ko.md
+experiment/preseen/check_keys.py
+experiment/preseen/dryrun_fast.py
+experiment/preseen/people/*dryrun_fast*
+experiment/preseen/cards*/_titles_cache.json
+experiment/**/*.original.md
