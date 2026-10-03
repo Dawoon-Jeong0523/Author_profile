@@ -354,7 +354,7 @@ def reasoning(d):
                     f"<p class='muted'>The TL;DR of every run, in the forecaster’s own words.</p>{items}</div>")
     full = "".join(f"<details class='wu'><summary>{E(arm)} run {rep} — full write-up ({len(w):,} characters)</summary>"
                    f"<div class='wubody'>{writeup_html(w)}</div></details>" for arm, rep, w, ts in runs)
-    summary = (f"<div class='card'><h4>Summary of the reasoning</h4>{md_to_html(note.read_text())}</div>" if note.exists() else "")
+    summary = (f"<div class='card'><h4>Summary of the reasoning</h4><p class='muted'>Our summary of Preseen's write-ups, written with Claude (an LLM); not Preseen's own words.</p>{md_to_html(note.read_text())}</div>" if note.exists() else "")
     return ("<h4 class='sec'>Why each arm ranks the discoveries this way</h4>" + summary + "<div class='two'>" + "".join(cols)
             + "</div><div class='card'><h4>Full write-ups</h4><p class='muted'>Each run’s final write-up as returned by Preseen "
               "(model output, shown as data; links point to the sources it cited).</p>" + full + "</div>")

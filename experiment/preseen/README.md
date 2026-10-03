@@ -13,7 +13,6 @@ cite them 8–11 times per run — but says it used them only as a secondary cro
   [`results/dashboard.html`](results/dashboard.html) — download and open it in a browser.
 - **Manuscript draft** (protocol, every decision, incidents, appendices): [`../../manuscript/preseen_nobel2026_experiment.tex`](../../manuscript/preseen_nobel2026_experiment.tex)
 - **Protocol:** [`SPEC.md`](SPEC.md) · **step log** (time, command, outcome, decision): [`LOG.md`](LOG.md) · **configuration:** [`config.yaml`](config.yaml)
-- **Korean summaries per field:** `results/<field>/summary_ko.md`
 
 The experiment uses the repository's author-profile pipeline ([`../../README.md`](../../README.md)) for the profiles;
 everything specific to the experiment lives in this folder.
@@ -264,7 +263,7 @@ and verifies that the stored definitions are identical and that no automatic re-
 - **People:** `people/<field>.txt` lists every person shown in the options (98 rows, 94 distinct people; four appear in
   two fields).
 - **Identity resolution:** the repository's name pipeline (`pipeline/profile_person.py`). Its command-line dry run scans
-  the 6 GB snapshot authors table once per person (~1.5 min each), so [`dryrun_fast.py`](dryrun_fast.py) calls the same,
+  the 6 GB snapshot authors table once per person (~1.5 min each), so a faster local script (not versioned) called the same,
   unchanged `resolve()` on a one-scan subset of the table (rows whose names contain one of the surnames, the resolver's
   own substring test); for the 11 people both runs had finished, the results were identical.
 - **Review:** every unresolved or doubtful pick was checked with candidate tables, OpenAlex author lookups (topics,
@@ -343,7 +342,7 @@ into the final forecast (`forecast.forecast_data.payload.probabilities`; schema 
 | `card_strength_vs_effect.csv` | exploratory: the people's laureate comparison vs Δ |
 | `summary.json` | everything above in one object, plus uptake quotes |
 | `option_probabilities.png`, `treat_minus_control.png`, `captions.md` | figures; series and bars are defined in the captions |
-| `summary_ko.md`, `reasoning_summary.md` | Korean summary; summary of the forecaster's reasoning |
+| `reasoning_summary.md` | summary of the forecaster's reasoning, written with Claude (an LLM) |
 
 `results/pooled/pooled.csv` compares the fields; [`build_dashboard.py`](build_dashboard.py) writes `results/dashboard.html`.
 
@@ -353,7 +352,6 @@ into the final forecast (`forecast.forecast_data.payload.probabilities`; schema 
 cd experiment/preseen
 export LD_LIBRARY_PATH=/project/jevans/Dawoon/env/Curvature/lib; PY=/project/jevans/Dawoon/env/Curvature/bin/python
 # keys only as environment variables: PRESEEN_API_KEY, COMMITTEE_ANTHROPIC_API_KEY, OPENAI_API_KEY, GEMINI_API_KEY
-$PY check_keys.py                                   # set / missing + HTTP status of free read-only requests; prints no values
 
 # committee (paid LLM calls)
 $PY committee.py test                               # one persona on each model
@@ -364,8 +362,8 @@ $PY check_living.py                                 # Wikidata screen of the sho
 
 # question, people, profiles, cards
 $PY build_question.py                               # questions/<field>.json
-$PY dryrun_fast.py --fields medicine physics chemistry
-$PY people.py identity --field medicine --log medicine_dryrun_fast.log   # + people/medicine_choices.yaml
+$PY ../../pipeline/profile_person.py --names-file people/medicine.txt --dry-run > people/medicine_dryrun.log
+$PY people.py identity --field medicine   # + people/medicine_choices.yaml
 $PY submit_profiles.py                              # Slurm, one job per id set (--only <name> for a single job)
 $PY build_cards.py reference && $PY build_cards.py cards --field medicine
 
@@ -388,12 +386,11 @@ $PY build_dashboard.py
 experiment/preseen/
 ├── SPEC.md, LOG.md, config.yaml        protocol, step log, configuration (fields, models, prices, templates)
 ├── nobel_selection_process.md         background on the prize process and the 2026 committees
-├── check_keys.py                      key presence and free read-only status checks
 ├── llm_providers.py                   one call per provider over HTTPS
 ├── committee.py                       prompt, test, run, collect, estimate, aggregate, diagnostics
 ├── check_living.py                    Wikidata living screen
 ├── build_question.py                  candidate list -> question JSON
-├── dryrun_fast.py, people.py          identity resolution and identity tables
+├── people.py                          identity tables
 ├── submit_profiles.py                 Slurm profile submission
 ├── build_cards.py                     laureate reference and cards
 ├── nobel_preseen_exp.py               Preseen client

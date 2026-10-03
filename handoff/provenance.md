@@ -36,7 +36,7 @@ Preseen's responses do not say which model it runs.
 
 | Piece | Label |
 |---|---|
-| `experiment/*/results/*/reasoning_summary*.md`, `summary_ko.md`, `checks/*/result.md` | our interpretation (Claude). The dashboards show these as "Summary of the reasoning" without saying so. |
+| `experiment/*/results/*/reasoning_summary*.md`, `checks/*/result.md` | our interpretation (Claude). The dashboards now say so next to each summary. |
 | narrative text of the dashboards, `experiment/*/README.md`, `experiment/*/LOG.md` | our interpretation (Claude) |
 | `experiment/preseen/SPEC.md` | our decision (written by me) |
 | `experiment/preseen/committee/*/raw/` (not in git) | LLM-written: the committee's raw answers |

@@ -1,7 +1,7 @@
 # SPEC — "cards as main evidence" follow-up to the Preseen context experiment (2026 Nobel Prizes)
 
-Follow-up to `../preseen/` (its SPEC.md, hard rules and client invariants apply unless changed here). Report in Korean;
-log every step in `LOG.md` (time CDT · field · command · outcome · decision; no key values).
+Follow-up to `../preseen/` (its SPEC.md, hard rules and client invariants apply unless changed here). Every step is
+recorded in `LOG.md`.
 
 ## Question
 
@@ -28,7 +28,7 @@ the forecaster is told to use the cards as the main evidence?
 - Deadlines as in `../preseen/SPEC.md` §2 (Medicine Sun 4 Oct 23:00, Physics Mon 5 Oct 23:00, Chemistry Tue 6 Oct
   23:00 CDT).
 
-Approved by the user on 2026-10-02 ("그걸 넣어주고, 실험을 진행해서 결과를 대시보드로 만들어줘 (Dashboard2)"):
+Approved on 2026-10-02:
 6 questions, 3 instruction notes + 101 card notes, 6 runs.
 
 ## Analysis (`analyze_main.py` → `results/`; dashboard `build_dashboard2.py` → `results/dashboard2.html`)

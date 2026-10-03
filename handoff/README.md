@@ -110,7 +110,6 @@ profiles stop there) and for patents outside the US.
   card counts one patent of a Michael J. Berry). Emmanuel Mignot's card undercounts him.
 - The reference lines ("higher than X % of the field's 2000–2025 laureates at prize time") leave out 18 of the 199
   laureates, whose profiles sit under a different OpenAlex id.
-- `context/` and `forecasts/` hold no Preseen question or run ids. The experiment logs elsewhere in this repository
-  do (`experiment/*/LOG.md`, `experiment/*/results/*/runs_long.csv`).
+- No Preseen question or run ids are in this repository. I can send them if you want to look the runs up.
 
 `build_handoff.py` rebuilds everything in this folder from the experiment files.

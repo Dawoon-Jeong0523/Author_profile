@@ -1,8 +1,7 @@
 # SPEC — "cards as one of the main sources" follow-up (2026 Nobel Prizes)
 
 Second follow-up to `../preseen/` (its SPEC.md, hard rules and client invariants apply unless changed here); sibling of
-`../preseen_cards_main/`. Report in Korean; log every step in `LOG.md` (time CDT · field · command · outcome · decision; no
-key values).
+`../preseen_cards_main/`. Every step is recorded in `LOG.md`.
 
 ## Question
 

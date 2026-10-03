@@ -1,9 +1,9 @@
 # Validation check: excluding Svetlana Mojsov (Physiology or Medicine)
 
 Separate private question with the same definition as `questions/medicine.json` (`preseen_exp/medicine_check/`, tag
-`nobel26-med-check`, question `d79f950d-8e6c-4665-a540-396b17619004`), one context note (`00_exclusion.md`, treatment
+`nobel26-med-check`, question `<id removed>`), one context note (`00_exclusion.md`, treatment
 `assume_true`): "Svetlana Mojsov will not be among the laureates … Exclude her from consideration". One run
-(`01cb929e-7090-408c-a821-e3e27b377f32`, 2 October 2026 00:31–00:58 UTC, 4 subforecasts).
+(`<id removed>`, 2 October 2026 00:31–00:58 UTC, 4 subforecasts).
 
 | Option | Exclusion run | Control mean (range, 4 runs) | Treat mean (3 runs) |
 |---|---|---|---|
