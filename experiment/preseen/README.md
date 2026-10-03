@@ -281,6 +281,11 @@ and verifies that the stored definitions are identical and that no automatic re-
 
 ## Step 5 — profile cards
 
+> **Since 2026-10-03** the cards the runs used are in [`cards_v1/`](cards_v1/) (moved unchanged; `analyze.py` and the
+> dashboards read them there), and [`cards/`](cards/) holds the same cards rebuilt after the pipeline's inventor linking
+> was refined: only the own-patent and co-author/co-inventor lines differ ([`cards/README.md`](cards/README.md),
+> [`cards/CHANGES.md`](cards/CHANGES.md)). In this README, `cards/` paths describing the runs refer to `cards_v1/`.
+
 [`build_cards.py`](build_cards.py) writes `cards/<field>/00_definitions.md` and one card per person (300–500 words,
 fixed template, English):
 
@@ -304,13 +309,13 @@ forecasts.” Cards never mention the committee, the forecasting question or the
 | Physics | 62 | 0.865 | 42.4 % | 8 | 0 | 459 |
 | Chemistry | 61 | 0.901 | 50.9 % | 203 | 6 | 593 |
 
-(Medians at prize time, `cards/laureate_reference.csv`; 18 laureates without a usable profile are listed in
-`cards/laureate_reference_missing.json`.) The metric function reproduces a pipeline record exactly (Geoffrey Hinton: 175
+(Medians at prize time, `cards_v1/laureate_reference.csv`; 18 laureates without a usable profile are listed in
+`cards_v1/laureate_reference_missing.json`.) The metric function reproduces a pipeline record exactly (Geoffrey Hinton: 175
 research works, impact median 0.964, 63.6 % top 10 %, 34.1 % top 1 %, 13 patents, 5,192 citing inventions, 25,117 citing
 books).
 
-Card examples are in the dashboard and in `cards/medicine/svetlana-mojsov.md`, `cards/medicine/karl-deisseroth.md`,
-`cards/physics/john-b-pendry.md`, `cards/chemistry/krzysztof-matyjaszewski.md`.
+Card examples are in the dashboard and in `cards_v1/medicine/svetlana-mojsov.md`, `cards_v1/medicine/karl-deisseroth.md`,
+`cards_v1/physics/john-b-pendry.md`, `cards_v1/chemistry/krzysztof-matyjaszewski.md`.
 
 ## Step 6 — Preseen runs
 
@@ -398,7 +403,8 @@ experiment/preseen/
 ├── committee/logs/, committee/living_*  run log, Wikidata cache, web verification
 ├── questions/<field>.json
 ├── people/                            <field>.txt, dry-run logs, <field>_identity.csv, <field>_choices.yaml, profile_jobs.csv
-├── cards/<field>/                     00_definitions.md + one card per person; laureate_reference.csv
+├── cards_v1/<field>/                  the cards the runs used: 00_definitions.md + one card per person; laureate_reference.csv
+├── cards/<field>/                     the same cards rebuilt 2026-10-03 (inventor linking); README.md, CHANGES.md
 └── results/<field>/, results/pooled/, results/dashboard.html
 ```
 

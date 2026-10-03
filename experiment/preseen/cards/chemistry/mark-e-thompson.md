@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 4,962 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
-- Own US utility patents: 219 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Own US utility patents: 201 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 320 (higher than 82 % of the 61 Chemistry laureates of 2000-2025 at prize time).
@@ -24,4 +24,4 @@ Prior Nobel Prize: none.
 
 ## Collaboration
 - Nobel laureate co-authors: Russell A. Hulse (Physics 1993; 5 shared works); George A. Olah (Chemistry 1994; 1 shared work).
-- People who are both co-authors and co-inventors: 122.
+- People who are both co-authors and co-inventors: 134.

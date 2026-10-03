@@ -62,7 +62,7 @@ def card_strength(field, out):
     laureates on their cards? Mean laureate share (impact median; citing inventions) of the shown people vs Δ."""
     import csv
     import build_cards as bc
-    ref = pd.read_csv(HERE / "cards" / "laureate_reference.csv")
+    ref = pd.read_csv(HERE / "cards_v1" / "laureate_reference.csv")        # the reference on the cards the runs used
     L = ref[ref.field == field]
 
     def share(v, vals):

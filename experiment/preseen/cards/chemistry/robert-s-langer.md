@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 20,350 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).
-- Own US utility patents: 419 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Own US utility patents: 559 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 1,224 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).
@@ -24,4 +24,4 @@ Prior Nobel Prize: none.
 
 ## Collaboration
 - Nobel laureate co-authors: Steven Weinberg (Physics 1979; 1 shared work); Phillip A. Sharp (Medicine 1993; 5 shared works); H. Robert Horvitz (Medicine 2002; 1 shared work); Robert G. Edwards (Medicine 2010; 1 shared work); Shinya Yamanaka (Medicine 2012; 2 shared works); Frances H. Arnold (Chemistry 2018; 1 shared work); Moungi G. Bawendi (Chemistry 2023; 2 shared works).
-- People who are both co-authors and co-inventors: 399.
+- People who are both co-authors and co-inventors: 401.

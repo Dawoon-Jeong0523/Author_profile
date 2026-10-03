@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 742 (higher than 80 % of the 61 Chemistry laureates of 2000-2025 at prize time).
-- Own US utility patents: 6 (higher than 50 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Own US utility patents: 12 (higher than 66 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 250 (higher than 74 % of the 61 Chemistry laureates of 2000-2025 at prize time).
@@ -24,4 +24,4 @@ Prior Nobel Prize: none.
 
 ## Collaboration
 - Nobel laureate co-authors: Paul Greengard (Medicine 2000; 1 shared work); Kurt Wüthrich (Chemistry 2002; 1 shared work); James E. Rothman (Medicine 2013; 1 shared work).
-- People who are both co-authors and co-inventors: 5.
+- People who are both co-authors and co-inventors: 10.

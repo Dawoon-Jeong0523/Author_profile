@@ -4,6 +4,8 @@
     $PY build_cards.py reference              # cards/laureate_reference.csv: 2000-2025 laureates of all three fields at prize time
     $PY build_cards.py check A5108093963      # headline metrics of one profile (to compare with its record)
     $PY build_cards.py cards --field medicine # cards/<field>/00_definitions.md + one card per person
+    $PY build_cards.py reference --out cards_v2; $PY build_cards.py cards --field medicine --out cards_v2
+                                              # the same into another folder (cards/ keeps the cards the runs used)
 
 Headline metrics come from a profile's output/<author id>/ tables, research works (article, review, letter) published up
 to the window's last year (config profiles.year_max, 2021); citing inventions and citing books over all works of the
@@ -90,7 +92,20 @@ def laureates():
     return rows
 
 
+def set_out(name):
+    """Cards folder of this call (default cards/); a new folder starts its title cache from the one in cards/."""
+    global TITLE_CACHE
+    d = HERE / name
+    d.mkdir(exist_ok=True)
+    TITLE_CACHE = d / "_titles_cache.json"
+    seed = HERE / "cards" / "_titles_cache.json"
+    if not TITLE_CACHE.exists() and seed.exists():
+        TITLE_CACHE.write_text(seed.read_text())
+    return d
+
+
 def cmd_reference(a):
+    cards = set_out(a.out)
     rows, missing = [], []
     for field, year, name, aid in laureates():
         m = metrics(OUT / aid, before=year)
@@ -99,10 +114,9 @@ def cmd_reference(a):
             continue
         rows.append({"field": field, "prize_year": year, "name": name, "author_id": aid, **m})
     df = pd.DataFrame(rows).sort_values(["field", "prize_year", "name"])
-    out = HERE / "cards" / "laureate_reference.csv"
-    out.parent.mkdir(exist_ok=True)
+    out = cards / "laureate_reference.csv"
     df.to_csv(out, index=False)
-    (HERE / "cards" / "laureate_reference_missing.json").write_text(json.dumps(missing, indent=1, ensure_ascii=False))
+    (cards / "laureate_reference_missing.json").write_text(json.dumps(missing, indent=1, ensure_ascii=False))
     print(f"{out.relative_to(HERE)}: {len(df)} laureates with a profile; {len(missing)} without (laureate_reference_missing.json)")
     print(df.groupby("field").agg(n=("name", "size"), impact_median=("impact_median", "median"), top10=("top10", "median"),
                                   citing_inventions=("citing_inventions", "median"), own_patents=("own_patents", "median"),
@@ -279,14 +293,15 @@ def card(field, person, ids, options, aff, prior, ref):
 
 def cmd_cards(a):
     field = a.field
-    ref = pd.read_csv(HERE / "cards" / "laureate_reference.csv")
+    cards = set_out(a.out)
+    ref = pd.read_csv(cards / "laureate_reference.csv")
     cand = json.loads((HERE / "committee" / field / "candidates.json").read_text())
     options = {}
     for o in cand["options"]:
         for p in o.get("people", []):
             options.setdefault(p["name"], []).append(o["option"])
     ident = list(csv.DictReader(open(HERE / "people" / f"{field}_identity.csv")))
-    outdir = HERE / "cards" / field
+    outdir = cards / field
     outdir.mkdir(parents=True, exist_ok=True)
     y0, y1 = CFG["profiles"]["laureate_reference_years"]
     (outdir / "00_definitions.md").write_text(DEFINITIONS.format(year_max=YEAR_MAX, field_name=CFG["fields"][field]["prize"],
@@ -302,7 +317,7 @@ def cmd_cards(a):
     for p, fn, w, fo in rows:
         flag = "" if 300 <= w <= 500 else "  <-- outside 300-500 words"
         print(f"  {fn:<34} {w:>4} words  {fo}{flag}")
-    print(f"{field}: {len(rows)} cards + 00_definitions.md in cards/{field}/; without profile: "
+    print(f"{field}: {len(rows)} cards + 00_definitions.md in {a.out}/{field}/; without profile: "
           f"{[p for p, _, _, fo in rows if fo == 'NO PROFILE']}")
 
 
@@ -313,9 +328,10 @@ def cmd_check(a):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     sub = ap.add_subparsers(dest="cmd", required=True)
-    sub.add_parser("reference")
+    s = sub.add_parser("reference"); s.add_argument("--out", default="cards", help="cards folder (default cards/)")
     s = sub.add_parser("check"); s.add_argument("author_id")
     s = sub.add_parser("cards"); s.add_argument("--field", required=True)
+    s.add_argument("--out", default="cards", help="cards folder (default cards/)")
     a = ap.parse_args()
     {"reference": cmd_reference, "check": cmd_check, "cards": cmd_cards}[a.cmd](a)
     return 0

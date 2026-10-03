@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 201 (higher than 48 % of the 61 Chemistry laureates of 2000-2025 at prize time).
-- Own US utility patents: 0 (higher than 12 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Own US utility patents: 8 (higher than 57 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 241 (higher than 72 % of the 61 Chemistry laureates of 2000-2025 at prize time).
@@ -24,4 +24,4 @@ Prior Nobel Prize: none.
 
 ## Collaboration
 - Nobel laureate co-authors: Elias James Corey (Chemistry 1990; 6 shared works).
-- People who are both co-authors and co-inventors: 0.
+- People who are both co-authors and co-inventors: 5.

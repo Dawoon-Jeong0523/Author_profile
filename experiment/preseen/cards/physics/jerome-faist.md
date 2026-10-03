@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 526 (higher than 90 % of the 62 Physics laureates of 2000-2025 at prize time).
-- Own US utility patents: 28 (higher than 94 % of the 62 Physics laureates of 2000-2025 at prize time).
+- Own US utility patents: 28 (higher than 95 % of the 62 Physics laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 315 (higher than 98 % of the 62 Physics laureates of 2000-2025 at prize time).

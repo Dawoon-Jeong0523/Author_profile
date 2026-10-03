@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 459 (higher than 67 % of the 61 Chemistry laureates of 2000-2025 at prize time).
-- Own US utility patents: 120 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Own US utility patents: 84 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 44 (higher than 13 % of the 61 Chemistry laureates of 2000-2025 at prize time).
@@ -24,4 +24,4 @@ Prior Nobel Prize: none.
 
 ## Collaboration
 - Nobel laureate co-authors: none.
-- People who are both co-authors and co-inventors: 20.
+- People who are both co-authors and co-inventors: 19.

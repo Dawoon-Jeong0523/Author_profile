@@ -5,7 +5,7 @@
 
 Reads results/<field>/{summary.json, by_option.csv, runs_long.csv, effects.csv, terms.csv}, results/pooled/pooled.csv,
 committee/<field>/{ballots.jsonl, candidates.json, merges.yaml}, questions/<field>.json, people/<field>_identity.csv,
-cards/<field>/*.md, cards/laureate_reference.csv and config.yaml. Fields without results are shown as pending.
+cards_v1/<field>/*.md, cards_v1/laureate_reference.csv (the cards the runs used) and config.yaml. Fields without results are shown as pending.
 No external scripts, fonts or images: charts are inline SVG; a small script handles the field tabs, tooltips and theme.
 """
 import argparse
@@ -595,7 +595,7 @@ def build(out_path):
         for b in D[f]["ballots"]:
             t = tok.setdefault(b["model"], [0, 0]); t[0] += b.get("input_tokens", 0); t[1] += b.get("output_tokens", 0)
     cost = sum((v[0] * price[m]["input"] + v[1] * price[m]["output"]) / 1e6 for m, v in tok.items())
-    ref = pd.read_csv(HERE / "cards" / "laureate_reference.csv")
+    ref = pd.read_csv(HERE / "cards_v1" / "laureate_reference.csv")
     people = {f: len(list(csv.DictReader(open(HERE / "people" / f"{f}_identity.csv")))) for f in FIELDS}
     gen = pd.Timestamp.now(tz="America/Chicago").strftime("%d %B %Y, %H:%M %Z")
 
@@ -753,7 +753,7 @@ def build(out_path):
     H.append("</div>")
     for k, (f, fn, lab) in enumerate(ex):
         H.append(f"<div class='panel card' id='cpanel-{k}' role='tabpanel'{'' if k == 0 else ' hidden'}><p class='muted'>{E(lab)} · "
-                 f"<code>cards/{f}/{fn}</code></p><div class='cardnote'>{md_to_html((HERE / 'cards' / f / fn).read_text())}</div></div>")
+                 f"<code>cards_v1/{f}/{fn}</code></p><div class='cardnote'>{md_to_html((HERE / 'cards_v1' / f / fn).read_text())}</div></div>")
     H.append("</section>")
 
     # caveats
@@ -768,7 +768,7 @@ def build(out_path):
     H.append("<section id='files'><h2>Files</h2><div class='card'><ul>"
              "<li><code>experiment/preseen/SPEC.md</code> protocol · <code>LOG.md</code> every step with time, command, outcome and decision · <code>config.yaml</code></li>"
              "<li><code>committee/&lt;field&gt;/</code> ballots, merges, candidate lists, review · <code>questions/&lt;field&gt;.json</code></li>"
-             "<li><code>people/</code> identity tables and decisions · <code>cards/</code> cards and the laureate reference</li>"
+             "<li><code>people/</code> identity tables and decisions · <code>cards_v1/</code> the cards the runs used and their laureate reference</li>"
              "<li><code>preseen_exp/&lt;field&gt;/</code> client state and every run JSON · <code>results/&lt;field&gt;/</code> analysis tables, figures, Korean summaries</li>"
              "<li><code>manuscript/preseen_nobel2026_experiment.tex</code> the detailed write-up · this page: <code>build_dashboard.py</code></li></ul></div></section>")
     H.append(f"</div><script>{JS}</script></body></html>")

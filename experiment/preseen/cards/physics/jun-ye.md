@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 237 (higher than 85 % of the 62 Physics laureates of 2000-2025 at prize time).
-- Own US utility patents: 0 (higher than 31 % of the 62 Physics laureates of 2000-2025 at prize time).
+- Own US utility patents: 4 (higher than 80 % of the 62 Physics laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 236 (higher than 90 % of the 62 Physics laureates of 2000-2025 at prize time).
@@ -24,4 +24,4 @@ Prior Nobel Prize: none.
 
 ## Collaboration
 - Nobel laureate co-authors: Eric A. Cornell (Physics 2001; 60 shared works); Wolfgang Ketterle (Physics 2001; 5 shared works); Carl E. Wieman (Physics 2001; 2 shared works); John L. Hall (Physics 2005; 94 shared works).
-- People who are both co-authors and co-inventors: 0.
+- People who are both co-authors and co-inventors: 11.

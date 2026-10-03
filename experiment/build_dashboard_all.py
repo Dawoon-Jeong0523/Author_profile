@@ -180,7 +180,7 @@ def build(out_path):
             t = tok.setdefault(b["model"], [0, 0]); t[0] += b.get("input_tokens", 0); t[1] += b.get("output_tokens", 0)
     cost = sum((v[0] * price[m]["input"] + v[1] * price[m]["output"]) / 1e6 for m, v in tok.items())
     n_ballots = sum(len(D[f]["ballots"]) for f in FIELDS)
-    n_cards = sum(len(list((HERE / "preseen" / "cards" / f).glob("*.md"))) - 1 for f in FIELDS)
+    n_cards = sum(len(list((HERE / "preseen" / "cards_v1" / f).glob("*.md"))) - 1 for f in FIELDS)
     gen = pd.Timestamp.now(tz="America/Chicago").strftime("%d %B %Y, %H:%M %Z")
 
     H = ["<title>Nobel 2026 Preseen</title>", f"<style>{bd.CSS}{b2.CSS2}{CSS3}</style>",
@@ -279,8 +279,8 @@ def build(out_path):
         H.append(f"<button type='button' role='tab' id='kt-{k}' aria-controls='kp-{k}' aria-selected='{'true' if k == 0 else 'false'}'>{E(lab)}</button>")
     H.append("</div>")
     for k, (f, fn, lab) in enumerate(CARD_EXAMPLES):
-        H.append(f"<div class='panel card' id='kp-{k}' role='tabpanel'{'' if k == 0 else ' hidden'}><p class='muted'><code>cards/{f}/{fn}</code>, "
-                 f"exactly as attached</p><div class='cardnote'>{bd.md_to_html((HERE / 'preseen' / 'cards' / f / fn).read_text())}</div></div>")
+        H.append(f"<div class='panel card' id='kp-{k}' role='tabpanel'{'' if k == 0 else ' hidden'}><p class='muted'><code>cards_v1/{f}/{fn}</code>, "
+                 f"exactly as attached</p><div class='cardnote'>{bd.md_to_html((HERE / 'preseen' / 'cards_v1' / f / fn).read_text())}</div></div>")
     H.append("</section>")
 
     # ------------------------------------------------------------ results

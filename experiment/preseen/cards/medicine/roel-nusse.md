@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 1,284 (higher than 88 % of the 60 Physiology or Medicine laureates of 2000-2025 at prize time).
-- Own US utility patents: 0 (higher than 13 % of the 60 Physiology or Medicine laureates of 2000-2025 at prize time).
+- Own US utility patents: 0 (higher than 14 % of the 60 Physiology or Medicine laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 179 (higher than 71 % of the 60 Physiology or Medicine laureates of 2000-2025 at prize time).

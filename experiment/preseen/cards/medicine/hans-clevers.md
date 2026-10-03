@@ -16,7 +16,7 @@ Prior Nobel Prize: none.
 
 ## Technological translation
 - Distinct citing inventions: 2,724 (higher than 98 % of the 60 Physiology or Medicine laureates of 2000-2025 at prize time).
-- Own US utility patents: 2 (higher than 35 % of the 60 Physiology or Medicine laureates of 2000-2025 at prize time).
+- Own US utility patents: 13 (higher than 72 % of the 60 Physiology or Medicine laureates of 2000-2025 at prize time).
 
 ## Textbook reach
 - Works cited by books: 607 (higher than all 60 Physiology or Medicine laureates of 2000-2025 at prize time).
@@ -24,4 +24,4 @@ Prior Nobel Prize: none.
 
 ## Collaboration
 - Nobel laureate co-authors: Susumu Tonegawa (Medicine 1987; 1 shared work); Tasuku Honjo (Medicine 2018; 1 shared work); Charles M. Rice (Medicine 2020; 1 shared work); Shimon Sakaguchi (Medicine 2025; 32 shared works).
-- People who are both co-authors and co-inventors: 5.
+- People who are both co-authors and co-inventors: 11.
