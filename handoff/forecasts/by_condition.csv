@@ -1,0 +1,40 @@
+field,option,discovery,people,p_control,rank_control,p_cards_as_context,rank_cards_as_context,p_cards_one_main_source,rank_cards_one_main_source,p_cards_main_evidence,rank_cards_main_evidence,p_control_min,p_control_max
+medicine,1,for the discovery of glucagon-like peptide-1 and its development into therapies for diabetes and obesity,"Svetlana Mojsov, Jens Juul Holst, Lotte Bjerre Knudsen",0.20324,1,0.196465,1,0.110131,2,0.030288,10,0.175044,0.226333
+medicine,7,for their discovery of orexin and its role in the regulation of sleep and wakefulness,"Emmanuel Mignot, Masashi Yanagisawa, Luis de Lecea",0.120808,2,0.121218,2,0.116748,1,0.048168,7,0.112374,0.131061
+medicine,3,for the development of chimeric antigen receptor T-cell therapy,"Carl H. June, Michel Sadelain, Steven A. Rosenberg",0.059745,3,0.058819,4,0.086228,3,0.054754,6,0.05554,0.06513
+medicine,11,for the discovery of chaperone-mediated protein folding in cells,"Arthur L. Horwich, Franz-Ulrich Hartl",0.058277,4,0.051043,6,0.054097,6,0.041443,8,0.055452,0.063941
+medicine,4,for their discovery of the unfolded protein response,"Kazutoshi Mori, Peter Walter",0.058008,5,0.055339,5,0.034614,9,0.022138,12,0.05268,0.062655
+medicine,2,"for the development of optogenetics, a method to control the activity of genetically defined neurons with light","Karl Deisseroth, Peter Hegemann, Gero Miesenböck",0.055496,6,0.068295,3,0.07372,4,0.079003,1,0.044947,0.060617
+medicine,5,for the discovery of PCSK9 and its role in regulating LDL cholesterol metabolism,"Helen H. Hobbs, Nabil G. Seidah, Jonathan C. Cohen",0.029041,7,0.035165,7,0.040939,7,0.057075,5,0.022596,0.034094
+medicine,6,for their development of high-throughput next-generation DNA sequencing methods,"David Klenerman, Shankar Balasubramanian",0.02324,8,0.020329,11,0.010522,12,0.027836,11,0.015949,0.02758
+medicine,8,for their discoveries concerning the Wnt signaling pathway and its application in cultivating organoids,"Hans Clevers, Roel Nusse",0.022523,9,0.025952,8,0.05438,5,0.07659,2,0.02056,0.0245
+medicine,12,for the discovery of inherited susceptibility genes for breast and ovarian cancer,"Mary-Claire King, Mark H. Skolnick, Michael R. Stratton",0.022281,10,0.024245,9,0.026031,10,0.064259,3,0.016419,0.026469
+medicine,9,for the discovery of leptin and the hormonal regulation of body weight,"Jeffrey M. Friedman, Stephen O'Rahilly",0.019392,11,0.022174,10,0.035139,8,0.062112,4,0.016753,0.02395
+medicine,10,for the discovery of tumour necrosis factor as a therapeutic target in chronic inflammatory autoimmune disease,"Marc Feldmann, Ravinder N. Maini",0.01817,12,0.017124,12,0.017451,11,0.036334,9,0.016772,0.020085
+medicine,13,Other,,0.309778,,0.303833,,0.34,,0.4,,0.285001,0.350421
+physics,2,"for the invention and development of optical lattice clocks, enabling time and frequency measurements at unprecedented precision","Hidetoshi Katori, Jun Ye",0.147007,1,0.154406,1,0.093266,2,0.044801,7,0.138211,0.157189
+physics,1,for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect,"Charles L. Kane, Eugene J. Mele, Laurens W. Molenkamp",0.099631,2,0.093523,2,0.091567,4,0.062291,4,0.089431,0.110752
+physics,3,for the theoretical prediction and experimental realization of negative index metamaterials,"John B. Pendry, David R. Smith, Eli Yablonovitch",0.068652,3,0.071153,3,0.078049,5,0.080811,2,0.055702,0.079602
+physics,5,for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene,"Allan H. MacDonald, Pablo Jarillo-Herrero, Rafi Bistritzer",0.065208,4,0.068897,4,0.091733,3,0.069049,3,0.057466,0.073443
+physics,9,for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices,"Immanuel Bloch, J. Ignacio Cirac, Peter Zoller",0.053662,5,0.061995,5,0.127746,1,0.133477,1,0.04878,0.067546
+physics,6,"for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms","Charles H. Bennett, Gilles Brassard, Peter W. Shor",0.050728,6,0.046402,7,0.05418,6,0.052113,5,0.045973,0.06068
+physics,4,for the discovery of topological and geometric phases in quantum systems,"Michael V. Berry, Yakir Aharonov",0.047482,7,0.043455,8,0.027575,10,0.023573,10,0.03904,0.058239
+physics,11,"for the invention of aberration-corrected electron optics, enabling electron microscopy with sub-ångström resolution","Maximilian Haider, Knut Urban, Ondrej L. Krivanek",0.043373,8,0.054321,6,0.018806,11,0.015002,12,0.03448,0.052846
+physics,7,"for pioneering contributions to neutrino astronomy, in particular the discovery of high-energy cosmic neutrinos","Francis Halzen, Albrecht Karle, Naoko Kurahashi Neilson",0.037233,9,0.040662,9,0.030171,9,0.021034,11,0.030364,0.041761
+physics,10,for the invention of the quantum cascade laser,"Alfred Y. Cho, Federico Capasso, Jérôme Faist",0.024817,10,0.026296,10,0.042014,7,0.049868,6,0.02199,0.028455
+physics,8,for the observation of the shadow of a black hole by event-horizon-scale radio interferometry,"Heino Falcke, Sheperd S. Doeleman, Katherine L. Bouman",0.019051,11,0.021677,11,0.031317,8,0.034703,8,0.01626,0.023066
+physics,12,for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure,"Alan H. Guth, Andrei Linde, Viatcheslav Mukhanov",0.008453,12,0.006205,12,0.013576,12,0.033278,9,0.006221,0.010619
+physics,13,Other,,0.334702,,0.311009,,0.3,,0.38,,0.294136,0.365
+chemistry,2,for the development of massively parallel sequencing-by-synthesis of DNA,"David Klenerman, Shankar Balasubramanian, Pascal Mayer",0.19047,1,0.192267,1,0.100333,1,0.055088,5,0.183099,0.198684
+chemistry,1,for the development of controlled radical polymerization,"Krzysztof Matyjaszewski, Mitsuo Sawamoto, Ezio Rizzardo",0.06491,2,0.067331,2,0.054739,6,0.046125,6,0.055325,0.068506
+chemistry,6,for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids,"Pieter R. Cullis, Robert S. Langer, Kazunori Kataoka",0.06046,3,0.062775,3,0.084005,2,0.068616,3,0.054186,0.068201
+chemistry,3,for the discovery and development of solid-state perovskite solar cells,"Henry J. Snaith, Nam-Gyu Park, Tsutomu Miyasaka",0.058873,4,0.050493,6,0.068,3,0.075609,2,0.046682,0.077822
+chemistry,5,for the development of transition-metal-catalyzed C-H functionalization reactions,"John F. Hartwig, Jin-Quan Yu, Robert G. Bergman",0.056407,5,0.05063,4,0.042784,7,0.031455,11,0.053907,0.058917
+chemistry,4,for the development of phosphoramidite chemistry for automated DNA synthesis,"Marvin H. Caruthers, Serge L. Beaucage, Mark D. Matteucci",0.047236,6,0.040611,8,0.039536,8,0.043566,7,0.03893,0.053907
+chemistry,7,for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases,"Craig M. Crews, Raymond J. Deshaies, Stuart L. Schreiber",0.043971,7,0.0505,5,0.054984,5,0.043195,8,0.036124,0.049473
+chemistry,11,for the development of efficient organic light-emitting diodes,"Ching W. Tang, Steven A. Van Slyke, Mark E. Thompson",0.036675,8,0.040439,9,0.057036,4,0.094229,1,0.027663,0.049483
+chemistry,8,for the discovery of molecular chaperones that assist protein folding in the cell,"Arthur L. Horwich, F. Ulrich Hartl",0.035609,9,0.044872,7,0.031276,11,0.033452,10,0.032273,0.039341
+chemistry,10,for the development of ab initio molecular dynamics,"Michele Parrinello, Roberto Car",0.030503,10,0.027189,11,0.034714,10,0.038415,9,0.025157,0.038293
+chemistry,9,for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids,"David W. Deamer, Hagan Bayley, Daniel Branton",0.02435,11,0.028791,10,0.038708,9,0.059074,4,0.022578,0.026055
+chemistry,12,for the development of DNA origami and programmable self-assembly of DNA nanostructures,"Paul W. K. Rothemund, William M. Shih, Hao Yan",0.015026,12,0.012636,12,0.018885,12,0.031176,12,0.012882,0.019766
+chemistry,13,Other,,0.335508,,0.331467,,0.375,,0.38,,0.319874,0.345943
