@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Asymmetric Catalysis by Chiral Hydrogen‐Bond Donors" (2006): impact percentile 1.00, disruption percentile 0.04, Foundation share 0.39, cited by 9 inventions and 1 book.
 3. "Enantioselective epoxidation of unfunctionalized olefins catalyzed by salen manganese complexes" (1990): impact percentile 1.00, disruption percentile n/a, Foundation share n/a, cited by 53 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 10 of the person's 19 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 5,637,739 "Chiral catalysts and catalytic epoxidation catalyzed thereby" (filed 1992, granted 1997; assignee Research Corporation Technologies, Inc.): cited by 73 later US patents.
+2. US 5,663,393 "Chiral catalysts and epoxidation reactions" (filed 1995, granted 1997; assignee Research Corporation Technologies, Inc.): cited by 58 later US patents.
+3. US 5,665,890 "Stereoselective ring opening reactions" (filed 1995, granted 1997; assignee President and Fellows of Harvard College): cited by 66 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 989 (higher than 84 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 19 (higher than 72 % of the 61 Chemistry laureates of 2000-2025 at prize time).

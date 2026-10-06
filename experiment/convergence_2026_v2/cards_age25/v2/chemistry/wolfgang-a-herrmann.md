@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "N‐Heterocyclic Carbenes: Generation under Mild Conditions and Formation of Group 8–10 Transition Metal Complexes Relevant to Catalysis" (1996): impact percentile 0.99, disruption percentile 0.07, Foundation share 0.37, cited by 26 inventions and 0 books.
 3. "A Novel Class of Ruthenium Catalysts for Olefin Metathesis" (1998): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 2 inventions.
 
+## Patents tied to the discovery
+- About 11 of the person's 70 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 5,728,839 "Metal complexes with heterocycles carbenes" (filed 1995, granted 1998; assignee Hoechst GmbH): cited by 53 later US patents.
+2. US 6,635,768 "Alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands; use as highly active, selective catalysts for olefin metathesis" (filed 2000, granted 2003; assignee Degussa AG): cited by 52 later US patents.
+3. US 6,025,496 "Process for preparing heterocyclic carbenes" (filed 1998, granted 2000; assignee Celanese GmbH): cited by 24 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 598 (higher than 75 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 70 (higher than 95 % of the 61 Chemistry laureates of 2000-2025 at prize time).

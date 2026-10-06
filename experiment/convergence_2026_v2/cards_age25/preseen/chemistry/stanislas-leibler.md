@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Combinatorial Synthesis of Genetic Networks" (2002): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 24 inventions.
 3. "Simpson's Paradox in a Synthetic Microbial System" (2009): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 0 inventions.
 
+## Patents tied to the discovery
+- None of the person's 2 US utility patents (granted up to 2021, filed from age 25 on) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 216 (higher than 51 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 2 (higher than 31 % of the 61 Chemistry laureates of 2000-2025 at prize time).

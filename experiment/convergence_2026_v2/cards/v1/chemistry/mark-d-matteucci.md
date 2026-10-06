@@ -14,6 +14,11 @@ Prior Nobel Prize: none.
 2. "Current concepts in antisense drug design" (1993): impact percentile 1.00, disruption percentile n/a, Foundation share n/a, cited by 266 inventions and 0 books.
 3. "Antisense Gene Inhibition by Oligonucleotides Containing C-5 Propyne Pyrimidines" (1993): impact percentile 1.00, disruption percentile 0.94, Foundation share 0.39, cited by 93 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 7 of the person's 67 US utility patents (granted up to 2021) relate to the listed discovery; the 2 most tied to it:
+1. US 4,458,066 "Process for preparing polynucleotides" (filed 1981, granted 1984; assignee University Patents, Inc.): cited by 1,218 later US patents.
+2. US 4,500,707 "Nucleosides useful in the preparation of polynucleotides" (filed 1982, granted 1985; assignee University Patents, Inc.): cited by 607 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 5,076 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 67 (higher than 93 % of the 61 Chemistry laureates of 2000-2025 at prize time).

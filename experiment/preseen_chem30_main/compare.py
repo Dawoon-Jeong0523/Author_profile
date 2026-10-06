@@ -15,7 +15,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 OUT = HERE / "results"
-LISTS = ["v1", "v2", "preseen"]
+LISTS = ["v1", "v2", "preseen", "v2_control"]
 # Preseen option number -> v1 option number (same discovery), checked by hand 2026-10-06
 PRESEEN_TO_V1 = {1: 1, 2: 3, 3: 9, 4: 5, 5: 11, 6: 23, 7: 2, 11: 28, 12: 12, 14: 4, 16: 27, 17: 29, 18: 17, 21: 15,
                  24: 7, 28: 6, 30: 4}
@@ -29,14 +29,16 @@ def people(o):
     return o.split(" — ", 1)[1] if " — " in o else ""
 
 
-def load(lst):
+def load(lst, arm="main"):
     q = json.loads((HERE / "questions" / f"{lst}.json").read_text())
     runs = HERE / "preseen_exp" / lst / "runs.csv"
     if not runs.exists():
         return None
-    row = next(r for r in csv.DictReader(open(runs)) if r["status"] == "completed")
+    row = next((r for r in csv.DictReader(open(runs)) if r["status"] == "completed" and r["arm"] == arm), None)
+    if row is None:
+        return None
     p = json.loads(row["forecast_data"])["payload"]["probabilities"]
-    run = json.loads(next((HERE / "preseen_exp" / lst / "runs").glob("*.json")).read_text())
+    run = json.loads(next((HERE / "preseen_exp" / lst / "runs").glob(f"{arm}_*.json")).read_text())
     return {"options": q["options"], "p": [p[o] for o in q["options"]], "write_up": run["forecast"]["write_up"],
             "started": row["created_at"], "finished": row["finished_at"]}
 
@@ -63,7 +65,8 @@ def entropy(p):
 
 def main():
     OUT.mkdir(exist_ok=True)
-    R = {l: load(l) for l in LISTS}
+    R = {l: load(l) for l in LISTS[:3]}
+    R["v2_control"] = load("v2", "control")
     done = [l for l in LISTS if R[l]]
     v1 = R["v1"]
     rows = []
@@ -74,6 +77,8 @@ def main():
             j = next(k for k, x in enumerate(R["v2"]["options"]) if disc(x) == d or
                      (i == 5 and "electron transfer in proteins" in x))
             row.update(v2_people=people(R["v2"]["options"][j]), v2_p=R["v2"]["p"][j])
+            if R["v2_control"]:
+                row["v2ctl_p"] = R["v2_control"]["p"][j]
         if R["preseen"]:
             ks = [k for k, v in PRESEEN_TO_V1.items() if v == i]
             if ks:
@@ -86,7 +91,7 @@ def main():
                 rows.append({"discovery": disc(o), "pre_n": k, "pre_people": people(o), "pre_p": R["preseen"]["p"][k - 1]})
     key = "v2_p" if R["v2"] else "v1_p"
     rows.sort(key=lambda r: -(r.get(key) if r.get(key) is not None else -1 + r.get("pre_p", 0)))
-    cols = ["discovery", "v1_n", "v1_people", "v1_p", "v2_people", "v2_p", "pre_n", "pre_people", "pre_p"]
+    cols = ["discovery", "v1_n", "v1_people", "v1_p", "v2_people", "v2_p", "v2ctl_p", "pre_n", "pre_people", "pre_p"]
     with open(OUT / "compare.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=cols)
         w.writeheader()
@@ -111,10 +116,16 @@ def main():
                f"discoveries; v1 vs Preseen on the {len(sh)} shared discoveries: Spearman "
                f"{spearman([r['v1_p'] for r in sh], [r['pre_p'] for r in sh]):.2f}"
                + (f", v2 vs Preseen {spearman([r['v2_p'] for r in sh], [r['pre_p'] for r in sh]):.2f}" if R["v2"] else "")]
-    md += ["", "| Discovery | v1 | v2 | Preseen list |", "|---|---:|---:|---:|"]
+    if R["v2_control"]:
+        a = [r["v2ctl_p"] for r in rows if "v2ctl_p" in r]
+        b = [r["v2_p"] for r in rows if "v2ctl_p" in r]
+        c = [r["v1_p"] for r in rows if "v2ctl_p" in r]
+        md += [f"- v2 control (same question, no notes) vs v2 main: Spearman {spearman(a, b):.2f}, mean |diff| "
+               f"{100 * sum(abs(x - y) for x, y in zip(a, b)) / len(a):.2f} pp; vs v1 main: Spearman {spearman(a, c):.2f}"]
+    md += ["", "| Discovery | v1 | v2 | v2 control | Preseen list |", "|---|---:|---:|---:|---:|"]
     f = lambda x: "" if x is None or x == "" else f"{100 * x:.1f}"
     for r in rows:
-        md.append(f"| {r['discovery'][:80]} | {f(r.get('v1_p'))} | {f(r.get('v2_p'))} | {f(r.get('pre_p'))} |")
+        md.append(f"| {r['discovery'][:80]} | {f(r.get('v1_p'))} | {f(r.get('v2_p'))} | {f(r.get('v2ctl_p'))} | {f(r.get('pre_p'))} |")
     (OUT / "compare.md").write_text("\n".join(md) + "\n", encoding="utf-8")
     for l in done:
         (OUT / f"write_up_{l}.md").write_text(R[l]["write_up"], encoding="utf-8")

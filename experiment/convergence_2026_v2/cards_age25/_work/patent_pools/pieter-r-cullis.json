@@ -1,0 +1,554 @@
+{
+ "person": "Pieter R. Cullis",
+ "options": [
+  "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis",
+  "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis, Robert S. Langer, Kazunori Kataoka"
+ ],
+ "birth_year": 1946,
+ "patents": [
+  {
+   "patent_id": "5595756",
+   "title": "Liposomal compositions for enhanced retention of bioactive agents",
+   "filing_year": 1993,
+   "grant_year": 1997,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 623
+  },
+  {
+   "patent_id": "5976567",
+   "title": "Lipid-nucleic acid particles prepared via a hydrophobic lipid-nucleic acid complex intermediate and use for gene transfer",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 349
+  },
+  {
+   "patent_id": "6815432",
+   "title": "Methods for encapsulating plasmids in lipid bilayers",
+   "filing_year": 2003,
+   "grant_year": 2004,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 308
+  },
+  {
+   "patent_id": "5981501",
+   "title": "Methods for encapsulating plasmids in lipid bilayers",
+   "filing_year": 1995,
+   "grant_year": 1999,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 270
+  },
+  {
+   "patent_id": "5885613",
+   "title": "Bilayer stabilizing components and their use in forming programmable fusogenic liposomes",
+   "filing_year": 1995,
+   "grant_year": 1999,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 252
+  },
+  {
+   "patent_id": "5008050",
+   "title": "Extrusion technique for producing unilamellar vesicles",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 239
+  },
+  {
+   "patent_id": "6534484",
+   "title": "Methods for encapsulating plasmids in lipid bilayers",
+   "filing_year": 1999,
+   "grant_year": 2003,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 227
+  },
+  {
+   "patent_id": "5204112",
+   "title": "Induction of asymmetry in vesicles",
+   "filing_year": 1987,
+   "grant_year": 1993,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 220
+  },
+  {
+   "patent_id": "7422902",
+   "title": "Lipid-nucleic acid particles prepared via a hydrophobic lipid-nucleic acid complex intermediate and use for gene transfer",
+   "filing_year": 1999,
+   "grant_year": 2008,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 214
+  },
+  {
+   "patent_id": "4880635",
+   "title": "Dehydrated liposomes",
+   "filing_year": 1985,
+   "grant_year": 1989,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 205
+  },
+  {
+   "patent_id": "5077056",
+   "title": "Encapsulation of antineoplastic agents in liposomes",
+   "filing_year": 1988,
+   "grant_year": 1991,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 204
+  },
+  {
+   "patent_id": "6586410",
+   "title": "Lipid-nucleic acid particles prepared via a hydrophobic lipid-nucleic acid complex intermediate and use for gene transfer",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 189
+  },
+  {
+   "patent_id": "6858225",
+   "title": "Lipid-encapsulated polyanionic nucleic acid",
+   "filing_year": 2001,
+   "grant_year": 2005,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 188
+  },
+  {
+   "patent_id": "5399331",
+   "title": "Method for protein-liposome coupling",
+   "filing_year": 1992,
+   "grant_year": 1995,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 166
+  },
+  {
+   "patent_id": "5552155",
+   "title": "Fusogenic lipsomes and methods for making and using same",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 142
+  },
+  {
+   "patent_id": "6287591",
+   "title": "Charged therapeutic agents encapsulated in lipid particles containing four lipid components",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 127
+  },
+  {
+   "patent_id": "4975282",
+   "title": "Multilamellar liposomes having improved trapping efficiencies",
+   "filing_year": 1987,
+   "grant_year": 1990,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 126
+  },
+  {
+   "patent_id": "6835395",
+   "title": "Composition containing small multilamellar oligodeoxynucleotide-containing lipid vesicles",
+   "filing_year": 2000,
+   "grant_year": 2004,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 113
+  },
+  {
+   "patent_id": "5059421",
+   "title": "Preparation of targeted liposome systems of a defined size distribution",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 112
+  },
+  {
+   "patent_id": "5837282",
+   "title": "Ionophore-mediated liposome loading",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 105
+  },
+  {
+   "patent_id": "5736155",
+   "title": "Encapsulation of antineoplastic agents in liposomes",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 102
+  },
+  {
+   "patent_id": "7341738",
+   "title": "Lipid-encapsulated polyanionic nucleic acid",
+   "filing_year": 2003,
+   "grant_year": 2008,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 89
+  },
+  {
+   "patent_id": "5785987",
+   "title": "Method for loading lipid vesicles",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 84
+  },
+  {
+   "patent_id": "5795589",
+   "title": "Liposomal antineoplastic agent compositions",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 80
+  },
+  {
+   "patent_id": "6759057",
+   "title": "Methods and compositions using liposome-encapsulated non-steroidal anti-inflammatory drugs",
+   "filing_year": 1989,
+   "grant_year": 2004,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 80
+  },
+  {
+   "patent_id": "5409704",
+   "title": "Liposomes comprising aminoglycoside phosphates and methods of production and use",
+   "filing_year": 1993,
+   "grant_year": 1995,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "6417326",
+   "title": "Fusogenic liposomes",
+   "filing_year": 1997,
+   "grant_year": 2002,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "9139554",
+   "title": "Amino lipids and methods for the delivery of nucleic acids",
+   "filing_year": 2009,
+   "grant_year": 2015,
+   "assignee": "Tekmira Pharmaceuticals Corporation",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "7811602",
+   "title": "Liposomal formulations comprising dihydrosphingomyelin and methods of use thereof",
+   "filing_year": 2005,
+   "grant_year": 2010,
+   "assignee": "Tekmira Pharmaceuticals Corporation",
+   "cited_by_patents": 66
+  },
+  {
+   "patent_id": "6406713",
+   "title": "Methods of preparing low-toxicity drug-lipid complexes",
+   "filing_year": 1995,
+   "grant_year": 2002,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 62
+  },
+  {
+   "patent_id": "8021686",
+   "title": "Lipid-encapsulated polyanionic nucleic acid",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 59
+  },
+  {
+   "patent_id": "5616334",
+   "title": "Low toxicity drug-lipid systems",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 58
+  },
+  {
+   "patent_id": "4885172",
+   "title": "Composition for targeting, storing and loading of liposomes",
+   "filing_year": 1986,
+   "grant_year": 1989,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 57
+  },
+  {
+   "patent_id": "5922350",
+   "title": "Methods of dehydrating, storing and rehydrating liposomes",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 57
+  },
+  {
+   "patent_id": "5616341",
+   "title": "High drug:lipid formulations of liposomal antineoplastic agents",
+   "filing_year": 1993,
+   "grant_year": 1997,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "5578320",
+   "title": "Method of dehydrating liposomes using protective sugars",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 46
+  },
+  {
+   "patent_id": "6734171",
+   "title": "Methods for encapsulating nucleic acids in lipid bilayers",
+   "filing_year": 1998,
+   "grant_year": 2004,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 44
+  },
+  {
+   "patent_id": "5252263",
+   "title": "Induction of asymmetry in vesicles",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 43
+  },
+  {
+   "patent_id": "5837279",
+   "title": "Encapsulation of ionizable agents in liposomes",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "The Lipsome Company, Inc.",
+   "cited_by_patents": 38
+  },
+  {
+   "patent_id": "5171578",
+   "title": "Composition for targeting, storing and loading of liposomes",
+   "filing_year": 1991,
+   "grant_year": 1992,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 28
+  },
+  {
+   "patent_id": "6852334",
+   "title": "Cationic peg-lipids and methods of use",
+   "filing_year": 2000,
+   "grant_year": 2005,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 28
+  },
+  {
+   "patent_id": "9758795",
+   "title": "Nucleic acid-containing lipid particles and related methods",
+   "filing_year": 2012,
+   "grant_year": 2017,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "5376452",
+   "title": "Induction of asymmetry in vesicles",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 19
+  },
+  {
+   "patent_id": "7094423",
+   "title": "Methods for preparation of lipid-encapsulated therapeutic agents",
+   "filing_year": 2000,
+   "grant_year": 2006,
+   "assignee": "Inex Pharmaceuticals Corporation",
+   "cited_by_patents": 19
+  },
+  {
+   "patent_id": "10653780",
+   "title": "Amino lipids and methods for the delivery of nucleic acids",
+   "filing_year": 2015,
+   "grant_year": 2020,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5800833",
+   "title": "Method for loading lipid vesicles",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5525232",
+   "title": "Method for entrapment of cationic species in lemellar vesicles",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "6083530",
+   "title": "High drug:lipid formulations of liposomal-antineoplastic agents",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "7273620",
+   "title": "Triggered release of liposomal drugs following mixing of cationic and anionic liposomes",
+   "filing_year": 2003,
+   "grant_year": 2007,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "5380531",
+   "title": "Accumulations of amino acids and peptides into liposomes",
+   "filing_year": 1992,
+   "grant_year": 1995,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "7189705",
+   "title": "Methods of enhancing SPLP-mediated transfection using endosomal membrane destabilizers",
+   "filing_year": 2001,
+   "grant_year": 2007,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "10041091",
+   "title": "Nucleic acid-containing lipid particles and related methods",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "5744158",
+   "title": "Methods of treatment using high drug-lipid formulations of liposomal-antineoplastic agents",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "5780054",
+   "title": "Methods for increasing the circulation half-life of protein-based therapeutics",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "6673364",
+   "title": "Liposome having an exchangeable component",
+   "filing_year": 1998,
+   "grant_year": 2004,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "9943846",
+   "title": "Limit size lipid nanoparticles and related methods",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "7223887",
+   "title": "Multivalent cationic lipids and methods of using same in the production of lipid particles",
+   "filing_year": 2002,
+   "grant_year": 2007,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "4923854",
+   "title": "Solubilization of hydrophobic materials using lysophospholipid",
+   "filing_year": 1986,
+   "grant_year": 1990,
+   "assignee": "The Liposome Company, Inc.",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "7205273",
+   "title": "Fusogenic liposomes",
+   "filing_year": 2002,
+   "grant_year": 2007,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10843194",
+   "title": "Microfluidic mixing devices and systems",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10342760",
+   "title": "Lipid nanoparticles for transfection and related methods",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8545877",
+   "title": "Modified drugs for use in liposomal nanoparticles",
+   "filing_year": 2013,
+   "grant_year": 2013,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10780174",
+   "title": "Lipid-linked prodrugs",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8324410",
+   "title": "Modified drugs for use in liposomal nanoparticles",
+   "filing_year": 2012,
+   "grant_year": 2012,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8545876",
+   "title": "Modified drugs for use in liposomal nanoparticles",
+   "filing_year": 2013,
+   "grant_year": 2013,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8568772",
+   "title": "Modified drugs for use in liposomal nanoparticles",
+   "filing_year": 2013,
+   "grant_year": 2013,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8790691",
+   "title": "Modified drugs for use in liposomal nanoparticles",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9968554",
+   "title": "Modified drugs for use in liposomal nanoparticles",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "THE UNIVERSITY OF BRITISH COLUMBIA",
+   "cited_by_patents": 0
+  }
+ ]
+}

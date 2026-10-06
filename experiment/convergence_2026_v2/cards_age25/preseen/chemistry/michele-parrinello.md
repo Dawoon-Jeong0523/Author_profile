@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Structural, Dymanical, and Electronic Properties of Amorphous Silicon: Anab initioMolecular-Dynamics Study" (1988): impact percentile 1.00, disruption percentile 0.10, Foundation share 0.45, cited by 0 inventions and 0 books.
 3. "The nature of the hydrated excess proton in water" (1999): impact percentile 1.00, disruption percentile 0.26, Foundation share 0.42, cited by 0 inventions and 3 books.
 
+## Patents tied to the discovery
+- None of the person's 1 US utility patents (granted up to 2021, filed from age 25 on) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 144 (higher than 39 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 1 (higher than 24 % of the 61 Chemistry laureates of 2000-2025 at prize time).

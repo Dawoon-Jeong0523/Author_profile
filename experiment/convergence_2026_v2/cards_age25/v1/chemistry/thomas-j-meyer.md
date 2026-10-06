@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Proton-Coupled Electron Transfer" (2007): impact percentile 1.00, disruption percentile 0.11, Foundation share 0.44, cited by 3 inventions and 1 book.
 3. "Concerted O atom–proton transfer in the O—O bond forming step in water oxidation" (2010): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 3 inventions.
 
+## Patents tied to the discovery
+- About 4 of the person's 9 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the one most tied to it:
+1. US 8,524,903 "Ruthenium or osmium complexes and their uses as catalysts for water oxidation" (filed 2010, granted 2013; assignee THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL): cited by 2 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 573 (higher than 72 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 9 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).

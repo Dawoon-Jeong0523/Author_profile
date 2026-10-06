@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Induced protein degradation: an emerging drug discovery paradigm" (2016): impact percentile 1.00, disruption percentile 0.10, Foundation share 0.45, cited by 74 inventions and 0 books.
 3. "Catalytic in vivo protein knockdown by small-molecule PROTACs" (2015): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.82, cited by 156 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 16 of the person's 23 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 7,041,298 "Proteolysis targeting chimeric pharmaceutical" (filed 2001, granted 2006; assignee California Institute of Technology): cited by 142 later US patents.
+2. US 10,730,862 "Compounds and methods for the enhanced degradation of targeted proteins and other polypeptides by an E3 ubiquitin ligase" (filed 2013, granted 2020; assignee Yale University): cited by 8 later US patents.
+3. US 10,730,870 "Compounds and methods for the enhanced degradation of targeted proteins" (filed 2016, granted 2020; assignee Arvinas Operations, Inc.): cited by 20 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 1,348 (higher than 90 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 23 (higher than 79 % of the 61 Chemistry laureates of 2000-2025 at prize time).

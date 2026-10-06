@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Accurate and simple analytic representation of the electron-gas correlation energy" (1992): impact percentile 1.00, disruption percentile 0.12, Foundation share 0.49, cited by 50 inventions and 21 books.
 3. "Atoms, molecules, solids, and surfaces: Applications of the generalized gradient approximation for exchange and correlation" (1992): impact percentile 1.00, disruption percentile 0.08, Foundation share 0.32, cited by 14 inventions and 10 books.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021).
+
 ## Technological translation
 - Distinct citing inventions: 342 (higher than 62 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Long-Range Electron Transfer in Heme Proteins" (1986): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 6 inventions.
 3. "Electron-Tunneling Pathways in Cytochrome c" (1992): impact percentile 0.99, disruption percentile 0.06, Foundation share 0.26, cited by 0 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 1 of the person's 22 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the one most tied to it:
+1. US 7,105,310 "Detection of biomolecules by sensitizer-linked substrates" (filed 2000, granted 2006; assignee California Institute of Technology): cited by 17 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 420 (higher than 67 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 22 (higher than 77 % of the 61 Chemistry laureates of 2000-2025 at prize time).

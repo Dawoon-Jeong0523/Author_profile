@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Adsorption of bifunctional organic disulfides on gold surfaces" (1983): impact percentile 0.96, disruption percentile n/a, Foundation share n/a, cited by 115 inventions and 3 books.
 3. "Comparison of the structures and wetting properties of self-assembled monolayers of n-alkanethiols on the coinage metal surfaces, copper, silver, and gold" (1991): impact percentile 1.00, disruption percentile 0.95, Foundation share 0.38, cited by 55 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 2 of the person's 6 US utility patents (granted up to 2021) relate to the listed discovery; the one most tied to it:
+1. US 4,690,715 "Modification of the properties of metals" (filed 1982, granted 1987; assignee American Telephone and Telegraph Company, AT&T Bell Laboratories): cited by 70 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 770 (higher than 80 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 6 (higher than 51 % of the 61 Chemistry laureates of 2000-2025 at prize time).

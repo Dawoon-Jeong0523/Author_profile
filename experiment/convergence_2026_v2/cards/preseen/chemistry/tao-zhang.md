@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Single-Atom Catalysts: A New Frontier in Heterogeneous Catalysis" (2013): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.61, cited by 2 inventions and 2 books.
 3. "Heterogeneous single-atom catalysis" (2018): impact percentile 1.00, disruption percentile 0.00, Foundation share 0.59, cited by 1 invention and 1 book.
 
+## Patents tied to the discovery
+- About 1 of the person's 50 US utility patents (granted up to 2021) relate to the listed discovery; the one most tied to it:
+1. US 11,105,009 "Graphene material inlaid with single metal atoms and preparing method and application thereof" (filed 2017, granted 2021; assignee DALIAN INSTITUTE OF CHEMICAL PHYSICS, CHINESE ACADEMY OF SCIENCES): cited by 1 later US patent.
+
 ## Technological translation
 - Distinct citing inventions: 206 (higher than 51 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 50 (higher than 88 % of the 61 Chemistry laureates of 2000-2025 at prize time).

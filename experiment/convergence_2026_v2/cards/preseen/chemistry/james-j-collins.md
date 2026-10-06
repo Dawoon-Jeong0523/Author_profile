@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "A practical method for calculating largest Lyapunov exponents from small data sets" (1993): impact percentile 0.99, disruption percentile 0.33, Foundation share 0.03, cited by 7 inventions and 7 books.
 3. "A Common Mechanism of Cellular Death Induced by Bactericidal Antibiotics" (2007): impact percentile 1.00, disruption percentile 0.95, Foundation share 0.52, cited by 55 inventions and 3 books.
 
+## Patents tied to the discovery
+- About 17 of the person's 45 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,841,376 "Bistable genetic toggle switch" (filed 2001, granted 2005; assignee Cellicon Technologies, Inc.): cited by 3 later US patents.
+2. US 6,737,269 "Multi-state genetic oscillator" (filed 2001, granted 2004; assignee Trustees of Boston University): cited by 3 later US patents.
+3. US 6,828,140 "Adjustable threshold switch" (filed 2001, granted 2004; assignee Cellicon Technologies, Inc.): cited by 4 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,137 (higher than 93 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 45 (higher than 87 % of the 61 Chemistry laureates of 2000-2025 at prize time).

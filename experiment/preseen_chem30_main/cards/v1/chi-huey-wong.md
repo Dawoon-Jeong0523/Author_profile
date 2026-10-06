@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Recognition of bacterial glycosphingolipids by natural killer T cells" (2005): impact percentile 1.00, disruption percentile 0.00, Foundation share 0.60, cited by 29 inventions and 1 book.
 3. "Enzymes for chemical synthesis" (2001): impact percentile 1.00, disruption percentile 0.35, Foundation share 0.24, cited by 116 inventions and 10 books.
 
+## Patents tied to the discovery
+- About 45 of the person's 157 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,538,117 "Programmable one-pot oligosaccharide synthesis" (filed 2001, granted 2003; assignee The Scripps Research Institute): cited by 7 later US patents.
+2. US 5,278,299 "Method and composition for synthesizing sialylated glycosyl compounds" (filed 1991, granted 1994; assignee Scripps Clinic and Research Foundation): cited by 106 later US patents.
+3. US 5,369,017 "Process for solid phase glycopeptide synthesis" (filed 1994, granted 1994; assignee The Scripps Research Institute): cited by 90 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,845 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 157 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).

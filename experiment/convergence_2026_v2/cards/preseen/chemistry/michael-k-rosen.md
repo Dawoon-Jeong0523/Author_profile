@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Phase transitions in the assembly of multivalent signalling proteins" (2012): impact percentile 1.00, disruption percentile 0.96, Foundation share 0.76, cited by 25 inventions and 2 books.
 3. "Formation and Maturation of Phase-Separated Liquid Droplets by RNA-Binding Proteins" (2015): impact percentile 1.00, disruption percentile 0.00, Foundation share 0.75, cited by 31 inventions and 1 book.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021).
+
 ## Technological translation
 - Distinct citing inventions: 190 (higher than 45 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

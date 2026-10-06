@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Synthesis of New, Nanoporous Carbon with Hexagonally Ordered Mesostructure" (2000): impact percentile 1.00, disruption percentile 0.05, Foundation share 0.68, cited by 43 inventions and 2 books.
 3. "Ordered nanoporous arrays of carbon supporting high dispersions of platinum nanoparticles" (2001): impact percentile 1.00, disruption percentile 0.14, Foundation share 0.58, cited by 57 inventions and 3 books.
 
+## Patents tied to the discovery
+- About 5 of the person's 5 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 5,942,208 "Mesoporous molecular sieve substance and method for preparing the same" (filed 1997, granted 1999; assignee Yukong Limited): cited by 10 later US patents.
+2. US 5,958,368 "Noncrystalline mesoporous molecular sieve substance and method for preparing the same" (filed 1997, granted 1999; assignee Yukong Limited): cited by 21 later US patents.
+3. US 6,585,948 "Carbon molecular sieve material with structural regularity, method for preparing the same and use thereof" (filed 2000, granted 2003; assignee Korea Advanced Institute of Science): cited by 43 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 385 (higher than 66 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 5 (higher than 49 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Activation of carbon-hydrogen bonds in saturated hydrocarbons on photolysis of (.eta.5-C5Me5)(PMe3)IrH2. Relative rates of reaction of the intermediate with different types of carbon-hydrogen bonds and functionalization of the metal-bound alkyl groups" (1983): impact percentile 1.00, disruption percentile n/a, Foundation share n/a, cited by 3 inventions and 0 books.
 3. "Annulation of Aromatic Imines via Directed C−H Activation with Wilkinson's Catalyst" (2001): impact percentile 0.99, disruption percentile 0.29, Foundation share 0.58, cited by 0 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 3 of the person's 8 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 4,511,745 "Process for functionalizing alkanes" (filed 1984, granted 1985; assignee United States Department of Energy): cited by 5 later US patents.
+2. US 4,849,534 "Hydridomethyl iridium complex" (filed 1985, granted 1989): cited by 2 later US patents.
+3. US 4,746,760 "Process for functionalizing alkanes" (filed 1985, granted 1988; assignee Chevron Research Company): cited by 2 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 300 (higher than 57 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 8 (higher than 57 % of the 61 Chemistry laureates of 2000-2025 at prize time).

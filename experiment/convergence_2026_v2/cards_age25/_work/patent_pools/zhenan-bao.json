@@ -1,0 +1,825 @@
+{
+ "person": "Zhenan Bao",
+ "options": [
+  "for the development of flexible organic electronics and electronic skin — Zhenan Bao"
+ ],
+ "birth_year": 1970,
+ "patents": [
+  {
+   "patent_id": "6150668",
+   "title": "Thin-film transistor monolithically integrated with an organic light-emitting diode",
+   "filing_year": 1999,
+   "grant_year": 2000,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 218
+  },
+  {
+   "patent_id": "6107117",
+   "title": "Method of making an organic thin film transistor",
+   "filing_year": 1996,
+   "grant_year": 2000,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 152
+  },
+  {
+   "patent_id": "6665127",
+   "title": "Method and apparatus for aligning a photo-tunable microlens",
+   "filing_year": 2002,
+   "grant_year": 2003,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 98
+  },
+  {
+   "patent_id": "5969376",
+   "title": "Organic thin film transistor having a phthalocyanine semiconductor layer",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 72
+  },
+  {
+   "patent_id": "6452207",
+   "title": "Organic semiconductor devices",
+   "filing_year": 2001,
+   "grant_year": 2002,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 51
+  },
+  {
+   "patent_id": "6150191",
+   "title": "Method of making an organic thin film transistor and article made by the method",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 50
+  },
+  {
+   "patent_id": "6596569",
+   "title": "Thin film transistors",
+   "filing_year": 2002,
+   "grant_year": 2003,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 46
+  },
+  {
+   "patent_id": "6322736",
+   "title": "Method for fabricating molded microstructures on substrates",
+   "filing_year": 1999,
+   "grant_year": 2001,
+   "assignee": "Agere Systems Inc.",
+   "cited_by_patents": 42
+  },
+  {
+   "patent_id": "6891237",
+   "title": "Organic semiconductor device having an active dielectric layer comprising silsesquioxanes",
+   "filing_year": 2000,
+   "grant_year": 2005,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 40
+  },
+  {
+   "patent_id": "6736985",
+   "title": "High-resolution method for patterning a substrate with micro-printing",
+   "filing_year": 1999,
+   "grant_year": 2004,
+   "assignee": "Agere Systems Inc.",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "6252253",
+   "title": "Patterned light emitting diode devices",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "Agere Systems Optoelectronics Guardian Corporation",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "6589629",
+   "title": "Process for fabricating patterned, functionalized particles and article formed from particles",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "9112058",
+   "title": "Interface apparatus and methods",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 32
+  },
+  {
+   "patent_id": "6575013",
+   "title": "Electronic odor sensor",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 27
+  },
+  {
+   "patent_id": "7338835",
+   "title": "OFETs with active channels formed of densified layers",
+   "filing_year": 2005,
+   "grant_year": 2008,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "6033202",
+   "title": "Mold for non - photolithographic fabrication of microstructures",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "6555411",
+   "title": "Thin film transistors",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "6489044",
+   "title": "Process for fabricating polarized organic photonics devices, and resultant articles",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "7910736",
+   "title": "Method for producing organic field-effect transistors",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "BASF SE",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "9625330",
+   "title": "Methods and apparatus concerning multi-tactile sensitive (E-skin) pressure sensors",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 19
+  },
+  {
+   "patent_id": "7439096",
+   "title": "Semiconductor device encapsulation",
+   "filing_year": 2001,
+   "grant_year": 2008,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "9281415",
+   "title": "Pressure sensing apparatuses and methods",
+   "filing_year": 2011,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "6429040",
+   "title": "Device comprising a bipolar semi-conducting film",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "Agere Systems Guardian Corporation",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "9453774",
+   "title": "Surface area-based pressure sensing",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "10037098",
+   "title": "Methods and apparatus concerning sensitive force sensors",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "7122828",
+   "title": "Semiconductor devices having regions of induced high and low conductivity, and methods of making the same",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "7189663",
+   "title": "Organic semiconductor device having an active dielectric layer comprising silsesquioxanes",
+   "filing_year": 2005,
+   "grant_year": 2007,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "10722174",
+   "title": "Skin-conformal sensors",
+   "filing_year": 2015,
+   "grant_year": 2020,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "6579564",
+   "title": "Process for fabricating polarized organic photonics devices",
+   "filing_year": 2002,
+   "grant_year": 2003,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "7115900",
+   "title": "Devices having patterned regions of polycrystalline organic semiconductors, and methods of making the same",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "10160835",
+   "title": "Self-healing polymers and applications thereof",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "6885024",
+   "title": "Devices with organic crystallite active channels",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "6969634",
+   "title": "Semiconductor layers with roughness patterning",
+   "filing_year": 2003,
+   "grant_year": 2005,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "8119445",
+   "title": "Organic semiconductors and growth approaches therefor",
+   "filing_year": 2008,
+   "grant_year": 2012,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "8513804",
+   "title": "Nanotube-based electrodes",
+   "filing_year": 2010,
+   "grant_year": 2013,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "10545058",
+   "title": "Pressure sensing apparatuses and methods",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "6372532",
+   "title": "Method of manufacturing a patterned light emitting diode devices",
+   "filing_year": 2001,
+   "grant_year": 2002,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "6383665",
+   "title": "Polarizable photoactive and electroactive polymers and light emitting devices",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "6743988",
+   "title": "Optically controlled switches",
+   "filing_year": 2001,
+   "grant_year": 2004,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "7189987",
+   "title": "Electrical detection of selected species",
+   "filing_year": 2003,
+   "grant_year": 2007,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "7795145",
+   "title": "Patterning crystalline compounds on surfaces",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "BASF SE",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "7855121",
+   "title": "Method of forming organic thin film and method of manufacturing semiconductor device using the same",
+   "filing_year": 2009,
+   "grant_year": 2010,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8530271",
+   "title": "Fullerene-doped nanostructures and methods therefor",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9087995",
+   "title": "Fullerene-doped nanostructures and methods therefor",
+   "filing_year": 2013,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9212960",
+   "title": "Nanostructures with strain-induced resistance",
+   "filing_year": 2013,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9490045",
+   "title": "Self-healing composites and applications thereof",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9502152",
+   "title": "Method of selective separation of semiconducting carbon nanotubes, dispersion of semiconducting carbon nanotubes, and electronic device including carbon nanotubes separated by using the method",
+   "filing_year": 2011,
+   "grant_year": 2016,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9677952",
+   "title": "Interface apparatus and methods",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10050203",
+   "title": "Polymer and electronic device and organic thin film transistor including the same",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10177326",
+   "title": "Polymeric dielectrics, methods of manufacturing the same, and electronic devices and thin film transistors including the same",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "6582755",
+   "title": "Polarizable photoactive and electroactive polymers and light emitting devices",
+   "filing_year": 2002,
+   "grant_year": 2003,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "6770549",
+   "title": "Forming patterned thin film metal layers",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "7160754",
+   "title": "P-type OFET with fluorinated channels",
+   "filing_year": 2006,
+   "grant_year": 2007,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9133130",
+   "title": "n-Type doped organic materials and methods therefor",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9848775",
+   "title": "Passive and wireless pressure sensor",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10635868",
+   "title": "Sensor system using stretchable antenna",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10672987",
+   "title": "Polymer and electronic device and organic thin film transistor including the same",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10741766",
+   "title": "Organic semiconductor thin film and method of manufacturing the same and thin film transistor and electronic device",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10899908",
+   "title": "Self-healing composite and device including self-healing film",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7045470",
+   "title": "Methods of making thin dielectric layers on substrates",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7045814",
+   "title": "OFET structures with both n- and p-type channels",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7119356",
+   "title": "Forming closely spaced electrodes",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7470574",
+   "title": "OFET structures with both n- and p-type channels",
+   "filing_year": 2006,
+   "grant_year": 2008,
+   "assignee": "Alcatel-Lucent USA Inc.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7704784",
+   "title": "Semiconductor devices having regions of induced high and low conductivity, and methods of making the same",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8524525",
+   "title": "Joined nanostructures and methods therefor",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8866265",
+   "title": "Carbon-based semiconductors",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9040400",
+   "title": "Air-stable n-channel organic electronic devices",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9155996",
+   "title": "Sorbents for carbon dioxide capture",
+   "filing_year": 2014,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of Leland Stanford Junior University",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9520563",
+   "title": "Patterning of organic semiconductor materials",
+   "filing_year": 2008,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9608221",
+   "title": "Solar cell having organic nanowires",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9954191",
+   "title": "Polar elastomers for high performance electronic and optoelectronic devices",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10155876",
+   "title": "Methods and apparatus concerning solution shearing a transparent and conductive polymer film",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10355216",
+   "title": "Method of selective separation of semiconducting carbon nanotubes, dispersion of semiconducting carbon nanotubes, and electronic device including carbon nanotubes separated by using the method",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10388881",
+   "title": "Sorting of carbon nanotubes",
+   "filing_year": 2015,
+   "grant_year": 2019,
+   "assignee": "BASF SE",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10395804",
+   "title": "Isolating semiconducting single-walled nanotubes or metallic single-walled nanotubes and approaches therefor",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10431757",
+   "title": "Polar elastomers for high performance electronic and optoelectronic devices",
+   "filing_year": 2018,
+   "grant_year": 2019,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10601049",
+   "title": "High performance battery anodes with polymeric coatings including molecules cross-linked through dynamic bonds",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10858522",
+   "title": "Electrically conductive hydrogels with tunable properties",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10869392",
+   "title": "Flexible and self-healing elastomer-based modular electronics and applications thereof",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10889499",
+   "title": "Degradable conjugated polymers",
+   "filing_year": 2016,
+   "grant_year": 2021,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University, Office of the General Counsel",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10978735",
+   "title": "Stretchable polymer electrolyte, stretchable electrode, stretchable polymer, electrocheical device, and method of preparing stretchable polymer",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11001695",
+   "title": "Fast and reversible thermoresponsive polymer switching materials",
+   "filing_year": 2017,
+   "grant_year": 2021,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11048990",
+   "title": "Resonance-based inductive communication via frequency sweeping",
+   "filing_year": 2020,
+   "grant_year": 2021,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11053390",
+   "title": "Stretchable, tough, and self-healing elastomer and applications thereof",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11075348",
+   "title": "Thin film transistor and thin film transistor array and electronic device",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7057205",
+   "title": "P-type OFET with fluorinated channels",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "LUCENT TECHNOLOGIES INC.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7534646",
+   "title": "Method of fabricating an organic field transistor",
+   "filing_year": 2006,
+   "grant_year": 2009,
+   "assignee": "Alcatel-Lucent USA Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7569416",
+   "title": "Forming closely spaced electrodes",
+   "filing_year": 2006,
+   "grant_year": 2009,
+   "assignee": "Alcatel-Lucent USA Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7767998",
+   "title": "OFETs with active channels formed of densified layers",
+   "filing_year": 2003,
+   "grant_year": 2010,
+   "assignee": "Alcatel-Lucent USA Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7863603",
+   "title": "Cross-linked organic thin-film dielectrics",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8237155",
+   "title": "Selective nanotube formation and related devices",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8679984",
+   "title": "Method of manufacturing electric device, array of electric devices, and manufacturing method therefor",
+   "filing_year": 2011,
+   "grant_year": 2014,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8785763",
+   "title": "Joined nanostructures and methods therefor",
+   "filing_year": 2013,
+   "grant_year": 2014,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8957406",
+   "title": "Organic material-based graphitic material",
+   "filing_year": 2013,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9070881",
+   "title": "Method of manufacturing an organic semiconductor thin film",
+   "filing_year": 2014,
+   "grant_year": 2015,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9085458",
+   "title": "Selective nanotube formation and related devices",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9130171",
+   "title": "High-mobility structures, apparatuses and methods therefor",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9147845",
+   "title": "Single walled carbon nanotube-based planar photodector",
+   "filing_year": 2013,
+   "grant_year": 2015,
+   "assignee": "SAMSUNG DISPLAY CO., LTD.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9263524",
+   "title": "Semiconductor materials, apparatuses and methods",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9442087",
+   "title": "Organic thin-film transistor sensor arrangements",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9725557",
+   "title": "Conjugated polymer-based apparatuses, articles and compounds",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9863057",
+   "title": "Coated substrate apparatus and method",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "The Board of Trustees of the Leland Stanford Junior University",
+   "cited_by_patents": 0
+  }
+ ]
+}

@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Development of Protacs to Target Cancer-promoting Proteins for Ubiquitination and Degradation" (2003): impact percentile 0.93, disruption percentile 0.31, Foundation share 0.27, cited by 125 inventions and 1 book.
 3. "Chemical Genetic Control of Protein Levels: Selective in Vivo Targeted Degradation" (2004): impact percentile 0.94, disruption percentile 0.34, Foundation share 0.09, cited by 130 inventions and 1 book.
 
+## Patents tied to the discovery
+- About 1 of the person's 12 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the one most tied to it:
+1. US 7,041,298 "Proteolysis targeting chimeric pharmaceutical" (filed 2001, granted 2006; assignee California Institute of Technology): cited by 142 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 595 (higher than 75 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 12 (higher than 66 % of the 61 Chemistry laureates of 2000-2025 at prize time).

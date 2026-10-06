@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Improved free-energy parameters for predictions of RNA duplex stability." (1986): impact percentile 1.00, disruption percentile 0.47, Foundation share 0.34, cited by 873 inventions and 0 books.
 3. "Gene Synthesis Machines: DNA Chemistry and Its Uses" (1985): impact percentile 0.99, disruption percentile 0.90, Foundation share 0.18, cited by 644 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 42 of the person's 46 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 4,415,732 "Phosphoramidite compounds and processes" (filed 1981, granted 1983; assignee University Patents, Inc.): cited by 714 later US patents.
+2. US 4,458,066 "Process for preparing polynucleotides" (filed 1981, granted 1984; assignee University Patents, Inc.): cited by 1,218 later US patents.
+3. US 4,500,707 "Nucleosides useful in the preparation of polynucleotides" (filed 1982, granted 1985; assignee University Patents, Inc.): cited by 607 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 9,262 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 46 (higher than 87 % of the 61 Chemistry laureates of 2000-2025 at prize time).

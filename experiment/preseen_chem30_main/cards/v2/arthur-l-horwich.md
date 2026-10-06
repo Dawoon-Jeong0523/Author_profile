@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "The crystal structure of the bacterial chaperonln GroEL at 2.8 Å" (1994): impact percentile 1.00, disruption percentile 0.07, Foundation share 0.52, cited by 6 inventions and 2 books.
 3. "The crystal structure of the asymmetric GroEL–GroES–(ADP)7 chaperonin complex" (1997): impact percentile 1.00, disruption percentile 0.10, Foundation share 0.32, cited by 14 inventions and 3 books.
 
+## Patents tied to the discovery
+- About 3 of the person's 3 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,214,606 "Yeast heat shock protein 60 and analogs" (filed 1991, granted 2001): cited by 0 later US patents.
+2. US 5,428,131 "Archaebacterial chaperonin-mediated protein stabilization" (filed 1993, granted 1995; assignee Yale University): cited by 3 later US patents.
+3. US 5,776,724 "Chaperonin-mediated protein folding" (filed 1995, granted 1998; assignee Yale University): cited by 2 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 374 (higher than 65 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 3 (higher than 39 % of the 61 Chemistry laureates of 2000-2025 at prize time).

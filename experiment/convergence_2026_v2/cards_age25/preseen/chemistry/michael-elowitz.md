@@ -14,6 +14,11 @@ Prior Nobel Prize: none.
 2. "Combinatorial Synthesis of Genetic Networks" (2002): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 24 inventions.
 3. "Stochastic Gene Expression in a Single Cell" (2002): impact percentile 1.00, disruption percentile 0.93, Foundation share 0.67, cited by 29 inventions and 12 books.
 
+## Patents tied to the discovery
+- About 2 of the person's 2 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 2 most tied to it:
+1. US 10,527,631 "Compositions and methods for programmable sensing and control through combinatorial molecular interactions" (filed 2017, granted 2020; assignee California Institute of Technology): cited by 1 later US patent.
+2. US 10,899,823 "Programmable protein circuits in living cells" (filed 2019, granted 2021; assignee California Institute of Technology): cited by 3 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 299 (higher than 57 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 2 (higher than 31 % of the 61 Chemistry laureates of 2000-2025 at prize time).

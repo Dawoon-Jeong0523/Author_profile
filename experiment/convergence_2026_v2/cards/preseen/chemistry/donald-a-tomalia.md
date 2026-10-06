@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Starburst Dendrimers: Molecular‐Level Control of Size, Shape, Surface Chemistry, Topology, and Flexibility from Atoms to Macroscopic Matter" (1990): impact percentile 1.00, disruption percentile 0.40, Foundation share 0.47, cited by 294 inventions and 2 books.
 3. "Poly(amidoamine) (PAMAM) dendrimers: from biomimicry to drug delivery and biomedical applications" (2001): impact percentile 1.00, disruption percentile 0.08, Foundation share 0.34, cited by 73 inventions and 2 books.
 
+## Patents tied to the discovery
+- About 40 of the person's 69 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 4,507,466 "Dense star polymers having core, core branches, terminal groups" (filed 1983, granted 1985; assignee THE DOW CHEMICAL COMPANY): cited by 291 later US patents.
+2. US 4,558,120 "Dense star polymer" (filed 1983, granted 1985; assignee THE DOW CHEMICAL COMPANY): cited by 226 later US patents.
+3. US 4,568,737 "Dense star polymers and dendrimers" (filed 1984, granted 1986; assignee THE DOW CHEMICAL COMPANY): cited by 258 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 1,512 (higher than 92 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 69 (higher than 94 % of the 61 Chemistry laureates of 2000-2025 at prize time).

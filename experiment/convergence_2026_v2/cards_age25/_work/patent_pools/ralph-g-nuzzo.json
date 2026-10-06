@@ -1,0 +1,370 @@
+{
+ "person": "Ralph G. Nuzzo",
+ "options": [
+  "for the development of self-assembled monolayers on solid surfaces — David L. Allara, Ralph G. Nuzzo, George M. Whitesides",
+  "for the development of self-assembled monolayers — David L. Allara, Ralph G. Nuzzo, Jacob Sagiv"
+ ],
+ "birth_year": 1954,
+ "patents": [
+  {
+   "patent_id": "7622367",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2005,
+   "grant_year": 2009,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 866
+  },
+  {
+   "patent_id": "7972875",
+   "title": "Optical systems fabricated by printing-based assembly",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 561
+  },
+  {
+   "patent_id": "7799699",
+   "title": "Printable semiconductor structures and related methods of making and assembling",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 412
+  },
+  {
+   "patent_id": "7982296",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2009,
+   "grant_year": 2011,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 379
+  },
+  {
+   "patent_id": "7943491",
+   "title": "Pattern transfer printing by kinetic control of adhesion to an elastomeric stamp",
+   "filing_year": 2006,
+   "grant_year": 2011,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 350
+  },
+  {
+   "patent_id": "8440546",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 337
+  },
+  {
+   "patent_id": "8865489",
+   "title": "Printed assemblies of ultrathin, microscale inorganic light emitting diodes for deformable and semitransparent displays",
+   "filing_year": 2010,
+   "grant_year": 2014,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 334
+  },
+  {
+   "patent_id": "8722458",
+   "title": "Optical systems fabricated by printing-based assembly",
+   "filing_year": 2011,
+   "grant_year": 2014,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 328
+  },
+  {
+   "patent_id": "8664699",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2013,
+   "grant_year": 2014,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 324
+  },
+  {
+   "patent_id": "7932123",
+   "title": "Release strategies for making transferable semiconductor structures, devices and device components",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 318
+  },
+  {
+   "patent_id": "8039847",
+   "title": "Printable semiconductor structures and related methods of making and assembling",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 268
+  },
+  {
+   "patent_id": "8394706",
+   "title": "Printable semiconductor structures and related methods of making and assembling",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 221
+  },
+  {
+   "patent_id": "7662545",
+   "title": "Decal transfer lithography",
+   "filing_year": 2004,
+   "grant_year": 2010,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 218
+  },
+  {
+   "patent_id": "8895406",
+   "title": "Release strategies for making transferable semiconductor structures, devices and device components",
+   "filing_year": 2011,
+   "grant_year": 2014,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 206
+  },
+  {
+   "patent_id": "6518168",
+   "title": "Self-assembled monolayer directed patterning of surfaces",
+   "filing_year": 1998,
+   "grant_year": 2003,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 199
+  },
+  {
+   "patent_id": "8217381",
+   "title": "Controlled buckling structures in semiconductor interconnects and nanomembranes for stretchable electronics",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 169
+  },
+  {
+   "patent_id": "8729524",
+   "title": "Controlled buckling structures in semiconductor interconnects and nanomembranes for stretchable electronics",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 144
+  },
+  {
+   "patent_id": "8679888",
+   "title": "Arrays of ultrathin silicon solar microcells",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 130
+  },
+  {
+   "patent_id": "7705280",
+   "title": "Multispectral plasmonic crystal sensors",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 114
+  },
+  {
+   "patent_id": "9105782",
+   "title": "Arrays of ultrathin silicon solar microcells",
+   "filing_year": 2014,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 82
+  },
+  {
+   "patent_id": "9450043",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "4690715",
+   "title": "Modification of the properties of metals",
+   "filing_year": 1982,
+   "grant_year": 1987,
+   "assignee": "American Telephone and Telegraph Company, AT&T Bell Laboratories",
+   "cited_by_patents": 70
+  },
+  {
+   "patent_id": "9324733",
+   "title": "Controlled buckling structures in semiconductor interconnects and nanomembranes for stretchable electronics",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 66
+  },
+  {
+   "patent_id": "9117940",
+   "title": "Optical systems fabricated by printing-based assembly",
+   "filing_year": 2014,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 50
+  },
+  {
+   "patent_id": "9647171",
+   "title": "Printed assemblies of ultrathin, microscale inorganic light emitting diodes for deformable and semitransparent displays",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 44
+  },
+  {
+   "patent_id": "9761444",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "9768086",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "4579752",
+   "title": "Enhanced corrosion resistance of metal surfaces",
+   "filing_year": 1984,
+   "grant_year": 1986,
+   "assignee": "AT&T Bell Laboratories",
+   "cited_by_patents": 27
+  },
+  {
+   "patent_id": "7909971",
+   "title": "Microfluidic electrochemical reactors",
+   "filing_year": 2005,
+   "grant_year": 2011,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "6805809",
+   "title": "Decal transfer microfabrication",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "The Board of Regents of the University of Illinois",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "9349900",
+   "title": "Release strategies for making transferable semiconductor structures, devices and device components",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "9601671",
+   "title": "Optical systems fabricated by printing-based assembly",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "4507401",
+   "title": "Intermetallic catalyst preparation",
+   "filing_year": 1983,
+   "grant_year": 1985,
+   "assignee": "AT&T Bell Laboratories",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "10374072",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "8252191",
+   "title": "Sub-micron decal transfer lithography",
+   "filing_year": 2006,
+   "grant_year": 2012,
+   "assignee": "Dow Corning Corporation",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "4716050",
+   "title": "Chemical vapor deposition of aluminum on an activated surface",
+   "filing_year": 1986,
+   "grant_year": 1987,
+   "assignee": "American Telephone and Telegraph Company, AT&T Bell Laboratories",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "10355113",
+   "title": "Controlled buckling structures in semiconductor interconnects and nanomembranes for stretchable electronics",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10361180",
+   "title": "Optical systems fabricated by printing-based assembly",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "10424572",
+   "title": "Optical systems fabricated by printing-based assembly",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "10504882",
+   "title": "Optical systems fabricated by printing-based assembly",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "10546841",
+   "title": "Printed assemblies of ultrathin, microscale inorganic light emitting diodes for deformable and semitransparent displays",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "9045657",
+   "title": "Viscoelastic ink for direct writing of hydrogel structures",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "4612407",
+   "title": "Aliphatic aromatization with intemetallic Group VIII-IIIA, IVA catalyst",
+   "filing_year": 1986,
+   "grant_year": 1986,
+   "assignee": "AT&T Laboratories",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10073293",
+   "title": "Optical microcavity for a high-contrast display",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11088268",
+   "title": "Methods and devices for fabricating and assembling printable semiconductor elements",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "The Board of Trustees of the University of Illinois",
+   "cited_by_patents": 0
+  }
+ ]
+}

@@ -14,6 +14,11 @@ Prior Nobel Prize: none.
 2. "Empirical Statistical Model To Estimate the Accuracy of Peptide Identifications Made by MS/MS and Database Search" (2002): impact percentile 1.00, disruption percentile 0.27, Foundation share 0.77, cited by 196 inventions and 5 books.
 3. "A Statistical Model for Identifying Proteins by Tandem Mass Spectrometry" (2003): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.53, cited by 98 inventions and 4 books.
 
+## Patents tied to the discovery
+- About 2 of the person's 5 US utility patents (granted up to 2021) relate to the listed discovery; the 2 most tied to it:
+1. US 6,629,040 "Isotope distribution encoded tags for protein identification" (filed 2000, granted 2003; assignee University of Washington): cited by 211 later US patents.
+2. US 7,052,915 "Selective labeling and isolation of phosphopeptides and applications to proteome analysis" (filed 2001, granted 2006; assignee University of Washington): cited by 17 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 3,750 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 5 (higher than 48 % of the 61 Chemistry laureates of 2000-2025 at prize time).

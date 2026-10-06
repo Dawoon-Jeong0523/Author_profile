@@ -1,0 +1,4482 @@
+{
+ "person": "Robert S. Langer",
+ "options": [
+  "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis, Robert S. Langer, Kazunori Kataoka",
+  "for the development of polymer-based controlled drug delivery — Robert S. Langer"
+ ],
+ "birth_year": 1948,
+ "patents": [
+  {
+   "patent_id": "5814599",
+   "title": "Transdermal delivery of encapsulated drugs",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 763
+  },
+  {
+   "patent_id": "5543158",
+   "title": "Biodegradable injectable nanoparticles",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 696
+  },
+  {
+   "patent_id": "6388043",
+   "title": "Shape memory polymers",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "MNEMOSCIENCE GMBH",
+   "cited_by_patents": 665
+  },
+  {
+   "patent_id": "5797898",
+   "title": "Microchip drug delivery devices",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 662
+  },
+  {
+   "patent_id": "6241771",
+   "title": "Resorbable interbody spinal fusion devices",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "Cambridge Scientific, Inc.",
+   "cited_by_patents": 600
+  },
+  {
+   "patent_id": "6007845",
+   "title": "Nanoparticles and microparticles of non-linear hydrophilic-hydrophobic multiblock copolymers",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 572
+  },
+  {
+   "patent_id": "5985309",
+   "title": "Preparation of particles for inhalation",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 530
+  },
+  {
+   "patent_id": "6160084",
+   "title": "Biodegradable shape memory polymers",
+   "filing_year": 1999,
+   "grant_year": 2000,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 523
+  },
+  {
+   "patent_id": "5855913",
+   "title": "Particles incorporating surfactants for pulmonary drug delivery",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 512
+  },
+  {
+   "patent_id": "5458140",
+   "title": "Enhancement of transdermal monitoring applications with ultrasound and chemical enhancers",
+   "filing_year": 1993,
+   "grant_year": 1995,
+   "assignee": "Non-Invasive Monitoring Company (NIMCO)",
+   "cited_by_patents": 501
+  },
+  {
+   "patent_id": "5041138",
+   "title": "Neomorphogenesis of cartilage in vivo from cell culture",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 481
+  },
+  {
+   "patent_id": "6041253",
+   "title": "Effect of electric field and ultrasound for transdermal drug delivery",
+   "filing_year": 1996,
+   "grant_year": 2000,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 473
+  },
+  {
+   "patent_id": "5874064",
+   "title": "Aerodynamically light particles for pulmonary drug delivery",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 452
+  },
+  {
+   "patent_id": "5330768",
+   "title": "Controlled drug delivery using polymer/pluronic blends",
+   "filing_year": 1991,
+   "grant_year": 1994,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 440
+  },
+  {
+   "patent_id": "5019034",
+   "title": "Control of transport of molecules across tissue using electroporation",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 436
+  },
+  {
+   "patent_id": "6720402",
+   "title": "Shape memory polymers",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "MNEMOSCIENCE GMBH",
+   "cited_by_patents": 424
+  },
+  {
+   "patent_id": "4753652",
+   "title": "Biomaterial implants which resist calcification",
+   "filing_year": 1986,
+   "grant_year": 1988,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 416
+  },
+  {
+   "patent_id": "7226442",
+   "title": "Microchip reservoir devices using wireless transmission of power and data",
+   "filing_year": 2001,
+   "grant_year": 2007,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 390
+  },
+  {
+   "patent_id": "6123861",
+   "title": "Fabrication of microchip drug delivery devices",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 352
+  },
+  {
+   "patent_id": "5626862",
+   "title": "Controlled local delivery of chemotherapeutic agents for treating solid tumors",
+   "filing_year": 1994,
+   "grant_year": 1997,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 351
+  },
+  {
+   "patent_id": "6491666",
+   "title": "Microfabricated devices for the delivery of molecules into a carrier fluid",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 341
+  },
+  {
+   "patent_id": "5716404",
+   "title": "Breast tissue engineering",
+   "filing_year": 1994,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 312
+  },
+  {
+   "patent_id": "4906474",
+   "title": "Bioerodible polyanhydrides for controlled drug delivery",
+   "filing_year": 1984,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 307
+  },
+  {
+   "patent_id": "4861627",
+   "title": "Preparation of multiwall polymeric microcapsules",
+   "filing_year": 1987,
+   "grant_year": 1989,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 291
+  },
+  {
+   "patent_id": "5514378",
+   "title": "Biocompatible polymer membranes and methods of preparation of three dimensional membrane structures",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 291
+  },
+  {
+   "patent_id": "5947921",
+   "title": "Chemical and physical enhancers and ultrasound for transdermal drug delivery",
+   "filing_year": 1995,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 277
+  },
+  {
+   "patent_id": "6471993",
+   "title": "Three-dimensional polymer matrices",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 264
+  },
+  {
+   "patent_id": "5770417",
+   "title": "Three-dimensional fibrous scaffold containing attached cells for producing vascularized tissue in vivo",
+   "filing_year": 1994,
+   "grant_year": 1998,
+   "assignee": "Massachusetts Institute of Technology Children's Medical Center Corporation",
+   "cited_by_patents": 256
+  },
+  {
+   "patent_id": "5578325",
+   "title": "Nanoparticles and microparticles of non-linear hydrophilic-hydrophobic multiblock copolymers",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 255
+  },
+  {
+   "patent_id": "6002961",
+   "title": "Transdermal protein delivery using low-frequency sonophoresis",
+   "filing_year": 1995,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 252
+  },
+  {
+   "patent_id": "6018678",
+   "title": "Transdermal protein delivery or measurement using low-frequency sonophoresis",
+   "filing_year": 1995,
+   "grant_year": 2000,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 252
+  },
+  {
+   "patent_id": "4767402",
+   "title": "Ultrasound enhancement of transdermal drug delivery",
+   "filing_year": 1986,
+   "grant_year": 1988,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 251
+  },
+  {
+   "patent_id": "6326020",
+   "title": "Local anesthetic formulations",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 251
+  },
+  {
+   "patent_id": "5618563",
+   "title": "Biodegradable polymer matrices for sustained delivery of local anesthetic agents",
+   "filing_year": 1993,
+   "grant_year": 1997,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 248
+  },
+  {
+   "patent_id": "5837752",
+   "title": "Semi-interpenetrating polymer networks",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 248
+  },
+  {
+   "patent_id": "5565215",
+   "title": "Biodegradable injectable particles for imaging",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 243
+  },
+  {
+   "patent_id": "5700485",
+   "title": "Prolonged nerve blockade by the combination of local anesthetic and glucocorticoid",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 238
+  },
+  {
+   "patent_id": "4891225",
+   "title": "Bioerodible polyanhydrides for controlled drug delivery",
+   "filing_year": 1986,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 236
+  },
+  {
+   "patent_id": "5149543",
+   "title": "Ionically cross-linked polymeric microcapsules",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 232
+  },
+  {
+   "patent_id": "6060082",
+   "title": "Polymerized liposomes targeted to M cells and useful for oral or mucosal drug delivery",
+   "filing_year": 1997,
+   "grant_year": 2000,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 232
+  },
+  {
+   "patent_id": "5985320",
+   "title": "Materials and methods for enhancing cellular internalization",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "THE PENN STATE RESEARCH FOUNDATION",
+   "cited_by_patents": 228
+  },
+  {
+   "patent_id": "4898734",
+   "title": "Polymer composite for controlled release or membrane formation",
+   "filing_year": 1988,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 216
+  },
+  {
+   "patent_id": "5019372",
+   "title": "Magnetically modulated polymeric drug release system",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 213
+  },
+  {
+   "patent_id": "5736372",
+   "title": "Biodegradable synthetic polymeric fibrous matrix containing chondrocyte for in vivo production of a cartilaginous structure",
+   "filing_year": 1990,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 208
+  },
+  {
+   "patent_id": "6551838",
+   "title": "Microfabricated devices for the storage and selective exposure of chemicals and devices",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 208
+  },
+  {
+   "patent_id": "6224893",
+   "title": "Semi-interpenetrating or interpenetrating polymer networks for drug delivery and tissue engineering",
+   "filing_year": 1997,
+   "grant_year": 2001,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 204
+  },
+  {
+   "patent_id": "5759830",
+   "title": "Three-dimensional fibrous scaffold containing attached cells for producing vascularized tissue in vivo",
+   "filing_year": 1994,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 203
+  },
+  {
+   "patent_id": "6004534",
+   "title": "Targeted polymerized liposomes for improved drug delivery",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 202
+  },
+  {
+   "patent_id": "6976982",
+   "title": "Flexible microchip devices for ophthalmic and other applications",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 200
+  },
+  {
+   "patent_id": "4757128",
+   "title": "High molecular weight polyanhydride and preparation thereof",
+   "filing_year": 1986,
+   "grant_year": 1988,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 197
+  },
+  {
+   "patent_id": "6136295",
+   "title": "Aerodynamically light particles for pulmonary drug delivery",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 197
+  },
+  {
+   "patent_id": "8450298",
+   "title": "Aminoalcohol lipidoids and uses thereof",
+   "filing_year": 2010,
+   "grant_year": 2013,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 194
+  },
+  {
+   "patent_id": "4638045",
+   "title": "Non-peptide polyamino acid bioerodible polymers",
+   "filing_year": 1985,
+   "grant_year": 1987,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 189
+  },
+  {
+   "patent_id": "5487390",
+   "title": "Gas-filled polymeric microbubbles for ultrasound imaging",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 188
+  },
+  {
+   "patent_id": "5911223",
+   "title": "Introduction of modifying agents into skin by electroporation",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 188
+  },
+  {
+   "patent_id": "6238702",
+   "title": "High load formulations and methods for providing prolonged local anesthesia",
+   "filing_year": 1999,
+   "grant_year": 2001,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 185
+  },
+  {
+   "patent_id": "6095148",
+   "title": "Neuronal stimulation using electrically conducting polymers",
+   "filing_year": 1995,
+   "grant_year": 2000,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 183
+  },
+  {
+   "patent_id": "6190315",
+   "title": "Sonophoretic enhanced transdermal transport",
+   "filing_year": 1999,
+   "grant_year": 2001,
+   "assignee": "Sontra Medical Corporation",
+   "cited_by_patents": 179
+  },
+  {
+   "patent_id": "4921757",
+   "title": "System for delayed and pulsed release of biologically active substances",
+   "filing_year": 1987,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 174
+  },
+  {
+   "patent_id": "4857311",
+   "title": "Polyanhydrides with improved hydrolytic degradation properties",
+   "filing_year": 1987,
+   "grant_year": 1989,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 171
+  },
+  {
+   "patent_id": "6046187",
+   "title": "Formulations and methods for providing prolonged local anesthesia",
+   "filing_year": 1996,
+   "grant_year": 2000,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 169
+  },
+  {
+   "patent_id": "6254854",
+   "title": "Porous particles for deep lung delivery",
+   "filing_year": 2000,
+   "grant_year": 2001,
+   "assignee": "The Penn Research Foundation",
+   "cited_by_patents": 162
+  },
+  {
+   "patent_id": "5770193",
+   "title": "Preparation of three-dimensional fibrous scaffold for attaching cells to produce vascularized tissue in vivo",
+   "filing_year": 1994,
+   "grant_year": 1998,
+   "assignee": "Massachusetts Institute of Technology Children's Medical Center Corporation",
+   "cited_by_patents": 154
+  },
+  {
+   "patent_id": "6998115",
+   "title": "Biodegradable poly(β-amino esters) and uses thereof",
+   "filing_year": 2001,
+   "grant_year": 2006,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 144
+  },
+  {
+   "patent_id": "4391797",
+   "title": "Systems for the controlled release of macromolecules",
+   "filing_year": 1981,
+   "grant_year": 1983,
+   "assignee": "Children's Hospital Medical Center",
+   "cited_by_patents": 142
+  },
+  {
+   "patent_id": "4164560",
+   "title": "Systems for the controlled release of macromolecules",
+   "filing_year": 1977,
+   "grant_year": 1979,
+   "assignee": "",
+   "cited_by_patents": 136
+  },
+  {
+   "patent_id": "6503480",
+   "title": "Aerodynamically light particles for pulmonary drug delivery",
+   "filing_year": 1999,
+   "grant_year": 2003,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 136
+  },
+  {
+   "patent_id": "5651986",
+   "title": "Controlled local delivery of chemotherapeutic agents for treating solid tumors",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 135
+  },
+  {
+   "patent_id": "8557231",
+   "title": "Biodegradable poly(beta-amino esters) and uses thereof",
+   "filing_year": 2005,
+   "grant_year": 2013,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 134
+  },
+  {
+   "patent_id": "7427394",
+   "title": "Biodegradable poly(β-amino esters) and uses thereof",
+   "filing_year": 2003,
+   "grant_year": 2008,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 133
+  },
+  {
+   "patent_id": "5001116",
+   "title": "Inhibition of angiogenesis",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 132
+  },
+  {
+   "patent_id": "5902599",
+   "title": "Biodegradable polymer networks for use in orthopedic and dental applications",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 132
+  },
+  {
+   "patent_id": "6537256",
+   "title": "Microfabricated devices for the delivery of molecules into a carrier fluid",
+   "filing_year": 2002,
+   "grant_year": 2003,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 132
+  },
+  {
+   "patent_id": "4888176",
+   "title": "Controlled drug delivery high molecular weight polyanhydrides",
+   "filing_year": 1987,
+   "grant_year": 1989,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 131
+  },
+  {
+   "patent_id": "5399665",
+   "title": "Biodegradable polymers for cell transplantation",
+   "filing_year": 1992,
+   "grant_year": 1995,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 131
+  },
+  {
+   "patent_id": "5667491",
+   "title": "Method for rapid temporal control of molecular transport across tissue",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 131
+  },
+  {
+   "patent_id": "6447753",
+   "title": "Porous particles for deep lung delivery",
+   "filing_year": 2001,
+   "grant_year": 2002,
+   "assignee": "The Penn Research Foundation",
+   "cited_by_patents": 129
+  },
+  {
+   "patent_id": "6808522",
+   "title": "Microchip devices for delivery of molecules and methods of fabrication thereof",
+   "filing_year": 2000,
+   "grant_year": 2004,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 125
+  },
+  {
+   "patent_id": "5922340",
+   "title": "High load formulations and methods for providing prolonged local anesthesia",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 121
+  },
+  {
+   "patent_id": "8709483",
+   "title": "System for targeted delivery of therapeutic agents",
+   "filing_year": 2008,
+   "grant_year": 2014,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 121
+  },
+  {
+   "patent_id": "7550441",
+   "title": "Controlled release polymer nanoparticle containing bound nucleic acid ligand for targeting",
+   "filing_year": 2004,
+   "grant_year": 2009,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 119
+  },
+  {
+   "patent_id": "4994443",
+   "title": "Inhibition of angiogenesis",
+   "filing_year": 1988,
+   "grant_year": 1991,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 115
+  },
+  {
+   "patent_id": "5512600",
+   "title": "Preparation of bonded fiber structures for cell implantation",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 115
+  },
+  {
+   "patent_id": "6635283",
+   "title": "Aerodynamically light particles for pulmonary drug delivery",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "",
+   "cited_by_patents": 115
+  },
+  {
+   "patent_id": "6849463",
+   "title": "Microfabricated devices for the storage and selective exposure of chemicals and devices",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 113
+  },
+  {
+   "patent_id": "4948587",
+   "title": "Ultrasound enhancement of transbuccal drug delivery",
+   "filing_year": 1988,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 111
+  },
+  {
+   "patent_id": "8071082",
+   "title": "End-modified poly(beta-amino esters) and uses thereof",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 111
+  },
+  {
+   "patent_id": "6254890",
+   "title": "Sub-100nm biodegradable polymer spheres capable of transporting and releasing nucleic acids",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 108
+  },
+  {
+   "patent_id": "4657543",
+   "title": "Ultrasonically modulated polymeric devices for delivering compositions",
+   "filing_year": 1984,
+   "grant_year": 1987,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 107
+  },
+  {
+   "patent_id": "4414147",
+   "title": "Methods of decreasing the hydrophobicity of fibroblast and other interferons",
+   "filing_year": 1981,
+   "grant_year": 1983,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 104
+  },
+  {
+   "patent_id": "6426339",
+   "title": "Formulations and methods for providing prolonged local anesthesia",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 104
+  },
+  {
+   "patent_id": "5500161",
+   "title": "Method for making hydrophobic polymeric microparticles",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "Massachusetts Institute of Technology and Virus Research Institute",
+   "cited_by_patents": 101
+  },
+  {
+   "patent_id": "6123727",
+   "title": "Tissue engineered tendons and ligaments",
+   "filing_year": 1997,
+   "grant_year": 2000,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 101
+  },
+  {
+   "patent_id": "5718921",
+   "title": "Microspheres comprising polymer and drug dispersed there within",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 100
+  },
+  {
+   "patent_id": "8969353",
+   "title": "Aminoalcohol lipidoids and uses thereof",
+   "filing_year": 2009,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 100
+  },
+  {
+   "patent_id": "5804178",
+   "title": "Implantation of cell-matrix structure adjacent mesentery, omentum or peritoneum tissue",
+   "filing_year": 1994,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 99
+  },
+  {
+   "patent_id": "6281015",
+   "title": "Localized delivery of factors enhancing survival of transplanted cells",
+   "filing_year": 1994,
+   "grant_year": 2001,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 97
+  },
+  {
+   "patent_id": "4789724",
+   "title": "Preparation of anhydride copolymers",
+   "filing_year": 1986,
+   "grant_year": 1988,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 95
+  },
+  {
+   "patent_id": "5593974",
+   "title": "Localized oligonucleotide therapy",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 95
+  },
+  {
+   "patent_id": "4886870",
+   "title": "Bioerodible articles useful as implants and prostheses having predictable degradation rates",
+   "filing_year": 1985,
+   "grant_year": 1989,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 92
+  },
+  {
+   "patent_id": "6569654",
+   "title": "Electroactive materials for stimulation of biological activity of stem cells",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 92
+  },
+  {
+   "patent_id": "5547467",
+   "title": "Method for rapid temporal control of molecular transport across tissue",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 91
+  },
+  {
+   "patent_id": "6548002",
+   "title": "Method of making a biodegradable interbody spinal fusion devices",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "Cambridge Scientific, Inc.",
+   "cited_by_patents": 91
+  },
+  {
+   "patent_id": "8287849",
+   "title": "Biodegradable poly(beta-amino esters) and uses thereof",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 91
+  },
+  {
+   "patent_id": "4806621",
+   "title": "Biocompatible, bioerodible, hydrophobic, implantable polyimino carbonate article",
+   "filing_year": 1986,
+   "grant_year": 1989,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 90
+  },
+  {
+   "patent_id": "4863735",
+   "title": "Biodegradable polymeric drug delivery system with adjuvant activity",
+   "filing_year": 1986,
+   "grant_year": 1989,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 90
+  },
+  {
+   "patent_id": "4900556",
+   "title": "System for delayed and pulsed release of biologically active substances",
+   "filing_year": 1988,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 90
+  },
+  {
+   "patent_id": "5286763",
+   "title": "Bioerodible polymers for drug delivery in bone",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 90
+  },
+  {
+   "patent_id": "5122367",
+   "title": "Polyanhydride bioerodible controlled release implants for administration of stabilized growth hormone",
+   "filing_year": 1989,
+   "grant_year": 1992,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 89
+  },
+  {
+   "patent_id": "4933185",
+   "title": "System for controlled release of biologically active compounds",
+   "filing_year": 1988,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 88
+  },
+  {
+   "patent_id": "7614135",
+   "title": "Method for making reservoir-based sensor device",
+   "filing_year": 2007,
+   "grant_year": 2009,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 86
+  },
+  {
+   "patent_id": "7727969",
+   "title": "Controlled release nanoparticle having bound oligonucleotide for targeted delivery",
+   "filing_year": 2003,
+   "grant_year": 2010,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 86
+  },
+  {
+   "patent_id": "8562966",
+   "title": "End-modified poly(beta-amino esters) and uses thereof",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 86
+  },
+  {
+   "patent_id": "8637028",
+   "title": "Adjuvant incorporation in immunonanotherapeutics",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 86
+  },
+  {
+   "patent_id": "5654381",
+   "title": "Functionalized polyester graft copolymers",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 84
+  },
+  {
+   "patent_id": "5019379",
+   "title": "Unsaturated polyanhydrides",
+   "filing_year": 1987,
+   "grant_year": 1991,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 83
+  },
+  {
+   "patent_id": "6190893",
+   "title": "Electroactive materials for stimulation of biological activity of bone marrow stromal cells",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 83
+  },
+  {
+   "patent_id": "8808681",
+   "title": "Crosslinked, degradable polymers and uses thereof",
+   "filing_year": 2007,
+   "grant_year": 2014,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 83
+  },
+  {
+   "patent_id": "5696175",
+   "title": "Preparation of bonded fiber structures for cell implantation",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 82
+  },
+  {
+   "patent_id": "4780212",
+   "title": "Ultrasound enchancement of membrane permeability",
+   "filing_year": 1987,
+   "grant_year": 1988,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 81
+  },
+  {
+   "patent_id": "5562909",
+   "title": "Phosphazene polyelectrolytes as immunoadjuvants",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 81
+  },
+  {
+   "patent_id": "6537567",
+   "title": "Tissue-engineered tubular construct having circumferentially oriented smooth muscle cells",
+   "filing_year": 1998,
+   "grant_year": 2003,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 76
+  },
+  {
+   "patent_id": "5749847",
+   "title": "Delivery of nucleotides into organisms by electroporation",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "5783567",
+   "title": "Microparticles for delivery of nucleic acid",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Pangaea Pharmaceuticals, Inc.",
+   "cited_by_patents": 74
+  },
+  {
+   "patent_id": "7020355",
+   "title": "Switchable surfaces",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 74
+  },
+  {
+   "patent_id": "5010167",
+   "title": "Poly(amide-and imide-co-anhydride) for biological application",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 73
+  },
+  {
+   "patent_id": "6306819",
+   "title": "Method for regulating size of vascularized normal tissue",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 71
+  },
+  {
+   "patent_id": "6436443",
+   "title": "Porous particles comprising excipients for deep lung delivery",
+   "filing_year": 2001,
+   "grant_year": 2002,
+   "assignee": "The Penn Research Foundation",
+   "cited_by_patents": 71
+  },
+  {
+   "patent_id": "8986988",
+   "title": "Cell rolling separation",
+   "filing_year": 2008,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 71
+  },
+  {
+   "patent_id": "6214387",
+   "title": "Biodegradable polymer matrices for sustained delivery of local anesthetic agents",
+   "filing_year": 1997,
+   "grant_year": 2001,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 69
+  },
+  {
+   "patent_id": "6977223",
+   "title": "Three dimensional microfabrication",
+   "filing_year": 2004,
+   "grant_year": 2005,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 67
+  },
+  {
+   "patent_id": "9006487",
+   "title": "Amine-containing lipids and uses thereof",
+   "filing_year": 2006,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 65
+  },
+  {
+   "patent_id": "4946929",
+   "title": "Bioerodible articles useful as implants and prostheses having predictable degradation rates",
+   "filing_year": 1987,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 64
+  },
+  {
+   "patent_id": "5100668",
+   "title": "Controlled release systems containing heparin and growth factors",
+   "filing_year": 1988,
+   "grant_year": 1992,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 64
+  },
+  {
+   "patent_id": "5562099",
+   "title": "Polymeric microparticles containing agents for imaging",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 63
+  },
+  {
+   "patent_id": "5308701",
+   "title": "Ionically cross-linked polymeric microcapsules",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "",
+   "cited_by_patents": 62
+  },
+  {
+   "patent_id": "5912017",
+   "title": "Multiwall polymeric microspheres",
+   "filing_year": 1992,
+   "grant_year": 1999,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 62
+  },
+  {
+   "patent_id": "6855329",
+   "title": "Surface coating spatially controlled patterns",
+   "filing_year": 1999,
+   "grant_year": 2005,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 62
+  },
+  {
+   "patent_id": "7070590",
+   "title": "Microchip drug delivery devices",
+   "filing_year": 2000,
+   "grant_year": 2006,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 62
+  },
+  {
+   "patent_id": "5494682",
+   "title": "Ionically cross-linked polymeric microcapsules",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 61
+  },
+  {
+   "patent_id": "6217863",
+   "title": "Rationally designed polysaccharide lyases derived from heparinase I",
+   "filing_year": 1999,
+   "grant_year": 2001,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 61
+  },
+  {
+   "patent_id": "6840962",
+   "title": "Tissue engineered tendons and ligaments",
+   "filing_year": 2000,
+   "grant_year": 2005,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 61
+  },
+  {
+   "patent_id": "5843741",
+   "title": "Method for altering the differentiation of anchorage dependent cells on an electrically conducting polymer",
+   "filing_year": 1994,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 60
+  },
+  {
+   "patent_id": "5356630",
+   "title": "Delivery system for controlled release of bioactive factors",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 59
+  },
+  {
+   "patent_id": "5629009",
+   "title": "Delivery system for controlled release of bioactive factors",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 58
+  },
+  {
+   "patent_id": "9549901",
+   "title": "Lipid-polymer hybrid particles",
+   "filing_year": 2011,
+   "grant_year": 2017,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 57
+  },
+  {
+   "patent_id": "6387397",
+   "title": "Polymerized liposomes targeted to M cells and useful for oral or mucosal drug delivery",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 56
+  },
+  {
+   "patent_id": "5545409",
+   "title": "Delivery system for controlled release of bioactive factors",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 55
+  },
+  {
+   "patent_id": "8323698",
+   "title": "Polymers for functional particles",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 55
+  },
+  {
+   "patent_id": "8343497",
+   "title": "Targeting of antigen presenting cells with immunonanotherapeutics",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 55
+  },
+  {
+   "patent_id": "5762904",
+   "title": "Oral delivery of vaccines using polymerized liposomes",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 53
+  },
+  {
+   "patent_id": "6197229",
+   "title": "Method for high supercoiled DNA content microspheres",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 53
+  },
+  {
+   "patent_id": "6689608",
+   "title": "Porous biodegradable polymeric materials for cell transplantation",
+   "filing_year": 2000,
+   "grant_year": 2004,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 53
+  },
+  {
+   "patent_id": "4373023",
+   "title": "Process for neutralizing heparin",
+   "filing_year": 1980,
+   "grant_year": 1983,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 52
+  },
+  {
+   "patent_id": "6174952",
+   "title": "Monolithic polymer composition having a water absorption material",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "Capitol Specialty Plastics, Inc.",
+   "cited_by_patents": 51
+  },
+  {
+   "patent_id": "4779806",
+   "title": "Ultrasonically modulated polymeric devices for delivering compositions",
+   "filing_year": 1986,
+   "grant_year": 1988,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 50
+  },
+  {
+   "patent_id": "4591496",
+   "title": "Process for making systems for the controlled release of macromolecules",
+   "filing_year": 1984,
+   "grant_year": 1986,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 49
+  },
+  {
+   "patent_id": "5567417",
+   "title": "Method for inhibiting angiogenesis using heparinase",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "8367113",
+   "title": "Polymers for functional particles",
+   "filing_year": 2007,
+   "grant_year": 2013,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "6149864",
+   "title": "Supercritical fluid sterilization method",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 46
+  },
+  {
+   "patent_id": "8343498",
+   "title": "Adjuvant incorporation in immunonanotherapeutics",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 46
+  },
+  {
+   "patent_id": "5846565",
+   "title": "Controlled local delivery of chemotherapeutic agents for treating solid tumors",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 45
+  },
+  {
+   "patent_id": "8143042",
+   "title": "Biodegradable elastomers",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 45
+  },
+  {
+   "patent_id": "5619421",
+   "title": "Computer-implemented process and computer system for estimating the three-dimensional shape of a ring-shaped molecule and of a portion of a molecule containing a ring-shaped structure",
+   "filing_year": 1994,
+   "grant_year": 1997,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 44
+  },
+  {
+   "patent_id": "7722894",
+   "title": "Biodegradable polymer",
+   "filing_year": 2002,
+   "grant_year": 2010,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 44
+  },
+  {
+   "patent_id": "7070592",
+   "title": "Medical device with array of electrode-containing reservoirs",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 43
+  },
+  {
+   "patent_id": "4357312",
+   "title": "Method of making prolonged release body",
+   "filing_year": 1981,
+   "grant_year": 1982,
+   "assignee": "Children's Hospital Medical Center",
+   "cited_by_patents": 42
+  },
+  {
+   "patent_id": "8562998",
+   "title": "Targeting of antigen presenting cells with immunonanotherapeutics",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 41
+  },
+  {
+   "patent_id": "6582960",
+   "title": "Use of fibroblast growth factor 2 for expansion of chondrocytes and tissue engineering",
+   "filing_year": 1999,
+   "grant_year": 2003,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 40
+  },
+  {
+   "patent_id": "6652837",
+   "title": "Preparation of novel particles for inhalation",
+   "filing_year": 1999,
+   "grant_year": 2003,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 40
+  },
+  {
+   "patent_id": "9308280",
+   "title": "Targeting of antigen presenting cells with immunonanotherapeutics",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 40
+  },
+  {
+   "patent_id": "4952406",
+   "title": "Feedback controlled release",
+   "filing_year": 1987,
+   "grant_year": 1990,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "7410616",
+   "title": "Device for the controlled exposure of reservoir-based sensors",
+   "filing_year": 2007,
+   "grant_year": 2008,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "6849272",
+   "title": "Endosomolytic agents and cell delivery systems",
+   "filing_year": 2000,
+   "grant_year": 2005,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 38
+  },
+  {
+   "patent_id": "7377939",
+   "title": "Highly convertible endolumenal prostheses and methods of manufacture",
+   "filing_year": 2004,
+   "grant_year": 2008,
+   "assignee": "Synecor LLC",
+   "cited_by_patents": 38
+  },
+  {
+   "patent_id": "8277812",
+   "title": "Immunonanotherapeutics that provide IgG humoral response without T-cell antigen",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 38
+  },
+  {
+   "patent_id": "6692911",
+   "title": "Cell delivery compositions",
+   "filing_year": 1999,
+   "grant_year": 2004,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "6025331",
+   "title": "Pharmaceutical compositions comprising troponin subunits, fragments and analogs thereof and methods of their use to inhibit angiogenesis",
+   "filing_year": 1997,
+   "grant_year": 2000,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 36
+  },
+  {
+   "patent_id": "7112361",
+   "title": "Methods of making decomposable thin films of polyelectrolytes and uses thereof",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "8802153",
+   "title": "System for targeted delivery of therapeutic agents",
+   "filing_year": 2013,
+   "grant_year": 2014,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "4732155",
+   "title": "Implantable chemoattractant system",
+   "filing_year": 1985,
+   "grant_year": 1988,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 34
+  },
+  {
+   "patent_id": "7833545",
+   "title": "Methods and devices for the sustained release of multiple drugs",
+   "filing_year": 2004,
+   "grant_year": 2010,
+   "assignee": "The General Hospital Corporation",
+   "cited_by_patents": 34
+  },
+  {
+   "patent_id": "7942867",
+   "title": "Remotely controlled substance delivery device",
+   "filing_year": 2006,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 34
+  },
+  {
+   "patent_id": "7699834",
+   "title": "Method and system for control of osmotic pump device",
+   "filing_year": 2005,
+   "grant_year": 2010,
+   "assignee": "Searete LLC",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "8591905",
+   "title": "Nicotine immunonanotherapeutics",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "9741975",
+   "title": "Safely ingestible batteries",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "4341869",
+   "title": "Process for producing heparinase",
+   "filing_year": 1980,
+   "grant_year": 1982,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "8932595",
+   "title": "Nicotine immunonanotherapeutics",
+   "filing_year": 2009,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "9439859",
+   "title": "Adjuvant incorporation in immunoanotherapeutics",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "5714376",
+   "title": "Heparinase gene from flavobacterium heparinum",
+   "filing_year": 1991,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 29
+  },
+  {
+   "patent_id": "5817328",
+   "title": "Material for buffered resorbable internal fixation devices and method for making same",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "Cambridge Scientific, Inc.",
+   "cited_by_patents": 29
+  },
+  {
+   "patent_id": "9474717",
+   "title": "Vaccine nanotechnology",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 29
+  },
+  {
+   "patent_id": "9775551",
+   "title": "Devices and techniques associated with diagnostics, therapies, and other applications, including skin-associated applications",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "Seventh Sense Biosystems, Inc.",
+   "cited_by_patents": 29
+  },
+  {
+   "patent_id": "4396762",
+   "title": "Heparinase derived anticoagulants",
+   "filing_year": 1981,
+   "grant_year": 1983,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 28
+  },
+  {
+   "patent_id": "5837680",
+   "title": "Pharmaceutical compositions comprising troponin subunits, fragments and analogs thereof and methods of their use to inhibit angiogenesis",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 28
+  },
+  {
+   "patent_id": "6419945",
+   "title": "Buffered resorbable internal fixation devices and methods for making material therefore",
+   "filing_year": 1998,
+   "grant_year": 2002,
+   "assignee": "Cambridge Scientific, Inc.",
+   "cited_by_patents": 28
+  },
+  {
+   "patent_id": "8906381",
+   "title": "Immunonanotherapeutics that provide IGG humoral response without T-cell antigen",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 28
+  },
+  {
+   "patent_id": "5830726",
+   "title": "Method for obtaining a modified heparinase gene",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 27
+  },
+  {
+   "patent_id": "8580253",
+   "title": "Immunomodulating compositions and methods of use",
+   "filing_year": 2007,
+   "grant_year": 2013,
+   "assignee": "Whitehead Institute",
+   "cited_by_patents": 27
+  },
+  {
+   "patent_id": "10182985",
+   "title": "Residence structures and related methods",
+   "filing_year": 2015,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 26
+  },
+  {
+   "patent_id": "7776024",
+   "title": "Method of actuating implanted medical device",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 26
+  },
+  {
+   "patent_id": "9233072",
+   "title": "Adjuvant incorporation in immunonanotherapeutics",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 26
+  },
+  {
+   "patent_id": "9301926",
+   "title": "Local drug delivery devices and methods for treating cancer",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 26
+  },
+  {
+   "patent_id": "5389539",
+   "title": "Purification of heparinase I, II, and III from Flavobacterium heparinum",
+   "filing_year": 1992,
+   "grant_year": 1995,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "6800296",
+   "title": "Modification of surfaces using biological recognition events",
+   "filing_year": 1999,
+   "grant_year": 2004,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "9457047",
+   "title": "Immunomodulating compositions and methods of use thereof",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "Whitehead Institute",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "9539210",
+   "title": "Vaccine nanotechnology",
+   "filing_year": 2013,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "5200181",
+   "title": "Oral bilirubin therapy",
+   "filing_year": 1990,
+   "grant_year": 1993,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "6262183",
+   "title": "Hydroxamic acid polymers formed from primary amide polymers",
+   "filing_year": 1994,
+   "grant_year": 2001,
+   "assignee": "CYTEC TECHNOLOGY CORP.",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "7829112",
+   "title": "Methods and devices for the sustained release of multiple drugs",
+   "filing_year": 2008,
+   "grant_year": 2010,
+   "assignee": "The General Hospital Corporation",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "8738395",
+   "title": "Methods and systems for presenting an inhalation experience",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "9101666",
+   "title": "Biodegradable poly(beta-amino esters) and uses thereof",
+   "filing_year": 2013,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "9193827",
+   "title": "Poly(beta-amino alcohols), their preparation, and uses thereof",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "4443545",
+   "title": "Process for producing heparinase",
+   "filing_year": 1982,
+   "grant_year": 1984,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "4846786",
+   "title": "Bioreactor containing suspended, immobilized species",
+   "filing_year": 1987,
+   "grant_year": 1989,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "5569600",
+   "title": "Purification, composition and specificity of heparinase I, II, and III from flavobacterium heparinum",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "7838024",
+   "title": "Methods and devices for the sustained release of multiple drugs",
+   "filing_year": 2008,
+   "grant_year": 2010,
+   "assignee": "The General Hospital Corporation",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "9315472",
+   "title": "1,3,5-triazinane-2,4,6-trione derivatives and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "9512073",
+   "title": "Amino acid-, peptide-and polypeptide-lipids, isomers, compositions, and uses thereof",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "7883718",
+   "title": "Methods and devices for the sustained release of multiple drugs",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "The General Hospital Corporation",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "8706518",
+   "title": "Methods and systems for presenting an inhalation experience",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "9238716",
+   "title": "Conjugated lipomers and uses thereof",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "4916204",
+   "title": "Pure polyanhydride from dicarboxylic acid and coupling agent",
+   "filing_year": 1987,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "8038659",
+   "title": "Disintegrating digestive tract interaction system",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "6309635",
+   "title": "Seeding parenchymal cells into compression resistant porous scaffold after vascularizing in vivo",
+   "filing_year": 1994,
+   "grant_year": 2001,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "6447752",
+   "title": "Amorphous porous particles for deep lung delivery",
+   "filing_year": 2001,
+   "grant_year": 2002,
+   "assignee": "THE PENN STATE RESEARCH FOUNDATION",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "9217129",
+   "title": "Oscillating cell culture bioreactor",
+   "filing_year": 2008,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "9199044",
+   "title": "Devices and methods for wearable injection guides",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 19
+  },
+  {
+   "patent_id": "6977087",
+   "title": "Aerodynamically light particles for pulmonary drug delivery",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "8372325",
+   "title": "Highly convertible endolumenal prostheses and methods of manufacture",
+   "filing_year": 2008,
+   "grant_year": 2013,
+   "assignee": "Synecor LLC",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "9011751",
+   "title": "Highly convertible endolumenal prostheses and methods of manufacture",
+   "filing_year": 2013,
+   "grant_year": 2015,
+   "assignee": "Synecor LLC",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "4666855",
+   "title": "Rapid method for determining the isoelectric point for amphoteric molecules",
+   "filing_year": 1985,
+   "grant_year": 1987,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "7769603",
+   "title": "Stent customization system and method",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "8083710",
+   "title": "Acoustically controlled substance delivery device",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "8712110",
+   "title": "Identifying a characteristic of an individual utilizing facial recognition and providing a display for the individual",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "The Invention Science Fund I, LC",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "8920388",
+   "title": "Methods and devices for sensing tissues and tissue compartments",
+   "filing_year": 2008,
+   "grant_year": 2014,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "9556110",
+   "title": "Aminoalcohol lipidoids and uses thereof",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "9700627",
+   "title": "Biodegradable poly (beta-amino esters) and uses thereof",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "6740310",
+   "title": "Porous particles comprising excipients for deep lung delivery",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "6942868",
+   "title": "Aerodynamically light particles for pulmonary drug delivery",
+   "filing_year": 2003,
+   "grant_year": 2005,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "7354597",
+   "title": "Microscale lyophilization and drying methods for the stabilization of molecules",
+   "filing_year": 2002,
+   "grant_year": 2008,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "7855062",
+   "title": "Bone cell delivery device",
+   "filing_year": 2005,
+   "grant_year": 2010,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "8999711",
+   "title": "Bone delivery device",
+   "filing_year": 2007,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "10413507",
+   "title": "Enteric elastomers",
+   "filing_year": 2015,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "6403558",
+   "title": "Pharmaceutical compositions comprising troponin subunits, fragments and analogs thereof and methods of their use to inhibit angiogenesis",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "6653283",
+   "title": "Pharmaceutical compositions comprising troponin subunits, fragments and analogs thereof and methods of their use to inhibit angiogenesis",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "7077866",
+   "title": "Resorbable interbody spinal fusion devices",
+   "filing_year": 2001,
+   "grant_year": 2006,
+   "assignee": "DePuy Mitek, LLC",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "7817030",
+   "title": "Remote controller for in situ reaction device",
+   "filing_year": 2005,
+   "grant_year": 2010,
+   "assignee": "The Invention Science Fund 1 LLC",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "8109923",
+   "title": "Osmotic pump with remotely controlled osmotic pressure generation",
+   "filing_year": 2006,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "8442611",
+   "title": "Medical device with reservoir-based sensors",
+   "filing_year": 2010,
+   "grant_year": 2013,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "10124336",
+   "title": "Selective delivery of material to cells",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "4863611",
+   "title": "Extracorporeal reactors containing immobilized species",
+   "filing_year": 1987,
+   "grant_year": 1989,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "7892221",
+   "title": "Method of controlled drug delivery from implant device",
+   "filing_year": 2005,
+   "grant_year": 2011,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "8143368",
+   "title": "Disposable medical supplies from hydrolytically biodegradable plastics",
+   "filing_year": 2005,
+   "grant_year": 2012,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "9439968",
+   "title": "Amine-containing lipidoids and uses thereof",
+   "filing_year": 2016,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "10526573",
+   "title": "Disruption and field enabled delivery of compounds and compositions into cells",
+   "filing_year": 2015,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "10532027",
+   "title": "Residence structures and related methods",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "10682374",
+   "title": "Amino acid-, peptide- and polypeptide-lipids, isomers, compositions, and uses thereof",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "4933431",
+   "title": "One step preparation of poly(amide-anhydride)",
+   "filing_year": 1988,
+   "grant_year": 1990,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "6699470",
+   "title": "Mesh-gel constructs for cell delivery containing enzymes and/or enzyme inhibitors to control gel degradation",
+   "filing_year": 2000,
+   "grant_year": 2004,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "7896868",
+   "title": "Method and system for control of osmotic pump device",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "9358350",
+   "title": "Systems and methods for wearable injection guides",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "10041046",
+   "title": "Compositions and methods for epithelial stem cell expansion and culture",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "10086013",
+   "title": "Amino acid-, peptide- and polypeptide-lipids, isomers, compositions, and uses thereof",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "10517820",
+   "title": "Residence structures and related methods",
+   "filing_year": 2019,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "10610482",
+   "title": "Residence structures and related methods",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "7052678",
+   "title": "Particles for inhalation having sustained release properties",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "8053220",
+   "title": "Choroid plexus device",
+   "filing_year": 2006,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "8193334",
+   "title": "Polymer-encapsulated reverse micelles",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "8529551",
+   "title": "Acoustically controlled substance delivery device",
+   "filing_year": 2006,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "9060842",
+   "title": "Adhesive articles",
+   "filing_year": 2008,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "9205204",
+   "title": "Devices and methods for wearable injection guides",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "9492400",
+   "title": "Coated controlled release polymer particles as efficient oral delivery vehicles for biopharmaceuticals",
+   "filing_year": 2005,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "10517819",
+   "title": "Residence structures and related methods",
+   "filing_year": 2019,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10696944",
+   "title": "Intracellular delivery",
+   "filing_year": 2012,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10716751",
+   "title": "Residence structures and related methods",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10716752",
+   "title": "Residence structures and related methods",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10870112",
+   "title": "Selective delivery of material to cells",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7097855",
+   "title": "Transdermal thermal polymerization",
+   "filing_year": 2000,
+   "grant_year": 2006,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7625580",
+   "title": "Semi-interpenetrating or interpenetrating polymer networks for drug delivery and tissue engineering",
+   "filing_year": 2000,
+   "grant_year": 2009,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7648823",
+   "title": "Systems for genome selection",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "Searete LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7709244",
+   "title": "Systems for genome selection",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7709245",
+   "title": "Systems for genome selection",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7713728",
+   "title": "Systems for genome selection",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7718418",
+   "title": "Systems for genome selection",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7819858",
+   "title": "Remote controlled in vivo reaction method",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "8114065",
+   "title": "Remote control of substance delivery system",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "8192390",
+   "title": "Method and system for control of osmotic pump device",
+   "filing_year": 2008,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "8273075",
+   "title": "Osmotic pump with remotely controlled osmotic flow rate",
+   "filing_year": 2005,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "8349261",
+   "title": "Acoustically controlled reaction device",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "8367003",
+   "title": "Acoustically controlled reaction device",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "8427014",
+   "title": "System including wearable power receiver and wearable power-output device",
+   "filing_year": 2010,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "8790400",
+   "title": "Breast implant with covering and analyte sensors responsive to external power source",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "9144488",
+   "title": "Breast implant with analyte sensors responsive to external power source",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "9211185",
+   "title": "Breast implant with analyte sensors and internal power source",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10041047",
+   "title": "Compositions and methods for epithelial stem cell expansion and culture",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "10568883",
+   "title": "Compositions, systems, and methods for generating inner ear hair cells for treatment of hearing loss",
+   "filing_year": 2015,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "10596110",
+   "title": "Residence structures and related methods",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "4795703",
+   "title": "Heparin assay",
+   "filing_year": 1986,
+   "grant_year": 1989,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "8303625",
+   "title": "Biodegradable shape memory polymeric sutures",
+   "filing_year": 2003,
+   "grant_year": 2012,
+   "assignee": "Helmholtz-Zentrum Geesthacht Zentrum für Material- und Küstenforschung GmbH",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "9550029",
+   "title": "Systems and methods for guiding injections",
+   "filing_year": 2012,
+   "grant_year": 2017,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "9875719",
+   "title": "Identifying a characteristic of an individual utilizing facial recognition and providing a display for the individual",
+   "filing_year": 2009,
+   "grant_year": 2018,
+   "assignee": "Gearbox, Inc.",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "6399102",
+   "title": "Aerodynamically light particles for pulmonary drug delivery",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "THE PENN STATE RESEARCH FOUNDATION",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "8198080",
+   "title": "Bone delivery device",
+   "filing_year": 2005,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "8808373",
+   "title": "Breast implant with regionalized analyte sensors responsive to external power source",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "8900865",
+   "title": "Blood brain barrier device",
+   "filing_year": 2006,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "9173732",
+   "title": "Medical devices for use in the surgical treatment of hyperproliferative diseases affecting the spinal cord",
+   "filing_year": 2008,
+   "grant_year": 2015,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "9972649",
+   "title": "Nanowire FET imaging system and related techniques",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "10189802",
+   "title": "Aminoalcohol lipidoids and uses thereof",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "11125739",
+   "title": "Gene editing through microfluidic delivery",
+   "filing_year": 2016,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5076208",
+   "title": "Ultrasound-mediated administration of compounds into aquatic animals",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5128420",
+   "title": "Method of making hydroxamic acid polymers from primary amide polymers",
+   "filing_year": 1988,
+   "grant_year": 1992,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "7648677",
+   "title": "Method for operating a reservoir-based sensor device",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "7901397",
+   "title": "Method for operating microchip reservoir device",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "8367410",
+   "title": "Application of electrical stimulation for functional tissue engineering in vitro and in vivo",
+   "filing_year": 2004,
+   "grant_year": 2013,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "8430922",
+   "title": "Stent customization system and method",
+   "filing_year": 2006,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "8475517",
+   "title": "Stent customization system and method",
+   "filing_year": 2006,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "8551155",
+   "title": "Stent customization system and method",
+   "filing_year": 2006,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "9333071",
+   "title": "Breast implant with regionalized analyte sensors and internal power source",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "10172791",
+   "title": "Multi-layer hydrogel capsules for encapsulation of cells and cell aggregates",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "11077056",
+   "title": "Residence structures and related methods",
+   "filing_year": 2020,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "11111472",
+   "title": "Delivery of biomolecules to immune cells",
+   "filing_year": 2015,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "5178864",
+   "title": "Lipoprotein removal by soluble enzymes",
+   "filing_year": 1990,
+   "grant_year": 1993,
+   "assignee": "M.I.T. LIMITED",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "7918842",
+   "title": "Medical device with controlled reservoir opening",
+   "filing_year": 2004,
+   "grant_year": 2011,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "8403907",
+   "title": "Method for wirelessly monitoring implanted medical device",
+   "filing_year": 2007,
+   "grant_year": 2013,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "9144489",
+   "title": "Breast implant with covering, analyte sensors and internal power source",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "9333163",
+   "title": "Particles with multiple functionalized surface domains",
+   "filing_year": 2009,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "9555007",
+   "title": "Multi-layer hydrogel capsules for encapsulation of cells and cell aggregates",
+   "filing_year": 2013,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "9895443",
+   "title": "Multi-tailed lipids and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "10117934",
+   "title": "Conjugated lipomers and uses thereof",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "11179341",
+   "title": "Self-righting articles",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "11202903",
+   "title": "Systems for electrical stimulation",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "11207272",
+   "title": "Tissue anchoring articles",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "6699505",
+   "title": "Method of increasing the efficacy of antibiotics by compexing with cyclodextrins",
+   "filing_year": 2001,
+   "grant_year": 2004,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "6977138",
+   "title": "Reactive polymer coatings",
+   "filing_year": 2001,
+   "grant_year": 2005,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "8012740",
+   "title": "Systems for genome selection",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "8721706",
+   "title": "Specialty stents with flow control features or the like",
+   "filing_year": 2011,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "8795359",
+   "title": "Breast implant with regionalized analyte sensors and internal power source",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "8845740",
+   "title": "Artificial joint components including mechanized synovial fluid deflecting structures and particle retaining structures",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "8912304",
+   "title": "Polyol-based polymers",
+   "filing_year": 2008,
+   "grant_year": 2014,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "9227917",
+   "title": "Amine-containing lipidoids and uses thereof",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "9422373",
+   "title": "Modified alginates for cell encapsulation and cell therapy",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "10035871",
+   "title": "Urethane-crosslinked biodegradable elastomers",
+   "filing_year": 2012,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "10849853",
+   "title": "Self-assembled residence devices and related methods",
+   "filing_year": 2015,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "10954490",
+   "title": "Compositions and methods for epithelial stem cell expansion and culture",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8110213",
+   "title": "Method of forming a tissue structure by introducing cells into an implanted matrix",
+   "filing_year": 2008,
+   "grant_year": 2012,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8303573",
+   "title": "Medical or veterinary digestive tract utilization systems and methods",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8317737",
+   "title": "Device for actively removing a target component from blood or lymph of a vertebrate subject",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8333754",
+   "title": "Medical or veterinary digestive tract utilization systems and methods",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8550344",
+   "title": "Specialty stents with flow control features or the like",
+   "filing_year": 2006,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8577693",
+   "title": "Specialty stents with flow control features or the like",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8725529",
+   "title": "Methods and systems for presenting an inhalation experience",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8828081",
+   "title": "Artificial joint components including synovial fluid deflecting structures",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8845739",
+   "title": "Artificial joint components including mechanized synovial fluid deflecting structures",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "9458357",
+   "title": "ph-sensitive sacrificial materials for the microfabrication of structures",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "9724447",
+   "title": "Hydrophobic tissue adhesives",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "10844028",
+   "title": "Aminoalcohol lipidoids and uses thereof",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "7435408",
+   "title": "Porous particles comprising excipients for deep lung delivery",
+   "filing_year": 2004,
+   "grant_year": 2008,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "7628977",
+   "title": "Particles for inhalation having sustained release properties",
+   "filing_year": 2003,
+   "grant_year": 2009,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "7648739",
+   "title": "Switchable surfaces",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "8167871",
+   "title": "Device for actively removing a target cell from blood or lymph of a vertebrate subject",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "8172826",
+   "title": "Device for actively removing a target cell from blood or lymph of a vertebrate subject",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "9332991",
+   "title": "Adhesive articles containing a combination of surface micropatterning and reactive chemistry and methods of making and using thereof",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "9339372",
+   "title": "Breast implant with regionalized analyte sensors responsive to external power source",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "9381477",
+   "title": "Microfluidic synthesis of organic nanoparticles",
+   "filing_year": 2007,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "9457128",
+   "title": "Scaffolds comprising nanoelectronic components for cells, tissues, and other applications",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "9867781",
+   "title": "Hydrogel encapsulated cells and anti-inflammatory drugs",
+   "filing_year": 2012,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "10046119",
+   "title": "Systems and methods for generating an injection guide",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10285949",
+   "title": "Modified alginates for cell encapsulation and cell therapy",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10292936",
+   "title": "Modified alginates for cell encapsulation and cell therapy",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10300136",
+   "title": "Micromolded or 3-D printed pulsatile release vaccine formulations",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10548844",
+   "title": "pH-responsive mucoadhesive polymeric encapsulated microorganisms",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10736848",
+   "title": "Vaccine nanotechnology",
+   "filing_year": 2008,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10933139",
+   "title": "Conjugated lipomers and uses thereof",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10953208",
+   "title": "Triggerable shape memory induction devices",
+   "filing_year": 2016,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5232696",
+   "title": "Reduction of low density lipoproteins in biological fluids",
+   "filing_year": 1987,
+   "grant_year": 1993,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "7879019",
+   "title": "Method of opening reservoir of containment device",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "7914579",
+   "title": "Tissue engineered tendons and ligaments",
+   "filing_year": 2006,
+   "grant_year": 2011,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8109920",
+   "title": "Medical or veterinary digestive tract utilization systems and methods",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8246565",
+   "title": "Device for passively removing a target component from blood or lymph of a vertebrate subject",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8278094",
+   "title": "Bone semi-permeable device",
+   "filing_year": 2005,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8308707",
+   "title": "Method and system for drug delivery to the eye",
+   "filing_year": 2011,
+   "grant_year": 2012,
+   "assignee": "MicroCHIPS, Inc.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8430831",
+   "title": "Device, system, and method for controllably reducing inflammatory mediators in a subject",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8822410",
+   "title": "Tympanic membrane permeating ear drops and uses thereof",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8845741",
+   "title": "Artificial joint components including integral magnetic fields configured to deflect wear debris particles",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Seavete LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8858966",
+   "title": "Methods and compositions for the treatment of open and closed wound spinal cord injuries",
+   "filing_year": 2014,
+   "grant_year": 2014,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9080014",
+   "title": "Polymers for functional particles",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9216188",
+   "title": "Hydrogels for vocal cord and soft tissue augmentation and repair",
+   "filing_year": 2009,
+   "grant_year": 2015,
+   "assignee": "The General Hospital Corporation",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9326730",
+   "title": "Breast implant with covering and analyte sensors responsive to external power source",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9526702",
+   "title": "Vaccine nanotechnology",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9532956",
+   "title": "PH sensitive biodegradable polymeric particles for drug delivery",
+   "filing_year": 2010,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9674510",
+   "title": "Pulsed projection system for 3D video",
+   "filing_year": 2012,
+   "grant_year": 2017,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9724483",
+   "title": "Method for administering an inhalable compound",
+   "filing_year": 2009,
+   "grant_year": 2017,
+   "assignee": "Gearbox, Inc.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9833513",
+   "title": "Liquid protein formulations for injection comprising 1-butyl-3-methylimidazolium methanesulfonate and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "Eagle Biologics, Inc.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9913905",
+   "title": "Liquid pharmaceutical formulations for injection comprising thiamine pyrophosphate 1-(3-aminopropyl)-2-methyl-1H-imidazole and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "Eagle Biologics, Inc.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9925263",
+   "title": "Liquid pharmaceutical formulations for injection comprising procaine and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "Eagle Biologics, Inc.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9974859",
+   "title": "Nanostructured gels capable of controlled release of entrapped agents",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9994615",
+   "title": "Self-regulated peptide hydrogel for insulin delivery",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10052159",
+   "title": "Systems and methods for wearable injection guides",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10134342",
+   "title": "Systems and methods for producing narrowband images",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10163403",
+   "title": "Systems and methods for producing narrowband images",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10182869",
+   "title": "Systems and methods for wearable injection guides",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10278922",
+   "title": "Hydrogel encapsulated cells and anti-inflammatory drugs",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10426735",
+   "title": "Modified alginates for anti-fibrotic materials and applications",
+   "filing_year": 2015,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10786446",
+   "title": "Multi-layer hydrogel capsules for encapsulation of cells and cell aggregates",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10864162",
+   "title": "Mass production and size control of nanoparticles through controlled microvortices",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10868284",
+   "title": "Safely ingestible batteries and methods",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10982038",
+   "title": "Urethane-crosslinked biodegradable elastomers",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "11021687",
+   "title": "Production of differentiated enteroendocrine cells and insulin producing cells",
+   "filing_year": 2017,
+   "grant_year": 2021,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "11083690",
+   "title": "Enteric elastomers",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "11090413",
+   "title": "Modified alginates for anti-fibrotic materials and applications",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "6355224",
+   "title": "Conductive polymer contrast agent compositions and uses therefor",
+   "filing_year": 1998,
+   "grant_year": 2002,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "6582717",
+   "title": "Drug delivery composition and device",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8114647",
+   "title": "Blood brain barrier device",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8206330",
+   "title": "Device, system, and method for controllably reducing inflammatory mediators in a subject",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8308672",
+   "title": "Device for passively removing a target component from blood or lymph of a vertebrate subject",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8354258",
+   "title": "Diatom device",
+   "filing_year": 2007,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8367384",
+   "title": "Bone semi-permeable device",
+   "filing_year": 2007,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8492143",
+   "title": "Bone delivery device",
+   "filing_year": 2012,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8521440",
+   "title": "Systems for genome selection",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8691203",
+   "title": "Method comprising contacting tissue with a cross-linkable polyester prepolymer",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8712794",
+   "title": "Methods and systems for presenting an inhalation experience",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8882747",
+   "title": "Substance delivery system",
+   "filing_year": 2006,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8936590",
+   "title": "Acoustically controlled reaction device",
+   "filing_year": 2006,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8975074",
+   "title": "Bone semi-permeable device",
+   "filing_year": 2007,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9005943",
+   "title": "Bone cell delivery device",
+   "filing_year": 2007,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9005944",
+   "title": "Bone cell delivery device",
+   "filing_year": 2007,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9023630",
+   "title": "Bone cell delivery device",
+   "filing_year": 2007,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9061075",
+   "title": "Bone delivery device",
+   "filing_year": 2007,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9101695",
+   "title": "Methods and compositions for the treatment of open and closed wound spinal cord injuries",
+   "filing_year": 2014,
+   "grant_year": 2015,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9114009",
+   "title": "Nanowired three dimensional tissue scaffolds",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9125974",
+   "title": "Device for passively removing a target component from blood or lymph of a vertebrate subject",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9186640",
+   "title": "Delivery and controlled release of encapsulated lipophilic nutrients",
+   "filing_year": 2007,
+   "grant_year": 2015,
+   "assignee": "PepsiCo, Inc.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9333179",
+   "title": "Amphiphilic compound assisted nanoparticles for targeted delivery",
+   "filing_year": 2009,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9339529",
+   "title": "Glucose-responsive microgels for closed loop insulin delivery",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9867869",
+   "title": "Insulin derivatives for diabetes treatment",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9981068",
+   "title": "Polymers which resist bacterial attachment",
+   "filing_year": 2012,
+   "grant_year": 2018,
+   "assignee": "The University of Nottingham",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10034743",
+   "title": "Breast implant with analyte sensors responsive to external power source",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10149635",
+   "title": "Ingestible devices and methods for physiological status monitoring",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10179172",
+   "title": "Liquid pharmaceutical formulations for injection comprising yellow 5 or orange G and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "Eagle Biologics, Inc.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10485861",
+   "title": "Nanoparticle-based compositions",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10548959",
+   "title": "Compositions and methods for modified dendrimer nanoparticle delivery",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10675351",
+   "title": "Nanostructured gels capable of controlled release of encapsulated agents",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10709818",
+   "title": "Modified alginates for anti-fibrotic materials and applications",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10814115",
+   "title": "Microneedle devices and uses thereof",
+   "filing_year": 2012,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10821184",
+   "title": "Liquid protein formulations containing thiamine pyrophosphate (TPP)",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "Eagle Biologics, Inc.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10835486",
+   "title": "Multi-layer hydrogel capsules for encapsulation of cells and cell aggregates",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10842753",
+   "title": "Modified alginates for cell encapsulation and cell therapy",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10849977",
+   "title": "Liquid Protein Formulations Containing Thiamine",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "Eagle Biologics, Inc.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10898443",
+   "title": "Modified alginates for anti-fibrotic materials and applications",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10960073",
+   "title": "Micromolded or 3-D printed pulsatile release vaccine formulations",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "TOKITAE LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "11045429",
+   "title": "Shear-thinning self-healing networks",
+   "filing_year": 2017,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "11195767",
+   "title": "Integration of a III-V device on a Si substrate",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "Imec vzw",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7252982",
+   "title": "Tissue engineering enhanced by the transfer of a growth factor gene",
+   "filing_year": 2001,
+   "grant_year": 2007,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7291693",
+   "title": "Bioerodible conducting materials",
+   "filing_year": 2002,
+   "grant_year": 2007,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7462471",
+   "title": "Porous biodegradable polymeric materials for cell transplantation",
+   "filing_year": 2004,
+   "grant_year": 2008,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7943179",
+   "title": "pH triggerable polymeric particles",
+   "filing_year": 2004,
+   "grant_year": 2011,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8192385",
+   "title": "Device, system, and method for controllably reducing inflammatory mediators in a subject",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8252570",
+   "title": "Bone delivery device",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8551750",
+   "title": "Device including bone cage and method for treatment of disease in a subject",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8710476",
+   "title": "Systems, devices, methods, and compositions including fluidized x-ray shielding compositions",
+   "filing_year": 2011,
+   "grant_year": 2014,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8795378",
+   "title": "Artificial joint components including synovial fluid deflecting structures and particle retaining structures",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8808276",
+   "title": "Adaptive dispensation in a digestive tract",
+   "filing_year": 2007,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8834522",
+   "title": "Biodegradable shape memory polymeric sutures",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Helmholtz-Zentrum Geesthacht Zentrum für Material- und Küstenforschung GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8855907",
+   "title": "Awarding privileges to a vehicle based upon one or more fuel utilization characteristics",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "Searete LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9061094",
+   "title": "Device for passively removing a target component from blood or lymph of a vertebrate subject",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9236556",
+   "title": "Polymer composite actuator and generator driven by water gradients",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9387080",
+   "title": "Artificial joint components including synovial fluid deflecting structures",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9398955",
+   "title": "Artificial joint components including mechanized synovial fluid deflecting structures and particle retaining structures",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9555413",
+   "title": "Cell rolling separation",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9629963",
+   "title": "Systems and methods for generating an injection guide",
+   "filing_year": 2012,
+   "grant_year": 2017,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9649279",
+   "title": "Fortified micronutrient salt formulations",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9649391",
+   "title": "Particles with multiple functionalized surface domains",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9872911",
+   "title": "Alpha-aminoamidine polymers and uses thereof",
+   "filing_year": 2012,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9876080",
+   "title": "Strained group IV channels",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "Imec vzw",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9907704",
+   "title": "Quick-release adhesive tapes",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10011817",
+   "title": "Cell rolling separation",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10106832",
+   "title": "Method for manufacturing a microbial detection device, microbial detection method, microbial detection kit, and microbial detection device",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "NATIONAL TSING HUA UNIVERSITY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10143809",
+   "title": "Systems and methods for guiding injections",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10179195",
+   "title": "Method comprising contacting tissue with a cross-linkable polyester prepolymer",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10201655",
+   "title": "Methods and devices for inserting a needle",
+   "filing_year": 2013,
+   "grant_year": 2019,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10314917",
+   "title": "Targeted polymeric inflammation-resolving nanoparticles",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10347875",
+   "title": "Safely ingestible batteries and methods",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10369255",
+   "title": "Scaffolds comprising nanoelectronic components for cells, tissues, and other applications",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10596267",
+   "title": "Method and process for quantitative evaluation of pharmacokinetics, therapeutic effects and safety of delivery of drug compounds to the inner ear for treatment of auditory disease",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "The Charles Stark Draper Laboratory, Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10646571",
+   "title": "Liquid protein formulations containing cimetidine",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "Eagle Biologics, Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10682260",
+   "title": "Quick-release adhesive tapes",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10683379",
+   "title": "Polymers, hydrogels, and uses thereof",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10709667",
+   "title": "Hydrogel encapsulated cells and anti-inflammatory drugs",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10729818",
+   "title": "Modified alginates for anti-fibrotic materials and applications",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10730983",
+   "title": "Biocompatible coatings and hydrogels for reducing foreign body response and fibrosis",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10736966",
+   "title": "Brush-poly (glycoamidoamine)-lipids and uses thereof",
+   "filing_year": 2015,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10821183",
+   "title": "Liquid protein formulations containing 4-(3-butyl-1-imidazolio)-1-butane sulfonate (BIM)",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "Eagle Biologics, Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10851069",
+   "title": "Compositions of crystallized hydrophobic compounds and methods of making and using same",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10864303",
+   "title": "Method comprising contacting tissue with a cross-linkable polyester prepolymer",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10874621",
+   "title": "Cationic nanoparticles for co-delivery of nucleic acids and therapeutic agents",
+   "filing_year": 2014,
+   "grant_year": 2020,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11004962",
+   "title": "Integrated circuit including at least one nano-ridge transistor",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "Imec vzw",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11167066",
+   "title": "Local drug delivery devices and methods for treating cancer",
+   "filing_year": 2016,
+   "grant_year": 2021,
+   "assignee": "The General Hospital Corporation",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11185626",
+   "title": "Systems, apparatus, and methods for administering a substance",
+   "filing_year": 2017,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11191841",
+   "title": "Supramolecular modification of proteins",
+   "filing_year": 2016,
+   "grant_year": 2021,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7888036",
+   "title": "Systems for genome selection",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7932040",
+   "title": "Systems for genome selection",
+   "filing_year": 2009,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7932041",
+   "title": "Systems for genome selection",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7939311",
+   "title": "Systems for genome selection",
+   "filing_year": 2009,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7947455",
+   "title": "System for genome selection",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7947457",
+   "title": "Systems for genome selection",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7985578",
+   "title": "Systems for genome selection",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7989196",
+   "title": "Systems for genome selection",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8003371",
+   "title": "Systems for genome selection",
+   "filing_year": 2010,
+   "grant_year": 2011,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8172833",
+   "title": "Remote control of substance delivery system",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8273071",
+   "title": "Remote controller for substance delivery system",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8304220",
+   "title": "Bone semi-permeable device",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8377463",
+   "title": "Methods and compositions for the treatment of open and closed wound spinal cord injuries",
+   "filing_year": 2007,
+   "grant_year": 2013,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8394410",
+   "title": "Soft polylactides",
+   "filing_year": 2006,
+   "grant_year": 2013,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8454547",
+   "title": "Device, system, and method for controllably reducing inflammatory mediators in a subject",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8481068",
+   "title": "Bone cell delivery device",
+   "filing_year": 2010,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8551749",
+   "title": "Device including bone cage and method for treatment of disease in a subject",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8568388",
+   "title": "Remote controlled in situ reaction device",
+   "filing_year": 2006,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8585684",
+   "title": "Reaction device controlled by magnetic control signal",
+   "filing_year": 2005,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8617141",
+   "title": "Remote controlled in situ reaction device",
+   "filing_year": 2005,
+   "grant_year": 2013,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8642333",
+   "title": "Particulate delivery vehicles for embryoid bodies",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8685434",
+   "title": "Methods and compositions for the treatment of open and closed wound spinal cord injuries",
+   "filing_year": 2013,
+   "grant_year": 2014,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8691545",
+   "title": "Bone semi-permeable device",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8694330",
+   "title": "Methods and systems for presenting an inhalation experience",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8707964",
+   "title": "Medical or veterinary digestive tract utilization systems and methods",
+   "filing_year": 2007,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8721618",
+   "title": "Device for actively removing a target cell from blood or lymph of a vertebrate subject",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8758324",
+   "title": "Device for actively removing a target cell from blood or lymph of a vertebrate subject",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8758330",
+   "title": "Device for actively removing a target cell from blood or lymph of a vertebrate subject",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8789536",
+   "title": "Medical or veterinary digestive tract utilization systems and methods",
+   "filing_year": 2007,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8808271",
+   "title": "Medical or veterinary digestive tract utilization systems and methods",
+   "filing_year": 2007,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8906687",
+   "title": "Blood brain barrier device",
+   "filing_year": 2006,
+   "grant_year": 2014,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8962316",
+   "title": "Choroid plexus device",
+   "filing_year": 2006,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8968274",
+   "title": "Acoustically controlled substance delivery device",
+   "filing_year": 2008,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8992511",
+   "title": "Acoustically controlled substance delivery device",
+   "filing_year": 2006,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8998884",
+   "title": "Remote controlled in situ reaction method",
+   "filing_year": 2005,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8998886",
+   "title": "Remote control of osmotic pump device",
+   "filing_year": 2005,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9006694",
+   "title": "Systems, devices, methods, and compositions including fluidized x-ray shielding compositions",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9028467",
+   "title": "Osmotic pump with remotely controlled osmotic pressure generation",
+   "filing_year": 2005,
+   "grant_year": 2015,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9063128",
+   "title": "Three dimensional lignocellulosic detection device",
+   "filing_year": 2013,
+   "grant_year": 2015,
+   "assignee": "NATIONAL TSING HUA UNIVERSITY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9168389",
+   "title": "Harmonic generation for activation of species and/or delivery of species to a target environment",
+   "filing_year": 2013,
+   "grant_year": 2015,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9198568",
+   "title": "Methods and systems of matching voice deficits with a tunable mucosal implant to restore and enhance individualized human sound and voice production",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "The General Hospital Corporation",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9254256",
+   "title": "Remote controlled in vivo reaction method",
+   "filing_year": 2005,
+   "grant_year": 2016,
+   "assignee": "THE INVENTION SCIENCE FUND I, LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9267937",
+   "title": "System for screening particles",
+   "filing_year": 2006,
+   "grant_year": 2016,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9387081",
+   "title": "Artificial joint components including synovial fluid deflecting structures and particle retaining structures",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9398954",
+   "title": "Artificial joint components including mechanized synovial fluid deflecting structures",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9412476",
+   "title": "Systems, devices, methods, and compositions including fluidized x-ray shielding compositions",
+   "filing_year": 2011,
+   "grant_year": 2016,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9440008",
+   "title": "Methods and compositions for the treatment of open and closed wound spinal cord injuries",
+   "filing_year": 2015,
+   "grant_year": 2016,
+   "assignee": "Children's Medical Center Corporation",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9474712",
+   "title": "In situ reaction device",
+   "filing_year": 2005,
+   "grant_year": 2016,
+   "assignee": "Gearbox, Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9612203",
+   "title": "Detection device and manufacturing method for the same",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "NATIONAL TSING HUA UNIVERSITY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9614082",
+   "title": "Al-poor barrier for InGaAs semiconductor structure",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "Imec vzw",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9682169",
+   "title": "Hydrogels for vocal cord and soft tissue augmentation and repair",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9688812",
+   "title": "Polymers for functional particles",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9689854",
+   "title": "Food safety detection device and manufacturing method for the same",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "NATIONAL TSING HUA UNIVERSITY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9709718",
+   "title": "Systems and methods for producing narrowband images",
+   "filing_year": 2013,
+   "grant_year": 2017,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9750361",
+   "title": "Odorant-releasing utensil",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "Elwha LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9750903",
+   "title": "Method for administering an inhalable compound",
+   "filing_year": 2009,
+   "grant_year": 2017,
+   "assignee": "Gearbox, Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9931410",
+   "title": "Nanoparticles for targeted delivery of multiple therapeutic agents and methods of use",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9931477",
+   "title": "Methods and devices for sensing tissues and tissue compartments",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "THE BRIGHAM AND WOMEN'S HOSPITAL, INC.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9970002",
+   "title": "Compositions and methods for functional nucleic acid delivery",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "cited_by_patents": 0
+  }
+ ]
+}

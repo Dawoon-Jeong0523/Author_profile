@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "The potential and challenges of nanopore sequencing" (2008): impact percentile 1.00, disruption percentile 0.02, Foundation share 0.49, cited by 541 inventions and 2 books.
 3. "Three decades of nanopore sequencing" (2016): impact percentile 1.00, disruption percentile 0.06, Foundation share 0.42, cited by 27 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 22 of the person's 29 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 5,795,782 "Characterization of individual polymer molecules based on monomer-interface interactions" (filed 1995, granted 1998; assignee President and Fellows of Harvard College): cited by 430 later US patents.
+2. US 6,267,872 "Miniature support for thin films containing single channels or nanopores and methods for using same" (filed 1999, granted 2001; assignee THE REGENTS OF THE UNIVERSITY OF CALIFORNIA): cited by 121 later US patents.
+3. US 6,428,959 "Methods of determining the presence of double stranded nucleic acids in a sample" (filed 2000, granted 2002; assignee THE REGENTS OF THE UNIVERSITY OF CALIFORNIA): cited by 116 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,215 (higher than 95 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 29 (higher than 84 % of the 61 Chemistry laureates of 2000-2025 at prize time).

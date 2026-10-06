@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "C–H activation" (2021): impact percentile 1.00, disruption percentile 0.06, Foundation share 0.08, cited by 0 inventions and 0 books.
 3. "Intramolecular C(sp 3 )–H amination" (2013): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.29, cited by 1 invention and 0 books.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021).
+
 ## Technological translation
 - Distinct citing inventions: 205 (higher than 51 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

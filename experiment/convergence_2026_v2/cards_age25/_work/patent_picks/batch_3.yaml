@@ -1,0 +1,148 @@
+Ching W. Tang:
+  picks:
+  - patent_id: '4539507'
+    reason: The 1983 VanSlyke-Tang filing claiming the efficient multilayer organic electroluminescent device (hole-transport plus luminescent electron-transport layers) that defined the modern OLED
+  - patent_id: '4356429'
+    reason: The earliest Tang filing (1980), an organic electroluminescent cell with separate hole-injecting and luminescent organic layers, the direct precursor of the bilayer OLED
+  - patent_id: '4769292'
+    reason: The 1987 filing introducing a doped (host-guest) luminescent zone, the step that raised OLED efficiency and allowed colour tuning
+  n_related: 75
+  note: 'The portfolio overwhelmingly reflects the discovery, with nearly every Kodak patent covering OLED devices, materials, cathodes and displays. The few non-OLED patents (1978-1981 organic photovoltaic cells, a photoreceptor, colour-filter and display-optics patents) fit Tang''s own Kodak career rather than a different inventor.'
+
+David L. Allara:
+  picks:
+  - patent_id: '4690715'
+    reason: The 1982 Bell Labs filing with Nuzzo on modifying metal surfaces with adsorbed organic monolayers, matching the founding disulfide-on-gold self-assembled monolayer work
+  n_related: 2
+  note: 'Only the 1982 Bell Labs patent is a SAM patent; the later molecular-computer and SERS-substrate patents involve molecular films on metals but not SAM formation as such. The impact-deflecting textile patents (Block Textiles, Intelligent Textiles, 2005-2007) are unrelated technology and may belong to a different inventor.'
+
+George M. Whitesides:
+  picks:
+  - patent_id: '5512131'
+    reason: The 1993 microcontact printing patent, which patterns alkanethiol self-assembled monolayers on gold and is the main patent built directly on the Whitesides SAM chemistry
+  - patent_id: '5620850'
+    reason: The 1994 filing claiming surfaces derivatized with self-assembled monolayers for molecular recognition, the core SAM surface-chemistry patent
+  - patent_id: '6518168'
+    reason: Covers SAM-directed patterning of surfaces, using monolayers as templates for selective deposition
+  n_related: 25
+  note: 'No patent claims SAM formation itself; Whitesides patented downstream uses such as microcontact printing, SAM-based biosurfaces and cell patterning. Most of the list is his other work (soft lithography, microfluidics, soft robots, IGEN electrochemiluminescence labels, Geltex polymers, early MIT enzymatic synthesis); the Firmenich and Hoffmann-La Roche synthesis patents look out of place but are not clearly a different person.'
+
+Jacob Sagiv:
+  picks:
+  - patent_id: '4539061'
+    reason: The 1983 filing on building films by stepwise chemisorption of individual silane monolayers, the founding patent of the Sagiv self-assembled monolayers on solid surfaces
+  - patent_id: '4964972'
+    reason: Applies self-assembling monolayer membranes on electrodes for ionic recognition, a direct extension of the SAM discovery
+  - patent_id: '7374813'
+    reason: Constructive nanolithography, which patterns and builds on organosilane self-assembled monolayers
+  n_related: 3
+  note: 'Three of the four patents are SAM patents and reflect the discovery well; no sign of a different inventor.'
+
+James J. Collins:
+  picks:
+  - patent_id: '6841376'
+    reason: The bistable genetic toggle switch, the founding synthetic gene circuit (filed 2001 from the 2000 toggle-switch work)
+  - patent_id: '6737269'
+    reason: The 2001 multi-state genetic oscillator filing, an early engineered gene-network design from the same founding period
+  - patent_id: '6828140'
+    reason: A 2001 Cellicon filing on an adjustable-threshold genetic switch, part of the original toggle-switch family of synthetic circuits
+  n_related: 17
+  note: 'About a third of the list is synthetic gene circuits (switches, oscillators, riboregulators, counters, converters, sensors). The rest is Collins''s own work on vibrating insoles and stochastic resonance, CRISPR diagnostics with the Broad Institute and antibiotic potentiation, not a different inventor.'
+
+John F. Hartwig:
+  picks:
+  - patent_id: '5817877'
+    reason: The earliest (1997) filing, claiming metal-catalyzed amination of aryl sulfonates to aryl amines, part of the founding Pd-catalyzed C-N coupling work
+  - patent_id: '5977361'
+    reason: The 1998 core patent on transition-metal-catalyzed preparation of N-aryl compounds from aryl halides, the Buchwald-Hartwig amination itself
+  - patent_id: '6451937'
+    reason: The 2000 filing on selective catalytic thermal functionalization of primary C-H bonds (alkane borylation), the founding C-H functionalization patent
+  n_related: 12
+  note: 'Both discoveries are represented, the C-N coupling family (Yale, 1997-2008) and C-H functionalization (borylation, C-H fluorination, C-H silylation). The alpha-arylation and fluoroalkylation patents are his own related cross-coupling work; no sign of a different inventor.'
+
+Makoto Fujita:
+  picks:
+  - patent_id: '8791261'
+    reason: Claims self-assembled polyhedral transition-metal complexes (M12L24-type spheres), the clearest patent on coordination-driven self-assembled cages
+  - patent_id: '8530649'
+    reason: The 2007 filing on porous coordination polymer complexes assembled from metal ions and bridging ligands
+  - patent_id: '10190952'
+    reason: The crystalline-sponge patent, using self-assembled porous metal-complex crystals to take up guests for structure determination
+  n_related: 10
+  note: 'No patent covers the founding 1990s self-assembly work; only the Tokyo/JST metal-complex patents (2007 onward) and the 1988 Sagami Chemical patent belong to the chemist. The Sumitomo Electric disk-changer, Toyota engine-control and cylinder-liner, and Central Motor Wheel aluminium-composite patents are clearly other inventors named Makoto Fujita, and the Toyota Central R&D molecular-assembly patent is uncertain.'
+
+Mark D. Matteucci:
+  picks:
+  - patent_id: '4458066'
+    reason: The 1981 Caruthers-Matteucci filing on solid-phase polynucleotide synthesis via phosphite-triester coupling, the founding patent of automated DNA synthesis
+  - patent_id: '4500707'
+    reason: Claims the protected nucleoside reagents used in that solid-phase process, the companion founding patent
+  n_related: 7
+  note: 'The two founding 1981-82 patents and their continuations (5132418, 5153319) carry the discovery; Genentech H-phosphonate synthesis patents relate to oligonucleotide synthesis but not to phosphoramidites. The bulk of the list is later Gilead/Isis antisense analogs and Threshold hypoxia-activated prodrugs, consistent with Matteucci''s own career rather than a different inventor.'
+
+Pascal Mayer:
+  picks:
+  - patent_id: '7115400'
+    reason: The 1999 founding filing on solid-phase bridge amplification of DNA into clusters and their sequencing, the basis of Solexa/Illumina sequencing-by-synthesis
+  - patent_id: '7790418'
+    reason: The 2001 filing on isothermal amplification of nucleic acids on a solid support, the cluster-generation chemistry
+  - patent_id: '7985565'
+    reason: The 2003 filing of the Method of nucleic acid amplification family, covering surface-bound amplification used to form sequencing clusters
+  n_related: 12
+  note: 'The discovery is well reflected by the bridge-amplification families and their continuations. The electrophoretic purification, ferrofluid separation and biofilm assay patents are other lines of work with no clear sign of a different inventor.'
+
+Paul W. K. Rothemund:
+  picks:
+  - patent_id: '7842793'
+    reason: The 2006 founding DNA origami patent, folding a long scaffold strand with short staple strands into programmed nanostructures
+  - patent_id: '9340416'
+    reason: Covers polynucleotide nanoassemblies and arrangements built by programmable DNA self-assembly
+  - patent_id: '11125748'
+    reason: Placement of DNA origami on lithographically patterned substrates to organize single molecules, a direct application of origami
+  n_related: 5
+  note: 'All patents relate to programmable DNA self-assembly; 8501923 is a continuation of the founding origami patent and 5843661 is earlier DNA-computing work. No sign of a different inventor.'
+
+Pieter R. Cullis:
+  picks:
+  - patent_id: '5077056'
+    reason: The 1988 filing on transmembrane pH-gradient loading of antineoplastic drugs into liposomes, the founding drug-delivery lipid particle technology
+  - patent_id: '5981501'
+    reason: The 1995 filing on encapsulating plasmid DNA in lipid bilayer particles, the earliest of the nucleic acid lipid particle family
+  - patent_id: '6858225'
+    reason: Covers lipid-encapsulated nucleic acids made with ionizable cationic lipids, the formulation route that led to clinical siRNA and mRNA lipid nanoparticles
+  n_related: 65
+  note: 'The portfolio reflects the discovery almost entirely (Liposome Company, Inex/Tekmira and UBC lipid-particle patents for drugs and nucleic acids). No sign of a different inventor; the polymeric side of the option belongs to the other named candidates.'
+
+Ralph G. Nuzzo:
+  picks:
+  - patent_id: '4690715'
+    reason: The 1982 Bell Labs filing with Allara on modifying metal surfaces with adsorbed organic monolayers, the founding patent of the organosulfur-on-gold SAM work
+  - patent_id: '4579752'
+    reason: A 1984 Bell Labs filing on corrosion-protecting metal surfaces, apparently an application of the same surface-monolayer chemistry
+  - patent_id: '6518168'
+    reason: Harvard patent on SAM-directed patterning of surfaces, using monolayers as templates for selective deposition
+  n_related: 3
+  note: 'Only three patents relate to SAMs; the bulk of the list is the later Illinois transfer-printing and stretchable-electronics work with Rogers, plus Bell Labs catalyst and CVD patents. All of it fits Nuzzo''s career rather than a different inventor.'
+
+Serge L. Beaucage:
+  picks:
+  - patent_id: '4415732'
+    reason: The 1981 Beaucage-Caruthers filing claiming nucleoside phosphoramidite compounds and processes for oligonucleotide synthesis, the founding phosphoramidite patent
+  - patent_id: '4668777'
+    reason: Covers the phosphoramidite nucleoside compounds themselves, a direct founding-family patent
+  - patent_id: '4973679'
+    reason: Claims the oligonucleotide synthesis process using phosphoramidite intermediates
+  n_related: 11
+  note: 'Nearly all patents concern phosphoramidite or oligonucleotide synthesis chemistry (founding University Patents filings, then HHS work on sulfurization and thermolabile protecting groups). The 2004 Rematek printed-circuit-board test fixture is unrelated and almost certainly a different inventor.'
+
+Thomas J. Meyer:
+  picks:
+  - patent_id: '8524903'
+    reason: Claims Ru and Os water-oxidation catalysts whose mechanism runs through proton-coupled electron transfer steps, the closest link to the PCET work
+  n_related: 4
+  note: 'The discovery is theoretical and is only indirectly reflected, via water-oxidation and solar water-splitting patents that rely on PCET. The 1995 HHS nitric-oxide sensor may belong to a different Thomas J. Meyer; the other patents (CO2-reduction electrodes, tritium removal, quantum-dot catalyst activation) fit his career.'
+
+Tsutomu Miyasaka:
+  picks: []
+  n_related: 0
+  note: 'No perovskite or dye-sensitized solar cell patent appears; the list is Fuji Photo Film era photographic, lithium-ion battery and bacteriorhodopsin photoelectric work (assignee shown as Fujitsu, likely a matching error). The Suwa Seikosha watch-case (1974-1978), Data Tec vehicle-motion and electric-automobile patents look like other inventors with the same name.'

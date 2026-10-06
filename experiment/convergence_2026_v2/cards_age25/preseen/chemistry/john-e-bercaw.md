@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Exploring the Mechanism of Aqueous C−H Activation by Pt(II) through Model Chemistry: Evidence for the Intermediacy of Alkylhydridoplatinum(IV) and Alkane σ-Adducts" (1996): impact percentile 1.00, disruption percentile 0.07, Foundation share 0.27, cited by 1 invention and 0 books.
 3. "C−H Activation at Cationic Platinum(II) Centers" (1997): impact percentile 1.00, disruption percentile 0.02, Foundation share 0.57, cited by 1 invention and 0 books.
 
+## Patents tied to the discovery
+- About 2 of the person's 9 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the one most tied to it:
+1. US 9,676,680 "Tandem transfer hydrogenation and oligomerization for hydrocarbon production" (filed 2014, granted 2017; assignee California Institute of Technology): cited by 0 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 449 (higher than 67 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 9 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).

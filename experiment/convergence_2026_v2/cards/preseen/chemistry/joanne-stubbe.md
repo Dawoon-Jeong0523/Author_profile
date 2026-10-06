@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Mechanisms of bleomycin-induced DNA degradation" (1987): impact percentile 0.99, disruption percentile n/a, Foundation share n/a, cited by 10 inventions and 0 books.
 3. "Radical Initiation in the Class I Ribonucleotide Reductase: Long-Range Proton-Coupled Electron Transfer?" (2003): impact percentile 1.00, disruption percentile 0.10, Foundation share 0.27, cited by 1 invention and 1 book.
 
+## Patents tied to the discovery
+- About 1 of the person's 1 US utility patents (granted up to 2021) relate to the listed discovery; the one most tied to it:
+1. US 8,673,591 "Genetic incorporation of 3-aminotyrosine into reductases" (filed 2008, granted 2014; assignee The Scripps Research Institute): cited by 0 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 187 (higher than 44 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 1 (higher than 24 % of the 61 Chemistry laureates of 2000-2025 at prize time).

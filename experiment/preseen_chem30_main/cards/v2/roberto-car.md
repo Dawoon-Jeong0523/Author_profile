@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Unified Approach for Molecular Dynamics and Density-Functional Theory" (1985): impact percentile 1.00, disruption percentile 0.53, Foundation share 0.61, cited by 30 inventions and 15 books.
 3. "Raman Spectra of Graphite Oxide and Functionalized Graphene Sheets" (2007): impact percentile 1.00, disruption percentile 0.28, Foundation share 0.60, cited by 12 inventions and 1 book.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021).
+
 ## Technological translation
 - Distinct citing inventions: 337 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

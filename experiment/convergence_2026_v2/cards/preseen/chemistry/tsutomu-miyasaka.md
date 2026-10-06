@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Halide Perovskite Photovoltaics: Background, Status, and Future Prospects" (2019): impact percentile 1.00, disruption percentile 0.02, Foundation share 0.23, cited by 0 inventions and 0 books.
 3. "Tin-Based Amorphous Oxide: A High-Capacity Lithium-Ion-Storage Material" (1997): impact percentile 1.00, disruption percentile 0.96, Foundation share 0.59, cited by 88 inventions and 2 books.
 
+## Patents tied to the discovery
+- None of the person's 33 US utility patents (granted up to 2021) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 324 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 33 (higher than 85 % of the 61 Chemistry laureates of 2000-2025 at prize time).

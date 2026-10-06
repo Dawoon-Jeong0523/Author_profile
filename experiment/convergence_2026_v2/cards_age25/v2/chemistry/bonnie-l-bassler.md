@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Quorum sensing in Escherichia coli , Salmonella typhimurium , and Vibrio harveyi : A new family of genes responsible for autoinducer production" (1999): impact percentile 1.00, disruption percentile 0.33, Foundation share 0.54, cited by 40 inventions and 2 books.
 3. "Structural identification of a bacterial quorum-sensing signal containing boron" (2002): impact percentile 1.00, disruption percentile 0.18, Foundation share 0.60, cited by 35 inventions and 4 books.
 
+## Patents tied to the discovery
+- About 27 of the person's 30 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 6,720,415 "Compositions and methods for regulating bacterial pathogenesis" (filed 1999, granted 2004; assignee The Trustees of Princeton University): cited by 5 later US patents.
+2. US 6,559,176 "Compounds and methods for regulating bacterial growth and pathogenesis" (filed 2001, granted 2003; assignee The Trustees of Princeton University): cited by 38 later US patents.
+3. US 8,535,689 "Identification of bacterial autoinducer and use in treating bacterial pathogenicity" (filed 2008, granted 2013; assignee The Trustees of Princeton University): cited by 0 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 320 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 30 (higher than 84 % of the 61 Chemistry laureates of 2000-2025 at prize time).

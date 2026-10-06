@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Coordination Assemblies from a Pd(II)-Cornered Square Complex" (2005): impact percentile 1.00, disruption percentile 0.55, Foundation share 0.58, cited by 10 inventions and 1 book.
 3. "Functional Molecular Flasks: New Properties and Reactions within Discrete, Self‐Assembled Hosts" (2009): impact percentile 1.00, disruption percentile 0.02, Foundation share 0.45, cited by 3 inventions and 1 book.
 
+## Patents tied to the discovery
+- About 10 of the person's 27 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 8,791,261 "Polyhedraltransition metal complex, transition metal complex containing ultrafine particles therein, and process for producing same" (filed 2010, granted 2014; assignee Japan Science and Technology Agency): cited by 0 later US patents.
+2. US 8,530,649 "Polymer complex" (filed 2007, granted 2013; assignee The University of Tokyo): cited by 0 later US patents.
+3. US 10,190,952 "Guest-compound-enveloping polymer-metal-complex crystal, method for producing same, method for preparing crystal structure analysis sample, and method for determining molecular structure of organic compound" (filed 2013, granted 2019; assignee Japan Science and Technology Agency): cited by 15 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 201 (higher than 48 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 27 (higher than 84 % of the 61 Chemistry laureates of 2000-2025 at prize time).

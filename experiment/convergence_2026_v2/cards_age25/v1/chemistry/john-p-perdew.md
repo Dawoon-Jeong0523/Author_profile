@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Accurate and simple density functional for the electronic exchange energy: Generalized gradient approximation" (1986): impact percentile 0.99, disruption percentile 0.18, Foundation share 0.36, cited by 2 inventions and 5 books.
 3. "Self-interaction correction to density-functional approximations for many-electron systems" (1981): impact percentile 1.00, disruption percentile 0.12, Foundation share 0.28, cited by 37 inventions and 20 books.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021, filed from age 25 on).
+
 ## Technological translation
 - Distinct citing inventions: 336 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

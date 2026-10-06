@@ -1,0 +1,649 @@
+{
+ "person": "Jean M. J. Fréchet",
+ "options": [
+  "for the development of dendritic polymers — Jean M. J. Fréchet, Donald A. Tomalia"
+ ],
+ "birth_year": 1944,
+ "patents": [
+  {
+   "patent_id": "4491628",
+   "title": "Positive- and negative-working resist compositions with acid generating photoinitiator and polymer with acid labile groups pendant from polymer backbone",
+   "filing_year": 1982,
+   "grant_year": 1985,
+   "assignee": "International Business Machines Corporation",
+   "cited_by_patents": 641
+  },
+  {
+   "patent_id": "5041516",
+   "title": "Dendritic molecules and method of production",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 155
+  },
+  {
+   "patent_id": "5334310",
+   "title": "Column with macroporous polymer media",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 132
+  },
+  {
+   "patent_id": "6406632",
+   "title": "Rapid characterization of polymers",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "Symyx Technologies, Inc.",
+   "cited_by_patents": 116
+  },
+  {
+   "patent_id": "5453185",
+   "title": "Column with macroporous polymer media",
+   "filing_year": 1994,
+   "grant_year": 1995,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 112
+  },
+  {
+   "patent_id": "5728457",
+   "title": "Porous polymeric material with gradients",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 108
+  },
+  {
+   "patent_id": "6887384",
+   "title": "Monolithic microfluidic concentrators and mixers",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 101
+  },
+  {
+   "patent_id": "6475391",
+   "title": "Rapid characterization of polymers for combinatorial, analytical and process control applications",
+   "filing_year": 2001,
+   "grant_year": 2002,
+   "assignee": "Symyx Technologies, Inc.",
+   "cited_by_patents": 100
+  },
+  {
+   "patent_id": "4801517",
+   "title": "Polyarylamine compounds and systems utilizing polyarylamine compounds",
+   "filing_year": 1987,
+   "grant_year": 1989,
+   "assignee": "Xerox Corporation",
+   "cited_by_patents": 96
+  },
+  {
+   "patent_id": "5316680",
+   "title": "Multimodal chromatographic separation media and process for using same",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 87
+  },
+  {
+   "patent_id": "5929214",
+   "title": "Thermally responsive polymer monoliths",
+   "filing_year": 1998,
+   "grant_year": 1999,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 77
+  },
+  {
+   "patent_id": "4657845",
+   "title": "Positive tone oxygen plasma developable photoresist",
+   "filing_year": 1986,
+   "grant_year": 1987,
+   "assignee": "International Business Machines Corporation",
+   "cited_by_patents": 76
+  },
+  {
+   "patent_id": "4939070",
+   "title": "Thermally stable photoresists with high sensitivity",
+   "filing_year": 1988,
+   "grant_year": 1990,
+   "assignee": "",
+   "cited_by_patents": 74
+  },
+  {
+   "patent_id": "5130343",
+   "title": "Process for producing uniform macroporous polymer beads",
+   "filing_year": 1991,
+   "grant_year": 1992,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 66
+  },
+  {
+   "patent_id": "6663855",
+   "title": "Cosmetic and personal care compositions",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "Unilever Home & Personal Care USA, Division of Conopco, Inc.",
+   "cited_by_patents": 51
+  },
+  {
+   "patent_id": "5522994",
+   "title": "Single column chromatographic determination of small molecules in mixtures with large molecules",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 49
+  },
+  {
+   "patent_id": "5587446",
+   "title": "Hyperbranched polymers from AB monomers",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 45
+  },
+  {
+   "patent_id": "5431807",
+   "title": "Multimodal chromatographic separation media and process for using same",
+   "filing_year": 1994,
+   "grant_year": 1995,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 43
+  },
+  {
+   "patent_id": "5514764",
+   "title": "Hyperbranched polyesters and polyamides",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 38
+  },
+  {
+   "patent_id": "5030532",
+   "title": "Electrophotographic imaging member utilizing polyarylamine polymers",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "Xerox Corporation",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "5545509",
+   "title": "Photoresist composition with photosensitive base generator",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "International Business Machines Corporation",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "5593729",
+   "title": "Pore-size selective modification of porous materials",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 34
+  },
+  {
+   "patent_id": "7431888",
+   "title": "Photoinitiated grafting of porous polymer monoliths and thermoplastic polymers for microfluidic devices",
+   "filing_year": 2003,
+   "grant_year": 2008,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "5587441",
+   "title": "Hyperbranched polymers from AB monomers",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "5633290",
+   "title": "Pore-size selective modification of porous materials",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 29
+  },
+  {
+   "patent_id": "5648196",
+   "title": "Water-soluble photoinitiators",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 26
+  },
+  {
+   "patent_id": "6685925",
+   "title": "Cosmetic and personal care compositions",
+   "filing_year": 2001,
+   "grant_year": 2004,
+   "assignee": "",
+   "cited_by_patents": 26
+  },
+  {
+   "patent_id": "7465439",
+   "title": "Home and personal care compositions comprising silicon-based lubricants",
+   "filing_year": 2003,
+   "grant_year": 2008,
+   "assignee": "Conopco, Inc.",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "5532113",
+   "title": "Method of making microelectronic structures utilzing photoresists containing C.sub.3 C.sub.12 water soluble sugar crosslinking agents",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "5635571",
+   "title": "Polymerizable macromonomers and polymers prepared therefrom",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "5536616",
+   "title": "Photoresists containing water soluble sugar crosslinking agents",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "6100214",
+   "title": "Polymeric supported catalysts for olefin polymerization",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "7097856",
+   "title": "Dendrimeric support or carrier macromolecule",
+   "filing_year": 2001,
+   "grant_year": 2006,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "5532106",
+   "title": "Positive-tone photoresist containing diester dissolution inhibitors",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5656694",
+   "title": "Interpolymer cures of blends comprising halogenated isoolefin/para-alkylstyrene elastomers and unsaturated elastomers",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "7056901",
+   "title": "Microgel particles for the delivery of bioactive materials",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5663260",
+   "title": "Hyperbranched copolymers from AB monomers and C monomers",
+   "filing_year": 1994,
+   "grant_year": 1997,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "5306561",
+   "title": "Preparation of surface-functional polymer particles",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "5155200",
+   "title": "Polyarylamine polymers",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "Xerox Corporation",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "6300424",
+   "title": "Hyperbranched polyesters and polyamides",
+   "filing_year": 1993,
+   "grant_year": 2001,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "7101937",
+   "title": "Dendritic based macromolecules",
+   "filing_year": 1995,
+   "grant_year": 2006,
+   "assignee": "",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "5139696",
+   "title": "Hydrogen-bonded liquid crystal complexes",
+   "filing_year": 1991,
+   "grant_year": 1992,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "5830948",
+   "title": "Polymerizable macromonomers and polymers prepared therefrom",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "6616825",
+   "title": "Electrochromatographic device for use in enantioselective separation, and enantioselective separation medium for use therein",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "6890522",
+   "title": "Cosmetic and personal care compositions",
+   "filing_year": 2003,
+   "grant_year": 2005,
+   "assignee": "Unilever Home & Personal Care USA, Division of Conopco, Inc.",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "5585223",
+   "title": "Positive-tone photoresist containing novel diester dissolution inhibitors",
+   "filing_year": 1996,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "6013413",
+   "title": "Alicyclic nortricyclene polymers and co-polymers",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "6673192",
+   "title": "Multi-amine compound primers for bonding of polyolefins with cyanoacrylate adhesives",
+   "filing_year": 1997,
+   "grant_year": 2004,
+   "assignee": "Loctite Corporation",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "5084522",
+   "title": "Styrenic polymer containing pendant reactive tertiary structures and the preparation thereof",
+   "filing_year": 1988,
+   "grant_year": 1992,
+   "assignee": "University of Ottawa",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5849828",
+   "title": "Metalation and functionalization of polymers and copolymers",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5814708",
+   "title": "Process for oxidative functionalization of polymers containing alkylstyrene",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "6228978",
+   "title": "Star-branched polymer with dendrimer core",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "ExxonMobil Chemical Patents Inc.",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "4800152",
+   "title": "Negative resist compositions",
+   "filing_year": 1987,
+   "grant_year": 1989,
+   "assignee": "International Business Machines Corporation",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "5589537",
+   "title": "Single phase solids of polymerizable metal clusters",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "6545101",
+   "title": "Star-branched polymer with dendrimer core",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "ExxonMobil Chemical Patents Inc.",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "6767968",
+   "title": "ABA-type block copolymers having a random block of hydrophobic and hydrophilic monomers and methods of making same",
+   "filing_year": 2000,
+   "grant_year": 2004,
+   "assignee": "Symyx Technologies, Inc.",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "8277664",
+   "title": "Extraction of anions from solutions and mixtures using hyperbranched macromolecules",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "California Institute of Technology",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "5214105",
+   "title": "Preparation of graft copolymers from macromolecules containing reactive tertiary structures",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "University of Ottawa",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "6011120",
+   "title": "Alkenyl silane functionalization of alkylstyrene homopolyers and copolymers",
+   "filing_year": 1996,
+   "grant_year": 2000,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "6426313",
+   "title": "Polymeric supported catalysts for olefin polymerization",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "ExxonMobil Chemical Patents Inc.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "8137700",
+   "title": "Main chain acid-degradable polymers for the delivery of bioactive materials",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "U.S. Department of Energy",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5210148",
+   "title": "Styrenic polymer containing polyisobutylene side-chains",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "University of Ottawa",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "7683041",
+   "title": "Microgel particles for the delivery of bioactive materials",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "5037574",
+   "title": "Hydrogen-bonded liquid crystal complexes",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5670581",
+   "title": "Metalation and functionalization of polymers and copolymers",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5814707",
+   "title": "Process for oxidative functionalization of polymers containing alkylstyrene",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "5840810",
+   "title": "Metalation and functionalization of polymers and copolymers",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8822618",
+   "title": "Microcapsule and methods of making and using microcapsules",
+   "filing_year": 2010,
+   "grant_year": 2014,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "5679748",
+   "title": "Process for oxidative functionalization of polymers containing alkylstyrene",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5807931",
+   "title": "Process for oxidative functionalization of polymers containing alkylstyrene",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5821308",
+   "title": "Metalation and functionalization of polymers and copolymers",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Exxon Chemical Patents, Inc.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "6740193",
+   "title": "Gem-diesters and epoxidized derivatives thereof",
+   "filing_year": 2001,
+   "grant_year": 2004,
+   "assignee": "Henkel Limited",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7067586",
+   "title": "Methods of making ABA-type block copolymers having a random block of hydrophobic and hydrophilic monomers",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "Symyx Technologies, Inc.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7687145",
+   "title": "Compounds containing a thiol protected group bonded to a protecting group via a polarized bond, and structure comprising the compounds on its surface",
+   "filing_year": 2005,
+   "grant_year": 2010,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8674134",
+   "title": "Oligomer functionalized nanotubes and composites formed therewith",
+   "filing_year": 2011,
+   "grant_year": 2014,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8899044",
+   "title": "Surface tension mediated conversion of light to work",
+   "filing_year": 2011,
+   "grant_year": 2014,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9356241",
+   "title": "End-group-directed self-assembly of organic compounds useful for photovoltaic applications",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10995156",
+   "title": "Acid-degradable and bioerodible modified polyhydroxylated materials",
+   "filing_year": 2017,
+   "grant_year": 2021,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5587422",
+   "title": "Single phase solids containing metalloploymers",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Cornell Research Foundation, Inc.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9644039",
+   "title": "Acid-degradable and bioerodible modified polyhydroxylated materials",
+   "filing_year": 2011,
+   "grant_year": 2017,
+   "assignee": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "cited_by_patents": 0
+  }
+ ]
+}

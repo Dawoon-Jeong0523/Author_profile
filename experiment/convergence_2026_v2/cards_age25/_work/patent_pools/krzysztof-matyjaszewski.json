@@ -1,0 +1,514 @@
+{
+ "person": "Krzysztof Matyjaszewski",
+ "options": [
+  "for the development of controlled radical polymerization — Krzysztof Matyjaszewski, Mitsuo Sawamoto",
+  "for the development of controlled radical polymerization — Krzysztof Matyjaszewski, Mitsuo Sawamoto, Ezio Rizzardo"
+ ],
+ "birth_year": 1950,
+ "patents": [
+  {
+   "patent_id": "5807937",
+   "title": "Processes based on atom (or group) transfer radical polymerization and novel (co) polymers having useful structures and properties",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 298
+  },
+  {
+   "patent_id": "5763548",
+   "title": "(Co)polymers and a novel polymerization process based on atom (or group) transfer radical polymerization",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 290
+  },
+  {
+   "patent_id": "5789487",
+   "title": "Preparation of novel homo- and copolymers using atom transfer radical polymerization",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 289
+  },
+  {
+   "patent_id": "7056455",
+   "title": "Process for the preparation of nanostructured materials",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 188
+  },
+  {
+   "patent_id": "5945491",
+   "title": "Preparation of novel homo- and copolymers using atom transfer radical polymerization",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 181
+  },
+  {
+   "patent_id": "6627314",
+   "title": "Preparation of nanocomposite structures by controlled polymerization",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 117
+  },
+  {
+   "patent_id": "6512060",
+   "title": "Atom or group transfer radical polymerization",
+   "filing_year": 1999,
+   "grant_year": 2003,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 115
+  },
+  {
+   "patent_id": "6121371",
+   "title": "Application of atom transfer radical polymerization to water-borne polymerization systems",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 114
+  },
+  {
+   "patent_id": "6162882",
+   "title": "Preparation of novel homo- and copolymers using atom transfer radical polymerization",
+   "filing_year": 1999,
+   "grant_year": 2000,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 107
+  },
+  {
+   "patent_id": "6407187",
+   "title": "(Co)polymers and a novel polymerization process based on atom (or group) transfer radical polymerization",
+   "filing_year": 1998,
+   "grant_year": 2002,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 107
+  },
+  {
+   "patent_id": "6541580",
+   "title": "Atom or group transfer radical polymerization",
+   "filing_year": 1999,
+   "grant_year": 2003,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 106
+  },
+  {
+   "patent_id": "6124411",
+   "title": "Preparation of novel Homo- and copolymers using atom transfer radical polymerization",
+   "filing_year": 1999,
+   "grant_year": 2000,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 105
+  },
+  {
+   "patent_id": "6111022",
+   "title": "Preparation of novel homo- and copolymers using atom transfer radical polymerization",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 104
+  },
+  {
+   "patent_id": "6538091",
+   "title": "Atom or group transfer radical polymerization",
+   "filing_year": 1998,
+   "grant_year": 2003,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 96
+  },
+  {
+   "patent_id": "7049373",
+   "title": "Process for preparation of graft polymers",
+   "filing_year": 2001,
+   "grant_year": 2006,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 82
+  },
+  {
+   "patent_id": "6624262",
+   "title": "Polymerization process for ionic monomers",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 80
+  },
+  {
+   "patent_id": "7019082",
+   "title": "Polymers, supersoft elastomers and methods for preparing the same",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "6790919",
+   "title": "Catalyst system for controlled polymerization",
+   "filing_year": 2001,
+   "grant_year": 2004,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 74
+  },
+  {
+   "patent_id": "6759491",
+   "title": "Simultaneous reverse and normal initiation of ATRP",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 70
+  },
+  {
+   "patent_id": "5312871",
+   "title": "Free radical polymerization process",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 69
+  },
+  {
+   "patent_id": "6624263",
+   "title": "(Co) polymers and a novel polymerization process based on atom (or group) transfer radical polymerization",
+   "filing_year": 2002,
+   "grant_year": 2003,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 67
+  },
+  {
+   "patent_id": "8367051",
+   "title": "Preparation of functional gel particles with a dual crosslink network",
+   "filing_year": 2007,
+   "grant_year": 2013,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 67
+  },
+  {
+   "patent_id": "7064166",
+   "title": "Process for monomer sequence control in polymerizations",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 65
+  },
+  {
+   "patent_id": "7125938",
+   "title": "Atom or group transfer radical polymerization",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 65
+  },
+  {
+   "patent_id": "6887962",
+   "title": "Processes based on atom (or group) transfer radical polymerization and novel (co)polymers having useful structures and properties",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 64
+  },
+  {
+   "patent_id": "7157530",
+   "title": "Catalyst system for controlled polymerization",
+   "filing_year": 2004,
+   "grant_year": 2007,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 57
+  },
+  {
+   "patent_id": "7407995",
+   "title": "Synthesis of MDH-polymer hybrid particles",
+   "filing_year": 2006,
+   "grant_year": 2008,
+   "assignee": "LS CABLE LTD.",
+   "cited_by_patents": 50
+  },
+  {
+   "patent_id": "7678869",
+   "title": "Atom or group transfer radical polymerization",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 49
+  },
+  {
+   "patent_id": "5910549",
+   "title": "Method for preparation of alkoxyamines from nitroxyl radicals",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 42
+  },
+  {
+   "patent_id": "6288186",
+   "title": "Rate enhancement of nitroxyl radical-mediated polymerization",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 36
+  },
+  {
+   "patent_id": "7825199",
+   "title": "Catalytic processes for the controlled polymerization of free radically (co)polymerizable monomers and functional polymeric systems prepared thereby",
+   "filing_year": 2000,
+   "grant_year": 2010,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "7332550",
+   "title": "Stabilization of transition metal complexes for catalysis in diverse environments",
+   "filing_year": 2003,
+   "grant_year": 2008,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "7572874",
+   "title": "Processes based on atom (or group) transfer radical polymerization and novel (co)polymers having useful structures and properties",
+   "filing_year": 2005,
+   "grant_year": 2009,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "7893173",
+   "title": "Polymerization process with catalyst reactivation",
+   "filing_year": 2006,
+   "grant_year": 2011,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "8273823",
+   "title": "Atom transfer radical polymerization in microemulsion and true emulsion polymerization processes",
+   "filing_year": 2006,
+   "grant_year": 2012,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "8349410",
+   "title": "Modification of surfaces with polymers",
+   "filing_year": 2007,
+   "grant_year": 2013,
+   "assignee": "University of Pittsburgh—Of the Commonwealth System of Higher Education",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "7893174",
+   "title": "Atom transfer radical polymerization process",
+   "filing_year": 2005,
+   "grant_year": 2011,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "8404788",
+   "title": "Atom transfer radical polymerization process",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 19
+  },
+  {
+   "patent_id": "5688888",
+   "title": "Peralkylated phosphazene base-catalyzed silanol condensation method",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "General Electric Company",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "8252880",
+   "title": "Atom transfer dispersion polymerization",
+   "filing_year": 2008,
+   "grant_year": 2012,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "8445610",
+   "title": "Controlled radical polymerization processes",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "8865797",
+   "title": "Hybrid particle composite structures with reduced scattering",
+   "filing_year": 2008,
+   "grant_year": 2014,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "8871831",
+   "title": "Modification of surfaces with polymers",
+   "filing_year": 2013,
+   "grant_year": 2014,
+   "assignee": "University of Pittsburgh—Of the Commonwealth System of Higher Education",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "8962764",
+   "title": "Preparation of functional star macromolecules",
+   "filing_year": 2010,
+   "grant_year": 2015,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "9410020",
+   "title": "Processable self-organizing nanoparticle",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "8816001",
+   "title": "Genetically encoded initiator for polymer growth from proteins",
+   "filing_year": 2013,
+   "grant_year": 2014,
+   "assignee": "Franklin and Marshall College",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "9243274",
+   "title": "Genetically encoded initiator for polymer growth from proteins",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "Franklin and Marshall College",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "9533297",
+   "title": "Ligands designed to provide highly active catalyst complexes",
+   "filing_year": 2013,
+   "grant_year": 2017,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "9644042",
+   "title": "Electrochemically mediated atom transfer radical polymerization",
+   "filing_year": 2011,
+   "grant_year": 2017,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "5236667",
+   "title": "Surface modification of plastic optical fibers",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "UNIVERSITY OF PITTSBURGH",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5382644",
+   "title": "Linear polyphosphazenes and a process for their production",
+   "filing_year": 1992,
+   "grant_year": 1995,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9969823",
+   "title": "Synthesis and polymerization of vinyl triazolium ionic liquids",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Department of Energy",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10072042",
+   "title": "Atom transfer radical polymerization under biologically compatible conditions",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10933166",
+   "title": "Bottlebrush polymer compositions, lubricating fluid, porous materials comprising said compositions, and surface bearing said compositions",
+   "filing_year": 2017,
+   "grant_year": 2021,
+   "assignee": "VALORISATION-RECHERCHE, LIMITED PARTNERSHIP",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10934383",
+   "title": "Composite compositions and modification of inorganic particles for use in composite compositions",
+   "filing_year": 2017,
+   "grant_year": 2021,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10982266",
+   "title": "Nucleic acid-polymer conjugates for bright fluorescent tags",
+   "filing_year": 2017,
+   "grant_year": 2021,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5077078",
+   "title": "Surface modification of plastic optical fibers",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "University of Pittsburgh—Of the Commonwealth System of Higher Education",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9447201",
+   "title": "Polymerization inhibitor composition and method of inhibiting polymerization of distillable monomers",
+   "filing_year": 2010,
+   "grant_year": 2016,
+   "assignee": "Dow Global Technologies LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "11174325",
+   "title": "Surfactant assisted formation of a catalyst complex for emulsion atom transfer radical polymerization processes",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8969498",
+   "title": "Compositions and method of inhibiting polymerization of vinyl-aryl monomers",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "Dow Global Technologies LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9765169",
+   "title": "Functionalized polymer hybrids",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9790305",
+   "title": "Site specifically incorporated initiator for growth of polymers from proteins",
+   "filing_year": 2013,
+   "grant_year": 2017,
+   "assignee": "Franklin and Marshall College",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9982070",
+   "title": "Aqueous ATRP in the presence of an activator regenerator",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "CARNEGIE MELLON UNIVERSITY",
+   "cited_by_patents": 0
+  }
+ ]
+}

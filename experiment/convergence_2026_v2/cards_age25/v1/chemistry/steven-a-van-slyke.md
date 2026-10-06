@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Electroluminescence of doped organic thin films" (1989): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.59, cited by 451 inventions and 1 book.
 3. "Organic electroluminescent devices with improved stability" (1996): impact percentile 1.00, disruption percentile n/a, Foundation share n/a, cited by 999 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 38 of the person's 38 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 4,539,507 "Organic electroluminescent devices having improved power conversion efficiencies" (filed 1983, granted 1985; assignee EASTMAN KODAK COMPANY): cited by 833 later US patents.
+2. US 4,720,432 "Electroluminescent device with organic luminescent medium" (filed 1987, granted 1988; assignee EASTMAN KODAK COMPANY): cited by 607 later US patents.
+3. US 4,885,211 "Electroluminescent device with improved cathode" (filed 1987, granted 1989; assignee EASTMAN KODAK COMPANY): cited by 537 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,841 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 38 (higher than 85 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Structural, Dymanical, and Electronic Properties of Amorphous Silicon: Anab initioMolecular-Dynamics Study" (1988): impact percentile 1.00, disruption percentile 0.10, Foundation share 0.45, cited by 0 inventions and 0 books.
 3. "Car-Parrinello molecular dynamics with Vanderbilt ultrasoft pseudopotentials" (1993): impact percentile 1.00, disruption percentile 0.25, Foundation share 0.19, cited by 0 inventions and 1 book.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021, filed from age 25 on).
+
 ## Technological translation
 - Distinct citing inventions: 317 (higher than 60 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

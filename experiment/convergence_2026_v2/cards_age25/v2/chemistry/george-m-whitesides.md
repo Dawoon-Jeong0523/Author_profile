@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Structures of self-assembled monolayer films of organosulfur compounds adsorbed on gold single crystals: electron diffraction studies" (1988): impact percentile 1.00, disruption percentile 0.93, Foundation share 0.84, cited by 20 inventions and 0 books.
 3. "Comparison of the structures and wetting properties of self-assembled monolayers of n-alkanethiols on the coinage metal surfaces, copper, silver, and gold" (1991): impact percentile 1.00, disruption percentile 0.95, Foundation share 0.38, cited by 55 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 25 of the person's 185 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 5,512,131 "Formation of microstamped patterns on surfaces and derivative articles" (filed 1993, granted 1996; assignee President and Fellows of Harvard College): cited by 1,040 later US patents.
+2. US 5,620,850 "Molecular recognition at surfaces derivatized with self-assembled monolayers" (filed 1994, granted 1997; assignee President and Fellows of Harvard College): cited by 329 later US patents.
+3. US 6,518,168 "Self-assembled monolayer directed patterning of surfaces" (filed 1998, granted 2003; assignee President and Fellows of Harvard College): cited by 199 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 9,883 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 185 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).

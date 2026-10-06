@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Evolution of a Fourth Generation Catalyst for the Amination and Thioetherification of Aryl Halides" (2008): impact percentile 1.00, disruption percentile 0.04, Foundation share 0.44, cited by 15 inventions and 0 books.
 3. "Transition Metal Catalyzed Synthesis of Arylamines and Aryl Ethers from Aryl Halides and Triflates: Scope and Mechanism" (1998): impact percentile 1.00, disruption percentile n/a, Foundation share n/a, cited by 253 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 12 of the person's 19 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 5,817,877 "Metal-catalyzed amination of organic sulfonates to organic amines" (filed 1997, granted 1998; assignee Yale University): cited by 23 later US patents.
+2. US 5,977,361 "Transition metal-catalyzed process for preparing N-aryl compounds" (filed 1998, granted 1999; assignee Yale University): cited by 16 later US patents.
+3. US 6,451,937 "Selective, catalytic, thermal functionalization of primary C-H hydrocarbon bonds" (filed 2000, granted 2002; assignee SHELL OIL COMPANY): cited by 5 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 1,659 (higher than 92 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 19 (higher than 72 % of the 61 Chemistry laureates of 2000-2025 at prize time).

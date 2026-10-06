@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Self-assembly of ten molecules into nanometre-sized organic host frameworks" (1995): impact percentile 1.00, disruption percentile 0.08, Foundation share 0.58, cited by 10 inventions and 0 books.
 3. "Quantitative self-assembly of a [2]catenane from two preformed molecular rings" (1994): impact percentile 1.00, disruption percentile 0.05, Foundation share 0.41, cited by 2 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 10 of the person's 26 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 8,791,261 "Polyhedraltransition metal complex, transition metal complex containing ultrafine particles therein, and process for producing same" (filed 2010, granted 2014; assignee Japan Science and Technology Agency): cited by 0 later US patents.
+2. US 8,530,649 "Polymer complex" (filed 2007, granted 2013; assignee The University of Tokyo): cited by 0 later US patents.
+3. US 10,190,952 "Guest-compound-enveloping polymer-metal-complex crystal, method for producing same, method for preparing crystal structure analysis sample, and method for determining molecular structure of organic compound" (filed 2013, granted 2019; assignee Japan Science and Technology Agency): cited by 15 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 195 (higher than 48 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 26 (higher than 84 % of the 61 Chemistry laureates of 2000-2025 at prize time).

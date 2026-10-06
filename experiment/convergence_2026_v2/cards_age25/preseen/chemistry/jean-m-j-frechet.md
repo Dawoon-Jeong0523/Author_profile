@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "A new convergent approach to monodisperse dendritic macromolecules" (1990): impact percentile 0.99, disruption percentile 0.03, Foundation share 0.30, cited by 7 inventions and 0 books.
 3. "One-step synthesis of hyperbranched dendritic polyesters" (1991): impact percentile 1.00, disruption percentile n/a, Foundation share n/a, cited by 52 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 12 of the person's 80 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 5,041,516 "Dendritic molecules and method of production" (filed 1989, granted 1991; assignee Cornell Research Foundation, Inc.): cited by 155 later US patents.
+2. US 6,300,424 "Hyperbranched polyesters and polyamides" (filed 1993, granted 2001; assignee Cornell Research Foundation, Inc.): cited by 15 later US patents.
+3. US 5,587,441 "Hyperbranched polymers from AB monomers" (filed 1994, granted 1996; assignee Cornell Research Foundation, Inc.): cited by 31 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,813 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 80 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).

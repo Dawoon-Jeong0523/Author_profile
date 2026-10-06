@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Expanding the Genetic Code of Escherichia coli" (2001): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 451 inventions.
 3. "An Expanded Eukaryotic Genetic Code" (2003): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 583 inventions.
 
+## Patents tied to the discovery
+- About 85 of the person's 172 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 7,045,337 "In vivo incorporation of unnatural amino acids" (filed 2002, granted 2006; assignee The Scripps Research Institute): cited by 293 later US patents.
+2. US 7,083,970 "Methods and compositions for the production of orthogonal tRNA-aminoacyl tRNA synthetase pairs" (filed 2002, granted 2006; assignee The Scripps Research Institute): cited by 223 later US patents.
+3. US 7,618,775 "Expanding the eukaryotic genetic code" (filed 2004, granted 2009; assignee The Scripps Research Institute): cited by 8 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 10,487 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 172 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).

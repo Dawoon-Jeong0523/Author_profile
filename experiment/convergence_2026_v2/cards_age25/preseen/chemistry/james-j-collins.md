@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Programmable cells: Interfacing natural and engineered gene networks" (2004): impact percentile 1.00, disruption percentile 0.05, Foundation share 0.27, cited by 38 inventions and 0 books.
 3. "Synthetic Gene Networks That Count" (2009): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 29 inventions.
 
+## Patents tied to the discovery
+- About 17 of the person's 45 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 6,841,376 "Bistable genetic toggle switch" (filed 2001, granted 2005; assignee Cellicon Technologies, Inc.): cited by 3 later US patents.
+2. US 6,737,269 "Multi-state genetic oscillator" (filed 2001, granted 2004; assignee Trustees of Boston University): cited by 3 later US patents.
+3. US 6,828,140 "Adjustable threshold switch" (filed 2001, granted 2004; assignee Cellicon Technologies, Inc.): cited by 4 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 1,488 (higher than 92 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 45 (higher than 87 % of the 61 Chemistry laureates of 2000-2025 at prize time).

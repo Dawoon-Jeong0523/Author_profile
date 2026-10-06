@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Understanding and exploiting C–H bond activation" (2002): impact percentile 1.00, disruption percentile 0.04, Foundation share 0.41, cited by 23 inventions and 0 books.
 3. "Frontiers, Opportunities, and Challenges in Biochemical and Chemical Catalysis of CO 2 Fixation" (2013): impact percentile 1.00, disruption percentile 0.06, Foundation share 0.34, cited by 15 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 2 of the person's 9 US utility patents (granted up to 2021) relate to the listed discovery; the one most tied to it:
+1. US 9,676,680 "Tandem transfer hydrogenation and oligomerization for hydrocarbon production" (filed 2014, granted 2017; assignee California Institute of Technology): cited by 0 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 463 (higher than 67 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 9 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).

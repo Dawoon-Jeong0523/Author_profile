@@ -13,6 +13,7 @@ is works published, and patents granted, up to 2021.
   than on its references.
 - **Citing inventions**: distinct inventions (US patents and pre-grant publications) whose front-page or in-text
   references cite the person's works; **own patents**: US utility patents with the person as an inventor.
+- **Patents tied to the discovery**: up to three of the person's US utility patents (granted up to 2021) most tied to the discovery of the option the person is listed under, chosen by a language-model review of the titles of all the person's patents (inventions disclosed mainly in patents have little other discovery evidence on a card); each with its filing and grant year, first assignee and the number of later US patents citing it. The line above them says how many of the person's patents relate to the discovery. On the age-25 cards only patents filed from age 25 on are shown.
 - **Textbook reach**: citations from books, book chapters and reference entries; "citing books" counts distinct books.
 - **Nobel laureate co-authors**: co-authors (works with at most 50 authors) who are Nobel laureates in physics,
   chemistry or physiology or medicine; **people on both sides**: people who are both a co-author and a co-inventor.

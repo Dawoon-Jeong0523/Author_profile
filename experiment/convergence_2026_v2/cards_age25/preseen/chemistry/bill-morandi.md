@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Palladium-catalyzed carbon-sulfur or carbon-phosphorus bond metathesis by reversible arylation" (2017): impact percentile 1.00, disruption percentile 0.07, Foundation share 0.41, cited by 0 inventions and 0 books.
 3. "Iron‐Catalyzed Cyclopropanation with Trifluoroethylamine Hydrochloride and Olefins in Aqueous Media: In Situ Generation of Trifluoromethyl Diazomethane" (2009): impact percentile 0.99, disruption percentile 0.18, Foundation share 0.53, cited by 1 invention and 0 books.
 
+## Patents tied to the discovery
+- None of the person's 4 US utility patents (granted up to 2021, filed from age 25 on) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 26 (higher than 9 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 4 (higher than 45 % of the 61 Chemistry laureates of 2000-2025 at prize time).

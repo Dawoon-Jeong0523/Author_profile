@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="705.6pt" viewBox="0 0 1008 705.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T16:18:00.841618</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 705.6 
+L 1008 705.6 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 519.12 561.6 
+L 927.36 561.6 
+L 927.36 136.8 
+L 519.12 136.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 519.12 561.6 
+L 519.12 136.8 
+" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="519.12" y="578.958281" transform="rotate(-0 519.12 578.958281)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 600.768 561.6 
+L 600.768 136.8 
+" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="600.768" y="578.958281" transform="rotate(-0 600.768 578.958281)">2%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 682.416 561.6 
+L 682.416 136.8 
+" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="682.416" y="578.958281" transform="rotate(-0 682.416 578.958281)">4%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 764.064 561.6 
+L 764.064 136.8 
+" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="764.064" y="578.958281" transform="rotate(-0 764.064 578.958281)">6%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 845.712 561.6 
+L 845.712 136.8 
+" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="845.712" y="578.958281" transform="rotate(-0 845.712 578.958281)">8%</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 927.36 561.6 
+L 927.36 136.8 
+" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="927.36" y="578.958281" transform="rotate(-0 927.36 578.958281)">10%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 519.12 162.465 
+L 874.2888 162.465 
+L 874.2888 187.835 
+L 519.12 187.835 
+z
+" clip-path="url(#p367af63dd8)" style="fill: #087f74"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="65.9736" y="172.347031" transform="rotate(-0 65.9736 172.347031)">01  Bloch · Cirac · Zoller</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="189.533281" transform="rotate(-0 65.9736 189.533281)">Ultracold-atom quantum simulation</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="881.0928" y="180.392812" transform="rotate(-0 881.0928 180.392812)">8.7%</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 519.12 221.465 
+L 772.2288 221.465 
+L 772.2288 246.835 
+L 519.12 246.835 
+z
+" clip-path="url(#p367af63dd8)" style="fill: #8aa4b4"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="231.347031" transform="rotate(-0 65.9736 231.347031)">02  Preskill · Shor · Kitaev</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="248.533281" transform="rotate(-0 65.9736 248.533281)">Quantum error correction / fault tolerance</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="779.0328" y="238.840937" transform="rotate(-0 779.0328 238.840937)">6.2%</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 519.12 280.465 
+L 735.4872 280.465 
+L 735.4872 305.835 
+L 519.12 305.835 
+z
+" clip-path="url(#p367af63dd8)" style="fill: #8aa4b4"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="290.347031" transform="rotate(-0 65.9736 290.347031)">03  Mele · Kane · Molenkamp</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="307.533281" transform="rotate(-0 65.9736 307.533281)">Topological insulators / quantum spin Hall effect</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="742.2912" y="297.840937" transform="rotate(-0 742.2912 297.840937)">5.3%</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 519.12 339.465 
+L 731.4048 339.465 
+L 731.4048 364.835 
+L 519.12 364.835 
+z
+" clip-path="url(#p367af63dd8)" style="fill: #8aa4b4"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="349.347031" transform="rotate(-0 65.9736 349.347031)">04  Adachi · Thompson · Forrest</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="366.533281" transform="rotate(-0 65.9736 366.533281)">Efficient organic light-emitting diodes</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="738.2088" y="356.840938" transform="rotate(-0 738.2088 356.840938)">5.2%</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 519.12 398.465 
+L 727.3224 398.465 
+L 727.3224 423.835 
+L 519.12 423.835 
+z
+" clip-path="url(#p367af63dd8)" style="fill: #8aa4b4"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="408.347031" transform="rotate(-0 65.9736 408.347031)">05  Efstathiou · Bond</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="425.533281" transform="rotate(-0 65.9736 425.533281)">Cosmic microwave background fluctuations</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="734.1264" y="415.840938" transform="rotate(-0 734.1264 415.840938)">5.1%</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="475.116875" transform="rotate(-0 65.9736 475.116875)">···</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 519.12 516.465 
+L 662.004 516.465 
+L 662.004 541.835 
+L 519.12 541.835 
+z
+" clip-path="url(#p367af63dd8)" style="fill: #c2410c"/>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c2410c" x="65.9736" y="526.347031" transform="rotate(-0 65.9736 526.347031)">14  Halzen · Karle · Kurahashi Neilson</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c2410c" x="65.9736" y="543.488359" transform="rotate(-0 65.9736 543.488359)">High-energy cosmic neutrinos   ◀ awarded discovery</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c2410c" x="668.808" y="533.840938" transform="rotate(-0 668.808 533.840938)">3.5%</text>
+   </g>
+  </g>
+  <g id="text_26">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="65.52" y="33.598125" transform="rotate(-0 65.52 33.598125)">KNOWLEDGE LAB + PRESEEN</text>
+  </g>
+  <g id="text_27">
+   <text style="font-weight: 700; font-size: 25px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.52" y="70.836094" transform="rotate(-0 65.52 70.836094)">2026 Nobel Prize in Physics</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.52" y="102.417891" transform="rotate(-0 65.52 102.417891)">Forecast top 5 of 30 discoveries, and the awarded discovery</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #172f40" transform="translate(65.52 623.418492)">Awarded 6 Oct 2026: Francis Halzen alone, for the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin (the</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #172f40" transform="translate(65.52 635.176195)">option named Halzen, Karle and Kurahashi Neilson).</text>
+  </g>
+  <g id="text_30">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.52" y="668.897344" transform="rotate(-0 65.52 668.897344)">Forecast: Preseen, 5 Oct 2026, profile cards as the main evidence, conditional on one of the 30 listed discoveries.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p367af63dd8">
+   <rect x="519.12" y="136.8" width="408.24" height="424.8"/>
+  </clipPath>
+ </defs>
+</svg>

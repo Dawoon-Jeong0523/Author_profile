@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Quantitative visualization of DNA G-quadruplex structures in human cells" (2013): impact percentile 1.00, disruption percentile 0.99, Foundation share 0.76, cited by 6 inventions and 0 books.
 3. "Targeting G-quadruplexes in gene promoters: a novel anticancer strategy?" (2011): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.35, cited by 8 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 21 of the person's 27 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,833,246 "Polynucleotide sequencing" (filed 2002, granted 2004; assignee Solexa, Inc.): cited by 917 later US patents.
+2. US 6,787,308 "Arrayed biomolecules and their use in sequencing" (filed 2001, granted 2004; assignee Solexa, Inc.): cited by 933 later US patents.
+3. US 7,057,026 "Labelled nucleotides" (filed 2002, granted 2006; assignee Solexa, Inc.): cited by 1,016 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,366 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 27 (higher than 84 % of the 61 Chemistry laureates of 2000-2025 at prize time).

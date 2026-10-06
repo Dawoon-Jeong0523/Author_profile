@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Active liquid-like behavior of nucleoli determines their size and shape in Xenopus laevis oocytes" (2011): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 5 inventions.
 3. "A Liquid-to-Solid Phase Transition of the ALS Protein FUS Accelerated by Disease Mutation" (2015): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.81, cited by 13 inventions and 1 book.
 
+## Patents tied to the discovery
+- None of the person's 5 US utility patents (granted up to 2021, filed from age 25 on) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 429 (higher than 67 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 5 (higher than 49 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Search-and-replace genome editing without double-strand breaks or donor DNA" (2019): impact percentile 1.00, disruption percentile 0.02, Foundation share 0.58, cited by 204 inventions and 1 book.
 3. "Programmable base editing of A•T to G•C in genomic DNA without DNA cleavage" (2017): impact percentile 1.00, disruption percentile 0.00, Foundation share 0.74, cited by 311 inventions and 2 books.
 
+## Patents tied to the discovery
+- About 8 of the person's 91 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 9,840,699 "Methods for nucleic acid editing" (filed 2014, granted 2017; assignee President and Fellows of Harvard College): cited by 102 later US patents.
+2. US 10,167,457 "Nucleobase editors and uses thereof" (filed 2016, granted 2019; assignee President and Fellows of Harvard College): cited by 69 later US patents.
+3. US 10,113,163 "Adenosine nucleobase editors and uses thereof" (filed 2017, granted 2018; assignee President and Fellows of Harvard College): cited by 94 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 3,067 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 91 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).

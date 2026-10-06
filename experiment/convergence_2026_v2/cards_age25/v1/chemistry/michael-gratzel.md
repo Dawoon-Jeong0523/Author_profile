@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Conversion of light to electricity by cis-X2bis(2,2'-bipyridyl-4,4'-dicarboxylate)ruthenium(II) charge-transfer sensitizers (X = Cl-, Br-, I-, CN-, and SCN-) on nanocrystalline titanium dioxide electrodes" (1993): outside the profile's record (OpenAlex credited it to the person after its January 2026 snapshot), so no impact, disruption or Foundation values.
 3. "Lead Iodide Perovskite Sensitized All-Solid-State Submicron Thin Film Mesoscopic Solar Cell with Efficiency Exceeding 9%" (2012): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 60 inventions.
 
+## Patents tied to the discovery
+- About 12 of the person's 32 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 4,927,721 "Photo-electrochemical cell" (filed 1988, granted 1990): cited by 182 later US patents.
+2. US 5,084,365 "Photo-electrochemical cell and process of making same" (filed 1990, granted 1992): cited by 96 later US patents.
+3. US 5,441,827 "Transparent regenerating photoelectrochemical cell" (filed 1993, granted 1995; assignee Asulab S.A.): cited by 108 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 1,922 (higher than 92 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 32 (higher than 84 % of the 61 Chemistry laureates of 2000-2025 at prize time).

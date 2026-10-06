@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Protein folding in mitochondria requires complex formation with hsp60 and ATP hydrolysis" (1989): impact percentile 1.00, disruption percentile 0.30, Foundation share 0.46, cited by 5 inventions and 2 books.
 3. "Successive action of DnaK, DnaJ and GroEL along the pathway of chaperone-mediated protein folding" (1992): impact percentile 1.00, disruption percentile 0.20, Foundation share 0.42, cited by 10 inventions and 1 book.
 
+## Patents tied to the discovery
+- About 12 of the person's 12 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 5,776,724 "Chaperonin-mediated protein folding" (filed 1995, granted 1998; assignee Yale University): cited by 2 later US patents.
+2. US 5,302,518 "Process for the biocatalytic, correct chain folding of denatured recombinant fusion proteins" (filed 1992, granted 1994; assignee Hoechst GmbH): cited by 8 later US patents.
+3. US 6,663,868 "Heat shock protein-based vaccines and immunotherapies" (filed 1998, granted 2003; assignee Sloan-Kettering Institute for Cancer Research): cited by 14 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 636 (higher than 75 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 12 (higher than 66 % of the 61 Chemistry laureates of 2000-2025 at prize time).

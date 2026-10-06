@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Free-solution electrophoresis of DNA" (1998): impact percentile 0.98, disruption percentile 0.12, Foundation share 0.22, cited by 5 inventions and 0 books.
 3. "Diffusion, Joule heating, and band broadening in capillary gel electrophoresis of DNA" (1995): impact percentile 0.97, disruption percentile 0.13, Foundation share 0.21, cited by 1 invention and 0 books.
 
+## Patents tied to the discovery
+- About 12 of the person's 17 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 7,115,400 "Methods of nucleic acid amplification and sequencing" (filed 1999, granted 2006; assignee Solexa, Inc.): cited by 918 later US patents.
+2. US 7,790,418 "Isothermal amplification of nucleic acids on a solid support" (filed 2001, granted 2010; assignee Illumina Cambridge Limited): cited by 116 later US patents.
+3. US 7,985,565 "Method of nucleic acid amplification" (filed 2003, granted 2011; assignee Illumina, Inc.): cited by 158 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 48 (higher than 20 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 17 (higher than 70 % of the 61 Chemistry laureates of 2000-2025 at prize time).

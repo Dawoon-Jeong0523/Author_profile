@@ -1,0 +1,1266 @@
+{
+ "person": "Chi-Huey Wong",
+ "options": [
+  "for the development of programmable and chemoenzymatic synthesis of complex carbohydrates and glycoproteins — Chi-Huey Wong",
+  "for the development of programmable synthesis of carbohydrates and glycoproteins — Chi-Huey Wong"
+ ],
+ "birth_year": 1948,
+ "patents": [
+  {
+   "patent_id": "5374541",
+   "title": "Combined use of .beta.-galactosidase and sialyltransferase coupled with in situ regeneration of CMP-sialic acid for one pot synthesis of oligosaccharides",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 132
+  },
+  {
+   "patent_id": "5278299",
+   "title": "Method and composition for synthesizing sialylated glycosyl compounds",
+   "filing_year": 1991,
+   "grant_year": 1994,
+   "assignee": "Scripps Clinic and Research Foundation",
+   "cited_by_patents": 106
+  },
+  {
+   "patent_id": "5369017",
+   "title": "Process for solid phase glycopeptide synthesis",
+   "filing_year": 1994,
+   "grant_year": 1994,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 90
+  },
+  {
+   "patent_id": "5342767",
+   "title": "Lactobacillus kefir alcohol dehydrogenase",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 81
+  },
+  {
+   "patent_id": "5225339",
+   "title": "Lactobacillus kefir alcohol dehydrogenase",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 79
+  },
+  {
+   "patent_id": "5329025",
+   "title": "3-azido compound",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "G.D. Searle LLC",
+   "cited_by_patents": 62
+  },
+  {
+   "patent_id": "5385833",
+   "title": "Pseudomonas sp. ATCC No. 49794 alcohol dehydrogenase",
+   "filing_year": 1992,
+   "grant_year": 1995,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 50
+  },
+  {
+   "patent_id": "8268969",
+   "title": "Globo H and related anti-cancer vaccines with novel glycolipid adjuvants",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 48
+  },
+  {
+   "patent_id": "5830871",
+   "title": "Inhibitors of E-, P- and L-selectin binding",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 40
+  },
+  {
+   "patent_id": "7928077",
+   "title": "Alpha-galactosyl ceramide analogs and their use as immunotherapies",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "6319695",
+   "title": "Production of fucosylated carbohydrates by enzymatic fucosylation synthesis of sugar nucleotides; and in situ regeneration of GDP-fucose",
+   "filing_year": 1992,
+   "grant_year": 2001,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 36
+  },
+  {
+   "patent_id": "7888337",
+   "title": "Synthesis of oseltamivir containing phosphonate congeners with anti-influenza activity",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 34
+  },
+  {
+   "patent_id": "7923013",
+   "title": "Glycolipids and analogues thereof as antigens for NKT cells",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "THE ROCKEFELLER UNIVERSITY",
+   "cited_by_patents": 34
+  },
+  {
+   "patent_id": "7943330",
+   "title": "Tailored glycoproteomic methods for the sequencing, mapping and identification of cellular glycoproteins",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "8906832",
+   "title": "Quantitative analysis of carbohydrate-protein interactions using glycan microarrays: determination of surface and solution dissociation constants",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "7960139",
+   "title": "Alkynyl sugar analogs for the labeling and visualization of glycoconjugates in cells",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 32
+  },
+  {
+   "patent_id": "9073941",
+   "title": "Compounds and methods for treating tuberculosis infection",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 32
+  },
+  {
+   "patent_id": "8383554",
+   "title": "Quantitative microarray of intact glycolipid CD1d interaction and correlation with cell-based cytokine production",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "8507660",
+   "title": "Alpha-selective sialyl phosphate donors for preparation of sialosides and sialoside arrays for influenza virus detection",
+   "filing_year": 2010,
+   "grant_year": 2013,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "8680020",
+   "title": "Glycan arrays on PTFE-like aluminum coated glass slides and related methods",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "5461143",
+   "title": "Oligosaccharide enzyme substrates and inhibitors: methods and compositions",
+   "filing_year": 1994,
+   "grant_year": 1995,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "6096784",
+   "title": "Inhibitors of oleamide hydrolase",
+   "filing_year": 1999,
+   "grant_year": 2000,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "5116741",
+   "title": "Biosynthetic uses of thermostable proteases",
+   "filing_year": 1989,
+   "grant_year": 1992,
+   "assignee": "Genex Corporation",
+   "cited_by_patents": 27
+  },
+  {
+   "patent_id": "5759823",
+   "title": "Ogligosaccharide enzyme substrates and inhibitors: methods and compostions",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "5276120",
+   "title": "Process for forming omega-deuxy-azasugars",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "9759726",
+   "title": "Reactive labelling compounds and uses thereof",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "9914956",
+   "title": "Cell-permeable probes for identification and imaging of sialidases",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 21
+  },
+  {
+   "patent_id": "6255088",
+   "title": "Enzymatic sulfation of biomolecules",
+   "filing_year": 1999,
+   "grant_year": 2001,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5596005",
+   "title": "Omega-deoxy-azasugars",
+   "filing_year": 1993,
+   "grant_year": 1997,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "6120997",
+   "title": "Nucleic acid binders having an hydroxyamine motif",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "10130714",
+   "title": "Enhanced anti-influenza agents conjugated with anti-inflammatory activity",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "5770407",
+   "title": "Process for preparing nucleotide inhibitors of glycosyltransferases",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "5919673",
+   "title": "One-pot enzymatic sulfation process using 3'-phosphoadenosine-5'-phosphosulfate and recycled phosphorylated adenosine intermediates",
+   "filing_year": 1995,
+   "grant_year": 1999,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "7019131",
+   "title": "Programmable one-pot oligosaccharide synthesis",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "7135183",
+   "title": "Immuno-modulating antitumor activities of Ganoderma lucidum (Reishi) polysaccharides",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "8163290",
+   "title": "Glycolipids and analogues thereof as antigens for NKT cells",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "THE ROCKEFELLER UNIVERSITY",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "10023892",
+   "title": "Compositions and methods relating to universal glycoforms for enhanced antibody efficacy",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "5795749",
+   "title": "Use of 2-deoxyribose-5-phosphate aldolase to prepare 2-deoxyfucose, analogues and derivatives",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "The Scripps Research Institution",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "10005847",
+   "title": "Anti-HER2 glycoantibodies and uses thereof",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10087236",
+   "title": "Methods for modifying human antibodies by glycan engineering",
+   "filing_year": 2010,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10111951",
+   "title": "Human iNKT cell activation using glycolipids with altered glycosyl groups",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "10118969",
+   "title": "Compositions and methods relating to universal glycoforms for enhanced antibody efficacy",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "5143831",
+   "title": "Fructose 1,6-diphosphate aldolase catalyzed steroselective synthesis of sugars",
+   "filing_year": 1988,
+   "grant_year": 1992,
+   "assignee": "G.D. Searle LLC",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "6774140",
+   "title": "Iminocyclitol inhibitors of hexoaminidase and glycosidase",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "7335500",
+   "title": "Production of fucosylated carbohydrates by enzymatic fucosylation synthesis of sugar nucleotides; and in situ regeneration of GDP-fucose",
+   "filing_year": 2001,
+   "grant_year": 2008,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "9782476",
+   "title": "Human iNKT cell activation using glycolipids with altered glycosyl groups",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "9879042",
+   "title": "Human iNKT cell activation using glycolipids",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "9982041",
+   "title": "Compositions and methods for treatment and detection of cancers",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "10086054",
+   "title": "RM2 antigens and use thereof",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "10119972",
+   "title": "Reactive labelling compounds and uses thereof",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "10150818",
+   "title": "Compositions and methods for treatment and detection of cancers",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "5106750",
+   "title": "Enantio- and regioselective synthesis of organic compounds using enol esters as irreversible transacylation reagents",
+   "filing_year": 1989,
+   "grant_year": 1992,
+   "assignee": "G.D. Searle LLC",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "9547009",
+   "title": "Benzocyclooctyne compounds and uses thereof",
+   "filing_year": 2013,
+   "grant_year": 2017,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "9874562",
+   "title": "Zanamivir phosphonate congeners with anti-influenza activity and determining oseltamivir susceptibility of influenza viruses",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "9975965",
+   "title": "Compositions and methods for treatment and detection of cancers",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "9981030",
+   "title": "Glycan conjugates and use thereof",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "10214765",
+   "title": "Cell-permeable probes for identification and imaging of sialidases",
+   "filing_year": 2018,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5075225",
+   "title": "Process for the enzymatic synthesis of nucleosides",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "THE TEXAS A&M UNIVERSITY SYSTEM",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5162513",
+   "title": "L-isomeric sugars having formed stereogenic centers of R configuration: methods and compositions",
+   "filing_year": 1991,
+   "grant_year": 1992,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5516665",
+   "title": "N-acetylgalactosaminyl or N-acetylglucosaminyl transfer using N-acetylglucosaminyl-1-phosphate or N-acetylgalactosaminyl-1-phosphate as precursor and glycosyl-nucleotide regeneration",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5593887",
+   "title": "Oligosaccharide enzyme substrates and inhibitors: methods and compositions",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "6664235",
+   "title": "Medicaments comprising sialic acid derivatives as active ingredients",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "RIKEN",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "6358919",
+   "title": "Polymer compounds comprising glycosphingosine",
+   "filing_year": 1998,
+   "grant_year": 2002,
+   "assignee": "The Institute of Physical and Chemical Research",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "6538117",
+   "title": "Programmable one-pot oligosaccharide synthesis",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "6713287",
+   "title": "Enzymatic synthesis of L-fucose and L-fucose analogs",
+   "filing_year": 1995,
+   "grant_year": 2004,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "5614615",
+   "title": "Sialyl Lewis X mimetics incorporating fucopeptides",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "6111084",
+   "title": "Fuopeptide mimetics",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "6232450",
+   "title": "Inhibition of human fucosyltransferases with N-linked Lewis-x and LacNAc analogs",
+   "filing_year": 1999,
+   "grant_year": 2001,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "7135578",
+   "title": "Iminocyclitol inhibitors of hexoaminidase and glycosidase",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "7323176",
+   "title": "Immuno-modulating antitumor activities of ganoderma lucidum (reishi) polysaccharides",
+   "filing_year": 2006,
+   "grant_year": 2008,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "7943134",
+   "title": "Compositions and methods for identifying response targets and treating flavivirus infection responses",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "8460669",
+   "title": "Compositions and methods for identifying response targets and treating flavivirus infection responses",
+   "filing_year": 2011,
+   "grant_year": 2013,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "5358859",
+   "title": "KDO Aldolase and condensation reactions employed therewith",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5455271",
+   "title": "Tight-binding inhibitors of leukotriene A.sub.4 hydrolase",
+   "filing_year": 1993,
+   "grant_year": 1995,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5759825",
+   "title": "Method for synthesizing 2-ketoaldonic acids",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "7947283",
+   "title": "Compositions and methods for treating psoriasis by Ganoderma lucidum (Reishi) polysaccharides",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Wyntek Corporation",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5229523",
+   "title": "2-methyl-5-hydroxymethyl- and 2,5-dimethyl-3,4-dihydroxypyrrolidines",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "5585261",
+   "title": "KDO aldolase",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "5981267",
+   "title": "Enantioselection of amines using homocarbonates with hydrolase",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "6462193",
+   "title": "Hydroxyazepanes as inhibitors of glycosidase and HIV protease",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "6900238",
+   "title": "HIV protease inhibitors",
+   "filing_year": 1996,
+   "grant_year": 2005,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "7981428",
+   "title": "Flu vaccines and methods of use thereof",
+   "filing_year": 2009,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "8741311",
+   "title": "Methods and compositions for immunization against virus",
+   "filing_year": 2010,
+   "grant_year": 2014,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "9403855",
+   "title": "Zanamivir phosphonate congeners with anti-influenza activity and determining oseltamivir susceptibility of influenza viruses",
+   "filing_year": 2011,
+   "grant_year": 2016,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "10918714",
+   "title": "Human iNKT cell activation using glycolipids with altered glycosyl groups",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "4440854",
+   "title": "Preparation of 6-deoxy-D-fructose and 6-deoxy-L-sorbose",
+   "filing_year": 1982,
+   "grant_year": 1984,
+   "assignee": "",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5585252",
+   "title": "Enantio- and regioselective synthesis of organic compounds using enol esters as irreversible transacylation reagents",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "G.D. Searle LLC",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5837862",
+   "title": "Sialyl Lewis X mimetics incorporating mannopeptides",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "6485930",
+   "title": "Mannosyl transfer with regeneration of GDP-mannose",
+   "filing_year": 1993,
+   "grant_year": 2002,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "7534434",
+   "title": "Glycolipids and analogues thereof as antigens for NK T cells",
+   "filing_year": 2005,
+   "grant_year": 2009,
+   "assignee": "THE ROCKEFELLER UNIVERSITY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8329413",
+   "title": "Glycoproteomic probes for fluorescent imaging of fucosylated glycans in vivo",
+   "filing_year": 2011,
+   "grant_year": 2012,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9403878",
+   "title": "Methods for producing virus particles with simplified glycosylation of surface proteins",
+   "filing_year": 2011,
+   "grant_year": 2016,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5856537",
+   "title": "Inhibitors of oleamide hydrolase",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "6168934",
+   "title": "Oligosaccharide enzyme substrates and inhibitors: methods and compositions",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "7560114",
+   "title": "Immuno-modulating antitumor activities of Ganoderma lucidum (Reishi) polysaccharides",
+   "filing_year": 2007,
+   "grant_year": 2009,
+   "assignee": "",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8158367",
+   "title": "Cancer diagnosis based on levels of antibodies against Globo H and its fragments",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8481571",
+   "title": "Anti-coronavirus compounds",
+   "filing_year": 2005,
+   "grant_year": 2013,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8802401",
+   "title": "Methods and compositions for preparation of selectively protected carbohydrates",
+   "filing_year": 2008,
+   "grant_year": 2014,
+   "assignee": "California Institute of Technology",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8816050",
+   "title": "Method of preparing glycopeptides",
+   "filing_year": 2007,
+   "grant_year": 2014,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9028836",
+   "title": "Globo H and related anti-cancer vaccines with novel glycolipid adjuvants",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9920347",
+   "title": "Methods for producing virus particles with simplified glycosylation of surface proteins",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10307475",
+   "title": "Methods and compositions for immunization against virus",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10336784",
+   "title": "Methods for modular synthesis of N-glycans and arrays thereof",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10338069",
+   "title": "Glycan arrays for high throughput screening of viruses",
+   "filing_year": 2011,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10538592",
+   "title": "Antibodies, binding fragments, and methods of use",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "CHO PHARMA, INC.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10618973",
+   "title": "Anti-HER2 glycoantibodies and uses thereof",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5239091",
+   "title": "2-deoxy derivatives of N-acetyl neuraminic acid and their preparation",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "G.D. Searle LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5352591",
+   "title": "Aldolase enzyme process for making 5-azido-5-deoxy-hexulose-1-phosphate",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5393879",
+   "title": "Fructosyl C-glycoside nucleoside analogs",
+   "filing_year": 1992,
+   "grant_year": 1995,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5403726",
+   "title": "Enzymatic process for producing a galactosyl.beta.1,3glycal disaccaride using .beta.-galactosidase",
+   "filing_year": 1992,
+   "grant_year": 1995,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5597906",
+   "title": "Carbon linked glycosyl compounds",
+   "filing_year": 1993,
+   "grant_year": 1997,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5599915",
+   "title": "Sialyl Lewis X mimetics",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5854391",
+   "title": "Glycosylation of peptides using glycosyl phosphite reagents",
+   "filing_year": 1993,
+   "grant_year": 1998,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5869316",
+   "title": "Biologically pure culture of aureobacterium barkeri KDO-37-2",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "6803466",
+   "title": "HIV/FIV protease inhibitors having a small P3 residue",
+   "filing_year": 2000,
+   "grant_year": 2004,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "6919440",
+   "title": "Mannosyl transfer with regeneration of GDP-mannose",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "6921810",
+   "title": "Bifunctional antibiotics",
+   "filing_year": 2001,
+   "grant_year": 2005,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7687064",
+   "title": "Methods and compositions associated with administration of an extract of Ganoderma lucidum",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7910319",
+   "title": "Glycoproteomic probes for fluorescent imaging fucosylated glycans in vivo",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7998482",
+   "title": "Methods and reagents for the analysis and purification of polysaccharides",
+   "filing_year": 2009,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8105636",
+   "title": "Compositions and methods for treating inflammation and inflammation-related disorders by Plectranthus amboinicus extracts",
+   "filing_year": 2008,
+   "grant_year": 2012,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8354127",
+   "title": "Structure and bioactivity of the polysaccharides and oligomers in medicinal plant Dendrobium huoshanense",
+   "filing_year": 2009,
+   "grant_year": 2013,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8486914",
+   "title": "Hirsutella sinensis mycelia compositions and methods for treating sepsis and related inflammatory responses",
+   "filing_year": 2010,
+   "grant_year": 2013,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8916540",
+   "title": "Antibiotic compositions and related screening methods",
+   "filing_year": 2009,
+   "grant_year": 2014,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10000747",
+   "title": "Endoglycosidase mutants for glycoprotein remodeling and methods of using it",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10155823",
+   "title": "Glycan conjugates and use thereof",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10274488",
+   "title": "Glycan arrays on PTFE-like aluminum coated glass slides and related methods",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10307470",
+   "title": "Antibody-mediated anti-tumor activity induced by Reishi mushroom polysaccharides",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10317393",
+   "title": "Alkynyl sugar analogs for labeling and visualization of glycoconjugates in cells",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10342858",
+   "title": "Glycan conjugates and methods of use thereof",
+   "filing_year": 2015,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10407673",
+   "title": "Methods for glycoprotein remodeling using endoglycosidase mutants",
+   "filing_year": 2018,
+   "grant_year": 2019,
+   "assignee": "CHO PHARMA, INC.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10495645",
+   "title": "Cancer markers and methods of use thereof",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10533034",
+   "title": "Human iNKT cell activation using glycolipids",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10765681",
+   "title": "Purine compounds possessing anticancer activity",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5514784",
+   "title": "Thio linked glycosyl compounds",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5554771",
+   "title": "2-deoxy derivatives of N-acetyl neuraminic acid and their preparation",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "G.D. Searle LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5565585",
+   "title": "Azido diacetal propane derivatives",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "G.D. Searle LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5576426",
+   "title": "Aldolase catalyzed stereoselective synthesis of arabinohexulose, xyloheptulose, threohexulose and xylohexulose",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "G.D. Searle LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5766887",
+   "title": "Synthesis of 9-0-acetyl N-acetylneuraminic acid oligosaccharides",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5876981",
+   "title": "Transglycosylation reactions employing .beta.-galactosidase",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5962660",
+   "title": "Sialyl Lewis X mimetics incorporating fucopeptides",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6080563",
+   "title": "Method for synthesizing 2-ketoaldonic acids",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6353095",
+   "title": "Ketoaldonic acids having formed stereogenic centers of R configuration: methods and compositions",
+   "filing_year": 1992,
+   "grant_year": 2002,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6423834",
+   "title": "KDO aldolase and condensation reactions employed therewith",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6518418",
+   "title": "Nucleotide sugars",
+   "filing_year": 1992,
+   "grant_year": 2003,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7018824",
+   "title": "Mannosyl transfer with regeneration of GDP-mannose",
+   "filing_year": 2005,
+   "grant_year": 2006,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7785600",
+   "title": "Compositions and methods for treating allergies, auto-immune diseases, and improving skin condition by ganoderma lucidum (reishi) polysaccharides",
+   "filing_year": 2008,
+   "grant_year": 2010,
+   "assignee": "Wyntek Corporation",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7919521",
+   "title": "Five-membered iminocyclitol derivatives as selective and potent glycosidase inhibitors: new structures for antivirals and osteoarthritis therapeutics",
+   "filing_year": 2006,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8030029",
+   "title": "Flu vaccines and methods of use thereof",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8071105",
+   "title": "Reishi F3 sub fraction polysaccharides and methods of using same",
+   "filing_year": 2008,
+   "grant_year": 2011,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8273788",
+   "title": "Five-membered iminocyclitol derivatives as selective and potent glycosidase inhibitors: new structures for antivirals and osteoarthritis therapeutics",
+   "filing_year": 2011,
+   "grant_year": 2012,
+   "assignee": "Academia Sinica, Taiwan",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8586051",
+   "title": "Glycolipids and analogues thereof as antigens for NKT cells",
+   "filing_year": 2012,
+   "grant_year": 2013,
+   "assignee": "THE ROCKEFELLER UNIVERSITY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8906380",
+   "title": "Fungal immunostimulatory compositions",
+   "filing_year": 2006,
+   "grant_year": 2014,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9340812",
+   "title": "Large scale enzymatic synthesis of oligosaccharides",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9603913",
+   "title": "Globo H and related anti-cancer vaccines with novel glycolipid adjuvants",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9816981",
+   "title": "Alkynyl sugar analogs for labeling and visualization of glycoconjugates in cells",
+   "filing_year": 2011,
+   "grant_year": 2017,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9890111",
+   "title": "Crystal structure of bifunctional transglycosylase PBP1b from E. coli and inhibitors thereof",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "Academia Sinica",
+   "cited_by_patents": 0
+  }
+ ]
+}

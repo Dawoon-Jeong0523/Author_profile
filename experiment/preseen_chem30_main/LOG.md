@@ -26,3 +26,23 @@ One entry per step: time (CDT) · list · command · outcome · decision. Key va
   |diff| 0.51 pp; options with unchanged people moved up to 1.4 pp = single-run noise); lineup effect largest for OLEDs
   (Thompson dropped: 3.0 -> 0.8 %); v2's Gray-alone option got no discovery evidence because the standard card shows
   his most-cited works. Preseen list: 47 % on its own 13 discoveries; v1 puts 55 % on discoveries Preseen did not list.
+- **14:48** · v2 · user: "submit a control forecast with the v2 list" -> run_control.sh v2 nobel26-chem-30-v2-main: a
+  "control" arm in the v2 experiment (same question, no notes at all: no instruction, no Medicine/Physics outcomes, no
+  cards), one rep (log run_v2_control.out, tmux -L chem30 session v2ctl); question definitions identical across arms.
+- **15:22** · v2 · control rep01 completed (34 min, 4/4 subforecasts); compare.py now has a v2-control column and
+  write_up_v2_control.md. Control: sequencing-by-synthesis 17.3 %, perovskites 7.9, controlled radical polymerization
+  6.2; vs v2 main Spearman 0.14 (mean |diff| 2.66 pp). Main vs control: SBS -14.8 pp; dye-sensitized cells +7.9,
+  proteomics +5.9, nanopores +5.4, DFT +4.1, nuclear receptors +3.9; Gray-alone electron transfer -3.7.
+- **16:30** · all · user: add the patents tied to the discovery to the chemistry cards and drop "technological translation
+  is minor" from the main-evidence prompt. ../convergence_2026_v2/patent_section.py (pools / merge / apply; 6 LLM agents
+  chose up to 3 patents per person from all US utility patents granted up to 2021; patents_tied_chemistry.yaml, 0
+  problems) put a "Patents tied to the discovery" section on all 338 chemistry cards (standard and age-25) and its
+  definition into every 00_definitions.md; cards/<list>/ here refreshed. instruction/00_1: translation no longer
+  "minor", patents tied to the discovery count as discovery-relevant works; 00_2 = the new definitions. The notes of
+  the 6 October runs are kept in instruction_used_2026-10-06/ (not uploaded by any script).
+- **16:45** · all · user: new arm "cards as the main evidence with demographic information". instruction_demo/:
+  00_6_demographics.md (build_demographics.py: gender, birth country, citizenship, country of work of the 2000-2025
+  Chemistry laureates from PrizeAtlas, area of chemistry per prize grouped by Claude, the 2026 Physics and Medicine
+  laureates) and 00_7_demographic_instruction.md (weigh the demographic distribution with an explicit factor 0.5-2 per
+  option, reported apart). run_arm.sh <list> <main2|demo> <tag> adds an updated main arm (main2) or the demographic arm
+  (main2 + instruction_demo/). Prepared, not submitted.

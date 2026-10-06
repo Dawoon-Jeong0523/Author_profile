@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Canonical sampling through velocity rescaling" (2007): impact percentile 1.00, disruption percentile 0.19, Foundation share 0.18, cited by 25 inventions and 5 books.
 3. "Unified Approach for Molecular Dynamics and Density-Functional Theory" (1985): impact percentile 1.00, disruption percentile 0.53, Foundation share 0.61, cited by 30 inventions and 15 books.
 
+## Patents tied to the discovery
+- None of the person's 1 US utility patents (granted up to 2021) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 144 (higher than 38 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 1 (higher than 24 % of the 61 Chemistry laureates of 2000-2025 at prize time).

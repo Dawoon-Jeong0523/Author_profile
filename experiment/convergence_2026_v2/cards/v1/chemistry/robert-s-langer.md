@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Engineering precision nanoparticles for drug delivery" (2020): impact percentile 1.00, disruption percentile 0.23, Foundation share 0.35, cited by 13 inventions and 2 books.
 3. "Hydrogels in Biology and Medicine: From Molecular Principles to Bionanotechnology" (2006): impact percentile 1.00, disruption percentile 0.16, Foundation share 0.36, cited by 167 inventions and 5 books.
 
+## Patents tied to the discovery
+- About 160 of the person's 559 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 4,164,560 "Systems for the controlled release of macromolecules" (filed 1977, granted 1979): cited by 136 later US patents.
+2. US 5,543,158 "Biodegradable injectable nanoparticles" (filed 1993, granted 1996; assignee MASSACHUSETTS INSTITUTE OF TECHNOLOGY): cited by 696 later US patents.
+3. US 6,998,115 "Biodegradable poly(β-amino esters) and uses thereof" (filed 2001, granted 2006; assignee MASSACHUSETTS INSTITUTE OF TECHNOLOGY): cited by 144 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 20,350 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 559 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).

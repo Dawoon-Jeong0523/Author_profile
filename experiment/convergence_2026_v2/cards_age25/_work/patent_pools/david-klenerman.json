@@ -1,0 +1,84 @@
+{
+ "person": "David Klenerman",
+ "options": [
+  "for the development of massively parallel sequencing-by-synthesis of DNA — Shankar Balasubramanian, David Klenerman",
+  "for the development of chemical methods for the synthesis and massively parallel sequencing of DNA — Shankar Balasubramanian, David Klenerman, Marvin H. Caruthers",
+  "for the development of massively parallel sequencing-by-synthesis of DNA — Shankar Balasubramanian, David Klenerman, Pascal Mayer",
+  "for the development of next-generation DNA sequencing — Shankar Balasubramanian, David Klenerman, Hagan Bayley"
+ ],
+ "birth_year": 1959,
+ "patents": [
+  {
+   "patent_id": "6787308",
+   "title": "Arrayed biomolecules and their use in sequencing",
+   "filing_year": 2001,
+   "grant_year": 2004,
+   "assignee": "Solexa, Inc.",
+   "cited_by_patents": 933
+  },
+  {
+   "patent_id": "7232656",
+   "title": "Arrayed biomolecules and their use in sequencing",
+   "filing_year": 2003,
+   "grant_year": 2007,
+   "assignee": "Solexa, Inc.",
+   "cited_by_patents": 288
+  },
+  {
+   "patent_id": "6589727",
+   "title": "Measurement and use of molecular interactions",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "Akubio Limited",
+   "cited_by_patents": 58
+  },
+  {
+   "patent_id": "7195909",
+   "title": "Measurement and use of molecular interactions",
+   "filing_year": 2003,
+   "grant_year": 2007,
+   "assignee": "Akubio Limited",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "6929934",
+   "title": "Optical microscopy and its use in the study of cells",
+   "filing_year": 2000,
+   "grant_year": 2005,
+   "assignee": "IMPERIAL COLLEGE INNOVATIONS LIMITED",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "7763475",
+   "title": "Measurement and use of molecular interactions",
+   "filing_year": 2007,
+   "grant_year": 2010,
+   "assignee": "INVERNESS MEDICAL SWITZERLAND GMBH",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "9354249",
+   "title": "Scanning ion conductance microscopy using piezo actuators of different response times",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "IMPERIAL INNOVATIONS LIMITED",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9709598",
+   "title": "Scanning ion conductance microscopy using surface roughness for probe movement",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "IMPERIAL INNOVATIONS LIMITED",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7297486",
+   "title": "Production of molecular arrays",
+   "filing_year": 2002,
+   "grant_year": 2007,
+   "assignee": "Ionscope Ltd",
+   "cited_by_patents": 0
+  }
+ ]
+}

@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Derivation of rate expressions for nonadiabatic proton-coupled electron transfer reactions in solution" (2000): impact percentile 0.98, disruption percentile 0.18, Foundation share 0.25, cited by 0 inventions and 0 books.
 3. "Proton-coupled electron transfer reactions in solution: Molecular dynamics with quantum transitions for model systems" (1997): impact percentile 0.97, disruption percentile 0.31, Foundation share 0.06, cited by 0 inventions and 0 books.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021, filed from age 25 on).
+
 ## Technological translation
 - Distinct citing inventions: 54 (higher than 24 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

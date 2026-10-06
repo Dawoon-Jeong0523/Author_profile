@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Remarkable Performance of Ir 1 /FeO x Single-Atom Catalyst in Water Gas Shift Reaction" (2013): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 0 inventions.
 3. "FeOx-supported platinum single-atom and pseudo-single-atom catalysts for chemoselective hydrogenation of functionalized nitroarenes" (2014): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.55, cited by 0 inventions and 1 book.
 
+## Patents tied to the discovery
+- About 1 of the person's 50 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the one most tied to it:
+1. US 11,105,009 "Graphene material inlaid with single metal atoms and preparing method and application thereof" (filed 2017, granted 2021; assignee DALIAN INSTITUTE OF CHEMICAL PHYSICS, CHINESE ACADEMY OF SCIENCES): cited by 1 later US patent.
+
 ## Technological translation
 - Distinct citing inventions: 204 (higher than 51 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 50 (higher than 88 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Algorithmic Self-Assembly of DNA Sierpinski Triangles" (2004): impact percentile 1.00, disruption percentile 0.05, Foundation share 0.22, cited by 49 inventions and 1 book.
 3. "Design and Characterization of Programmable DNA Nanotubes" (2004): impact percentile 0.99, disruption percentile 0.11, Foundation share 0.33, cited by 32 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 5 of the person's 5 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 7,842,793 "Methods of making nucleic acid nanostructures" (filed 2006, granted 2010; assignee California Institute of Technology): cited by 42 later US patents.
+2. US 9,340,416 "Polynucleotides and related nanoassemblies, structures, arrangements, methods and systems" (filed 2009, granted 2016; assignee California Institute of Technology): cited by 19 later US patents.
+3. US 11,125,748 "Method for organizing individual molecules on a patterned substrate and structures assembled thereby" (filed 2018, granted 2021; assignee THE UNIVERSITY OF BRITISH COLUMBIA): cited by 10 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 329 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 5 (higher than 49 % of the 61 Chemistry laureates of 2000-2025 at prize time).

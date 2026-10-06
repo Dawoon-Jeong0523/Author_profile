@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "A chemical switch for inhibitor-sensitive alleles of any protein kinase" (2000): impact percentile 0.99, disruption percentile 0.91, Foundation share 0.40, cited by 27 inventions and 1 book.
 3. "K-Ras(G12C) inhibitors allosterically control GTP affinity and effector interactions" (2013): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 192 inventions.
 
+## Patents tied to the discovery
+- About 10 of the person's 39 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 6,390,821 "Engineered protein kinases which can utilize modified nucleotide triphosphate substrates" (filed 1999, granted 2002; assignee The Trustees of Princeton University): cited by 91 later US patents.
+2. US 6,383,790 "High affinity protein kinase inhibitors" (filed 2000, granted 2002; assignee The Trustees of Princeton University): cited by 128 later US patents.
+3. US 10,023,588 "Compositions and methods for treating cancer" (filed 2015, granted 2018; assignee THE REGENTS OF THE UNIVERSITY OF CALIFORNIA): cited by 27 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 1,737 (higher than 92 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 39 (higher than 85 % of the 61 Chemistry laureates of 2000-2025 at prize time).

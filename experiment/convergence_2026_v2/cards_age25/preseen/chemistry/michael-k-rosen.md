@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Phase separation of signaling molecules promotes T cell receptor signal transduction" (2016): no impact, disruption or Foundation values (the work is missing from the metrics tables); cited by 7 inventions.
 3. "Compositional Control of Phase-Separated Cellular Bodies" (2016): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.57, cited by 8 inventions and 0 books.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021, filed from age 25 on).
+
 ## Technological translation
 - Distinct citing inventions: 178 (higher than 43 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

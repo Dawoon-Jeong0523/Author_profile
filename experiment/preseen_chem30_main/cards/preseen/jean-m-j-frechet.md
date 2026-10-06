@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Preparation of polymers with controlled molecular architecture. A new convergent approach to dendritic macromolecules" (1990): impact percentile 1.00, disruption percentile n/a, Foundation share n/a, cited by 124 inventions and 3 books.
 3. "Designing dendrimers for biological applications" (2005): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.28, cited by 121 inventions and 4 books.
 
+## Patents tied to the discovery
+- About 12 of the person's 80 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 5,041,516 "Dendritic molecules and method of production" (filed 1989, granted 1991; assignee Cornell Research Foundation, Inc.): cited by 155 later US patents.
+2. US 6,300,424 "Hyperbranched polyesters and polyamides" (filed 1993, granted 2001; assignee Cornell Research Foundation, Inc.): cited by 15 later US patents.
+3. US 5,587,441 "Hyperbranched polymers from AB monomers" (filed 1994, granted 1996; assignee Cornell Research Foundation, Inc.): cited by 31 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,947 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 80 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).

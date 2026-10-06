@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Mass Spectrometric Sequencing of Proteins from Silver-Stained Polyacrylamide Gels" (1996): impact percentile 1.00, disruption percentile 0.92, Foundation share 0.47, cited by 254 inventions and 8 books.
 3. "Universal sample preparation method for proteome analysis" (2009): impact percentile 1.00, disruption percentile 0.96, Foundation share 0.49, cited by 60 inventions and 8 books.
 
+## Patents tied to the discovery
+- About 10 of the person's 13 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 5,130,538 "Method of producing multiply charged ions and for determining molecular weights of molecules by use of the multiply charged ions of molecules" (filed 1991, granted 1992; assignee John B. Fenn): cited by 48 later US patents.
+2. US 5,608,217 "Electrospraying method for mass spectrometric analysis" (filed 1995, granted 1997; assignee Bruker-Franzen Analytik GmbH): cited by 105 later US patents.
+3. US 5,504,329 "Method of ionizing atoms or molecules by electrospraying" (filed 1995, granted 1996; assignee Bruker-Franzen Analytik GmbH): cited by 95 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 4,236 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 13 (higher than 66 % of the 61 Chemistry laureates of 2000-2025 at prize time).

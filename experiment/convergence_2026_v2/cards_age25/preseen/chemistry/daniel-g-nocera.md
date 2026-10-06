@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "PROTON-COUPLED ELECTRON TRANSFER" (1998): impact percentile 1.00, disruption percentile 0.24, Foundation share 0.24, cited by 0 inventions and 0 books.
 3. "Radical Initiation in the Class I Ribonucleotide Reductase: Long-Range Proton-Coupled Electron Transfer?" (2003): impact percentile 1.00, disruption percentile 0.10, Foundation share 0.27, cited by 1 invention and 1 book.
 
+## Patents tied to the discovery
+- About 4 of the person's 10 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 8,361,288 "Compositions, electrodes, methods, and systems for water electrolysis and other electrochemical techniques" (filed 2010, granted 2013; assignee Sun Catalytix Corporation): cited by 6 later US patents.
+2. US 6,863,781 "Process for photocatalysis and two-electron mixed-valence complexes" (filed 2002, granted 2005; assignee MASSACHUSETTS INSTITUTE OF TECHNOLOGY): cited by 38 later US patents.
+3. US 10,597,681 "Carbon fixation systems and methods" (filed 2016, granted 2020; assignee President and Fellows of Harvard College): cited by 1 later US patent.
+
 ## Technological translation
 - Distinct citing inventions: 307 (higher than 57 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 10 (higher than 63 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Self-assembly of carbon nanotubes into two-dimensional geometries using DNA origami templates" (2009): impact percentile 1.00, disruption percentile 0.12, Foundation share 0.49, cited by 16 inventions and 0 books.
 3. "Solution of a 20-Variable 3-SAT Problem on a DNA Computer" (2002): impact percentile 1.00, disruption percentile 0.06, Foundation share 0.13, cited by 23 inventions and 1 book.
 
+## Patents tied to the discovery
+- About 5 of the person's 6 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 7,842,793 "Methods of making nucleic acid nanostructures" (filed 2006, granted 2010; assignee California Institute of Technology): cited by 42 later US patents.
+2. US 9,340,416 "Polynucleotides and related nanoassemblies, structures, arrangements, methods and systems" (filed 2009, granted 2016; assignee California Institute of Technology): cited by 19 later US patents.
+3. US 11,125,748 "Method for organizing individual molecules on a patterned substrate and structures assembled thereby" (filed 2018, granted 2021; assignee THE UNIVERSITY OF BRITISH COLUMBIA): cited by 10 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 541 (higher than 70 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 6 (higher than 51 % of the 61 Chemistry laureates of 2000-2025 at prize time).

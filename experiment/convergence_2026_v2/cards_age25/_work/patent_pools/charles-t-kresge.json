@@ -1,0 +1,521 @@
+{
+ "person": "Charles T. Kresge",
+ "options": [
+  "for the development of ordered mesoporous materials — Charles T. Kresge, Ryong Ryoo, Galen D. Stucky"
+ ],
+ "birth_year": 1954,
+ "patents": [
+  {
+   "patent_id": "5250277",
+   "title": "Crystalline oxide material",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 202
+  },
+  {
+   "patent_id": "5102643",
+   "title": "Composition of synthetic porous crystalline material, its synthesis",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 182
+  },
+  {
+   "patent_id": "5098684",
+   "title": "Synthetic mesoporous crystaline material",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 175
+  },
+  {
+   "patent_id": "6049018",
+   "title": "Synthetic porous crystalline MCM-68, its synthesis and use",
+   "filing_year": 1999,
+   "grant_year": 2000,
+   "assignee": "Mobil Corporation",
+   "cited_by_patents": 81
+  },
+  {
+   "patent_id": "5198203",
+   "title": "Synthetic mesoporous crystalline material",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 79
+  },
+  {
+   "patent_id": "5108725",
+   "title": "Synthesis of mesoporous crystalline material",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 62
+  },
+  {
+   "patent_id": "4547605",
+   "title": "Catalyst for alkylation of aromatic hydrocarbons",
+   "filing_year": 1983,
+   "grant_year": 1985,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 58
+  },
+  {
+   "patent_id": "4899011",
+   "title": "Xylene isomerization process to exhaustively convert ethylbenzene and non-aromatics",
+   "filing_year": 1986,
+   "grant_year": 1990,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 57
+  },
+  {
+   "patent_id": "5258565",
+   "title": "Process for preparing short chain alkylaromatic compounds",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "6797155",
+   "title": "Catalytic cracking process using a modified mesoporous aluminophosphate material",
+   "filing_year": 1999,
+   "grant_year": 2004,
+   "assignee": "EXXONMOBIL RESEARCH AND ENGINEERING COMPANY",
+   "cited_by_patents": 46
+  },
+  {
+   "patent_id": "4889615",
+   "title": "Additive for vanadium capture in catalytic cracking",
+   "filing_year": 1988,
+   "grant_year": 1989,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "5246689",
+   "title": "Synthetic porous crystalline material its synthesis and use",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "5264203",
+   "title": "Synthetic mesoporous crystalline materials",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "5250282",
+   "title": "Use of amphiphilic compounds to produce novel classes of crystalline oxide materials",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "5304363",
+   "title": "Porous materials",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "5510309",
+   "title": "Method for preparing a modified solid oxide",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "5378440",
+   "title": "Method for separation of substances",
+   "filing_year": 1993,
+   "grant_year": 1995,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 26
+  },
+  {
+   "patent_id": "6124232",
+   "title": "Method for preparing an acidic solid oxide",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "5300277",
+   "title": "Synthesis of mesoporous crystalline material",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "5324881",
+   "title": "Supported heteropoly acid catalysts for isoparaffin-olefin alkylation reactions",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "5475178",
+   "title": "Supported heteropoly acid catalysts",
+   "filing_year": 1994,
+   "grant_year": 1995,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "6310265",
+   "title": "Isomerization of paraffins",
+   "filing_year": 1999,
+   "grant_year": 2001,
+   "assignee": "ExxonMobil Chemical Patents Inc.",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "5238676",
+   "title": "Method for modifying synthetic mesoporous crystalline materials",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "5837639",
+   "title": "Hydroprocessing catalyst",
+   "filing_year": 1991,
+   "grant_year": 1998,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "5211934",
+   "title": "Synthesis of mesoporous aluminosilicate",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "5292698",
+   "title": "Catalyst comprising MCM-36",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5366945",
+   "title": "Supported heteropoly acid catalysts",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5779882",
+   "title": "Modified MCM-56, its preparation and use",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "5258566",
+   "title": "Process for preparing long chain alkylaromatic compounds",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "4599475",
+   "title": "Process for xylene isomerization using ZSM-23 zeolite",
+   "filing_year": 1985,
+   "grant_year": 1986,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "5104515",
+   "title": "Method for purifying synthetic mesoporous crystalline material",
+   "filing_year": 1991,
+   "grant_year": 1992,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "5902767",
+   "title": "Catalyst having an acidic solid oxide component and a group IB metal or metal oxide component",
+   "filing_year": 1998,
+   "grant_year": 1999,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "6447741",
+   "title": "Thermally stable, high surface area, modified mesoporous aluminophosphate material",
+   "filing_year": 1999,
+   "grant_year": 2002,
+   "assignee": "ExxonMobil Oil Corporation",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "4912277",
+   "title": "Process for preparing long chain alkyl aromatic compounds",
+   "filing_year": 1989,
+   "grant_year": 1990,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "5215737",
+   "title": "Synthesis of mesoporous aluminosilicate",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "5229341",
+   "title": "Crystalline oxide material",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "5183561",
+   "title": "Demetallation of hydrocarbon feedstocks with a synthetic mesoporous crystalline material",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "5296428",
+   "title": "Catalyst comprising MCM-36 and a hydrogenation/dehydrogenation component",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "5370785",
+   "title": "Hydrocarbon conversion process employing a porous material",
+   "filing_year": 1994,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "5258569",
+   "title": "Isoparaffin-olefin alkylation process with zeolite MCM-36",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5310715",
+   "title": "Method for preparing a pillared layered oxide material",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "6054052",
+   "title": "Selective sorption of organics by metal-containing M41S",
+   "filing_year": 1995,
+   "grant_year": 2000,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "4477590",
+   "title": "Separately supported polymetallic reforming catalyst",
+   "filing_year": 1983,
+   "grant_year": 1984,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "4895638",
+   "title": "Catalytic cracking process",
+   "filing_year": 1989,
+   "grant_year": 1990,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "5258114",
+   "title": "Ultra large pore cracking catalyst and process for catalytic cracking",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "5043508",
+   "title": "Process for preparing long chain alkyl aromatic compounds",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "5266541",
+   "title": "Crystalline oxide material",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "5278115",
+   "title": "Method for preparing a pillared layered oxide material",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "5174888",
+   "title": "Catalytic conversion",
+   "filing_year": 1991,
+   "grant_year": 1992,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5196633",
+   "title": "Catalytic conversion",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5278116",
+   "title": "Method for preparing a pillared layered oxide material",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5583276",
+   "title": "Process for producing low aromatic diesel fuel with high cetane index",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "4956517",
+   "title": "Dehydrogenation process utilizing a pillared layered silicate plus a base metal or noble metal",
+   "filing_year": 1989,
+   "grant_year": 1990,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "5231235",
+   "title": "Process for preparing ethers",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "5365000",
+   "title": "Organic conversion with a catalyst comprising a crystalline pillard oxide material",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "4493764",
+   "title": "Separately supported polymetallic reforming catalyst",
+   "filing_year": 1984,
+   "grant_year": 1985,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "6419819",
+   "title": "Synthetic porous crystalline MCM-67, its synthesis and use",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "ExxonMobil Oil Corporation",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5008481",
+   "title": "Aromatization process utilizing a pillared layered silicate plus a base metal or noble metal",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "5105042",
+   "title": "Sulfated layered titanium oxide catalysts in process for preparing long chain alkyl aromatic compounds",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "6063262",
+   "title": "Synthetic porous crystalline MCM-67, its synthesis and use",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "5498817",
+   "title": "Isoparaffin/olefin alkylation over vacancy-containing titanometallate molecular sieves",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5294330",
+   "title": "Hydrocracking process with a catalyst comprising MCM-36",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5364999",
+   "title": "Organic conversion with a catalyst comprising a crystalline pillared oxide material",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "Mobil Oil Corporation",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6869587",
+   "title": "Crystalline molecular sieve composition MCM-65, its synthesis and use",
+   "filing_year": 2001,
+   "grant_year": 2005,
+   "assignee": "ExxonMobil Chemical Patents Inc.",
+   "cited_by_patents": 0
+  }
+ ]
+}

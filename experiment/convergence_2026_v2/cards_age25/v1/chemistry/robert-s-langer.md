@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Biodegradable Long-Circulating Polymeric Nanospheres" (1994): impact percentile 1.00, disruption percentile 0.97, Foundation share 0.49, cited by 278 inventions and 4 books.
 3. "A combinatorial library of lipid-like materials for delivery of RNAi therapeutics" (2008): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.46, cited by 534 inventions and 4 books.
 
+## Patents tied to the discovery
+- About 160 of the person's 559 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 4,164,560 "Systems for the controlled release of macromolecules" (filed 1977, granted 1979): cited by 136 later US patents.
+2. US 5,543,158 "Biodegradable injectable nanoparticles" (filed 1993, granted 1996; assignee MASSACHUSETTS INSTITUTE OF TECHNOLOGY): cited by 696 later US patents.
+3. US 6,998,115 "Biodegradable poly(β-amino esters) and uses thereof" (filed 2001, granted 2006; assignee MASSACHUSETTS INSTITUTE OF TECHNOLOGY): cited by 144 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 19,354 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 559 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).

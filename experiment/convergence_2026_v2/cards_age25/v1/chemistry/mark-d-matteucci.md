@@ -14,6 +14,11 @@ Prior Nobel Prize: none.
 2. "The synthesis of oligodeoxyprimidines on a polymer support" (1980): impact percentile 0.98, disruption percentile 0.93, Foundation share 0.60, cited by 40 inventions and 0 books.
 3. "Deoxyoligonucleotide synthesis via the phosphoramidite method." (1983): outside the profile's record (OpenAlex credited it to the person after its January 2026 snapshot), so no impact, disruption or Foundation values.
 
+## Patents tied to the discovery
+- About 7 of the person's 67 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 2 most tied to it:
+1. US 4,458,066 "Process for preparing polynucleotides" (filed 1981, granted 1984; assignee University Patents, Inc.): cited by 1,218 later US patents.
+2. US 4,500,707 "Nucleosides useful in the preparation of polynucleotides" (filed 1982, granted 1985; assignee University Patents, Inc.): cited by 607 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 5,051 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 67 (higher than 93 % of the 61 Chemistry laureates of 2000-2025 at prize time).

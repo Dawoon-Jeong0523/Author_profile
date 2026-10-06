@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "RAF inhibitors transactivate RAF dimers and ERK signalling in cells with wild-type BRAF" (2010): impact percentile 1.00, disruption percentile 0.00, Foundation share 0.76, cited by 68 inventions and 1 book.
 3. "The translational landscape of mTOR signalling steers cancer initiation and metastasis" (2012): impact percentile 1.00, disruption percentile 0.98, Foundation share 0.53, cited by 30 inventions and 2 books.
 
+## Patents tied to the discovery
+- About 10 of the person's 39 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,390,821 "Engineered protein kinases which can utilize modified nucleotide triphosphate substrates" (filed 1999, granted 2002; assignee The Trustees of Princeton University): cited by 91 later US patents.
+2. US 6,383,790 "High affinity protein kinase inhibitors" (filed 2000, granted 2002; assignee The Trustees of Princeton University): cited by 128 later US patents.
+3. US 10,023,588 "Compositions and methods for treating cancer" (filed 2015, granted 2018; assignee THE REGENTS OF THE UNIVERSITY OF CALIFORNIA): cited by 27 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,030 (higher than 92 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 39 (higher than 85 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Carbon Atom Insertion into Pyrroles and Indoles Promoted by Chlorodiazirines" (2021): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.66, cited by 0 inventions and 0 books.
 3. "A supramolecular microenvironment strategy for transition metal catalysis" (2015): impact percentile 1.00, disruption percentile 0.04, Foundation share 0.50, cited by 1 invention and 1 book.
 
+## Patents tied to the discovery
+- No US utility patents in the record (granted up to 2021, filed from age 25 on).
+
 ## Technological translation
 - Distinct citing inventions: 6 (higher than 3 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 0 (higher than 11 % of the 61 Chemistry laureates of 2000-2025 at prize time).

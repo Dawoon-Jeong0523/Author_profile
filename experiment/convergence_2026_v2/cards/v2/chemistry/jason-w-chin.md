@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Expanding and reprogramming the genetic code" (2017): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.30, cited by 10 inventions and 1 book.
 3. "Addition of p -Azido- l -phenylalanine to the Genetic Code of Escherichia c oli" (2002): impact percentile 0.98, disruption percentile 0.93, Foundation share 0.64, cited by 448 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 32 of the person's 35 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 7,045,337 "In vivo incorporation of unnatural amino acids" (filed 2002, granted 2006; assignee The Scripps Research Institute): cited by 293 later US patents.
+2. US 7,083,970 "Methods and compositions for the production of orthogonal tRNA-aminoacyl tRNA synthetase pairs" (filed 2002, granted 2006; assignee The Scripps Research Institute): cited by 223 later US patents.
+3. US 7,618,775 "Expanding the eukaryotic genetic code" (filed 2004, granted 2009; assignee The Scripps Research Institute): cited by 8 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 1,283 (higher than 89 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 35 (higher than 85 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "High-Performance Plastic Transistors Fabricated by Printing Techniques" (1997): impact percentile 1.00, disruption percentile 0.24, Foundation share 0.39, cited by 138 inventions and 0 books.
 3. "Highly sensitive flexible pressure sensors with microstructured rubber dielectric layers" (2010): impact percentile 1.00, disruption percentile 0.07, Foundation share 0.62, cited by 80 inventions and 3 books.
 
+## Patents tied to the discovery
+- About 85 of the person's 102 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 6,107,117 "Method of making an organic thin film transistor" (filed 1996, granted 2000; assignee LUCENT TECHNOLOGIES INC.): cited by 152 later US patents.
+2. US 9,281,415 "Pressure sensing apparatuses and methods" (filed 2011, granted 2016; assignee The Board of Trustees of the Leland Stanford Junior University): cited by 13 later US patents.
+3. US 9,625,330 "Methods and apparatus concerning multi-tactile sensitive (E-skin) pressure sensors" (filed 2015, granted 2017; assignee The Board of Trustees of the Leland Stanford Junior University): cited by 19 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,305 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 102 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).

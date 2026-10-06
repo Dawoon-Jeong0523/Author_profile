@@ -1,0 +1,152 @@
+Akira Fujishima:
+  picks:
+  - patent_id: '6387844'
+    reason: Claims a titanium dioxide photocatalyst material itself, the semiconductor photocatalyst behind the Honda-Fujishima effect, though not a water-splitting claim
+  - patent_id: '5595813'
+    reason: Earliest-filed (1993) of his photocatalysis patents, claiming materials coated with a photocatalytically active semiconductor metal oxide
+  - patent_id: '6013372'
+    reason: Founding and most-cited patent on photocatalytically induced superhydrophilicity of TiO2 surfaces, the main applied outgrowth of his semiconductor photocatalysis work
+  n_related: 33
+  note: 'The related patents are 1990s-and-later TiO2 photocatalysis applications (self-cleaning, superhydrophilic, air purification); none claims photoelectrochemical water splitting itself, which predates this list. The benzimidazole crystal and bFGF patents (Takeda), the RF tuner/receiver patents (Sumitomo Electric, Panasonic) and the Fujitsu mobile-communication patents clearly belong to other inventors named Akira Fujishima.'
+
+Bill Morandi:
+  picks: []
+  n_related: 0
+  note: 'None of the four patents concerns skeletal editing; they cover Wacker-type alkene oxidation from his Caltech postdoc and catalytic transfer hydrocyanation and cyanation from his Max Planck (Muelheim) group. No sign of a different inventor.'
+
+Charles T. Kresge:
+  picks:
+  - patent_id: '5102643'
+    reason: Founding 1990 Mobil composition-of-matter patent on the M41S (MCM-41) ordered mesoporous crystalline material and its surfactant-templated synthesis
+  - patent_id: '5098684'
+    reason: Founding 1990 patent claiming the synthetic mesoporous crystalline material with uniform, hexagonally arranged large pores
+  - patent_id: '5108725'
+    reason: 1990 companion patent claiming the surfactant-directed synthesis of the mesoporous crystalline material
+  n_related: 20
+  note: 'none (the other Mobil/ExxonMobil patents are zeolites such as MCM-22/36/56/68, pillared layered oxides and refining catalysts from the same career)'
+
+David W. Deamer:
+  picks:
+  - patent_id: '5795782'
+    reason: Founding 1995 Harvard patent claiming characterization of individual polymer molecules such as DNA as they pass through a nanopore
+  - patent_id: '6267872'
+    reason: Early UC patent on miniature supports for thin films holding single channels or nanopores, the device platform for nanopore measurements
+  - patent_id: '6428959'
+    reason: Early UC patent using nanopore current signatures to detect double-stranded nucleic acids, an early single-molecule nucleic acid analysis method
+  n_related: 22
+  note: '6015714 and 7189503 are later filings with the same title as the founding patent. The 1987 stoop laborer body-support patent and the Solid State Farms radio-frequency spectral analysis patent are unrelated to his work and may belong to another inventor; the liposome and lipid-assisted synthesis patents fit his membrane and origin-of-life research.'
+
+E. Peter Greenberg:
+  picks:
+  - patent_id: '5591872'
+    reason: Founding 1993 patent claiming a bacterial acyl-homoserine lactone autoinducer molecule, the quorum-sensing signal itself
+  - patent_id: '6855513'
+    reason: Patent on quorum-sensing signaling in bacteria, directly covering the cell-to-cell chemical communication system
+  - patent_id: '6723321'
+    reason: Covers compounds modulating autoinducer synthases, the enzymes that make the acyl-homoserine lactone signals
+  n_related: 6
+  note: 'none (6057288, 6936447 and 7442798 continue the autoinducer family; the biofilm-chelator, bactobolin and airway-bactericide patents fit his later Iowa and Washington work)'
+
+F. Ulrich Hartl:
+  picks:
+  - patent_id: '5776724'
+    reason: Claims chaperonin-mediated protein folding, the core GroEL-type chaperone mechanism of the discovery
+  - patent_id: '5302518'
+    reason: Earliest filing (1992), on assisted biocatalytic refolding of denatured recombinant proteins, consistent with chaperone-mediated folding
+  - patent_id: '6663868'
+    reason: Earliest of the heat shock protein (chaperone) vaccine family, an application of chaperone-peptide binding rather than the folding discovery itself
+  n_related: 12
+  note: 'Only two patents address chaperone-assisted folding directly; the rest are Sloan-Kettering heat-shock-protein vaccine and therapy patents from his time there. No sign of a different inventor.'
+
+Guy Bertrand:
+  picks:
+  - patent_id: '7312331'
+    reason: Founding patent on stable cyclic (alkyl)(amino)carbenes (CAACs) and their use as ligands for transition-metal catalysts
+  - patent_id: '6492525'
+    reason: Earliest carbene filing (2001), claiming organometallic complexes of cationic heterocyclic carbenes for catalysis
+  - patent_id: '9403781'
+    reason: Claims isolable crystalline 1,2,3-triazol-5-ylidenes, a new class of stable mesoionic carbenes
+  n_related: 6
+  note: 'none (the S.C.R.A.S. polymerization-catalyst, stannylene/germylene and phosphorus-ylide patents reflect his Toulouse main-group and polymerization work rather than carbenes)'
+
+Jean M. J. Fréchet:
+  picks:
+  - patent_id: '5041516'
+    reason: Founding 1989 Cornell patent on dendritic molecules and their convergent method of production
+  - patent_id: '6300424'
+    reason: Earliest hyperbranched-polymer filing (1993), claiming hyperbranched polyesters and polyamides as one-step dendritic analogues
+  - patent_id: '5587441'
+    reason: Earliest filing (1994) of the hyperbranched polymers from AB monomers family, a one-pot route to dendritic-like polymers
+  n_related: 12
+  note: 'Dendritic and hyperbranched patents are a minority in a broad portfolio (IBM chemically amplified photoresists, macroporous polymer monoliths, Exxon polymer functionalization, Symyx, Unilever) that is consistent with his career; no clear sign of another inventor.'
+
+John E. Bercaw:
+  picks:
+  - patent_id: '9676680'
+    reason: Only patent touching C-H activation, apparently coupling catalytic alkane transfer dehydrogenation with olefin oligomerization (continued in 9944572)
+  n_related: 2
+  note: 'His patents are mostly olefin-polymerization catalysts (metallocene and non-metallocene); his platinum (Shilov-type) alkane C-H activation work is not patented in this list. No sign of a different inventor.'
+
+Kazunari Domen:
+  picks:
+  - patent_id: '6878666'
+    reason: Founding patent on visible-light-responsive metal oxynitride photocatalysts for overall water splitting
+  - patent_id: '6864211'
+    reason: Claims photocatalysts for decomposition of water by visible light, the core of his solar water-splitting program
+  - patent_id: '6838413'
+    reason: Claims oxysulfide photocatalysts for water decomposition under visible light, a second new material class from the same program
+  n_related: 14
+  note: 'none (later FUJIFILM, Mitsubishi Chemical, Toyota and TOTO patents cover water-splitting electrodes and artificial-photosynthesis panels for solar hydrogen; the mesoporous-oxide and carbon solid-acid patents are side lines of his Tokyo Tech group)'
+
+Kevan Shokat:
+  picks:
+  - patent_id: '6390821'
+    reason: Founding chemical-genetic patent on engineered (analog-sensitive) protein kinases that accept modified nucleotide triphosphate substrates
+  - patent_id: '6383790'
+    reason: Claims high-affinity inhibitors designed for engineered kinases, the inhibitor half of the bump-and-hole method
+  - patent_id: '10023588'
+    reason: Earliest filing (2015) of the UC cancer-treatment family that covers his covalent inhibitors of oncogenic KRAS G12C
+  n_related: 10
+  note: 'Both discoveries appear (Princeton-era engineered kinase patents; UC family 10023588/11008334/11136297, whose KRAS link is inferred from title and timing); many other UC patents are kinase, PI3K and mTOR inhibitor applications. The Princeton bacterial growth and pathogenesis patents (one assigned to University Technologies International) lie outside his kinase work and may reflect a collaboration.'
+
+Mark E. Thompson:
+  picks:
+  - patent_id: '6303238'
+    reason: Founding 1997 patent on OLEDs doped with phosphorescent compounds (electrophosphorescence), which harvest triplet excitons for high efficiency
+  - patent_id: '6830828'
+    reason: Early patent on organometallic (cyclometallated iridium-type) complexes as phosphorescent emitters in OLEDs
+  - patent_id: '6835469'
+    reason: Highly cited USC patent on phosphorescent compounds and devices built on them, extending efficient phosphorescent emitters
+  n_related: 140
+  note: 'The 19 DuPont herbicidal sulfonamide patents (1984-1989) belong to a different Mark E. Thompson. A few USC and Caltech biomedical patents (scleral closure, reversible adhesives, methylated DNA detection, photoactivated neuron modulators) are outside OLED work and may be collaborations; the organic photovoltaic patents are his own related work.'
+
+Mikko Ritala:
+  picks:
+  - patent_id: '6632279'
+    reason: Early (2000) core ALD process patent for growing thin oxide films, highly cited
+  - patent_id: '7108747'
+    reason: Earliest filing (1999), an ALD process for barium- and strontium-containing oxide thin films
+  - patent_id: '6824816'
+    reason: Founding patent on ALD of metal (noble-metal) thin films, a key extension of ALD chemistry
+  n_related: 49
+  note: 'ALD itself was patented by Suntola in the 1970s; these ASM patents are process and precursor developments. The 2013 US Navy metamaterial thin-film patent is outside the ASM ALD portfolio and may be a collaboration or another inventor.'
+
+Ruedi Aebersold:
+  picks:
+  - patent_id: '6629040'
+    reason: Founding ICAT patent on isotope-coded affinity tags for quantitative mass-spectrometry protein identification
+  - patent_id: '7052915'
+    reason: Covers selective chemical labeling and isolation of phosphopeptides for mass-spectrometry proteome analysis
+  n_related: 2
+  note: 'The plastin isoform patents (1990-1991) come from his earlier protein-chemistry work, and the electroosmotic fluidic device may relate to sample handling; no sign of a different inventor.'
+
+Shankar Balasubramanian:
+  picks:
+  - patent_id: '6833246'
+    reason: Founding Solexa patent on polynucleotide sequencing by synthesis with detection of incorporated labelled nucleotides
+  - patent_id: '6787308'
+    reason: Founding Solexa patent on arrayed single-molecule biomolecules and their use in massively parallel sequencing
+  - patent_id: '7057026'
+    reason: Founding patent on labelled nucleotides with removable 3-prime blocking groups (reversible terminators), the chemistry of Illumina SBS
+  n_related: 21
+  note: 'The UC nanomotor patents (9352963, 9868991, 9879310) and the Argonne hydrogen-production nanoparticle patent (10220378) belong to a different Shankar Balasubramanian. The two Cambridge Epigenetix patents concern epigenetic base detection rather than the sequencing discovery.'

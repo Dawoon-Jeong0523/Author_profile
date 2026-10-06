@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "Electron-Tunneling Pathways in Oroteins" (1992): impact percentile 0.99, disruption percentile 0.03, Foundation share 0.22, cited by 1 invention and 1 book.
 3. "Electron Tunneling in Proteins: Coupling Through a β Strand" (1995): impact percentile 1.00, disruption percentile 0.06, Foundation share 0.31, cited by 10 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 1 of the person's 2 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the one most tied to it:
+1. US 7,105,310 "Detection of biomolecules by sensitizer-linked substrates" (filed 2000, granted 2006; assignee California Institute of Technology): cited by 17 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 142 (higher than 39 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 2 (higher than 31 % of the 61 Chemistry laureates of 2000-2025 at prize time).

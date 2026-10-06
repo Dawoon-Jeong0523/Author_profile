@@ -69,5 +69,16 @@ Wikidata was wrong for Brangwynne, Ritala and Winkler). Defining works: 8 LLM ag
 `merge-picks` into `cards_age25/defining_works_chemistry.yaml`. Laureate reference: `laureate_reference_age25_chemistry.csv`
 (61; the imported cmd_reference stops on Sharpless' duplicate author id after writing the file).
 
+## Patents tied to the discovery (chemistry cards)
+
+`patent_section.py` (pools / merge / apply, `--field chemistry`) adds a "Patents tied to the discovery" section to every
+chemistry card (standard and age-25): up to three of the person's US utility patents granted up to 2021 most tied to the
+discovery of the person's option(s), with filing and grant years, first assignee and the number of later US patents
+citing them, and how many of the person's patents relate to the discovery. Chosen by 6 LLM agents from all the person's
+patents (`cards_age25/_work/patent_pools/`, `_work/patent_picks/batch_*.yaml`), merged and checked into
+`cards_age25/patents_tied_chemistry.yaml`. Why: inventions disclosed mainly in patents (sequencing-by-synthesis) had no
+discovery evidence on the cards. `apply` is idempotent; run it again after rebuilding cards. The agents' notes flag
+namesake patents in some records (Tao Zhang, Makoto Fujita, Nam-Gyu Park, Mark E. Thompson, Wolfgang A. Herrmann).
+
 Medicine had no v1 30-option list. Its new options (OCT, CFTR modulators, MeCP2, TGF-β receptors and seven single
 people) and two attachments (Moskowitz to CGRP, Saper to orexin) are Claude's drafts in `decisions.yaml`.

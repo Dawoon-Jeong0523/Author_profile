@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites" (2012): impact percentile 1.00, disruption percentile 0.86, Foundation share 0.94, cited by 112 inventions and 6 books.
 3. "Low-Temperature Fabrication of Dye-Sensitized Plastic Electrodes by Electrophoretic Preparation of Mesoporous TiO[sub 2] Layers" (2004): impact percentile 0.99, disruption percentile 0.04, Foundation share 0.25, cited by 0 inventions and 0 books.
 
+## Patents tied to the discovery
+- None of the person's 29 US utility patents (granted up to 2021, filed from age 25 on) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 259 (higher than 54 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 29 (higher than 84 % of the 61 Chemistry laureates of 2000-2025 at prize time).

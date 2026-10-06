@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Recent advances in semiconductors for photocatalytic and photoelectrochemical water splitting" (2014): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.48, cited by 11 inventions and 2 books.
 3. "Photocatalyst releasing hydrogen from water" (2006): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.68, cited by 10 inventions and 2 books.
 
+## Patents tied to the discovery
+- About 14 of the person's 21 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,878,666 "Photocatalyst made of metal oxynitride having responsibility of visible light" (filed 2001, granted 2005; assignee Japan Science and Technology Agency): cited by 18 later US patents.
+2. US 6,864,211 "Photocatalysts for decomposition of water by visible light" (filed 2001, granted 2005; assignee Japan Science and Technology Agency): cited by 6 later US patents.
+3. US 6,838,413 "Oxysulfide photocatalyst for decomposition of water by visible light" (filed 2002, granted 2005; assignee Japan Science and Technology Agency): cited by 5 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 274 (higher than 57 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 21 (higher than 75 % of the 61 Chemistry laureates of 2000-2025 at prize time).

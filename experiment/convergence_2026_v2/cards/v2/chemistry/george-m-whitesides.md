@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Self-Assembled Monolayers of Thiolates on Metals as a Form of Nanotechnology" (2005): impact percentile 1.00, disruption percentile 0.09, Foundation share 0.23, cited by 240 inventions and 11 books.
 3. "Self-Assembly at All Scales" (2002): impact percentile 1.00, disruption percentile 0.93, Foundation share 0.41, cited by 135 inventions and 13 books.
 
+## Patents tied to the discovery
+- About 25 of the person's 185 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 5,512,131 "Formation of microstamped patterns on surfaces and derivative articles" (filed 1993, granted 1996; assignee President and Fellows of Harvard College): cited by 1,040 later US patents.
+2. US 5,620,850 "Molecular recognition at surfaces derivatized with self-assembled monolayers" (filed 1994, granted 1997; assignee President and Fellows of Harvard College): cited by 329 later US patents.
+3. US 6,518,168 "Self-assembled monolayer directed patterning of surfaces" (filed 1998, granted 2003; assignee President and Fellows of Harvard College): cited by 199 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 10,467 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 185 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).

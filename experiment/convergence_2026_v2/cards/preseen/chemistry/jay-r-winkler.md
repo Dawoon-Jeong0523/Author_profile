@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "ELECTRON TRANSFER IN PROTEINS" (1996): impact percentile 1.00, disruption percentile 0.99, Foundation share 0.39, cited by 23 inventions and 1 book.
 3. "Earth-abundant hydrogen evolution electrocatalysts" (2013): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.22, cited by 5 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 1 of the person's 2 US utility patents (granted up to 2021) relate to the listed discovery; the one most tied to it:
+1. US 7,105,310 "Detection of biomolecules by sensitizer-linked substrates" (filed 2000, granted 2006; assignee California Institute of Technology): cited by 17 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 154 (higher than 38 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 2 (higher than 31 % of the 61 Chemistry laureates of 2000-2025 at prize time).

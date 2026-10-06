@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "Liquid-Liquid Phase Separation in Biology" (2014): impact percentile 1.00, disruption percentile 0.06, Foundation share 0.70, cited by 12 inventions and 1 book.
 3. "A Liquid-to-Solid Phase Transition of the ALS Protein FUS Accelerated by Disease Mutation" (2015): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.81, cited by 13 inventions and 1 book.
 
+## Patents tied to the discovery
+- None of the person's 5 US utility patents (granted up to 2021) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 457 (higher than 67 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 5 (higher than 48 % of the 61 Chemistry laureates of 2000-2025 at prize time).

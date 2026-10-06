@@ -1,0 +1,159 @@
+Anthony J. Arduengo III:
+  picks:
+  - patent_id: '5077414'
+    reason: 1990 DuPont filing on the synthesis of 1,3-disubstituted imidazolium salts, the direct precursors deprotonated to give his stable N-heterocyclic carbenes
+  - patent_id: '6177575'
+    reason: Process for making substituted imidazoles, the building blocks for the imidazolium and NHC precursors
+  - patent_id: '5104993'
+    reason: Earliest filing on 1,3-dialkylimidazole-2-thiones, built on the same imidazolium chemistry as the carbene work
+  n_related: 7
+  note: 'No patent claims the free stable carbene or NHC-metal catalysts; the related patents cover imidazolium salt, imidazole and imidazole-2-thione chemistry. The other patents (borane curing agents, tin plating, polyimide film, enzymatic oxidation) are DuPont chemistry consistent with his DuPont career, so there is no sign of a different inventor.'
+
+David Klenerman:
+  picks:
+  - patent_id: '6787308'
+    reason: Solexa founding patent on arrayed single biomolecules and their use in sequencing, the basis of massively parallel sequencing-by-synthesis
+  n_related: 2
+  note: '7232656 is a continuation of 6787308 with the same title. The other patents (Akubio molecular-interaction sensing, scanning ion conductance microscopy, Ionscope molecular arrays) are his other Cambridge/Imperial work, not a different inventor.'
+
+Dennis Lo Yuk-Ming:
+  picks:
+  - patent_id: '6258540'
+    reason: Founding 1999 patent on non-invasive prenatal diagnosis by detecting fetal DNA in maternal plasma or serum
+  - patent_id: '6927028'
+    reason: Early filing on detecting fetal (non-host) DNA in maternal plasma through epigenetic differences, a fetal-specific marker approach
+  - patent_id: '8706422'
+    reason: 2008 filing on determining chromosomal sequence imbalance from maternal plasma DNA, the basis of counting-based aneuploidy NIPT
+  n_related: 42
+  note: 'The list clearly reflects the discovery, with many prenatal patents. About a third are cancer, transplant and other liquid-biopsy uses of cell-free DNA by the same CUHK group; there is no sign of a different inventor.'
+
+Eric N. Jacobsen:
+  picks:
+  - patent_id: '5637739'
+    reason: 1992 filing on chiral salen catalysts and the catalytic asymmetric epoxidation they catalyze
+  - patent_id: '5663393'
+    reason: Follow-on chiral catalyst and epoxidation patent that claims the salen-metal epoxidation system
+  - patent_id: '5665890'
+    reason: Earliest filing on stereoselective epoxide ring-opening with chiral salen complexes, extending the salen epoxidation chemistry
+  n_related: 10
+  note: 'Only two patents claim the epoxidation itself; most related ones cover salen-catalyzed epoxide ring-opening and hydrolytic kinetic resolution. The cycloaddition, combinatorial-catalyst and amino-acid patents are his other Harvard work; there is no sign of a different inventor.'
+
+Henry Snaith:
+  picks:
+  - patent_id: '11038132'
+    reason: Claims optoelectronic devices with mixed-anion organometal halide perovskites, the core of his 2012 perovskite solar cell
+  - patent_id: '10388897'
+    reason: Claims perovskite devices on a porous scaffold (the meso-superstructured perovskite solar cell)
+  - patent_id: '10079320'
+    reason: 2013 filing on optoelectronic devices with a perovskite layer (thin-film perovskite cell architecture)
+  n_related: 12
+  note: 'The list clearly reflects perovskite solar cells (2013-2017 filings). The earlier EPFL, Cambridge and Isis patents (2007-2010) on charge transport, diodes and solid-state heterojunctions match his dye-cell and organic-electronics background, so there is no sign of a different inventor.'
+
+Jin-Quan Yu:
+  picks:
+  - patent_id: '10611723'
+    reason: Earliest listed filing, on ligand-enabled meta-C-H activation with a transient mediator, a Pd-catalyzed C-H functionalization method
+  - patent_id: '11186563'
+    reason: Pd(II)-catalyzed enantioselective activation of beta-methylene C(sp3)-H bonds, central to his ligand-enabled C-H activation work
+  - patent_id: '10759743'
+    reason: Pd-catalyzed gamma-C(sp3)-H arylation of free amines, a directed C-H functionalization method
+  n_related: 7
+  note: 'All Scripps patents are C-H functionalization, but all were filed in 2016 or later; none covers his earlier Pd(II) C-H activation work. 10696617 (Asymchem, amide alcoholysis) is unrelated and may belong to a different inventor with the same name.'
+
+Krzysztof Matyjaszewski:
+  picks:
+  - patent_id: '5763548'
+    reason: Original 1995 filing claiming the atom transfer radical polymerization (ATRP) process and the resulting (co)polymers
+  - patent_id: '5807937'
+    reason: Companion 1995 filing on ATRP-based processes and the well-defined polymers they make
+  - patent_id: '5789487'
+    reason: 1996 filing extending ATRP to the preparation of new homo- and copolymers
+  n_related: 56
+  note: 'The list clearly reflects ATRP and other controlled radical polymerization (including nitroxide-mediated). A few patents (GE silanol condensation, plastic optical fibers, polyphosphazenes, Dow polymerization inhibitors) are outside CRP but match his polymer-chemistry career; there is no sign of a different inventor.'
+
+Marvin H. Caruthers:
+  picks:
+  - patent_id: '4415732'
+    reason: Founding 1981 patent on nucleoside phosphoramidite compounds, the reagents of automated DNA synthesis
+  - patent_id: '4458066'
+    reason: Founding 1981 patent on the solid-phase process for preparing polynucleotides from these reagents
+  - patent_id: '4500707'
+    reason: Early filing on the nucleoside intermediates and supports used in phosphoramidite polynucleotide synthesis
+  n_related: 42
+  note: 'Almost all patents concern chemical oligonucleotide synthesis, including phosphoramidite, phosphorodithioate, RNA protecting-group and Agilent array-synthesis chemistry. Only the hybrid interferon and catalytic antibody patents fall outside it, and they look like his own work, not a different inventor.'
+
+Michael Elowitz:
+  picks:
+  - patent_id: '10527631'
+    reason: Caltech filing on programmable sensing and control through combinatorial molecular interactions, a synthetic circuit design
+  - patent_id: '10899823'
+    reason: Programmable protein circuits in living cells, a synthetic gene and protein circuit platform
+  n_related: 2
+  note: 'Both patents are recent (2017-2019 filings) synthetic-biology circuit patents. There is no patent on the original repressilator-era gene circuits. No sign of name mixing.'
+
+Michael Grätzel:
+  picks:
+  - patent_id: '4927721'
+    reason: Founding 1988 patent on the dye-sensitized photo-electrochemical cell with a sensitized titanium dioxide electrode
+  - patent_id: '5084365'
+    reason: 1990 patent on the nanocrystalline dye-sensitized photo-electrochemical cell and how to make it (the classic DSSC)
+  - patent_id: '5441827'
+    reason: Early filing on a transparent regenerative dye-sensitized photoelectrochemical cell
+  n_related: 12
+  note: 'The dye-sensitized cell is well covered (cells, ruthenium dyes, electrolytes, sealing), but no patent covers perovskite solar cells, apart from a 2018 maximum-power-point-tracking device. Other groups (Engelhard water photolysis 1980-82, Hahn-Meitner 1976, Asulab sensor, Geneva endosseous implants) look like his own wider career rather than a different inventor.'
+
+Ronald M. Evans:
+  picks:
+  - patent_id: '5071773'
+    reason: 1987 filing on hormone receptor bioassays using cloned steroid receptors, the cotransfection assay underpinning the receptor superfamily work
+  - patent_id: '4981784'
+    reason: 1988 retinoic acid receptor patent; RAR was identified as a new member of the steroid/thyroid receptor superfamily
+  - patent_id: '5217867'
+    reason: 1988 filing on identifying and characterizing new receptors of the superfamily by homology
+  n_related: 110
+  note: 'Most patents are nuclear receptor work (GR, RAR, RXR, PPAR, FXR, SXR, co-repressors). Unrelated groups are the early CGRP, inhibin and transgenic-animal patents and the later FGF1 metabolic patents, all from Salk and consistent with his career, so there is no sign of a different inventor.'
+
+Ryong Ryoo:
+  picks:
+  - patent_id: '5942208'
+    reason: 1997 filing claiming a mesoporous silica molecular sieve and its preparation
+  - patent_id: '5958368'
+    reason: 1997 filing on a noncrystalline mesoporous molecular sieve material and how to make it
+  - patent_id: '6585948'
+    reason: Founding patent on ordered mesoporous carbon (carbon molecular sieve with structural regularity) templated from mesoporous silica
+  n_related: 5
+  note: 'All five patents relate to porous materials. Two (7785563, 7196122) list ETRI as assignee, which is unusual for him, but their topics (mesoporous zeolites, nanoporous composites) match his work.'
+
+Stanislas Leibler:
+  picks: []
+  n_related: 0
+  note: 'Neither patent reflects synthetic gene circuits; both are Rockefeller holographic-microscope patents (the same family). They are consistent with his Rockefeller affiliation, so there is no sign of a different inventor.'
+
+Steven A. Van Slyke:
+  picks:
+  - patent_id: '4539507'
+    reason: 1983 Kodak patent on thin-film organic electroluminescent devices with greatly improved power conversion efficiency, the start of the efficient OLED
+  - patent_id: '4720432'
+    reason: 1987 patent on the multilayer organic electroluminescent device with separate hole-injecting/transporting and emitting layers (Tang-Van Slyke OLED)
+  - patent_id: '4885211'
+    reason: 1987 patent on the low-work-function Mg-Ag cathode that made the efficient OLED practical
+  n_related: 38
+  note: 'Every patent is OLED-related (Kodak and Global OLED). Later ones cover displays, microcavities and manufacturing. No sign of name mixing.'
+
+Tao Zhang:
+  picks:
+  - patent_id: '11105009'
+    reason: Only listed patent on single-atom catalysts (graphene inlaid with single metal atoms, Dalian Institute of Chemical Physics)
+  n_related: 1
+  note: 'The list mixes several different Tao Zhangs (Jereh mobile power, Haier washing machines, BOE displays, pharma, optical tables, remote sensing, HKUST positioning). The DICP tungsten-carbide cellulose-to-ethylene-glycol patents fit his catalysis work but are not single-atom catalysis. No patent covers the founding Pt1/FeOx work.'
+
+Zhenan Bao:
+  picks:
+  - patent_id: '6107117'
+    reason: 1996 Lucent filing on making organic thin-film transistors, an early base of her organic and flexible electronics
+  - patent_id: '9281415'
+    reason: 2011 Stanford filing on microstructured pressure-sensing devices, the first electronic-skin tactile sensor
+  - patent_id: '9625330'
+    reason: Patent explicitly on multi-tactile sensitive electronic-skin (E-skin) pressure sensors
+  n_related: 85
+  note: 'The list reflects both organic thin-film transistors (Lucent era) and e-skin, stretchable and self-healing electronics (Stanford era). A few patents (microlens, CO2 sorbents, battery anodes, soft-lithography molds) are outside the topic but match her career. Samsung Display and BASF co-assigned patents fit known collaborations, so there is no sign of a different inventor.'

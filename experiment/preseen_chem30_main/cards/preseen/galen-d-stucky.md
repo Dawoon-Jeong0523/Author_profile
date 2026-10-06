@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Nonionic Triblock and Star Diblock Copolymer and Oligomeric Surfactant Syntheses of Highly Ordered, Hydrothermally Stable, Mesoporous Silica Structures" (1998): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.39, cited by 52 inventions and 2 books.
 3. "Generalized syntheses of large-pore mesoporous metal oxides with semicrystalline frameworks" (1998): impact percentile 1.00, disruption percentile 0.06, Foundation share 0.26, cited by 76 inventions and 1 book.
 
+## Patents tied to the discovery
+- About 14 of the person's 41 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,592,764 "Block copolymer processing for mesostructured inorganic oxide materials" (filed 2000, granted 2003; assignee THE REGENTS OF THE UNIVERSITY OF CALIFORNIA): cited by 131 later US patents.
+2. US 5,364,797 "Sensor device containing mesoporous crystalline material" (filed 1993, granted 1994; assignee Mobil Oil Corporation): cited by 347 later US patents.
+3. US 6,541,539 "Hierarchically ordered porous oxides" (filed 1999, granted 2003; assignee President and Fellows of Harvard College): cited by 52 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 1,250 (higher than 89 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 41 (higher than 85 % of the 61 Chemistry laureates of 2000-2025 at prize time).

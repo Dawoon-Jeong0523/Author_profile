@@ -14,6 +14,10 @@ Prior Nobel Prize: none.
 2. "FUS Phase Separation Is Modulated by a Molecular Chaperone and Methylation of Arginine Cation-π Interactions" (2018): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.71, cited by 14 inventions and 0 books.
 3. "Direct Observation of the Interconversion of Normal and Toxic Forms of α-Synuclein" (2012): impact percentile 1.00, disruption percentile 0.05, Foundation share 0.40, cited by 10 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 2 of the person's 9 US utility patents (granted up to 2021) relate to the listed discovery; the one most tied to it:
+1. US 6,787,308 "Arrayed biomolecules and their use in sequencing" (filed 2001, granted 2004; assignee Solexa, Inc.): cited by 933 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,009 (higher than 92 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 9 (higher than 61 % of the 61 Chemistry laureates of 2000-2025 at prize time).

@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Molecular chaperones in protein folding and proteostasis" (2011): impact percentile 1.00, disruption percentile 0.03, Foundation share 0.30, cited by 18 inventions and 3 books.
 3. "Molecular Chaperones in the Cytosol: from Nascent Chain to Folded Protein" (2002): impact percentile 1.00, disruption percentile 0.07, Foundation share 0.41, cited by 54 inventions and 6 books.
 
+## Patents tied to the discovery
+- About 12 of the person's 12 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 5,776,724 "Chaperonin-mediated protein folding" (filed 1995, granted 1998; assignee Yale University): cited by 2 later US patents.
+2. US 5,302,518 "Process for the biocatalytic, correct chain folding of denatured recombinant fusion proteins" (filed 1992, granted 1994; assignee Hoechst GmbH): cited by 8 later US patents.
+3. US 6,663,868 "Heat shock protein-based vaccines and immunotherapies" (filed 1998, granted 2003; assignee Sloan-Kettering Institute for Cancer Research): cited by 14 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 742 (higher than 80 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 12 (higher than 66 % of the 61 Chemistry laureates of 2000-2025 at prize time).

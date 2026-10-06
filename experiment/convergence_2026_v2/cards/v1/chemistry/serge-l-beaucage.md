@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "CpG motifs present in bacteria DNA rapidly induce lymphocytes to secrete interleukin 6, interleukin 12, and interferon gamma." (1996): impact percentile 1.00, disruption percentile 0.01, Foundation share 0.71, cited by 334 inventions and 4 books.
 3. "Advances in the Synthesis of Oligonucleotides by the Phosphoramidite Approach" (1992): impact percentile 0.99, disruption percentile 0.13, Foundation share 0.22, cited by 1,353 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 11 of the person's 14 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 4,415,732 "Phosphoramidite compounds and processes" (filed 1981, granted 1983; assignee University Patents, Inc.): cited by 714 later US patents.
+2. US 4,668,777 "Phosphoramidite nucleoside compounds" (filed 1984, granted 1987; assignee University Patents, Inc.): cited by 367 later US patents.
+3. US 4,973,679 "Process for oligonucleo tide synthesis using phosphormidite intermediates" (filed 1986, granted 1990; assignee University Patents, Inc.): cited by 441 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 8,177 (higher than 98 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 14 (higher than 68 % of the 61 Chemistry laureates of 2000-2025 at prize time).

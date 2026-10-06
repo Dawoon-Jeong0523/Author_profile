@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "The OPLS [optimized potentials for liquid simulations] potential functions for proteins, energy minimizations for crystals of cyclic peptides and crambin" (1988): impact percentile 1.00, disruption percentile 0.12, Foundation share 0.20, cited by 33 inventions and 2 books.
 3. "Monte Carlo simulation of differences in free energies of hydration" (1985): impact percentile 1.00, disruption percentile 0.07, Foundation share 0.49, cited by 0 inventions and 2 books.
 
+## Patents tied to the discovery
+- About 11 of the person's 12 US utility patents (granted up to 2021, filed from age 25 on) relate to the listed discovery; the 3 most tied to it:
+1. US 8,492,415 "Azoles and related derivatives as non-nucleoside reverse transcriptase inhibitors (NNRTIs) in antiviral therapy (HIV)" (filed 2008, granted 2013; assignee Yale University): cited by 1 later US patent.
+2. US 9,643,922 "MIF modulators" (filed 2010, granted 2017; assignee Yale University): cited by 36 later US patents.
+3. US 9,487,476 "Catechol diethers as potent anti-HIV agents" (filed 2012, granted 2016; assignee Yale University): cited by 0 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 843 (higher than 82 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 12 (higher than 66 % of the 61 Chemistry laureates of 2000-2025 at prize time).

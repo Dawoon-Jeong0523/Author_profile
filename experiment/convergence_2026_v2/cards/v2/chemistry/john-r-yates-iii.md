@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Large-scale analysis of the yeast proteome by multidimensional protein identification technology" (2001): impact percentile 1.00, disruption percentile 0.02, Foundation share 0.70, cited by 142 inventions and 15 books.
 3. "Microglia Promote Learning-Dependent Synapse Formation through Brain-Derived Neurotrophic Factor" (2013): impact percentile 1.00, disruption percentile 0.02, Foundation share 0.49, cited by 5 inventions and 2 books.
 
+## Patents tied to the discovery
+- About 5 of the person's 7 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 5,538,897 "Use of mass spectrometry fragmentation patterns of peptides to identify amino acid sequences in databases" (filed 1994, granted 1996; assignee University of Washington): cited by 174 later US patents.
+2. US 6,017,693 "Identification of nucleotides, amino acids, or carbohydrates by mass spectrometry" (filed 1996, granted 2000; assignee University of Washington): cited by 99 later US patents.
+3. US 6,969,757 "Differential labeling for quantitative analysis of complex protein mixtures" (filed 2002, granted 2005; assignee Syngenta Participations AG): cited by 2 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 2,260 (higher than 95 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 7 (higher than 53 % of the 61 Chemistry laureates of 2000-2025 at prize time).

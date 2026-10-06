@@ -14,6 +14,9 @@ Prior Nobel Prize: none.
 2. "From molecular to modular cell biology" (1999): impact percentile 1.00, disruption percentile 0.97, Foundation share 0.56, cited by 16 inventions and 16 books.
 3. "Robustness in simple biochemical networks" (1997): impact percentile 0.99, disruption percentile 0.98, Foundation share 0.59, cited by 4 inventions and 8 books.
 
+## Patents tied to the discovery
+- None of the person's 2 US utility patents (granted up to 2021) is tied to the listed discovery.
+
 ## Technological translation
 - Distinct citing inventions: 285 (higher than 57 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 2 (higher than 31 % of the 61 Chemistry laureates of 2000-2025 at prize time).

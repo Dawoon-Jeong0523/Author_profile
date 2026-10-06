@@ -14,6 +14,12 @@ Prior Nobel Prize: none.
 2. "Applications of Orthogonal “Click” Chemistries in the Synthesis of Functional Soft Materials" (2009): impact percentile 1.00, disruption percentile 0.07, Foundation share 0.26, cited by 54 inventions and 0 books.
 3. "The Convergence of Synthetic Organic and Polymer Chemistries" (2005): impact percentile 1.00, disruption percentile 0.89, Foundation share 0.56, cited by 31 inventions and 0 books.
 
+## Patents tied to the discovery
+- About 6 of the person's 15 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,383,500 "Particles comprising amphiphilic copolymers, having a crosslinked shell domain and an interior core domain, useful for pharmaceutical and other applications" (filed 1997, granted 2002; assignee Washington University): cited by 144 later US patents.
+2. US 8,354,093 "Cell permeable nanoconjugates of shell-crosslinked knedel (SCK) and peptide nucleic acids (“PNAs”) with uniquely expressed or over-expressed mRNA targeting sequences for early diagnosis and therapy of cancer" (filed 2005, granted 2013; assignee Washington University): cited by 4 later US patents.
+3. US 9,545,447 "Polymer-drug systems" (filed 2013, granted 2017; assignee THE TEXAS A&M UNIVERSITY SYSTEM): cited by 35 later US patents.
+
 ## Technological translation
 - Distinct citing inventions: 759 (higher than 80 % of the 61 Chemistry laureates of 2000-2025 at prize time).
 - Own US utility patents: 15 (higher than 69 % of the 61 Chemistry laureates of 2000-2025 at prize time).
