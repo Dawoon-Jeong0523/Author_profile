@@ -1,5 +1,6 @@
 Additional assumption for this forecast: the demographic distribution of Nobel laureates is part of the evidence. Besides the profile notes, a reference note gives the gender, country of birth, citizenship and country of work of the Chemistry laureates of 2000-2025, the area of chemistry of each of those prizes, and the laureates of the 2026 Physics and Physiology or Medicine prizes.
 
+- All the information on the profiles stays important evidence, read as the main instruction says; the demographic distribution is weighed on top of the profile-based distribution.
 - Consider this demographic distribution when weighing the named options. For each option, compare its named people (gender, nationality, country of work) and its area of chemistry with the distribution of past Chemistry laureates, with the areas awarded in recent years, and with this year's Physics and Medicine laureates.
 - Apply what you conclude as an explicit demographic factor per option, between 0.5 and 2, on the profile-based distribution; an option without a demographic factor keeps 1. This factor is separate from, and listed apart from, the secondary adjustment for other information.
 - In the write-up, report the distribution before and after the demographic factors, and list every demographic factor with its option and reason.

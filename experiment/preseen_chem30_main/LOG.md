@@ -46,3 +46,34 @@ One entry per step: time (CDT) · list · command · outcome · decision. Key va
   laureates) and 00_7_demographic_instruction.md (weigh the demographic distribution with an explicit factor 0.5-2 per
   option, reported apart). run_arm.sh <list> <main2|demo> <tag> adds an updated main arm (main2) or the demographic arm
   (main2 + instruction_demo/). Prepared, not submitted.
+- **16:59** · v2 · user: submit the v2 forecast with the updated prompt -> run_arm.sh v2 main2 nobel26-chem-30-v2-main: arm
+  "main2" in the v2 experiment (same question; instruction/ = updated 00_1 and 00_2, 00_3-00_5 unchanged; cards/v2 with
+  the patent section, 51 notes), one rep submitted (log run_v2_main2.out, tmux -L chem30 session v2main2). Differences
+  from the 12:44 v2 main run: technological translation no longer "minor"; patents tied to the discovery count as
+  discovery-relevant works; definition of the patent section; +278 card lines, none removed.
+- **17:00** · v2 · user: check that the cards fed to the run carry the patents, and call no measure "minor" (all card
+  information important); same for the demographic arm. API check of the main2 question: 56 notes (5 assume_true, 51
+  consider), 51 cards with the patent section, definitions with the patent line, but its instruction still says
+  "collaboration is minor". instruction/00_1 revised: all profile information is important evidence (impact, defining
+  works and patents tied to the discovery, technological translation, textbook reach, collaboration, disruption and
+  Foundation values), each read against its reference line; only outside information stays secondary (the definition of
+  the arm). main2's notes kept in instruction_used_main2_2026-10-06/. The demographic arm uses the same 00_1.
+- **17:02** · v2 · run_arm.sh v2 main3: question and 56 notes created, then `run` failed (KeyError): the main2 poll loop
+  rewrites preseen_exp/v2/state.json and dropped main3. Recovered with its own state folder preseen_exp/v2_main3
+  (API check: 56 notes, 51 with patents, no "minor"; context ready) and run_resume_main3.sh: main3 rep01 submitted 17:03.
+  main2 (submitted 16:59, prompt with "collaboration is minor") keeps running (the client cannot cancel). run_arm.sh now
+  gives every arm its own state folder.
+- **17:07** · v2 · user: build the demographic prompt on main3 and submit. instruction_demo/ = the full note set of the arm:
+  main3's 00_2-00_5 unchanged, 00_1 = main3's with one sentence changed (this year's laureates enter "only through the
+  demographic note" instead of "say nothing about which area of chemistry is due", which contradicted the demographic
+  instruction), 00_6 demographics, 00_7 demographic instruction (+ "all profile information stays important evidence;
+  the demographic distribution is weighed on top"). run_arm.sh v2 demo (own state preseen_exp/v2_demo): 7 notes
+  assume_true + 51 cards consider; demo rep01 submitted 17:07 on the v2 list.
+- **17:45** · v2 · main2 (done 17:3x), main3 (17:03-17:36), demo (17:07-17:40) completed. main2's last step (table) failed
+  because run_arm.sh was edited while its bash process was still reading it; the run itself completed and `table` was
+  rerun by hand. compare.py: main2 vs v2 main Spearman 0.86; main3 vs v2 main 0.61; demo vs main3 0.87 (mean |diff|
+  0.73 pp). SBS: v2 main 2.4 %, main2 4.0, main3 3.5, demo 4.9, control 17.3. In main3 the forecaster gave patents tied
+  to the discovery a weight of 0.15, so theory options without patents fell (DFT 5.8 -> 1.4 %, ab initio MD 5.3 -> 1.4).
+  The demo write-up's demographic factors G stayed within 0.94-1.10 (materials 0.94 after the 2023/2025 materials
+  prizes, mixed-gender options 1.08-1.10, most others 1.04): the demo-main3 differences are mostly a different
+  profile model in the run, not the demographic factors.
