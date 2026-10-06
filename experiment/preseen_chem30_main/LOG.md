@@ -20,3 +20,9 @@ One entry per step: time (CDT) · list · command · outcome · decision. Key va
   cards identical to the submitted ones); cards/preseen (55) copied; run_list.sh preseen nobel26-chem-30-pre-main launched
   (tmux -L chem30, session pre). Card caveats: pre-age-25 works on some new records (Collins 1945, Jacobsen 1950, Stubbe
   1953); Tao Zhang's 50 own patents may include namesakes; Mark Levin 22 works.
+- **14:25** · all · v1 done 13:59 (75 min), Preseen list 14:12, v2 14:22 (98 min); compare.py -> results/compare.csv,
+  compare.md, write_up_<list>.md. Leaders: v1/v2 proteomics 9.1/8.7 %, dye-sensitized cells 8.9/8.5 %, nanopores
+  6.5/7.9 %; Preseen list flexible electronics 7.7 %, gene circuits 7.3 %, Norskov 7.1 %. v1 vs v2 Spearman 0.95 (mean
+  |diff| 0.51 pp; options with unchanged people moved up to 1.4 pp = single-run noise); lineup effect largest for OLEDs
+  (Thompson dropped: 3.0 -> 0.8 %); v2's Gray-alone option got no discovery evidence because the standard card shows
+  his most-cited works. Preseen list: 47 % on its own 13 discoveries; v1 puts 55 % on discoveries Preseen did not list.
