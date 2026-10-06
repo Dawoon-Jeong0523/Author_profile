@@ -1,0 +1,657 @@
+{
+ "person": "Shankar Balasubramanian",
+ "profile": "A5040551102",
+ "ids": [
+  "A5040551102"
+ ],
+ "options": [
+  "for the development of massively parallel sequencing-by-synthesis of DNA — Shankar Balasubramanian, David Klenerman",
+  "for the development of chemical methods for the synthesis and massively parallel sequencing of DNA — Shankar Balasubramanian, David Klenerman, Marvin H. Caruthers",
+  "for the development of massively parallel sequencing-by-synthesis of DNA — Shankar Balasubramanian, David Klenerman, Pascal Mayer",
+  "for the development of next-generation DNA sequencing — Shankar Balasubramanian, David Klenerman, Hagan Bayley"
+ ],
+ "birth_year": 1966,
+ "cutoff_year": 1991,
+ "works": [
+  {
+   "paper_id": "W2012016911",
+   "year": 2008,
+   "cited_by_count": 3646,
+   "title": "Accurate whole human genome sequencing using reversible terminator chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155773930",
+   "year": 2013,
+   "cited_by_count": 2091,
+   "title": "Quantitative visualization of DNA G-quadruplex structures in human cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169745877",
+   "year": 2005,
+   "cited_by_count": 1794,
+   "title": "Prevalence of quadruplexes in the human genome",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059306569",
+   "year": 2011,
+   "cited_by_count": 1678,
+   "title": "Targeting G-quadruplexes in gene promoters: a novel anticancer strategy?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050913592",
+   "year": 2006,
+   "cited_by_count": 1316,
+   "title": "G-quadruplexes in promoters throughout the human genome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3017349264",
+   "year": 2020,
+   "cited_by_count": 1207,
+   "title": "The regulation and functions of DNA and RNA G-quadruplexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1450574606",
+   "year": 2015,
+   "cited_by_count": 1205,
+   "title": "High-throughput sequencing of DNA G-quadruplex structures in the human genome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2762638728",
+   "year": 2017,
+   "cited_by_count": 1056,
+   "title": "DNA sequencing at 40: past, present and future",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038722690",
+   "year": 2012,
+   "cited_by_count": 959,
+   "title": "Quantitative Sequencing of 5-Methylcytosine and 5-Hydroxymethylcytosine at Single-Base Resolution",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2520749639",
+   "year": 2016,
+   "cited_by_count": 948,
+   "title": "G-quadruplex structures mark human regulatory chromatin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2966334511",
+   "year": 2019,
+   "cited_by_count": 856,
+   "title": "The Structure and Function of DNA G-Quadruplexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2590327834",
+   "year": 2017,
+   "cited_by_count": 855,
+   "title": "DNA G-quadruplexes in the human genome: detection, functions and therapeutic potential",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032698727",
+   "year": 2007,
+   "cited_by_count": 844,
+   "title": "An RNA G-quadruplex in the 5′ UTR of the NRAS proto-oncogene modulates translation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042374693",
+   "year": 2012,
+   "cited_by_count": 718,
+   "title": "Small-molecule–induced DNA damage identifies alternative DNA structures in human genes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045868610",
+   "year": 2012,
+   "cited_by_count": 633,
+   "title": "5'-UTR RNA G-quadruplexes: translation regulation and targeting",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056607606",
+   "year": 2014,
+   "cited_by_count": 586,
+   "title": "5-Hydroxymethylcytosine is a predominantly stable DNA modification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108763751",
+   "year": 2013,
+   "cited_by_count": 585,
+   "title": "Visualization and selective chemical targeting of RNA G-quadruplex structures in the cytoplasm of human cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052370215",
+   "year": 2009,
+   "cited_by_count": 575,
+   "title": "G-quadruplex nucleic acids as therapeutic targets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2588267243",
+   "year": 2017,
+   "cited_by_count": 565,
+   "title": "CX-5461 is a DNA G-quadruplex stabilizer with selective lethality in BRCA1/2 deficient tumours",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063733156",
+   "year": 2005,
+   "cited_by_count": 546,
+   "title": "Putative DNA Quadruplex Formation within the Human c-kit Oncogene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2941132662",
+   "year": 2019,
+   "cited_by_count": 487,
+   "title": "METTL1 Promotes let-7 MicroRNA Processing via m7G Methylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035030010",
+   "year": 2008,
+   "cited_by_count": 486,
+   "title": "A Novel Small Molecule That Alters Shelterin Integrity and Triggers a DNA-Damage Response at Telomeres",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975690779",
+   "year": 2004,
+   "cited_by_count": 477,
+   "title": "Loop-Length-Dependent Folding of G-Quadruplexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069612289",
+   "year": 2003,
+   "cited_by_count": 465,
+   "title": "A Proton‐Fuelled DNA Nanomachine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083703501",
+   "year": 2013,
+   "cited_by_count": 455,
+   "title": "G-quadruplex structures are stable and detectable in human genomic DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2518362417",
+   "year": 2016,
+   "cited_by_count": 439,
+   "title": "rG4-seq reveals widespread formation of G-quadruplex structures in the human transcriptome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2923522997",
+   "year": 2019,
+   "cited_by_count": 431,
+   "title": "Whole genome experimental maps of DNA G-quadruplexes in multiple species",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155410446",
+   "year": 2011,
+   "cited_by_count": 427,
+   "title": "Micromachine‐Enabled Capture and Isolation of Cancer Cells in Complex Media",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130652515",
+   "year": 2008,
+   "cited_by_count": 413,
+   "title": "G-quadruplexes: the beginning and end of UTRs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163134391",
+   "year": 2006,
+   "cited_by_count": 401,
+   "title": "A Conserved Quadruplex Motif Located in a Transcription Activation Site of the Human c-kit Oncogene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3125011419",
+   "year": 2021,
+   "cited_by_count": 382,
+   "title": "Expansion sequencing: Spatially precise in situ transcriptomics in intact biological systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022640617",
+   "year": 2013,
+   "cited_by_count": 369,
+   "title": "Oxidative bisulfite sequencing of 5-methylcytosine and 5-hydroxymethylcytosine",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3043765262",
+   "year": 2020,
+   "cited_by_count": 350,
+   "title": "Single-molecule visualization of DNA G-quadruplex formation in live cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070883648",
+   "year": 2014,
+   "cited_by_count": 343,
+   "title": "Existence and consequences of G-quadruplex structures in DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2787900975",
+   "year": 2018,
+   "cited_by_count": 340,
+   "title": "Genome-wide mapping of endogenous G-quadruplex DNA structures by chromatin immunoprecipitation and high-throughput sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2808136147",
+   "year": 2018,
+   "cited_by_count": 318,
+   "title": "Structural basis of G-quadruplex unfolding by the DEAH/RHA helicase DHX36",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3005698181",
+   "year": 2020,
+   "cited_by_count": 315,
+   "title": "Imaging mass cytometry and multiplatform genomics define the phenogenomic landscape of breast cancer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047038417",
+   "year": 2007,
+   "cited_by_count": 312,
+   "title": "A Sequence-Independent Study of the Influence of Short Loop Lengths on the Stability and Topology of Intramolecular DNA G-Quadruplexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000640150",
+   "year": 2010,
+   "cited_by_count": 311,
+   "title": "Motion-based DNA detection using catalytic nanomotors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987315229",
+   "year": 2003,
+   "cited_by_count": 305,
+   "title": "Studies on the structure and dynamics of the human telomeric G quadruplex by single-molecule fluorescence resonance energy transfer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134349183",
+   "year": 2013,
+   "cited_by_count": 297,
+   "title": "A screen for hydroxymethylcytosine and formylcytosine binding proteins suggests functions in transcription and chromatin regulation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2985155561",
+   "year": 2019,
+   "cited_by_count": 293,
+   "title": "Clonal Decomposition and DNA Replication States Defined by Scaled Single-Cell Genome Sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039610537",
+   "year": 2009,
+   "cited_by_count": 291,
+   "title": "Chemical Sensing Based on Catalytic Nanomotors: Motion-Based Detection of Trace Silver",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1503311137",
+   "year": 2015,
+   "cited_by_count": 289,
+   "title": "5-Formylcytosine can be a stable DNA modification in mammals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3156063826",
+   "year": 2021,
+   "cited_by_count": 288,
+   "title": "G-quadruplexes are transcription factor binding hubs in human chromatin",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024212478",
+   "year": 2010,
+   "cited_by_count": 286,
+   "title": "Rapid Delivery of Drug Carriers Propelled and Navigated by Catalytic Nanoshuttles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005281689",
+   "year": 2014,
+   "cited_by_count": 270,
+   "title": "G-quadruplexes regulate Epstein-Barr virus–encoded nuclear antigen 1 mRNA translation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2893849467",
+   "year": 2018,
+   "cited_by_count": 269,
+   "title": "DNA G-quadruplex structures mold the DNA methylome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002512110",
+   "year": 2011,
+   "cited_by_count": 262,
+   "title": "The transcription factor FOXM1 is a cellular target of the natural product thiostrepton",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991797965",
+   "year": 2007,
+   "cited_by_count": 246,
+   "title": "Trisubstituted Isoalloxazines as a New Class of G-Quadruplex Binding Ligands: Small Molecule Regulation of c-kit Oncogene Expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114090468",
+   "year": 2015,
+   "cited_by_count": 246,
+   "title": "Molecular signatures of plastic phenotypes in two eusocial insect species with simple societies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067133520",
+   "year": 2008,
+   "cited_by_count": 242,
+   "title": "FANCJ Is a Structure-specific DNA Helicase Associated with the Maintenance of Genomic G/C Tracts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138186521",
+   "year": 2006,
+   "cited_by_count": 239,
+   "title": "Lytic phage as a specific and selective probe for detection of Staphylococcus aureus—A surface plasmon resonance spectroscopic study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153879694",
+   "year": 2011,
+   "cited_by_count": 239,
+   "title": "A non-canonical DNA structure is a binding motif for the transcription factor SP1 in vitro",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076265626",
+   "year": 2011,
+   "cited_by_count": 232,
+   "title": "Functionalized Micromachines for Selective and Rapid Isolation of Nucleic Acid Targets from Complex Samples",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105698711",
+   "year": 2009,
+   "cited_by_count": 231,
+   "title": "LIN-28 and the poly(U) polymerase PUP-2 regulate let-7 microRNA processing in Caenorhabditis elegans",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991616035",
+   "year": 2011,
+   "cited_by_count": 222,
+   "title": "FANCJ coordinates two pathways that maintain epigenetic stability at G-quadruplex DNA",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021621793",
+   "year": 2014,
+   "cited_by_count": 221,
+   "title": "Quantitative sequencing of 5-formylcytosine in DNA at single-base resolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102083376",
+   "year": 2012,
+   "cited_by_count": 220,
+   "title": "Genome-wide distribution of 5-formylcytosine in embryonic stem cells is associated with transcription and depends on thymine DNA glycosylase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067613021",
+   "year": 2010,
+   "cited_by_count": 219,
+   "title": "Template-Assisted Fabrication of Salt-Independent Catalytic Tubular Microengines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100966371",
+   "year": 2014,
+   "cited_by_count": 219,
+   "title": "Elevated Levels of G-Quadruplex Formation in Human Stomach and Liver Cancer Tissues",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126398144",
+   "year": 2011,
+   "cited_by_count": 219,
+   "title": "A single-molecule platform for investigation of interactions between G-quadruplexes and small-molecule ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972570021",
+   "year": 2005,
+   "cited_by_count": 214,
+   "title": "DNA Molecular Motor Driven Micromechanical Cantilever Arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014686336",
+   "year": 2006,
+   "cited_by_count": 214,
+   "title": "A Reversible pH-Driven DNA Nanoswitch Array",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092481295",
+   "year": 2014,
+   "cited_by_count": 212,
+   "title": "Suppression of the FOXM1 transcriptional programme via novel small molecule inhibition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3047068833",
+   "year": 2020,
+   "cited_by_count": 212,
+   "title": "Landscape of G-quadruplex DNA structural regions in breast cancer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058773467",
+   "year": 2009,
+   "cited_by_count": 208,
+   "title": "A G-Rich Sequence within the c-kit Oncogene Promoter Forms a Parallel G-Quadruplex Having Asymmetric G-Tetrad Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164261054",
+   "year": 2008,
+   "cited_by_count": 208,
+   "title": "Strong Antimicrobial Coatings: Single-Walled Carbon Nanotubes Armored with Biopolymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023408318",
+   "year": 2010,
+   "cited_by_count": 202,
+   "title": "Small-molecule-mediated G-quadruplex isolation from human cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4200189327",
+   "year": 2021,
+   "cited_by_count": 201,
+   "title": "Three-dimensional imaging mass cytometry for highly multiplexed molecular and cellular mapping of tissues and the tumor microenvironment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027593734",
+   "year": 2015,
+   "cited_by_count": 185,
+   "title": "Formation and Abundance of 5‐Hydroxymethylcytosine in RNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974618862",
+   "year": 2001,
+   "cited_by_count": 184,
+   "title": "Non-Arrhenius kinetics for the loop closure of a DNA hairpin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083602966",
+   "year": 2012,
+   "cited_by_count": 179,
+   "title": "An Intramolecular G-Quadruplex Structure Is Required for Binding of Telomeric Repeat-Containing RNA to the Telomeric Protein TRF2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2510803372",
+   "year": 2016,
+   "cited_by_count": 179,
+   "title": "DSBCapture: in situ capture and sequencing of DNA breaks",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028434128",
+   "year": 2013,
+   "cited_by_count": 178,
+   "title": "Binding Interactions between Long Noncoding RNA HOTAIR and PRC2 Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026761200",
+   "year": 2013,
+   "cited_by_count": 171,
+   "title": "G-Quadruplex DNA as a Molecular Target for Induced Synthetic Lethality in Cancer Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049019655",
+   "year": 2007,
+   "cited_by_count": 166,
+   "title": "Macrocyclic and Helical Oligoamides as a New Class of G-Quadruplex Ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082708934",
+   "year": 2012,
+   "cited_by_count": 166,
+   "title": "Selective RNA Versus DNA G‐Quadruplex Targeting by In Situ Click Chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2908433735",
+   "year": 2018,
+   "cited_by_count": 166,
+   "title": "RNA G-quadruplexes at upstream open reading frames cause DHX36- and DHX9-dependent translation of human mRNAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002261956",
+   "year": 1994,
+   "cited_by_count": 165,
+   "title": "Recombinant HIV-1 Nucleocapsid Protein Accelerates HIV-1 Reverse Transcriptase Catalyzed DNA Strand Transfer Reactions and Modulates RNase H Activity",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+Charles T. Kresge:
+  picks:
+  - paper_id: W2042602209
+    year: 1992
+    title: 'Ordered mesoporous molecular sieves synthesized by a liquid-crystal template mechanism'
+    metrics: true
+    in_profile: true
+    reason: 'The Nature report of MCM-41 and the liquid-crystal templating mechanism that founded ordered mesoporous materials.'
+  - paper_id: W1982784029
+    year: 1992
+    title: 'A new family of mesoporous molecular sieves prepared with liquid crystal templates'
+    metrics: true
+    in_profile: true
+    reason: 'The companion JACS paper defining the M41S family (MCM-41, MCM-48) and its synthesis.'
+  - paper_id: W1984900874
+    year: 1994
+    title: 'Effect of Surfactant/Silica Molar Ratios on the Formation of Mesoporous Molecular Sieves: Inorganic Mimicry of Surfactant Liquid-Crystal Phases and Mechanistic Implications'
+    metrics: true
+    in_profile: true
+    reason: 'Key early mechanistic paper showing how surfactant/silica ratios select the hexagonal, cubic and lamellar M41S phases.'
+  n_related: 19
+  note: 'Both 1992 landmark papers (Kresge et al. Nature; Beck et al. JACS) are present. Duplicate records: W4252713997 duplicates the 1998 defects paper, and ChemInform reprints W2951054214, W4229610275 and W4248241430 duplicate journal papers. The 1979-1981 metal-hydride acidity papers appear to be his graduate work, not a namesake.'
+David Klenerman:
+  picks:
+  - paper_id: W2012016911
+    year: 2008
+    title: 'Accurate whole human genome sequencing using reversible terminator chemistry'
+    metrics: true
+    in_profile: true
+    reason: 'The Bentley et al. Nature paper documenting the Solexa/Illumina massively parallel sequencing-by-synthesis method he co-invented.'
+  n_related: 1
+  note: 'Only the 2008 Bentley et al. paper documents the sequencing-by-synthesis work; the original Solexa SBS concept (c. 1997-2000) was disclosed mainly in patents, which are not in the list. The rest of the record (single-molecule fluorescence, nanopipettes/SICM, protein aggregation) is consistent with the same person, so no namesake.'
+Guy Bertrand:
+  picks:
+  - paper_id: W1968267262
+    year: 1989
+    title: '[Bis(diisopropylamino)phosphino]trimethylsilylcarbene: A Stable Nucleophilic Carbene'
+    metrics: true
+    in_profile: true
+    reason: 'Early report of his isolable (phosphino)(silyl)carbene, the first stable carbene family.'
+  - paper_id: W2151640189
+    year: 2005
+    title: 'Stable Cyclic (Alkyl)(Amino)Carbenes as Rigid or Flexible, Bulky, Electron‐Rich Ligands for Transition‐Metal Catalysts: A Quaternary Carbon Atom Makes the Difference'
+    metrics: true
+    in_profile: true
+    reason: 'Introduces cyclic (alkyl)(amino)carbenes (CAACs) as stable carbene ligands for transition-metal catalysis.'
+  - paper_id: W2055206190
+    year: 2007
+    title: 'Facile Splitting of Hydrogen and Ammonia by Nucleophilic Activation at a Single Carbon Center'
+    metrics: true
+    in_profile: true
+    reason: 'Landmark Science paper showing stable CAACs activate H2 and NH3 like transition metals.'
+  n_related: 65
+  note: 'The first stable carbene report, Igau et al. JACS 1988 (stable phosphinocarbene), is missing; only the 1989 Angewandte follow-up is present. Many duplicates: English/German Angewandte pairs (W1968267262/W1988047541, W2149783350/W2074035162, W2604156473/W2626158660) and duplicate records W4244708364, W4245302361, W4238468915, W4243217306, W4234227756, W4248183902. No namesake.'
+Hao Yan:
+  picks:
+  - paper_id: W2072687635
+    year: 2003
+    title: 'DNA-Templated Self-Assembly of Protein Arrays and Highly Conductive Nanowires'
+    metrics: true
+    in_profile: true
+    reason: 'The 4x4 cross-tile Science paper establishing programmable 2D DNA lattices as templates.'
+  - paper_id: W2072895616
+    year: 2011
+    title: 'DNA Origami with Complex Curvatures in Three-Dimensional Space'
+    metrics: true
+    in_profile: true
+    reason: 'Landmark Science paper extending DNA origami to arbitrary 3D curved shapes.'
+  - paper_id: W2068744615
+    year: 2000
+    title: 'Construction, Analysis, Ligation, and Self-Assembly of DNA Triple Crossover Complexes'
+    metrics: true
+    in_profile: true
+    reason: 'Key early paper on triple-crossover DNA tiles for programmable self-assembly of DNA nanostructures.'
+  n_related: 74
+  note: 'No major landmark missing (2002 PX device, 2003 4x4 tile, 2011 curved origami and 2013 gridiron are all present). Two author ids are merged; the quantum-dot synthesis papers (2009, 2011) look off-topic but likely come from his own ASU group rather than a namesake.'
+Mark E. Thompson:
+  picks:
+  - paper_id: W1668566020
+    year: 1998
+    title: 'Highly efficient phosphorescent emission from organic electroluminescent devices'
+    metrics: true
+    in_profile: true
+    reason: 'The Baldo et al. Nature paper introducing phosphorescent OLEDs that harvest triplet excitons.'
+  - paper_id: W2878404963
+    year: 1999
+    title: 'Very high-efficiency green organic light-emitting devices based on electrophosphorescence'
+    metrics: true
+    in_profile: true
+    reason: 'First Ir(ppy)3 electrophosphorescent OLED, the basis of efficient commercial phosphorescent emitters.'
+  - paper_id: W2052329392
+    year: 2001
+    title: 'Highly Phosphorescent Bis-Cyclometalated Iridium Complexes: Synthesis, Photophysical Characterization, and Use in Organic Light Emitting Diodes'
+    metrics: true
+    in_profile: true
+    reason: 'Key materials paper on the cyclometalated iridium phosphors his group designed for efficient OLEDs.'
+  n_related: 55
+  note: 'Key originals are present. The 1987-1990 scandocene C-H activation papers are his graduate work with Bercaw, not a namesake.'
+Markku Leskelä:
+  picks:
+  - paper_id: W2031209033
+    year: 1985
+    title: 'Zinc chalcogenide thin films grown by the atomic layer epitaxy technique using zinc acetate as source material'
+    metrics: true
+    in_profile: true
+    reason: 'His earliest atomic layer epitaxy paper in the list, introducing new precursor chemistry for ALE growth.'
+  - paper_id: W1965368032
+    year: 2000
+    title: 'Atomic Layer Deposition of Oxide Thin Films with Metal Alkoxides as Oxygen Sources'
+    metrics: true
+    in_profile: true
+    reason: 'Landmark Science paper on new ALD chemistry using metal alkoxides as the oxygen source.'
+  - paper_id: W1981130398
+    year: 2003
+    title: 'Atomic Layer Deposition of Platinum Thin Films'
+    metrics: true
+    in_profile: true
+    reason: 'First noble-metal ALD process, a key extension of ALD chemistry.'
+  n_related: 52
+  note: 'ALD itself was invented by Suntola (1974); the well-known 2002 Thin Solid Films and 2003 Angewandte reviews are present but ranked after originals. Off-topic olefin-polymerization, frustrated-Lewis-pair and TEMPO-oxidation papers come from Helsinki inorganic-chemistry collaborations (T. Repo), not a namesake. Duplicates: W2075642274/W4234737308 and W2012134512/W2109746413 (German version).'
+Roberto Car:
+  picks:
+  - paper_id: W2046001409
+    year: 1985
+    title: 'Unified Approach for Molecular Dynamics and Density-Functional Theory'
+    metrics: true
+    in_profile: true
+    reason: 'The original Car-Parrinello paper that founded ab initio molecular dynamics.'
+  - paper_id: W2023456054
+    year: 1988
+    title: 'Structural, Dymanical, and Electronic Properties of Amorphous Silicon: Anab initioMolecular-Dynamics Study'
+    metrics: true
+    in_profile: true
+    reason: 'First major Car-Parrinello application, generating amorphous silicon by ab initio MD.'
+  - paper_id: W2039626632
+    year: 1993
+    title: 'Car-Parrinello molecular dynamics with Vanderbilt ultrasoft pseudopotentials'
+    metrics: true
+    in_profile: true
+    reason: 'Key methodological extension of Car-Parrinello MD to ultrasoft pseudopotentials.'
+  n_related: 45
+  note: 'The 1985 Car-Parrinello PRL is present; the two options are the same discovery with names in both orders. Duplicate record: W1978805405/W4233877244 (1985 sodium clusters). QUANTUM ESPRESSO, graphene-oxide and deep-potential papers are genuine collaborations, not a namesake.'
+Ronald M. Evans:
+  picks:
+  - paper_id: W2007169317
+    year: 1985
+    title: 'Primary structure and expression of a functional human glucocorticoid receptor cDNA'
+    metrics: true
+    in_profile: true
+    reason: 'First cloning of a steroid hormone receptor, the founding member of the nuclear receptor superfamily.'
+  - paper_id: W2090024435
+    year: 1986
+    title: 'The c-erb-A gene encodes a thyroid hormone receptor'
+    metrics: true
+    in_profile: true
+    reason: 'Showed the thyroid hormone receptor is related to steroid receptors, establishing the superfamily.'
+  - paper_id: W2072233737
+    year: 1987
+    title: 'Identification of a receptor for the morphogen retinoic acid'
+    metrics: true
+    in_profile: true
+    reason: 'Discovery of the retinoic acid receptor, extending the superfamily to retinoid ligands.'
+  n_related: 65
+  note: 'Key originals (1985 GR cDNA, 1986 c-erbA/TR, 1987 RAR and MR, 1988 ERR orphan receptors, 1990 RXR) are present; the 1988 Science superfamily review is present but ranked after originals. The 1982-1985 calcitonin/CGRP and growth-hormone mouse papers are genuine earlier work with Rosenfeld, not a namesake.'
+Ryong Ryoo:
+  picks:
+  - paper_id: W2028755877
+    year: 1999
+    title: 'Synthesis of Highly Ordered Carbon Molecular Sieves via Template-Mediated Structural Transformation'
+    metrics: true
+    in_profile: true
+    reason: 'First ordered mesoporous carbon (CMK-1), made by nanocasting from MCM-48 silica.'
+  - paper_id: W1986818240
+    year: 2000
+    title: 'Synthesis of New, Nanoporous Carbon with Hexagonally Ordered Mesostructure'
+    metrics: true
+    in_profile: true
+    reason: 'Introduces CMK-3, the archetypal ordered mesoporous carbon replicated from SBA-15.'
+  - paper_id: W1614416352
+    year: 2001
+    title: 'Ordered nanoporous arrays of carbon supporting high dispersions of platinum nanoparticles'
+    metrics: true
+    in_profile: true
+    reason: 'Nature paper introducing CMK-5 nanopipe carbon and its use as a catalyst support.'
+  n_related: 72
+  note: 'Key originals are present (KIT-1 1996, CMK-1 1999, CMK-3 2000, CMK-5 2001, KIT-6 2003, MFI nanosheets 2009). Off-topic 2015 femtosecond X-ray scattering and 2019 COF papers appear to be KAIST/IBS collaborations, not a namesake.'
+Serge L. Beaucage:
+  picks:
+  - paper_id: W2089617243
+    year: 1981
+    title: 'Deoxynucleoside phosphoramidites—A new class of key intermediates for deoxypolynucleotide synthesis'
+    metrics: true
+    in_profile: true
+    reason: 'The Beaucage-Caruthers paper introducing stable deoxynucleoside phosphoramidites, the basis of automated DNA synthesis.'
+  - paper_id: W1994972230
+    year: 1984
+    title: 'A simple and efficient preparation of deoxynucleoside phosphoramidites in situ'
+    metrics: true
+    in_profile: true
+    reason: 'Early original paper simplifying phosphoramidite monomer preparation for oligonucleotide synthesis.'
+  - paper_id: W2056945430
+    year: 1990
+    title: '3H-1,2-Benzodithiole-3-one 1,1-dioxide as an improved sulfurizing reagent in the solid-phase synthesis of oligodeoxyribonucleoside phosphorothioates'
+    metrics: true
+    in_profile: true
+    reason: 'Introduces the Beaucage reagent, extending automated phosphoramidite synthesis to phosphorothioates.'
+  n_related: 45
+  note: 'The 1981 Tetrahedron Letters landmark is present; the highly cited 1992 Tetrahedron review is present but ranked after originals. The 1985 muscarinic-receptor binding paper (W1489935189) and the 1990-1991 pSC101 plasmid papers are outside his field and may belong to a namesake.'
+Vladimir P. Torchilin:
+  picks:
+  - paper_id: W1970239046
+    year: 1990
+    title: 'Amphipathic polyethyleneglycols effectively prolong the circulation time of liposomes'
+    metrics: true
+    in_profile: true
+    reason: 'Landmark demonstration that PEG-lipid coating creates long-circulating (stealth) liposomal carriers.'
+  - paper_id: W2029749273
+    year: 1994
+    title: 'Biodegradable Long-Circulating Polymeric Nanospheres'
+    metrics: true
+    in_profile: true
+    reason: 'Science paper introducing PEG-coated biodegradable polymeric nanoparticles for drug delivery.'
+  - paper_id: W2087597184
+    year: 2003
+    title: 'Immunomicelles: Targeted pharmaceutical carriers for poorly soluble drugs'
+    metrics: false
+    in_profile: true
+    reason: 'Introduces antibody-targeted polymeric micelles, a defining targeted polymeric delivery system.'
+  n_related: 75
+  note: 'Expected early antibody-liposome (immunoliposome) papers of the late 1970s-1980s are not in the list. Seven author ids are merged; W1827539236 has a malformed title (''True''), and the 2020 review ''Recent advancements in liposome technology'' may be misattributed.'

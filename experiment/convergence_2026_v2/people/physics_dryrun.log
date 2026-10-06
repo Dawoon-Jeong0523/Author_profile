@@ -1,0 +1,15 @@
+11:10:09 start (cards_pipeline_v2.py dryrun: profile_person.resolve on the authors subset)
+
+=== Andrew M. Steane
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                        institutions
+    1 A5039762638 Andrew Steane 0000-0001-7689-4133          284            9453 display               True snapshot Oxford Lasers (United Kingdom) (GB)
+    2 A5005570632  A. M. Steane                None            2              32 display               True snapshot           University of Oxford (GB)
+    3 A5059527914  A. M. Steane                None            1              10 display              False snapshot              Clarendon College (US)
+    4 A5070159337     A. Steane                None            1               1 display              False snapshot                                    
+    5 A5060171578     A. Steane                None            1               0 display              False snapshot                                    
+    6 A5093094317 Andrew Steane                None            1               0 display              False snapshot                                    
+    7 A5037233721  A. M. Steane                None            1               0 display              False snapshot                                    
+    8 A5094255508 Andrew Steane                None            1               0 display              False snapshot                                    
+    9 A5093094309 Andrew Steane                None            1               0 display              False snapshot                                    
+query 'Andrew M. Steane': picked A5039762638 Andrew Steane [most cited (9,453 vs 32 citations)]

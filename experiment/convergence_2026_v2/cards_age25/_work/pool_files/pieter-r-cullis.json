@@ -1,0 +1,656 @@
+{
+ "person": "Pieter R. Cullis",
+ "profile": "A5050350074",
+ "ids": [
+  "A5050350074",
+  "A5111897476"
+ ],
+ "options": [
+  "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis",
+  "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis, Robert S. Langer, Kazunori Kataoka"
+ ],
+ "birth_year": 1946,
+ "cutoff_year": 1971,
+ "works": [
+  {
+   "paper_id": "W2076226743",
+   "year": 2012,
+   "cited_by_count": 4484,
+   "title": "Liposomal drug delivery systems: From concept to clinical applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013470095",
+   "year": 2004,
+   "cited_by_count": 4462,
+   "title": "Drug Delivery Systems: Entering the Mainstream",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126662679",
+   "year": 1985,
+   "cited_by_count": 2048,
+   "title": "Production of large unilamellar vesicles by a rapid extrusion procedure. Characterization of size distribution, trapped volume and ability to maintain a membrane potential",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2132741431",
+   "year": 1979,
+   "cited_by_count": 1837,
+   "title": "Lipid polymorphism and the functional roles of lipids in biological membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083249633",
+   "year": 2010,
+   "cited_by_count": 1711,
+   "title": "Rational design of cationic lipids for siRNA delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986516374",
+   "year": 1986,
+   "cited_by_count": 1674,
+   "title": "Vesicles of variable sizes produced by a rapid extrusion procedure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2992823069",
+   "year": 2019,
+   "cited_by_count": 1433,
+   "title": "The Onpattro story and the clinical translation of nanomedicines containing nucleic acid-based drugs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3164967630",
+   "year": 2021,
+   "cited_by_count": 1177,
+   "title": "The current landscape of nucleic acid therapeutics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106885643",
+   "year": 2012,
+   "cited_by_count": 1165,
+   "title": "Maximizing the Potency of siRNA Lipid Nanoparticles for Hepatic Gene Silencing In Vivo**",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2600400434",
+   "year": 2017,
+   "cited_by_count": 1006,
+   "title": "Lipid Nanoparticle Systems for Enabling Gene Therapies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125470506",
+   "year": 2012,
+   "cited_by_count": 638,
+   "title": "Microfluidic Synthesis of Highly Potent Limit-size Lipid Nanoparticles for In Vivo Delivery of siRNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029397995",
+   "year": 2013,
+   "cited_by_count": 587,
+   "title": "Biodegradable Lipids Enabling Rapidly Eliminated Lipid Nanoparticles for Systemic Delivery of RNAi Therapeutics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2795918326",
+   "year": 2018,
+   "cited_by_count": 560,
+   "title": "On the Formation and Morphology of Lipid Nanoparticles Containing Ionizable Cationic Lipids and siRNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2801179771",
+   "year": 2018,
+   "cited_by_count": 500,
+   "title": "Lipid Nanoparticles Enabling Gene Therapies: From Concepts to Clinical Utility",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2968060972",
+   "year": 2019,
+   "cited_by_count": 469,
+   "title": "Lipid Nanoparticle Technology for Clinical Translation of siRNA Therapeutics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078775246",
+   "year": 2001,
+   "cited_by_count": 458,
+   "title": "Efficient encapsulation of antisense oligonucleotides in lipid vesicles using ionizable aminolipids: formation of novel small multilamellar vesicle structures",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154604718",
+   "year": 1997,
+   "cited_by_count": 451,
+   "title": "Nomenclature for Synthetic Gene Delivery Systems",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2086747295",
+   "year": 2013,
+   "cited_by_count": 446,
+   "title": "Influence of Polyethylene Glycol Lipid Desorption Rates on Pharmacokinetics and Pharmacodynamics of siRNA Lipid Nanoparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075173556",
+   "year": 1985,
+   "cited_by_count": 431,
+   "title": "Solute distributions and trapping efficiencies observed in freeze-thawed multilamellar vesicles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1535876276",
+   "year": 2005,
+   "cited_by_count": 410,
+   "title": "The Liposomal Formulation of Doxorubicin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984512523",
+   "year": 1998,
+   "cited_by_count": 391,
+   "title": "Interactions of liposomes and lipid-based carrier systems with blood proteins: Relation to clearance behaviour in vivo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1512179335",
+   "year": 1991,
+   "cited_by_count": 368,
+   "title": "The role of surface charge in the activation of the classical and alternative pathways of complement by liposomes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001577610",
+   "year": 1986,
+   "cited_by_count": 363,
+   "title": "Lipid polymorphism and the roles of lipids in membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156246685",
+   "year": 1989,
+   "cited_by_count": 355,
+   "title": "Influence of vesicle size, lipid composition, and drug-to-lipid ratio on the biological activity of liposomal doxorubicin in mice.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2989249514",
+   "year": 2019,
+   "cited_by_count": 349,
+   "title": "On the role of helper lipids in lipid nanoparticle formulations of siRNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995584045",
+   "year": 1986,
+   "cited_by_count": 346,
+   "title": "Generation of multilamellar and unilamellar phospholipid vesicles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089272917",
+   "year": 1978,
+   "cited_by_count": 343,
+   "title": "Polymorphic phase behaviour of lipid mixtures as detected by 31P NMR. Evidence that cholesterol may destabilize bilayer structure in membrane systems containing phosphatidylethanolamine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057402777",
+   "year": 2012,
+   "cited_by_count": 338,
+   "title": "Lipid Nanoparticles Containing siRNA Synthesized by Microfluidic Mixing Exhibit an Electron-Dense Nanostructured Core",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3040633579",
+   "year": 2020,
+   "cited_by_count": 335,
+   "title": "Lipid nanoparticle technology for therapeutic gene regulation in the liver",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128183109",
+   "year": 2001,
+   "cited_by_count": 334,
+   "title": "Developments in liposomal drug delivery systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011784577",
+   "year": 2012,
+   "cited_by_count": 331,
+   "title": "Bottom-Up Design and Synthesis of Limit Size Lipid Nanoparticle Systems with Aqueous and Triglyceride Cores Using Millisecond Microfluidic Mixing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2287068442",
+   "year": 2015,
+   "cited_by_count": 330,
+   "title": "Microfluidic Mixing: A General Method for Encapsulating Macromolecules in Lipid Nanoparticle Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2407515397",
+   "year": 2016,
+   "cited_by_count": 328,
+   "title": "Influence of particle size on the in vivo potency of lipid nanoparticle formulations of siRNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090866995",
+   "year": 1978,
+   "cited_by_count": 302,
+   "title": "Effects of fusogenic agent on membrane structure of erythrocyte ghosts and the mechanism of membrane fusion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136240349",
+   "year": 1999,
+   "cited_by_count": 300,
+   "title": "Stabilized plasmid-lipid particles: construction and characterization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2925126737",
+   "year": 2019,
+   "cited_by_count": 298,
+   "title": "Lipid-Based DNA Therapeutics: Hallmarks of Non-Viral Gene Delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2799813152",
+   "year": 2018,
+   "cited_by_count": 284,
+   "title": "State‐of‐the‐Art Design and Rapid‐Mixing Production Techniques of Lipid Nanoparticles for Nucleic Acid Delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002059065",
+   "year": 1996,
+   "cited_by_count": 283,
+   "title": "Influence of Cholesterol on the Association of Plasma Proteins with Liposomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133275132",
+   "year": 1988,
+   "cited_by_count": 267,
+   "title": "X-ray diffraction study of the polymorphic behavior of N-methylated dioleoylphosphatidylethanolamine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147584970",
+   "year": 2001,
+   "cited_by_count": 260,
+   "title": "Roles of lipid polymorphism in intracellular delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037563014",
+   "year": 1990,
+   "cited_by_count": 252,
+   "title": "The accumulation of drugs within large unilamellar vesicles exhibiting a proton gradient: a survey",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4251414021",
+   "year": 2007,
+   "cited_by_count": 250,
+   "title": "Liposomal nanomedicines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148578075",
+   "year": 2015,
+   "cited_by_count": 246,
+   "title": "The Cellular Mechanisms of Neuronal Swelling Underlying Cytotoxic Edema",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005367319",
+   "year": 1994,
+   "cited_by_count": 245,
+   "title": "Liposome—complement interactions in rat serum: implications for liposome survival studies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003552025",
+   "year": 1990,
+   "cited_by_count": 243,
+   "title": "Characterization of liposomal systems containing doxorubicin entrapped in response to pH gradients",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3047744822",
+   "year": 2020,
+   "cited_by_count": 243,
+   "title": "The Biomolecular Corona of Lipid Nanoparticles for Gene Therapy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093869594",
+   "year": 1980,
+   "cited_by_count": 236,
+   "title": "Cytochrome c specifically induces non-bilayer structures in cardiolipin-containing model membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045394201",
+   "year": 1989,
+   "cited_by_count": 229,
+   "title": "Smoothed orientational order profile of lipid bilayers by 2H-nuclear magnetic resonance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133782648",
+   "year": 2001,
+   "cited_by_count": 228,
+   "title": "Spontaneous Entrapment of Polynucleotides upon Electrostatic Interaction with Ethanol-Destabilized Cationic Liposomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140810026",
+   "year": 1993,
+   "cited_by_count": 217,
+   "title": "Osmotic properties of large unilamellar vesicles prepared by extrusion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981057166",
+   "year": 1996,
+   "cited_by_count": 214,
+   "title": "Poly(ethylene glycol)−Lipid Conjugates Regulate the Calcium-Induced Fusion of Liposomes Composed of Phosphatidylethanolamine and Phosphatidylserine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034139519",
+   "year": 2013,
+   "cited_by_count": 214,
+   "title": "Advances in Lipid Nanoparticles for siRNA Delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142471033",
+   "year": 1997,
+   "cited_by_count": 210,
+   "title": "Influence of pH gradients on the transbilayer transport of drugs, lipids, peptides and metal ions into large unilamellar vesicles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133135277",
+   "year": 1978,
+   "cited_by_count": 208,
+   "title": "Polymorphic phase behaviour of cardiolipin as detected by 31P NMR and freeze-fracture techniques. Effects of calcium, dibucaine and chlorpromazine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2566902031",
+   "year": 2016,
+   "cited_by_count": 207,
+   "title": "Design of lipid nanoparticles for in vitro and in vivo delivery of plasmid DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991419088",
+   "year": 1995,
+   "cited_by_count": 198,
+   "title": "Recent advances in liposomal drug-delivery systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105341627",
+   "year": 1975,
+   "cited_by_count": 196,
+   "title": "Differential scanning calorimetry and 31P NMR studies on sonicated and unsonicated phosphatidylcholine liposomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087741554",
+   "year": 1980,
+   "cited_by_count": 194,
+   "title": "Effects of tumbling and lateral diffusion on phosphatidylcholine model membrane 31P-NMR lineshapes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105085256",
+   "year": 1985,
+   "cited_by_count": 192,
+   "title": "Uptake of antineoplastic agents into large unilamellar vesicles in response to a membrane potential",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979047039",
+   "year": 1989,
+   "cited_by_count": 189,
+   "title": "Generation of large unilamellar vesicles from long-chain saturated phosphatidylcholines by extrusion technique",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073773999",
+   "year": 2005,
+   "cited_by_count": 187,
+   "title": "Liposome-encapsulated vincristine, vinblastine and vinorelbine: A comparative study of drug loading and retention",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048809853",
+   "year": 2013,
+   "cited_by_count": 186,
+   "title": "Lipid nanoparticle delivery systems for siRNA-based therapeutics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2385607667",
+   "year": 2015,
+   "cited_by_count": 185,
+   "title": "Systemic Gene Silencing in Primary T Lymphocytes Using Targeted Lipid Nanoparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000758651",
+   "year": 1986,
+   "cited_by_count": 184,
+   "title": "Techniques for encapsulating bioactive agents into liposomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1901853767",
+   "year": 1989,
+   "cited_by_count": 178,
+   "title": "Use of liposomes as injectable-drug delivery systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141208964",
+   "year": 2011,
+   "cited_by_count": 175,
+   "title": "Influence of Cationic Lipid Composition on Gene Silencing Properties of Lipid Nanoparticle Formulations of siRNA in Antigen-Presenting Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123463443",
+   "year": 1998,
+   "cited_by_count": 171,
+   "title": "Comparison of different hydrophobic anchors conjugated to poly(ethylene glycol): effects on the pharmacokinetics of liposomal vincristine",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099188691",
+   "year": 1979,
+   "cited_by_count": 168,
+   "title": "Fusion of phospholipid vesicles in association with the appearance of lipidic particles as visualized by freeze fracturing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054192565",
+   "year": 2000,
+   "cited_by_count": 167,
+   "title": "Tunable pH-Sensitive Liposomes Composed of Mixtures of Cationic and Anionic Lipids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055265722",
+   "year": 1993,
+   "cited_by_count": 167,
+   "title": "Accumulation of doxorubicin and other lipophilic amines into large unilamellar vesicles in response to transmembrane pH gradients",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059697503",
+   "year": 1995,
+   "cited_by_count": 167,
+   "title": "β2-Glycoprotein I Is a Major Protein Associated with Very Rapidly Cleared Liposomes in Vivo, Suggesting a Significant Role in the Immune Clearance of “Non-self” Particles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112856913",
+   "year": 1985,
+   "cited_by_count": 163,
+   "title": "Protection of large unilamellar vesicles by trehalose during dehydration: retention of vesicle contents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041639213",
+   "year": 1982,
+   "cited_by_count": 162,
+   "title": "Influence of cholesterol on the structural preferences of dioleoylphosphatidylethanolamine-dioleoylphosphatidylcholine systems: a phosphorus-31 and deuterium nuclear magnetic resonance study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166483989",
+   "year": 2013,
+   "cited_by_count": 161,
+   "title": "Lipid Nanoparticle Delivery of siRNA to Silence Neuronal Gene Expression in the Brain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4256219020",
+   "year": 2012,
+   "cited_by_count": 152,
+   "title": "Maximizing the Potency of siRNA Lipid Nanoparticles for Hepatic Gene Silencing In Vivo**",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112951256",
+   "year": 2014,
+   "cited_by_count": 151,
+   "title": "Development of lipid nanoparticle formulations of siRNA for hepatocyte gene silencing following subcutaneous administration",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124246104",
+   "year": 1980,
+   "cited_by_count": 151,
+   "title": "The lipidic particle as an intermediate structure in membrane fusion processes and bilayer to hexagonal HII transitions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037501805",
+   "year": 2000,
+   "cited_by_count": 148,
+   "title": "Stabilized plasmid-lipid particles for systemic gene therapy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151058587",
+   "year": 2006,
+   "cited_by_count": 147,
+   "title": "Therapeutically optimized rates of drug release can be achieved by varying the drug-to-lipid ratio in liposomal vincristine formulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2399800494",
+   "year": 2014,
+   "cited_by_count": 147,
+   "title": "Lipid Nanoparticles for Short Interfering RNA Delivery",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

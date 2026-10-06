@@ -1,0 +1,242 @@
+Anthony J. Arduengo III:
+  picks:
+  - paper_id: W2046286719
+    year: 1991
+    title: 'A stable crystalline carbene'
+    metrics: true
+    in_profile: true
+    reason: 'The first isolation and crystallographic characterization of a stable free carbene (IAd), the founding report of the whole field.'
+  - paper_id: W1994229205
+    year: 1992
+    title: 'Electronic stabilization of nucleophilic carbenes'
+    metrics: true
+    in_profile: true
+    reason: 'Showed that bulky adamantyl protection is unnecessary and that electronic stabilization alone suffices, opening the general imidazol-2-ylidene (NHC) family.'
+  - paper_id: W2075216773
+    year: 1993
+    title: 'Homoleptic carbene-silver(I) and carbene-copper(I) complexes'
+    metrics: true
+    in_profile: true
+    reason: 'One of his first demonstrations that the isolated NHCs bind coinage metals as discrete ligands, the step that turned stable carbenes into a ligand class for catalysis.'
+  n_related: 45
+  note: 'The 1991 JACS landmark and its key early follow-ups are all present, as is the 1995 "A stable diaminocarbene" (saturated NHC); the pre-1991 Wanzlick/Oefele precedents are other authors and would not appear here. Duplicate records: W1993633160 and W4240522500 are the same 2006 air-tolerant diphosphacyclobutenyl radical paper, and W2107101591 ("Auf der Suche nach Stabilen Carbenen", 1998) is the German version of W2087266904 (1999). No namesake signal: the hypervalent sulfur/pnicogen (10-Pn-3, edge inversion) papers and the later computational thermochemistry work are his own separate research lines, and the IUPAC transfermium-names recommendation (W2730800404) is committee work.'
+Ching W. Tang:
+  picks:
+  - paper_id: W2035486617
+    year: 1997
+    title: 'Enhanced electron injection in organic electroluminescence devices using an Al/LiF electrode'
+    metrics: true
+    in_profile: true
+    reason: 'Introduced the LiF/Al cathode that solved electron injection and became the standard contact in efficient small-molecule OLEDs.'
+  - paper_id: W2057942579
+    year: 1998
+    title: 'Improved red dopants for organic electroluminescent devices'
+    metrics: true
+    in_profile: true
+    reason: 'Extends his guest-host doped-emitter strategy, the device concept behind efficient, colour-tunable OLED emission.'
+  - paper_id: W2029400402
+    year: 2004
+    title: 'High-efficiency tandem organic light-emitting diodes'
+    metrics: true
+    in_profile: true
+    reason: 'His tandem (stacked-unit) architecture, the main later route to high-efficiency, long-lifetime OLED panels.'
+  n_related: 35
+  note: 'The two true landmarks are missing from the list: Tang & VanSlyke, "Organic electroluminescent diodes", Appl. Phys. Lett. 51, 913 (1987), and Tang, VanSlyke & Chen, "Electroluminescence of doped organic thin films", J. Appl. Phys. 65, 3610 (1989); the most-cited item here, "Two-layer organic photovoltaic cell" (1986), is his landmark but for organic photovoltaics, a different discovery, so I did not use it. The record clearly mixes in a namesake: the 1997-1999 infrared-spectroscopy studies of NO/CO adlayers on platinum-group electrodes (W2043171705, W1977276721, W2024751358, W2006257450, W2078402361, W2073977880) are surface electrochemistry by a different C. Tang, as is the 2009 carbon-nanotube DNA-base voltammetry paper.'
+David R. Liu:
+  picks:
+  - paper_id: W2336828812
+    year: 2016
+    title: 'Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage'
+    metrics: true
+    in_profile: true
+    reason: 'The invention of base editing: the first cytosine base editor (BE1-BE3), converting C to T without a double-strand break.'
+  - paper_id: W2766599608
+    year: 2017
+    title: 'Programmable base editing of A•T to G•C in genomic DNA without DNA cleavage'
+    metrics: true
+    in_profile: true
+    reason: 'The adenine base editor, an entirely new deaminase activity evolved in the lab and the second half of the base-editing toolkit.'
+  - paper_id: W2981137429
+    year: 2019
+    title: 'Search-and-replace genome editing without double-strand breaks or donor DNA'
+    metrics: true
+    in_profile: true
+    reason: 'The original report of prime editing, the second discovery named in the option.'
+  n_related: 40
+  note: 'Both founding papers of base editing and the founding paper of prime editing are present, so the three picks cover the two discoveries exactly. Duplicate record: W2557181747 (2016) and W4233524498 (2017) are the same review, "CRISPR-Based Technologies for the Manipulation of Eukaryotic Genomes". No namesake signal; the DNA-templated synthesis, PACE/directed-evolution and salmochelin-hydrolase entries are his own earlier research lines.'
+Ezio Rizzardo:
+  picks:
+  - paper_id: W2150184000
+    year: 1998
+    title: 'Living Free-Radical Polymerization by Reversible Addition−Fragmentation Chain Transfer: The RAFT Process'
+    metrics: true
+    in_profile: true
+    reason: 'The first report of RAFT polymerization, the controlled radical polymerization method he is credited with inventing.'
+  - paper_id: W2036062366
+    year: 1999
+    title: 'A More Versatile Route to Block Copolymers and Other Polymers of Complex Architecture by Living Radical Polymerization: The RAFT Process'
+    metrics: true
+    in_profile: true
+    reason: 'The key early follow-up that established RAFT agent scope and the block/star architectures that made the method general.'
+  - paper_id: W1980559714
+    year: 1995
+    title: 'Alkoxyamine-Initiated Living Radical Polymerization: Factors Affecting Alkoxyamine Homolysis Rates'
+    metrics: true
+    in_profile: true
+    reason: 'His nitroxide-mediated strand of controlled radical polymerization, quantifying the alkoxyamine homolysis that makes NMP living.'
+  n_related: 55
+  note: 'His other founding contribution, nitroxide-mediated polymerization, was first disclosed in the Solomon-Rizzardo-Cacioli patent (US 4,581,429, 1986) rather than a journal article, so it cannot appear in the list; the 1988 allylic-sulfide addition-fragmentation chain transfer paper (W1984694373) is the direct chemical precursor to RAFT and was my next candidate. The four "Living Radical Polymerization by the RAFT Process" updates (2005, 2006, 2009, 2012) are a review series, not originals. No namesake: the 1973 1-alpha-hydroxyvitamin D3 synthesis and the polyurethane-degradation and nanocrystal papers are other CSIRO projects of the same person.'
+Henry Snaith:
+  picks:
+  - paper_id: W1965464747
+    year: 2012
+    title: 'Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites'
+    metrics: true
+    in_profile: true
+    reason: 'The breakthrough solid-state perovskite cell (with Miyasaka) that removed the liquid electrolyte and showed the perovskite itself transports charge, launching the field.'
+  - paper_id: W2144574847
+    year: 2013
+    title: 'Efficient planar heterojunction perovskite solar cells by vapour deposition'
+    metrics: true
+    in_profile: true
+    reason: 'Proved that no mesoporous scaffold is needed at all, establishing the planar thin-film perovskite architecture used ever since.'
+  - paper_id: W2073726416
+    year: 2013
+    title: 'Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber'
+    metrics: true
+    in_profile: true
+    reason: 'The measurement that explained why perovskite cells work, giving the field its central photophysical rationale.'
+  n_related: 70
+  note: 'none'
+Kazunori Kataoka:
+  picks:
+  - paper_id: W1988356468
+    year: 1990
+    title: 'Polymer micelles as novel drug carrier: Adriamycin-conjugated poly(ethylene glycol)-poly(aspartic acid) block copolymer'
+    metrics: true
+    in_profile: true
+    reason: 'His original report of the PEG-poly(amino acid) block copolymer micelle as a drug carrier, the concept behind the whole polymeric-micelle nanomedicine line.'
+  - paper_id: W1980522922
+    year: 1995
+    title: 'Formation of Polyion Complex Micelles in an Aqueous Milieu from a Pair of Oppositely-Charged Block Copolymers with Poly(ethylene glycol) Segments'
+    metrics: true
+    in_profile: true
+    reason: 'First report of polyion complex micelles, the electrostatic self-assembly principle that his charged-cargo and nucleic-acid carriers are built on.'
+  - paper_id: W2078534751
+    year: 1997
+    title: 'Water-Soluble Polyion Complex Associates of DNA and Poly(ethylene glycol)−Poly( l -lysine) Block Copolymer'
+    metrics: true
+    in_profile: true
+    reason: 'The founding PEG-polylysine polyplex micelle for DNA, covering the nucleic-acid/gene-delivery half of his options.'
+  n_related: 70
+  note: 'Duplicate records: W2082587127 (2001) and W4245955322 (2012) are the same article "Block copolymer micelles for drug delivery: design, characterization and biological significance", and W2028893730 (2003) and W4239628118 (2012) are the same "PEGylated nanoparticles for biological and pharmaceutical applications". The companion 1990-1991 Cancer Research micelle papers with Yokoyama are present (W1574338658, W2134427544), so the early drug-carrier work is well represented. No namesake: the glucose-responsive gel/insulin-release and phenylboronic-acid papers are a separate line of his own lab.'
+Ralph G. Nuzzo:
+  picks:
+  - paper_id: W1967598238
+    year: 1983
+    title: 'Adsorption of bifunctional organic disulfides on gold surfaces'
+    metrics: true
+    in_profile: true
+    reason: 'The Nuzzo-Allara report that first showed spontaneous formation of ordered organosulfur monolayers on gold, the origin of thiol-on-gold self-assembled monolayers.'
+  - paper_id: W1967334144
+    year: 1985
+    title: 'Spontaneously organized molecular assemblies. 1. Formation, dynamics, and physical properties of n-alkanoic acids adsorbed from solution on an oxidized aluminum surface'
+    metrics: true
+    in_profile: true
+    reason: 'Opening paper of the Allara-Nuzzo series that defined self-assembled monolayers as a general phenomenon beyond gold.'
+  - paper_id: W2056648038
+    year: 1989
+    title: 'Formation of monolayer films by the spontaneous assembly of organic thiols from solution onto gold'
+    metrics: true
+    in_profile: true
+    reason: 'The canonical alkanethiol-on-gold paper with Whitesides that set the preparation and structural standards the field adopted.'
+  n_related: 25
+  note: 'The 1987 Au(111) chemisorption study and the 1990-1992 microscopic-wetting papers are present, so the core SAM corpus is covered; "Spontaneously organized molecular assemblies. 2" is absent while parts 1 and 3 are listed, and Sagiv''s 1980 silane monolayer work belongs to a co-nominee, not to this record. No namesake: the large transfer-printing/flexible-electronics cluster (with Rogers) and the supported-metal-nanoparticle catalysis cluster are his own later research lines.'
+Richmond Sarpong:
+  picks:
+  - paper_id: W2898385186
+    year: 2018
+    title: 'Deconstructive diversification of cyclic amines'
+    metrics: true
+    in_profile: true
+    reason: 'The Nature report that cut and rebuilt saturated amine skeletons at will, one of the founding demonstrations of skeletal editing.'
+  - paper_id: W2883959769
+    year: 2018
+    title: 'Deconstructive fluorination of cyclic amines by carbon-carbon cleavage'
+    metrics: true
+    in_profile: true
+    reason: 'Companion founding paper: C-C cleavage used to excise ring atoms and install fluorine, defining the deconstructive logic he contributed.'
+  - paper_id: W3191184005
+    year: 2021
+    title: 'Photomediated ring contraction of saturated heterocycles'
+    metrics: true
+    in_profile: true
+    reason: 'A direct single-atom ring-contraction edit of an intact heterocycle, the clearest later skeletal-editing advance in the list.'
+  n_related: 10
+  note: 'Skeletal editing is recent, so only a handful of related works appear; the C-C-activation precursors (pinene C-C/C-H cleavage 2015, xishacorene B 2018, aza-cycle C-C cleavage 2020) and the 2020 review "Transition Metal-Mediated C-C Single Bond Cleavage" surround the picks, while his large total-synthesis corpus is unrelated to the option. The insecticide pharmacology papers (neonicotinoid plant defense 2010, insect ryanodine receptor 2012, isoxazoline GABA/glutamate target 2013) sit in a different field and may be co-authorships through Berkeley rather than his own line; the 2006 artemisinic-acid yeast paper is a genuine Keasling-collaboration co-authorship.'
+Tuomo Suntola:
+  picks:
+  - paper_id: W2048379006
+    year: 1980
+    title: 'A study of ZnTe films grown on glass substrates using an atomic layer evaporation method'
+    metrics: true
+    in_profile: true
+    reason: 'One of his earliest journal reports of growth by sequential, self-limiting surface reactions, the physical realization of atomic layer deposition.'
+  - paper_id: W2087702453
+    year: 1981
+    title: 'Characterization of surface exchange reactions used to grow compound films'
+    metrics: true
+    in_profile: true
+    reason: 'Establishes the saturating surface-exchange-reaction mechanism that distinguishes ALD from ordinary vapour deposition.'
+  - paper_id: W2030668500
+    year: 1989
+    title: 'Atomic Layer Epitaxy'
+    metrics: true
+    in_profile: true
+    reason: 'His definitive exposition of atomic layer epitaxy, the reference through which the method reached the wider thin-film community.'
+  n_related: 16
+  note: 'The true founding disclosures are missing: the ALD patent (Suntola & Antson, US 4,058,430, 1977) and the early Suntola ALE/thin-film electroluminescent display reports are not journal records in this list, and the 1989 pick is an extended review rather than an original. The record mixes in two unrelated bodies of work by the same person: his 1969-1976 chalcogenide-switching and dielectric-irradiation physics, and a large set of "Dynamic Universe" cosmology writings (zero-energy space, absolute time), which are philosophy-of-physics essays, not ALD. Duplicates: W3014625779 (2020) and W4405188398 (2019) are the same "Unification of theories requires a postulate basis in common", and W2591179211 / W2587712348 are the same "Scientific Models and a Comprehensive Picture of Reality". Several ALE-catalyst papers are from the Finnish catalysis groups with him as co-author.'
+William M. Shih:
+  picks:
+  - paper_id: W2085523918
+    year: 2004
+    title: 'A 1.7-kilobase single-stranded DNA that folds into a nanoscale octahedron'
+    metrics: true
+    in_profile: true
+    reason: 'His own founding result: a single long strand programmed to fold into a defined 3D object, the scaffolded-folding idea that DNA origami rests on.'
+  - paper_id: W1975679096
+    year: 2009
+    title: 'Self-assembly of DNA into nanoscale three-dimensional shapes'
+    metrics: true
+    in_profile: true
+    reason: 'Extended origami from flat sheets to rigid 3D honeycomb-lattice solids, the key step that made arbitrary 3D DNA nanostructures routine.'
+  - paper_id: W2099737063
+    year: 2009
+    title: 'Folding DNA into Twisted and Curved Nanoscale Shapes'
+    metrics: false
+    in_profile: true
+    reason: 'Showed that programmed insertions and deletions give controlled twist and curvature, establishing quantitative shape design in DNA origami.'
+  n_related: 45
+  note: 'Rothemund''s 2006 "Folding DNA to create nanoscale shapes and patterns" belongs to a co-nominee and is absent as expected; the caDNAno tool paper (2009) and the DNA-bricks paper (2012) are present and were the next candidates. Duplicate records: W1975679096 (2009) and W2911618051 (2010) share the title "Self-assembly of DNA into Nanoscale Three-Dimensional Shapes"; W2107885325 and W4247355777 are both "Rigid DNA Beams for High-Resolution Single-Molecule Mechanics" (2013); W2773165190 and W4210392527 are both "Selective Nascent Polymer Catch-and-Release..." (2017). Clear namesake contamination: the SRAM computing-in-memory macro papers (2020, 2021) are integrated-circuit engineering by another Shih, and the SEN-virus hepatitis papers (2001, 2002) plus the 2006 sciatic-neuropathy case report are clinical work by other authors of the same surname.'
+Zhenan Bao:
+  picks:
+  - paper_id: W2014657621
+    year: 1996
+    title: 'Soluble and processable regioregular poly(3-hexylthiophene) for thin film field-effect transistor applications with high mobility'
+    metrics: true
+    in_profile: true
+    reason: 'Her early demonstration that a solution-processable polymer can give high field-effect mobility, the material basis of flexible organic electronics.'
+  - paper_id: W2082462751
+    year: 1997
+    title: 'High-Performance Plastic Transistors Fabricated by Printing Techniques'
+    metrics: true
+    in_profile: true
+    reason: 'First showed printed organic transistors on plastic, establishing the flexible, large-area fabrication route she is credited with.'
+  - paper_id: W2114682092
+    year: 2010
+    title: 'Highly sensitive flexible pressure sensors with microstructured rubber dielectric layers'
+    metrics: true
+    in_profile: true
+    reason: 'The microstructured-elastomer pressure sensor that gave skin-like sensitivity and opened her electronic-skin programme.'
+  n_related: 60
+  note: 'Both halves of the option are covered: two early flexible-organic-electronics papers and the founding e-skin sensor; the 2000 "Large-scale complementary integrated circuits based on organic transistors", the 1998 air-stable n-channel transistors and the 2013 pressure-sensitive polymer transistor were the next candidates. No namesake signal, but a large share of the list is a distinct research line (lithium-metal batteries, supercapacitors, graphene electrodes) from her own lab rather than flexible electronics or e-skin.'

@@ -1,0 +1,654 @@
+{
+ "person": "Daniel G. Nocera",
+ "profile": "A5056442308",
+ "ids": [
+  "A5056442308"
+ ],
+ "options": [
+  "for the development of proton-coupled electron transfer theory and its applications — Daniel G. Nocera"
+ ],
+ "birth_year": 1957,
+ "cutoff_year": 1982,
+ "works": [
+  {
+   "paper_id": "W1986829915",
+   "year": 2006,
+   "cited_by_count": 8108,
+   "title": "Powering the planet: Chemical challenges in solar energy utilization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963597613",
+   "year": 2008,
+   "cited_by_count": 4048,
+   "title": "In Situ Formation of an Oxygen-Evolving Catalyst in Neutral Water Containing Phosphate and Co 2+",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982685288",
+   "year": 2010,
+   "cited_by_count": 2996,
+   "title": "Solar Energy Supply and Storage for the Legacy and Nonlegacy Worlds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989500990",
+   "year": 2011,
+   "cited_by_count": 1694,
+   "title": "Wireless Solar Water Splitting Using Silicon-Based Semiconductors and Earth-Abundant Catalysts",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028201857",
+   "year": 2011,
+   "cited_by_count": 1654,
+   "title": "Comparing Photosynthetic and Photovoltaic Efficiencies and Recognizing the Potential for Improvement",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038591363",
+   "year": 2012,
+   "cited_by_count": 1637,
+   "title": "The Artificial Leaf",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041606536",
+   "year": 2007,
+   "cited_by_count": 1468,
+   "title": "Hydrogen Production by Molecular Photocatalysis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983101755",
+   "year": 2010,
+   "cited_by_count": 1211,
+   "title": "Mechanistic Studies of the Oxygen Evolution Reaction by a Cobalt-Phosphate Catalyst at Neutral pH",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015181400",
+   "year": 2012,
+   "cited_by_count": 1152,
+   "title": "Fractionalized excitations in the spin-liquid state of a kagome-lattice antiferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2412520413",
+   "year": 2016,
+   "cited_by_count": 920,
+   "title": "Water splitting–biosynthetic system with CO 2 reduction efficiencies exceeding photosynthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2614884730",
+   "year": 1998,
+   "cited_by_count": 839,
+   "title": "PROTON-COUPLED ELECTRON TRANSFER",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002551641",
+   "year": 2003,
+   "cited_by_count": 816,
+   "title": "Radical Initiation in the Class I Ribonucleotide Reductase: Long-Range Proton-Coupled Electron Transfer?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009749005",
+   "year": 2007,
+   "cited_by_count": 808,
+   "title": "Spin Dynamics of the Spin- 1/2 Kagome Lattice Antiferromagnet ZnCu3(OH)6Cl2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161452689",
+   "year": 2010,
+   "cited_by_count": 756,
+   "title": "Nickel-borate oxygen-evolving catalyst that functions under benign conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2172236987",
+   "year": 2008,
+   "cited_by_count": 734,
+   "title": "Cobalt–phosphate oxygen-evolving compound",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050435665",
+   "year": 2005,
+   "cited_by_count": 705,
+   "title": "A Structurally Perfect S = 1/2 Kagomé Antiferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056426718",
+   "year": 2010,
+   "cited_by_count": 700,
+   "title": "Structure and Valency of a Cobalt−Phosphate Water Oxidation Catalyst Determined by in Situ X-ray Spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138111524",
+   "year": 2012,
+   "cited_by_count": 695,
+   "title": "Structure–Activity Correlations in a Nickel–Borate Oxygen Evolution Catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2580932403",
+   "year": 2017,
+   "cited_by_count": 657,
+   "title": "Influence of iron doping on tetravalent nickel content in catalytic oxygen evolving films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067004573",
+   "year": 2009,
+   "cited_by_count": 632,
+   "title": "Electrolyte-Dependent Electrosynthesis and Activity of Cobalt-Based Water Oxidation Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2317241546",
+   "year": 2007,
+   "cited_by_count": 604,
+   "title": "CdSe nanocrystal based chem-/bio- sensors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021921508",
+   "year": 2008,
+   "cited_by_count": 599,
+   "title": "Compact Biocompatible Quantum Dots Functionalized for Cellular Imaging",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2321284911",
+   "year": 2014,
+   "cited_by_count": 571,
+   "title": "A Functionally Stable Manganese Oxide Oxygen Evolution Catalyst in Acid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094143846",
+   "year": 2009,
+   "cited_by_count": 569,
+   "title": "A Self-Healing Oxygen-Evolving Catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043396906",
+   "year": 2010,
+   "cited_by_count": 535,
+   "title": "EPR Evidence for Co(IV) Species Produced During Water Oxidation at Neutral pH",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2333596353",
+   "year": 2011,
+   "cited_by_count": 515,
+   "title": "Electocatalytic Water Oxidation by Cobalt(III) Hangman β-Octafluoro Corroles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046865601",
+   "year": 2006,
+   "cited_by_count": 501,
+   "title": "A Ratiometric CdSe/ZnS Nanocrystal pH Sensor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2323651114",
+   "year": 2013,
+   "cited_by_count": 493,
+   "title": "Mechanistic Studies of the Oxygen Evolution Reaction Mediated by a Nickel–Borate Thin Film Electrocatalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039481223",
+   "year": 2015,
+   "cited_by_count": 466,
+   "title": "Efficient solar-to-fuels production from a hybrid microbial–water-splitting catalyst system",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124129640",
+   "year": 2009,
+   "cited_by_count": 461,
+   "title": "Proton-Coupled Electron Transfer in Biology: Results from Synergistic Studies in Natural and Model Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2901030934",
+   "year": 2018,
+   "cited_by_count": 461,
+   "title": "Light-driven fine chemical production in yeast biohybrids",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2342359684",
+   "year": 2015,
+   "cited_by_count": 438,
+   "title": "Nature of Activated Manganese Oxide for Oxygen Evolution",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161680210",
+   "year": 2010,
+   "cited_by_count": 433,
+   "title": "Highly active cobalt phosphate and borate based oxygen evolving catalysts operating in neutral and natural waters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2597732775",
+   "year": 2017,
+   "cited_by_count": 425,
+   "title": "Solar Fuels and Solar Chemicals Industry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082345487",
+   "year": 2008,
+   "cited_by_count": 419,
+   "title": "Electronic Design Criteria for O−O Bond Formation via Metal−Oxo Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977445954",
+   "year": 2003,
+   "cited_by_count": 407,
+   "title": "Quantum-dot optical temperature probes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106604710",
+   "year": 2007,
+   "cited_by_count": 386,
+   "title": "Role of Proton-Coupled Electron Transfer in O–O Bond Activation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2179764244",
+   "year": 2015,
+   "cited_by_count": 379,
+   "title": "Topological Magnon Bands in a Kagome Lattice Ferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2979464332",
+   "year": 2019,
+   "cited_by_count": 353,
+   "title": "Artificial Photosynthesis at Efficiencies Greatly Exceeding That of Natural Photosynthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086634861",
+   "year": 2011,
+   "cited_by_count": 346,
+   "title": "Photocatalytic hydrogen production",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073128200",
+   "year": 2014,
+   "cited_by_count": 342,
+   "title": "Ten-percent solar-to-fuel conversion with nonprecious materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026116093",
+   "year": 2014,
+   "cited_by_count": 326,
+   "title": "Templated assembly of photoswitches significantly increases the energy-storage capacity of solar thermal fuels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029811564",
+   "year": 2001,
+   "cited_by_count": 326,
+   "title": "Hydrogen Produced from Hydrohalic Acid Solutions by a Two-Electron Mixed-Valence Photocatalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097857976",
+   "year": 2010,
+   "cited_by_count": 324,
+   "title": "A Nanoparticle Size Series for In Vivo Fluorescence Imaging",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2316994779",
+   "year": 2012,
+   "cited_by_count": 313,
+   "title": "The Nature of Lithium Battery Materials under Oxygen Evolution Reaction Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125191072",
+   "year": 2013,
+   "cited_by_count": 310,
+   "title": "Artificial photosynthesis as a frontier technology for energy sustainability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2321558777",
+   "year": 2011,
+   "cited_by_count": 298,
+   "title": "Hydrogen Generation by Hangman Metalloporphyrins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161929344",
+   "year": 2006,
+   "cited_by_count": 283,
+   "title": "Proton-coupled electron transfer: the mechanistic underpinning for radical transport and catalysis in biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089120061",
+   "year": 2005,
+   "cited_by_count": 282,
+   "title": "Spin chirality on a two-dimensional frustrated lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118204678",
+   "year": 2013,
+   "cited_by_count": 279,
+   "title": "Energy and environment policy case for a global project on artificial photosynthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986156969",
+   "year": 2009,
+   "cited_by_count": 274,
+   "title": "Compact Biocompatible Quantum Dots via RAFT-Mediated Synthesis of Imidazole-Based Copolymer Ligand",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981539002",
+   "year": 2013,
+   "cited_by_count": 273,
+   "title": "Reversible, Long-Range Radical Transfer in E. coli Class Ia Ribonucleotide Reductase",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000067811",
+   "year": 2004,
+   "cited_by_count": 262,
+   "title": "Targeted Proton Delivery in the Catalyzed Reduction of Oxygen to Water by Bimetallic Pacman Porphyrins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071102816",
+   "year": 2005,
+   "cited_by_count": 253,
+   "title": "Preface: Overview of the Forum on Solar and Renewable Energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060874745",
+   "year": 2010,
+   "cited_by_count": 249,
+   "title": "Oxygen reduction reactivity of cobalt(ii) hangman porphyrins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987446448",
+   "year": 1992,
+   "cited_by_count": 246,
+   "title": "Photoinduced electron transfer mediated by a hydrogen-bonded interface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068412104",
+   "year": 1983,
+   "cited_by_count": 243,
+   "title": "Spectroscopic, electrochemical, and photochemical properties of molybdenum(II) and tungsten(II) halide clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2274379002",
+   "year": 2016,
+   "cited_by_count": 231,
+   "title": "Probing Edge Site Reactivity of Oxidic Cobalt Water Oxidation Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067238339",
+   "year": 2012,
+   "cited_by_count": 230,
+   "title": "Nucleation, Growth, and Repair of a Cobalt-Based Oxygen Evolving Catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2621908234",
+   "year": 2017,
+   "cited_by_count": 229,
+   "title": "Ambient nitrogen reduction cycle using a hybrid inorganic–biological system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2610840529",
+   "year": 2017,
+   "cited_by_count": 228,
+   "title": "Design of template-stabilized active and earth-abundant oxygen evolution catalysts in acid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116040440",
+   "year": 2012,
+   "cited_by_count": 227,
+   "title": "Alternating layer addition approach to CdSe/CdS core/shell quantum dots with near-unity quantum yield and high on-time fractions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2803307926",
+   "year": 2018,
+   "cited_by_count": 223,
+   "title": "Electrochemical trapping of metastable Mn 3+ ions for activation of MnO 2 oxygen evolution catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972989663",
+   "year": 2010,
+   "cited_by_count": 216,
+   "title": "Hangman Corroles: Efficient Synthesis and Oxygen Reaction Chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043609090",
+   "year": 2010,
+   "cited_by_count": 209,
+   "title": "Site Specific X-ray Anomalous Dispersion of the Geometrically Frustrated Kagomé Magnet, Herbertsmithite, ZnCu 3 (OH) 6 Cl 2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031587962",
+   "year": 2008,
+   "cited_by_count": 208,
+   "title": "Living healthy on a dying planet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3035812011",
+   "year": 2020,
+   "cited_by_count": 208,
+   "title": "Ribonucleotide Reductases: Structure, Chemistry, and Metabolism Suggest New Therapeutic Targets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076387739",
+   "year": 2014,
+   "cited_by_count": 207,
+   "title": "Role of pendant proton relays and proton-coupled electron transfer on the hydrogen evolution reaction by nickel hangman porphyrins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067506815",
+   "year": 2007,
+   "cited_by_count": 203,
+   "title": "Proton-Coupled Electron Transfer of Tyrosine Oxidation: Buffer Dependence and Parallel Mechanisms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093574181",
+   "year": 2011,
+   "cited_by_count": 203,
+   "title": "Light-induced water oxidation at silicon electrodes functionalized with a cobalt oxygen-evolving catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985391361",
+   "year": 2005,
+   "cited_by_count": 198,
+   "title": "Molecular Chemistry of Consequence to Renewable Energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121725903",
+   "year": 2005,
+   "cited_by_count": 196,
+   "title": "Whispering‐Gallery‐Mode Lasing from a Semiconductor Nanocrystal/Microsphere Resonator Composite",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096239090",
+   "year": 2004,
+   "cited_by_count": 191,
+   "title": "Proton-coupled electron transfer: a unifying mechanism for biological charge transport, amino acid radical initiation and propagation, and bond making/breaking reactions of water and oxygen",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2903584704",
+   "year": 2018,
+   "cited_by_count": 185,
+   "title": "Elucidation of a Redox-Mediated Reaction Cycle for Nickel-Catalyzed Cross Coupling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089883331",
+   "year": 2003,
+   "cited_by_count": 183,
+   "title": "Spectroscopic and Photophysical Properties of Hexanuclear Rhenium(III) Chalcogenide Clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019460193",
+   "year": 1997,
+   "cited_by_count": 178,
+   "title": "Significant Effect of Salt Bridges on Electron Transfer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070703615",
+   "year": 2005,
+   "cited_by_count": 175,
+   "title": "Blue semiconductor nanocrystal laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024778201",
+   "year": 2012,
+   "cited_by_count": 172,
+   "title": "Proton-coupled electron transfer kinetics for the hydrogen evolution reaction of hangman porphyrins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965672697",
+   "year": 1982,
+   "cited_by_count": 169,
+   "title": "Electron-transfer kinetics of pentaammineruthenium(III)(histidine-33)-ferricytochrome c. Measurement of the rate of intramolecular electron transfer between redox centers separated by 15.ANG. in a protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036002125",
+   "year": 2013,
+   "cited_by_count": 167,
+   "title": "Proton–Electron Transport and Transfer in Electrocatalytic Films. Application to a Cobalt-Based O2-Evolution Catalyst",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

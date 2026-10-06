@@ -1,0 +1,656 @@
+{
+ "person": "Michael Grätzel",
+ "profile": "A5109160404",
+ "ids": [
+  "A5109160404",
+  "A5102840218"
+ ],
+ "options": [
+  "for the development of dye-sensitized and perovskite solar cells — Michael Grätzel, Henry J. Snaith, Tsutomu Miyasaka",
+  "for the invention of dye-sensitized solar cells — Michael Grätzel"
+ ],
+ "birth_year": 1944,
+ "cutoff_year": 1969,
+ "works": [
+  {
+   "paper_id": "W1980216394",
+   "year": 1991,
+   "cited_by_count": 28189,
+   "title": "A low-cost, high-efficiency solar cell based on dye-sensitized colloidal TiO2 films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4241456496",
+   "year": 2001,
+   "cited_by_count": 12490,
+   "title": "Photoelectrochemical cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114118829",
+   "year": 2013,
+   "cited_by_count": 9329,
+   "title": "Sequential deposition as a route to high-performance perovskite-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169328609",
+   "year": 2012,
+   "cited_by_count": 8115,
+   "title": "Lead Iodide Perovskite Sensitized All-Solid-State Submicron Thin Film Mesoscopic Solar Cell with Efficiency Exceeding 9%",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129970907",
+   "year": 2013,
+   "cited_by_count": 6643,
+   "title": "Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic CH 3 NH 3 PbI 3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121304740",
+   "year": 1993,
+   "cited_by_count": 6028,
+   "title": "Conversion of light to electricity by cis-X2bis(2,2'-bipyridyl-4,4'-dicarboxylate)ruthenium(II) charge-transfer sensitizers (X = Cl-, Br-, I-, CN-, and SCN-) on nanocrystalline titanium dioxide electrodes",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2017588499",
+   "year": 2011,
+   "cited_by_count": 5929,
+   "title": "Porphyrin-Sensitized Solar Cells with Cobalt (II/III)–Based Redox Electrolyte Exceed 12 Percent Efficiency",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055069556",
+   "year": 1995,
+   "cited_by_count": 5360,
+   "title": "Light-Induced Redox Reactions in Nanocrystalline Systems",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2301656337",
+   "year": 2016,
+   "cited_by_count": 5230,
+   "title": "Cesium-containing triple cation perovskite solar cells: improved stability, reproducibility and high efficiency",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095062688",
+   "year": 2014,
+   "cited_by_count": 4360,
+   "title": "Dye-sensitized solar cells with 13% efficiency achieved through the molecular engineering of porphyrin sensitizers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060151241",
+   "year": 1996,
+   "cited_by_count": 4296,
+   "title": "Hydrophobic, Highly Conductive Ambient-Temperature Molten Salts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4292053748",
+   "year": 2003,
+   "cited_by_count": 4262,
+   "title": "Dye-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2527042386",
+   "year": 2016,
+   "cited_by_count": 3583,
+   "title": "Incorporation of rubidium cations into perovskite solar cells improves photovoltaic performance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1896289247",
+   "year": 1998,
+   "cited_by_count": 3482,
+   "title": "Solid-state dye-sensitized mesoporous TiO2 solar cells with high photon-to-electron conversion efficiencies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156328797",
+   "year": 2005,
+   "cited_by_count": 3388,
+   "title": "Solar Energy Conversion by Dye-Sensitized Photovoltaic Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123857657",
+   "year": 2014,
+   "cited_by_count": 3122,
+   "title": "Low-temperature solution-processed wavelength-tunable perovskites for lasing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3147596910",
+   "year": 2021,
+   "cited_by_count": 3121,
+   "title": "Pseudo-halide anion engineering for α-FAPbI3 perovskite solar cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067910821",
+   "year": 2014,
+   "cited_by_count": 2965,
+   "title": "A hole-conductor–free, fully printable mesoscopic perovskite solar cell with high stability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991980035",
+   "year": 2005,
+   "cited_by_count": 2720,
+   "title": "Combined Experimental and DFT-TDDFT Computational Study of Photoelectrochemical Cell Ruthenium Sensitizers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120517672",
+   "year": 2009,
+   "cited_by_count": 2646,
+   "title": "Recent Advances in Sensitized Mesoscopic Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133130045",
+   "year": 2013,
+   "cited_by_count": 2641,
+   "title": "Efficient inorganic–organic hybrid heterojunction solar cells containing perovskite compound and polymeric hole conductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4213245659",
+   "year": 2000,
+   "cited_by_count": 2590,
+   "title": "Molecular Photovoltaics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976555219",
+   "year": 2011,
+   "cited_by_count": 2588,
+   "title": "Solar Water Splitting: Progress Using Hematite (α‐Fe 2 O 3 ) Photoelectrodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984576643",
+   "year": 2001,
+   "cited_by_count": 2557,
+   "title": "Engineering of Efficient Panchromatic Sensitizers for Nanocrystalline TiO 2 -Based Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171105325",
+   "year": 2013,
+   "cited_by_count": 2549,
+   "title": "Synthesis and crystal chemistry of the hybrid perovskite (CH3NH3)PbI3 for solid-state sensitised solar cell applications",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2015127275",
+   "year": 2014,
+   "cited_by_count": 2513,
+   "title": "Water photolysis at 12.3% efficiency via perovskite photovoltaics and Earth-abundant catalysts",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134917423",
+   "year": 2014,
+   "cited_by_count": 2270,
+   "title": "The light and shade of perovskite solar cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150801871",
+   "year": 2004,
+   "cited_by_count": 2227,
+   "title": "Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1927627425",
+   "year": 2015,
+   "cited_by_count": 2225,
+   "title": "Efficient and stable large-area perovskite solar cells with inorganic charge extraction layers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2621222172",
+   "year": 2017,
+   "cited_by_count": 2090,
+   "title": "One-Year stable perovskite solar cells by 2D/3D interface engineering",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2050612192",
+   "year": 2011,
+   "cited_by_count": 2066,
+   "title": "Highly active oxide photocathode for photoelectrochemical water reduction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767693464",
+   "year": 2017,
+   "cited_by_count": 2045,
+   "title": "Promises and challenges of perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2522833408",
+   "year": 2016,
+   "cited_by_count": 2001,
+   "title": "Polymer-templated nucleation and crystal growth of perovskite films for solar cells with efficiency greater than 21%",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047612475",
+   "year": 2005,
+   "cited_by_count": 1978,
+   "title": "Electrochemical Impedance Spectroscopic Analysis of Dye-Sensitized Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1766513776",
+   "year": 2012,
+   "cited_by_count": 1909,
+   "title": "Mesoscopic CH 3 NH 3 PbI 3 /TiO 2 Heterojunction Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2410619939",
+   "year": 2016,
+   "cited_by_count": 1865,
+   "title": "A vacuum flash–assisted solution process for high-efficiency large-area perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2268497559",
+   "year": 2016,
+   "cited_by_count": 1828,
+   "title": "Efficient luminescent solar cells based on tailored mixed-cation perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064195144",
+   "year": 2007,
+   "cited_by_count": 1801,
+   "title": "Fabrication of thin film dye sensitized solar cells with solar to electric power conversion efficiency over 10%",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141956602",
+   "year": 2014,
+   "cited_by_count": 1722,
+   "title": "Growth of CH3NH3PbI3 cuboids with controlled size for high-efficiency perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973613246",
+   "year": 1997,
+   "cited_by_count": 1594,
+   "title": "Nanocrystalline Titanium Oxide Electrodes for Photovoltaic Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062973998",
+   "year": 2006,
+   "cited_by_count": 1529,
+   "title": "New Benchmark for Water Photooxidation by Nanostructured α-Fe 2 O 3 Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171252184",
+   "year": 2003,
+   "cited_by_count": 1520,
+   "title": "A stable quasi-solid-state dye-sensitized solar cell with an amphiphilic ruthenium sensitizer and polymer gel electrolyte",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3002058265",
+   "year": 2020,
+   "cited_by_count": 1514,
+   "title": "Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012327696",
+   "year": 2013,
+   "cited_by_count": 1476,
+   "title": "Perovskite solar cells employing organic charge-transport layers",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2760381023",
+   "year": 2017,
+   "cited_by_count": 1476,
+   "title": "Perovskite solar cells with CuSCN hole extraction layers yield stabilized efficiencies greater than 20%",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077822985",
+   "year": 1996,
+   "cited_by_count": 1386,
+   "title": "Electrochemical and Photoelectrochemical Investigation of Single-Crystal Anatase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4239309783",
+   "year": 2014,
+   "cited_by_count": 1378,
+   "title": "Organohalide lead perovskites for photovoltaic applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077610812",
+   "year": 2008,
+   "cited_by_count": 1349,
+   "title": "Enhance the Optical Absorptivity of Nanocrystalline TiO2 Film with High Molar Extinction Coefficient Ruthenium Sensitizers for High Performance Dye-Sensitized Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155068326",
+   "year": 2015,
+   "cited_by_count": 1310,
+   "title": "Understanding the rate-dependent J–V hysteresis, slow time component, and aging in CH 3 NH 3 PbI 3 perovskite solar cells: the role of a compensated electric field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100438467",
+   "year": 2014,
+   "cited_by_count": 1274,
+   "title": "Mixed‐Organic‐Cation Perovskite Photovoltaics for Enhanced Solar‐Light Harvesting",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061497891",
+   "year": 2009,
+   "cited_by_count": 1267,
+   "title": "Highly Efficient Light-Harvesting Ruthenium Sensitizer for Thin-Film Dye-Sensitized Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1941396097",
+   "year": 2015,
+   "cited_by_count": 1231,
+   "title": "Highly efficient planar perovskite solar cells through band alignment engineering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2184746371",
+   "year": 2015,
+   "cited_by_count": 1227,
+   "title": "Entropic stabilization of mixed A-cation ABX 3 metal halide perovskites for high performance perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981910115",
+   "year": 2014,
+   "cited_by_count": 1218,
+   "title": "Cation-Induced Band-Gap Tuning in Organohalide Perovskites: Interplay of Spin–Orbit Coupling and Octahedra Tilting",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142233167",
+   "year": 2014,
+   "cited_by_count": 1212,
+   "title": "Lead‐Free Halide Perovskite Solar Cells with High Photocurrents Realized Through Vacancy Modulation",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2063836709",
+   "year": 1996,
+   "cited_by_count": 1203,
+   "title": "Low cost photovoltaic modules based on dye sensitized nanocrystalline titanium dioxide and carbon powder",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2965937470",
+   "year": 2019,
+   "cited_by_count": 1184,
+   "title": "Thermodynamically stabilized β-CsPbI 3 –based perovskite solar cells with efficiencies >18%",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2398920238",
+   "year": 2016,
+   "cited_by_count": 1171,
+   "title": "Not All That Glitters Is Gold: Metal-Migration-Induced Degradation in Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151010124",
+   "year": 2015,
+   "cited_by_count": 1156,
+   "title": "Improved performance and stability of perovskite solar cells by crystal crosslinking with alkylphosphonic acid ω-ammonium chlorides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2536873010",
+   "year": 2016,
+   "cited_by_count": 1143,
+   "title": "Towards stable and commercially available perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995977395",
+   "year": 2012,
+   "cited_by_count": 1112,
+   "title": "Materials interface engineering for solution-processed photovoltaics",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2587733592",
+   "year": 2017,
+   "cited_by_count": 1093,
+   "title": "The rapid evolution of highly efficient perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022968784",
+   "year": 2006,
+   "cited_by_count": 1074,
+   "title": "Characteristics of High Efficiency Dye-Sensitized Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133266834",
+   "year": 1998,
+   "cited_by_count": 1058,
+   "title": "Metal Oxide Surfaces and Their Interactions with Aqueous Solutions and Microbial Organisms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034600111",
+   "year": 1999,
+   "cited_by_count": 1055,
+   "title": "Acid−Base Equilibria of (2,2‘-Bipyridyl-4,4‘-dicarboxylic acid)ruthenium(II) Complexes and the Effect of Protonation on Charge-Transfer Sensitization of Nanocrystalline Titania",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113093873",
+   "year": 2012,
+   "cited_by_count": 1018,
+   "title": "Nanomaterials for renewable energy production and storage",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004007833",
+   "year": 2010,
+   "cited_by_count": 1006,
+   "title": "Probing the photoelectrochemical properties of hematite (α-Fe 2 O 3 ) electrodes using hydrogen peroxide as a hole scavenger",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2610343300",
+   "year": 2017,
+   "cited_by_count": 1003,
+   "title": "Dye-sensitized solar cells for efficient power generation under ambient lighting",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103833118",
+   "year": 2010,
+   "cited_by_count": 989,
+   "title": "Light‐Induced Water Splitting with Hematite: Improved Nanostructure and Iridium Oxide Catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152033716",
+   "year": 2007,
+   "cited_by_count": 987,
+   "title": "Fabrication of screen‐printing pastes from TiO2 powders for dye‐sensitised solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2530367706",
+   "year": 2016,
+   "cited_by_count": 975,
+   "title": "Hole‐Transport Materials for Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036638491",
+   "year": 2003,
+   "cited_by_count": 964,
+   "title": "Gelation of Ionic Liquid-Based Electrolytes with Silica Nanoparticles for Quasi-Solid-State Dye-Sensitized Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2110135517",
+   "year": 2014,
+   "cited_by_count": 951,
+   "title": "Perovskite as Light Harvester: A Game Changer in Photovoltaics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988182882",
+   "year": 2013,
+   "cited_by_count": 948,
+   "title": "First-Principles Modeling of Mixed Halide Organometal Perovskites for Photovoltaic Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2335170602",
+   "year": 2016,
+   "cited_by_count": 944,
+   "title": "A molecularly engineered hole-transporting material for efficient perovskite solar cells",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2019358059",
+   "year": 2014,
+   "cited_by_count": 943,
+   "title": "Effect of Annealing Temperature on Film Morphology of Organic–Inorganic Hybrid Pervoskite Solid‐State Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981420304",
+   "year": 2013,
+   "cited_by_count": 936,
+   "title": "High Efficiency Solid-State Sensitized Solar Cell-Based on Submicrometer Rutile TiO 2 Nanorod and CH 3 NH 3 PbI 3 Perovskite Sensitizer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140682347",
+   "year": 1997,
+   "cited_by_count": 927,
+   "title": "Charge Recombination in Dye-Sensitized Nanocrystalline TiO 2 Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976140311",
+   "year": 1998,
+   "cited_by_count": 925,
+   "title": "Structure and Energetics of Water Adsorbed at TiO 2 Anatase \\(101\\) and \\(001\\) Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010052150",
+   "year": 2010,
+   "cited_by_count": 922,
+   "title": "Photoelectrochemical Water Splitting with Mesoporous Hematite Prepared by a Solution-Based Colloidal Approach",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

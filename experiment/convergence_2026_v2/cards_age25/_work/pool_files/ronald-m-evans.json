@@ -1,0 +1,654 @@
+{
+ "person": "Ronald M. Evans",
+ "profile": "A5087519016",
+ "ids": [
+  "A5087519016"
+ ],
+ "options": [
+  "for the discovery of the nuclear receptor superfamily of ligand-regulated transcription factors — Ronald M. Evans"
+ ],
+ "birth_year": 1949,
+ "cutoff_year": 1974,
+ "works": [
+  {
+   "paper_id": "W2085124463",
+   "year": 1988,
+   "cited_by_count": 7551,
+   "title": "The Steroid and Thyroid Hormone Receptor Superfamily",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2172256092",
+   "year": 1995,
+   "cited_by_count": 7034,
+   "title": "The nuclear receptor superfamily: The second decade",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3003058300",
+   "year": 2020,
+   "cited_by_count": 3471,
+   "title": "A framework for advancing our understanding of cancer-associated fibroblasts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995754186",
+   "year": 1995,
+   "cited_by_count": 3203,
+   "title": "The RXR heterodimers and orphan receptors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005674716",
+   "year": 1995,
+   "cited_by_count": 2847,
+   "title": "15-Deoxy-Δ12,14-Prostaglandin J2 is a ligand for the adipocyte determination factor PPARγ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035581625",
+   "year": 1983,
+   "cited_by_count": 2320,
+   "title": "Production of a novel neuropeptide encoded by the calcitonin gene via tissue-specific RNA processing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152848856",
+   "year": 1982,
+   "cited_by_count": 2125,
+   "title": "Alternative RNA processing in calcitonin gene expression generates mRNAs encoding different polypeptide products",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981101682",
+   "year": 1997,
+   "cited_by_count": 2102,
+   "title": "Hypolipidemic drugs, polyunsaturated fatty acids, and eicosanoids are ligands for peroxisome proliferator-activated receptors α and δ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079080809",
+   "year": 2001,
+   "cited_by_count": 2057,
+   "title": "Nuclear Receptors and Lipid Physiology: Opening the X-Files",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072233737",
+   "year": 1987,
+   "cited_by_count": 1993,
+   "title": "Identification of a receptor for the morphogen retinoic acid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015497140",
+   "year": 1987,
+   "cited_by_count": 1939,
+   "title": "Cloning of Human Mineralocorticoid Receptor Complementary DNA: Structural and Functional Kinship with the Glucocorticoid Receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968703258",
+   "year": 1999,
+   "cited_by_count": 1930,
+   "title": "PPARγ Is Required for Placental, Cardiac, and Adipose Tissue Development",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073578030",
+   "year": 2013,
+   "cited_by_count": 1871,
+   "title": "PPARγ signaling and metabolism: the good, the bad and the future",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007169317",
+   "year": 1985,
+   "cited_by_count": 1861,
+   "title": "Primary structure and expression of a functional human glucocorticoid receptor cDNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087647782",
+   "year": 1998,
+   "cited_by_count": 1850,
+   "title": "Oxidized LDL Regulates Macrophage Gene Expression through Ligand Activation of PPARγ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976621212",
+   "year": 1998,
+   "cited_by_count": 1799,
+   "title": "PPARγ Promotes Monocyte/Macrophage Differentiation and Uptake of Oxidized LDL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041270901",
+   "year": 1992,
+   "cited_by_count": 1799,
+   "title": "9-cis retinoic acid is a high affinity ligand for the retinoid X receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4229958257",
+   "year": 1995,
+   "cited_by_count": 1758,
+   "title": "A transcriptional co-repressor that interacts with nuclear hormone receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979761686",
+   "year": 1992,
+   "cited_by_count": 1743,
+   "title": "Convergence of 9-cis retinoic acid and peroxisome proliferator signalling pathways through heterodimer formation of their receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011467252",
+   "year": 1991,
+   "cited_by_count": 1738,
+   "title": "Direct repeats as selective response elements for the thyroid hormone, retinoic acid, and vitamin D3 receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163810943",
+   "year": 2004,
+   "cited_by_count": 1581,
+   "title": "PPARs and the complex journey to obesity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019229253",
+   "year": 2011,
+   "cited_by_count": 1546,
+   "title": "Hotspots of aberrant epigenomic reprogramming in human induced pluripotent stem cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083436346",
+   "year": 1990,
+   "cited_by_count": 1512,
+   "title": "Nuclear receptor that identifies a novel retinoic acid response pathway",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987040411",
+   "year": 1992,
+   "cited_by_count": 1507,
+   "title": "Retinoid X receptor interacts with nuclear receptors in retinoic acid, thyroid hormone and vitamin D3 signalling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090024435",
+   "year": 1986,
+   "cited_by_count": 1494,
+   "title": "The c-erb-A gene encodes a thyroid hormone receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981022538",
+   "year": 1997,
+   "cited_by_count": 1479,
+   "title": "Nuclear Receptor Coactivator ACTR Is a Novel Histone Acetyltransferase and Forms a Multimeric Activation Complex with P/CAF and CBP/p300",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965388358",
+   "year": 1991,
+   "cited_by_count": 1440,
+   "title": "Chromosomal translocation t(15;17) in human acute promyelocytic leukemia fuses RARα with a novel putative transcription factor, PML",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107752044",
+   "year": 1994,
+   "cited_by_count": 1397,
+   "title": "Differential expression and activation of a family of murine peroxisome proliferator-activated receptors.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091775431",
+   "year": 1982,
+   "cited_by_count": 1345,
+   "title": "Dramatic growth of mice that develop from eggs microinjected with metallothionein–growth hormone fusion genes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986256219",
+   "year": 2001,
+   "cited_by_count": 1323,
+   "title": "A PPARγ-LXR-ABCA1 Pathway in Macrophages Is Involved in Cholesterol Efflux and Atherogenesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012834939",
+   "year": 2003,
+   "cited_by_count": 1275,
+   "title": "Peroxisome-Proliferator-Activated Receptor δ Activates Fat Metabolism to Prevent Obesity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980722886",
+   "year": 1990,
+   "cited_by_count": 1251,
+   "title": "Functional antagonism between oncoprotein c-Jun and the glucocorticoid receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036639816",
+   "year": 1997,
+   "cited_by_count": 1249,
+   "title": "Nuclear Receptor Repression Mediated by a Complex Containing SMRT, mSin3A, and Histone Deacetylase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072822958",
+   "year": 2014,
+   "cited_by_count": 1232,
+   "title": "Nuclear Receptors, RXR, and the Big Bang",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115494923",
+   "year": 1992,
+   "cited_by_count": 1200,
+   "title": "Characterization of three RXR genes that mediate the action of 9-cis retinoic acid.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976621716",
+   "year": 1995,
+   "cited_by_count": 1180,
+   "title": "Identification of a nuclear receptor that is activated by farnesol metabolites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061075485",
+   "year": 2008,
+   "cited_by_count": 1167,
+   "title": "AMPK and PPARδ Agonists Are Exercise Mimetics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137217704",
+   "year": 2014,
+   "cited_by_count": 1165,
+   "title": "Vitamin D Receptor-Mediated Stromal Reprogramming Suppresses Pancreatitis and Enhances Pancreatic Cancer Therapy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021206718",
+   "year": 2002,
+   "cited_by_count": 1135,
+   "title": "Vitamin D Receptor As an Intestinal Bile Acid Sensor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112632255",
+   "year": 1995,
+   "cited_by_count": 1110,
+   "title": "LXR, a nuclear receptor that defines a distinct retinoid response pathway.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1550565578",
+   "year": 1998,
+   "cited_by_count": 1073,
+   "title": "Role of the histone deacetylase complex in acute promyelocytic leukaemia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1494611500",
+   "year": 2001,
+   "cited_by_count": 1062,
+   "title": "PPAR-γ dependent and independent effects on macrophage-gene expression in lipid metabolism and inflammation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996885736",
+   "year": 2004,
+   "cited_by_count": 1050,
+   "title": "Regulation of Muscle Fiber Type and Running Endurance by PPARδ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2516006356",
+   "year": 2016,
+   "cited_by_count": 1050,
+   "title": "Pancreatic stellate cells support tumour metabolism through autophagic alanine secretion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1506673182",
+   "year": 1984,
+   "cited_by_count": 1029,
+   "title": "Calcitonin gene-related peptide immunoreactivity in the spinal cord of man and of eight other species",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011072921",
+   "year": 2012,
+   "cited_by_count": 1010,
+   "title": "Regulation of circadian behaviour and metabolism by REV-ERB-α and REV-ERB-β",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156281856",
+   "year": 2006,
+   "cited_by_count": 982,
+   "title": "Anatomical Profiling of Nuclear Receptor Expression Reveals a Hierarchical Transcriptional Network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004861205",
+   "year": 2003,
+   "cited_by_count": 957,
+   "title": "Adipose-specific peroxisome proliferator-activated receptor γ knockout causes insulin resistance in fat and liver but not in muscle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063110155",
+   "year": 1989,
+   "cited_by_count": 947,
+   "title": "Determinants of target gene specificity for steroid/thyroid hormone receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981939829",
+   "year": 1993,
+   "cited_by_count": 945,
+   "title": "Functional ecdysone receptor is the product of EcR and Ultraspiracle genes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990939350",
+   "year": 1996,
+   "cited_by_count": 928,
+   "title": "Role of CBP/P300 in nuclear receptor signalling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129972061",
+   "year": 1986,
+   "cited_by_count": 927,
+   "title": "Functional domains of the human glucocorticoid receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026930722",
+   "year": 2006,
+   "cited_by_count": 919,
+   "title": "Nuclear Receptor Expression Links the Circadian Clock to Metabolism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004849589",
+   "year": 2009,
+   "cited_by_count": 918,
+   "title": "AMPK Regulates the Circadian Clock by Cryptochrome Phosphorylation and Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157906581",
+   "year": 1998,
+   "cited_by_count": 915,
+   "title": "SXR, a novel steroid and xenobioticsensing nuclear receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014259643",
+   "year": 2003,
+   "cited_by_count": 870,
+   "title": "Minireview: Lipid Metabolism, Metabolic Diseases, and Peroxisome Proliferator-Activated Receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055570003",
+   "year": 1988,
+   "cited_by_count": 864,
+   "title": "Identification of a new class of steroid hormone receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988607142",
+   "year": 1996,
+   "cited_by_count": 852,
+   "title": "Ecdysone-inducible gene expression in mammalian cells and transgenic mice.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993342645",
+   "year": 1998,
+   "cited_by_count": 841,
+   "title": "Terminal Differentiation of Human Breast Cancer through PPARγ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3167697154",
+   "year": 2021,
+   "cited_by_count": 825,
+   "title": "Uptake of oxidized lipids by the scavenger receptor CD36 promotes lipid peroxidation and dysfunction in CD8+ T cells in tumors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975647987",
+   "year": 1994,
+   "cited_by_count": 791,
+   "title": "A novel macromolecular structure is a target of the promyelocyte-retinoic acid receptor oncoprotein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038586333",
+   "year": 1988,
+   "cited_by_count": 789,
+   "title": "Zinc fingers: Gilt by association",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026160870",
+   "year": 2001,
+   "cited_by_count": 745,
+   "title": "An essential role for nuclear receptors SXR/PXR in detoxification of cholestatic bile acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000517171",
+   "year": 1992,
+   "cited_by_count": 723,
+   "title": "Drosophila ultraspiracle modulates ecdysone receptor function via heterodimer formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005914718",
+   "year": 1988,
+   "cited_by_count": 701,
+   "title": "Multiple and cooperative trans-activation domains of the human glucocorticoid receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064484411",
+   "year": 2012,
+   "cited_by_count": 701,
+   "title": "A PML–PPAR-δ pathway for fatty acid oxidation regulates hematopoietic stem cell maintenance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107051699",
+   "year": 2015,
+   "cited_by_count": 687,
+   "title": "Intestinal FXR agonism promotes adipose tissue browning and reduces obesity and insulin resistance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987269203",
+   "year": 1991,
+   "cited_by_count": 667,
+   "title": "A direct repeat in the cellular retinol-binding protein type II gene confers differential regulation by RXR and RAR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066636198",
+   "year": 2000,
+   "cited_by_count": 655,
+   "title": "Humanized xenobiotic response in mice expressing nuclear receptor SXR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975160900",
+   "year": 1997,
+   "cited_by_count": 646,
+   "title": "Terminal differentiation of human liposarcoma cells induced by ligands for peroxisome proliferator-activated receptor γ and the retinoid X receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001260034",
+   "year": 1994,
+   "cited_by_count": 631,
+   "title": "RXR alpha mutant mice establish a genetic basis for vitamin A signaling in heart morphogenesis.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074362522",
+   "year": 1999,
+   "cited_by_count": 631,
+   "title": "Regulation of Hormone-Induced Histone Hyperacetylation and Gene Activation via Acetylation of an Acetylase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003928686",
+   "year": 1995,
+   "cited_by_count": 629,
+   "title": "Unique response pathways are established by allosteric interactions among nuclear hormone receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130135884",
+   "year": 2008,
+   "cited_by_count": 624,
+   "title": "Phosphoinositide signalling links O-GlcNAc transferase to insulin resistance",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086727023",
+   "year": 1985,
+   "cited_by_count": 613,
+   "title": "Expression in Brain of a Messenger RNA Encoding a Novel Neuropeptide Homologous to Calcitonin Gene-Related Peptide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031667205",
+   "year": 1988,
+   "cited_by_count": 608,
+   "title": "The neuronal mineralocorticoid eeceptor as a mediator of glucocorticoid response",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144378498",
+   "year": 2013,
+   "cited_by_count": 604,
+   "title": "A Vitamin D Receptor/SMAD Genomic Circuit Gates Hepatic Fibrotic Response",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157959019",
+   "year": 2011,
+   "cited_by_count": 601,
+   "title": "Cryptochromes mediate rhythmic repression of the glucocorticoid receptor",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000902147",
+   "year": 1989,
+   "cited_by_count": 592,
+   "title": "Protein encoded by v-erbA functions as a thyroid-hormone receptor antagonist",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090553336",
+   "year": 1998,
+   "cited_by_count": 586,
+   "title": "Activators of the nuclear receptor PPARγ enhance colon polyp formation",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

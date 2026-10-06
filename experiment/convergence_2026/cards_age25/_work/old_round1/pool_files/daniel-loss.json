@@ -1,0 +1,430 @@
+{
+ "person": "Daniel Loss",
+ "birth_year": 1958,
+ "cutoff_year": 1983,
+ "options": [
+  "for the proposal of quantum computation with electron spins in semiconductor quantum dots — Daniel Loss, David DiVincenzo"
+ ],
+ "works": [
+  {
+   "paper_id": "W2103282498",
+   "year": 1998,
+   "cited_by_count": 6635,
+   "C_5_pctl": 1.0,
+   "title": "Quantum computation with quantum dots"
+  },
+  {
+   "paper_id": "W2006041413",
+   "year": 1999,
+   "cited_by_count": 1443,
+   "C_5_pctl": 1.0,
+   "title": "Coupled quantum dots as quantum gates"
+  },
+  {
+   "paper_id": "W2122704104",
+   "year": 2007,
+   "cited_by_count": 1052,
+   "C_5_pctl": 1.0,
+   "title": "Spin qubits in graphene quantum dots"
+  },
+  {
+   "paper_id": "W2416241894",
+   "year": 2003,
+   "cited_by_count": 844,
+   "C_5_pctl": 1.0,
+   "title": "Nonballistic Spin-Field-Effect Transistor"
+  },
+  {
+   "paper_id": "W1976671548",
+   "year": 2002,
+   "cited_by_count": 783,
+   "C_5_pctl": 1.0,
+   "title": "Electron Spin Decoherence in Quantum Dots due to Interaction with Nuclei"
+  },
+  {
+   "paper_id": "W2043452671",
+   "year": 2011,
+   "cited_by_count": 518,
+   "C_5_pctl": 0.99,
+   "title": "Schrieffer–Wolff transformation for quantum many-body systems"
+  },
+  {
+   "paper_id": "W1791667550",
+   "year": 2013,
+   "cited_by_count": 505,
+   "C_5_pctl": 1.0,
+   "title": "Topological Superconductivity and Majorana Fermions in RKKY Systems"
+  },
+  {
+   "paper_id": "W1985683196",
+   "year": 2001,
+   "cited_by_count": 495,
+   "C_5_pctl": 1.0,
+   "title": "Andreev tunneling, Coulomb blockade, and resonant transport of nonlocal spin-entangled electrons"
+  },
+  {
+   "paper_id": "W2077300239",
+   "year": 2004,
+   "cited_by_count": 444,
+   "C_5_pctl": 1.0,
+   "title": "Phonon-Induced Decay of the Electron Spin in Quantum Dots"
+  },
+  {
+   "paper_id": "W1966921554",
+   "year": 2007,
+   "cited_by_count": 414,
+   "C_5_pctl": 1.0,
+   "title": "Spin qubits with electrically gated polyoxometalate molecules"
+  },
+  {
+   "paper_id": "W2157863630",
+   "year": 2013,
+   "cited_by_count": 397,
+   "C_5_pctl": 1.0,
+   "title": "Prospects for Spin-Based Quantum Computing in Quantum Dots"
+  },
+  {
+   "paper_id": "W2006664108",
+   "year": 2001,
+   "cited_by_count": 386,
+   "C_5_pctl": 0.99,
+   "title": "Quantum correlations in two-fermion systems"
+  },
+  {
+   "paper_id": "W2073807412",
+   "year": 2006,
+   "cited_by_count": 360,
+   "C_5_pctl": 1.0,
+   "title": "Electric-dipole-induced spin resonance in quantum dots"
+  },
+  {
+   "paper_id": "W2006723320",
+   "year": 2013,
+   "cited_by_count": 357,
+   "C_5_pctl": 1.0,
+   "title": "Towards a realistic transport modeling in a superconducting nanowire with Majorana fermions"
+  },
+  {
+   "paper_id": "W2106502150",
+   "year": 2005,
+   "cited_by_count": 345,
+   "C_5_pctl": 0.99,
+   "title": "Quantum information processing and communication"
+  },
+  {
+   "paper_id": "W2021483030",
+   "year": 1992,
+   "cited_by_count": 302,
+   "C_5_pctl": 0.99,
+   "title": "Suppression of tunneling by interference in half-integer-spin particles"
+  },
+  {
+   "paper_id": "W1977283517",
+   "year": 2000,
+   "cited_by_count": 295,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Dot as Spin Filter and Spin Memory"
+  },
+  {
+   "paper_id": "W2003626497",
+   "year": 1992,
+   "cited_by_count": 289,
+   "C_5_pctl": 1.0,
+   "title": "Macroscopic quantum tunneling in magnetic proteins"
+  },
+  {
+   "paper_id": "W2083245666",
+   "year": 2008,
+   "cited_by_count": 282,
+   "C_5_pctl": 1.0,
+   "title": "Spin decoherence of a heavy hole coupled to nuclear spins in a quantum dot"
+  },
+  {
+   "paper_id": "W1997559358",
+   "year": 2007,
+   "cited_by_count": 277,
+   "C_5_pctl": 1.0,
+   "title": "Direct Measurement of the Spin-Orbit Interaction in a Two-Electron InAs Nanowire Quantum Dot"
+  },
+  {
+   "paper_id": "W1993927487",
+   "year": 2012,
+   "cited_by_count": 277,
+   "C_5_pctl": 1.0,
+   "title": "Majorana qubit decoherence by quasiparticle poisoning"
+  },
+  {
+   "paper_id": "W2167209129",
+   "year": 2005,
+   "cited_by_count": 276,
+   "C_5_pctl": 0.99,
+   "title": "Spin Relaxation and Decoherence of Holes in Quantum Dots"
+  },
+  {
+   "paper_id": "W2034258571",
+   "year": 1990,
+   "cited_by_count": 269,
+   "C_5_pctl": 0.98,
+   "title": "Berry’s phase and persistent charge and spin currents in textured mesoscopic rings"
+  },
+  {
+   "paper_id": "W2074936625",
+   "year": 2000,
+   "cited_by_count": 262,
+   "C_5_pctl": 1.0,
+   "title": "Probing Entanglement and Nonlocality of Electrons in a Double-Dot via Transport and Noise"
+  },
+  {
+   "paper_id": "W2049633283",
+   "year": 2003,
+   "cited_by_count": 256,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Computing with Spin Cluster Qubits"
+  },
+  {
+   "paper_id": "W2157616689",
+   "year": 2003,
+   "cited_by_count": 246,
+   "C_5_pctl": 1.0,
+   "title": "Electron spin evolution induced by interaction with nuclei in a quantum dot"
+  },
+  {
+   "paper_id": "W2062067496",
+   "year": 2011,
+   "cited_by_count": 244,
+   "C_5_pctl": 1.0,
+   "title": "Majorana Edge States in Interacting One-Dimensional Systems"
+  },
+  {
+   "paper_id": "W2131861925",
+   "year": 2003,
+   "cited_by_count": 234,
+   "C_5_pctl": 0.99,
+   "title": "Magnetization Transport and Quantized Spin Conductance"
+  },
+  {
+   "paper_id": "W2108375990",
+   "year": 2005,
+   "cited_by_count": 230,
+   "C_5_pctl": 1.0,
+   "title": "Zitterbewegung of Electronic Wave Packets in III-V Zinc-Blende Semiconductor Quantum Wells"
+  },
+  {
+   "paper_id": "W2075875928",
+   "year": 2001,
+   "cited_by_count": 228,
+   "C_5_pctl": 1.0,
+   "title": "Double-occupancy errors, adiabaticity, and entanglement of spin qubits in quantum dots"
+  },
+  {
+   "paper_id": "W2263744690",
+   "year": 2016,
+   "cited_by_count": 223,
+   "C_5_pctl": 1.0,
+   "title": "Quantum memories at finite temperature"
+  },
+  {
+   "paper_id": "W2047030171",
+   "year": 2007,
+   "cited_by_count": 212,
+   "C_5_pctl": 1.0,
+   "title": "Observation of extremely slow hole spin relaxation in self-assembled quantum dots"
+  },
+  {
+   "paper_id": "W2093961215",
+   "year": 2010,
+   "cited_by_count": 212,
+   "C_5_pctl": 0.99,
+   "title": "Spin-selective Peierls transition in interacting one-dimensional conductors with spin-orbit interaction"
+  },
+  {
+   "paper_id": "W2085701682",
+   "year": 2012,
+   "cited_by_count": 204,
+   "C_5_pctl": 1.0,
+   "title": "Composite Majorana fermion wave functions in nanowires"
+  },
+  {
+   "paper_id": "W2068588560",
+   "year": 2003,
+   "cited_by_count": 204,
+   "C_5_pctl": 0.99,
+   "title": "Anisotropic transport in a two-dimensional electron gas in the presence of spin-orbit coupling"
+  },
+  {
+   "paper_id": "W1984582212",
+   "year": 2008,
+   "cited_by_count": 204,
+   "C_5_pctl": 0.98,
+   "title": "Spin-Electric Coupling in Molecular Magnets"
+  },
+  {
+   "paper_id": "W2002876152",
+   "year": 2011,
+   "cited_by_count": 202,
+   "C_5_pctl": 0.99,
+   "title": "Strong spin-orbit interaction and helical hole states in Ge/Si nanowires"
+  },
+  {
+   "paper_id": "W2807690427",
+   "year": 2018,
+   "cited_by_count": 201,
+   "C_5_pctl": 1.0,
+   "title": "Majorana Kramers Pairs in Higher-Order Topological Insulators"
+  },
+  {
+   "paper_id": "W2055440704",
+   "year": 1992,
+   "cited_by_count": 201,
+   "C_5_pctl": 1.0,
+   "title": "Parity effects in a Luttinger liquid: Diamagnetic and paramagnetic ground states"
+  },
+  {
+   "paper_id": "W2043725238",
+   "year": 2008,
+   "cited_by_count": 190,
+   "C_5_pctl": 0.99,
+   "title": "Quantum computing with molecular spin systems"
+  },
+  {
+   "paper_id": "W2063480005",
+   "year": 2000,
+   "cited_by_count": 188,
+   "C_5_pctl": 0.99,
+   "title": "Spin tunneling and phonon-assisted relaxation in Mn12 -acetate"
+  },
+  {
+   "paper_id": "W2106934000",
+   "year": 2008,
+   "cited_by_count": 171,
+   "C_5_pctl": 0.99,
+   "title": "Spin dynamics in InAs nanowire quantum dots coupled to a transmission line"
+  },
+  {
+   "paper_id": "W1971997173",
+   "year": 1999,
+   "cited_by_count": 171,
+   "C_5_pctl": 0.99,
+   "title": "Quantum computers and quantum coherence"
+  },
+  {
+   "paper_id": "W2091731343",
+   "year": 2014,
+   "cited_by_count": 166,
+   "C_5_pctl": 1.0,
+   "title": "Time-reversal invariant parafermions in interacting Rashba nanowires"
+  },
+  {
+   "paper_id": "W1784129591",
+   "year": 2012,
+   "cited_by_count": 166,
+   "C_5_pctl": 0.99,
+   "title": "Transition from Fractional to Majorana Fermions in Rashba Nanowires"
+  },
+  {
+   "paper_id": "W2106733208",
+   "year": 2003,
+   "cited_by_count": 166,
+   "C_5_pctl": 0.99,
+   "title": "Quantum computing with antiferromagnetic spin clusters"
+  },
+  {
+   "paper_id": "W2899027486",
+   "year": 2019,
+   "cited_by_count": 165,
+   "C_5_pctl": 1.0,
+   "title": "Second-Order Topological Superconductivity in π -Junction Rashba Layers"
+  },
+  {
+   "paper_id": "W2067444722",
+   "year": 2007,
+   "cited_by_count": 165,
+   "C_5_pctl": 0.98,
+   "title": "Electric Dipole Spin Resonance for Heavy Holes in Quantum Dots"
+  },
+  {
+   "paper_id": "W1976691719",
+   "year": 2006,
+   "cited_by_count": 164,
+   "C_5_pctl": 1.0,
+   "title": "Nuclear spin state narrowing via gate-controlled Rabi oscillations in a double quantum dot"
+  },
+  {
+   "paper_id": "W2113512566",
+   "year": 2005,
+   "cited_by_count": 163,
+   "C_5_pctl": 1.0,
+   "title": "Spin-Hall conductivity due to Rashba spin-orbit interaction in disordered systems"
+  },
+  {
+   "paper_id": "W2896976304",
+   "year": 2018,
+   "cited_by_count": 163,
+   "C_5_pctl": 1.0,
+   "title": "Zero-energy Andreev bound states from quantum dots in proximitized Rashba nanowires"
+  },
+  {
+   "paper_id": "W2129156627",
+   "year": 2000,
+   "cited_by_count": 156,
+   "C_5_pctl": 0.99,
+   "title": "Spintronics and Quantum Dots for Quantum Computing and Quantum Communication"
+  },
+  {
+   "paper_id": "W3197368744",
+   "year": 2021,
+   "cited_by_count": 155,
+   "C_5_pctl": 1.0,
+   "title": "Quantum-coherent nanoscience"
+  },
+  {
+   "paper_id": "W2097381165",
+   "year": 2001,
+   "cited_by_count": 149,
+   "C_5_pctl": 0.99,
+   "title": "Detection of Single Spin Decoherence in a Quantum Dot via Charge Currents"
+  },
+  {
+   "paper_id": "W2066077609",
+   "year": 1998,
+   "cited_by_count": 149,
+   "C_5_pctl": 0.98,
+   "title": "Quantum information is physical"
+  },
+  {
+   "paper_id": "W2053720243",
+   "year": 2001,
+   "cited_by_count": 148,
+   "C_5_pctl": 0.98,
+   "title": "Noise of a quantum dot system in the cotunneling regime"
+  },
+  {
+   "paper_id": "W2072655278",
+   "year": 2013,
+   "cited_by_count": 146,
+   "C_5_pctl": 1.0,
+   "title": "Spintronics in MoS 2 monolayer quantum wires"
+  },
+  {
+   "paper_id": "W2001482472",
+   "year": 2002,
+   "cited_by_count": 143,
+   "C_5_pctl": 0.99,
+   "title": "Superconductor coupled to two Luttinger liquids as an entangler for electron spins"
+  },
+  {
+   "paper_id": "W1981301758",
+   "year": 2005,
+   "cited_by_count": 143,
+   "C_5_pctl": 0.99,
+   "title": "Spin relaxation and anticrossing in quantum dots: Rashba versus Dresselhaus spin-orbit coupling"
+  },
+  {
+   "paper_id": "W1996273509",
+   "year": 2000,
+   "cited_by_count": 139,
+   "C_5_pctl": 0.99,
+   "title": "Spin interactions and switching in vertically tunnel-coupled quantum dots"
+  }
+ ]
+}

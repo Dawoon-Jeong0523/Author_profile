@@ -1,0 +1,416 @@
+{
+ "person": "Gilles Brassard",
+ "birth_year": 1955,
+ "cutoff_year": 1980,
+ "options": [
+  "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms — Charles H. Bennett, Gilles Brassard, Peter W. Shor"
+ ],
+ "works": [
+  {
+   "paper_id": "W1978553093",
+   "year": 1993,
+   "cited_by_count": 13273,
+   "C_5_pctl": 1.0,
+   "title": "Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels"
+  },
+  {
+   "paper_id": "W2015179126",
+   "year": 2014,
+   "cited_by_count": 3564,
+   "C_5_pctl": 1.0,
+   "title": "Quantum cryptography: Public key distribution and coin tossing"
+  },
+  {
+   "paper_id": "W2062258079",
+   "year": 1996,
+   "cited_by_count": 2827,
+   "C_5_pctl": 1.0,
+   "title": "Purification of Noisy Entanglement and Faithful Teleportation via Noisy Channels"
+  },
+  {
+   "paper_id": "W1997124098",
+   "year": 1992,
+   "cited_by_count": 2362,
+   "C_5_pctl": 0.99,
+   "title": "Quantum cryptography without Bell’s theorem"
+  },
+  {
+   "paper_id": "W4214950786",
+   "year": 1992,
+   "cited_by_count": 1558,
+   "C_5_pctl": 1.0,
+   "title": "Experimental quantum cryptography"
+  },
+  {
+   "paper_id": "W2006290558",
+   "year": 1997,
+   "cited_by_count": 1442,
+   "C_5_pctl": 1.0,
+   "title": "Strengths and Weaknesses of Quantum Computing"
+  },
+  {
+   "paper_id": "W2154300278",
+   "year": 1995,
+   "cited_by_count": 1379,
+   "C_5_pctl": 1.0,
+   "title": "Generalized privacy amplification"
+  },
+  {
+   "paper_id": "W1959936891",
+   "year": 2000,
+   "cited_by_count": 1162,
+   "C_5_pctl": 1.0,
+   "title": "Limitations on Practical Quantum Cryptography"
+  },
+  {
+   "paper_id": "W2007661134",
+   "year": 1988,
+   "cited_by_count": 867,
+   "C_5_pctl": 0.97,
+   "title": "Privacy Amplification by Public Discussion"
+  },
+  {
+   "paper_id": "W3217033513",
+   "year": 2000,
+   "cited_by_count": 545,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Amplitude Amplification and Estimation"
+  },
+  {
+   "paper_id": "W2108732680",
+   "year": 2006,
+   "cited_by_count": 397,
+   "C_5_pctl": 1.0,
+   "title": "Limit on Nonlocality in Any World in Which Communication Complexity Is Not Trivial"
+  },
+  {
+   "paper_id": "W4244685374",
+   "year": 1992,
+   "cited_by_count": 310,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Cryptography"
+  },
+  {
+   "paper_id": "W2078345446",
+   "year": 1999,
+   "cited_by_count": 243,
+   "C_5_pctl": 0.99,
+   "title": "Cost of Exactly Simulating Quantum Entanglement with Classical Communication"
+  },
+  {
+   "paper_id": "W2031056773",
+   "year": 2012,
+   "cited_by_count": 208,
+   "C_5_pctl": 0.98,
+   "title": "Quantum speed-up for unsupervised learning"
+  },
+  {
+   "paper_id": "W1993646690",
+   "year": 1998,
+   "cited_by_count": 174,
+   "C_5_pctl": 0.98,
+   "title": "Teleportation as a quantum computation"
+  },
+  {
+   "paper_id": "W2079749988",
+   "year": 1989,
+   "cited_by_count": 165,
+   "C_5_pctl": 0.9,
+   "title": "Experimental quantum cryptography: the dawn of a new era for quantum cryptography: the experimental prototype is working]"
+  },
+  {
+   "paper_id": "W2153708829",
+   "year": 1986,
+   "cited_by_count": 154,
+   "C_5_pctl": 0.91,
+   "title": "Information theoretic reductions among disclosure problems"
+  },
+  {
+   "paper_id": "W2154839628",
+   "year": 2002,
+   "cited_by_count": 152,
+   "C_5_pctl": 0.96,
+   "title": "A quantum bit commitment scheme provably unbreakable by both parties"
+  },
+  {
+   "paper_id": "W1793119275",
+   "year": 2003,
+   "cited_by_count": 134,
+   "C_5_pctl": 0.97,
+   "title": "Quantum Communication Complexity"
+  },
+  {
+   "paper_id": "W2109371739",
+   "year": 1997,
+   "cited_by_count": 131,
+   "C_5_pctl": 0.92,
+   "title": "Quantum cryptanalysis of hash and claw-free functions"
+  },
+  {
+   "paper_id": "W2020915469",
+   "year": 2008,
+   "cited_by_count": 122,
+   "C_5_pctl": 0.98,
+   "title": "Alambic: a privacy-preserving recommender system for electronic commerce"
+  },
+  {
+   "paper_id": "W2099188893",
+   "year": 1986,
+   "cited_by_count": 106,
+   "C_5_pctl": 0.99,
+   "title": "Non-transitive transfer of confidence: A perfect zero-knowledge interactive protocol for SAT and beyond"
+  },
+  {
+   "paper_id": "W2032897227",
+   "year": 2004,
+   "cited_by_count": 106,
+   "C_5_pctl": 0.94,
+   "title": "Quantum computing without entanglement"
+  },
+  {
+   "paper_id": "W2147435884",
+   "year": 2007,
+   "cited_by_count": 104,
+   "C_5_pctl": 0.84,
+   "title": "Quantum clustering algorithms"
+  },
+  {
+   "paper_id": "W2079429651",
+   "year": 1994,
+   "cited_by_count": 99,
+   "C_5_pctl": 0.98,
+   "title": "Oracle Quantum Computing"
+  },
+  {
+   "paper_id": "W2052187872",
+   "year": 1991,
+   "cited_by_count": 98,
+   "C_5_pctl": 0.97,
+   "title": "Secure implementation of identification systems"
+  },
+  {
+   "paper_id": "W2123789695",
+   "year": 1996,
+   "cited_by_count": 96,
+   "C_5_pctl": 0.96,
+   "title": "Oblivious transfers and intersecting codes"
+  },
+  {
+   "paper_id": "W2079092820",
+   "year": 1997,
+   "cited_by_count": 93,
+   "C_5_pctl": 0.98,
+   "title": "Searching a Quantum Phone Book"
+  },
+  {
+   "paper_id": "W2156313614",
+   "year": 2003,
+   "cited_by_count": 74,
+   "C_5_pctl": 0.86,
+   "title": "The quantum challenge to structural complexity theory"
+  },
+  {
+   "paper_id": "W2042830710",
+   "year": 2005,
+   "cited_by_count": 68,
+   "C_5_pctl": 0.93,
+   "title": "Is information the key?"
+  },
+  {
+   "paper_id": "W1985684781",
+   "year": 1997,
+   "cited_by_count": 64,
+   "C_5_pctl": 0.78,
+   "title": "Purification of Noisy Entanglement and Faithful Teleportation via Noisy Channels[Phys. Rev. Lett. 76, 722 (1996)]"
+  },
+  {
+   "paper_id": "W2033966971",
+   "year": 2003,
+   "cited_by_count": 60,
+   "C_5_pctl": 0.95,
+   "title": "Oblivious Transfers and Privacy Amplification"
+  },
+  {
+   "paper_id": "W2577451181",
+   "year": 1998,
+   "cited_by_count": 57,
+   "C_5_pctl": 0.87,
+   "title": "Quantum computing"
+  },
+  {
+   "paper_id": "W2031638352",
+   "year": 1991,
+   "cited_by_count": 56,
+   "C_5_pctl": 0.93,
+   "title": "Constant-round perfect zero-knowledge computationally convincing protocols"
+  },
+  {
+   "paper_id": "W1993066553",
+   "year": 1996,
+   "cited_by_count": 54,
+   "C_5_pctl": 0.95,
+   "title": "25 years of quantum cryptography"
+  },
+  {
+   "paper_id": "W2021276554",
+   "year": 2011,
+   "cited_by_count": 53,
+   "C_5_pctl": 0.96,
+   "title": "Experimental loss-tolerant quantum coin flipping"
+  },
+  {
+   "paper_id": "W147114273",
+   "year": 1997,
+   "cited_by_count": 51,
+   "C_5_pctl": 0.83,
+   "title": "Fundamentos de algoritmia"
+  },
+  {
+   "paper_id": "W2088141763",
+   "year": 2003,
+   "cited_by_count": 51,
+   "C_5_pctl": 0.76,
+   "title": "Multiuser quantum key distribution using wavelength division multiplexing"
+  },
+  {
+   "paper_id": "W2046221191",
+   "year": 2005,
+   "cited_by_count": 43,
+   "C_5_pctl": 0.98,
+   "title": "A robust modeling and design approach for dynamically loaded and digitally linearized Doherty amplifiers"
+  },
+  {
+   "paper_id": "W1995724463",
+   "year": 2009,
+   "cited_by_count": 41,
+   "C_5_pctl": 0.87,
+   "title": "Entanglement cost of nonlocal measurements"
+  },
+  {
+   "paper_id": "W3125254270",
+   "year": 2014,
+   "cited_by_count": 40,
+   "C_5_pctl": 0.96,
+   "title": "Quantum Cryptography II: How to re-use a one-time pad safely even if P=NP"
+  },
+  {
+   "paper_id": "W2090356336",
+   "year": 2006,
+   "cited_by_count": 40,
+   "C_5_pctl": 0.92,
+   "title": "Privacy-preserving demographic filtering"
+  },
+  {
+   "paper_id": "W2125277560",
+   "year": 2008,
+   "cited_by_count": 39,
+   "C_5_pctl": 0.95,
+   "title": "Experimental Demonstration of a Hybrid Privacy-Preserving Recommender System"
+  },
+  {
+   "paper_id": "W2117481555",
+   "year": 2009,
+   "cited_by_count": 34,
+   "C_5_pctl": 0.95,
+   "title": "Fair loss-tolerant quantum coin flipping"
+  },
+  {
+   "paper_id": "W1547393723",
+   "year": 2005,
+   "cited_by_count": 34,
+   "C_5_pctl": 0.92,
+   "title": "Recasting Mermin's multi-player game into the framework of pseudo-telepathy"
+  },
+  {
+   "paper_id": "W2009562587",
+   "year": 1987,
+   "cited_by_count": 34,
+   "C_5_pctl": 0.86,
+   "title": "Quantum public key distribution reinvented"
+  },
+  {
+   "paper_id": "W2294439931",
+   "year": 1983,
+   "cited_by_count": 31,
+   "C_5_pctl": 0.9,
+   "title": "Relativized cryptography"
+  },
+  {
+   "paper_id": "W2063513145",
+   "year": 1994,
+   "cited_by_count": 31,
+   "C_5_pctl": 0.83,
+   "title": "Reduction of Quantum Entropy by Reversible Extraction of Classical Information"
+  },
+  {
+   "paper_id": "W2118909328",
+   "year": 2014,
+   "cited_by_count": 30,
+   "C_5_pctl": 0.85,
+   "title": "Experimental heat-bath cooling of spins"
+  },
+  {
+   "paper_id": "W1612232219",
+   "year": 1997,
+   "cited_by_count": 28,
+   "C_5_pctl": 0.84,
+   "title": "A brief review on the impossibility of quantum bit commitment"
+  },
+  {
+   "paper_id": "W2028429158",
+   "year": 2008,
+   "cited_by_count": 25,
+   "C_5_pctl": 0.94,
+   "title": "Quantum Merkle Puzzles"
+  },
+  {
+   "paper_id": "W2601248643",
+   "year": 1997,
+   "cited_by_count": 23,
+   "C_5_pctl": 0.86,
+   "title": "Strengths and Weaknesses of Quantum Computing"
+  },
+  {
+   "paper_id": "W2119321147",
+   "year": 2004,
+   "cited_by_count": 23,
+   "C_5_pctl": 0.85,
+   "title": "Quantum communication complexity: a survey"
+  },
+  {
+   "paper_id": "W2084821384",
+   "year": 2004,
+   "cited_by_count": 21,
+   "C_5_pctl": 0.88,
+   "title": "TelePOVM—A generalized quantum teleportation scheme"
+  },
+  {
+   "paper_id": "W1986870665",
+   "year": 2014,
+   "cited_by_count": 20,
+   "C_5_pctl": 0.8,
+   "title": "Prospects and limitations of algorithmic cooling"
+  },
+  {
+   "paper_id": "W1906651570",
+   "year": 2005,
+   "cited_by_count": 19,
+   "C_5_pctl": 0.67,
+   "title": "Oracle Quantum Computing"
+  },
+  {
+   "paper_id": "W2165832438",
+   "year": 2008,
+   "cited_by_count": 17,
+   "C_5_pctl": 0.92,
+   "title": "New Time-Domain Voltage and Current Waveform Measurement Setup for Power Amplifier Characterization and Optimization"
+  },
+  {
+   "paper_id": "W2062136577",
+   "year": 1994,
+   "cited_by_count": 17,
+   "C_5_pctl": 0.83,
+   "title": "Quantum computing"
+  }
+ ]
+}

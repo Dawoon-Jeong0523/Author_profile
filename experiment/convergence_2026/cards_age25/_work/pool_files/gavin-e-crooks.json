@@ -1,0 +1,518 @@
+{
+ "person": "Gavin E. Crooks",
+ "profile": "A5056143270",
+ "ids": [
+  "A5056143270"
+ ],
+ "options": [
+  "for the discovery of fluctuation theorems and exact nonequilibrium work relations that extend thermodynamics to small systems far from equilibrium — Christopher Jarzynski, Denis J. Evans, Gavin E. Crooks"
+ ],
+ "birth_year": 1970,
+ "cutoff_year": 1995,
+ "works": [
+  {
+   "paper_id": "W2158266834",
+   "year": 2004,
+   "cited_by_count": 12591,
+   "title": "WebLogo: A Sequence Logo Generator: Figure 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021820673",
+   "year": 1999,
+   "cited_by_count": 2644,
+   "title": "Entropy production fluctuation theorem and the nonequilibrium work relation for free energy differences",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1482044830",
+   "year": 1998,
+   "cited_by_count": 1006,
+   "title": "Nonequilibrium Measurements of Free Energy Differences for Microscopically Reversible Markovian Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035078255",
+   "year": 2000,
+   "cited_by_count": 948,
+   "title": "Path-ensemble averages in systems driven far from equilibrium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047676282",
+   "year": 2007,
+   "cited_by_count": 396,
+   "title": "Measuring Thermodynamic Length",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971124985",
+   "year": 2012,
+   "cited_by_count": 339,
+   "title": "Thermodynamic Metrics and Optimal Paths",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3023958910",
+   "year": 2009,
+   "cited_by_count": 335,
+   "title": "Self-Organization of the Escherichia coli Chemotaxis Network Imaged with Super-Resolution Light Microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014245367",
+   "year": 2014,
+   "cited_by_count": 244,
+   "title": "Scaling laws governing stochastic growth and division of single bacterial cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1776857128",
+   "year": 2012,
+   "cited_by_count": 242,
+   "title": "Thermodynamics of Prediction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004388910",
+   "year": 2004,
+   "cited_by_count": 237,
+   "title": "Experimental test of Hatano and Sasa's nonequilibrium steady-state equality",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1564128088",
+   "year": 2012,
+   "cited_by_count": 136,
+   "title": "Geometry of thermodynamic control",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981625822",
+   "year": 2010,
+   "cited_by_count": 125,
+   "title": "Self-Organization of the Escherichia Coli Chemotaxis Network Imaged with Super-Resolution Light Microscopy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073838104",
+   "year": 2008,
+   "cited_by_count": 124,
+   "title": "Quantum operation time reversal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002507860",
+   "year": 2011,
+   "cited_by_count": 119,
+   "title": "Nonequilibrium candidate Monte Carlo is an efficient tool for equilibrium simulation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1568622093",
+   "year": 2008,
+   "cited_by_count": 108,
+   "title": "Length of Time’s Arrow",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978310005",
+   "year": 2001,
+   "cited_by_count": 91,
+   "title": "Efficient transition path sampling for nonequilibrium stochastic dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058764230",
+   "year": 2014,
+   "cited_by_count": 81,
+   "title": "Universality in Stochastic Exponential Growth",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137329336",
+   "year": 2004,
+   "cited_by_count": 80,
+   "title": "Protein secondary structure: entropy, correlations and prediction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3104430737",
+   "year": 2008,
+   "cited_by_count": 79,
+   "title": "On the Jarzynski relation for dissipative quantum \\ndynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155680035",
+   "year": 2015,
+   "cited_by_count": 74,
+   "title": "Optimal control in nonequilibrium systems: Dynamic Riemannian geometry of the Ising model",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000397007",
+   "year": 2007,
+   "cited_by_count": 73,
+   "title": "Work distribution for the adiabatic compression of a dilute and interacting classical gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2513966912",
+   "year": 2017,
+   "cited_by_count": 73,
+   "title": "Geometric approach to optimal nonequilibrium control: Minimizing dissipation in nanomagnetic spin systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073251598",
+   "year": 2007,
+   "cited_by_count": 67,
+   "title": "Beyond Boltzmann-Gibbs statistics: Maximum entropy hyperensembles out of equilibrium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106444345",
+   "year": 2008,
+   "cited_by_count": 65,
+   "title": "Bayesian estimates of free energies from nonequilibrium work data in the presence of instrument noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992601434",
+   "year": 2014,
+   "cited_by_count": 63,
+   "title": "Time Step Rescaling Recovers Continuous-Time Dynamical Properties for Discrete-Time Langevin Integration of Nonequilibrium Systems",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2343036585",
+   "year": 2016,
+   "cited_by_count": 59,
+   "title": "Near-optimal protocols in complex nonequilibrium transformations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2514184689",
+   "year": 2016,
+   "cited_by_count": 58,
+   "title": "Thermodynamic geometry of minimum-dissipation driven barrier crossing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041830755",
+   "year": 1997,
+   "cited_by_count": 53,
+   "title": "Gaussian statistics of the hard-sphere fluid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091204092",
+   "year": 2012,
+   "cited_by_count": 53,
+   "title": "Near-Equilibrium Measurements of Nonequilibrium Free Energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044487233",
+   "year": 2009,
+   "cited_by_count": 52,
+   "title": "Far-from-equilibrium measurements of thermodynamic length",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2950438613",
+   "year": 2018,
+   "cited_by_count": 50,
+   "title": "Quantifying Configuration-Sampling Error in Langevin Simulations of Complex Molecular Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121798798",
+   "year": 1995,
+   "cited_by_count": 47,
+   "title": "Comparison of hydrolysis and esterification behavior of Humicola lanuginosa and Rhizomucor miehei lipases in AOT‐stabilized water‐in‐oil microemulsions: I. Effect of pH and water content on reaction kinetics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114568928",
+   "year": 2004,
+   "cited_by_count": 40,
+   "title": "Measurements of protein sequence–structure correlations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171280596",
+   "year": 2004,
+   "cited_by_count": 34,
+   "title": "A generalized affine gap model significantly improves protein sequence alignment accuracy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008327242",
+   "year": 2011,
+   "cited_by_count": 27,
+   "title": "On thermodynamic and microscopic reversibility",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2561300642",
+   "year": 2016,
+   "cited_by_count": 27,
+   "title": "Marginal and conditional second laws of thermodynamics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116377237",
+   "year": 2005,
+   "cited_by_count": 26,
+   "title": "Statistical evaluation of pairwise protein sequence comparison with the Bayesian bootstrap",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133571659",
+   "year": 2004,
+   "cited_by_count": 26,
+   "title": "An alternative model of amino acid replacement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124659925",
+   "year": 1995,
+   "cited_by_count": 25,
+   "title": "Comparison of hydrolysis and esterification behavior of Humicola lanuginosa and Rhizomucor miehei lipases in AOT‐stabilized water‐in‐oil microemulsions: II. Effect of temperature on reaction kinetics and general considerations of stability and productivity",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2267372867",
+   "year": 2011,
+   "cited_by_count": 25,
+   "title": "Measures of trajectory ensemble disparity in nonequilibrium statistical dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111886575",
+   "year": 1999,
+   "cited_by_count": 24,
+   "title": "Mesostructure of polymer collapse and fractal smoothing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109991606",
+   "year": 2013,
+   "cited_by_count": 22,
+   "title": "Excursions in Statistical Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048591269",
+   "year": 2009,
+   "cited_by_count": 18,
+   "title": "Comment regarding “On the Crooks fluctuation theorem and the Jarzynski equality” [J. Chem. Phys. 129, 091101 (2008)] and “Nonequilibrium fluctuation-dissipation theorem of Brownian dynamics” [J. Chem. Phys. 129, 144113 (2008)]",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2163694519",
+   "year": 2005,
+   "cited_by_count": 18,
+   "title": "Pairwise alignment incorporating dipeptide covariation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1567478558",
+   "year": 2006,
+   "cited_by_count": 12,
+   "title": "A high level interface to SCOP and ASTRAL implemented in Python",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006014639",
+   "year": 2001,
+   "cited_by_count": 10,
+   "title": "Cellular automata for polymer simulation with application to polymer melts and polymer collapse including implications for protein folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2784207648",
+   "year": 2018,
+   "cited_by_count": 4,
+   "title": "QAOA Performance Benchmarks using Max-Cut",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037479167",
+   "year": 2014,
+   "cited_by_count": 2,
+   "title": "Numerical Langevin Simulations: Equilibrium Dynamics and Nonequilibrium Thermodynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2197873434",
+   "year": 2006,
+   "cited_by_count": 2,
+   "title": "On the work distribution for the adiabatic compression of a dilute classical gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2604646379",
+   "year": 2011,
+   "cited_by_count": 1,
+   "title": "Nonequilibrium candidate Monte Carlo: A new tool for equilibrium simulation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2745014616",
+   "year": 2013,
+   "cited_by_count": 1,
+   "title": "Geometry of thermodynamic control",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1489639875",
+   "year": 2008,
+   "cited_by_count": 0,
+   "title": "On the Jarzynski relation for dissipative quantum dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060210600",
+   "year": 2010,
+   "cited_by_count": 0,
+   "title": "Thermodynamic Efficiency Out of Equilibrium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W225287851",
+   "year": 2009,
+   "cited_by_count": 0,
+   "title": "Quantum Operation Time Reversal - eScholarship",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2308037033",
+   "year": 2006,
+   "cited_by_count": 0,
+   "title": "Beyond Boltzmann-Gibbs statistics: Maximum entropy hyperensembles out-of-equilibrium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2606018401",
+   "year": 2008,
+   "cited_by_count": 0,
+   "title": "Far-from-Equilibrium Measurements of Thermodynamic Length",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2610886315",
+   "year": 2017,
+   "cited_by_count": 0,
+   "title": "Fluctuation theorems, optimal control, and information engines",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2962814113",
+   "year": 2009,
+   "cited_by_count": 0,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963121067",
+   "year": 2012,
+   "cited_by_count": 0,
+   "title": "The thermodynamics of prediction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963509758",
+   "year": 2016,
+   "cited_by_count": 0,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3021820869",
+   "year": 2011,
+   "cited_by_count": 0,
+   "title": "Thermodynamic Efficiency Out of Equilibrium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4298886634",
+   "year": 2003,
+   "cited_by_count": 0,
+   "title": "WebLogo",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4299849139",
+   "year": 2015,
+   "cited_by_count": 0,
+   "title": "Near-equilibrium measurements of nonequilibrium free energy",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

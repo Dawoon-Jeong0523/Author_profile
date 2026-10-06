@@ -1,0 +1,654 @@
+{
+ "person": "Stéphane Mallat",
+ "profile": "A5065086376",
+ "ids": [
+  "A5065086376"
+ ],
+ "options": [
+  "for the development of wavelet theory and multiresolution signal analysis — Yves Meyer, Stéphane Mallat, Ingrid Daubechies"
+ ],
+ "birth_year": 1962,
+ "cutoff_year": 1987,
+ "works": [
+  {
+   "paper_id": "W2132984323",
+   "year": 1989,
+   "cited_by_count": 21480,
+   "title": "A theory for multiresolution signal decomposition: the wavelet representation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151693816",
+   "year": 1993,
+   "cited_by_count": 9015,
+   "title": "Matching pursuits with time-frequency dictionaries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152328854",
+   "year": 1992,
+   "cited_by_count": 3844,
+   "title": "Singularity detection and processing with wavelets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004217976",
+   "year": 1992,
+   "cited_by_count": 3212,
+   "title": "Characterization of signals from multiscale edges",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W228380312",
+   "year": 2008,
+   "cited_by_count": 2759,
+   "title": "A Wavelet Tour of Signal Processing : The Sparse Way",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980149518",
+   "year": 1989,
+   "cited_by_count": 2118,
+   "title": "Multiresolution approximations and wavelet orthonormal bases of 𝐿²(𝑅)",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166982406",
+   "year": 1989,
+   "cited_by_count": 1955,
+   "title": "Multifrequency channel decompositions of images and wavelet models",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072072671",
+   "year": 2013,
+   "cited_by_count": 1584,
+   "title": "Invariant Scattering Convolution Networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021302824",
+   "year": 1997,
+   "cited_by_count": 1129,
+   "title": "Adaptive greedy approximations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994906459",
+   "year": 2012,
+   "cited_by_count": 1063,
+   "title": "Group Invariant Scattering",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4238865235",
+   "year": 1989,
+   "cited_by_count": 957,
+   "title": "Multiresolution Approximations and Wavelet Orthonormal Bases of L 2 (R)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145263492",
+   "year": 2005,
+   "cited_by_count": 844,
+   "title": "Sparse geometric image representations with bandelets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105542305",
+   "year": 1991,
+   "cited_by_count": 698,
+   "title": "Zero-crossings of a wavelet transform",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093231248",
+   "year": 2014,
+   "cited_by_count": 681,
+   "title": "Deep Scattering Spectrum",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2261689926",
+   "year": 2016,
+   "cited_by_count": 666,
+   "title": "Understanding deep convolutional networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145080587",
+   "year": 2013,
+   "cited_by_count": 593,
+   "title": "Phase recovery, MaxCut and complex semidefinite programming",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109320267",
+   "year": 2011,
+   "cited_by_count": 557,
+   "title": "Solving Inverse Problems With Piecewise Linear Estimators: From Gaussian Mixture Models to Structured Sparsity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167383966",
+   "year": 2013,
+   "cited_by_count": 422,
+   "title": "Rotation, Scaling and Deformation Invariant Scattering for Texture Discrimination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989009613",
+   "year": 1994,
+   "cited_by_count": 359,
+   "title": "Adaptive time-frequency decompositions",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2972913944",
+   "year": 2020,
+   "cited_by_count": 335,
+   "title": "The Quijote Simulations",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2128848833",
+   "year": 1996,
+   "cited_by_count": 314,
+   "title": "Wavelets for a vision",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967483773",
+   "year": 1998,
+   "cited_by_count": 289,
+   "title": "Analysis of low bit rate image transform coding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103106600",
+   "year": 2010,
+   "cited_by_count": 288,
+   "title": "Super-Resolution With Sparse Mixing Estimators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024738905",
+   "year": 2005,
+   "cited_by_count": 211,
+   "title": "Bandelet Image Approximation and Compression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149287117",
+   "year": 1999,
+   "cited_by_count": 207,
+   "title": "On denoising and best signal representation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983461984",
+   "year": 1998,
+   "cited_by_count": 204,
+   "title": "Adaptive covariance estimation of locally stationary processes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W37391854",
+   "year": 1992,
+   "cited_by_count": 173,
+   "title": "A wavelet based space-time adaptive numerical method for partial differential equations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115388399",
+   "year": 2008,
+   "cited_by_count": 171,
+   "title": "Audio Denoising by Time-Frequency Block Thresholding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024691997",
+   "year": 2005,
+   "cited_by_count": 169,
+   "title": "Surface compression with geometric bandelets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1932922755",
+   "year": 2015,
+   "cited_by_count": 144,
+   "title": "Deep roto-translation scattering for object classification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986580369",
+   "year": 2007,
+   "cited_by_count": 137,
+   "title": "A review of Bandlet methods for geometrical image representation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003289302",
+   "year": 2011,
+   "cited_by_count": 126,
+   "title": "Classification with scattering operators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2404938947",
+   "year": 2011,
+   "cited_by_count": 114,
+   "title": "Multiscale Scattering For Audio Classification.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111901314",
+   "year": 2002,
+   "cited_by_count": 113,
+   "title": "Image compression with geometrical wavelets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161865324",
+   "year": 2002,
+   "cited_by_count": 107,
+   "title": "Matching pursuit of images",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098439395",
+   "year": 2002,
+   "cited_by_count": 101,
+   "title": "The texture gradient equation for recovering shape from texture",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4213316114",
+   "year": 2008,
+   "cited_by_count": 99,
+   "title": "Geometrical grouplets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054396396",
+   "year": 1998,
+   "cited_by_count": 98,
+   "title": "High Resolution Pursuit for Feature Extraction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064702003",
+   "year": 2008,
+   "cited_by_count": 87,
+   "title": "Orthogonal bandelet bases for geometric images approximation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2406696299",
+   "year": 2017,
+   "cited_by_count": 84,
+   "title": "Wavelet Scattering Regression of Quantum Chemical Energies",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W3035201698",
+   "year": 2020,
+   "cited_by_count": 83,
+   "title": "New interpretable statistics for large-scale structure analysis and generation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983700440",
+   "year": 2010,
+   "cited_by_count": 80,
+   "title": "Image modeling and enhancement via structured sparse model selection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2798718650",
+   "year": 2018,
+   "cited_by_count": 78,
+   "title": "Solid harmonic wavelet scattering for predictions of molecule properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W114250020",
+   "year": 1988,
+   "cited_by_count": 75,
+   "title": "Multiresolution representations and wavelets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059511347",
+   "year": 2014,
+   "cited_by_count": 75,
+   "title": "Scattering Transform for Intrapartum Fetal Heart Rate Variability Fractal Analysis: A Case-Control Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034584585",
+   "year": 2003,
+   "cited_by_count": 72,
+   "title": "Thresholding estimators for linear inverse problems and deconvolutions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009407763",
+   "year": 2015,
+   "cited_by_count": 68,
+   "title": "Phase Retrieval for the Cauchy Wavelet Transform",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2403175639",
+   "year": 2015,
+   "cited_by_count": 67,
+   "title": "Manifold Learning for Latent Variable Inference in Dynamical Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2945837706",
+   "year": 2019,
+   "cited_by_count": 65,
+   "title": "Joint Time–Frequency Scattering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2959195885",
+   "year": 2019,
+   "cited_by_count": 63,
+   "title": "The RWST, a comprehensive statistical description of the non-Gaussian structures in the ISM",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2128424195",
+   "year": 2015,
+   "cited_by_count": 62,
+   "title": "Intermittent process analysis with scattering moments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105282667",
+   "year": 2003,
+   "cited_by_count": 57,
+   "title": "Deconvolution by thresholding in mirror wavelet bases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045831651",
+   "year": 1994,
+   "cited_by_count": 56,
+   "title": "Adaptive time-frequency decompositions with matching pursuit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1910610070",
+   "year": 2002,
+   "cited_by_count": 52,
+   "title": "Analysis of sound signals with high resolution matching pursuit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1656539523",
+   "year": 1998,
+   "cited_by_count": 50,
+   "title": "Estimating Covariances of Locally Stationary Processes : Rates of Convergence of Best Basis Methods",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4213092547",
+   "year": 2000,
+   "cited_by_count": 49,
+   "title": "Wavelet Foveation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2783297875",
+   "year": 2018,
+   "cited_by_count": 45,
+   "title": "Multiscale sparse microcanonical models",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017405736",
+   "year": 2003,
+   "cited_by_count": 44,
+   "title": "Estimating deformations of stationary processes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2132085698",
+   "year": 2003,
+   "cited_by_count": 40,
+   "title": "Adaptive time-frequency decomposition with matching pursuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094980521",
+   "year": 1994,
+   "cited_by_count": 34,
+   "title": "Characterization of Self-Similar Multifractals with Wavelet Maxima",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2954241485",
+   "year": 2019,
+   "cited_by_count": 34,
+   "title": "Phase harmonic correlations and convolutional neural networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2475576381",
+   "year": 2002,
+   "cited_by_count": 30,
+   "title": "Matching pursuit of images",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2752306073",
+   "year": 2017,
+   "cited_by_count": 30,
+   "title": "Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D Electronic Densities",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123642576",
+   "year": 2002,
+   "cited_by_count": 29,
+   "title": "Signal characterization from multiscale edges",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159333554",
+   "year": 2013,
+   "cited_by_count": 25,
+   "title": "Representing environmental sounds using the separable scattering transform",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056994213",
+   "year": 2001,
+   "cited_by_count": 24,
+   "title": "APPLIED MATHEMATICS MEETS SIGNAL PROCESSING",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2230873857",
+   "year": 2016,
+   "cited_by_count": 22,
+   "title": "Deep Haar scattering networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1895365337",
+   "year": 2002,
+   "cited_by_count": 21,
+   "title": "Compact image representation from multiscale edges",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1947677053",
+   "year": 2002,
+   "cited_by_count": 20,
+   "title": "Estimating covariances of locally stationary processes: consistency of best basis methods",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028925969",
+   "year": 2007,
+   "cited_by_count": 19,
+   "title": "Audio Signal Denoising with Complex Wavelets and Adaptive Block Attenuation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3024117407",
+   "year": 1987,
+   "cited_by_count": 19,
+   "title": "An efficient image representation for multiscale analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3035935741",
+   "year": 2020,
+   "cited_by_count": 19,
+   "title": "Machine learning surrogate models for prediction of point defect vibrational entropy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071419894",
+   "year": 1993,
+   "cited_by_count": 18,
+   "title": "Adaptive time-frequency transform",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120207502",
+   "year": 2003,
+   "cited_by_count": 18,
+   "title": "Geometrical image compression with bandelets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2135134637",
+   "year": 1991,
+   "cited_by_count": 18,
+   "title": "Compact image coding from edges with wavelets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151338530",
+   "year": 2002,
+   "cited_by_count": 18,
+   "title": "Image deconvolution in mirror wavelet bases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170762075",
+   "year": 1999,
+   "cited_by_count": 17,
+   "title": "Silhouette recognition using high-resolution pursuit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142933548",
+   "year": 2003,
+   "cited_by_count": 16,
+   "title": "Locally stationary covariance and signal estimation with macrotiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2282495519",
+   "year": 2015,
+   "cited_by_count": 16,
+   "title": "Rigid Motion Model for Audio Source Separation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040029082",
+   "year": 2003,
+   "cited_by_count": 15,
+   "title": "Foveal detection and approximation for singularities",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

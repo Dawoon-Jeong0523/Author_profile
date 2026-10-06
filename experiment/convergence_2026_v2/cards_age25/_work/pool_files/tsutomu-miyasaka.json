@@ -1,0 +1,656 @@
+{
+ "person": "Tsutomu Miyasaka",
+ "profile": "A5030322278",
+ "ids": [
+  "A5030322278"
+ ],
+ "options": [
+  "for the discovery and development of solid-state perovskite solar cells — Henry J. Snaith, Tsutomu Miyasaka, Nam-Gyu Park",
+  "for the development of dye-sensitized and perovskite solar cells — Michael Grätzel, Henry J. Snaith, Tsutomu Miyasaka",
+  "for the development of perovskite solar cells — Tsutomu Miyasaka, Nam-Gyu Park, Henry Snaith"
+ ],
+ "birth_year": 1953,
+ "cutoff_year": 1978,
+ "works": [
+  {
+   "paper_id": "W2057327293",
+   "year": 2009,
+   "cited_by_count": 23247,
+   "title": "Organometal Halide Perovskites as Visible-Light Sensitizers for Photovoltaic Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965464747",
+   "year": 2012,
+   "cited_by_count": 10402,
+   "title": "Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2919043374",
+   "year": 2019,
+   "cited_by_count": 2858,
+   "title": "Halide Perovskite Photovoltaics: Background, Status, and Future Prospects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065852943",
+   "year": 1997,
+   "cited_by_count": 2561,
+   "title": "Tin-Based Amorphous Oxide: A High-Capacity Lithium-Ion-Storage Material",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2536873010",
+   "year": 2016,
+   "cited_by_count": 1143,
+   "title": "Towards stable and commercially available perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2755092746",
+   "year": 2017,
+   "cited_by_count": 574,
+   "title": "Stabilizing the Efficiency Beyond 20% with a Mixed Cation Perovskite Solar Cell Fabricated in Ambient Air under Controlled Humidity",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3020144358",
+   "year": 2020,
+   "cited_by_count": 498,
+   "title": "Synthesis, optoelectronic properties and applications of halide perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165704697",
+   "year": 2015,
+   "cited_by_count": 357,
+   "title": "Low-temperature SnO 2 -based electron selective contact for efficient and stable perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975777961",
+   "year": 2012,
+   "cited_by_count": 344,
+   "title": "Highly Luminescent Lead Bromide Perovskite Nanoparticles Synthesized with Porous Alumina Media",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2395233036",
+   "year": 2016,
+   "cited_by_count": 311,
+   "title": "Effect of Electron Transporting Layer on Bismuth-Based Lead-Free Perovskite (CH 3 NH 3 ) 3 Bi 2 I 9 for Photovoltaic Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2329493965",
+   "year": 2014,
+   "cited_by_count": 303,
+   "title": "Emergence of Hysteresis and Transient Ferroelectric Response in Organo-Lead Halide Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103691306",
+   "year": 2020,
+   "cited_by_count": 291,
+   "title": "Direct detection of circular polarized light in helical 1D perovskite-based photodiode",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2977911197",
+   "year": 2019,
+   "cited_by_count": 282,
+   "title": "Perovskite Solar Cells: Can We Go Organic‐Free, Lead‐Free, and Dopant‐Free?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2781788123",
+   "year": 2018,
+   "cited_by_count": 274,
+   "title": "Role of spiro-OMeTAD in performance deterioration of perovskite solar cells at high temperature and reuse of the perovskite films to avoid Pb-waste",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994281554",
+   "year": 2004,
+   "cited_by_count": 271,
+   "title": "The photocapacitor: An efficient self-charging capacitor for direct storage of solar energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997772174",
+   "year": 1992,
+   "cited_by_count": 267,
+   "title": "Quantum Conversion and Image Detection by a Bacteriorhodopsin-Based Artificial Photoreceptor",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2337906917",
+   "year": 2016,
+   "cited_by_count": 248,
+   "title": "Stability of solution-processed MAPbI 3 and FAPbI 3 layers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2789916738",
+   "year": 2018,
+   "cited_by_count": 242,
+   "title": "Sulfate‐Assisted Interfacial Engineering for High Yield and Efficiency of Triple Cation Perovskite Solar Cells with Alkali‐Doped TiO2 Electron‐Transporting Layers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2795109893",
+   "year": 2018,
+   "cited_by_count": 234,
+   "title": "Tolerance of Perovskite Solar Cell to High-Energy Particle Irradiations in Space Environment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2892288140",
+   "year": 2018,
+   "cited_by_count": 230,
+   "title": "Stabilization of α-CsPbI3 in Ambient Room Temperature Conditions by Incorporating Eu into CsPbI3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2913184515",
+   "year": 2019,
+   "cited_by_count": 228,
+   "title": "SnO 2 –Ti 3 C 2 MXene electron transport layers for perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991656599",
+   "year": 2004,
+   "cited_by_count": 227,
+   "title": "Low-Temperature Fabrication of Dye-Sensitized Plastic Electrodes by Electrophoretic Preparation of Mesoporous TiO[sub 2] Layers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2513782563",
+   "year": 2015,
+   "cited_by_count": 224,
+   "title": "Perovskite Photovoltaics: Rare Functions of Organo Lead Halide in Solar Cells and Optoelectronic Devices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3128110488",
+   "year": 2021,
+   "cited_by_count": 215,
+   "title": "Chlorophyll Derivative-Sensitized TiO2 Electron Transport Layer for Record Efficiency of Cs2AgBiBr6 Double Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3021907800",
+   "year": 2020,
+   "cited_by_count": 200,
+   "title": "VOC Over 1.4 V for Amorphous Tin-Oxide-Based Dopant-Free CsPbI2Br Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143685718",
+   "year": 2007,
+   "cited_by_count": 194,
+   "title": "Photovoltaic Performance of Plastic Dye-Sensitized Electrodes Prepared by Low-Temperature Binder-Free Coating of Mesoscopic Titania",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2597448655",
+   "year": 2017,
+   "cited_by_count": 193,
+   "title": "Poly(4‐Vinylpyridine)‐Based Interfacial Passivation to Enhance Voltage and Moisture Stability of Lead Halide Perovskite Solar Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102685550",
+   "year": 2005,
+   "cited_by_count": 189,
+   "title": "A high-voltage dye-sensitized photocapacitor of a three-electrode system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2735210535",
+   "year": 2017,
+   "cited_by_count": 189,
+   "title": "Severe Morphological Deformation of Spiro-OMeTAD in (CH3NH3)PbI3 Solar Cells at High Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2974826828",
+   "year": 2019,
+   "cited_by_count": 180,
+   "title": "Surface‐Modified Metallic Ti3C2Tx MXene as Electron Transport Layer for Planar Heterojunction Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980699969",
+   "year": 2015,
+   "cited_by_count": 176,
+   "title": "Atomistic origins of CH3NH3PbI3 degradation to PbI2 in vacuum",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3113215399",
+   "year": 2020,
+   "cited_by_count": 172,
+   "title": "Artemisinin-passivated mixed-cation perovskite films for durable flexible perovskite solar cells with over 21% efficiency",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4252932266",
+   "year": 1978,
+   "cited_by_count": 161,
+   "title": "Light energy conversion with chlorophyll monolayer electrodes. In vitro electrochemical simulation of photosynthetic primary processes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054968139",
+   "year": 2004,
+   "cited_by_count": 155,
+   "title": "Low temperature preparation of mesoporous TiO2 films for efficient dye-sensitized photoelectrode by chemical vapor deposition combined with UV light irradiation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073173414",
+   "year": 1994,
+   "cited_by_count": 153,
+   "title": "Antibody-Mediated Bacteriorhodopsin Orientation for Molecular Device Architectures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2177517854",
+   "year": 2015,
+   "cited_by_count": 139,
+   "title": "Low-temperature-processed ZnO–SnO2 nanocomposite for efficient planar perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2200830888",
+   "year": 2006,
+   "cited_by_count": 133,
+   "title": "Novel Photoelectrochemical Cell with Mesoscopic Electrodes Sensitized by Lead-Halide Compounds (2)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2319266258",
+   "year": 2015,
+   "cited_by_count": 133,
+   "title": "The Interface between FTO and the TiO2 Compact Layer Can Be One of the Origins to Hysteresis in Planar Heterojunction Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2804524881",
+   "year": 2018,
+   "cited_by_count": 129,
+   "title": "Stability and Degradation in Hybrid Perovskites: Is the Glass Half-Empty or Half-Full?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3127071303",
+   "year": 2021,
+   "cited_by_count": 128,
+   "title": "Performance improvement of MXene-based perovskite solar cells upon property transition from metallic to semiconductive by oxidation of Ti 3 C 2 T x in air",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2322570758",
+   "year": 2011,
+   "cited_by_count": 125,
+   "title": "Toward Printable Sensitized Mesoscopic Solar Cells: Light-Harvesting Management with Thin TiO2Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2781654214",
+   "year": 2018,
+   "cited_by_count": 118,
+   "title": "Amorphous Metal Oxide Blocking Layers for Highly Efficient Low-Temperature Brookite TiO2-Based Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093326573",
+   "year": 2002,
+   "cited_by_count": 117,
+   "title": "Efficient Nonsintering Type Dye-sensitized Photocells Based on Electrophoretically Deposited TiO2 Layers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2520663843",
+   "year": 2016,
+   "cited_by_count": 117,
+   "title": "100 °C Thermal Stability of Printable Perovskite Solar Cells Using Porous Carbon Counter Electrodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993477026",
+   "year": 1979,
+   "cited_by_count": 113,
+   "title": "Highly efficient quantum conversion at chlorophyll a–lecithin mixed monolayer coated electrodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3197533184",
+   "year": 2021,
+   "cited_by_count": 111,
+   "title": "Organic Dye/Cs2AgBiBr6 Double Perovskite Heterojunction Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2891540056",
+   "year": 2018,
+   "cited_by_count": 106,
+   "title": "Invalidity of Band-Gap Engineering Concept for Bi 3+ Heterovalent Doping in CsPbBr 3 Halide Perovskite",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086032938",
+   "year": 2007,
+   "cited_by_count": 102,
+   "title": "Highly Efficient Plastic Dye-sensitized Photoelectrodes Prepared by Low-temperature Binder-free Coating of Mesoscopic Titania Pastes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066736953",
+   "year": 2009,
+   "cited_by_count": 101,
+   "title": "Highly porous PProDOT-Et2 film as counter electrode for plastic dye-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2757154402",
+   "year": 2017,
+   "cited_by_count": 101,
+   "title": "Lead-free perovskite solar cells using Sb and Bi-based A3B2X9 and A3BX6 crystals with normal and inverse cell structures",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1788111915",
+   "year": 2015,
+   "cited_by_count": 98,
+   "title": "Efficient perovskite solar cells fabricated using an aqueous lead nitrate precursor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2583423525",
+   "year": 2017,
+   "cited_by_count": 98,
+   "title": "Photovoltaic enhancement of bismuth halide hybrid perovskite by N-methyl pyrrolidone-assisted morphology conversion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982163392",
+   "year": 2006,
+   "cited_by_count": 97,
+   "title": "Conductive polymer–carbon–imidazolium composite: a simple means for constructing solid-state dye-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3013732252",
+   "year": 2020,
+   "cited_by_count": 97,
+   "title": "Lead(II) Propionate Additive and a Dopant-Free Polymer Hole Transport Material for CsPbI2Br Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2620580726",
+   "year": 2017,
+   "cited_by_count": 96,
+   "title": "Highly efficient and stable low-temperature processed ZnO solar cells with triple cation perovskite absorber",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2291311957",
+   "year": 2016,
+   "cited_by_count": 94,
+   "title": "The mechanism of toluene-assisted crystallization of organic–inorganic perovskites for highly efficient solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2795987866",
+   "year": 2018,
+   "cited_by_count": 93,
+   "title": "Lead Halide Perovskites in Thin Film Photovoltaics: Background and Perspectives",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3185108109",
+   "year": 2021,
+   "cited_by_count": 93,
+   "title": "Dopant‐Free Polymer HTM‐Based CsPbI2Br Solar Cells with Efficiency Over 17% in Sunlight and 34% in Indoor Light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2330545437",
+   "year": 2013,
+   "cited_by_count": 91,
+   "title": "Efficiency Enhancement of ZnO-Based Dye-Sensitized Solar Cells by Low-Temperature TiCl4 Treatment and Dye Optimization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2507596404",
+   "year": 2016,
+   "cited_by_count": 90,
+   "title": "Role of Metal Oxide Electron‐Transport Layer Modification on the Stability of High Performing Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004639278",
+   "year": 2015,
+   "cited_by_count": 88,
+   "title": "Nb2O5 Blocking Layer for High Open-circuit Voltage Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2529359635",
+   "year": 2016,
+   "cited_by_count": 87,
+   "title": "Efficiency Enhancement of Hybrid Perovskite Solar Cells with MEH-PPV Hole-Transporting Layers",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2518003104",
+   "year": 2016,
+   "cited_by_count": 86,
+   "title": "Magnesium‐doped Zinc Oxide as Electron Selective Contact Layers for Efficient Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1944857835",
+   "year": 2015,
+   "cited_by_count": 85,
+   "title": "Similar Structural Dynamics for the Degradation of CH3NH3PbI3 in Air and in Vacuum",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061625863",
+   "year": 2013,
+   "cited_by_count": 85,
+   "title": "Highly efficient plastic-based quasi-solid-state dye-sensitized solar cells with light-harvesting mesoporous silica nanoparticles gel-electrolyte",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086257468",
+   "year": 2015,
+   "cited_by_count": 82,
+   "title": "Efficient and Environmentally Stable Perovskite Solar Cells Based on ZnO Electron Collection Layer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098856874",
+   "year": 1993,
+   "cited_by_count": 80,
+   "title": "Image sensing and processing by a bacteriorhodopsin-based artificial photoreceptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2554406109",
+   "year": 2016,
+   "cited_by_count": 79,
+   "title": "Analysis of Sputtering Damage on I–V Curves for Perovskite Solar Cells and Simulation with Reversed Diode Model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014862520",
+   "year": 2009,
+   "cited_by_count": 78,
+   "title": "Efficient and stable plastic dye-sensitized solar cells based on a high light-harvesting ruthenium sensitizer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2344440394",
+   "year": 2016,
+   "cited_by_count": 77,
+   "title": "HC(NH 2 ) 2 PbI 3 as a thermally stable absorber for efficient ZnO-based perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3021684039",
+   "year": 2020,
+   "cited_by_count": 76,
+   "title": "Photoactive Zn‐Chlorophyll Hole Transporter‐Sensitized Lead‐Free Cs2AgBiBr6 Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2315870029",
+   "year": 2015,
+   "cited_by_count": 75,
+   "title": "A Switchable High-Sensitivity Photodetecting and Photovoltaic Device with Perovskite Absorber",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083261491",
+   "year": 2007,
+   "cited_by_count": 73,
+   "title": "Platinum/titanium bilayer deposited on polymer film as efficient counter electrodes for plastic dye-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2260357173",
+   "year": 2015,
+   "cited_by_count": 73,
+   "title": "PbI2-Based Dipping-Controlled Material Conversion for Compact Layer Free Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3157994497",
+   "year": 2021,
+   "cited_by_count": 73,
+   "title": "Ionic Liquid-Assisted MAPbI3 Nanoparticle-Seeded Growth for Efficient and Stable Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984612331",
+   "year": 2005,
+   "cited_by_count": 71,
+   "title": "A solid-state dye-sensitized photovoltaic cell with a poly(N-vinyl-carbazole) hole transporter mediated by an alkali iodide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2599743494",
+   "year": 2017,
+   "cited_by_count": 69,
+   "title": "Formamidine and cesium-based quasi-two-dimensional perovskites as photovoltaic absorbers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2921282564",
+   "year": 2019,
+   "cited_by_count": 69,
+   "title": "Performance enhancement of AgBi 2 I 7 solar cells by modulating a solvent-mediated adduct and tuning remnant BiI 3 in one-step crystallization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117336449",
+   "year": 2008,
+   "cited_by_count": 68,
+   "title": "Improvement in durability of flexible plastic dye-sensitized solar cell modules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2519345677",
+   "year": 2016,
+   "cited_by_count": 68,
+   "title": "Dopant‐Free Zinc Chlorophyll Aggregates as an Efficient Biocompatible Hole Transporter for Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,657 @@
+{
+ "person": "David Klenerman",
+ "profile": "A5042822683",
+ "ids": [
+  "A5042822683"
+ ],
+ "options": [
+  "for the development of massively parallel sequencing-by-synthesis of DNA — Shankar Balasubramanian, David Klenerman",
+  "for the development of chemical methods for the synthesis and massively parallel sequencing of DNA — Shankar Balasubramanian, David Klenerman, Marvin H. Caruthers",
+  "for the development of massively parallel sequencing-by-synthesis of DNA — Shankar Balasubramanian, David Klenerman, Pascal Mayer",
+  "for the development of next-generation DNA sequencing — Shankar Balasubramanian, David Klenerman, Hagan Bayley"
+ ],
+ "birth_year": 1959,
+ "cutoff_year": 1984,
+ "works": [
+  {
+   "paper_id": "W2012016911",
+   "year": 2008,
+   "cited_by_count": 3646,
+   "title": "Accurate whole human genome sequencing using reversible terminator chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2802667264",
+   "year": 2018,
+   "cited_by_count": 901,
+   "title": "FUS Phase Separation Is Modulated by a Molecular Chaperone and Methylation of Arginine Cation-π Interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054868321",
+   "year": 2012,
+   "cited_by_count": 874,
+   "title": "Direct Observation of the Interconversion of Normal and Toxic Forms of α-Synuclein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080923741",
+   "year": 2009,
+   "cited_by_count": 531,
+   "title": "Nanoscale live-cell imaging using hopping probe ion conductance microscopy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152962886",
+   "year": 2015,
+   "cited_by_count": 486,
+   "title": "Structural characterization of toxic oligomers that are kinetically trapped during α-synuclein fibril formation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2805954533",
+   "year": 2018,
+   "cited_by_count": 486,
+   "title": "α-synuclein oligomers interact with ATP synthase and open the permeability transition pore in Parkinson’s disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2927667967",
+   "year": 2019,
+   "cited_by_count": 443,
+   "title": "Different soluble aggregates of Aβ42 can give rise to cellular toxicity through different mechanisms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2176451886",
+   "year": 2015,
+   "cited_by_count": 374,
+   "title": "Alpha-Synuclein Oligomers Interact with Metal Ions to Induce Oxidative Stress and Neuronal Death in Parkinson's Disease",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3043765262",
+   "year": 2020,
+   "cited_by_count": 350,
+   "title": "Single-molecule visualization of DNA G-quadruplex formation in live cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2174811772",
+   "year": 2015,
+   "cited_by_count": 339,
+   "title": "The 2015 super-resolution microscopy roadmap",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2310257575",
+   "year": 2016,
+   "cited_by_count": 323,
+   "title": "Initiation of T cell signaling by CD45 segregation at 'close contacts'",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987315229",
+   "year": 2003,
+   "cited_by_count": 305,
+   "title": "Studies on the structure and dynamics of the human telomeric G quadruplex by single-molecule fluorescence resonance energy transfer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2989595882",
+   "year": 2019,
+   "cited_by_count": 305,
+   "title": "α-Synuclein strains target distinct brain regions and cell types",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142841520",
+   "year": 2011,
+   "cited_by_count": 274,
+   "title": "Multifunctional Nanoprobes for Nanoscale Chemical Imaging and Localized Chemical Delivery at Surfaces and Interfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3018835152",
+   "year": 2020,
+   "cited_by_count": 272,
+   "title": "Alpha synuclein aggregation drives ferroptosis: an interplay of iron, calcium and lipid peroxidation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112232744",
+   "year": 2011,
+   "cited_by_count": 269,
+   "title": "The extracellular chaperone clusterin sequesters oligomeric forms of the amyloid-β1−40 peptide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973829219",
+   "year": 2013,
+   "cited_by_count": 239,
+   "title": "Electrochemical Nanoprobes for Single-Cell Analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153540123",
+   "year": 2006,
+   "cited_by_count": 224,
+   "title": "Imaging Proteins in Membranes of Living Cells by High‐Resolution Scanning Ion Conductance Microscopy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2279088384",
+   "year": 2016,
+   "cited_by_count": 221,
+   "title": "Kinetic model of the aggregation of alpha-synuclein provides insights into prion-like spreading",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137315642",
+   "year": 2012,
+   "cited_by_count": 219,
+   "title": "Topographical and electrochemical nanoscale imaging of living cells using voltage-switching mode scanning electrochemical microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014686336",
+   "year": 2006,
+   "cited_by_count": 214,
+   "title": "A Reversible pH-Driven DNA Nanoswitch Array",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080681593",
+   "year": 2013,
+   "cited_by_count": 212,
+   "title": "Ultrarapid Generation of Femtoliter Microfluidic Droplets for Single-Molecule-Counting Immunoassays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2560511804",
+   "year": 2016,
+   "cited_by_count": 209,
+   "title": "Multi-dimensional super-resolution imaging enables surface hydrophobicity mapping",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021734242",
+   "year": 2015,
+   "cited_by_count": 198,
+   "title": "A mechanistic model of tau amyloid aggregation based on direct observation of oligomers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1675275370",
+   "year": 2015,
+   "cited_by_count": 190,
+   "title": "Aggregated α-synuclein and complex I deficiency: exploration of their relationship in differentiated neurons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994751787",
+   "year": 2012,
+   "cited_by_count": 188,
+   "title": "Ubiquitin chain conformation regulates recognition and activity of interacting proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107036307",
+   "year": 2008,
+   "cited_by_count": 188,
+   "title": "Direct characterization of amyloidogenic oligomers by single-molecule fluorescence",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1485882711",
+   "year": 2001,
+   "cited_by_count": 186,
+   "title": "Direct and sensitive detection of a human virus by rupture event scanning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089101414",
+   "year": 2002,
+   "cited_by_count": 186,
+   "title": "Writing with DNA and Protein Using a Nanopipet for Controlled Delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974618862",
+   "year": 2001,
+   "cited_by_count": 184,
+   "title": "Non-Arrhenius kinetics for the loop closure of a DNA hairpin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2297352149",
+   "year": 2016,
+   "cited_by_count": 181,
+   "title": "Ca2+ is a key factor in α-synuclein-induced neurotoxicity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2342860280",
+   "year": 2016,
+   "cited_by_count": 177,
+   "title": "PSD95 nanoclusters are postsynaptic building blocks in hippocampus circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014249634",
+   "year": 2001,
+   "cited_by_count": 175,
+   "title": "Simultaneous Measurement of Ca2+ and Cellular Dynamics: Combined Scanning Ion Conductance and Optical Microscopy to Study Contracting Cardiac Myocytes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168406910",
+   "year": 2003,
+   "cited_by_count": 175,
+   "title": "Dynamic assembly of surface structures in living cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3024506966",
+   "year": 2020,
+   "cited_by_count": 174,
+   "title": "Kinetic diversity of amyloid oligomers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4235735760",
+   "year": 2018,
+   "cited_by_count": 160,
+   "title": "Picomolar concentrations of oligomeric alpha-synuclein sensitizes TLR4 to play an initiating role in Parkinson’s disease pathogenesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2938383164",
+   "year": 2019,
+   "cited_by_count": 156,
+   "title": "Secondary nucleation and elongation occur at different sites on Alzheimer’s amyloid-β aggregates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002120250",
+   "year": 2003,
+   "cited_by_count": 155,
+   "title": "Ultrasensitive Coincidence Fluorescence Detection of Single DNA Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067511202",
+   "year": 1994,
+   "cited_by_count": 152,
+   "title": "Mechanistic studies of the corrosion inhibitor oleic imidazoline",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034466612",
+   "year": 2005,
+   "cited_by_count": 149,
+   "title": "Fluorescence resonance energy transfer between a quantum dot donor and a dye acceptor attached to DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097908786",
+   "year": 2012,
+   "cited_by_count": 149,
+   "title": "Quantitative single-molecule microscopy reveals that CENP-A Cnp1 deposition occurs during G2 in fission yeast",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090670685",
+   "year": 2004,
+   "cited_by_count": 145,
+   "title": "Frequency and Voltage Dependence of the Dielectrophoretic Trapping of Short Lengths of DNA and dCTP in a Nanopipette",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088084586",
+   "year": 1998,
+   "cited_by_count": 143,
+   "title": "Optically Biased Diffusion of Single Molecules Studied by Confocal Fluorescence Microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2755269227",
+   "year": 2017,
+   "cited_by_count": 142,
+   "title": "Nanopore extended field-effect transistor for selective single-molecule biosensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022716681",
+   "year": 2015,
+   "cited_by_count": 138,
+   "title": "Lipid peroxidation is essential for α‐synuclein‐induced cell death",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042480537",
+   "year": 2008,
+   "cited_by_count": 136,
+   "title": "A Compact Functional Quantum Dot−DNA Conjugate: Preparation, Hybridization, and Specific Label-Free DNA Detection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2782293325",
+   "year": 2018,
+   "cited_by_count": 131,
+   "title": "Hsp70 Inhibits the Nucleation and Elongation of Tau and Sequesters Tau Aggregates with High Affinity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2785581868",
+   "year": 2018,
+   "cited_by_count": 130,
+   "title": "The small heat shock protein Hsp27 binds α-synuclein fibrils, preventing elongation and cytotoxicity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129800859",
+   "year": 2005,
+   "cited_by_count": 126,
+   "title": "Trapping of Proteins under Physiological Conditions in a Nanopipette",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096998496",
+   "year": 2008,
+   "cited_by_count": 124,
+   "title": "Noncontact Measurement of the Local Mechanical Properties of Living Cells Using Pressure Applied via a Pipette",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3208196021",
+   "year": 2021,
+   "cited_by_count": 122,
+   "title": "In vivo rate-determining steps of tau seed accumulation in Alzheimer’s disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2784697675",
+   "year": 2018,
+   "cited_by_count": 121,
+   "title": "Activation of Toll-like receptors nucleates assembly of the MyDDosome signaling hub",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050379197",
+   "year": 2002,
+   "cited_by_count": 119,
+   "title": "Ion Channels in Small Cells and Subcellular Structures Can Be Studied with a Smart Patch-Clamp System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2257230315",
+   "year": 2016,
+   "cited_by_count": 118,
+   "title": "Single-Molecule Imaging of Individual Amyloid Protein Aggregates in Human Biofluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045363957",
+   "year": 2003,
+   "cited_by_count": 113,
+   "title": "Multicomponent Submicron Features of Biomolecules Created by Voltage Controlled Deposition from a Nanopipet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992718402",
+   "year": 2013,
+   "cited_by_count": 110,
+   "title": "Nanoscale-Targeted Patch-Clamp Recordings of Functional Presynaptic Ion Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2898635863",
+   "year": 2018,
+   "cited_by_count": 108,
+   "title": "Mapping Surface Hydrophobicity of α-Synuclein Oligomers at the Nanoscale",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3149228057",
+   "year": 2021,
+   "cited_by_count": 108,
+   "title": "Wild-type sTREM2 blocks Aβ aggregation and neurotoxicity, but the Alzheimer's R47H mutant increases Aβ aggregation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2194293559",
+   "year": 2015,
+   "cited_by_count": 107,
+   "title": "Single-molecule FRET studies on alpha-synuclein oligomerization of Parkinson’s disease genetically related mutants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2266013826",
+   "year": 2016,
+   "cited_by_count": 107,
+   "title": "Spearhead Nanometric Field-Effect Transistor Sensors for Single-Cell Analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008540571",
+   "year": 2005,
+   "cited_by_count": 104,
+   "title": "The scanned nanopipette: a new tool for high resolution bioimaging and controlled deposition of biomolecules",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090414044",
+   "year": 2007,
+   "cited_by_count": 104,
+   "title": "Nanopipette Delivery of Individual Molecules to Cellular Compartments for Single-Molecule Fluorescence Tracking",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W649714884",
+   "year": 2015,
+   "cited_by_count": 103,
+   "title": "Intracellular oligomeric amyloid-beta rapidly regulates GluA1 subunit of AMPA receptor in the hippocampus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991287502",
+   "year": 2002,
+   "cited_by_count": 102,
+   "title": "Scanning surface confocal microscopy for simultaneous topographical and fluorescence imaging: Application to single virus-like particle entry into a cell",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133366456",
+   "year": 2005,
+   "cited_by_count": 101,
+   "title": "Two‐Component Graded Deposition of Biomolecules with a Double‐Barreled Nanopipette",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965331353",
+   "year": 2003,
+   "cited_by_count": 99,
+   "title": "Kinetics of Unfolding the Human Telomeric DNA Quadruplex Using a PNA Trap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005792315",
+   "year": 2004,
+   "cited_by_count": 99,
+   "title": "An Addressable Antibody Nanoarray Produced on a Nanostructured Surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2994604019",
+   "year": 2019,
+   "cited_by_count": 99,
+   "title": "High-resolution label-free 3D mapping of extracellular pH of single living cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066295524",
+   "year": 2014,
+   "cited_by_count": 98,
+   "title": "Rare Individual Amyloid-β Oligomers Act on Astrocytes to Initiate Neuronal Damage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3002969891",
+   "year": 2020,
+   "cited_by_count": 98,
+   "title": "Beta amyloid aggregates induce sensitised TLR4 signalling causing long-term potentiation deficit and rat neuronal cell death",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999625090",
+   "year": 2013,
+   "cited_by_count": 96,
+   "title": "A Quantitative Comparison of Single-Dye Tracking Analysis Tools Using Monte Carlo Simulations",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083500425",
+   "year": 2000,
+   "cited_by_count": 96,
+   "title": "FRET Fluctuation Spectroscopy: Exploring the Conformational Dynamics of a DNA Hairpin Loop",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2352644630",
+   "year": 2015,
+   "cited_by_count": 94,
+   "title": "Fast Flow Microfluidics and Single-Molecule Fluorescence for the Rapid Characterization of α-Synuclein Oligomers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2964841380",
+   "year": 2019,
+   "cited_by_count": 90,
+   "title": "Soluble aggregates present in cerebrospinal fluid change in size and mechanism of toxicity during Alzheimer’s disease progression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2314125320",
+   "year": 2014,
+   "cited_by_count": 88,
+   "title": "Imaging Single Nanoparticle Interactions with Human Lung Cells Using Fast Ion Conductance Microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974849611",
+   "year": 2006,
+   "cited_by_count": 85,
+   "title": "Nanoscale Pipetting for Controlled Chemistry in Small Arrayed Water Droplets Using a Double-Barrel Pipet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012222948",
+   "year": 2002,
+   "cited_by_count": 85,
+   "title": "Programmable Delivery of DNA through a Nanopipet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972439404",
+   "year": 2012,
+   "cited_by_count": 84,
+   "title": "Amyloid-β Oligomers are Sequestered by both Intracellular and Extracellular Chaperones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2611519591",
+   "year": 2017,
+   "cited_by_count": 84,
+   "title": "Ultrasensitive Measurement of Ca2+ Influx into Lipid Vesicles Induced by Protein Aggregates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2795001636",
+   "year": 2018,
+   "cited_by_count": 84,
+   "title": "Measurement of Tau Filament Fragmentation Provides Insights into Prion-like Spreading",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

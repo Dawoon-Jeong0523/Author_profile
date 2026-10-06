@@ -1,0 +1,656 @@
+{
+ "person": "Kazunori Kataoka",
+ "profile": "A5015097923",
+ "ids": [
+  "A5015097923",
+  "A5078678170"
+ ],
+ "options": [
+  "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis, Robert S. Langer, Kazunori Kataoka",
+  "for the development of polymeric systems for targeted drug and gene delivery — Kazunori Kataoka, Vladimir P. Torchilin, Karen L. Wooley"
+ ],
+ "birth_year": 1950,
+ "cutoff_year": 1975,
+ "works": [
+  {
+   "paper_id": "W2082587127",
+   "year": 2001,
+   "cited_by_count": 3506,
+   "title": "Block copolymer micelles for drug delivery: design, characterization and biological significance",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083710155",
+   "year": 2011,
+   "cited_by_count": 2354,
+   "title": "Accumulation of sub-100 nm polymeric micelles in poorly permeable tumours depends on size",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028893730",
+   "year": 2003,
+   "cited_by_count": 1561,
+   "title": "PEGylated nanoparticles for biological and pharmaceutical applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120915183",
+   "year": 2003,
+   "cited_by_count": 1306,
+   "title": "Design of Environment‐Sensitive Supramolecular Assemblies for Intracellular Drug Delivery: Polymeric Micelles that are Responsive to Intracellular pH Change",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2602684234",
+   "year": 2017,
+   "cited_by_count": 1284,
+   "title": "Diverse Applications of Nanomedicine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2811501377",
+   "year": 2018,
+   "cited_by_count": 1227,
+   "title": "Block Copolymer Micelles in Nanomedicine Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068809055",
+   "year": 2006,
+   "cited_by_count": 1038,
+   "title": "Current state, achievements, and future prospects of polymeric micelles as nanocarriers for drug and gene delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007996033",
+   "year": 1993,
+   "cited_by_count": 867,
+   "title": "Block copolymer micelles as vehicles for drug delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980522922",
+   "year": 1995,
+   "cited_by_count": 831,
+   "title": "Formation of Polyion Complex Micelles in an Aqueous Milieu from a Pair of Oppositely-Charged Block Copolymers with Poly(ethylene glycol) Segments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080464257",
+   "year": 1995,
+   "cited_by_count": 808,
+   "title": "Block copolymer micelles as long-circulating drug vehicles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965593909",
+   "year": 2014,
+   "cited_by_count": 798,
+   "title": "Progress of drug-loaded polymeric micelles into clinical studies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000352722",
+   "year": 2014,
+   "cited_by_count": 787,
+   "title": "Highly cited research articles in Journal of Controlled Release: Commentaries and perspectives by authors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169187623",
+   "year": 2004,
+   "cited_by_count": 740,
+   "title": "Preparation and Biological Characterization of Polymeric Micelle Drug Carriers with Intracellular pH-Triggered Drug Release Property: Tumor Permeability, Controlled Subcellular Drug Distribution, and Enhanced in Vivo Antitumor Efficacy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4245955322",
+   "year": 2012,
+   "cited_by_count": 740,
+   "title": "Block copolymer micelles for drug delivery: Design, characterization and biological significance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040728588",
+   "year": 2002,
+   "cited_by_count": 732,
+   "title": "Block copolymer micelles for delivery of gene and related compounds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2759402071",
+   "year": 2017,
+   "cited_by_count": 719,
+   "title": "Nanoparticle delivery of Cas9 ribonucleoprotein and donor DNA in vivo induces homology-directed DNA repair",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032993907",
+   "year": 2009,
+   "cited_by_count": 660,
+   "title": "Intelligent polymeric micelles from functional poly(ethylene glycol)-poly(amino acid) block copolymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070838947",
+   "year": 2000,
+   "cited_by_count": 608,
+   "title": "Doxorubicin-loaded poly(ethylene glycol)–poly(β-benzyl-l-aspartate) copolymer micelles: their pharmaceutical characteristics and biological significance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1497490920",
+   "year": 2003,
+   "cited_by_count": 602,
+   "title": "Novel cisplatin-incorporated polymeric micelles can eradicate solid tumors in mice.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045573038",
+   "year": 1999,
+   "cited_by_count": 587,
+   "title": "Chain Length Recognition: Core-Shell Supramolecular Assembly from Oppositely Charged Block Copolymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051086698",
+   "year": 1998,
+   "cited_by_count": 578,
+   "title": "Totally Synthetic Polymer Gels Responding to External Glucose Concentration: Their Preparation and Application to On−Off Regulation of Insulin Release",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986269836",
+   "year": 2001,
+   "cited_by_count": 565,
+   "title": "Development of the polymer micelle carrier system for doxorubicin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112927879",
+   "year": 2005,
+   "cited_by_count": 551,
+   "title": "NK105, a paclitaxel-incorporating micellar nanoparticle formulation, can extend in vivo antitumour activity and reduce the neurotoxicity of paclitaxel",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2973160898",
+   "year": 2019,
+   "cited_by_count": 543,
+   "title": "Nanomaterial-based blood-brain-barrier (BBB) crossing strategies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2376997792",
+   "year": 2016,
+   "cited_by_count": 500,
+   "title": "A pH-activatable nanoparticle with signal-amplification capabilities for non-invasive imaging of tumour malignancy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153957030",
+   "year": 2009,
+   "cited_by_count": 492,
+   "title": "Preclinical and clinical studies of anticancer agent‐incorporating polymer micelles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065422398",
+   "year": 1998,
+   "cited_by_count": 479,
+   "title": "Novel Polyion Complex Micelles Entrapping Enzyme Molecules in the Core: Preparation of Narrowly-Distributed Micelles from Lysozyme and Poly(ethylene glycol)−Poly(aspartic acid) Block Copolymer in Aqueous Medium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023542461",
+   "year": 2001,
+   "cited_by_count": 478,
+   "title": "Quantitative and Reversible Lectin-Induced Association of Gold Nanoparticles Modified with α-Lactosyl-ω-mercapto-poly(ethylene glycol)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011569859",
+   "year": 2005,
+   "cited_by_count": 470,
+   "title": "Lactosylated Poly(ethylene glycol)-siRNA Conjugate through Acid-Labile β-Thiopropionate Linkage to Construct pH-Sensitive Polyion Complex Micelles Achieving Enhanced Gene Silencing in Hepatoma Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078534751",
+   "year": 1997,
+   "cited_by_count": 466,
+   "title": "Water-Soluble Polyion Complex Associates of DNA and Poly(ethylene glycol)−Poly( l -lysine) Block Copolymer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998934929",
+   "year": 2010,
+   "cited_by_count": 465,
+   "title": "Polymeric micelles for nano-scale drug delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002384766",
+   "year": 2007,
+   "cited_by_count": 461,
+   "title": "Biodegradable Nanogels Prepared by Atom Transfer Radical Polymerization as Potential Drug Delivery Carriers: Synthesis, Biodegradation, in Vitro Release, and Bioconjugation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001257757",
+   "year": 2013,
+   "cited_by_count": 456,
+   "title": "Cyclic RGD-Linked Polymeric Micelles for Targeted Delivery of Platinum Anticancer Drugs to Glioblastoma through the Blood–Brain Tumor Barrier",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059723838",
+   "year": 2011,
+   "cited_by_count": 444,
+   "title": "Rational design of smart supramolecular assemblies for gene delivery: chemical challenges in the creation of artificial viruses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079184456",
+   "year": 2001,
+   "cited_by_count": 438,
+   "title": "Long-circulating poly(ethylene glycol)–poly(d,l-lactide) block copolymer micelles with modulated surface charge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013377191",
+   "year": 2005,
+   "cited_by_count": 437,
+   "title": "Multifunctional polymeric micelles with folate-mediated cancer cell targeting and pH-triggered drug releasing properties for active intracellular drug delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974920077",
+   "year": 2005,
+   "cited_by_count": 418,
+   "title": "Cisplatin-incorporating polymeric micelles (NC-6004) can reduce nephrotoxicity and neurotoxicity of cisplatin in rats",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134427544",
+   "year": 1991,
+   "cited_by_count": 418,
+   "title": "Toxicity and antitumor activity against solid tumors of micelle-forming polymeric anticancer drug and its extremely long circulation in blood.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010765944",
+   "year": 2006,
+   "cited_by_count": 414,
+   "title": "Supramolecular assemblies of block copolymers in aqueous media as nanocontainers relevant to biological applications",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2473033301",
+   "year": 2016,
+   "cited_by_count": 414,
+   "title": "Recent progress in development of siRNA delivery vehicles for cancer therapy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013683557",
+   "year": 1994,
+   "cited_by_count": 408,
+   "title": "Enhanced tumor accumulation and prolonged circulation times of micelle-forming poly (ethylene oxide-aspartate) block copolymer-adriamycin conjugates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968762000",
+   "year": 2007,
+   "cited_by_count": 404,
+   "title": "Improvement of cancer-targeting therapy, using nanocarriers for intractable solid tumors by inhibition of TGF-β signaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013238675",
+   "year": 2008,
+   "cited_by_count": 400,
+   "title": "PEG-Detachable Polyplex Micelles Based on Disulfide-Linked Block Catiomers as Bioresponsive Nonviral Gene Vectors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1574338658",
+   "year": 1990,
+   "cited_by_count": 399,
+   "title": "Characterization and anticancer activity of the micelle-forming polymeric anticancer drug adriamycin-conjugated poly(ethylene glycol)-poly(aspartic acid) block copolymer.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020260050",
+   "year": 2004,
+   "cited_by_count": 399,
+   "title": "Block Catiomer Polyplexes with Regulated Densities of Charge and Disulfide Cross-Linking Directed To Enhance Gene Expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2279217276",
+   "year": 2016,
+   "cited_by_count": 398,
+   "title": "Vascular bursts enhance permeability of tumour blood vessels and improve nanoparticle delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982589292",
+   "year": 1993,
+   "cited_by_count": 397,
+   "title": "Micelles based on AB block copolymers of poly(ethylene oxide) and poly(.beta.-benzyl L-aspartate)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061093127",
+   "year": 2007,
+   "cited_by_count": 396,
+   "title": "A Protein Nanocarrier from Charge-Conversion Polymer in Response to Endosomal pH",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160168727",
+   "year": 1996,
+   "cited_by_count": 378,
+   "title": "Preparation and Characterization of the Micelle-Forming Polymeric Drug Indomethacin-lncorporated Polyfethylene oxide)-Poly(β-benzyl L-aspartate) Block Copolymer Micelles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083349615",
+   "year": 2011,
+   "cited_by_count": 374,
+   "title": "A Phase I clinical study of cisplatin-incorporated polymeric micelles (NC-6004) in patients with solid tumours",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087147942",
+   "year": 2008,
+   "cited_by_count": 362,
+   "title": "Polyplexes from Poly(aspartamide) Bearing 1,2-Diaminoethane Side Chains Induce pH-Selective, Endosomal Membrane Destabilization with Amplified Transfection and Negligible Cytotoxicity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2560385907",
+   "year": 2016,
+   "cited_by_count": 361,
+   "title": "Targeting the Notch-regulated non-coding RNA TUG1 for glioma treatment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040569874",
+   "year": 2009,
+   "cited_by_count": 353,
+   "title": "3D spheroid culture system on micropatterned substrates for improved differentiation efficiency of multipotent mesenchymal stem cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072289689",
+   "year": 1997,
+   "cited_by_count": 353,
+   "title": "Thermo-responsive polymer nanoparticles with a core-shell micelle structure as site-specific drug carriers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111430686",
+   "year": 2009,
+   "cited_by_count": 350,
+   "title": "Charge‐Conversional Polyionic Complex Micelles—Efficient Nanocarriers for Protein Delivery into Cytoplasm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2955296596",
+   "year": 2019,
+   "cited_by_count": 349,
+   "title": "Nanomedicines for Reactive Oxygen Species Mediated Approach: An Emerging Paradigm for Cancer Treatment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4239628118",
+   "year": 2012,
+   "cited_by_count": 346,
+   "title": "PEGylated nanoparticles for biological and pharmaceutical applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996610205",
+   "year": 2003,
+   "cited_by_count": 344,
+   "title": "Glucose-Responsive Polymer Bearing a Novel Phenylborate Derivative as a Glucose-Sensing Moiety Operating at Physiological pH Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2321616752",
+   "year": 2013,
+   "cited_by_count": 339,
+   "title": "Phenylboronic Acid-Installed Polymeric Micelles for Targeting Sialylated Epitopes in Solid Tumors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073381246",
+   "year": 2005,
+   "cited_by_count": 338,
+   "title": "Light-induced gene transfer from packaged DNA enveloped in a dendrimeric photosensitizer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966438319",
+   "year": 2004,
+   "cited_by_count": 336,
+   "title": "Glucose-Responsive Polymer Gel Bearing Phenylborate Derivative as a Glucose-Sensing Moiety Operating at the Physiological pH",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001413029",
+   "year": 1999,
+   "cited_by_count": 329,
+   "title": "Environment-Sensitive Stabilization of Core−Shell Structured Polyion Complex Micelle by Reversible Cross-Linking of the Core through Disulfide Bond",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2964415910",
+   "year": 2019,
+   "cited_by_count": 329,
+   "title": "Ligand‐Installed Nanocarriers toward Precision Therapy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015917934",
+   "year": 2008,
+   "cited_by_count": 323,
+   "title": "Environment-Responsive Block Copolymer Micelles with a Disulfide Cross-Linked Core for Enhanced siRNA Delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043510135",
+   "year": 2006,
+   "cited_by_count": 317,
+   "title": "Semipermeable Polymer Vesicle (PICsome) Self-Assembled in Aqueous Medium from a Pair of Oppositely Charged Block Copolymers: Physiologically Stable Micro-/Nanocontainers of Water-Soluble Macromolecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007838251",
+   "year": 2003,
+   "cited_by_count": 316,
+   "title": "Anomalous Binding Profile of Phenylboronic Acid withN-Acetylneuraminic Acid (Neu5Ac) in Aqueous Solution with Varying pH",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2289752352",
+   "year": 2015,
+   "cited_by_count": 315,
+   "title": "Accelerating the Translation of Nanomaterials in Biomedicine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069977678",
+   "year": 1997,
+   "cited_by_count": 314,
+   "title": "Block copolymer micelles for drug delivery: loading and release of doxorubicin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008243768",
+   "year": 1996,
+   "cited_by_count": 304,
+   "title": "Spontaneous Formation of Polyion Complex Micelles with Narrow Distribution from Antisense Oligonucleotide and Cationic Block Copolymer in Physiological Saline",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999903282",
+   "year": 1992,
+   "cited_by_count": 294,
+   "title": "Preparation of micelle-forming polymer-drug conjugates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019880908",
+   "year": 2011,
+   "cited_by_count": 294,
+   "title": "Supramolecular Nanodevices: From Design Validation to Theranostic Nanomedicine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988356468",
+   "year": 1990,
+   "cited_by_count": 291,
+   "title": "Polymer micelles as novel drug carrier: Adriamycin-conjugated poly(ethylene glycol)-poly(aspartic acid) block copolymer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109431901",
+   "year": 2011,
+   "cited_by_count": 286,
+   "title": "A Synthetic Approach Toward a Self‐Regulated Insulin Delivery System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1495785845",
+   "year": 1995,
+   "cited_by_count": 281,
+   "title": "Physical Entrapment of Adriamycin in AB Block Copolymer Micelles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2763397567",
+   "year": 2017,
+   "cited_by_count": 273,
+   "title": "Glycaemic control boosts glucosylated nanocarrier crossing the BBB into the brain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982089656",
+   "year": 2007,
+   "cited_by_count": 270,
+   "title": "In Vivo Antitumor Activity of the Folate-Conjugated pH-Sensitive Polymeric Micelle Selectively Releasing Adriamycin in the Intracellular Acidic Compartments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005044853",
+   "year": 2011,
+   "cited_by_count": 264,
+   "title": "Improving Drug Potency and Efficacy by Nanocarrier-Mediated Subcellular Targeting",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160693134",
+   "year": 2003,
+   "cited_by_count": 264,
+   "title": "Simple and Precise Preparation of a Porous Gel for a Colorimetric Glucose Sensor by a Templating Technique",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974963017",
+   "year": 2009,
+   "cited_by_count": 262,
+   "title": "Design and development of dendrimer photosensitizer-incorporated polymeric micelles for enhanced photodynamic therapy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983082539",
+   "year": 1999,
+   "cited_by_count": 262,
+   "title": "Core-Polymerized Reactive Micelles from Heterotelechelic Amphiphilic Block Copolymers",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

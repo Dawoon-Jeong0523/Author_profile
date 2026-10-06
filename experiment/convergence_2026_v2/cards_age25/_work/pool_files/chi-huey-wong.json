@@ -1,0 +1,656 @@
+{
+ "person": "Chi-Huey Wong",
+ "profile": "A5056753239",
+ "ids": [
+  "A5056753239",
+  "A5111743378"
+ ],
+ "options": [
+  "for the development of programmable and chemoenzymatic synthesis of complex carbohydrates and glycoproteins — Chi-Huey Wong",
+  "for the development of programmable synthesis of carbohydrates and glycoproteins — Chi-Huey Wong"
+ ],
+ "birth_year": 1948,
+ "cutoff_year": 1973,
+ "works": [
+  {
+   "paper_id": "W2113236498",
+   "year": 2011,
+   "cited_by_count": 1494,
+   "title": "Broad neutralization coverage of HIV by multiple highly potent antibodies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131492616",
+   "year": 2004,
+   "cited_by_count": 1114,
+   "title": "Printed covalent glycan array for ligand profiling of diverse glycan binding proteins",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015194963",
+   "year": 2005,
+   "cited_by_count": 910,
+   "title": "Recognition of bacterial glycosphingolipids by natural killer T cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1678327261",
+   "year": 2001,
+   "cited_by_count": 887,
+   "title": "Enzymes for chemical synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981249397",
+   "year": 2000,
+   "cited_by_count": 865,
+   "title": "The Catalytic Asymmetric Aldol Reaction",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W4254774664",
+   "year": 1999,
+   "cited_by_count": 827,
+   "title": "Programmable One-Pot Oligosaccharide Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128579789",
+   "year": 2011,
+   "cited_by_count": 690,
+   "title": "A Potent and Broad Neutralizing Antibody Recognizes and Penetrates the HIV Glycan Shield",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992523113",
+   "year": 2006,
+   "cited_by_count": 618,
+   "title": "Natural killer T cells recognize diacylglycerol antigens from pathogenic bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034194419",
+   "year": 2004,
+   "cited_by_count": 607,
+   "title": "Selectfluor: Mechanistic Insight and Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034885002",
+   "year": 2007,
+   "cited_by_count": 594,
+   "title": "Identification of an IL-17–producing NK1.1neg iNKT cell population involved in airway neutrophilia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155920295",
+   "year": 2004,
+   "cited_by_count": 547,
+   "title": "Sulfotransferases: Structure, Mechanism, Biological Activity, Inhibition, and Synthetic Utility",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061777515",
+   "year": 2004,
+   "cited_by_count": 528,
+   "title": "Small molecules targeting severe acute respiratory syndrome human coronavirus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997028494",
+   "year": 1999,
+   "cited_by_count": 513,
+   "title": "Carbohydrate Mimetics: A New Strategy for Tackling the Problem of Carbohydrate-Mediated Biological Recognition",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1758125525",
+   "year": 2002,
+   "cited_by_count": 501,
+   "title": "Chemical chaperones increase the cellular activity of N370S β-glucosidase: A therapeutic strategy for Gaucher disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980867764",
+   "year": 2001,
+   "cited_by_count": 482,
+   "title": "Toward Automated Synthesis of Oligosaccharides and Glycoproteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054780072",
+   "year": 2000,
+   "cited_by_count": 475,
+   "title": "Synthesis of Complex Carbohydrates and Glycoconjugates: Enzyme-Based and Programmable One-Pot Strategies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2336507460",
+   "year": 2016,
+   "cited_by_count": 452,
+   "title": "Trimeric HIV-1-Env Structures Define Glycan Shields from Clades A, B, and G",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2132964751",
+   "year": 1985,
+   "cited_by_count": 451,
+   "title": "Enzymes as Catalysts in Synthetic Organic Chemistry [New Synthetic Methods (53)]",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2411540509",
+   "year": 1998,
+   "cited_by_count": 430,
+   "title": "Selectin−Carbohydrate Interactions: From Natural Ligands to Designed Mimics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061367741",
+   "year": 2003,
+   "cited_by_count": 428,
+   "title": "A Potent and Highly Selective Inhibitor of Human α-1,3-Fucosyltransferase via Click Chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053429933",
+   "year": 2011,
+   "cited_by_count": 416,
+   "title": "Sialylation and fucosylation of epidermal growth factor receptor suppress its dimerization and activation in lung cancer cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4211031782",
+   "year": 2006,
+   "cited_by_count": 412,
+   "title": "Glycoproteomic probes for fluorescent imaging of fucosylated glycans in vivo",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023076143",
+   "year": 1996,
+   "cited_by_count": 399,
+   "title": "Recent Advances in the Chemoenzymatic Synthesis of Carbohydrates and Carbohydrate Mimetics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095377201",
+   "year": 2008,
+   "cited_by_count": 398,
+   "title": "CLEC5A is critical for dengue-virus-induced lethal disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151535044",
+   "year": 2006,
+   "cited_by_count": 398,
+   "title": "Enhancement of capillary leakage and restoration of lymphocyte egress by a chiral S1P1 antagonist in vivo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992529182",
+   "year": 2014,
+   "cited_by_count": 370,
+   "title": "Broadly Neutralizing HIV Antibodies Define a Glycan-Dependent Epitope on the Prefusion Conformation of gp41 on Cleaved Envelope Trimers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949921135",
+   "year": 1996,
+   "cited_by_count": 351,
+   "title": "Metal catalyzed diazo transfer for the synthesis of azides from amines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4211206272",
+   "year": 2004,
+   "cited_by_count": 344,
+   "title": "Sulfatases: Structure, Mechanism, Biological Activity, Inhibition, and Synthetic Utility",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122130567",
+   "year": 2011,
+   "cited_by_count": 338,
+   "title": "Invariant natural killer T cells recognize glycolipids from pathogenic Gram-positive bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108573701",
+   "year": 2009,
+   "cited_by_count": 309,
+   "title": "Glycans on influenza hemagglutinin affect receptor binding and immune response",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974863339",
+   "year": 2002,
+   "cited_by_count": 305,
+   "title": "The Chemistry of Amine−Azide Interconversion: Catalytic Diazotransfer and Regioselective Azide Reduction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4248522153",
+   "year": 2007,
+   "cited_by_count": 304,
+   "title": "Alkynyl sugar analogs for the labeling and visualization of glycoconjugates in cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034988550",
+   "year": 2008,
+   "cited_by_count": 292,
+   "title": "Targeting the carbohydrates on HIV-1: Interaction of oligomannose dendrons with human monoclonal antibody 2G12 and DC-SIGN",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996061504",
+   "year": 2005,
+   "cited_by_count": 291,
+   "title": "Dissection of the carbohydrate specificity of the broadly neutralizing anti-HIV-1 antibody 2G12",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130380603",
+   "year": 1995,
+   "cited_by_count": 284,
+   "title": "Enzymes in Organic Synthesis: Application to the Problems of Carbohydrate Recognition (Part 1)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976308284",
+   "year": 2001,
+   "cited_by_count": 282,
+   "title": "Observation of Covalent Intermediates in an Enzyme Mechanism at Atomic Resolution",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080094366",
+   "year": 2005,
+   "cited_by_count": 280,
+   "title": "1,2,3‐Triazole as a Peptide Surrogate in the Rapid Synthesis of HIV‐1 Protease Inhibitors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967398188",
+   "year": 2011,
+   "cited_by_count": 276,
+   "title": "Enzymes in the Synthesis of Glycoconjugates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126880961",
+   "year": 2011,
+   "cited_by_count": 274,
+   "title": "Toward Automated Oligosaccharide Synthesis",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2105999014",
+   "year": 2002,
+   "cited_by_count": 273,
+   "title": "Studies on the immuno-Modulating and antitumor activities of Ganoderma lucidum (Reishi) polysaccharides: functional and proteomic analyses of a fucose-Containing glycoprotein fraction responsible for the activities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130392812",
+   "year": 2005,
+   "cited_by_count": 273,
+   "title": "Sphingosine 1-phosphate type 1 receptor agonism inhibits transendothelial migration of medullary T cells to lymphatic sinuses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969135135",
+   "year": 2012,
+   "cited_by_count": 269,
+   "title": "Fucosyltransferase 8 as a functional regulator of nonsmall cell lung cancer",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002072699",
+   "year": 1981,
+   "cited_by_count": 262,
+   "title": "Enzyme-catalyzed organic synthesis: NAD(P)H cofactor regeneration by using glucose-6-phosphate and the glucose-5-phosphate dehydrogenase from Leuconostoc mesenteroides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952971713",
+   "year": 1991,
+   "cited_by_count": 262,
+   "title": "Enzyme Catalysis in Synthetic Carbohydrate Chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004626895",
+   "year": 1992,
+   "cited_by_count": 260,
+   "title": "Enzyme-catalyzed oligosaccharide synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4211014836",
+   "year": 2007,
+   "cited_by_count": 251,
+   "title": "Quantitative Analysis of Carbohydrate−Protein Interactions Using Glycan Microarrays: Determination of Surface and Solution Dissociation Constants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1566394066",
+   "year": 1998,
+   "cited_by_count": 242,
+   "title": "Structure of the haemagglutinin-esterase-fusion glycoprotein of influenza C virus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150804079",
+   "year": 2004,
+   "cited_by_count": 241,
+   "title": "In Situ Click Chemistry: Enzyme‐Generated Inhibitors of Carbonic Anhydrase II",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965741502",
+   "year": 1994,
+   "cited_by_count": 240,
+   "title": "Solid-Phase Chemical-Enzymic Synthesis of Glycopeptides and Oligosaccharides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4245712284",
+   "year": 1995,
+   "cited_by_count": 239,
+   "title": "Enzymes in Organic Synthesis: Application to the Problems of Carbohydrate Recognition (Part 2)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129776856",
+   "year": 2005,
+   "cited_by_count": 238,
+   "title": "Bacterial glycolipids and analogs as antigens for CD1d-restricted NKT cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987419931",
+   "year": 2009,
+   "cited_by_count": 237,
+   "title": "The core trisaccharide of an N-linked glycoprotein intrinsically accelerates folding and enhances stability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096044531",
+   "year": 2007,
+   "cited_by_count": 228,
+   "title": "Recent Advances in Aldolase‐Catalyzed Asymmetric Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050575492",
+   "year": 2014,
+   "cited_by_count": 224,
+   "title": "O-GlcNAcylation regulates EZH2 protein stability and function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057413436",
+   "year": 1999,
+   "cited_by_count": 216,
+   "title": "Design and Synthesis of New Aminoglycoside Antibiotics Containing Neamine as an Optimal Core Structure: Correlation of Antibiotic Activity with in Vitro Inhibition of Translation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073627889",
+   "year": 2009,
+   "cited_by_count": 216,
+   "title": "Advances in chemical ligation strategies for the synthesis of glycopeptides and glycoproteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053085424",
+   "year": 2015,
+   "cited_by_count": 215,
+   "title": "Development of Globo-H Cancer Vaccine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104356521",
+   "year": 2011,
+   "cited_by_count": 207,
+   "title": "Hemagglutinin–neuraminidase balance confers respiratory-droplet transmissibility of the pandemic H1N1 influenza virus in ferrets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967783415",
+   "year": 1998,
+   "cited_by_count": 206,
+   "title": "Enzyme action in glycoprotein synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084261354",
+   "year": 1997,
+   "cited_by_count": 204,
+   "title": "Direct Observation of Aminoglycoside−RNA Interactions by Surface Plasmon Resonance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2172848756",
+   "year": 2015,
+   "cited_by_count": 202,
+   "title": "Identification of Common Features in Prototype Broadly Neutralizing Antibodies to HIV Envelope V2 Apex to Facilitate Vaccine Design",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W237699688",
+   "year": 2003,
+   "cited_by_count": 202,
+   "title": "Carbohydrate-based drug discovery.",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1969943225",
+   "year": 2007,
+   "cited_by_count": 198,
+   "title": "Synthesis of Tamiflu and its Phosphonate Congeners Possessing Potent Anti-Influenza Activity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2913478876",
+   "year": 2019,
+   "cited_by_count": 198,
+   "title": "Oligosaccharide Synthesis and Translational Innovation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951230724",
+   "year": 1985,
+   "cited_by_count": 192,
+   "title": "Enzymatic vs. fermentative synthesis: thermostable glucose dehydrogenase catalyzed regeneration of NAD(P)H for use in enzymatic synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3118966483",
+   "year": 2021,
+   "cited_by_count": 192,
+   "title": "Identification of existing pharmaceuticals and herbal medicines as inhibitors of SARS-CoV-2 infection",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141427087",
+   "year": 2005,
+   "cited_by_count": 190,
+   "title": "Protein Glycosylation: New Challenges and Opportunities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977573421",
+   "year": 1998,
+   "cited_by_count": 189,
+   "title": "Probing the Specificity of Aminoglycoside−Ribosomal RNA Interactions with Designed Synthetic Analogs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140543815",
+   "year": 2005,
+   "cited_by_count": 188,
+   "title": "Structural basis for CD1d presentation of a sulfatide derived from myelin and its implications for autoimmunity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991968375",
+   "year": 2005,
+   "cited_by_count": 185,
+   "title": "Gaucher Disease-Associated Glucocerebrosidases Show Mutation-Dependent Chemical Chaperoning Profiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974093375",
+   "year": 1997,
+   "cited_by_count": 183,
+   "title": "1H-Tetrazole as Catalyst in Phosphomorpholidate Coupling Reactions: Efficient Synthesis of GDP-Fucose, GDP-Mannose, and UDP-Galactose",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010344521",
+   "year": 2008,
+   "cited_by_count": 182,
+   "title": "Lectin-like domain of thrombomodulin binds to its specific ligand Lewis Y antigen and neutralizes lipopolysaccharide-induced inflammatory response",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088816092",
+   "year": 2011,
+   "cited_by_count": 176,
+   "title": "Protein Native-State Stabilization by Placing Aromatic Side Chains in N-Glycosylated Reverse Turns",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062533437",
+   "year": 2010,
+   "cited_by_count": 175,
+   "title": "Design of a potent CD1d-binding NKT cell ligand as a vaccine adjuvant",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952750651",
+   "year": 1997,
+   "cited_by_count": 173,
+   "title": "A New Method for the Synthesis of Fluoro-Carbohydrates and Glycosides Using Selectfluor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007176478",
+   "year": 1996,
+   "cited_by_count": 171,
+   "title": "Rapid Combinatorial Synthesis of Aminoglycoside Antibiotic Mimetics: Use of a Polyethylene Glycol-Linked Amine and a Neamine-Derived Aldehyde in Multiple Component Condensation as a Strategy for the Discovery of New Inhibitors of the HIV RNA Rev Responsive Element",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098485753",
+   "year": 2000,
+   "cited_by_count": 171,
+   "title": "Die katalysierte asymmetrische Aldolreaktion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984743698",
+   "year": 2004,
+   "cited_by_count": 170,
+   "title": "Covalent Display of Oligosaccharide Arrays in Microtiter Plates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951574844",
+   "year": 1994,
+   "cited_by_count": 168,
+   "title": "Unprecedented Asymmetric Aldol Reactions with Three Aldehyde Substrates Catalyzed by 2-Deoxyribose-5-phosphate Aldolase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111442531",
+   "year": 2008,
+   "cited_by_count": 167,
+   "title": "Expression of Globo H and SSEA3 in breast cancer stem cells and the involvement of fucosyl transferases 1 and 2 in Globo H synthesis",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

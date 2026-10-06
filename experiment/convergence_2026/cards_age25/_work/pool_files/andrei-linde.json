@@ -1,0 +1,654 @@
+{
+ "person": "Andrei Linde",
+ "profile": "A5014587042",
+ "ids": [
+  "A5014587042"
+ ],
+ "options": [
+  "for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure — Alan H. Guth, Andrei Linde, Viatcheslav Mukhanov"
+ ],
+ "birth_year": 1948,
+ "cutoff_year": 1973,
+ "works": [
+  {
+   "paper_id": "W1973861971",
+   "year": 1982,
+   "cited_by_count": 6050,
+   "title": "A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4256093087",
+   "year": 1983,
+   "cited_by_count": 3077,
+   "title": "Chaotic inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125835296",
+   "year": 2003,
+   "cited_by_count": 3040,
+   "title": "de Sitter vacua in string theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158442860",
+   "year": 1997,
+   "cited_by_count": 1867,
+   "title": "Towards the theory of reheating after inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007443706",
+   "year": 1994,
+   "cited_by_count": 1690,
+   "title": "Reheating after Inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966702659",
+   "year": 1987,
+   "cited_by_count": 1575,
+   "title": "Particle Physics and Inflationary Cosmology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3037429251",
+   "year": 1994,
+   "cited_by_count": 1216,
+   "title": "Hybrid inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086623448",
+   "year": 2003,
+   "cited_by_count": 1155,
+   "title": "Towards inflation in string theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011365476",
+   "year": 1986,
+   "cited_by_count": 774,
+   "title": "Eternally existing self-reproducing chaotic inflanationary universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986107325",
+   "year": 1979,
+   "cited_by_count": 773,
+   "title": "Phase transitions in gauge theories and cosmology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085120873",
+   "year": 1984,
+   "cited_by_count": 768,
+   "title": "Is it easy to save the gravitino?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038045145",
+   "year": 1983,
+   "cited_by_count": 757,
+   "title": "Decay of the false vacuum at finite temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127161203",
+   "year": 1997,
+   "cited_by_count": 737,
+   "title": "Non-Gaussian isocurvature perturbations from inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076101481",
+   "year": 1980,
+   "cited_by_count": 735,
+   "title": "Infrared problem in the thermodynamics of the Yang-Mills gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082497072",
+   "year": 1996,
+   "cited_by_count": 718,
+   "title": "Density perturbations and black hole formation in hybrid inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007421650",
+   "year": 1982,
+   "cited_by_count": 713,
+   "title": "Scalar field fluctuations in the expanding universe and the new inflationary universe scenario",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058486682",
+   "year": 1991,
+   "cited_by_count": 707,
+   "title": "Axions in inflationary cosmology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1574779069",
+   "year": 2013,
+   "cited_by_count": 699,
+   "title": "Superconformal inflationary α-attractors",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2034898285",
+   "year": 1984,
+   "cited_by_count": 682,
+   "title": "The inflationary Universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994089883",
+   "year": 2013,
+   "cited_by_count": 647,
+   "title": "Universality class in conformal inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148968450",
+   "year": 1994,
+   "cited_by_count": 515,
+   "title": "From the big bang theory to the theory of a stationary universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107918956",
+   "year": 2001,
+   "cited_by_count": 511,
+   "title": "Dynamics of Symmetry Breaking and Tachyonic Preheating",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099710945",
+   "year": 1995,
+   "cited_by_count": 502,
+   "title": "Gravity and global symmetries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017634382",
+   "year": 1982,
+   "cited_by_count": 501,
+   "title": "Baryon asymmetry in the inflationary universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993035796",
+   "year": 1992,
+   "cited_by_count": 456,
+   "title": "Towards the theory of the electroweak phase transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078879412",
+   "year": 1981,
+   "cited_by_count": 456,
+   "title": "Fate of the false vacuum at finite temperature: Theory and applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168047137",
+   "year": 1976,
+   "cited_by_count": 430,
+   "title": "Symmetry behavior in gauge theories",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152147800",
+   "year": 1997,
+   "cited_by_count": 423,
+   "title": "Structure of resonance in preheating after inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004738677",
+   "year": 2013,
+   "cited_by_count": 407,
+   "title": "Minimal supergravity models of inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978364516",
+   "year": 2003,
+   "cited_by_count": 377,
+   "title": "Suppressing the lower multipoles in the CMB anisotropies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1577240860",
+   "year": 2015,
+   "cited_by_count": 369,
+   "title": "Unity of Cosmological Inflation Attractors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994202099",
+   "year": 1984,
+   "cited_by_count": 357,
+   "title": "Quantum creation of the inflationary universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3038076880",
+   "year": 1999,
+   "cited_by_count": 335,
+   "title": "Instant preheating",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094806103",
+   "year": 1987,
+   "cited_by_count": 316,
+   "title": "THE GLOBAL STRUCTURE OF THE INFLATIONARY UNIVERSE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112819624",
+   "year": 1992,
+   "cited_by_count": 312,
+   "title": "Supersymmetry as a cosmic censor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2197476032",
+   "year": 2001,
+   "cited_by_count": 310,
+   "title": "Tachyonic instability and dynamics of spontaneous symmetry breaking",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060112160",
+   "year": 1987,
+   "cited_by_count": 304,
+   "title": "Generation of density perturbations in inflationary cosmology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122954810",
+   "year": 1986,
+   "cited_by_count": 304,
+   "title": "ETERNAL CHAOTIC INFLATION",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147782482",
+   "year": 2014,
+   "cited_by_count": 303,
+   "title": "Universal Attractor for Inflation at Strong Coupling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059175117",
+   "year": 1985,
+   "cited_by_count": 296,
+   "title": "Inflationary universe generated by the combined action of a scalar field and gravitational vacuum polarization",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2174569847",
+   "year": 1997,
+   "cited_by_count": 292,
+   "title": "Hybrid inflation in supergravity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147141645",
+   "year": 2013,
+   "cited_by_count": 289,
+   "title": "Superconformal generalizations of the Starobinsky model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153038526",
+   "year": 2009,
+   "cited_by_count": 289,
+   "title": "Probing Inflation with CMB Polarization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987071462",
+   "year": 1977,
+   "cited_by_count": 284,
+   "title": "On the vacuum instability and the Higgs meson mass",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028526684",
+   "year": 2004,
+   "cited_by_count": 275,
+   "title": "Landscape, the Scale of SUSY Breaking, and Inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074997845",
+   "year": 1996,
+   "cited_by_count": 261,
+   "title": "Nonthermal Phase Transitions after Inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077732562",
+   "year": 1982,
+   "cited_by_count": 257,
+   "title": "Coleman-Weinberg theory and the new inflationary universe scenario",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3037260276",
+   "year": 2004,
+   "cited_by_count": 239,
+   "title": "Racetrack Inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164563415",
+   "year": 2011,
+   "cited_by_count": 238,
+   "title": "Superconformal symmetry, NMSSM, and inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002355448",
+   "year": 2010,
+   "cited_by_count": 235,
+   "title": "New models of chaotic inflation in supergravity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115187910",
+   "year": 2014,
+   "cited_by_count": 228,
+   "title": "Cosmology with nilpotent superfields",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2889184601",
+   "year": 2018,
+   "cited_by_count": 222,
+   "title": "The Landscape, the Swampland and the Era of Precision Cosmology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008054089",
+   "year": 2002,
+   "cited_by_count": 221,
+   "title": "Cosmology with negative potentials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038838977",
+   "year": 1982,
+   "cited_by_count": 221,
+   "title": "Inflation can save the gravitino",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030979397",
+   "year": 2011,
+   "cited_by_count": 217,
+   "title": "General inflaton potentials in supergravity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105815108",
+   "year": 2013,
+   "cited_by_count": 202,
+   "title": "Non-minimal Inflationary Attractors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082751233",
+   "year": 1994,
+   "cited_by_count": 200,
+   "title": "Monopoles as big as a universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2595522286",
+   "year": 1985,
+   "cited_by_count": 199,
+   "title": "Initial conditions for inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127375813",
+   "year": 2000,
+   "cited_by_count": 197,
+   "title": "Gravitino production after inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1694862298",
+   "year": 1999,
+   "cited_by_count": 186,
+   "title": "Inflation and preheating in nonoscillatory models",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993291303",
+   "year": 2013,
+   "cited_by_count": 186,
+   "title": "Gauge field production in supergravity inflation: Local non-Gaussianity and primordial black holes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989545446",
+   "year": 2010,
+   "cited_by_count": 185,
+   "title": "Jordan frame supergravity and inflation in the NMSSM",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073784775",
+   "year": 2007,
+   "cited_by_count": 183,
+   "title": "Sinks in the landscape, Boltzmann brains and the cosmological constant problem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143174951",
+   "year": 2014,
+   "cited_by_count": 179,
+   "title": "Inflation physics from the cosmic microwave background and large scale structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022351679",
+   "year": 1988,
+   "cited_by_count": 174,
+   "title": "Inflation and axion cosmology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3100376272",
+   "year": 2004,
+   "cited_by_count": 174,
+   "title": "Beauty is Attractive: Moduli Trapping at Enhanced Symmetry Points",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2119169217",
+   "year": 2000,
+   "cited_by_count": 171,
+   "title": "Superconformal symmetry, supergravity and cosmology",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1484565538",
+   "year": 1996,
+   "cited_by_count": 170,
+   "title": "Grand-Unified-Theory Baryogenesis after Preheating",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056325701",
+   "year": 1984,
+   "cited_by_count": 169,
+   "title": "Chaotic inflation in supergravity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026029041",
+   "year": 2013,
+   "cited_by_count": 165,
+   "title": "Multi-field conformal cosmological attractors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3038108898",
+   "year": 2001,
+   "cited_by_count": 160,
+   "title": "Pyrotechnic universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061821953",
+   "year": 1999,
+   "cited_by_count": 156,
+   "title": "Is warm inflation possible?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102567814",
+   "year": 1994,
+   "cited_by_count": 155,
+   "title": "Fluctuations of the gravitational constant in the inflationary Brans-Dicke cosmology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077832897",
+   "year": 1990,
+   "cited_by_count": 154,
+   "title": "Extended chaotic inflation and spatial variations of the gravitational constant",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065850315",
+   "year": 1990,
+   "cited_by_count": 153,
+   "title": "Eternal extended inflation and graceful exit from old inflation without Jordan-Brans-Dicke",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127129709",
+   "year": 1991,
+   "cited_by_count": 152,
+   "title": "Inflation and quantum cosmology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W643758628",
+   "year": 2015,
+   "cited_by_count": 150,
+   "title": "Cosmological attractors and initial conditions for inflation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042250522",
+   "year": 1984,
+   "cited_by_count": 146,
+   "title": "Cosmological problems for spontaneously broken supergravity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963978088",
+   "year": 2015,
+   "cited_by_count": 146,
+   "title": "α-attractors: Planck, LHC and dark energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1553851326",
+   "year": 1995,
+   "cited_by_count": 144,
+   "title": "Inflation with variable Ω",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

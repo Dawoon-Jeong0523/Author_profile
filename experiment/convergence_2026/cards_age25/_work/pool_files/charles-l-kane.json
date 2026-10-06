@@ -1,0 +1,654 @@
+{
+ "person": "Charles L. Kane",
+ "profile": "A5003262716",
+ "ids": [
+  "A5003262716"
+ ],
+ "options": [
+  "for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect — Eugene J. Mele, Charles L. Kane, Laurens W. Molenkamp"
+ ],
+ "birth_year": 1963,
+ "cutoff_year": 1988,
+ "works": [
+  {
+   "paper_id": "W2102074887",
+   "year": 2010,
+   "cited_by_count": 19106,
+   "title": "Colloquium : Topological insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030164271",
+   "year": 2005,
+   "cited_by_count": 7874,
+   "title": "Quantum Spin Hall Effect in Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088198211",
+   "year": 2005,
+   "cited_by_count": 6090,
+   "title": "Z 2 Topological Order and the Quantum Spin Hall Effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168226651",
+   "year": 2008,
+   "cited_by_count": 4732,
+   "title": "Superconducting Proximity Effect and Majorana Fermions at the Surface of a Topological Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983970619",
+   "year": 2007,
+   "cited_by_count": 4536,
+   "title": "Topological Insulators in Three Dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031028572",
+   "year": 2007,
+   "cited_by_count": 4083,
+   "title": "Topological insulators with inversion symmetry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094519360",
+   "year": 2012,
+   "cited_by_count": 1678,
+   "title": "Dirac Semimetal in Three Dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171742305",
+   "year": 2000,
+   "cited_by_count": 1464,
+   "title": "High-Field Electrical Transport in Single-Wall Carbon Nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024346440",
+   "year": 2009,
+   "cited_by_count": 1222,
+   "title": "Observation of Unconventional Quantum Spin Textures in Topological Insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984659995",
+   "year": 1992,
+   "cited_by_count": 1110,
+   "title": "Transmission through barriers and resonant tunneling in an interacting one-dimensional electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085262020",
+   "year": 1992,
+   "cited_by_count": 1107,
+   "title": "Transport in a one-channel Luttinger liquid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992973582",
+   "year": 1997,
+   "cited_by_count": 1024,
+   "title": "Size, Shape, and Low Energy Electronic Structure of Carbon Nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051299771",
+   "year": 2009,
+   "cited_by_count": 963,
+   "title": "Josephson current and noise at a superconductor/quantum-spin-Hall-insulator/superconductor junction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064989124",
+   "year": 2006,
+   "cited_by_count": 879,
+   "title": "Time reversal polarization and a Z 2 adiabatic spin pump",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032550842",
+   "year": 1988,
+   "cited_by_count": 833,
+   "title": "Correlations and Fluctuations of Coherent Wave Transmission through Disordered Media",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054684739",
+   "year": 1989,
+   "cited_by_count": 815,
+   "title": "Motion of a single hole in a quantum antiferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1944815762",
+   "year": 2015,
+   "cited_by_count": 802,
+   "title": "Dirac Line Nodes in Inversion-Symmetric Crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992940474",
+   "year": 2010,
+   "cited_by_count": 781,
+   "title": "Topological defects and gapless modes in insulators and superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999436089",
+   "year": 2013,
+   "cited_by_count": 781,
+   "title": "Topological boundary modes in isostatic lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171464705",
+   "year": 2008,
+   "cited_by_count": 734,
+   "title": "Surface states and topological invariants in three-dimensional topological insulators: Application to Bi1−xSbx",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1858384429",
+   "year": 2015,
+   "cited_by_count": 687,
+   "title": "Dirac Semimetals in Two Dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965767914",
+   "year": 1997,
+   "cited_by_count": 587,
+   "title": "Coulomb Interactions and Mesoscopic Effects in Carbon Nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045589475",
+   "year": 2009,
+   "cited_by_count": 558,
+   "title": "Probing Neutral Majorana Fermion Edge Modes with Charge Transport",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2188764493",
+   "year": 2016,
+   "cited_by_count": 350,
+   "title": "Double Dirac Semimetals in Three Dimensions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086999135",
+   "year": 1997,
+   "cited_by_count": 324,
+   "title": "Quantized thermal transport in the fractional quantum Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051392931",
+   "year": 1994,
+   "cited_by_count": 303,
+   "title": "Randomness at the edge: Theory of quantum Hall transport at filling ν=2/3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971776255",
+   "year": 1994,
+   "cited_by_count": 291,
+   "title": "Nonequilibrium noise and fractional charge in the quantum Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013398427",
+   "year": 2002,
+   "cited_by_count": 272,
+   "title": "Fractional Quantum Hall Effect in an Array of Quantum Wires",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125461253",
+   "year": 2013,
+   "cited_by_count": 272,
+   "title": "Surface State Magnetization and Chiral Edge States on Topological Insulators",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995147463",
+   "year": 2013,
+   "cited_by_count": 268,
+   "title": "Time-Reversal-Invariant Topological Superconductivity and Majorana Kramers Pairs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154083514",
+   "year": 2009,
+   "cited_by_count": 258,
+   "title": "Superconducting Proximity Effect and Majorana Fermions at the Surface of a Topological Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013548522",
+   "year": 2014,
+   "cited_by_count": 253,
+   "title": "From Luttinger liquid to non-Abelian quantum Hall states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1500786217",
+   "year": 2015,
+   "cited_by_count": 251,
+   "title": "Phonons and elasticity in critically coordinated lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125855725",
+   "year": 1998,
+   "cited_by_count": 239,
+   "title": "Temperature-dependent resistivity of single-wall carbon nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089907411",
+   "year": 1990,
+   "cited_by_count": 230,
+   "title": "Boson-vortex-Skyrmion duality, spin-singlet fractional quantum Hall effect, and spin-1/2 anyon superconductivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023201054",
+   "year": 2010,
+   "cited_by_count": 221,
+   "title": "Observation of neutral modes in the fractional quantum Hall regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044871492",
+   "year": 1995,
+   "cited_by_count": 213,
+   "title": "Impurity scattering and transport of fractional quantum Hall edge states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985972112",
+   "year": 2013,
+   "cited_by_count": 208,
+   "title": "Topological Mirror Superconductivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009424230",
+   "year": 2003,
+   "cited_by_count": 207,
+   "title": "Ratio Problem in Single Carbon Nanotube Fluorescence Spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076434546",
+   "year": 2004,
+   "cited_by_count": 203,
+   "title": "Direct Measurement of the Polarized Optical Absorption Cross Section of Single-Wall Carbon Nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037542914",
+   "year": 1993,
+   "cited_by_count": 196,
+   "title": "Resonant tunneling between quantum Hall edge states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095492800",
+   "year": 1996,
+   "cited_by_count": 188,
+   "title": "Thermal Transport in a Luttinger Liquid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048567233",
+   "year": 1990,
+   "cited_by_count": 187,
+   "title": "Mean-field theory of the spiral phases of a doped antiferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078247775",
+   "year": 2012,
+   "cited_by_count": 179,
+   "title": "Surface states of topological insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015325052",
+   "year": 2004,
+   "cited_by_count": 176,
+   "title": "Electron Interactions and Scaling Relations for Optical Excitations in Carbon Nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020542184",
+   "year": 2012,
+   "cited_by_count": 174,
+   "title": "Topology, Delocalization via Average Symmetry and the Symplectic Anderson Transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1788280989",
+   "year": 2014,
+   "cited_by_count": 165,
+   "title": "Bulk Dirac Points in Distorted Spinels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064155211",
+   "year": 2000,
+   "cited_by_count": 156,
+   "title": "Electronic structure of carbon nanotube ropes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964122681",
+   "year": 2013,
+   "cited_by_count": 150,
+   "title": "Bosonic topological insulator in three dimensions and the statistical Witten effect",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054657898",
+   "year": 2010,
+   "cited_by_count": 148,
+   "title": "Majorana Fermions and Non-Abelian Statistics in Three Dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1801388537",
+   "year": 2014,
+   "cited_by_count": 147,
+   "title": "Time-Reversal-Invariant Z4 Fractional Josephson Effect",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093926886",
+   "year": 1992,
+   "cited_by_count": 146,
+   "title": "Resonant tunneling in an interacting one-dimensional electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4299562839",
+   "year": 2011,
+   "cited_by_count": 145,
+   "title": "Topological insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1620821418",
+   "year": 2015,
+   "cited_by_count": 144,
+   "title": "Symmetry-respecting topologically ordered surface phase of three-dimensional electron topological insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087204705",
+   "year": 2009,
+   "cited_by_count": 136,
+   "title": "Critical behavior of a point contact in a quantum spin Hall insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2414003006",
+   "year": 2016,
+   "cited_by_count": 133,
+   "title": "Topological Phonons and Weyl Lines in Three Dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965745067",
+   "year": 2001,
+   "cited_by_count": 132,
+   "title": "Sliding Luttinger liquid phases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984638721",
+   "year": 2011,
+   "cited_by_count": 131,
+   "title": "Using fourth‐party logistics management to improve horizontal collaboration among grocery retailers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073322000",
+   "year": 2011,
+   "cited_by_count": 129,
+   "title": "Theoretical investigation of the evolution of the topological phase of Bi 2 Se 3 under mechanical strain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2343739632",
+   "year": 2016,
+   "cited_by_count": 122,
+   "title": "Spin-orbit semimetals in the layer groups",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000718089",
+   "year": 1988,
+   "cited_by_count": 118,
+   "title": "Long-range correlations in disordered metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083050243",
+   "year": 1992,
+   "cited_by_count": 105,
+   "title": "Saddle-point pairing: An electronic mechanism for superconductivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016188295",
+   "year": 2011,
+   "cited_by_count": 104,
+   "title": "Interface between Topological and Superconducting Qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984253718",
+   "year": 1992,
+   "cited_by_count": 102,
+   "title": "Evidence for the van Hove scenario in high-temperature superconductivity from quasiparticle-lifetime broadening",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1831754133",
+   "year": 2006,
+   "cited_by_count": 78,
+   "title": "A New Spin on the Insulating State",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2785995744",
+   "year": 2018,
+   "cited_by_count": 71,
+   "title": "Dirac-Weyl Semimetal: Coexistence of Dirac and Weyl Fermions in Polar Hexagonal ABC Crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076473523",
+   "year": 2008,
+   "cited_by_count": 67,
+   "title": "An insulator with a twist",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024205638",
+   "year": 1994,
+   "cited_by_count": 66,
+   "title": "Fermi-edge singularities and backscattering in a weakly interacting one-dimensional electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090764804",
+   "year": 2003,
+   "cited_by_count": 65,
+   "title": "Telegraph Noise and Fractional Statistics in the Quantum Hall Effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964722015",
+   "year": 1988,
+   "cited_by_count": 64,
+   "title": "Voltage fluctuations in multilead devices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104915587",
+   "year": 2014,
+   "cited_by_count": 63,
+   "title": "Anomalous topological pumps and fractional Josephson effects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949867928",
+   "year": 2017,
+   "cited_by_count": 63,
+   "title": "Pairing in Luttinger Liquids and Quantum Hall States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015320629",
+   "year": 2013,
+   "cited_by_count": 62,
+   "title": "Absence of Luttinger’s Theorem due to Zeros in the Single-Particle Green Function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966449560",
+   "year": 1998,
+   "cited_by_count": 60,
+   "title": "Quantum Brownian motion in a periodic potential and the multichannel Kondo problem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072938079",
+   "year": 1995,
+   "cited_by_count": 60,
+   "title": "Contacts and edge-state equilibration in the fractional quantum Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016322959",
+   "year": 1991,
+   "cited_by_count": 58,
+   "title": "General validity of Jastrow-Laughlin wave functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055884479",
+   "year": 2006,
+   "cited_by_count": 57,
+   "title": "One-dimensional diffusion-limited relaxation of photoexcitations in suspensions of single-walled carbon nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052579347",
+   "year": 1999,
+   "cited_by_count": 56,
+   "title": "Broken symmetries in scanning tunneling images of carbon nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964142917",
+   "year": 2005,
+   "cited_by_count": 54,
+   "title": "Erasing electron mass",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072126631",
+   "year": 2013,
+   "cited_by_count": 54,
+   "title": "Spin texture on the Fermi surface of tensile-strained HgTe",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

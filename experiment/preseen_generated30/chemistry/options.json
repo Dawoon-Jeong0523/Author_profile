@@ -1,0 +1,384 @@
+{
+ "field": "chemistry",
+ "version": "preseen-generated (normalize 2026-10-06 12:13 CDT)",
+ "options": [
+  {
+   "rank": 1,
+   "option": "for the development of next-generation DNA sequencing — Shankar Balasubramanian, David Klenerman, Hagan Bayley",
+   "discovery": "for the development of next-generation DNA sequencing",
+   "people": [
+    {
+     "name": "Shankar Balasubramanian"
+    },
+    {
+     "name": "David Klenerman"
+    },
+    {
+     "name": "Hagan Bayley"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "option": "for the development of perovskite solar cells — Tsutomu Miyasaka, Nam-Gyu Park, Henry Snaith",
+   "discovery": "for the development of perovskite solar cells",
+   "people": [
+    {
+     "name": "Tsutomu Miyasaka"
+    },
+    {
+     "name": "Nam-Gyu Park"
+    },
+    {
+     "name": "Henry Snaith"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "option": "for the development of self-assembled monolayers — David L. Allara, Ralph G. Nuzzo, Jacob Sagiv",
+   "discovery": "for the development of self-assembled monolayers",
+   "people": [
+    {
+     "name": "David L. Allara"
+    },
+    {
+     "name": "Ralph G. Nuzzo"
+    },
+    {
+     "name": "Jacob Sagiv"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "option": "for the discovery of long-range electron transfer in proteins — Harry B. Gray, Jay R. Winkler",
+   "discovery": "for the discovery of long-range electron transfer in proteins",
+   "people": [
+    {
+     "name": "Harry B. Gray"
+    },
+    {
+     "name": "Jay R. Winkler"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "option": "for the development of base editing and prime editing — David R. Liu",
+   "discovery": "for the development of base editing and prime editing",
+   "people": [
+    {
+     "name": "David R. Liu"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "option": "for the development of programmable synthesis of carbohydrates and glycoproteins — Chi-Huey Wong",
+   "discovery": "for the development of programmable synthesis of carbohydrates and glycoproteins",
+   "people": [
+    {
+     "name": "Chi-Huey Wong"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "option": "for the development of controlled radical polymerization — Krzysztof Matyjaszewski, Mitsuo Sawamoto, Ezio Rizzardo",
+   "discovery": "for the development of controlled radical polymerization",
+   "people": [
+    {
+     "name": "Krzysztof Matyjaszewski"
+    },
+    {
+     "name": "Mitsuo Sawamoto"
+    },
+    {
+     "name": "Ezio Rizzardo"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "option": "for the development of single-atom catalysis — Tao Zhang",
+   "discovery": "for the development of single-atom catalysis",
+   "people": [
+    {
+     "name": "Tao Zhang"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "option": "for the development of skeletal editing — Mark Levin, Richmond Sarpong, Bill Morandi",
+   "discovery": "for the development of skeletal editing",
+   "people": [
+    {
+     "name": "Mark Levin"
+    },
+    {
+     "name": "Richmond Sarpong"
+    },
+    {
+     "name": "Bill Morandi"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "option": "for the discovery of phase-separated biomolecular condensates in cellular organization — Clifford P. Brangwynne, Anthony A. Hyman, Michael K. Rosen",
+   "discovery": "for the discovery of phase-separated biomolecular condensates in cellular organization",
+   "people": [
+    {
+     "name": "Clifford P. Brangwynne"
+    },
+    {
+     "name": "Anthony A. Hyman"
+    },
+    {
+     "name": "Michael K. Rosen"
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "option": "for the development of photocatalytic water splitting for solar hydrogen production — Kazunari Domen",
+   "discovery": "for the development of photocatalytic water splitting for solar hydrogen production",
+   "people": [
+    {
+     "name": "Kazunari Domen"
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "option": "for the development of ab initio molecular dynamics — Roberto Car, Michele Parrinello",
+   "discovery": "for the development of ab initio molecular dynamics",
+   "people": [
+    {
+     "name": "Roberto Car"
+    },
+    {
+     "name": "Michele Parrinello"
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "option": "for the development of synthetic gene circuits — James J. Collins, Michael Elowitz, Stanislas Leibler",
+   "discovery": "for the development of synthetic gene circuits",
+   "people": [
+    {
+     "name": "James J. Collins"
+    },
+    {
+     "name": "Michael Elowitz"
+    },
+    {
+     "name": "Stanislas Leibler"
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "option": "for the development of polymeric systems for targeted drug and gene delivery — Kazunori Kataoka, Vladimir P. Torchilin, Karen L. Wooley",
+   "discovery": "for the development of polymeric systems for targeted drug and gene delivery",
+   "people": [
+    {
+     "name": "Kazunori Kataoka"
+    },
+    {
+     "name": "Vladimir P. Torchilin"
+    },
+    {
+     "name": "Karen L. Wooley"
+    }
+   ]
+  },
+  {
+   "rank": 15,
+   "option": "for the development of flexible organic electronics and electronic skin — Zhenan Bao",
+   "discovery": "for the development of flexible organic electronics and electronic skin",
+   "people": [
+    {
+     "name": "Zhenan Bao"
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "option": "for the discovery of bacterial quorum sensing as a chemical communication system — Bonnie L. Bassler, E. Peter Greenberg",
+   "discovery": "for the discovery of bacterial quorum sensing as a chemical communication system",
+   "people": [
+    {
+     "name": "Bonnie L. Bassler"
+    },
+    {
+     "name": "E. Peter Greenberg"
+    }
+   ]
+  },
+  {
+   "rank": 17,
+   "option": "for the development of proton-coupled electron transfer theory and its applications — Daniel G. Nocera",
+   "discovery": "for the development of proton-coupled electron transfer theory and its applications",
+   "people": [
+    {
+     "name": "Daniel G. Nocera"
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "option": "for the development of palladium-catalyzed carbon–nitrogen bond formation — Stephen L. Buchwald, John F. Hartwig",
+   "discovery": "for the development of palladium-catalyzed carbon–nitrogen bond formation",
+   "people": [
+    {
+     "name": "Stephen L. Buchwald"
+    },
+    {
+     "name": "John F. Hartwig"
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "option": "for the development of coordination-driven molecular self-assembly — Makoto Fujita",
+   "discovery": "for the development of coordination-driven molecular self-assembly",
+   "people": [
+    {
+     "name": "Makoto Fujita"
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "option": "for the development of computational methods for molecular design in solution — William L. Jorgensen",
+   "discovery": "for the development of computational methods for molecular design in solution",
+   "people": [
+    {
+     "name": "William L. Jorgensen"
+    }
+   ]
+  },
+  {
+   "rank": 21,
+   "option": "for the invention of organic light-emitting diodes — Ching W. Tang, Steven Van Slyke",
+   "discovery": "for the invention of organic light-emitting diodes",
+   "people": [
+    {
+     "name": "Ching W. Tang"
+    },
+    {
+     "name": "Steven Van Slyke"
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "option": "for the development of ordered mesoporous materials — Charles T. Kresge, Ryong Ryoo, Galen D. Stucky",
+   "discovery": "for the development of ordered mesoporous materials",
+   "people": [
+    {
+     "name": "Charles T. Kresge"
+    },
+    {
+     "name": "Ryong Ryoo"
+    },
+    {
+     "name": "Galen D. Stucky"
+    }
+   ]
+  },
+  {
+   "rank": 23,
+   "option": "for the development of dendritic polymers — Jean M. J. Fréchet, Donald A. Tomalia",
+   "discovery": "for the development of dendritic polymers",
+   "people": [
+    {
+     "name": "Jean M. J. Fréchet"
+    },
+    {
+     "name": "Donald A. Tomalia"
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "option": "for the development of C–H bond activation and functionalization — Robert G. Bergman, John E. Bercaw",
+   "discovery": "for the development of C–H bond activation and functionalization",
+   "people": [
+    {
+     "name": "Robert G. Bergman"
+    },
+    {
+     "name": "John E. Bercaw"
+    }
+   ]
+  },
+  {
+   "rank": 25,
+   "option": "for the development of theoretical methods for heterogeneous catalysis on solid surfaces — Jens K. Nørskov",
+   "discovery": "for the development of theoretical methods for heterogeneous catalysis on solid surfaces",
+   "people": [
+    {
+     "name": "Jens K. Nørskov"
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "option": "for the development of catalytic asymmetric epoxidation with chiral salen complexes — Eric N. Jacobsen",
+   "discovery": "for the development of catalytic asymmetric epoxidation with chiral salen complexes",
+   "people": [
+    {
+     "name": "Eric N. Jacobsen"
+    }
+   ]
+  },
+  {
+   "rank": 27,
+   "option": "for the discovery of radical mechanisms in ribonucleotide reductases — JoAnne Stubbe",
+   "discovery": "for the discovery of radical mechanisms in ribonucleotide reductases",
+   "people": [
+    {
+     "name": "JoAnne Stubbe"
+    }
+   ]
+  },
+  {
+   "rank": 28,
+   "option": "for the development of phosphoramidite chemistry for automated DNA synthesis — Marvin H. Caruthers",
+   "discovery": "for the development of phosphoramidite chemistry for automated DNA synthesis",
+   "people": [
+    {
+     "name": "Marvin H. Caruthers"
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "option": "for the discovery of cell-free fetal DNA in maternal plasma and its use in noninvasive prenatal testing — Dennis Lo Yuk-Ming",
+   "discovery": "for the discovery of cell-free fetal DNA in maternal plasma and its use in noninvasive prenatal testing",
+   "people": [
+    {
+     "name": "Dennis Lo Yuk-Ming"
+    }
+   ]
+  },
+  {
+   "rank": 30,
+   "option": "for the development of polymer-based controlled drug delivery — Robert S. Langer",
+   "discovery": "for the development of polymer-based controlled drug delivery",
+   "people": [
+    {
+     "name": "Robert S. Langer"
+    }
+   ]
+  }
+ ],
+ "edits": [
+  "2026-10-06 (Claude): 'Richard Sarpong' -> 'Richmond Sarpong' (the UC Berkeley skeletal-editing chemist; Preseen's first name was wrong)"
+ ]
+}

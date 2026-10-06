@@ -1,0 +1,655 @@
+{
+ "person": "Albrecht Karle",
+ "profile": "A5064240266",
+ "ids": [
+  "A5064240266",
+  "A5107934320"
+ ],
+ "options": [
+  "for pioneering contributions to neutrino astronomy, in particular the discovery of high-energy cosmic neutrinos — Francis Halzen, Albrecht Karle, Naoko Kurahashi Neilson"
+ ],
+ "birth_year": 1961,
+ "cutoff_year": 1986,
+ "works": [
+  {
+   "paper_id": "W1530183786",
+   "year": 2013,
+   "cited_by_count": 1614,
+   "title": "Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2588745414",
+   "year": 2017,
+   "cited_by_count": 770,
+   "title": "The IceCube Neutrino Observatory: instrumentation and online systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2496932746",
+   "year": 2016,
+   "cited_by_count": 486,
+   "title": "OBSERVATION AND CHARACTERIZATION OF A COSMIC MUON NEUTRINO FLUX FROM THE NORTHERN HEMISPHERE USING SIX YEARS OF ICECUBE DATA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138307968",
+   "year": 2006,
+   "cited_by_count": 471,
+   "title": "First year performance of the IceCube neutrino telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1700467429",
+   "year": 2015,
+   "cited_by_count": 461,
+   "title": "A COMBINED MAXIMUM-LIKELIHOOD ANALYSIS OF THE HIGH-ENERGY ASTROPHYSICAL NEUTRINO FLUX MEASURED WITH ICECUBE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102693142",
+   "year": 2009,
+   "cited_by_count": 417,
+   "title": "The IceCube data acquisition system: Signal capture, digitization, and timestamping",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3004708784",
+   "year": 2020,
+   "cited_by_count": 412,
+   "title": "Time-Integrated Neutrino Source Searches with 10 Years of IceCube Data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098322373",
+   "year": 2021,
+   "cited_by_count": 343,
+   "title": "IceCube high-energy starting event sample: Description and flux characterization with 7.5 years of data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1931086765",
+   "year": 2015,
+   "cited_by_count": 341,
+   "title": "Evidence for Astrophysical Muon Neutrinos from the Northern Sky with IceCube",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019094263",
+   "year": 2013,
+   "cited_by_count": 302,
+   "title": "Search for Dark Matter Annihilations in the Sun with the 79-String IceCube Detector",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2523731583",
+   "year": 2017,
+   "cited_by_count": 299,
+   "title": "All-sky Search for Time-integrated Neutrino Emission from Astrophysical Sources with 7 yr of IceCube Data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056128073",
+   "year": 2011,
+   "cited_by_count": 263,
+   "title": "Design and initial performance of the Askaryan Radio Array prototype EeV neutrino detector at the South Pole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034247466",
+   "year": 1997,
+   "cited_by_count": 259,
+   "title": "The Baikal underwater neutrino telescope: Design, performance, and first results",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2565963586",
+   "year": 2017,
+   "cited_by_count": 250,
+   "title": "THE CONTRIBUTION OF FERMI-2LAC BLAZARS TO DIFFUSE TEV–PEV NEUTRINO FLUX",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3001421204",
+   "year": 2020,
+   "cited_by_count": 247,
+   "title": "Characteristics of the Diffuse Astrophysical Electron and Tau Neutrino Flux with Six Years of IceCube High Energy Cascade Data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2810678360",
+   "year": 2018,
+   "cited_by_count": 240,
+   "title": "Differential limit on the extremely-high-energy cosmic neutrino flux in the presence of astrophysical background from nine years of IceCube data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2518302208",
+   "year": 2016,
+   "cited_by_count": 210,
+   "title": "Searches for Sterile Neutrinos with the IceCube Detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073326926",
+   "year": 2008,
+   "cited_by_count": 203,
+   "title": "Methods for point source analysis in high energy neutrino telescopes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2588146352",
+   "year": 2017,
+   "cited_by_count": 198,
+   "title": "The IceCube realtime alert system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2593886914",
+   "year": 2017,
+   "cited_by_count": 191,
+   "title": "Search for annihilating dark matter in the Sun with 3 years of IceCube data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2737879816",
+   "year": 2018,
+   "cited_by_count": 175,
+   "title": "Measurement of Atmospheric Neutrino Oscillations at 6–56 GeV with IceCube DeepCore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054023655",
+   "year": 2009,
+   "cited_by_count": 161,
+   "title": "Limits on a Muon Flux from Neutralino Annihilations in the Sun with the IceCube 22-String Detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2981988076",
+   "year": 2019,
+   "cited_by_count": 157,
+   "title": "Cosmic ray spectrum and composition from PeV to EeV using 3 years of data from IceTop and IceCube",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2498671429",
+   "year": 2016,
+   "cited_by_count": 155,
+   "title": "Constraints on Ultrahigh-Energy Cosmic-Ray Sources from a Search for Neutrinos above 10 PeV with IceCube",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2605775052",
+   "year": 2017,
+   "cited_by_count": 151,
+   "title": "Search for sterile neutrino mixing using three years of IceCube DeepCore data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2262222539",
+   "year": 2016,
+   "cited_by_count": 148,
+   "title": "AN ALL-SKY SEARCH FOR THREE FLAVORS OF NEUTRINOS FROM GAMMA-RAY BURSTS WITH THE ICECUBE NEUTRINO OBSERVATORY",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2298582657",
+   "year": 2016,
+   "cited_by_count": 146,
+   "title": "High-energy neutrino follow-up search of gravitational wave event GW150914 with ANTARES and IceCube",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149168235",
+   "year": 2016,
+   "cited_by_count": 139,
+   "title": "Performance of two Askaryan Radio Array stations and first results in the search for ultrahigh energy neutrinos",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2735092754",
+   "year": 2017,
+   "cited_by_count": 139,
+   "title": "Constraints on Galactic Neutrino Emission with Seven Years of IceCube Data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3139303559",
+   "year": 2021,
+   "cited_by_count": 134,
+   "title": "Design and Sensitivity of the Radio Neutrino Observatory in Greenland (RNO-G)",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2226044131",
+   "year": 2016,
+   "cited_by_count": 132,
+   "title": "Improved limits on dark matter annihilation in the Sun with the 79-string IceCube detector and implications for supersymmetry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158001103",
+   "year": 2003,
+   "cited_by_count": 118,
+   "title": "IceCube — the next generation neutrino telescope at the South Pole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2288676749",
+   "year": 2016,
+   "cited_by_count": 111,
+   "title": "ANISOTROPY IN COSMIC-RAY ARRIVAL DIRECTIONS IN THE SOUTHERN HEMISPHERE BASED ON SIX YEARS OF DATA FROM THE ICECUBE DETECTOR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2909196303",
+   "year": 2019,
+   "cited_by_count": 111,
+   "title": "Measurement of atmospheric tau neutrino appearance with IceCube DeepCore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029525000",
+   "year": 2011,
+   "cited_by_count": 110,
+   "title": "Search for a diffuse flux of astrophysical muon neutrinos with the IceCube 40-string detector",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2110170696",
+   "year": 2007,
+   "cited_by_count": 104,
+   "title": "Multiyear search for a diffuse flux of muon neutrinos with AMANDA-II",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3100572658",
+   "year": 2018,
+   "cited_by_count": 102,
+   "title": "Search for steady point-like sources in the astrophysical muon neutrino flux with 8 years of IceCube data",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2617184019",
+   "year": 2017,
+   "cited_by_count": 96,
+   "title": "Search for neutrinos from dark matter self-annihilations in the center of the Milky Way with 3 years of IceCube/DeepCore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W23640433",
+   "year": 2005,
+   "cited_by_count": 92,
+   "title": "The IceCube Collaboration",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118892856",
+   "year": 2009,
+   "cited_by_count": 91,
+   "title": "Determination of the atmospheric neutrino flux and searches for new physics with AMANDA-II",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2902245235",
+   "year": 2018,
+   "cited_by_count": 89,
+   "title": "Search for neutrinos from decaying dark matter with IceCube",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3028731681",
+   "year": 2020,
+   "cited_by_count": 89,
+   "title": "eV-Scale Sterile Neutrino Search Using Eight Years of Atmospheric Muon Neutrino Data from the IceCube Neutrino Observatory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070852564",
+   "year": 2014,
+   "cited_by_count": 88,
+   "title": "Generalized self-veto probability for atmospheric neutrinos",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090733684",
+   "year": 2013,
+   "cited_by_count": 83,
+   "title": "Measurement of the Atmospheric νe Flux in IceCube",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1817092880",
+   "year": 2016,
+   "cited_by_count": 79,
+   "title": "Characterization of the atmospheric muon flux in IceCube",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2595337983",
+   "year": 2017,
+   "cited_by_count": 75,
+   "title": "PINGU: a vision for neutrino and particle physics at the South Pole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3030189870",
+   "year": 2020,
+   "cited_by_count": 72,
+   "title": "Searching for eV-scale sterile neutrinos with eight years of atmospheric neutrinos at the IceCube Neutrino Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2278076889",
+   "year": 2017,
+   "cited_by_count": 71,
+   "title": "First search for a dark matter annual modulation signal with NaI(Tl) in the Southern Hemisphere by DM-Ice17",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124822098",
+   "year": 2007,
+   "cited_by_count": 70,
+   "title": "Detection of atmospheric muon neutrinos with the IceCube 9-string detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144404359",
+   "year": 2015,
+   "cited_by_count": 70,
+   "title": "First constraints on the ultra-high energy neutrino flux from a prototype station of the Askaryan Radio Array",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2991268723",
+   "year": 2020,
+   "cited_by_count": 69,
+   "title": "Constraints on the diffuse flux of ultrahigh energy neutrinos from four years of Askaryan Radio Array data in two stations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162299675",
+   "year": 2010,
+   "cited_by_count": 67,
+   "title": "Time-dependent point source search methods in high energy neutrino astronomy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2953236618",
+   "year": 2016,
+   "cited_by_count": 67,
+   "title": "THE FIRST COMBINED SEARCH FOR NEUTRINO POINT-SOURCES IN THE SOUTHERN HEMISPHERE WITH THE ANTARES AND ICECUBE NEUTRINO TELESCOPES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3101290255",
+   "year": 2019,
+   "cited_by_count": 67,
+   "title": "All-Sky Measurement of the Anisotropy of Cosmic Rays at 10 TeV and Mapping of the Local Interstellar Magnetic Field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112961624",
+   "year": 2007,
+   "cited_by_count": 64,
+   "title": "Five years of searches for point sources of astrophysical neutrinos with the AMANDA-II neutrino telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2891132494",
+   "year": 2019,
+   "cited_by_count": 64,
+   "title": "Design and performance of an interferometric trigger array for radio detection of high-energy neutrinos",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118523392",
+   "year": 2016,
+   "cited_by_count": 61,
+   "title": "Searches for relativistic magnetic monopoles in IceCube",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1984275430",
+   "year": 2009,
+   "cited_by_count": 60,
+   "title": "Search for point sources of high energy neutrinos with final data from AMANDA-II",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133004179",
+   "year": 2005,
+   "cited_by_count": 60,
+   "title": "Limits to the muon flux from neutralino annihilations in the Sun with the AMANDA detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2410857932",
+   "year": 2016,
+   "cited_by_count": 57,
+   "title": "All-flavour search for neutrinos from dark matter annihilations in the Milky Way with IceCube/DeepCore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106693238",
+   "year": 1997,
+   "cited_by_count": 55,
+   "title": "Optical properties of deep ice at the South Pole: absorption",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050159663",
+   "year": 1996,
+   "cited_by_count": 54,
+   "title": "Detection of gamma rays above 1 TeV from the Crab Nebula by the second HEGRA imaging atmospheric Cherenkov telescope at La Palma",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145319966",
+   "year": 2009,
+   "cited_by_count": 52,
+   "title": "FIRST NEUTRINO POINT-SOURCE RESULTS FROM THE 22 STRING ICECUBE DETECTOR",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3007345666",
+   "year": 2020,
+   "cited_by_count": 52,
+   "title": "Combined sensitivity to the neutrino mass ordering with JUNO, the IceCube Upgrade, and PINGU",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030328500",
+   "year": 2008,
+   "cited_by_count": 51,
+   "title": "Solar Energetic Particle Spectrum on 2006 December 13 Determined by IceTop",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968108553",
+   "year": 2014,
+   "cited_by_count": 50,
+   "title": "First data from DM-Ice17",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2323251910",
+   "year": 2014,
+   "cited_by_count": 50,
+   "title": "IceCube Enhanced Hot Water Drill functional description",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145585995",
+   "year": 2014,
+   "cited_by_count": 47,
+   "title": "Observation of the cosmic-ray shadow of the Moon with IceCube",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162127689",
+   "year": 2003,
+   "cited_by_count": 47,
+   "title": "Search for neutrino-induced cascades with the AMANDA detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2969887819",
+   "year": 2021,
+   "cited_by_count": 47,
+   "title": "Measurement of the high-energy all-flavor neutrino-nucleon cross section with IceCube",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1552565640",
+   "year": 2015,
+   "cited_by_count": 46,
+   "title": "THE DETECTION OF A SN IIn IN OPTICAL FOLLOW-UP OBSERVATIONS OF ICECUBE NEUTRINO EVENTS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3181048584",
+   "year": 2021,
+   "cited_by_count": 45,
+   "title": "Sensitivity studies for the IceCube-Gen2 radio array",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2757099451",
+   "year": 2018,
+   "cited_by_count": 44,
+   "title": "Search for nonstandard neutrino interactions with IceCube DeepCore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3016166587",
+   "year": 2020,
+   "cited_by_count": 43,
+   "title": "IceCube Search for Neutrinos Coincident with Compact Binary Mergers from LIGO-Virgo’s First Gravitational-wave Transient Catalog",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1578838488",
+   "year": 2014,
+   "cited_by_count": 38,
+   "title": "Multimessenger search for sources of gravitational waves and high-energy neutrinos: Initial results for LIGO-Virgo and IceCube",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112380542",
+   "year": 2007,
+   "cited_by_count": 38,
+   "title": "Search for Neutrino‐induced Cascades from Gamma‐Ray Bursts with AMANDA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2508745014",
+   "year": 2017,
+   "cited_by_count": 38,
+   "title": "First search for dark matter annihilations in the Earth with the IceCube detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126856236",
+   "year": 2012,
+   "cited_by_count": 37,
+   "title": "A search for the dark matter annual modulation in South Pole ice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2886660582",
+   "year": 2019,
+   "cited_by_count": 37,
+   "title": "Constraints on Minute-Scale Transient Astrophysical Neutrino Sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2618966523",
+   "year": 2017,
+   "cited_by_count": 36,
+   "title": "Astrophysical neutrinos and cosmic rays observed by IceCube",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

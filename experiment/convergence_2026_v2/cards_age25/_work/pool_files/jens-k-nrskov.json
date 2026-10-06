@@ -1,0 +1,654 @@
+{
+ "person": "Jens K. Nørskov",
+ "profile": "A5055238911",
+ "ids": [
+  "A5055238911"
+ ],
+ "options": [
+  "for the development of theoretical methods for heterogeneous catalysis on solid surfaces — Jens K. Nørskov"
+ ],
+ "birth_year": 1952,
+ "cutoff_year": 1977,
+ "works": [
+  {
+   "paper_id": "W2573377826",
+   "year": 2017,
+   "cited_by_count": 12201,
+   "title": "Combining theory and experiment in electrocatalysis: Insights into materials design",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167035995",
+   "year": 2004,
+   "cited_by_count": 11913,
+   "title": "Origin of the Overpotential for Oxygen Reduction at a Fuel-Cell Cathode",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991149034",
+   "year": 1999,
+   "cited_by_count": 7888,
+   "title": "Improved adsorption energetics within density-functional theory using revised Perdew-Burke-Ernzerhof functionals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022714449",
+   "year": 2005,
+   "cited_by_count": 5520,
+   "title": "Trends in the Exchange Current for Hydrogen Evolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2947264857",
+   "year": 2019,
+   "cited_by_count": 4483,
+   "title": "Progress and Perspectives of Electrochemical CO2 Reduction on Copper in Aqueous Electrolyte",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133406747",
+   "year": 2011,
+   "cited_by_count": 4345,
+   "title": "Universality in Oxygen Evolution Electrocatalysis on Oxide Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060745946",
+   "year": 2006,
+   "cited_by_count": 3949,
+   "title": "Computational high-throughput screening of electrocatalytic materials for hydrogen evolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133795748",
+   "year": 2005,
+   "cited_by_count": 3927,
+   "title": "Biomimetic Hydrogen Evolution: MoS 2 Nanoparticles as Catalyst for Hydrogen Evolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016366655",
+   "year": 2009,
+   "cited_by_count": 3908,
+   "title": "Towards the computational design of solid catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016632908",
+   "year": 1995,
+   "cited_by_count": 3654,
+   "title": "Why gold is the noblest of all the metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060023027",
+   "year": 2010,
+   "cited_by_count": 3539,
+   "title": "How copper catalyzes the electroreduction of carbon dioxide into hydrocarbon fuels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126954122",
+   "year": 2009,
+   "cited_by_count": 3084,
+   "title": "Alloys of platinum and early transition metals as oxygen reduction electrocatalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982153238",
+   "year": 2007,
+   "cited_by_count": 2890,
+   "title": "Electrolysis of water on oxide surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091775405",
+   "year": 1995,
+   "cited_by_count": 2650,
+   "title": "Electronic factors determining the reactivity of metal surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2323275360",
+   "year": 2015,
+   "cited_by_count": 2532,
+   "title": "Identification of Highly Active Fe Sites in (Ni,Fe)OOH for Electrocatalytic Water Splitting",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2785768358",
+   "year": 2018,
+   "cited_by_count": 2510,
+   "title": "Understanding Catalytic Activity Trends in the Oxygen Reduction Reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011377242",
+   "year": 2012,
+   "cited_by_count": 2455,
+   "title": "The Active Site of Methanol Synthesis over Cu/ZnO/Al 2 O 3 Industrial Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2220596051",
+   "year": 2015,
+   "cited_by_count": 2426,
+   "title": "Activating and optimizing MoS2 basal planes for hydrogen evolution through the formation of strained sulphur vacancies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973836541",
+   "year": 2011,
+   "cited_by_count": 2348,
+   "title": "Density functional theory in surface chemistry and catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032364562",
+   "year": 1998,
+   "cited_by_count": 2302,
+   "title": "Effect of Strain on the Reactivity of Metal Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967853451",
+   "year": 2010,
+   "cited_by_count": 2257,
+   "title": "Electronic structure calculations with GPAW: a real-space implementation of the projector augmented-wave method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2514157351",
+   "year": 2016,
+   "cited_by_count": 2067,
+   "title": "A highly active and stable IrO x /SrIrO 3 catalyst for the oxygen evolution reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115729799",
+   "year": 2006,
+   "cited_by_count": 2051,
+   "title": "Changing the Activity of Electrocatalysts for Oxygen Reduction by Tuning the Surface Electronic Structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W566353445",
+   "year": 2015,
+   "cited_by_count": 2026,
+   "title": "From the Sabatier principle to a predictive theory of transition-metal heterogeneous catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146546128",
+   "year": 2005,
+   "cited_by_count": 1876,
+   "title": "Electrolysis of water on (oxidized) metal surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2782723324",
+   "year": 2018,
+   "cited_by_count": 1685,
+   "title": "High-efficiency oxygen reduction to hydrogen peroxide catalysed by oxidized carbon materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991630775",
+   "year": 2004,
+   "cited_by_count": 1615,
+   "title": "The Brønsted–Evans–Polanyi relation and the volcano curve in heterogeneous catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973634181",
+   "year": 2007,
+   "cited_by_count": 1609,
+   "title": "Scaling Properties of Adsorption Energies for Hydrogen-Containing Molecules on Transition-Metal Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2314642759",
+   "year": 2012,
+   "cited_by_count": 1570,
+   "title": "Activity Descriptors for CO 2 Electroreduction to Methane on Transition-Metal Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974324776",
+   "year": 2011,
+   "cited_by_count": 1504,
+   "title": "A theoretical evaluation of possible transition metal electro-catalysts for N 2 reduction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2567342708",
+   "year": 2016,
+   "cited_by_count": 1484,
+   "title": "Materials for solar fuels and chemicals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015865951",
+   "year": 1996,
+   "cited_by_count": 1460,
+   "title": "CO Chemisorption at Metal Surfaces and Overlayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2328928309",
+   "year": 2012,
+   "cited_by_count": 1459,
+   "title": "Density functionals for surface science: Exchange-correlation model development with Bayesian error estimation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2946199134",
+   "year": 2019,
+   "cited_by_count": 1436,
+   "title": "A rigorous electrochemical ammonia synthesis protocol with quantitative isotope measurements",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989389325",
+   "year": 2004,
+   "cited_by_count": 1435,
+   "title": "Role of Strain and Ligand Effects in the Modification of the Electronic and Chemical Properties of Bimetallic Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048677711",
+   "year": 2004,
+   "cited_by_count": 1425,
+   "title": "Atomic-scale imaging of carbon nanofibre growth",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2332199196",
+   "year": 2013,
+   "cited_by_count": 1345,
+   "title": "Theoretical Investigation of the Activity of Cobalt Oxides for the Electrochemical Oxidation of Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169904128",
+   "year": 2002,
+   "cited_by_count": 1341,
+   "title": "Universality in Heterogeneous Catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1528588768",
+   "year": 1997,
+   "cited_by_count": 1330,
+   "title": "Surface electronic structure and reactivity of transition and noble metals1Communication presented at the First Francqui Colloquium, Brussels, 19–20 February 1996.1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127804733",
+   "year": 2008,
+   "cited_by_count": 1330,
+   "title": "Ammonia for hydrogen storage: challenges and opportunities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069988560",
+   "year": 2004,
+   "cited_by_count": 1325,
+   "title": "Modification of the surface electronic and chemical properties of Pt(111) by subsurface 3d transition metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148707525",
+   "year": 2015,
+   "cited_by_count": 1316,
+   "title": "The Challenge of Electrochemical Ammonia Synthesis: A New Perspective on the Role of Nitrogen Scaling Relations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162393583",
+   "year": 2005,
+   "cited_by_count": 1277,
+   "title": "Ammonia Synthesis from First-Principles Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040837725",
+   "year": 2008,
+   "cited_by_count": 1223,
+   "title": "Identification of Non-Precious Metal Alloy Catalysts for Selective Hydrogenation of Acetylene",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074527904",
+   "year": 2010,
+   "cited_by_count": 1205,
+   "title": "Modeling the Electrochemical Hydrogen Oxidation and Evolution Reactions on the Basis of Density Functional Theory Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119741652",
+   "year": 2002,
+   "cited_by_count": 1080,
+   "title": "Steam Reforming and Graphite Formation on Ni Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2321076274",
+   "year": 2012,
+   "cited_by_count": 1053,
+   "title": "Twin Problems of Interfacial Carbonate Formation in Nonaqueous Li–O2 Batteries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067746562",
+   "year": 1998,
+   "cited_by_count": 1042,
+   "title": "Design of a Surface Alloy Catalyst for Steam Reforming",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008359230",
+   "year": 2014,
+   "cited_by_count": 1034,
+   "title": "Discovery of a Ni-Ga catalyst for carbon dioxide reduction to methanol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016355541",
+   "year": 1999,
+   "cited_by_count": 1007,
+   "title": "Surface segregation energies in transition-metal alloys",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139491573",
+   "year": 2001,
+   "cited_by_count": 967,
+   "title": "Oxygen Vacancies as Active Sites for Water Dissociation on Rutile TiO2(110)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138728043",
+   "year": 1987,
+   "cited_by_count": 965,
+   "title": "Interatomic interactions in the effective-medium theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150892770",
+   "year": 2002,
+   "cited_by_count": 965,
+   "title": "E LECTRONIC S TRUCTURE AND C ATALYSIS ON M ETAL S URFACES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1894159837",
+   "year": 2015,
+   "cited_by_count": 961,
+   "title": "Designing an improved transition metal phosphide catalyst for hydrogen evolution using experimental and theoretical trends",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2560176924",
+   "year": 2016,
+   "cited_by_count": 936,
+   "title": "Electrochemical Ammonia Synthesis—The Selectivity Challenge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2666690075",
+   "year": 2017,
+   "cited_by_count": 899,
+   "title": "Understanding Selectivity for the Electrochemical Reduction of Carbon Dioxide to Formic Acid and Carbon Monoxide on Metal Electrodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018725655",
+   "year": 2007,
+   "cited_by_count": 896,
+   "title": "Catalytic activity of Au nanoparticles",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100929361",
+   "year": 2007,
+   "cited_by_count": 869,
+   "title": "Density functional theory calculations for the hydrogen evolution reaction in an electrochemical double layer on the Pt(111) electrode",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999115710",
+   "year": 2000,
+   "cited_by_count": 848,
+   "title": "Atomic-Scale Structure of Single-Layer MoS 2 Nanoclusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159742564",
+   "year": 2008,
+   "cited_by_count": 846,
+   "title": "The nature of the active site in heterogeneous metal catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080386283",
+   "year": 2001,
+   "cited_by_count": 844,
+   "title": "Catalyst Design by Interpolation in the Periodic Table: Bimetallic Ammonia Synthesis Catalysts",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2619468913",
+   "year": 2017,
+   "cited_by_count": 821,
+   "title": "Understanding trends in electrochemical carbon dioxide reduction rates",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2783949446",
+   "year": 2018,
+   "cited_by_count": 806,
+   "title": "Metal ion cycling of Cu foil for selective C–C coupling in electrochemical CO2 reduction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977307971",
+   "year": 2008,
+   "cited_by_count": 804,
+   "title": "Hydrogen evolution on nano-particulate transition metal sulfides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2313091276",
+   "year": 2015,
+   "cited_by_count": 801,
+   "title": "Theoretical Insights into a CO Dimerization Mechanism in CO 2 Electroreduction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1656038169",
+   "year": 1999,
+   "cited_by_count": 770,
+   "title": "Role of Steps in N 2 Activation on Ru(0001)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2971471509",
+   "year": 2019,
+   "cited_by_count": 761,
+   "title": "Highly selective oxygen reduction to hydrogen peroxide on transition metal single atom coordination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073936730",
+   "year": 2002,
+   "cited_by_count": 736,
+   "title": "Catalytic CO Oxidation by a Gold Nanoparticle: A Density Functional Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2328448780",
+   "year": 2014,
+   "cited_by_count": 730,
+   "title": "Tuning the MoS 2 Edge-Site Activity for Hydrogen Evolution via Support Interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965819687",
+   "year": 2013,
+   "cited_by_count": 714,
+   "title": "Understanding Trends in the Electrocatalytic Activity of Metals and Enzymes for CO 2 Reduction to CO",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990848217",
+   "year": 2008,
+   "cited_by_count": 709,
+   "title": "Oxidation and Photo-Oxidation of Water on TiO2Surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017219559",
+   "year": 2000,
+   "cited_by_count": 702,
+   "title": "The CO/Pt(111) Puzzle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2606964843",
+   "year": 2017,
+   "cited_by_count": 701,
+   "title": "Electrochemical generation of sulfur vacancies in the basal plane of MoS2 for hydrogen evolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977956754",
+   "year": 2001,
+   "cited_by_count": 695,
+   "title": "The Brønsted–Evans–Polanyi Relation and the Volcano Plot for Ammonia Synthesis over Transition Metal Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166116801",
+   "year": 2011,
+   "cited_by_count": 676,
+   "title": "The importance of surface morphology in controlling the selectivity of polycrystalline copper for CO2 electroreduction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2552529400",
+   "year": 2016,
+   "cited_by_count": 668,
+   "title": "Direct and continuous strain control of catalysts with tunable battery electrode materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046180172",
+   "year": 2000,
+   "cited_by_count": 664,
+   "title": "Making gold less noble",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146637427",
+   "year": 2015,
+   "cited_by_count": 662,
+   "title": "Transition-metal doped edge sites in vertically aligned MoS2 catalysts for enhanced hydrogen evolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2619141030",
+   "year": 2017,
+   "cited_by_count": 650,
+   "title": "Electrochemical Activation of CO2 through Atomic Ordering Transformations of AuCu Nanoparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103003278",
+   "year": 2008,
+   "cited_by_count": 640,
+   "title": "Surface Pourbaix diagrams and oxygen reduction activity of Pt, Ag and Ni(111) surfaces studied by DFT",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "person": "Allan H. MacDonald",
+ "profile": "A5022064172",
+ "ids": [
+  "A5022064172"
+ ],
+ "options": [
+  "for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene — Pablo Jarillo-Herrero, Allan H. MacDonald, Rafi Bistritzer"
+ ],
+ "birth_year": 1951,
+ "cutoff_year": 1976,
+ "works": [
+  {
+   "paper_id": "W2000564135",
+   "year": 2010,
+   "cited_by_count": 4344,
+   "title": "Anomalous Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127169435",
+   "year": 2011,
+   "cited_by_count": 2907,
+   "title": "Moiré bands in twisted double-layer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055928539",
+   "year": 2004,
+   "cited_by_count": 2085,
+   "title": "Universal Intrinsic Spin Hall Effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089843538",
+   "year": 2014,
+   "cited_by_count": 1942,
+   "title": "Observation of Majorana fermions in ferromagnetic atomic chains on a superconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053033894",
+   "year": 2012,
+   "cited_by_count": 1866,
+   "title": "Photonic topological insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2982376788",
+   "year": 2019,
+   "cited_by_count": 1545,
+   "title": "Superconductors, orbital magnets and correlated states in magic-angle bilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2916906462",
+   "year": 2019,
+   "cited_by_count": 1280,
+   "title": "Evidence for moiré excitons in van der Waals heterostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084790184",
+   "year": 2006,
+   "cited_by_count": 1202,
+   "title": "Theory of ferromagnetic (III,Mn)V semiconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069989016",
+   "year": 2006,
+   "cited_by_count": 1089,
+   "title": "Intrinsic and Rashba spin-orbit interactions in graphene sheets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999276332",
+   "year": 2004,
+   "cited_by_count": 944,
+   "title": "First Principles Calculation of Anomalous Hall Conductivity in Ferromagnetic bcc Fe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056990073",
+   "year": 2002,
+   "cited_by_count": 906,
+   "title": "Anomalous Hall Effect in Ferromagnetic Semiconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2465001862",
+   "year": 2017,
+   "cited_by_count": 860,
+   "title": "Interface-induced phenomena in magnetism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130694919",
+   "year": 2007,
+   "cited_by_count": 848,
+   "title": "Graphene: Exploring carbon flatland",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3011027949",
+   "year": 2020,
+   "cited_by_count": 823,
+   "title": "Simulation of Hubbard model physics in WSe2/WS2 moiré superlattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074953341",
+   "year": 2004,
+   "cited_by_count": 819,
+   "title": "Bose–Einstein condensation of excitons in bilayer electron systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087864610",
+   "year": 2014,
+   "cited_by_count": 810,
+   "title": "Anomalous Hall Effect Arising from Noncollinear Antiferromagnetism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060724751",
+   "year": 2006,
+   "cited_by_count": 798,
+   "title": "Quantum Hall Ferromagnetism in Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2295055930",
+   "year": 1986,
+   "cited_by_count": 797,
+   "title": "Magneto-roton theory of collective excitations in the fractional quantum Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971829588",
+   "year": 2014,
+   "cited_by_count": 784,
+   "title": "Capacitance of carbon-based electrical double-layer capacitors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2798201426",
+   "year": 2018,
+   "cited_by_count": 717,
+   "title": "Hubbard Model Physics in Transition Metal Dichalcogenide Moiré Bands",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086526546",
+   "year": 2005,
+   "cited_by_count": 710,
+   "title": "Ferromagnetic semiconductors: moving beyond (Ga,Mn)As",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963168260",
+   "year": 2019,
+   "cited_by_count": 700,
+   "title": "Topological Insulators in Twisted Transition Metal Dichalcogenide Homobilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114474373",
+   "year": 2013,
+   "cited_by_count": 679,
+   "title": "Ultrathin high-temperature oxidation-resistant coatings of hexagonal boron nitride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3022026775",
+   "year": 1995,
+   "cited_by_count": 665,
+   "title": "Spontaneous interlayer coherence in double-layer quantum Hall systems: Charged vortices and Kosterlitz-Thouless phase transitions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1760544772",
+   "year": 2007,
+   "cited_by_count": 649,
+   "title": "Quantum Transport of Massless Dirac Fermions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2794169850",
+   "year": 2018,
+   "cited_by_count": 615,
+   "title": "Topological antiferromagnetic spintronics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3133767177",
+   "year": 2021,
+   "cited_by_count": 571,
+   "title": "The marvels of moiré materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018605312",
+   "year": 2007,
+   "cited_by_count": 566,
+   "title": "Ab initiotheory of gate induced gaps in graphene bilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060418682",
+   "year": 1980,
+   "cited_by_count": 560,
+   "title": "A linearised relativistic augmented-plane-wave method utilising approximate pure spin basis functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004546742",
+   "year": 1979,
+   "cited_by_count": 549,
+   "title": "A relativistic density functional formalism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2591990932",
+   "year": 2017,
+   "cited_by_count": 530,
+   "title": "Tunable moiré bands and strong correlations in small-twist-angle bilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077651935",
+   "year": 1987,
+   "cited_by_count": 526,
+   "title": "Off-diagonal long-range order, oblique confinement, and the fractional quantum Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071537286",
+   "year": 2010,
+   "cited_by_count": 514,
+   "title": "Giant Magneto-Optical Kerr Effect and Universal Faraday Effect in Thin-Film Topological Insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009837247",
+   "year": 1985,
+   "cited_by_count": 492,
+   "title": "Collective-Excitation Gap in the Fractional Quantum Hall Effect",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075996078",
+   "year": 1991,
+   "cited_by_count": 484,
+   "title": "Mutual friction between parallel two-dimensional electron systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2804628806",
+   "year": 2018,
+   "cited_by_count": 479,
+   "title": "Theory of Phonon-Mediated Superconductivity in Twisted Bilayer Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999747233",
+   "year": 2011,
+   "cited_by_count": 476,
+   "title": "Spontaneous Quantum Hall States in Chirally Stacked Few-Layer Graphene Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064046240",
+   "year": 1988,
+   "cited_by_count": 465,
+   "title": "t U expansion for the Hubbard model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037145296",
+   "year": 2006,
+   "cited_by_count": 433,
+   "title": "Nonlinear Spin Current and Magnetoresistance of Molecular Tunnel Junctions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114259804",
+   "year": 2014,
+   "cited_by_count": 429,
+   "title": "Quantum Anomalous Hall Effect in Graphene Proximity Coupled to an Antiferromagnetic Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1953096683",
+   "year": 2015,
+   "cited_by_count": 428,
+   "title": "Strong interface-induced spin–orbit interaction in graphene on WS2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120106292",
+   "year": 2012,
+   "cited_by_count": 426,
+   "title": "Strong Coulomb drag and broken symmetry in double-layer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019885507",
+   "year": 2010,
+   "cited_by_count": 415,
+   "title": "Observation of Plasmarons in Quasi-Freestanding Doped Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2908992029",
+   "year": 2019,
+   "cited_by_count": 412,
+   "title": "Magnetic and magnetic inverse spin Hall effects in a non-collinear antiferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975305624",
+   "year": 2005,
+   "cited_by_count": 408,
+   "title": "Prospects for high temperature ferromagnetism in (Ga,Mn)As semiconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1651872625",
+   "year": 2010,
+   "cited_by_count": 393,
+   "title": "Band structure of A B C -stacked graphene trilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949293702",
+   "year": 2018,
+   "cited_by_count": 392,
+   "title": "On the nature of the correlated insulator states in twisted bilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118368638",
+   "year": 2013,
+   "cited_by_count": 389,
+   "title": "Valley Chern numbers and boundary modes in gapped bilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2338191418",
+   "year": 2016,
+   "cited_by_count": 375,
+   "title": "Electronic and magnetic properties of single-layer M P X 3 metal phosphorous trichalcogenides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051648236",
+   "year": 2015,
+   "cited_by_count": 353,
+   "title": "Origin of band gaps in graphene on hexagonal boron nitride",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122929259",
+   "year": 2008,
+   "cited_by_count": 349,
+   "title": "Room-temperature superfluidity in graphene bilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2539170375",
+   "year": 2017,
+   "cited_by_count": 348,
+   "title": "Topological Exciton Bands in Moiré Heterojunctions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020661186",
+   "year": 1990,
+   "cited_by_count": 327,
+   "title": "Edge states in the fractional-quantum-Hall-effect regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W64079490",
+   "year": 2001,
+   "cited_by_count": 324,
+   "title": "Theory of magnetic anisotropy in III1−xMnxV ferromagnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073029842",
+   "year": 2015,
+   "cited_by_count": 319,
+   "title": "Exciton band structure of monolayer MoS2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051557768",
+   "year": 1984,
+   "cited_by_count": 318,
+   "title": "Quantized Hall effect and edge currents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002314648",
+   "year": 2012,
+   "cited_by_count": 314,
+   "title": "Transport spectroscopy of symmetry-broken insulating states in bilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125665875",
+   "year": 2011,
+   "cited_by_count": 303,
+   "title": "Antiferromagnetic metal spintronics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2240067117",
+   "year": 2016,
+   "cited_by_count": 297,
+   "title": "Direct measurement of exciton valley coherence in monolayer WSe2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014997149",
+   "year": 2006,
+   "cited_by_count": 295,
+   "title": "Theory of spin torques and giant magnetoresistance in antiferromagnetic metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076861227",
+   "year": 2000,
+   "cited_by_count": 292,
+   "title": "Theory of Diluted Magnetic Semiconductor Ferromagnetism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133786853",
+   "year": 2009,
+   "cited_by_count": 292,
+   "title": "Electronic Cooling in Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2765433001",
+   "year": 2018,
+   "cited_by_count": 292,
+   "title": "Theory of optical absorption by interlayer excitons in transition metal dichalcogenide heterobilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1725645320",
+   "year": 2007,
+   "cited_by_count": 288,
+   "title": "Anomalous Hall effect in a two-dimensional Dirac band: The link between the Kubo-Streda formula and the semiclassical Boltzmann equation approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1589468776",
+   "year": 2008,
+   "cited_by_count": 283,
+   "title": "Plasmons and the spectral function of graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994989691",
+   "year": 1994,
+   "cited_by_count": 282,
+   "title": "Quantum ferromagnetism and phase transitions in double-layer quantum Hall systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033092755",
+   "year": 1984,
+   "cited_by_count": 282,
+   "title": "Crystallization of the incompressible quantum-fluid state of a two-dimensional electron gas in a strong magnetic field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2964631435",
+   "year": 2019,
+   "cited_by_count": 281,
+   "title": "Correlated Insulating States in Twisted Double Bilayer Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071991956",
+   "year": 2014,
+   "cited_by_count": 272,
+   "title": "Ab initiotheory of moiré superlattice bands in layered two-dimensional materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009647202",
+   "year": 1990,
+   "cited_by_count": 271,
+   "title": "Collapse of integer Hall gaps in a double-quantum-well system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3210538530",
+   "year": 2021,
+   "cited_by_count": 263,
+   "title": "Strongly correlated excitonic insulator in atomic double layers",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042911961",
+   "year": 1999,
+   "cited_by_count": 259,
+   "title": "Interlayer coupling in ferromagnetic semiconductor superlattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991500549",
+   "year": 2011,
+   "cited_by_count": 256,
+   "title": "Quantum anomalous Hall effect in single-layer and bilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2521216690",
+   "year": 2017,
+   "cited_by_count": 255,
+   "title": "Many-body theory of trion absorption features in two-dimensional semiconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021049210",
+   "year": 2008,
+   "cited_by_count": 249,
+   "title": "Chiral decomposition in the electronic structure of graphene multilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973042500",
+   "year": 2008,
+   "cited_by_count": 248,
+   "title": "Pseudospin magnetism in graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002222324",
+   "year": 2004,
+   "cited_by_count": 245,
+   "title": "Theory of spin-charge-coupled transport in a two-dimensional electron gas with Rashba spin-orbit interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2793331158",
+   "year": 2018,
+   "cited_by_count": 245,
+   "title": "Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072296880",
+   "year": 1987,
+   "cited_by_count": 242,
+   "title": "Edge states, transmission matrices, and the Hall resistance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2884059598",
+   "year": 2018,
+   "cited_by_count": 242,
+   "title": "Topologically Protected Helical States in Minimally Twisted Bilayer Graphene",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

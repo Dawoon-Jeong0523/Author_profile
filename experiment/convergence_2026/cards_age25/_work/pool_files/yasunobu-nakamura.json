@@ -1,0 +1,654 @@
+{
+ "person": "Yasunobu Nakamura",
+ "profile": "A5021940005",
+ "ids": [
+  "A5021940005"
+ ],
+ "options": [
+  "for the first coherent control of a superconducting quantum bit — Yasunobu Nakamura"
+ ],
+ "birth_year": 1968,
+ "cutoff_year": 1993,
+ "works": [
+  {
+   "paper_id": "W3037853801",
+   "year": 2010,
+   "cited_by_count": 3375,
+   "title": "Quantum computers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3102004576",
+   "year": 1999,
+   "cited_by_count": 1518,
+   "title": "Coherent control of macroscopic quantum states in a single-Cooper-pair box",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1966700487",
+   "year": 2003,
+   "cited_by_count": 1185,
+   "title": "Coherent Quantum Dynamics of a Superconducting Flux Qubit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000185340",
+   "year": 2014,
+   "cited_by_count": 960,
+   "title": "Hybridizing Ferromagnetic Magnons and Microwave Photons in the Quantum Limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1520835611",
+   "year": 2015,
+   "cited_by_count": 830,
+   "title": "Coherent coupling between a ferromagnetic magnon and a superconducting qubit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992629111",
+   "year": 2011,
+   "cited_by_count": 826,
+   "title": "Noise spectroscopy through dynamical decoupling with a superconducting flux qubit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969587259",
+   "year": 2004,
+   "cited_by_count": 730,
+   "title": "Coherent dynamics of a flux qubit coupled to a harmonic oscillator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046251754",
+   "year": 2003,
+   "cited_by_count": 704,
+   "title": "Quantum oscillations in two coupled charge qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085190926",
+   "year": 2010,
+   "cited_by_count": 694,
+   "title": "Resonance Fluorescence of a Single Artificial Atom",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969840935",
+   "year": 2003,
+   "cited_by_count": 619,
+   "title": "Demonstration of conditional gate operation using superconducting charge qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080151690",
+   "year": 2008,
+   "cited_by_count": 444,
+   "title": "Flux-driven Josephson parametric amplifier",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3010471835",
+   "year": 2020,
+   "cited_by_count": 433,
+   "title": "Hybrid quantum systems with circuit quantum electrodynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346140187",
+   "year": 2016,
+   "cited_by_count": 427,
+   "title": "Bidirectional conversion between microwave and light via ferromagnetic magnons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2300201209",
+   "year": 2016,
+   "cited_by_count": 417,
+   "title": "Cavity Optomagnonics with Spin-Orbit Coupled Photons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128018005",
+   "year": 2007,
+   "cited_by_count": 412,
+   "title": "Quantum Coherent Tunable Coupling of Superconducting Qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000386694",
+   "year": 2006,
+   "cited_by_count": 382,
+   "title": "Decoherence of Flux Qubits due to 1/f Flux Noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2729856006",
+   "year": 2017,
+   "cited_by_count": 338,
+   "title": "Resolving quanta of collective spin excitations in a millimeter-sized ferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022683833",
+   "year": 2010,
+   "cited_by_count": 330,
+   "title": "Electromagnetically Induced Transparency on a Single Artificial Atom",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033798881",
+   "year": 2002,
+   "cited_by_count": 323,
+   "title": "Charge Echo in a Cooper-Pair Box",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993504380",
+   "year": 2007,
+   "cited_by_count": 302,
+   "title": "Single artificial-atom lasing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011628122",
+   "year": 2004,
+   "cited_by_count": 288,
+   "title": "Quantum Noise in the Josephson Charge Qubit",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047883307",
+   "year": 2012,
+   "cited_by_count": 274,
+   "title": "Spin-current-driven thermoelectric coating",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020849835",
+   "year": 2009,
+   "cited_by_count": 253,
+   "title": "Ultrastrong coupling regime of cavity QED with phase-biased flux qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078631842",
+   "year": 2001,
+   "cited_by_count": 210,
+   "title": "Rabi Oscillations in a Josephson-Junction Charge Two-Level System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2302319554",
+   "year": 2016,
+   "cited_by_count": 203,
+   "title": "Single microwave-photon detector using an artificial Λ-type three-level system",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023727353",
+   "year": 1997,
+   "cited_by_count": 202,
+   "title": "Spectroscopy of Energy-Level Splitting between Two Macroscopic Quantum States of Charge Coherently Superposed by Josephson Coupling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1958674824",
+   "year": 2016,
+   "cited_by_count": 179,
+   "title": "Quantum magnonics: The magnon meets the superconducting qubit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012497330",
+   "year": 2012,
+   "cited_by_count": 179,
+   "title": "Path Entanglement of Continuous-Variable Quantum Microwaves",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071470060",
+   "year": 2013,
+   "cited_by_count": 151,
+   "title": "Rotating-frame relaxation as a noise spectrum analyser of a superconducting qubit undergoing driven evolution",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2770582247",
+   "year": 2018,
+   "cited_by_count": 151,
+   "title": "Brillouin Light Scattering by Magnetic Quasivortices in Cavity Optomagnonics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3026681027",
+   "year": 2020,
+   "cited_by_count": 149,
+   "title": "Dissipation-Based Quantum Sensing of Magnons with a Superconducting Qubit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970004848",
+   "year": 2008,
+   "cited_by_count": 126,
+   "title": "Vacuum Rabi splitting due to strong coupling of a flux qubit and a coplanar-waveguide resonator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1607435135",
+   "year": 2010,
+   "cited_by_count": 125,
+   "title": "Deterministic photon-photon SWAP gate using a Λ system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020052867",
+   "year": 2013,
+   "cited_by_count": 125,
+   "title": "Squeezing with a flux-driven Josephson parametric amplifier",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055325988",
+   "year": 2010,
+   "cited_by_count": 113,
+   "title": "Ultimate On-Chip Quantum Amplifier",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006865958",
+   "year": 2000,
+   "cited_by_count": 109,
+   "title": "Room-temperature Al single-electron transistor made by electron-beam lithography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027497632",
+   "year": 2006,
+   "cited_by_count": 107,
+   "title": "Tunable coupling scheme for flux qubits at the optimal point",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2197820338",
+   "year": 2012,
+   "cited_by_count": 104,
+   "title": "Spectroscopy of low-frequency noise and its temperature dependence in a superconducting qubit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2330716260",
+   "year": 2015,
+   "cited_by_count": 104,
+   "title": "Circuit-QED-based scalable architectures for quantum information processing with superconducting qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2764233126",
+   "year": 2017,
+   "cited_by_count": 100,
+   "title": "Qubit-Assisted Transduction for a Detection of Surface Acoustic Waves near the Quantum Limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124713524",
+   "year": 2014,
+   "cited_by_count": 92,
+   "title": "Flux qubit noise spectroscopy using Rabi oscillations under strong driving conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070158995",
+   "year": 2011,
+   "cited_by_count": 90,
+   "title": "Superconducting qubits consisting of epitaxially grown NbN/AlN/NbN Josephson junctions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073710850",
+   "year": 2013,
+   "cited_by_count": 89,
+   "title": "Improving Quantum Gate Fidelities by Using a Qubit to Measure Microwave Pulse Distortions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162972740",
+   "year": 2014,
+   "cited_by_count": 88,
+   "title": "Josephson parametric phase-locked oscillator and its application to dispersive readout of superconducting qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2345324236",
+   "year": 2016,
+   "cited_by_count": 88,
+   "title": "Superradiant Phase Transition in a Superconducting Circuit in Thermal Equilibrium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2172116888",
+   "year": 2015,
+   "cited_by_count": 82,
+   "title": "Electric Dipole Moment of the Neutron from 2+1 Flavor Lattice QCD",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133477904",
+   "year": 2008,
+   "cited_by_count": 79,
+   "title": "Interqubit coupling mediated by a high-excitation-energy quantum object",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082400495",
+   "year": 2004,
+   "cited_by_count": 78,
+   "title": "Single-shot measurement of the Josephson charge qubit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087847882",
+   "year": 2006,
+   "cited_by_count": 77,
+   "title": "Temperature Square Dependence of the Low Frequency 1/f Charge Noise in the Josephson Junction Qubits",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014170954",
+   "year": 2009,
+   "cited_by_count": 76,
+   "title": "Josephson charge qubits: a brief review",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2265200846",
+   "year": 2016,
+   "cited_by_count": 75,
+   "title": "Displacement of Propagating Squeezed Microwave States",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072839429",
+   "year": 2005,
+   "cited_by_count": 71,
+   "title": "Fast two-bit operations in inductively coupled flux qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033032455",
+   "year": 2014,
+   "cited_by_count": 69,
+   "title": "Microwave Down-Conversion with an Impedance-Matched Λ System in Driven Circuit QED",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016130443",
+   "year": 1996,
+   "cited_by_count": 65,
+   "title": "100-K Operation of Al-Based Single-Electron Transistors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152840138",
+   "year": 2012,
+   "cited_by_count": 63,
+   "title": "Large dispersive shift of cavity resonance induced by a superconducting flux qubit in the straddling regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979907111",
+   "year": 2007,
+   "cited_by_count": 62,
+   "title": "Information entropic superconducting microcooler",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008684866",
+   "year": 2013,
+   "cited_by_count": 60,
+   "title": "High-quality epitaxial NbN/AlN/NbN tunnel junctions with a wide range of current density",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005003237",
+   "year": 2011,
+   "cited_by_count": 58,
+   "title": "Dynamics of Coherent and Incoherent Emission from an Artificial Atom in a 1D Space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978370857",
+   "year": 2013,
+   "cited_by_count": 55,
+   "title": "Implementation of an Impedance-Matched Λ System by Dressed-State Engineering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093779044",
+   "year": 2013,
+   "cited_by_count": 55,
+   "title": "Observation of the Three-State Dressed States in Circuit Quantum Electrodynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3021783739",
+   "year": 2020,
+   "cited_by_count": 55,
+   "title": "Fast parametric two-qubit gates with suppressed residual interaction using the second-order nonlinearity of a cubic transmon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3135617785",
+   "year": 2021,
+   "cited_by_count": 55,
+   "title": "Experimental quantum teleportation of propagating microwaves",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161967317",
+   "year": 2012,
+   "cited_by_count": 54,
+   "title": "Control of the radiative level shift and linewidth of a superconducting artificial atom through a variable boundary condition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2616524326",
+   "year": 2017,
+   "cited_by_count": 52,
+   "title": "Nonclassical Photon Number Distribution in a Superconducting Cavity under a Squeezed Drive",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2533526309",
+   "year": 2016,
+   "cited_by_count": 50,
+   "title": "Ground state cooling of a quantum electromechanical system with a silicon nitride membrane in a 3D loop-gap cavity",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3106886244",
+   "year": 2020,
+   "cited_by_count": 47,
+   "title": "Programmable directional emitter and receiver of itinerant microwave photons in a waveguide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004964594",
+   "year": 1999,
+   "cited_by_count": 46,
+   "title": "Nanofabrication toward sub-10 nm and its application to novel nanodevices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080299625",
+   "year": 2010,
+   "cited_by_count": 46,
+   "title": "Damping in high-frequency metallic nanomechanical resonators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089532551",
+   "year": 2008,
+   "cited_by_count": 45,
+   "title": "High-frequency metallic nanomechanical resonators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3121491223",
+   "year": 2021,
+   "cited_by_count": 44,
+   "title": "Characterization of a flux-driven Josephson parametric amplifier with near quantum-limited added noise for axion search experiments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3142098715",
+   "year": 2021,
+   "cited_by_count": 44,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021837321",
+   "year": 1996,
+   "cited_by_count": 42,
+   "title": "Quantitative analysis of Josephson-quasiparticle current in superconducting single-electron transistors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976206195",
+   "year": 2011,
+   "cited_by_count": 40,
+   "title": "Noise correlations in a flux qubit with tunable tunnel coupling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4213009249",
+   "year": 2020,
+   "cited_by_count": 40,
+   "title": "Spectroscopic observation of the crossover from a classical Duffing oscillator to a Kerr parametric oscillator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966398200",
+   "year": 2015,
+   "cited_by_count": 39,
+   "title": "Theory of microwave single-photon detection using an impedance-matched Λ system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059661633",
+   "year": 2006,
+   "cited_by_count": 39,
+   "title": "Parity effect in superconducting aluminum single electron transistors with spatial gap profile controlled by film thickness",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098889259",
+   "year": 2017,
+   "cited_by_count": 39,
+   "title": "Hysteretic Flux Response and Nondegenerate Gain of Flux-Driven Josephson Parametric Amplifiers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3213923771",
+   "year": 2021,
+   "cited_by_count": 39,
+   "title": "Beyond the standard quantum limit for parametric amplification of broadband signals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965301697",
+   "year": 1996,
+   "cited_by_count": 37,
+   "title": "Al/Al2O3/Al single electron transistors operable up to 30 K utilizing anodization controlled miniaturization enhancement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970160470",
+   "year": 2012,
+   "cited_by_count": 37,
+   "title": "Dynamical Decoupling and Dephasing in Interacting Two-Level Systems",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

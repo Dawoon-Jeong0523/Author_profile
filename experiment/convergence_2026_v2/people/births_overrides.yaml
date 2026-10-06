@@ -1,0 +1,31 @@
+# Birth years for the age-25 cards (cards_age25_v2.py births) where the Wikidata living check has no unambiguous date.
+# Claude 2026-10-06, for the user to check. source: wikidata (first of several Wikidata candidates, checked by its
+# description), web (published biography), estimated (from the education record: about 22 at the bachelor's degree,
+# 27 at the PhD; the card says "born c.").
+chemistry:
+  Shankar Balasubramanian: {birth_year: 1966, birth_date: "1966-09-30", source: wikidata, source_detail: "first of 2 candidates: British chemist", confidence: high}
+  Nam-Gyu Park: {birth_year: 1960, birth_date: "1960-09-03", source: wikidata, source_detail: "first of 2 candidates: South Korean chemist", confidence: high}
+  Daniel Branton: {birth_year: 1932, birth_date: "1932-01-13", source: wikidata, source_detail: "first of 2 candidates: American cell biologist", confidence: high}
+  Roberto Car: {birth_year: 1947, birth_date: "1947-01-03", source: wikidata, source_detail: "first of 3 candidates: Italian physicist", confidence: high}
+  Michael Grätzel: {birth_year: 1944, birth_date: "1944-05-11", source: wikidata, source_detail: "first of 2 candidates: Swiss chemist (1944-)", confidence: high}
+  Matthias Mann: {birth_year: 1959, birth_date: "1959-10-10", source: wikidata, source_detail: "first of 4 candidates: German biochemist and physicist", confidence: high}
+  Kazunori Kataoka: {birth_year: 1950, birth_date: "1950-11-27", source: wikidata, source_detail: "first of 2 candidates: Japanese chemist", confidence: high}
+  Richmond Sarpong: {birth_year: 1974, birth_date: "1974-04-23", source: wikidata, source_detail: "first of 2 candidates: Ghanaian-American chemist", confidence: high}
+  James J. Collins: {birth_year: 1965, birth_date: "1965-06-26", source: wikidata, source_detail: "first of 2 candidates: American professor of biomedical engineering", confidence: high}
+  Galen D. Stucky: {birth_year: 1936, birth_date: "1936-12-17", source: wikidata, source_detail: "first of 2 candidates: American chemist", confidence: high}
+  E. Peter Greenberg: {birth_year: 1948, birth_date: "1948-11-07", source: web, source_detail: "Wikipedia (Everett Peter Greenberg)", confidence: high}
+  Robert S. Langer: {birth_year: 1948, birth_date: "1948-08-29", source: web, source_detail: "Wikipedia; Lemelson-MIT", confidence: high}
+  Tao Zhang: {birth_year: 1963, source: web, source_detail: "Wikipedia (Zhang Tao, chemist); DICP doctorate 1989", confidence: high}
+  Dennis Lo Yuk-Ming: {birth_year: 1963, birth_date: "1963-10-12", source: web, source_detail: "Wikipedia (Dennis Lo); ASU Embryo Project", confidence: high}
+  Paul W. K. Rothemund: {birth_year: 1972, source: estimated, source_detail: "35 at the 2007 MacArthur Fellowship; Caltech BS 1990-1994", confidence: medium}
+  Hao Yan: {birth_year: 1971, source: estimated, source_detail: "BS Shandong University 1993; PhD NYU 2001", confidence: medium}
+  John R. Yates III: {birth_year: 1958, source: estimated, source_detail: "BA University of Maine 1980; PhD University of Virginia 1987", confidence: medium}
+  Thomas J. Meyer: {birth_year: 1941, source: estimated, source_detail: "PhD Stanford with Henry Taube (1966); 1941 often given, not confirmed", confidence: medium}
+  Serge L. Beaucage: {birth_year: 1951, source: estimated, source_detail: "PhD McGill 1978", confidence: medium}
+  Mark D. Matteucci: {birth_year: 1955, source: estimated, source_detail: "graduate student with Caruthers at Colorado, phosphoramidite papers 1980-1981", confidence: low}
+  Mark E. Thompson: {birth_year: 1958, source: estimated, source_detail: "BS UC Berkeley 1980; PhD Caltech 1985", confidence: medium}
+  Mark Levin: {birth_year: 1990, source: estimated, source_detail: "BS University of Rochester 2012; PhD UC Berkeley 2017", confidence: medium}
+  # Wikidata's living-check match gave 2000 for these two (wrong entity / record date); corrected 2026-10-06
+  Clifford P. Brangwynne: {birth_year: 1978, birth_date: "1978-04-24", source: web, source_detail: "Wikipedia (Clifford P. Brangwynne); Wikidata match gave 2000", confidence: high}
+  Mikko Ritala: {birth_year: 1968, source: web, source_detail: "AVS short-course bio (born 1968 in Nokia, Finland; PhD Helsinki 1994); Wikidata match gave 2000", confidence: high}
+  Jay R. Winkler: {birth_year: 1956, birth_date: "1956-01-28", source: web, source_detail: "Wikipedia (Jay R. Winkler; BS Stanford 1978, PhD Caltech 1984); Wikidata match gave 1965", confidence: high}

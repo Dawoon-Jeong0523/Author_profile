@@ -1,0 +1,656 @@
+{
+ "person": "Naoto Nagaosa",
+ "profile": "A5029751621",
+ "ids": [
+  "A5029751621",
+  "A5028387115",
+  "A5025602509"
+ ],
+ "options": [
+  "for the discovery of magnetic skyrmion lattices and topological spin textures in chiral magnets — Christian Pfleiderer, Yoshinori Tokura, Naoto Nagaosa"
+ ],
+ "birth_year": 1958,
+ "cutoff_year": 1983,
+ "works": [
+  {
+   "paper_id": "W2007695974",
+   "year": 2006,
+   "cited_by_count": 4374,
+   "title": "Doping a Mott insulator: Physics of high-temperature superconductivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000564135",
+   "year": 2010,
+   "cited_by_count": 4344,
+   "title": "Anomalous Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991395163",
+   "year": 2013,
+   "cited_by_count": 3819,
+   "title": "Topological properties and dynamics of magnetic skyrmions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168406111",
+   "year": 2010,
+   "cited_by_count": 3302,
+   "title": "Real-space observation of a two-dimensional skyrmion crystal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117581782",
+   "year": 2000,
+   "cited_by_count": 2424,
+   "title": "Orbital Physics in Transition-Metal Oxides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112297827",
+   "year": 2012,
+   "cited_by_count": 2372,
+   "title": "Emergent phenomena at oxide interfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963551001",
+   "year": 2005,
+   "cited_by_count": 2212,
+   "title": "Spin Current and Magnetoelectric Effect in Noncollinear Magnets",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075401851",
+   "year": 2003,
+   "cited_by_count": 1898,
+   "title": "Dissipationless Quantum Spin Current at Room Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016427540",
+   "year": 2004,
+   "cited_by_count": 1073,
+   "title": "Hall Effect of Light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035664282",
+   "year": 2003,
+   "cited_by_count": 1011,
+   "title": "The Anomalous Hall Effect and Magnetic Monopoles in Momentum Space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083626681",
+   "year": 2014,
+   "cited_by_count": 930,
+   "title": "Multiferroics of spin origin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054294779",
+   "year": 2001,
+   "cited_by_count": 875,
+   "title": "Spin Chirality, Berry Phase, and Anomalous Hall Effect in a Frustrated Ferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033099605",
+   "year": 2011,
+   "cited_by_count": 865,
+   "title": "Giant Rashba-type spin splitting in bulk BiTeI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053877588",
+   "year": 2014,
+   "cited_by_count": 857,
+   "title": "Classification of stable three-dimensional Dirac semimetals with nontrivial topology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978055909",
+   "year": 2013,
+   "cited_by_count": 852,
+   "title": "Current-induced skyrmion dynamics in constricted geometries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062685551",
+   "year": 2013,
+   "cited_by_count": 728,
+   "title": "Universal current-velocity relation of skyrmion motion in chiral magnets",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048469514",
+   "year": 2010,
+   "cited_by_count": 662,
+   "title": "Observation of the Magnon Hall Effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999400654",
+   "year": 2000,
+   "cited_by_count": 620,
+   "title": "Spin anisotropy and quantum Hall effect in the kagomé lattice: Chiral spin state based on a ferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2891024081",
+   "year": 2018,
+   "cited_by_count": 614,
+   "title": "Nonreciprocal responses from non-centrosymmetric quantum materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043662702",
+   "year": 1992,
+   "cited_by_count": 613,
+   "title": "Gauge theory of the normal state of high- Tc superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989275948",
+   "year": 1990,
+   "cited_by_count": 607,
+   "title": "Normal-state properties of the uniform resonating-valence-bond state",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1573035281",
+   "year": 2007,
+   "cited_by_count": 550,
+   "title": "Crossover Behavior of the Anomalous Hall Effect and Anomalous Nernst Effect in Itinerant Ferromagnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986726409",
+   "year": 2010,
+   "cited_by_count": 546,
+   "title": "Theory of the Thermal Hall Effect in Quantum Magnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004941972",
+   "year": 2013,
+   "cited_by_count": 537,
+   "title": "Zeeman-type spin splitting controlled by an electric field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2247926159",
+   "year": 2016,
+   "cited_by_count": 528,
+   "title": "Topological nature of nonlinear optical effects in solids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970503777",
+   "year": 2009,
+   "cited_by_count": 516,
+   "title": "Manipulation of the Majorana Fermion, Andreev Reflection, and Josephson Current on Topological Insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167722241",
+   "year": 2011,
+   "cited_by_count": 515,
+   "title": "Dynamics of Skyrmion Crystals in Metallic Thin Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2754820389",
+   "year": 2017,
+   "cited_by_count": 470,
+   "title": "Emergent functions of quantum materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978065671",
+   "year": 2011,
+   "cited_by_count": 461,
+   "title": "Interface engineering of quantum Hall effects in digital transition metal oxide heterostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072130845",
+   "year": 2006,
+   "cited_by_count": 458,
+   "title": "Intrinsic Versus Extrinsic Anomalous Hall Effect in Ferromagnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002981576",
+   "year": 2009,
+   "cited_by_count": 457,
+   "title": "Quantum Spin Hall Effect in a Transition Metal Oxide Na 2 IrO 3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2902483977",
+   "year": 2018,
+   "cited_by_count": 440,
+   "title": "Transformation between meron and skyrmion topological spin textures in a chiral magnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2464354125",
+   "year": 2016,
+   "cited_by_count": 437,
+   "title": "Interface-driven topological Hall effect in SrRuO 3 -SrIrO 3 bilayer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1650057362",
+   "year": 2008,
+   "cited_by_count": 435,
+   "title": "Intrinsic Spin Hall Effect in Platinum: First-Principles Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982417412",
+   "year": 2010,
+   "cited_by_count": 432,
+   "title": "Unconventional Superconductivity on a Topological Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129821865",
+   "year": 2008,
+   "cited_by_count": 422,
+   "title": "Quantum transport theory of anomalous electric, thermoelectric, and thermal Hall effects in ferromagnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029217879",
+   "year": 2007,
+   "cited_by_count": 387,
+   "title": "Abrupt onset of a second energy gap at the superconducting transition of underdoped Bi2212",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2087768785",
+   "year": 2002,
+   "cited_by_count": 382,
+   "title": "Topological Nature of Anomalous Hall Effect in Ferromagnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993356714",
+   "year": 2005,
+   "cited_by_count": 363,
+   "title": "Ferroelectricity near room temperature in co-crystals of nonpolar organic molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026561106",
+   "year": 2009,
+   "cited_by_count": 363,
+   "title": "Skyrmions and anomalous Hall effect in a Dzyaloshinskii-Moriya spiral magnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152069241",
+   "year": 2011,
+   "cited_by_count": 363,
+   "title": "Surface-Quantized Anomalous Hall Current and the Magnetoelectric Effect in Magnetically Disordered Topological Insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107737793",
+   "year": 2012,
+   "cited_by_count": 357,
+   "title": "Magnetic stripes and skyrmions with helicity reversals",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2607389010",
+   "year": 2017,
+   "cited_by_count": 344,
+   "title": "Nonreciprocal charge transport in noncentrosymmetric superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980093872",
+   "year": 2001,
+   "cited_by_count": 331,
+   "title": "Orbital Ferromagnetism and Anomalous Hall Effect in Antiferromagnets on the Distorted fcc Lattice",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069465438",
+   "year": 2004,
+   "cited_by_count": 327,
+   "title": "Spin-Hall Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061238046",
+   "year": 2014,
+   "cited_by_count": 318,
+   "title": "Thermally driven ratchet motion of a skyrmion microcrystal and topological magnon Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1880549010",
+   "year": 2004,
+   "cited_by_count": 317,
+   "title": "Stability of U(1) spin liquids in two dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058577345",
+   "year": 2007,
+   "cited_by_count": 306,
+   "title": "Microscopic theory of spin-polarization coupling in multiferroic transition metal oxides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090090065",
+   "year": 2013,
+   "cited_by_count": 300,
+   "title": "Detection of Berry’s Phase in a Bulk Rashba Semiconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997462800",
+   "year": 1993,
+   "cited_by_count": 285,
+   "title": "Single-barrier problem and Anderson localization in a one-dimensional interacting electron system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2592461885",
+   "year": 2017,
+   "cited_by_count": 283,
+   "title": "Bulk rectification effect in a polar semiconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127632055",
+   "year": 2012,
+   "cited_by_count": 279,
+   "title": "Emergent quantum confinement at topological insulator surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038034036",
+   "year": 2004,
+   "cited_by_count": 270,
+   "title": "Anisotropic Electron-Phonon Interaction in the Cuprates",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982134041",
+   "year": 1992,
+   "cited_by_count": 265,
+   "title": "Ginzburg-Landau theory of the spin-charge-separated system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004485922",
+   "year": 2003,
+   "cited_by_count": 260,
+   "title": "Quantized Anomalous Hall Effect in Two-Dimensional Ferromagnets: Quantum Hall Effect in Metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044350934",
+   "year": 2007,
+   "cited_by_count": 259,
+   "title": "Dynamical Magnetoelectric Coupling in Helical Magnets",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052180127",
+   "year": 2012,
+   "cited_by_count": 250,
+   "title": "Emergence of non-centrosymmetric topological insulating phase in BiTeI under pressure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148902507",
+   "year": 2005,
+   "cited_by_count": 243,
+   "title": "Nodal quasiparticle in pseudogapped colossal magnetoresistive manganites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3134879942",
+   "year": 2021,
+   "cited_by_count": 236,
+   "title": "Riemannian geometry of resonant optical responses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1593912170",
+   "year": 2015,
+   "cited_by_count": 228,
+   "title": "Large anisotropic deformation of skyrmions in strained crystal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996449059",
+   "year": 2004,
+   "cited_by_count": 227,
+   "title": "Coupling of the B1g Phonon to the Antinodal Electronic States of Bi2Sr2Ca0.92Y0.08Cu2O8+δ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041990075",
+   "year": 1998,
+   "cited_by_count": 222,
+   "title": "Phase diagram of manganese oxides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020264813",
+   "year": 2011,
+   "cited_by_count": 217,
+   "title": "Origin of giant bulk Rashba splitting: Application to BiTeI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000920508",
+   "year": 2012,
+   "cited_by_count": 212,
+   "title": "Topological Superconductivity in Bilayer Rashba System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057870428",
+   "year": 1998,
+   "cited_by_count": 209,
+   "title": "SU(2) formulation of the t−J model: Application to underdoped cuprates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079357993",
+   "year": 2004,
+   "cited_by_count": 206,
+   "title": "Electron-Phonon Coupling and a Polaron in the t−J Model: From the Weak to the Strong Coupling Regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082166832",
+   "year": 1997,
+   "cited_by_count": 204,
+   "title": "Orbital liquid in perovskite transition-metal oxides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980497508",
+   "year": 2012,
+   "cited_by_count": 200,
+   "title": "Effect of lattice geometry on magnon Hall effect in ferromagnetic insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068460363",
+   "year": 2010,
+   "cited_by_count": 198,
+   "title": "Anomalous magnetoresistance of a two-dimensional ferromagnet/ferromagnet junction on the surface of a topological insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095588514",
+   "year": 1994,
+   "cited_by_count": 198,
+   "title": "Kondo effect in a Tomonaga-Luttinger liquid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043828720",
+   "year": 2013,
+   "cited_by_count": 196,
+   "title": "Two-dimensional p -wave superconducting states with magnetic moments on a conventional s -wave superconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011673797",
+   "year": 2014,
+   "cited_by_count": 194,
+   "title": "Creation of skyrmions and antiskyrmions by local heating",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963971210",
+   "year": 2006,
+   "cited_by_count": 192,
+   "title": "Bond electronic polarization induced by spin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036096993",
+   "year": 2010,
+   "cited_by_count": 189,
+   "title": "Skyrmion lattice in a two-dimensional chiral magnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987345525",
+   "year": 2015,
+   "cited_by_count": 184,
+   "title": "Quantum Hall effect on top and bottom surface states of topological insulator (Bi1−xSbx)2Te3 films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3099216218",
+   "year": 2019,
+   "cited_by_count": 183,
+   "title": "Switchable magnetic bulk photovoltaic effect in the two-dimensional magnet CrI3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2279576148",
+   "year": 2016,
+   "cited_by_count": 179,
+   "title": "Geometric Hall effects in topological insulator heterostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103669939",
+   "year": 2014,
+   "cited_by_count": 178,
+   "title": "Inertia, diffusion, and dynamics of a driven skyrmion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117289906",
+   "year": 2014,
+   "cited_by_count": 178,
+   "title": "Theory of magnon-skyrmion scattering in chiral magnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2999148290",
+   "year": 2020,
+   "cited_by_count": 178,
+   "title": "Controlled transformation of skyrmions and antiskyrmions in a non-centrosymmetric magnet",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

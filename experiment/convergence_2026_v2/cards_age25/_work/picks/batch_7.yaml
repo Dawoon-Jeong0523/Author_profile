@@ -1,0 +1,242 @@
+Daniel G. Nocera:
+  picks:
+  - paper_id: W1987446448
+    year: 1992
+    title: 'Photoinduced electron transfer mediated by a hydrogen-bonded interface'
+    metrics: true
+    in_profile: true
+    reason: First experimental study of photoinduced electron transfer across a hydrogen-bonded (proton-coupled) donor-acceptor interface, the start of Nocera's PCET program.
+  - paper_id: W2614884730
+    year: 1998
+    title: 'PROTON-COUPLED ELECTRON TRANSFER'
+    metrics: true
+    in_profile: true
+    reason: Cukier and Nocera's Annual Review that laid out the theoretical framework for PCET used across the field.
+  - paper_id: W2002551641
+    year: 2003
+    title: 'Radical Initiation in the Class I Ribonucleotide Reductase: Long-Range Proton-Coupled Electron Transfer?'
+    metrics: true
+    in_profile: true
+    reason: Key application of PCET theory to long-range radical transport in ribonucleotide reductase, the flagship biological PCET system.
+  n_related: 16
+  note: 'Expected the mid-1990s JACS salt-bridge donor-acceptor PCET papers (e.g. Roberts, Kirby and Nocera 1995); only the 1997 salt-bridge paper is in the list. The most-cited works are solar-fuel and Co-Pi catalyst papers. The kagome-magnet and quantum-dot papers are genuine Nocera collaborations, not a namesake.'
+Galen D. Stucky:
+  picks:
+  - paper_id: W2018669437
+    year: 1993
+    title: 'Cooperative Formation of Inorganic-Organic Interfaces in the Synthesis of Silicate Mesostructures'
+    metrics: true
+    in_profile: true
+    reason: Established the cooperative surfactant-silicate assembly mechanism behind ordered mesoporous materials.
+  - paper_id: W2100431223
+    year: 1994
+    title: 'Generalized synthesis of periodic surfactant/inorganic composite materials'
+    metrics: true
+    in_profile: true
+    reason: Nature paper that generalized surfactant templating to many compositions and charge-matching routes, introducing new mesophases.
+  - paper_id: W1995041236
+    year: 1998
+    title: 'Triblock Copolymer Syntheses of Mesoporous Silica with Periodic 50 to 300 Angstrom Pores'
+    metrics: true
+    in_profile: true
+    reason: Original report of SBA-15, the large-pore, hydrothermally stable ordered mesoporous silica that became the field standard.
+  n_related: 40
+  note: 'none missing. The list also has biomineralization (nacre, silicatein), plasmonic, thermoelectric and a 2014 methane-leak paper; these look like genuine Stucky collaborations rather than a namesake.'
+Jacob Sagiv:
+  picks:
+  - paper_id: W2054836251
+    year: 1980
+    title: 'Organized monolayers by adsorption. 1. Formation and structure of oleophobic mixed monolayers on solid surfaces'
+    metrics: true
+    in_profile: true
+    reason: Founding report of self-assembled organosilane (OTS) monolayers formed by spontaneous adsorption on solid surfaces.
+  - paper_id: W3005288200
+    year: 1983
+    title: 'A new approach to construction of artificial monolayer assemblies'
+    metrics: true
+    in_profile: true
+    reason: Introduced stepwise construction of multilayer assemblies by successive self-assembly of individual monolayers.
+  - paper_id: W1965894076
+    year: 1984
+    title: 'On the formation and structure of self-assembling monolayers. I. A comparative atr-wettability study of Langmuir—Blodgett and adsorbed films on flat substrates and glass microbeads'
+    metrics: true
+    in_profile: true
+    reason: Key early structural study establishing self-assembling monolayers as ordered films comparable to Langmuir-Blodgett layers.
+  n_related: 50
+  note: 'Several duplicate records: ChemInform abstracts of the 1980 and 1983 papers (W4239151239, W2012345469), and second records of the 2000 constructive-nanolithography, 1987 translational-energy, 1998 self-replication and 2016 interfacial papers. The 1972-1978 linear-dichroism spectroscopy papers are his genuine pre-SAM work, not a namesake.'
+Jason W. Chin:
+  picks:
+  - paper_id: W2060391020
+    year: 2003
+    title: 'An Expanded Eukaryotic Genetic Code'
+    metrics: false
+    in_profile: true
+    reason: Landmark first genetic encoding of unnatural amino acids in a eukaryote (yeast), with Chin as first author.
+  - paper_id: W2052858356
+    year: 2008
+    title: 'Genetically encoding Nε-acetyllysine in recombinant proteins'
+    metrics: true
+    in_profile: true
+    reason: Established the pyrrolysyl-tRNA synthetase/tRNA system for encoding post-translationally modified amino acids, a workhorse of genetic code expansion.
+  - paper_id: W2002336386
+    year: 2010
+    title: 'Encoding multiple unnatural amino acids via evolution of a quadruplet-decoding ribosome'
+    metrics: true
+    in_profile: true
+    reason: Evolved orthogonal ribosome decoding quadruplet codons, enabling multiple distinct unnatural amino acids in one protein.
+  n_related: 62
+  note: 'none missing; his 2002 E. coli photocrosslinker and azidophenylalanine papers are also present. The list includes his Yale miniature-protein work and many collaborations using encoded amino acids (HIV capsid, ubiquitin, chromatin), all plausibly genuine; no namesake seen.'
+John R. Yates III:
+  picks:
+  - paper_id: W2026465178
+    year: 1994
+    title: 'An approach to correlate tandem mass spectral data of peptides with amino acid sequences in a protein database'
+    metrics: true
+    in_profile: true
+    reason: The SEQUEST paper, the first automated matching of tandem mass spectra to protein sequence databases.
+  - paper_id: W1525575010
+    year: 1999
+    title: 'Direct analysis of protein complexes using mass spectrometry'
+    metrics: true
+    in_profile: true
+    reason: First shotgun (DALPC) analysis of protein mixtures by two-dimensional LC-MS/MS without gel separation.
+  - paper_id: W1597678601
+    year: 2001
+    title: 'Large-scale analysis of the yeast proteome by multidimensional protein identification technology'
+    metrics: true
+    in_profile: true
+    reason: MudPIT, the large-scale shotgun proteomics demonstration that defined proteome-wide MS analysis.
+  n_related: 30
+  note: '1995 Chem Rev Surface Chemistry of Silicon is by surface chemist John T. Yates Jr., a namesake mixed into the record. The many cell-biology papers are genuine MS collaborations. Hunt et al. 1986 tandem-MS protein sequencing and the 1993 peptide mass maps paper are present as earlier precursors.'
+Karen L. Wooley:
+  picks:
+  - paper_id: W2013722538
+    year: 1996
+    title: 'Water-Soluble Knedel-like Structures: The Preparation of Shell-Cross-Linked Small Particles'
+    metrics: true
+    in_profile: true
+    reason: Original report of shell cross-linked knedel-like (SCK) polymer nanoparticles, the platform behind her delivery work.
+  - paper_id: W1989929454
+    year: 2001
+    title: 'Nanostructured Materials Designed for Cell Binding and Transduction'
+    metrics: true
+    in_profile: true
+    reason: Early functionalization of SCK nanoparticles with a cell-penetrating peptide for cell binding and intracellular delivery.
+  - paper_id: W1948127231
+    year: 2003
+    title: 'Folic acid-conjugated nanostructured materials designed for cancer cell targetingElectronic supplementary information (ESI) available: experimental details; selected plots and spectra. See http://www.rsc.org/suppdata/cc/b3/b307878g/'
+    metrics: true
+    in_profile: true
+    reason: First folate-conjugated SCK nanoparticles for targeted delivery to cancer cells.
+  n_related: 30
+  note: 'W2161826980 and W4247318532 are duplicate records of the 2013 Copper-64-alloyed gold nanoparticle paper. Early dendrimer papers (1991-1995) are her genuine Frechet-lab work, not a namesake. No expected landmark missing.'
+Paul W. K. Rothemund:
+  picks:
+  - paper_id: W2126961173
+    year: 2006
+    title: 'Folding DNA to create nanoscale shapes and patterns'
+    metrics: false
+    in_profile: true
+    reason: The invention of scaffolded DNA origami.
+  - paper_id: W2062802768
+    year: 2004
+    title: 'Algorithmic Self-Assembly of DNA Sierpinski Triangles'
+    metrics: true
+    in_profile: true
+    reason: Landmark experimental demonstration of programmable algorithmic self-assembly of DNA tiles.
+  - paper_id: W2019733001
+    year: 2004
+    title: 'Design and Characterization of Programmable DNA Nanotubes'
+    metrics: true
+    in_profile: true
+    reason: Key early design of programmable DNA tile nanostructures with controlled geometry.
+  n_related: 30
+  note: 'Duplicates: W2903339958 (citation-string record of the 2006 Nature paper), W2902033413 (2007 motor), W4248571117 (2009 nanotube templates), W1503647233 (program-size complexity) and two correction records. The 2006 chlorophyll absorption-spectroscopy title, the 2021 Snell law for swimmers and an untitled 2017 record look misattributed.'
+Peter G. Schultz:
+  picks:
+  - paper_id: W2067013502
+    year: 1989
+    title: 'A General Method for Site-specific Incorporation of Unnatural Amino Acids into Proteins'
+    metrics: true
+    in_profile: true
+    reason: First general method for site-specific unnatural amino acid incorporation using chemically acylated suppressor tRNA.
+  - paper_id: W2157680389
+    year: 2001
+    title: 'Expanding the Genetic Code of Escherichia coli'
+    metrics: false
+    in_profile: true
+    reason: First in vivo genetic encoding of an unnatural amino acid with an orthogonal tRNA/synthetase pair in a living organism.
+  - paper_id: W2060391020
+    year: 2003
+    title: 'An Expanded Eukaryotic Genetic Code'
+    metrics: false
+    in_profile: true
+    reason: Extended the orthogonal-pair approach to eukaryotic cells, making genetic code expansion general.
+  n_related: 25
+  note: 'Expected Liu and Schultz 1999 PNAS (progress toward an organism with an expanded genetic code) but did not find it. The two 2006 records titled A genetically encoded fluorescent amino acid may be the distinct JACS and PNAS papers rather than duplicates. Most of the list is genomics, stem-cell, drug-discovery and combinatorial-materials work, all genuine Schultz.'
+Pieter R. Cullis:
+  picks:
+  - paper_id: W2105085256
+    year: 1985
+    title: 'Uptake of antineoplastic agents into large unilamellar vesicles in response to a membrane potential'
+    metrics: true
+    in_profile: true
+    reason: Original transmembrane-gradient (remote) drug loading of extruded vesicles, the basis of liposomal doxorubicin and vincristine products.
+  - paper_id: W2078775246
+    year: 2001
+    title: 'Efficient encapsulation of antisense oligonucleotides in lipid vesicles using ionizable aminolipids: formation of novel small multilamellar vesicle structures'
+    metrics: false
+    in_profile: true
+    reason: First use of ionizable aminolipids to encapsulate nucleic acids, the origin of modern lipid nanoparticles.
+  - paper_id: W2083249633
+    year: 2010
+    title: 'Rational design of cationic lipids for siRNA delivery'
+    metrics: true
+    in_profile: true
+    reason: Rational ionizable-lipid design (DLin-KC2-DMA) giving potent in vivo siRNA LNPs on the path to Onpattro.
+  n_related: 55
+  note: 'W4256219020 duplicates the 2012 Maximizing the Potency of siRNA LNP paper (MC3). Expected Mayer, Bally and Cullis 1986 BBA on adriamycin uptake in response to a pH gradient but did not find it. The 1985 extrusion paper is also present as the enabling vesicle method. No namesake seen.'
+Thomas J. Meyer:
+  picks:
+  - paper_id: W2000036999
+    year: 1985
+    title: 'Electrocatalysis of proton-coupled electron-transfer reactions at glassy carbon electrodes'
+    metrics: true
+    in_profile: true
+    reason: Earliest original PCET paper in the list, from Meyer's foundational work on proton-coupled Ru-oxo/aqua redox couples.
+  - paper_id: W4211091797
+    year: 2007
+    title: 'Proton-Coupled Electron Transfer'
+    metrics: true
+    in_profile: true
+    reason: Huynh and Meyer's Chem Rev that set out the mechanistic and theoretical framework of PCET.
+  - paper_id: W2049638592
+    year: 2010
+    title: 'Concerted O atom–proton transfer in the O—O bond forming step in water oxidation'
+    metrics: false
+    in_profile: true
+    reason: Introduced concerted atom-proton transfer, extending PCET concepts to O-O bond formation.
+  n_related: 12
+  note: 'Expected but missing: Binstead, Moyer, Samuels and Meyer 1981 JACS, which introduced the term proton-coupled electron transfer, and Binstead and Meyer 1987 JACS on H-atom transfer between metal complexes. The 2012 Chem Rev on PCET is present but is a later review. Most of the list is MLCT photophysics, artificial photosynthesis and CO2 reduction; no namesake seen.'
+Tsutomu Miyasaka:
+  picks:
+  - paper_id: W2057327293
+    year: 2009
+    title: 'Organometal Halide Perovskites as Visible-Light Sensitizers for Photovoltaic Cells'
+    metrics: false
+    in_profile: true
+    reason: First journal report of organometal halide perovskite solar cells (Kojima et al.).
+  - paper_id: W1965464747
+    year: 2012
+    title: 'Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites'
+    metrics: true
+    in_profile: true
+    reason: Landmark solid-state meso-superstructured perovskite cell (with Snaith) that launched high-efficiency perovskite photovoltaics.
+  - paper_id: W1991656599
+    year: 2004
+    title: 'Low-Temperature Fabrication of Dye-Sensitized Plastic Electrodes by Electrophoretic Preparation of Mesoporous TiO[sub 2] Layers'
+    metrics: true
+    in_profile: true
+    reason: Represents his dye-sensitized solar cell work on low-temperature, flexible plastic DSSC electrodes.
+  n_related: 70
+  note: 'The 2006 meeting abstract on lead-halide-sensitized photoelectrochemical cells (W2200830888) is the earliest perovskite record and could replace the DSSC pick if only perovskites count. The 1997 tin-oxide Li-ion anode, bacteriorhodopsin and chlorophyll-electrode papers are his genuine earlier career, not a namesake.'

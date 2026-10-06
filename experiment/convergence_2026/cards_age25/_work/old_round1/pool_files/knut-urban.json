@@ -1,0 +1,430 @@
+{
+ "person": "Knut Urban",
+ "birth_year": 1941,
+ "cutoff_year": 1966,
+ "options": [
+  "for the invention of aberration-corrected electron optics, enabling electron microscopy with sub-ångström resolution — Maximilian Haider, Knut Urban, Ondrej L. Krivanek"
+ ],
+ "works": [
+  {
+   "paper_id": "W1876297499",
+   "year": 1998,
+   "cited_by_count": 1040,
+   "C_5_pctl": 0.99,
+   "title": "Electron microscopy image enhanced"
+  },
+  {
+   "paper_id": "W2162532420",
+   "year": 2003,
+   "cited_by_count": 560,
+   "C_5_pctl": 1.0,
+   "title": "Atomic-Resolution Imaging of Oxygen in Perovskite Ceramics"
+  },
+  {
+   "paper_id": "W2157900895",
+   "year": 2007,
+   "cited_by_count": 508,
+   "C_5_pctl": 0.99,
+   "title": "Atomic-scale study of electric dipoles near charged and uncharged domain walls in ferroelectric films"
+  },
+  {
+   "paper_id": "W2032268832",
+   "year": 2011,
+   "cited_by_count": 447,
+   "C_5_pctl": 1.0,
+   "title": "Direct Observation of Continuous Electric Dipole Rotation in Flux-Closure Domains in Ferroelectric Pb(Zr,Ti)O 3"
+  },
+  {
+   "paper_id": "W2070311459",
+   "year": 1998,
+   "cited_by_count": 418,
+   "C_5_pctl": 0.99,
+   "title": "A spherical-aberration-corrected 200kV transmission electron microscope"
+  },
+  {
+   "paper_id": "W2050081456",
+   "year": 2006,
+   "cited_by_count": 407,
+   "C_5_pctl": 0.99,
+   "title": "Unit-cell scale mapping of ferroelectricity and tetragonality in epitaxial ultrathin ferroelectric films"
+  },
+  {
+   "paper_id": "W2053193410",
+   "year": 2008,
+   "cited_by_count": 335,
+   "C_5_pctl": 0.99,
+   "title": "Studying Atomic Structures by Aberration-Corrected Transmission Electron Microscopy"
+  },
+  {
+   "paper_id": "W2015185457",
+   "year": 2004,
+   "cited_by_count": 295,
+   "C_5_pctl": 0.98,
+   "title": "Atomic-Resolution Measurement of Oxygen Concentration in Oxide Materials"
+  },
+  {
+   "paper_id": "W1991405807",
+   "year": 1988,
+   "cited_by_count": 262,
+   "C_5_pctl": 1.0,
+   "title": "Glass-forming range in mechanically alloyed Ni-Zr and the influence of the milling intensity"
+  },
+  {
+   "paper_id": "W2155793986",
+   "year": 2002,
+   "cited_by_count": 208,
+   "C_5_pctl": 0.97,
+   "title": "High-resolution imaging with an aberration-corrected transmission electron microscope"
+  },
+  {
+   "paper_id": "W1972369518",
+   "year": 2009,
+   "cited_by_count": 202,
+   "C_5_pctl": 0.99,
+   "title": "Oxygen octahedron reconstruction in the SrTiO3/LaAlO3 heterointerfaces investigated using aberration-corrected ultrahigh-resolution transmission electron microscopy"
+  },
+  {
+   "paper_id": "W2029258244",
+   "year": 1993,
+   "cited_by_count": 199,
+   "C_5_pctl": 0.99,
+   "title": "Direct evidence for plastic deformation of quasicrystals by means of a dislocation mechanism"
+  },
+  {
+   "paper_id": "W2112661812",
+   "year": 1998,
+   "cited_by_count": 193,
+   "C_5_pctl": 0.82,
+   "title": "Towards 0.1 nm resolution with the first spherically corrected transmission electron microscope"
+  },
+  {
+   "paper_id": "W2137167699",
+   "year": 2004,
+   "cited_by_count": 177,
+   "C_5_pctl": 0.95,
+   "title": "High-Resolution Transmission Electron Microscopy Using Negative Spherical Aberration"
+  },
+  {
+   "paper_id": "W2064281728",
+   "year": 1989,
+   "cited_by_count": 170,
+   "C_5_pctl": 0.99,
+   "title": "Formation of quasicrystals by mechanical alloying"
+  },
+  {
+   "paper_id": "W2046923200",
+   "year": 1991,
+   "cited_by_count": 160,
+   "C_5_pctl": 1.0,
+   "title": "Microstructure of epitaxial YBa2Cu3O7 films on step-edge SrTiO3 substrates"
+  },
+  {
+   "paper_id": "W2078415159",
+   "year": 1996,
+   "cited_by_count": 158,
+   "C_5_pctl": 0.99,
+   "title": "Evidence for a Cluster-Based Structure of AlPdMn Single Quasicrystals"
+  },
+  {
+   "paper_id": "W2076055710",
+   "year": 1988,
+   "cited_by_count": 153,
+   "C_5_pctl": 1.0,
+   "title": "Direct production of crystalline superconducting thin films of YBa2Cu3O7 by high-pressure oxygen sputtering"
+  },
+  {
+   "paper_id": "W2073264984",
+   "year": 2004,
+   "cited_by_count": 149,
+   "C_5_pctl": 0.97,
+   "title": "Structurally complex alloy phases"
+  },
+  {
+   "paper_id": "W2072702151",
+   "year": 1993,
+   "cited_by_count": 147,
+   "C_5_pctl": 1.0,
+   "title": "Evidence of two-gaps-wave superconductivity in YBa2 Cu3 O7−x from microwave surface impedance measurements"
+  },
+  {
+   "paper_id": "W1987789707",
+   "year": 1993,
+   "cited_by_count": 136,
+   "C_5_pctl": 0.97,
+   "title": "Observation of the undercoolability of quasicrystal-forming alloys by electromagnetic levitation"
+  },
+  {
+   "paper_id": "W2028061647",
+   "year": 2005,
+   "cited_by_count": 127,
+   "C_5_pctl": 0.96,
+   "title": "Atomic-Scale Analysis of the Oxygen Configuration at a SrTiO3 Dislocation Core"
+  },
+  {
+   "paper_id": "W2026853528",
+   "year": 1992,
+   "cited_by_count": 126,
+   "C_5_pctl": 0.99,
+   "title": "Low-resistivity epitaxial YBa2Cu3O7 thin films with improved microstructure and reduced microwave losses"
+  },
+  {
+   "paper_id": "W1967038604",
+   "year": 1997,
+   "cited_by_count": 126,
+   "C_5_pctl": 0.99,
+   "title": "The plasticity of icosahedral quasicrystals"
+  },
+  {
+   "paper_id": "W1977220262",
+   "year": 1996,
+   "cited_by_count": 125,
+   "C_5_pctl": 0.99,
+   "title": "Microscopic identification of the compensation mechanisms in Si-doped GaAs"
+  },
+  {
+   "paper_id": "W2020207676",
+   "year": 1984,
+   "cited_by_count": 112,
+   "C_5_pctl": 1.0,
+   "title": "Order-disorder transformation in Ni4Mo under electron irradiation in a high-voltage electron microscope"
+  },
+  {
+   "paper_id": "W2088688279",
+   "year": 1989,
+   "cited_by_count": 109,
+   "C_5_pctl": 0.99,
+   "title": "Transmission electron microscope observations of dislocations and stacking faults in a decagonal Al-Cu-Co alloy"
+  },
+  {
+   "paper_id": "W3005727287",
+   "year": 1995,
+   "cited_by_count": 106,
+   "C_5_pctl": 0.99,
+   "title": "In-situobservation of dislocation motion in icosahedral Al-Pd-Mn single quasicrystals"
+  },
+  {
+   "paper_id": "W4239401917",
+   "year": 1985,
+   "cited_by_count": 103,
+   "C_5_pctl": 0.99,
+   "title": "Phase Transitions between the Quasicrystalline, Crystalline, and Amorphous Phases in Al14 at% Mn"
+  },
+  {
+   "paper_id": "W2076645899",
+   "year": 1992,
+   "cited_by_count": 103,
+   "C_5_pctl": 0.99,
+   "title": "The microstructure of epitaxial YBa2Cu3O7 films on steep steps in LaAlO3 substrates"
+  },
+  {
+   "paper_id": "W2021979334",
+   "year": 1974,
+   "cited_by_count": 101,
+   "C_5_pctl": 0.99,
+   "title": "Radiation-induced diffusion of point-defects during low-temperature electron irradiation"
+  },
+  {
+   "paper_id": "W1985998937",
+   "year": 1997,
+   "cited_by_count": 99,
+   "C_5_pctl": 0.99,
+   "title": "Microwave absorption in single crystals of lanthanum aluminate"
+  },
+  {
+   "paper_id": "W2062950878",
+   "year": 2014,
+   "cited_by_count": 99,
+   "C_5_pctl": 0.97,
+   "title": "Determination of the 3D shape of a nanoscale crystal with atomic resolution from a single image"
+  },
+  {
+   "paper_id": "W2121456665",
+   "year": 2009,
+   "cited_by_count": 98,
+   "C_5_pctl": 0.94,
+   "title": "Negative spherical aberration ultrahigh-resolution imaging in corrected transmission electron microscopy"
+  },
+  {
+   "paper_id": "W2030902290",
+   "year": 1991,
+   "cited_by_count": 97,
+   "C_5_pctl": 0.94,
+   "title": "Formation of quasicrystalline and amorphous phases in mechanically alloyed Al-based and TiNi-based alloys"
+  },
+  {
+   "paper_id": "W2003238625",
+   "year": 1998,
+   "cited_by_count": 90,
+   "C_5_pctl": 0.97,
+   "title": "Coalescence and overgrowth of diamond grains for improved heteroepitaxy on silicon (001)"
+  },
+  {
+   "paper_id": "W2130130746",
+   "year": 2009,
+   "cited_by_count": 90,
+   "C_5_pctl": 0.9,
+   "title": "Effect of a Single Dislocation in a Heterostructure Layer on the Local Polarization of a Ferroelectric Layer"
+  },
+  {
+   "paper_id": "W1964803771",
+   "year": 1992,
+   "cited_by_count": 89,
+   "C_5_pctl": 0.99,
+   "title": "Microwave surface resistance of epitaxial YBa2Cu3O7 thin films at 18.7 GHz measured by a dielectric resonator technique"
+  },
+  {
+   "paper_id": "W2034087837",
+   "year": 1991,
+   "cited_by_count": 89,
+   "C_5_pctl": 0.99,
+   "title": "On the determination of the Burgers vector of quasicrystal dislocations by transmission electron microscopy"
+  },
+  {
+   "paper_id": "W2113276021",
+   "year": 2009,
+   "cited_by_count": 87,
+   "C_5_pctl": 0.96,
+   "title": "Is science prepared for atomic-resolution electron microscopy?"
+  },
+  {
+   "paper_id": "W2010508579",
+   "year": 1998,
+   "cited_by_count": 87,
+   "C_5_pctl": 0.96,
+   "title": "Undercooling and solidification behaviour of melts of the quasicrystal-forming alloysAl–Cu–Fe and Al–Cu–Co"
+  },
+  {
+   "paper_id": "W2317201686",
+   "year": 2012,
+   "cited_by_count": 87,
+   "C_5_pctl": 0.94,
+   "title": "Static and dynamic polar nanoregions in relaxor ferroelectric Ba(Ti 1 − x Sn x )O 3 system at high temperature"
+  },
+  {
+   "paper_id": "W2091328206",
+   "year": 1998,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.97,
+   "title": "Microstructure of columnar-grained SrTiO3 and BaTiO3 thin films prepared by chemical solution deposition"
+  },
+  {
+   "paper_id": "W190801851",
+   "year": 2005,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.91,
+   "title": "Atomic-precision determination of the reconstruction of a tilt boundary in by aberration corrected HRTEM"
+  },
+  {
+   "paper_id": "W2027323801",
+   "year": 1995,
+   "cited_by_count": 83,
+   "C_5_pctl": 0.98,
+   "title": "Study of plastically deformed icosahedral Al[sbnd]Pd[sbnd]Mn single quasicrystals by transmission electron microscopy"
+  },
+  {
+   "paper_id": "W2069037443",
+   "year": 1996,
+   "cited_by_count": 81,
+   "C_5_pctl": 0.97,
+   "title": "Contribution of Surface Resonances to Scanning Tunneling Microscopy Images: (110) Surfaces of III-V Semiconductors"
+  },
+  {
+   "paper_id": "W2017871178",
+   "year": 1994,
+   "cited_by_count": 79,
+   "C_5_pctl": 0.98,
+   "title": "Charge state dependent structural relaxation around anion vacancies on InP(110) and GaP(110) surfaces"
+  },
+  {
+   "paper_id": "W1972438969",
+   "year": 1971,
+   "cited_by_count": 76,
+   "C_5_pctl": 0.99,
+   "title": "Growth of defect clusters in thin nickel foils during electron irradiation (I)"
+  },
+  {
+   "paper_id": "W2070516312",
+   "year": 1979,
+   "cited_by_count": 75,
+   "C_5_pctl": 0.85,
+   "title": "Radiation-induced processes in experiments carried out in-situ in the high-voltage electron microscope"
+  },
+  {
+   "paper_id": "W2095131904",
+   "year": 1995,
+   "cited_by_count": 72,
+   "C_5_pctl": 0.98,
+   "title": "Intrinsic deformation properties of icosahedral Al-Pd-Mn single quasicrystals"
+  },
+  {
+   "paper_id": "W2118065952",
+   "year": 1991,
+   "cited_by_count": 72,
+   "C_5_pctl": 0.9,
+   "title": "Mechanical properties of single-quasicrystalline AlCuCoSi"
+  },
+  {
+   "paper_id": "W1966835536",
+   "year": 1997,
+   "cited_by_count": 71,
+   "C_5_pctl": 0.99,
+   "title": "Identification and Quantification of Defects in Highly Si-Doped GaAs by Positron Annihilation and Scanning Tunneling Microscopy"
+  },
+  {
+   "paper_id": "W2021279881",
+   "year": 1995,
+   "cited_by_count": 68,
+   "C_5_pctl": 0.98,
+   "title": "Heteroepitaxial diamond films on silicon (001): Interface structure and crystallographic relations between film and substrate"
+  },
+  {
+   "paper_id": "W1974175340",
+   "year": 1996,
+   "cited_by_count": 66,
+   "C_5_pctl": 0.96,
+   "title": "Direct Determination of the Interaction between Vacancies on InP(110) Surfaces"
+  },
+  {
+   "paper_id": "W2035416317",
+   "year": 1993,
+   "cited_by_count": 65,
+   "C_5_pctl": 0.98,
+   "title": "Scanning-tunneling-microscope tip-induced migration of vacancies on GaP(110)"
+  },
+  {
+   "paper_id": "W2057829029",
+   "year": 1999,
+   "cited_by_count": 64,
+   "C_5_pctl": 0.81,
+   "title": "Novel Type of Dislocation in an Al-Pd-Mn Quasicrystal Approximant"
+  },
+  {
+   "paper_id": "W2057162335",
+   "year": 1984,
+   "cited_by_count": 62,
+   "C_5_pctl": 0.98,
+   "title": "Kinetics of Order–Disorder Transformation in Alloys under Electron Irradiation"
+  },
+  {
+   "paper_id": "W1970298904",
+   "year": 1998,
+   "cited_by_count": 62,
+   "C_5_pctl": 0.98,
+   "title": "Surface structures of cleaved icosahedral Al-Pd-Mn single quasicrystals after heat treatment"
+  },
+  {
+   "paper_id": "W2083388930",
+   "year": 1994,
+   "cited_by_count": 62,
+   "C_5_pctl": 0.96,
+   "title": "A comparative study of decagonal quasicrystalline phases"
+  },
+  {
+   "paper_id": "W2019406644",
+   "year": 2008,
+   "cited_by_count": 62,
+   "C_5_pctl": 0.95,
+   "title": "Toward Atomic-Scale Bright-Field Electron Tomography for the Study of Fullerene-Like Nanostructures"
+  }
+ ]
+}

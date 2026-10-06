@@ -1,0 +1,657 @@
+{
+ "person": "John F. Hartwig",
+ "profile": "A5088865204",
+ "ids": [
+  "A5088865204"
+ ],
+ "options": [
+  "for the development of transition-metal-catalyzed C-H functionalization reactions — John F. Hartwig, Robert G. Bergman",
+  "for the development of palladium-catalyzed carbon-heteroatom bond formation — Stephen L. Buchwald, John F. Hartwig",
+  "for the development of transition-metal-catalyzed C-H functionalization reactions — John F. Hartwig, Jin-Quan Yu, Robert G. Bergman",
+  "for the development of palladium-catalyzed carbon–nitrogen bond formation — Stephen L. Buchwald, John F. Hartwig"
+ ],
+ "birth_year": 1964,
+ "cutoff_year": 1989,
+ "works": [
+  {
+   "paper_id": "W1974001124",
+   "year": 2009,
+   "cited_by_count": 2688,
+   "title": "C−H Activation for the Construction of C−B Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979259658",
+   "year": 2012,
+   "cited_by_count": 2169,
+   "title": "On the Interpretation of Deuterium Kinetic Isotope Effects in CH Bond Functionalizations by Transition‐Metal Complexes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083790594",
+   "year": 2008,
+   "cited_by_count": 1844,
+   "title": "Evolution of a Fourth Generation Catalyst for the Amination and Thioetherification of Aryl Halides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097148620",
+   "year": 1998,
+   "cited_by_count": 1691,
+   "title": "Transition Metal Catalyzed Synthesis of Arylamines and Aryl Ethers from Aryl Halides and Triflates: Scope and Mechanism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018823964",
+   "year": 2001,
+   "cited_by_count": 1127,
+   "title": "Mild Iridium-Catalyzed Borylation of Arenes. High Turnover Numbers, Room Temperature Reactions, and Isolation of a Potential Intermediate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060469597",
+   "year": 1998,
+   "cited_by_count": 1114,
+   "title": "Carbon−Heteroatom Bond-Forming Reductive Eliminations of Amines, Ethers, and Sulfides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079115189",
+   "year": 2011,
+   "cited_by_count": 1037,
+   "title": "Borylation and Silylation of C–H Bonds: A Platform for Diverse C–H Bond Functionalizations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971425837",
+   "year": 2008,
+   "cited_by_count": 964,
+   "title": "Carbon–heteroatom bond formation catalysed by organometallic complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150805674",
+   "year": 2003,
+   "cited_by_count": 928,
+   "title": "Palladium-Catalyzed α-Arylation of Carbonyl Compounds and Nitriles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993847723",
+   "year": 1995,
+   "cited_by_count": 873,
+   "title": "Palladium-catalyzed synthesis of arylamines from aryl halides. Mechanistic studies lead to coupling in the absence of tin reagents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045444647",
+   "year": 2000,
+   "cited_by_count": 872,
+   "title": "Thermal, Catalytic, Regiospecific Functionalization of Alkanes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346072123",
+   "year": 2016,
+   "cited_by_count": 852,
+   "title": "Undirected, Homogeneous C–H Bond Functionalization: Challenges and Opportunities",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999057729",
+   "year": 2011,
+   "cited_by_count": 824,
+   "title": "Selective, Nickel-Catalyzed Hydrogenolysis of Aryl Ethers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052830222",
+   "year": 1994,
+   "cited_by_count": 814,
+   "title": "Palladium-catalyzed formation of carbon-nitrogen bonds. Reaction intermediates and catalyst improvements in the hetero cross-coupling of aryl halides and tin amides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151882027",
+   "year": 2011,
+   "cited_by_count": 786,
+   "title": "Regioselectivity of the borylation of alkanes and arenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984554723",
+   "year": 1999,
+   "cited_by_count": 762,
+   "title": "Room-Temperature Palladium-Catalyzed Amination of Aryl Bromides and Chlorides and Extended Scope of Aromatic C−N Bond Formation with a Commercial Ligand",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2286935523",
+   "year": 2015,
+   "cited_by_count": 744,
+   "title": "Evolution of C–H Bond Functionalization from Methane to Methodology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164930732",
+   "year": 2002,
+   "cited_by_count": 724,
+   "title": "Air Stable, Sterically Hindered Ferrocenyl Dialkylphosphines for Palladium-Catalyzed C−C, C−N, and C−O Bond-Forming Cross-Couplings",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019237825",
+   "year": 2010,
+   "cited_by_count": 696,
+   "title": "Mechanistically Driven Development of Iridium Catalysts for Asymmetric Allylic Substitution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971234549",
+   "year": 2006,
+   "cited_by_count": 691,
+   "title": "A General and Long-Lived Catalyst for the Palladium-Catalyzed Coupling of Aryl Halides with Thiols",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003141956",
+   "year": 2015,
+   "cited_by_count": 673,
+   "title": "Catalytic Silylation of Unactivated C–H Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995734593",
+   "year": 1997,
+   "cited_by_count": 567,
+   "title": "Palladium-Catalyzed Direct α-Arylation of Ketones. Rate Acceleration by Sterically Hindered Chelating Ligands and Reductive Elimination from a Transition Metal Enolate Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054785509",
+   "year": 2010,
+   "cited_by_count": 546,
+   "title": "Palladium-Catalyzed Amination of Aromatic C−H Bonds with Oxime Esters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149476429",
+   "year": 2001,
+   "cited_by_count": 524,
+   "title": "Improved Catalysts for the Palladium-Catalyzed Synthesis of Oxindoles by Amide α-Arylation. Rate Acceleration, Use of Aryl Chloride Substrates, and a New Carbene Ligand for Asymmetric Transformations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169142393",
+   "year": 2002,
+   "cited_by_count": 516,
+   "title": "A Stoichiometric Aromatic CH Borylation Catalyzed by Iridium( I )/2,2′‐Bipyridine Complexes at Room Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022337073",
+   "year": 2005,
+   "cited_by_count": 515,
+   "title": "Mechanism of the Mild Functionalization of Arenes by Diboron Reagents Catalyzed by Iridium Complexes. Intermediacy and Chemistry of Bipyridine-Ligated Iridium Trisboryl Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127983660",
+   "year": 2012,
+   "cited_by_count": 482,
+   "title": "Zur Interpretation des kinetischen Isotopeneffekts bei der Funktionalisierung von C‐H‐Bindungen durch Übergangsmetallkomplexe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049407878",
+   "year": 2007,
+   "cited_by_count": 476,
+   "title": "Electronic Effects on Reductive Elimination To Form Carbon−Carbon and Carbon−Heteroatom Bonds from Palladium(II) Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042961961",
+   "year": 1996,
+   "cited_by_count": 473,
+   "title": "A Second-Generation Catalyst for Aryl Halide Amination: Mixed Secondary Amines from Aryl Halides and Primary Amines Catalyzed by (DPPF)PdCl2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155869650",
+   "year": 2011,
+   "cited_by_count": 464,
+   "title": "A Broadly Applicable Copper Reagent for Trifluoromethylations and Perfluoroalkylations of Aryl Iodides and Bromides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056650671",
+   "year": 1999,
+   "cited_by_count": 459,
+   "title": "Simple, Highly Active Palladium Catalysts for Ketone and Malonate Arylation: Dissecting the Importance of Chelation and Steric Hindrance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143178116",
+   "year": 2014,
+   "cited_by_count": 457,
+   "title": "Rhodium-Catalyzed Intermolecular C–H Silylation of Arenes with High Steric Regiocontrol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2415341105",
+   "year": 2016,
+   "cited_by_count": 452,
+   "title": "Abiological catalysis by artificial haem proteins containing noble metals in place of iron",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1641295153",
+   "year": 2005,
+   "cited_by_count": 442,
+   "title": "Oxidative Addition of Ammonia to Form a Stable Monomeric Amido Hydride Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025105368",
+   "year": 2011,
+   "cited_by_count": 439,
+   "title": "Distinguishing Between Pathways for Transmetalation in Suzuki−Miyaura Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049946046",
+   "year": 1999,
+   "cited_by_count": 439,
+   "title": "Palladium-Catalyzed C−O Coupling Involving Unactivated Aryl Halides. Sterically Induced Reductive Elimination To Form the C−O Bond in Diaryl Ethers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048118807",
+   "year": 2015,
+   "cited_by_count": 417,
+   "title": "Metal-catalysed azidation of tertiary C–H bonds suitable for late-stage functionalization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070886586",
+   "year": 2012,
+   "cited_by_count": 415,
+   "title": "Copper-Mediated Difluoromethylation of Aryl and Vinyl Iodides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984963453",
+   "year": 2007,
+   "cited_by_count": 399,
+   "title": "Meta Halogenation of 1,3-Disubstituted Arenes via Iridium-Catalyzed Arene Borylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976825482",
+   "year": 2014,
+   "cited_by_count": 398,
+   "title": "Iridium-Catalyzed C–H Borylation of Heteroarenes: Scope, Regioselectivity, Application to Late-Stage Functionalization, and Mechanism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988961591",
+   "year": 2012,
+   "cited_by_count": 394,
+   "title": "Catalytic functionalization of unactivated primary C–H bonds directed by an alcohol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119016897",
+   "year": 2002,
+   "cited_by_count": 391,
+   "title": "Unparalleled Rates for the Activation of Aryl Chlorides and Bromides: Coupling with Amines and Boronic Acids in Minutes at Room Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2529265994",
+   "year": 2016,
+   "cited_by_count": 390,
+   "title": "An artificial metalloenzyme with the kinetics of native enzymes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080925478",
+   "year": 2000,
+   "cited_by_count": 382,
+   "title": "Unusual in Situ Ligand Modification to Generate a Catalyst for Room Temperature Aromatic C−O Bond Formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086530875",
+   "year": 2002,
+   "cited_by_count": 367,
+   "title": "Regio- and Enantioselective Allylic Amination of Achiral Allylic Esters Catalyzed by an Iridium−Phosphoramidite Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2950998795",
+   "year": 2006,
+   "cited_by_count": 366,
+   "title": "Discovery and Understanding of Transition-Metal-Catalyzed Aromatic Substitution Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970987185",
+   "year": 2000,
+   "cited_by_count": 365,
+   "title": "Palladium-Catalyzed Intermolecular Hydroamination of Vinylarenes Using Arylamines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001446633",
+   "year": 2008,
+   "cited_by_count": 363,
+   "title": "Highly Reactive, General and Long-Lived Catalysts for Palladium-Catalyzed Amination of Heteroaryl and Aryl Chlorides, Bromides, and Iodides: Scope and Structure–Activity Relationships",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086971716",
+   "year": 2001,
+   "cited_by_count": 362,
+   "title": "Palladium-Catalyzed Hydroamination of 1,3-Dienes: A Colorimetric Assay and Enantioselective Additions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987086188",
+   "year": 2006,
+   "cited_by_count": 361,
+   "title": "Palladium-Catalyzed Coupling of Ammonia and Lithium Amide with Aryl Halides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002161566",
+   "year": 2006,
+   "cited_by_count": 359,
+   "title": "Hydroamination and Hydroalkoxylation Catalyzed by Triflic Acid. Parallels to Reactions Initiated with Metal Triflates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137377828",
+   "year": 2002,
+   "cited_by_count": 357,
+   "title": "Iridium-catalyzed C–H coupling reaction of heteroaromatic compounds with bis(pinacolato)diboron: regioselective synthesis of heteroarylboronates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001920359",
+   "year": 2010,
+   "cited_by_count": 356,
+   "title": "Catalytic Organometallic Reactions of Ammonia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120337718",
+   "year": 2005,
+   "cited_by_count": 350,
+   "title": "Highly Reactive, General, and Long‐Lived Catalysts for Coupling Heteroaryl and Aryl Chlorides with Primary Nitrogen Nucleophiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979596014",
+   "year": 2008,
+   "cited_by_count": 349,
+   "title": "Silyl-Directed, Iridium-Catalyzed ortho -Borylation of Arenes. A One-Pot ortho -Borylation of Phenols, Arylamines, and Alkylarenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983026194",
+   "year": 2005,
+   "cited_by_count": 342,
+   "title": "Rhodium Boryl Complexes in the Catalytic, Terminal Functionalization of Alkanes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031140278",
+   "year": 1998,
+   "cited_by_count": 342,
+   "title": "Sterically Hindered Chelating Alkyl Phosphines Provide Large Rate Accelerations in Palladium-Catalyzed Amination of Aryl Iodides, Bromides, and Chlorides, and the First Amination of Aryl Tosylates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089633900",
+   "year": 2010,
+   "cited_by_count": 332,
+   "title": "Iridium-Catalyzed, Silyl-Directed Borylation of Nitrogen-Containing Heterocycles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970418635",
+   "year": 2012,
+   "cited_by_count": 327,
+   "title": "A Heterogeneous Nickel Catalyst for the Hydrogenolysis of Aryl Ethers without Arene Hydrogenation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000951812",
+   "year": 1998,
+   "cited_by_count": 326,
+   "title": "Palladium-Catalyzed C−N(sp2) Bond Formation: N-Arylation of Aromatic and Unsaturated Nitrogen and the Reductive Elimination Chemistry of Palladium Azolyl and Methyleneamido Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039479509",
+   "year": 1999,
+   "cited_by_count": 326,
+   "title": "Catalytic, Regiospecific End-Functionalization of Alkanes: Rhenium-Catalyzed Borylation under Photochemical Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031255003",
+   "year": 1998,
+   "cited_by_count": 325,
+   "title": "Übergangsmetall-katalysierte Synthese von Arylaminen und Arylethern aus Arylhalogeniden und -triflaten: Anwendungen und Reaktionsmechanismus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2774491932",
+   "year": 2017,
+   "cited_by_count": 321,
+   "title": "Transition‐Metal‐Catalyzed Selective Functionalization of C(sp3)−H Bonds in Natural Products",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067974165",
+   "year": 1996,
+   "cited_by_count": 315,
+   "title": "Palladium Alkoxides: Potential Intermediacy in Catalytic Amination, Reductive Elimination of Ethers, and Catalytic Etheration. Comments on Alcohol Elimination from Ir(III)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2886311882",
+   "year": 2018,
+   "cited_by_count": 315,
+   "title": "Cooperative asymmetric reactions combining photocatalysis and enzymatic catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058426505",
+   "year": 2008,
+   "cited_by_count": 314,
+   "title": "Copper Complexes of Anionic Nitrogen Ligands in the Amidation and Imidation of Aryl Halides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952472641",
+   "year": 2000,
+   "cited_by_count": 314,
+   "title": "High Turnover Number and Rapid, Room-Temperature Amination of Chloroarenes Using Saturated Carbene Ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170903006",
+   "year": 2003,
+   "cited_by_count": 313,
+   "title": "Scope and Mechanism of Palladium-Catalyzed Amination of Five-Membered Heterocyclic Halides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2562270443",
+   "year": 2016,
+   "cited_by_count": 310,
+   "title": "Stereodivergent Allylic Substitutions with Aryl Acetic Acid Esters by Synergistic Iridium and Lewis Base Catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977636377",
+   "year": 2006,
+   "cited_by_count": 305,
+   "title": "A Highly Active Palladium Catalyst for Intermolecular Hydroamination. Factors that Control Reactivity and Additions of Functionalized Anilines to Dienes and Vinylarenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088019388",
+   "year": 1997,
+   "cited_by_count": 302,
+   "title": "Selective Functionalization of Alkanes by Transition-Metal Boryl Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2319087770",
+   "year": 2014,
+   "cited_by_count": 301,
+   "title": "Linear-Selective Hydroarylation of Unactivated Terminal and Internal Olefins with Trifluoromethyl-Substituted Arenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026756252",
+   "year": 2009,
+   "cited_by_count": 298,
+   "title": "Palladium-Catalyzed Coupling of Ammonia with Aryl Chlorides, Bromides, Iodides, and Sulfonates: A General Method for the Preparation of Primary Arylamines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041862687",
+   "year": 2004,
+   "cited_by_count": 294,
+   "title": "Synthesis, Structure, Theoretical Studies, and Ligand Exchange Reactions of Monomeric, T-Shaped Arylpalladium(II) Halide Complexes with an Additional, Weak Agostic Interaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2953216585",
+   "year": 1997,
+   "cited_by_count": 293,
+   "title": "Palladium-Catalyzed Amination of Aryl Halides: Mechanism and Rational Catalyst Design",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979489398",
+   "year": 1998,
+   "cited_by_count": 292,
+   "title": "Palladium-Catalyzed Inter- and Intramolecular α-Arylation of Amides. Application of Intramolecular Amide Arylation to the Synthesis of Oxindoles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989205988",
+   "year": 1999,
+   "cited_by_count": 290,
+   "title": "A Fluorescence-Based Assay for High-Throughput Screening of Coupling Reactions. Application to Heck Chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082074954",
+   "year": 2003,
+   "cited_by_count": 290,
+   "title": "Identification of an Activated Catalyst in the Iridium-Catalyzed Allylic Amination and Etherification. Increased Rates, Scope, and Selectivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151286389",
+   "year": 1998,
+   "cited_by_count": 287,
+   "title": "Carbon−Sulfur Bond-Forming Reductive Elimination Involving sp-, sp 2 -, and sp 3 -Hybridized Carbon. Mechanism, Steric Effects, and Electronic Effects on Sulfide Formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023100599",
+   "year": 1997,
+   "cited_by_count": 282,
+   "title": "Carbon−Nitrogen-Bond-Forming Reductive Elimination of Arylamines from Palladium(II) Phosphine Complexes",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

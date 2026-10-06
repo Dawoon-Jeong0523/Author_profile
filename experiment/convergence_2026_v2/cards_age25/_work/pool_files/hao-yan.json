@@ -1,0 +1,655 @@
+{
+ "person": "Hao Yan",
+ "profile": "A5064979753",
+ "ids": [
+  "A5064979753",
+  "A5113696260"
+ ],
+ "options": [
+  "for the development of DNA origami and programmable self-assembly of DNA nanostructures — Paul W. K. Rothemund, William M. Shih, Hao Yan"
+ ],
+ "birth_year": 1971,
+ "cutoff_year": 1996,
+ "works": [
+  {
+   "paper_id": "W2072687635",
+   "year": 2003,
+   "cited_by_count": 1764,
+   "title": "DNA-Templated Self-Assembly of Protein Arrays and Highly Conductive Nanowires",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2790708193",
+   "year": 2018,
+   "cited_by_count": 1425,
+   "title": "A DNA nanorobot functions as a cancer therapeutic in response to a molecular trigger in vivo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077850544",
+   "year": 2011,
+   "cited_by_count": 1275,
+   "title": "Challenges and opportunities for structural DNA nanotechnology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072895616",
+   "year": 2011,
+   "cited_by_count": 1200,
+   "title": "DNA Origami with Complex Curvatures in Three-Dimensional Space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2624786346",
+   "year": 2017,
+   "cited_by_count": 1054,
+   "title": "DNA Origami: Scaffolds for Creating Higher Order Structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993933078",
+   "year": 2010,
+   "cited_by_count": 953,
+   "title": "Molecular robots guided by prescriptive landscapes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006908644",
+   "year": 2002,
+   "cited_by_count": 768,
+   "title": "A robust DNA mechanical device controlled by hybridization topology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988812533",
+   "year": 2012,
+   "cited_by_count": 724,
+   "title": "DNA Origami as a Carrier for Circumvention of Drug Resistance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992810019",
+   "year": 2009,
+   "cited_by_count": 712,
+   "title": "Control of Self-Assembly of DNA Tubules Through Integration of Gold Nanoparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068744615",
+   "year": 2000,
+   "cited_by_count": 694,
+   "title": "Construction, Analysis, Ligation, and Self-Assembly of DNA Triple Crossover Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989548144",
+   "year": 2012,
+   "cited_by_count": 693,
+   "title": "Interenzyme Substrate Diffusion for an Enzyme Cascade Organized on Spatially Addressable DNA Nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3158678351",
+   "year": 2021,
+   "cited_by_count": 680,
+   "title": "DNA origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2395219941",
+   "year": 2016,
+   "cited_by_count": 616,
+   "title": "Designer nanoscale DNA assemblies programmed from the top down",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964599873",
+   "year": 2014,
+   "cited_by_count": 560,
+   "title": "Structural DNA Nanotechnology: State of the Art and Future Perspective",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007542353",
+   "year": 2010,
+   "cited_by_count": 547,
+   "title": "A DNA Nanostructure‐based Biomolecular Probe Carrier Platform for Electrochemical Biosensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104404495",
+   "year": 2014,
+   "cited_by_count": 540,
+   "title": "Single‐Particle Tracking and Modulation of Cell Entry Pathways of a Tetrahedral DNA Nanostructure in Live Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068289663",
+   "year": 2010,
+   "cited_by_count": 526,
+   "title": "Gold Nanoparticle Self-Similar Chain Structure Organized by DNA Origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965560011",
+   "year": 2014,
+   "cited_by_count": 498,
+   "title": "Multi-enzyme complexes on DNA scaffolds capable of substrate channelling with an artificial swinging arm",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164215798",
+   "year": 2004,
+   "cited_by_count": 494,
+   "title": "A Unidirectional DNA Walker That Moves Autonomously along a Track",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2883718213",
+   "year": 2018,
+   "cited_by_count": 473,
+   "title": "Complex silica composite nanomaterials templated with DNA origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094524922",
+   "year": 2008,
+   "cited_by_count": 472,
+   "title": "Self-assembled DNA nanostructures for distance-dependent multivalent ligand–protein binding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155704077",
+   "year": 2011,
+   "cited_by_count": 468,
+   "title": "DNA origami: a quantum leap for self-assembly of complex structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046614930",
+   "year": 2008,
+   "cited_by_count": 458,
+   "title": "Self-Assembled Water-Soluble Nucleic Acid Probe Tiles for Label-Free RNA Hybridization Assays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2202554670",
+   "year": 2015,
+   "cited_by_count": 432,
+   "title": "Complex wireframe DNA origami nanostructures with multi-arm junction vertices",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2899124834",
+   "year": 2018,
+   "cited_by_count": 424,
+   "title": "DNA origami nanostructures can exhibit preferential renal uptake and alleviate acute kidney injury",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2301507491",
+   "year": 2016,
+   "cited_by_count": 419,
+   "title": "Nanocaged enzymes with enhanced catalytic activity and increased stability against protease digestion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014845274",
+   "year": 2009,
+   "cited_by_count": 414,
+   "title": "Multilayer DNA Origami Packed on a Square Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134069036",
+   "year": 2006,
+   "cited_by_count": 384,
+   "title": "DNA Tile Based Self‐Assembly: Building Complex Nanoarchitectures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040094175",
+   "year": 2009,
+   "cited_by_count": 337,
+   "title": "Scaffolded DNA Origami of a DNA Tetrahedron Molecular Container",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084835951",
+   "year": 2011,
+   "cited_by_count": 335,
+   "title": "Stability of DNA Origami Nanoarrays in Cell Lysate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2760464869",
+   "year": 2017,
+   "cited_by_count": 333,
+   "title": "Engineering nucleic acid structures for programmable molecular circuitry and intracellular biocomputation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999380198",
+   "year": 2006,
+   "cited_by_count": 329,
+   "title": "Periodic Square-Like Gold Nanoparticle Arrays Templated by Self-Assembled 2D DNA Nanogrids on a Surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043951705",
+   "year": 2003,
+   "cited_by_count": 329,
+   "title": "DNA-Templated Self-Assembly of Protein and Nanoparticle Linear Arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156611380",
+   "year": 2005,
+   "cited_by_count": 327,
+   "title": "DNA‐Templated Self‐Assembly of Two‐Dimensional and Periodical Gold Nanoparticle Arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028293394",
+   "year": 2013,
+   "cited_by_count": 326,
+   "title": "A DNA tweezer-actuated enzyme nanoreactor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011802753",
+   "year": 2010,
+   "cited_by_count": 321,
+   "title": "Folding and cutting DNA into reconfigurable topological nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130508462",
+   "year": 2010,
+   "cited_by_count": 310,
+   "title": "DNA‐Origami‐Directed Self‐Assembly of Discrete Silver‐Nanoparticle Architectures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027804504",
+   "year": 2003,
+   "cited_by_count": 309,
+   "title": "Directed nucleation assembly of DNA tile complexes for barcode-patterned lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2775235705",
+   "year": 2017,
+   "cited_by_count": 288,
+   "title": "Single-stranded DNA and RNA origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066907250",
+   "year": 2005,
+   "cited_by_count": 287,
+   "title": "Programmable DNA Self-Assemblies for Nanoscale Organization of Ligands and Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091691458",
+   "year": 2012,
+   "cited_by_count": 286,
+   "title": "A DNA Nanostructure Platform for Directed Assembly of Synthetic Vaccines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081383153",
+   "year": 2011,
+   "cited_by_count": 285,
+   "title": "DNA-Directed Artificial Light-Harvesting Antenna",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968156574",
+   "year": 2008,
+   "cited_by_count": 276,
+   "title": "Toward Reliable Gold Nanoparticle Patterning On Self-Assembled DNA Nanoscaffold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079812151",
+   "year": 2013,
+   "cited_by_count": 274,
+   "title": "DNA Gridiron Nanostructures Based on Four-Arm Junctions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034268042",
+   "year": 2007,
+   "cited_by_count": 273,
+   "title": "Spatially Addressable Multiprotein Nanoarrays Templated by Aptamer-Tagged DNA Nanoarchitectures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024086291",
+   "year": 2009,
+   "cited_by_count": 260,
+   "title": "Designer DNA Nanoarchitectures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2996508871",
+   "year": 2019,
+   "cited_by_count": 246,
+   "title": "Programming nanoparticle valence bonds with single-stranded DNA encoders",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154980163",
+   "year": 2011,
+   "cited_by_count": 231,
+   "title": "DNA Directed Self-Assembly of Anisotropic Plasmonic Nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076042016",
+   "year": 2005,
+   "cited_by_count": 213,
+   "title": "Three-Helix Bundle DNA Tiles Self-Assemble into 2D Lattice or 1D Templates for Silver Nanowires",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169209269",
+   "year": 2005,
+   "cited_by_count": 209,
+   "title": "Aptamer‐Directed Self‐Assembly of Protein Arrays on a DNA Nanostructure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018847636",
+   "year": 2004,
+   "cited_by_count": 205,
+   "title": "Paranemic Crossover DNA: A Generalized Holliday Structure with Applications in Nanotechnology",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047786995",
+   "year": 2010,
+   "cited_by_count": 188,
+   "title": "DNA origami: a history and current perspective",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069869069",
+   "year": 2011,
+   "cited_by_count": 188,
+   "title": "Organizing DNA Origami Tiles into Larger Structures Using Preformed Scaffold Frames",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2888081037",
+   "year": 2018,
+   "cited_by_count": 181,
+   "title": "DNA-Guided Plasmonic Helix with Switchable Chirality",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2110310069",
+   "year": 2003,
+   "cited_by_count": 180,
+   "title": "A Two‐State DNA Lattice Switched by DNA Nanoactuator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073608685",
+   "year": 2013,
+   "cited_by_count": 167,
+   "title": "Three-Input Majority Logic Gate and Multiple Input Logic Circuit Based on DNA Strand Displacement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3083766186",
+   "year": 2020,
+   "cited_by_count": 167,
+   "title": "Meta-DNA structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2319826223",
+   "year": 2014,
+   "cited_by_count": 161,
+   "title": "Fluorescence Quenching of Quantum Dots by Gold Nanoparticles: A Potential Long Range Spectroscopic Ruler",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151323671",
+   "year": 2008,
+   "cited_by_count": 160,
+   "title": "DNA‐Tile‐Directed Self‐Assembly of Quantum Dots into Two‐Dimensional Nanopatterns",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964225465",
+   "year": 2012,
+   "cited_by_count": 156,
+   "title": "Spatially-Interactive Biomolecular Networks Organized by Nucleic Acid Nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3104424379",
+   "year": 2020,
+   "cited_by_count": 155,
+   "title": "Designer DNA nanostructures for therapeutics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984610750",
+   "year": 2006,
+   "cited_by_count": 154,
+   "title": "A Study of DNA Tube Formation Mechanisms Using 4-, 8-, and 12-Helix DNA Nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150856068",
+   "year": 2006,
+   "cited_by_count": 153,
+   "title": "Self‐Assembled Signaling Aptamer DNA Arrays for Protein Detection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W318777421",
+   "year": 2015,
+   "cited_by_count": 149,
+   "title": "DNA Nanostructures as Programmable Biomolecular Scaffolds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060316421",
+   "year": 2011,
+   "cited_by_count": 146,
+   "title": "High-Quality Manganese-Doped Zinc Sulfide Quantum Rods with Tunable Dual-Color and Multiphoton Emissions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2908052785",
+   "year": 2019,
+   "cited_by_count": 146,
+   "title": "Autonomously designed free-form 2D DNA origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346386833",
+   "year": 2016,
+   "cited_by_count": 145,
+   "title": "Directional Regulation of Enzyme Pathways through the Control of Substrate Channeling on a DNA Origami Scaffold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148182648",
+   "year": 2011,
+   "cited_by_count": 144,
+   "title": "Encapsulation of Gold Nanoparticles in a DNA Origami Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095910786",
+   "year": 2007,
+   "cited_by_count": 142,
+   "title": "Self‐Assembled Peptide Nanoarrays: An Approach to Studying Protein–Protein Interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979166031",
+   "year": 2009,
+   "cited_by_count": 141,
+   "title": "Band Gap Engineering of Quaternary-Alloyed ZnCdSSe Quantum Dots via a Facile Phosphine-Free Colloidal Method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108932098",
+   "year": 2010,
+   "cited_by_count": 138,
+   "title": "A Route to Scale Up DNA Origami Using DNA Tiles as Folding Staples",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049409956",
+   "year": 2009,
+   "cited_by_count": 137,
+   "title": "Distance-dependent interactions between gold nanoparticles and fluorescent molecules with DNA as tunable spacers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2809414926",
+   "year": 2018,
+   "cited_by_count": 136,
+   "title": "A Synthetic Light-Driven Substrate Channeling System for Precise Regulation of Enzyme Cascade Activity Based on DNA Origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079027438",
+   "year": 2008,
+   "cited_by_count": 135,
+   "title": "In vivo cloning of artificial DNA nanostructures",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999271653",
+   "year": 2010,
+   "cited_by_count": 134,
+   "title": "DNA Self-assembly for Nanomedicine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2802661634",
+   "year": 2018,
+   "cited_by_count": 134,
+   "title": "Exploring the speed limit of toehold exchange with a cartwheeling DNA acrobat",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116272749",
+   "year": 2006,
+   "cited_by_count": 133,
+   "title": "pH-driven conformational switch of “i-motif” DNA for the reversible assembly of gold nanoparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2920042153",
+   "year": 2019,
+   "cited_by_count": 133,
+   "title": "Tunable Nanoscale Cages from Self-Assembling DNA and Protein Building Blocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992552842",
+   "year": 2010,
+   "cited_by_count": 130,
+   "title": "Immobilization and One-Dimensional Arrangement of Virus Capsids with Nanoscale Precision Using DNA Origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022369865",
+   "year": 2010,
+   "cited_by_count": 129,
+   "title": "Molecular Behavior of DNA Origami in Higher-Order Self-Assembly",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

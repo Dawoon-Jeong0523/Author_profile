@@ -1,0 +1,654 @@
+{
+ "person": "John P. Perdew",
+ "profile": "A5014987686",
+ "ids": [
+  "A5014987686"
+ ],
+ "options": [
+  "for the development of accurate exchange-correlation functionals that made density functional theory the workhorse of computational chemistry — John P. Perdew"
+ ],
+ "birth_year": 1943,
+ "cutoff_year": 1968,
+ "works": [
+  {
+   "paper_id": "W1981368803",
+   "year": 1996,
+   "cited_by_count": 201163,
+   "title": "Generalized Gradient Approximation Made Simple",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049079467",
+   "year": 1992,
+   "cited_by_count": 24536,
+   "title": "Accurate and simple analytic representation of the electron-gas correlation energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3206606417",
+   "year": 1992,
+   "cited_by_count": 21570,
+   "title": "Atoms, molecules, solids, and surfaces: Applications of the generalized gradient approximation for exchange and correlation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052637367",
+   "year": 1981,
+   "cited_by_count": 20433,
+   "title": "Self-interaction correction to density-functional approximations for many-electron systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030687437",
+   "year": 1986,
+   "cited_by_count": 18517,
+   "title": "Density-functional approximation for the correlation energy of the inhomogeneous electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054704030",
+   "year": 1997,
+   "cited_by_count": 13979,
+   "title": "Generalized Gradient Approximation Made Simple [Phys. Rev. Lett. 77, 3865 (1996)]",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016168218",
+   "year": 2008,
+   "cited_by_count": 12098,
+   "title": "Restoring the Density-Gradient Expansion for Exchange in Solids and Surfaces",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032719166",
+   "year": 2003,
+   "cited_by_count": 6853,
+   "title": "Climbing the Density Functional Ladder: Nonempirical Meta–Generalized Gradient Approximation Designed for Molecules and Solids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117894566",
+   "year": 1996,
+   "cited_by_count": 6543,
+   "title": "Generalized gradient approximation for the exchange-correlation hole of a many-electron system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023390323",
+   "year": 1996,
+   "cited_by_count": 6348,
+   "title": "Rationale for mixing exact exchange with density functional approximations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090135568",
+   "year": 1986,
+   "cited_by_count": 4199,
+   "title": "Accurate and simple density functional for the electronic exchange energy: Generalized gradient approximation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963657244",
+   "year": 2015,
+   "cited_by_count": 3426,
+   "title": "Strongly Constrained and Appropriately Normed Semilocal Density Functional",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086458318",
+   "year": 1982,
+   "cited_by_count": 2973,
+   "title": "Density-Functional Theory for Fractional Particle Number: Derivative Discontinuities of the Energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079935930",
+   "year": 2003,
+   "cited_by_count": 2694,
+   "title": "Comparative assessment of a new nonempirical density functional: Molecules and hydrogen-bonded complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970512969",
+   "year": 1983,
+   "cited_by_count": 2452,
+   "title": "Physical Content of the Exact Kohn-Sham Orbital Energies: Band Gaps and Derivative Discontinuities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976294475",
+   "year": 1991,
+   "cited_by_count": 1431,
+   "title": "Correlation hole of the spin-polarized electron gas, with exact small-wave-vector and high-density scaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1614843501",
+   "year": 2001,
+   "cited_by_count": 1366,
+   "title": "Jacob’s ladder of density functional approximations for the exchange-correlation energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036330668",
+   "year": 1977,
+   "cited_by_count": 1027,
+   "title": "Exchange-correlation energy of a metallic surface: Wave-vector analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3082215798",
+   "year": 2020,
+   "cited_by_count": 1005,
+   "title": "Accurate and Numerically Efficient r2SCAN Meta-Generalized Gradient Approximation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088370223",
+   "year": 1985,
+   "cited_by_count": 990,
+   "title": "Hellmann-Feynman, virial, and scaling requisites for the exact universal density functionals. Shape of the correlation potential and diamagnetic susceptibility for atoms",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014068089",
+   "year": 1992,
+   "cited_by_count": 975,
+   "title": "Pair-distribution function and its coupling-constant average for the spin-polarized electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111639451",
+   "year": 2009,
+   "cited_by_count": 959,
+   "title": "Assessing the performance of recent density functionals for bulk solids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2567896191",
+   "year": 2017,
+   "cited_by_count": 943,
+   "title": "Density functional theory is straying from the path toward the exact functional",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117307259",
+   "year": 2005,
+   "cited_by_count": 936,
+   "title": "Prescription for the design and selection of density functional approximations: More constraint satisfaction with fewer fits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2438541361",
+   "year": 2016,
+   "cited_by_count": 918,
+   "title": "Accurate first-principles structures and energies of diversely bonded systems from an efficient density functional",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022804778",
+   "year": 1975,
+   "cited_by_count": 897,
+   "title": "The exchange-correlation energy of a metallic surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046668457",
+   "year": 1984,
+   "cited_by_count": 887,
+   "title": "Exact differential equation for the density and ionization energy of a many-particle system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086457107",
+   "year": 1999,
+   "cited_by_count": 857,
+   "title": "Accurate Density Functional with Correct Formal Properties: A Step Beyond the Generalized Gradient Approximation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088331368",
+   "year": 2009,
+   "cited_by_count": 821,
+   "title": "Density functional theory and the band gap problem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974126996",
+   "year": 1999,
+   "cited_by_count": 665,
+   "title": "Molecular and solid-state tests of density functional approximations: LSD, GGAs, and meta-GGAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997012750",
+   "year": 2007,
+   "cited_by_count": 650,
+   "title": "Tests of functionals for systems with fractional electron number",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076751112",
+   "year": 1980,
+   "cited_by_count": 639,
+   "title": "Theory of nonuniform electronic systems. I. Analysis of the gradient approximation and a generalization that works",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001753500",
+   "year": 2009,
+   "cited_by_count": 627,
+   "title": "Workhorse Semilocal Density Functional for Condensed Matter Physics and Quantum Chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2507946536",
+   "year": 2017,
+   "cited_by_count": 584,
+   "title": "Understanding band gaps of solids in generalized Kohn–Sham theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031551268",
+   "year": 2006,
+   "cited_by_count": 570,
+   "title": "The performance of semilocal and hybrid density functionals in 3d transition-metal chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057431797",
+   "year": 2004,
+   "cited_by_count": 549,
+   "title": "Meta-generalized gradient approximation: Explanation of a realistic nonempirical density functional",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3101506461",
+   "year": 2016,
+   "cited_by_count": 546,
+   "title": "Versatile van der Waals Density Functional Based on a Meta-Generalized Gradient Approximation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992725819",
+   "year": 1998,
+   "cited_by_count": 526,
+   "title": "Generalized gradient approximation to the angle- and system-averaged exchange hole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019769300",
+   "year": 1985,
+   "cited_by_count": 481,
+   "title": "Accurate Density Functional for the Energy: Real-Space Cutoff of the Gradient Expansion for the Exchange Hole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2760917849",
+   "year": 2017,
+   "cited_by_count": 469,
+   "title": "Ab initio theory and modeling of water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052269441",
+   "year": 2006,
+   "cited_by_count": 443,
+   "title": "Spurious fractional charge on dissociated atoms: Pervasive and resilient self-interaction error of common density functionals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991300868",
+   "year": 1997,
+   "cited_by_count": 419,
+   "title": "Comment on “Significance of the highest occupied Kohn-Sham eigenvalue”",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002484561",
+   "year": 2004,
+   "cited_by_count": 403,
+   "title": "Tests of a ladder of density functionals for bulk solids and surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097206279",
+   "year": 1995,
+   "cited_by_count": 364,
+   "title": "Escaping the symmetry dilemma through a pair-density interpretation of spin-density functional theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066101367",
+   "year": 2009,
+   "cited_by_count": 357,
+   "title": "Some Fundamental Issues in Ground-State Density Functional Theory: A Guide for the Perplexed",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001935586",
+   "year": 1991,
+   "cited_by_count": 355,
+   "title": "Generalized gradient approximations for exchange and correlation: A look backward and forward",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998954599",
+   "year": 1991,
+   "cited_by_count": 345,
+   "title": "Spin scaling of the electron-gas correlation energy in the high-density limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156974254",
+   "year": 1996,
+   "cited_by_count": 315,
+   "title": "Comparison shopping for a gradient-corrected density functional",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1643643809",
+   "year": 2007,
+   "cited_by_count": 307,
+   "title": "Density functionals that are one- and two- are not always many-electron self-interaction-free, as shown for H2+, He2+, LiH+, and Ne2+",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001823353",
+   "year": 2008,
+   "cited_by_count": 270,
+   "title": "Density functional with full exact exchange, balanced nonlocality of correlation, and constraint satisfaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767652670",
+   "year": 2017,
+   "cited_by_count": 269,
+   "title": "Effect of Intercalated Metals on the Electrocatalytic Activity of 1T-MoS2 for the Hydrogen Evolution Reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047899451",
+   "year": 1998,
+   "cited_by_count": 256,
+   "title": "Density functionals from LDA to GGA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032509385",
+   "year": 1997,
+   "cited_by_count": 248,
+   "title": "The adiabatic connection method: a non-empirical hybrid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346212703",
+   "year": 2016,
+   "cited_by_count": 248,
+   "title": "Energetics of MnO 2 polymorphs in density functional theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970641611",
+   "year": 1990,
+   "cited_by_count": 247,
+   "title": "Stabilized jellium: Structureless pseudopotential model for the cohesive and surface properties of metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998015449",
+   "year": 1979,
+   "cited_by_count": 241,
+   "title": "Spin-density gradient expansion for the kinetic energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052023939",
+   "year": 1982,
+   "cited_by_count": 238,
+   "title": "Study of the density-gradient expansion for the exchange energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2589544392",
+   "year": 2017,
+   "cited_by_count": 238,
+   "title": "Comparative first-principles studies of prototypical ferroelectric materials by LDA, GGA, and SCAN meta-GGA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2792216393",
+   "year": 2018,
+   "cited_by_count": 234,
+   "title": "Efficient first-principles prediction of solid stability: Towards chemical accuracy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2378570406",
+   "year": 2016,
+   "cited_by_count": 226,
+   "title": "More realistic band gaps from meta-generalized gradient approximations: Only in a generalized Kohn-Sham scheme",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989954305",
+   "year": 2011,
+   "cited_by_count": 220,
+   "title": "Self-consistent meta-generalized gradient approximation within the projector-augmented-wave method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2592292222",
+   "year": 2017,
+   "cited_by_count": 211,
+   "title": "Properties of real metallic surfaces: Effects of density functional semilocality and van der Waals nonlocality",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028412003",
+   "year": 1978,
+   "cited_by_count": 207,
+   "title": "Surfaces of real metals by the variational self-consistent method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003251109",
+   "year": 2014,
+   "cited_by_count": 205,
+   "title": "Communication: Self-interaction correction with unitary invariance in density functional theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2588987635",
+   "year": 2017,
+   "cited_by_count": 196,
+   "title": "Rehabilitation of the Perdew-Burke-Ernzerhof generalized gradient approximation for layered materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082889849",
+   "year": 1988,
+   "cited_by_count": 195,
+   "title": "Energetics of charged metallic particles: From atom to bulk solid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085245134",
+   "year": 2003,
+   "cited_by_count": 195,
+   "title": "Simple Iterative Construction of the Optimized Effective Potential for Orbital Functionals, Including Exact Exchange",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087084528",
+   "year": 1995,
+   "cited_by_count": 192,
+   "title": "Dominant density parameters and local pseudopotentials for simple metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166750802",
+   "year": 2013,
+   "cited_by_count": 191,
+   "title": "Density Functionals that Recognize Covalent, Metallic, and Weak Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004029108",
+   "year": 1997,
+   "cited_by_count": 190,
+   "title": "Coupling-constant dependence of atomization energies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061199289",
+   "year": 1998,
+   "cited_by_count": 189,
+   "title": "Why semilocal functionals work: Accuracy of the on-top pair density and importance of system averaging",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094557885",
+   "year": 1979,
+   "cited_by_count": 189,
+   "title": "Orbital functional for exchange and correlation: self-interaction correction to the local density approximation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024137763",
+   "year": 1999,
+   "cited_by_count": 188,
+   "title": "Strictly correlated electrons in density-functional theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2396559229",
+   "year": 2016,
+   "cited_by_count": 188,
+   "title": "Benchmark tests of a strongly constrained semilocal functional with a long-range dispersion correction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012177638",
+   "year": 1975,
+   "cited_by_count": 184,
+   "title": "Theory of the Spin Susceptibility of an Inhomogeneous Electron Gas via the Density Functional Formalism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968919969",
+   "year": 2003,
+   "cited_by_count": 176,
+   "title": "Optimized effective potential made simple: Orbital functionals, orbital shifts, and the exact Kohn-Sham exchange potential",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964198756",
+   "year": 1993,
+   "cited_by_count": 174,
+   "title": "Tight bound and convexity constraint on the exchange-correlation-energy functional in the low-density limit, and other formal tests of generalized-gradient approximations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068390240",
+   "year": 1982,
+   "cited_by_count": 171,
+   "title": "Calculated electron affinities of the elements",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044534675",
+   "year": 1981,
+   "cited_by_count": 161,
+   "title": "Density-functional theory of the correlation energy in atoms and ions: A simple analytic model and a challenge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989335167",
+   "year": 2007,
+   "cited_by_count": 155,
+   "title": "Laplacian-level density functionals for the kinetic energy density and exchange-correlation energy",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

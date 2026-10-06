@@ -1,0 +1,21 @@
+# Hand choices for people/medicine_identity.csv (cards_pipeline_v2.py identity), Claude 2026-10-06, for the user to check.
+# Ids are those of the January 2026 OpenAlex snapshot that the profiles use; the live API has merged some of them since.
+"David Huang":
+  author_id: "A5026982111;A5110189557;A5108167298;A5108336978"
+  reason: >-
+    the OCT inventor at Oregon Health & Science University (ORCID 0000-0002-5569-6442): A5026982111 holds "Optical
+    Coherence Tomography" (1991) and "In vivo retinal imaging by OCT" (1993); the three small same-name OHSU records are
+    added. The name search's rank 1 (A5015766352, NYU / Allogene in the snapshot) is left out as a possible namesake mix,
+    so his later OCT-angiography papers may be missing from the profile
+"C. Frank Bennett":
+  author_id: "A5083296071;A5103489650"
+  reason: >-
+    A5083296071 (324 works: nusinersen trial 2017, MALAT1 2010, miR-122 antisense 2006) is the Ionis antisense
+    pioneer although its snapshot institution reads Pennsylvania State University; the automatic pick, A5103489650
+    (1 work, Ionis), is a fragment of the same person
+"Lap-Chee Tsui":
+  author_id: "A5113604189;A5111461700;A5111425466;A5113581974;A5111796983;A5111989604;A5111980287;A5096919099;A5052875290"
+  reason: >-
+    his record is split: A5113604189 holds the three 1989 cystic fibrosis gene papers; the other records (Hospital for
+    Sick Children / University of Toronto / University of Hong Kong, cystic fibrosis and human genome mapping works)
+    are the same person; single-work L. Tsui records are left out

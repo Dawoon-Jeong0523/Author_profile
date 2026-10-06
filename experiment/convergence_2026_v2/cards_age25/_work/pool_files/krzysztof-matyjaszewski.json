@@ -1,0 +1,658 @@
+{
+ "person": "Krzysztof Matyjaszewski",
+ "profile": "A5056539244",
+ "ids": [
+  "A5056539244",
+  "A5095795059",
+  "A5097674061",
+  "A5112835457"
+ ],
+ "options": [
+  "for the development of controlled radical polymerization — Krzysztof Matyjaszewski, Mitsuo Sawamoto",
+  "for the development of controlled radical polymerization — Krzysztof Matyjaszewski, Mitsuo Sawamoto, Ezio Rizzardo"
+ ],
+ "birth_year": 1950,
+ "cutoff_year": 1975,
+ "works": [
+  {
+   "paper_id": "W2055393399",
+   "year": 2001,
+   "cited_by_count": 7493,
+   "title": "Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074554162",
+   "year": 1995,
+   "cited_by_count": 4494,
+   "title": "Controlled/\"living\" radical polymerization. atom transfer radical polymerization in the presence of transition-metal complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167539127",
+   "year": 2007,
+   "cited_by_count": 3103,
+   "title": "Controlled/living radical polymerization: Features, developments, and perspectives",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090568310",
+   "year": 2012,
+   "cited_by_count": 2509,
+   "title": "Atom Transfer Radical Polymerization (ATRP): Current Status and Future Perspectives",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2333033211",
+   "year": 2012,
+   "cited_by_count": 1689,
+   "title": "Design and Preparation of Porous Polymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2317295301",
+   "year": 1995,
+   "cited_by_count": 1666,
+   "title": "Controlled/\"Living\" Radical Polymerization. Halogen Atom Transfer Radical Polymerization Promoted by a Cu(I)/Cu(II) Redox Process",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040784316",
+   "year": 2008,
+   "cited_by_count": 1564,
+   "title": "The development of microgels/nanogels for drug delivery applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136018565",
+   "year": 2007,
+   "cited_by_count": 1250,
+   "title": "“Green” Atom Transfer Radical Polymerization: From Process Design to Preparation of Well-Defined Environmentally Friendly Polymeric Materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045055557",
+   "year": 2001,
+   "cited_by_count": 1245,
+   "title": "Functional polymers by atom transfer radical polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002889273",
+   "year": 2009,
+   "cited_by_count": 1239,
+   "title": "Nanostructured functional materials prepared by atom transfer radical polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965006117",
+   "year": 2014,
+   "cited_by_count": 1134,
+   "title": "Macromolecular Engineering by Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045127354",
+   "year": 2008,
+   "cited_by_count": 1125,
+   "title": "Cylindrical molecular brushes: Synthesis, characterization, and properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2338444201",
+   "year": 2016,
+   "cited_by_count": 922,
+   "title": "From precision polymers to complex materials and systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973847610",
+   "year": 1999,
+   "cited_by_count": 905,
+   "title": "Polymers at Interfaces: Using Atom Transfer Radical Polymerization in the Controlled Growth of Homopolymers and Block Copolymers from Silicon Surfaces in the Absence of Untethered Sacrificial Initiator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3093224954",
+   "year": 2020,
+   "cited_by_count": 899,
+   "title": "Reversible-deactivation radical polymerization (Controlled/living radical polymerization): From discovery to materials design and applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013749421",
+   "year": 1997,
+   "cited_by_count": 876,
+   "title": "Controlled/“Living” Radical Polymerization. Kinetics of the Homogeneous Atom Transfer Radical Polymerization of Styrene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113427372",
+   "year": 2006,
+   "cited_by_count": 865,
+   "title": "Diminishing catalyst concentration in atom transfer radical polymerization with reducing agents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062664418",
+   "year": 1998,
+   "cited_by_count": 863,
+   "title": "Atom Transfer Radical Polymerization and the Synthesis of Polymeric Materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995443865",
+   "year": 1996,
+   "cited_by_count": 862,
+   "title": "Polymers with Very Low Polydispersities from Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987779096",
+   "year": 2009,
+   "cited_by_count": 831,
+   "title": "Marrying click chemistry with polymerization: expanding the scope of polymeric materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105057979",
+   "year": 2009,
+   "cited_by_count": 787,
+   "title": "Synthesis of functional polymers with controlled architecture by CRP of monomers in the presence of cross-linkers: From stars to gels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4213150885",
+   "year": 2011,
+   "cited_by_count": 783,
+   "title": "Electrochemically Mediated Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3047113425",
+   "year": 2020,
+   "cited_by_count": 766,
+   "title": "Polymer-Derived Heteroatom-Doped Porous Carbon Materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087177903",
+   "year": 2005,
+   "cited_by_count": 752,
+   "title": "Activators Regenerated by Electron Transfer for Atom Transfer Radical Polymerization of Styrene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023710734",
+   "year": 2008,
+   "cited_by_count": 725,
+   "title": "Atom transfer radical addition and polymerization reactions catalyzed by ppm amounts of copper complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040483212",
+   "year": 2005,
+   "cited_by_count": 719,
+   "title": "Controlled/living radical polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994299103",
+   "year": 2001,
+   "cited_by_count": 706,
+   "title": "Synthesis of Nanocomposite Organic/Inorganic Hybrid Materials Using Controlled/“Living” Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047881138",
+   "year": 2007,
+   "cited_by_count": 700,
+   "title": "Permanent, non-leaching antibacterial surfaces—2: How high density cationic surfaces kill bacterial cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119961090",
+   "year": 2003,
+   "cited_by_count": 686,
+   "title": "Synthesis of Polymer Brushes Using Atom Transfer Radical Polymerization",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102101594",
+   "year": 2012,
+   "cited_by_count": 673,
+   "title": "Self‐Healing of Covalently Cross‐Linked Polymers by Reshuffling Thiuram Disulfide Moieties in Air under Visible Light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008512441",
+   "year": 2007,
+   "cited_by_count": 664,
+   "title": "Grafting from Surfaces for “Everyone”: ARGET ATRP in the Presence of Air",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2473432380",
+   "year": 2016,
+   "cited_by_count": 663,
+   "title": "Photomediated controlled radical polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148804555",
+   "year": 2006,
+   "cited_by_count": 652,
+   "title": "Activators Regenerated by Electron Transfer for Atom‐Transfer Radical Polymerization of (Meth)acrylates and Related Block Copolymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013038327",
+   "year": 2009,
+   "cited_by_count": 640,
+   "title": "Stimuli-responsive molecular brushes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2794774374",
+   "year": 2018,
+   "cited_by_count": 603,
+   "title": "Advanced Materials by Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050655524",
+   "year": 2011,
+   "cited_by_count": 600,
+   "title": "ATRP in the design of functional materials for biomedical applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2329085673",
+   "year": 2012,
+   "cited_by_count": 592,
+   "title": "Visible Light and Sunlight Photoinduced ATRP with ppm of Cu Catalyst",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131826089",
+   "year": 2011,
+   "cited_by_count": 585,
+   "title": "Repeatable Photoinduced Self‐Healing of Covalently Cross‐Linked Polymers through Reshuffling of Trithiocarbonate Units",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018397832",
+   "year": 2001,
+   "cited_by_count": 581,
+   "title": "Controlled/living radical polymerization in aqueous media: homogeneous and heterogeneous systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035056336",
+   "year": 2007,
+   "cited_by_count": 570,
+   "title": "Synthesis of Molecular Brushes by “Grafting onto” Method: Combination of ATRP and Click Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022355410",
+   "year": 2008,
+   "cited_by_count": 556,
+   "title": "Understanding Atom Transfer Radical Polymerization: Effect of Ligand and Initiator Structures on the Equilibrium Constants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030714364",
+   "year": 2005,
+   "cited_by_count": 549,
+   "title": "Activator Generated by Electron Transfer for Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053866644",
+   "year": 1998,
+   "cited_by_count": 548,
+   "title": "The Synthesis of Densely Grafted Copolymers by Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2343414827",
+   "year": 2015,
+   "cited_by_count": 542,
+   "title": "Solvent-free, supersoft and superelastic bottlebrush melts and networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963734278",
+   "year": 2004,
+   "cited_by_count": 538,
+   "title": "Permanent, Nonleaching Antibacterial Surfaces. 1. Synthesis by Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996232062",
+   "year": 2008,
+   "cited_by_count": 520,
+   "title": "Ionic Strength and Composition Affect the Mobility of Surface-Modified Fe0 Nanoparticles in Water-Saturated Sand Columns",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062642057",
+   "year": 2010,
+   "cited_by_count": 487,
+   "title": "Transition metal catalysts for controlled radical polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967905662",
+   "year": 1996,
+   "cited_by_count": 479,
+   "title": "Synthesis of Branched and Hyperbranched Polystyrenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009705119",
+   "year": 2011,
+   "cited_by_count": 479,
+   "title": "Self-Healing Polymer Films Based on Thiol–Disulfide Exchange Reactions and Self-Healing Kinetics Measured Using Atomic Force Microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082138855",
+   "year": 1995,
+   "cited_by_count": 475,
+   "title": "\"Living\"/Controlled Radical Polymerization. Transition-Metal-Catalyzed Atom Transfer Radical Polymerization in the Presence of a Conventional Radical Initiator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002384766",
+   "year": 2007,
+   "cited_by_count": 461,
+   "title": "Biodegradable Nanogels Prepared by Atom Transfer Radical Polymerization as Potential Drug Delivery Carriers: Synthesis, Biodegradation, in Vitro Release, and Bioconjugation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977261087",
+   "year": 2005,
+   "cited_by_count": 460,
+   "title": "Preparation of Homopolymers and Block Copolymers in Miniemulsion by ATRP Using Activators Generated by Electron Transfer (AGET)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080837087",
+   "year": 1997,
+   "cited_by_count": 451,
+   "title": "Controlled/“Living” Radical Polymerization. Atom Transfer Radical Polymerization Using Multidentate Amine Ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998572303",
+   "year": 2006,
+   "cited_by_count": 450,
+   "title": "Surface Modifications Enhance Nanoiron Transport and NAPL Targeting in Saturated Porous Media",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2266959742",
+   "year": 2016,
+   "cited_by_count": 449,
+   "title": "Mechanism of Photoinduced Metal-Free Atom Transfer Radical Polymerization: Experimental and Computational Studies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968860363",
+   "year": 2006,
+   "cited_by_count": 446,
+   "title": "Synthesis of Star Polymers by a Combination of ATRP and the “Click” Coupling Method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018087879",
+   "year": 2005,
+   "cited_by_count": 444,
+   "title": "Highly Efficient “Click” Functionalization of Poly(3-azidopropyl methacrylate) Prepared by ATRP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095446275",
+   "year": 2005,
+   "cited_by_count": 420,
+   "title": "Step-Growth “Click” Coupling of Telechelic Polymers Prepared by Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2805154708",
+   "year": 2018,
+   "cited_by_count": 417,
+   "title": "Externally controlled atom transfer radical polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992258152",
+   "year": 2000,
+   "cited_by_count": 416,
+   "title": "Gradient copolymers by atom transfer radical copolymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998936314",
+   "year": 2001,
+   "cited_by_count": 397,
+   "title": "Synthesis of Molecular Brushes with Block Copolymer Side Chains Using Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046597623",
+   "year": 2007,
+   "cited_by_count": 395,
+   "title": "Light‐Induced Reversible Formation of Polymeric Micelles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038638986",
+   "year": 2005,
+   "cited_by_count": 394,
+   "title": "Macromolecular engineering: From rational design through precise macromolecular synthesis and processing to targeted macroscopic material properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2753907305",
+   "year": 2017,
+   "cited_by_count": 389,
+   "title": "Mimicking biological stress–strain behaviour with synthetic elastomers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949122505",
+   "year": 1999,
+   "cited_by_count": 387,
+   "title": "Copper(I)-Catalyzed Atom Transfer Radical Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041225974",
+   "year": 1997,
+   "cited_by_count": 378,
+   "title": "Controlled/“Living” Radical Polymerization of Styrene and Methyl Methacrylate Catalyzed by Iron Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2319025229",
+   "year": 2012,
+   "cited_by_count": 372,
+   "title": "Electrochemically Active Nitrogen-Enriched Nanocarbons with Well-Defined Morphology Synthesized by Pyrolysis of Self-Assembled Block Copolymer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018611427",
+   "year": 2007,
+   "cited_by_count": 370,
+   "title": "Use of Ascorbic Acid as Reducing Agent for Synthesis of Well-Defined Polymers by ARGET ATRP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063395863",
+   "year": 1999,
+   "cited_by_count": 367,
+   "title": "Synthesis and Characterization of Star Polymers with Varying Arm Number, Length, and Composition from Organic and Hybrid Inorganic/Organic Multifunctional Initiators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979575631",
+   "year": 2000,
+   "cited_by_count": 362,
+   "title": "Optimization of Atom Transfer Radical Polymerization Using Cu(I)/Tris(2-(dimethylamino)ethyl)amine as a Catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1510322961",
+   "year": 2006,
+   "cited_by_count": 360,
+   "title": "Adsorption-induced scission of carbon–carbon bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2314034520",
+   "year": 2012,
+   "cited_by_count": 359,
+   "title": "Aqueous ARGET ATRP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088862173",
+   "year": 1998,
+   "cited_by_count": 353,
+   "title": "Utilizing Halide Exchange To Improve Control of Atom Transfer Radical Polymerization",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2327824874",
+   "year": 2013,
+   "cited_by_count": 353,
+   "title": "Surface-Initiated Polymerization as an Enabling Tool for Multifunctional (Nano-)Engineered Hybrid Materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004727795",
+   "year": 1998,
+   "cited_by_count": 352,
+   "title": "Synthesis of Acrylate and Methacrylate Block Copolymers Using Atom Transfer Radical Polymerization",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089792360",
+   "year": 1998,
+   "cited_by_count": 347,
+   "title": "Controlled/“Living” Radical Polymerization. Atom Transfer Radical Polymerization of Acrylates at Ambient Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037550000",
+   "year": 1999,
+   "cited_by_count": 344,
+   "title": "Atom Transfer Radical Polymerization of (Meth)acrylamides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2592476765",
+   "year": 2017,
+   "cited_by_count": 344,
+   "title": "Electrochemically mediated atom transfer radical polymerization (eATRP)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059398977",
+   "year": 1997,
+   "cited_by_count": 338,
+   "title": "Preparation of Hyperbranched Polyacrylates by Atom Transfer Radical Polymerization. 1. Acrylic AB* Monomers in “Living” Radical Polymerizations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013766835",
+   "year": 2003,
+   "cited_by_count": 329,
+   "title": "Synthesis and Characterization of Organic/Inorganic Hybrid Nanoparticles: Kinetics of Surface-Initiated Atom Transfer Radical Polymerization and Morphology of Hybrid Nanoparticle Ultrathin Films",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

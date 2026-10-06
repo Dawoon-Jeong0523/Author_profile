@@ -1,0 +1,655 @@
+{
+ "person": "Jin-Quan Yu",
+ "profile": "A5108685090",
+ "ids": [
+  "A5108685090",
+  "A5122352517"
+ ],
+ "options": [
+  "for the development of transition-metal-catalyzed C-H functionalization reactions — John F. Hartwig, Jin-Quan Yu, Robert G. Bergman"
+ ],
+ "birth_year": 1966,
+ "cutoff_year": 1991,
+ "works": [
+  {
+   "paper_id": "W2125014016",
+   "year": 2009,
+   "cited_by_count": 4131,
+   "title": "Palladium(II)‐Catalyzed CH Activation/CC Cross‐Coupling Reactions: Versatility and Practicality",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067433167",
+   "year": 2011,
+   "cited_by_count": 2683,
+   "title": "Weak Coordination as a Powerful Means for Developing Broadly Useful C–H Functionalization Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2557556606",
+   "year": 2016,
+   "cited_by_count": 1983,
+   "title": "Palladium-Catalyzed Transformations of Alkyl C–H Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981390016",
+   "year": 2009,
+   "cited_by_count": 1635,
+   "title": "Transition metal-catalyzed C–H activation reactions: diastereoselectivity and enantioselectivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128969383",
+   "year": 2006,
+   "cited_by_count": 1371,
+   "title": "Cu(II)-Catalyzed Functionalizations of Aryl C−H Bonds Using O 2 as an Oxidant",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119004319",
+   "year": 2009,
+   "cited_by_count": 1165,
+   "title": "Palladium(II)‐katalysierte C‐H‐Aktivierung/C‐C‐Kreuzkupplung: Vielseitigkeit und Anwendbarkeit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975240837",
+   "year": 2012,
+   "cited_by_count": 903,
+   "title": "Activation of remote meta-C–H bonds assisted by an end-on template",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2787869092",
+   "year": 2018,
+   "cited_by_count": 783,
+   "title": "Enantioselective C(sp 3 )‒H bond activation by chiral transition metal catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010584571",
+   "year": 2007,
+   "cited_by_count": 767,
+   "title": "Palladium-Catalyzed Methylation and Arylation of sp2 and sp3 C−H Bonds in Simple Carboxylic Acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963978672",
+   "year": 2009,
+   "cited_by_count": 734,
+   "title": "Ligand-Enabled Reactivity and Selectivity in a Synthetically Versatile Aryl C–H Olefination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2232665245",
+   "year": 2016,
+   "cited_by_count": 675,
+   "title": "Functionalization of C(sp 3 )–H bonds using a transient directing group",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158930657",
+   "year": 2008,
+   "cited_by_count": 672,
+   "title": "PdII‐Catalyzed Enantioselective Activation of C(sp2)H and C(sp3)H Bonds Using Monoprotected Amino Acids as Chiral Ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2476721801",
+   "year": 2016,
+   "cited_by_count": 613,
+   "title": "A Simple and Versatile Amide Directing Group for C−H Functionalizations",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017526840",
+   "year": 2015,
+   "cited_by_count": 580,
+   "title": "Ligand-enabled meta-C–H activation using a transient mediator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064992557",
+   "year": 2011,
+   "cited_by_count": 560,
+   "title": "C–H Functionalization in organic synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027866078",
+   "year": 2009,
+   "cited_by_count": 544,
+   "title": "Pd(II)-Catalyzed Olefination of Electron-Deficient Arenes Using 2,6-Dialkylpyridine Ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017005288",
+   "year": 2014,
+   "cited_by_count": 541,
+   "title": "Conformation-induced remote meta-C–H activation of amines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091324596",
+   "year": 2006,
+   "cited_by_count": 531,
+   "title": "Palladium-Catalyzed Alkylation of sp2 and sp3 C−H Bonds with Methylboroxine and Alkylboronic Acids: Two Distinct C−H Activation Pathways",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046348943",
+   "year": 2013,
+   "cited_by_count": 510,
+   "title": "Developing Ligands for Palladium(II)-Catalyzed C–H Functionalization: Intimate Dialogue between Ligand and Substrate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008582837",
+   "year": 2010,
+   "cited_by_count": 505,
+   "title": "Pd(II)-Catalyzed ortho-Trifluoromethylation of Arenes Using TFA as a Promoter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4240532892",
+   "year": 2014,
+   "cited_by_count": 494,
+   "title": "Ligand-Controlled C(sp 3 )–H Arylation and Olefination in Synthesis of Unnatural Chiral α–Amino Acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088948925",
+   "year": 2008,
+   "cited_by_count": 491,
+   "title": "Synthesis of β-, γ-, and δ-Lactams via Pd(II)-Catalyzed C−H Activation Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992593125",
+   "year": 2008,
+   "cited_by_count": 489,
+   "title": "Pd(II)-Catalyzed Cross-Coupling of sp3 C−H Bonds with sp2 and sp3 Boronic Acids Using Air as the Oxidant",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2110853937",
+   "year": 2005,
+   "cited_by_count": 488,
+   "title": "Palladium‐Catalyzed Asymmetric Iodination of Unactivated CH Bonds under Mild Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022793501",
+   "year": 2010,
+   "cited_by_count": 475,
+   "title": "Ligand-Accelerated C−H Activation Reactions: Evidence for a Switch of Mechanism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2318230067",
+   "year": 2011,
+   "cited_by_count": 470,
+   "title": "Divergent C–H Functionalizations Directed by Sulfonamide Pharmacophores: Late-Stage Diversification as a Tool for Drug Discovery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058443940",
+   "year": 2009,
+   "cited_by_count": 448,
+   "title": "Pd(II)-Catalyzed Enantioselective C−H Olefination of Diphenylacetic Acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117971043",
+   "year": 2005,
+   "cited_by_count": 435,
+   "title": "Pd‐Catalyzed Stereoselective Oxidation of Methyl Groups by Inexpensive Oxidants under Mild Conditions: A Dual Role for Carboxylic Anhydrides in Catalytic CH Bond Oxidation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133193905",
+   "year": 2008,
+   "cited_by_count": 427,
+   "title": "Synthesis of Indolines and Tetrahydroisoquinolines from Arylethylamines by Pd II ‐Catalyzed CH Activation Reactions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019568660",
+   "year": 2009,
+   "cited_by_count": 420,
+   "title": "Pd(II)-Catalyzed Amination of C−H Bonds Using Single-Electron or Two-electron Oxidants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081421786",
+   "year": 2009,
+   "cited_by_count": 420,
+   "title": "Pd(II)-Catalyzed Hydroxylation of Arenes with 1 atm of O2 or Air",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2330273110",
+   "year": 2011,
+   "cited_by_count": 418,
+   "title": "Pd-Catalyzed Intermolecular C–H Amination with Alkylamines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166596154",
+   "year": 2011,
+   "cited_by_count": 411,
+   "title": "Bystanding F + Oxidants Enable Selective Reductive Elimination from High‐Valent Metal Centers in Catalysis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2768426391",
+   "year": 2017,
+   "cited_by_count": 411,
+   "title": "Ligand-accelerated non-directed C–H functionalization of arenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136886567",
+   "year": 2005,
+   "cited_by_count": 409,
+   "title": "Palladium-Catalyzed Alkylation of Aryl C−H Bonds with sp3 Organotin Reagents Using Benzoquinone as a Crucial Promoter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3013842774",
+   "year": 2020,
+   "cited_by_count": 407,
+   "title": "From Pd(OAc)2 to Chiral Catalysts: The Discovery and Development of Bifunctional Mono-N-Protected Amino Acid Ligands for Diverse C–H Functionalization Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974638659",
+   "year": 2011,
+   "cited_by_count": 402,
+   "title": "Pd(II)-Catalyzed Enantioselective C–H Activation of Cyclopropanes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999535730",
+   "year": 2009,
+   "cited_by_count": 381,
+   "title": "Versatile Pd(OTf)2·2H2O-Catalyzed ortho-Fluorination Using NMP as a Promoter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083044747",
+   "year": 2008,
+   "cited_by_count": 375,
+   "title": "Synthesis of 1,2- and 1,3-Dicarboxylic Acids via Pd(II)-Catalyzed Carboxylation of Aryl and Vinyl C−H Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964262574",
+   "year": 2010,
+   "cited_by_count": 374,
+   "title": "Pd(II)-Catalyzed Olefination of sp3 C−H Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3026059719",
+   "year": 2020,
+   "cited_by_count": 363,
+   "title": "Achieving Site-Selectivity for C–H Activation Processes Based on Distance and Geometry: A Carpenter’s Approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023213954",
+   "year": 2010,
+   "cited_by_count": 358,
+   "title": "Pd(II)-Catalyzed Hydroxyl-Directed C−H Olefination Enabled by Monoprotected Amino Acid Ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079597146",
+   "year": 2013,
+   "cited_by_count": 350,
+   "title": "Pd(II)-Catalyzed Enantioselective C–H Activation/C–O Bond Formation: Synthesis of Chiral Benzofuranones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2316321048",
+   "year": 2013,
+   "cited_by_count": 350,
+   "title": "Palladium-Catalyzed Meta -Selective C–H Bond Activation with a Nitrile-Containing Template: Computational Study on Mechanism and Origins of Selectivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054746493",
+   "year": 2011,
+   "cited_by_count": 348,
+   "title": "Ligand-Promoted C-3 Selective C–H Olefination of Pyridines with Pd Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3092800358",
+   "year": 2020,
+   "cited_by_count": 348,
+   "title": "Advancing the Logic of Chemical Synthesis: C−H Activation as Strategic and Tactical Disconnections for C−C Bond Construction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042104753",
+   "year": 2010,
+   "cited_by_count": 346,
+   "title": "Pd(II)-Catalyzed Hydroxyl-Directed C−H Activation/C−O Cyclization: Expedient Construction of Dihydrobenzofurans",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164603114",
+   "year": 2008,
+   "cited_by_count": 345,
+   "title": "Pd II ‐Catalyzed Monoselective ortho Halogenation of CH Bonds Assisted by Counter Cations: A Complementary Method to Directed ortho Lithiation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2515342784",
+   "year": 2016,
+   "cited_by_count": 343,
+   "title": "Ligand-accelerated enantioselective methylene C(sp 3 )–H bond activation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155476546",
+   "year": 2011,
+   "cited_by_count": 337,
+   "title": "Pd(II)-Catalyzed para-Selective C–H Arylation of Monosubstituted Arenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2328935951",
+   "year": 2014,
+   "cited_by_count": 334,
+   "title": "Cu(II)-Mediated C–H Amidation and Amination of Arenes: Exceptional Compatibility with Heterocycles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041386409",
+   "year": 2013,
+   "cited_by_count": 332,
+   "title": "Pd(II)-Catalyzed ortho- or meta-C–H Olefination of Phenol Derivatives",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981916864",
+   "year": 2008,
+   "cited_by_count": 331,
+   "title": "Versatile Pd(II)-Catalyzed C−H Activation/Aryl−Aryl Coupling of Benzoic and Phenyl Acetic Acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032735202",
+   "year": 2014,
+   "cited_by_count": 329,
+   "title": "Overcoming the limitations of directed C–H functionalizations of heterocycles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2327749385",
+   "year": 2014,
+   "cited_by_count": 329,
+   "title": "Pd(II)-Catalyzed meta-C–H Olefination, Arylation, and Acetoxylation of Indolines Using a U-Shaped Template",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2528441550",
+   "year": 2016,
+   "cited_by_count": 323,
+   "title": "Enantioselective amine α-functionalization via palladium-catalysed C–H arylation of thioamides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169709967",
+   "year": 2004,
+   "cited_by_count": 322,
+   "title": "Evidence That Protons Can Be the Active Catalysts in Lewis Acid Mediated Hetero‐Michael Addition Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W28714510",
+   "year": 2009,
+   "cited_by_count": 311,
+   "title": "Pd(0)/PR3-Catalyzed Intermolecular Arylation of sp3 C−H Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2413721036",
+   "year": 2015,
+   "cited_by_count": 310,
+   "title": "Ligand-Enabled Meta -C–H Alkylation and Arylation Using a Modified Norbornene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976862251",
+   "year": 2013,
+   "cited_by_count": 304,
+   "title": "Pd(II)-Catalyzed Phosphorylation of Aryl C–H Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009737380",
+   "year": 2009,
+   "cited_by_count": 304,
+   "title": "Synthetic Applications of Pd(II)-Catalyzed C−H Carboxylation and Mechanistic Insights: Expedient Routes to Anthranilic Acids, Oxazolinones, and Quinazolinones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162532458",
+   "year": 2006,
+   "cited_by_count": 304,
+   "title": "σ-Chelation-directed C–H functionalizations using Pd( ii ) and Cu( ii ) catalysts: regioselectivity, stereoselectivity and catalytic turnover",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011976466",
+   "year": 2012,
+   "cited_by_count": 298,
+   "title": "Pd(II)-Catalyzed Ortho Trifluoromethylation of Arenes and Insights into the Coordination Mode of Acidic Amide Directing Groups",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2592549031",
+   "year": 2017,
+   "cited_by_count": 294,
+   "title": "Remote site-selective C–H activation directed by a catalytic bifunctional template",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2808262199",
+   "year": 2018,
+   "cited_by_count": 294,
+   "title": "Enantioselective remote meta-C–H arylation and alkylation via a chiral transient mediator",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2322629797",
+   "year": 2013,
+   "cited_by_count": 284,
+   "title": "Role of N-Acyl Amino Acid Ligands in Pd(II)-Catalyzed Remote C–H Activation of Tethered Arenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977066177",
+   "year": 2010,
+   "cited_by_count": 277,
+   "title": "Pd(II)-Catalyzed Carbonylation of C(sp 3 )−H Bonds: A New Entry to 1,4-Dicarbonyl Compounds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2315874011",
+   "year": 2014,
+   "cited_by_count": 277,
+   "title": "Site-Selective C(sp3)–H Functionalization of Di-, Tri-, and Tetrapeptides at the N-Terminus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044406092",
+   "year": 2013,
+   "cited_by_count": 275,
+   "title": "Cross-Coupling of Remote meta -C–H Bonds Directed by a U-Shaped Template",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2323057668",
+   "year": 2011,
+   "cited_by_count": 274,
+   "title": "Ligand-Promoted C3-Selective Arylation of Pyridines with Pd Catalysts: Gram-Scale Synthesis of (±)-Preclamol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167124263",
+   "year": 2009,
+   "cited_by_count": 273,
+   "title": "Palladium(II)‐Catalyzed ortho Alkylation of Benzoic Acids with Alkyl Halides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2805939966",
+   "year": 2018,
+   "cited_by_count": 266,
+   "title": "Controlling Pd(iv) reductive elimination pathways enables Pd(ii)-catalysed enantioselective C(sp3)−H fluorination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2322685659",
+   "year": 2014,
+   "cited_by_count": 259,
+   "title": "Palladium(II)-Catalyzed Enantioselective C(sp3)–H Activation Using a Chiral Hydroxamic Acid Ligand",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974657082",
+   "year": 2010,
+   "cited_by_count": 252,
+   "title": "Constructing Multiply Substituted Arenes Using Sequential Palladium(II)‐Catalyzed CH Olefination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2470533104",
+   "year": 2016,
+   "cited_by_count": 252,
+   "title": "Ligand-Promoted Meta-C–H Arylation of Anilines, Phenols, and Heterocycles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2564448081",
+   "year": 2016,
+   "cited_by_count": 252,
+   "title": "Diverse ortho -C(sp 2 )–H Functionalization of Benzaldehydes Using Transient Directing Groups",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979090258",
+   "year": 2012,
+   "cited_by_count": 246,
+   "title": "Ligand-Enabled Methylene C(sp3)–H Bond Activation with a Pd(II) Catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120208258",
+   "year": 2010,
+   "cited_by_count": 245,
+   "title": "Pd0/PR3‐Catalyzed Arylation of Nicotinic and Isonicotinic Acid Derivatives",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2544413589",
+   "year": 2016,
+   "cited_by_count": 245,
+   "title": "Pd-Catalyzed γ-C(sp3)–H Arylation of Free Amines Using a Transient Directing Group",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2312338337",
+   "year": 2015,
+   "cited_by_count": 234,
+   "title": "Palladium(II)-Catalyzed Highly Enantioselective C–H Arylation of Cyclopropylmethylamines",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

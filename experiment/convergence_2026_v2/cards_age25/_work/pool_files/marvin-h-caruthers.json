@@ -1,0 +1,656 @@
+{
+ "person": "Marvin H. Caruthers",
+ "profile": "A5027707988",
+ "ids": [
+  "A5027707988"
+ ],
+ "options": [
+  "for the development of phosphoramidite chemistry for automated DNA synthesis — Marvin H. Caruthers",
+  "for the development of chemical methods for the synthesis and massively parallel sequencing of DNA — Shankar Balasubramanian, David Klenerman, Marvin H. Caruthers",
+  "for the development of phosphoramidite chemistry for automated DNA synthesis — Marvin H. Caruthers, Serge L. Beaucage, Mark D. Matteucci"
+ ],
+ "birth_year": 1940,
+ "cutoff_year": 1965,
+ "works": [
+  {
+   "paper_id": "W2089617243",
+   "year": 1981,
+   "cited_by_count": 1941,
+   "title": "Deoxynucleoside phosphoramidites—A new class of key intermediates for deoxypolynucleotide synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113368761",
+   "year": 1986,
+   "cited_by_count": 1485,
+   "title": "Improved free-energy parameters for predictions of RNA duplex stability.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046002563",
+   "year": 1985,
+   "cited_by_count": 786,
+   "title": "Gene Synthesis Machines: DNA Chemistry and Its Uses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966347067",
+   "year": 1983,
+   "cited_by_count": 510,
+   "title": "An investigation of several deoxynucleoside phosphoramidites useful for synthesizing deoxyoligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975744482",
+   "year": 1993,
+   "cited_by_count": 386,
+   "title": "Metal ion catalysis in the Tetrahymena ribozyme reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024540147",
+   "year": 1982,
+   "cited_by_count": 351,
+   "title": "Resolving the functions of overlapping viral genes by site-specific mutagenesis at a mRNA splice site",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109243615",
+   "year": 2010,
+   "cited_by_count": 315,
+   "title": "Synthesis of high-quality libraries of long (150mer) oligonucleotides by a novel depurination controlled process",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994351486",
+   "year": 1983,
+   "cited_by_count": 277,
+   "title": "Inhibition of RNA cleavage but not polyadenylation by a point mutation in mRNA 3′ consensus sequence AAUAAA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038434811",
+   "year": 1991,
+   "cited_by_count": 273,
+   "title": "Chemical synthesis of DNA and DNA analogs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092082897",
+   "year": 1970,
+   "cited_by_count": 272,
+   "title": "Total Synthesis of the Gene for an Alanine Transfer Ribonucleic Acid from Yeast",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037167609",
+   "year": 1984,
+   "cited_by_count": 243,
+   "title": "In situ activation of bis-dialkylaminophosphines—a new method for synthesizing deoxyoligonucleotides on polymer supports",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079967105",
+   "year": 1998,
+   "cited_by_count": 233,
+   "title": "Novel RNA Synthesis Method Using 5‘- O -Silyl-2‘- O -orthoester Protecting Groups",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046295974",
+   "year": 1972,
+   "cited_by_count": 199,
+   "title": "CIII. Total synthesis of the structural gene for an alanine transfer ribonucleic acid from yeast",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076453991",
+   "year": 1986,
+   "cited_by_count": 183,
+   "title": "Nucleotide chemistry. 16. Amidine protecting groups for oligonucleotide synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088975821",
+   "year": 1984,
+   "cited_by_count": 136,
+   "title": "A microchemical facility for the analysis and synthesis of genes and proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998358440",
+   "year": 1986,
+   "cited_by_count": 131,
+   "title": "Polymer-supported RNA synthesis and its application to test the nearest-neighbor model for duplex stability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005815600",
+   "year": 1980,
+   "cited_by_count": 131,
+   "title": "The synthesis of oligodeoxyprimidines on a polymer support",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067822099",
+   "year": 1986,
+   "cited_by_count": 125,
+   "title": "Stability of XGCGCp, GCGCYp, and XGCGCYp helixes: an empirical estimate of the energetics of hydrogen bonds in nucleic acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964571849",
+   "year": 2013,
+   "cited_by_count": 117,
+   "title": "Synthesis of DNA/RNA and Their Analogs via Phosphoramidite and H-Phosphonate Chemistries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051836775",
+   "year": 1980,
+   "cited_by_count": 111,
+   "title": "Deciphering the protein-DNA recognition code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1564079999",
+   "year": 1976,
+   "cited_by_count": 109,
+   "title": "Total synthesis of the structural gene for the precursor of a tyrosine suppressor transfer RNA from Escherichia coli. 1. General introduction.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141621258",
+   "year": 2012,
+   "cited_by_count": 108,
+   "title": "The Chemical Synthesis of DNA/RNA: Our Gift to Science",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000742687",
+   "year": 1988,
+   "cited_by_count": 90,
+   "title": "Synthesis and characterization of dinucleoside phosphorodithioates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2312223326",
+   "year": 1983,
+   "cited_by_count": 88,
+   "title": "Chemical Synthesis and Biological Studies on Mutated Gene-control Regions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031211180",
+   "year": 1986,
+   "cited_by_count": 84,
+   "title": "Free energy contributions of G.cntdot.U and other terminal mismatches to helix stability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983543728",
+   "year": 1979,
+   "cited_by_count": 83,
+   "title": "Studies on gene control regions XII. The functional significance of a Lac operator constitutive mutation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992983019",
+   "year": 1978,
+   "cited_by_count": 83,
+   "title": "How lac repressor recognizes lac operator.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005528694",
+   "year": 1984,
+   "cited_by_count": 82,
+   "title": "Synthesis of oligodeoxynucleotides and oligodeoxynucleotide analogs using phosphoramidite intermediates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116495808",
+   "year": 2011,
+   "cited_by_count": 77,
+   "title": "A brief review of DNA and RNA chemical synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036305210",
+   "year": 1977,
+   "cited_by_count": 76,
+   "title": "Binding of synthetic lactose operator DNAs to lactose repressors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987455836",
+   "year": 1980,
+   "cited_by_count": 74,
+   "title": "The use of zinc bromide for removal of dimethoxytrityl ethers from deoxynucleosides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008541712",
+   "year": 1988,
+   "cited_by_count": 73,
+   "title": "Directed Arbuzov-type reactions of 2-cyano-1,1-dimethylethyl deoxynucleoside phosphites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974771739",
+   "year": 2011,
+   "cited_by_count": 71,
+   "title": "Streamlined Process for the Chemical Synthesis of RNA Using 2′- O -Thionocarbamate-Protected Nucleoside Phosphoramidites in the Solid Phase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068400663",
+   "year": 2003,
+   "cited_by_count": 70,
+   "title": "Solid-Phase Chemical Synthesis of Phosphonoacetate and Thiophosphonoacetate Oligodeoxynucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026433653",
+   "year": 1996,
+   "cited_by_count": 67,
+   "title": "Synthesis of Phosphorodithioate DNA via Sulfur-Linked, Base-Labile Protecting Groups 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089396911",
+   "year": 1984,
+   "cited_by_count": 61,
+   "title": "Methylphosphonates as probes of protein-nucleic acid interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075349256",
+   "year": 1989,
+   "cited_by_count": 60,
+   "title": "Synthesis of oligodeoxynucleoside phosphorodithioates via thioamidites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080620811",
+   "year": 1998,
+   "cited_by_count": 58,
+   "title": "Synthesis of an oligothymidylate containing boranophosphate linkages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090535332",
+   "year": 1984,
+   "cited_by_count": 57,
+   "title": "Isolation and characterization of a cDNA clone for bovine cytochrome c oxidase subunit IV.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3165135330",
+   "year": 2021,
+   "cited_by_count": 57,
+   "title": "Nuclear compartmentalization of TERT mRNA and TUG1 lncRNA is driven by intron retention",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995248876",
+   "year": 1995,
+   "cited_by_count": 55,
+   "title": "Antisense DNA downregulation of the ERBB2 oncogene measured by a flow cytometric assay.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995384253",
+   "year": 1996,
+   "cited_by_count": 54,
+   "title": "Biochemical and Physicochemical Properties of Phosphorodithioate DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024729074",
+   "year": 1986,
+   "cited_by_count": 54,
+   "title": "Base substitution mutants of the lac operator: in vivo and in vitro affinities for lac repressor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1421214138",
+   "year": 1992,
+   "cited_by_count": 53,
+   "title": "[1] Chemical synthesis of deoxyoligonucleotides and deoxyoligonucleotide analogs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037786686",
+   "year": 1986,
+   "cited_by_count": 53,
+   "title": "Chemical synthesis of branched RNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1583050127",
+   "year": 1983,
+   "cited_by_count": 52,
+   "title": "Point mutations of the adenovirus major late promoter with different transcriptional efficiencies in vitro.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058560506",
+   "year": 2003,
+   "cited_by_count": 52,
+   "title": "Solid-Phase Oligodeoxynucleotide Synthesis: A Two-Step Cycle Using Peroxy Anion Deprotection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3081821735",
+   "year": 2020,
+   "cited_by_count": 52,
+   "title": "Synthesis and Characterization of Thiophosphoramidate Morpholino Oligonucleotides and Chimeras",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2316474891",
+   "year": 2012,
+   "cited_by_count": 51,
+   "title": "Alkynyl Phosphonate DNA: A Versatile “Click”able Backbone for DNA-Based Biological Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991966599",
+   "year": 1967,
+   "cited_by_count": 47,
+   "title": "Reactions of Nucleosides on Polymer Supports. Synthesis of Thymidylylthymidylylthymidine*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2323293016",
+   "year": 1967,
+   "cited_by_count": 46,
+   "title": "Oligonucleotide syntheses utilizing .beta.-benzoylpropionyl, a blocking group with a trigger for selective cleavage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056809623",
+   "year": 1989,
+   "cited_by_count": 45,
+   "title": "Synthesis of deoxycytidine oligomers containing phosphorodithioate linkages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141201854",
+   "year": 1984,
+   "cited_by_count": 45,
+   "title": "Control of adenovirus E1B mRNA synthesis by a shift in the activities of RNA splice sites.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031402506",
+   "year": 1991,
+   "cited_by_count": 44,
+   "title": "Synthesis of deoxydinucleoside phosphorodithioates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053114490",
+   "year": 1995,
+   "cited_by_count": 44,
+   "title": "2'-Deoxynucleoside Dithiophosphates: Synthesis and Biological Studies1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088705097",
+   "year": 1977,
+   "cited_by_count": 44,
+   "title": "Cloning of chemically synthesized lactose operators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995607230",
+   "year": 1982,
+   "cited_by_count": 43,
+   "title": "lac repressor-lac operator interaction: NMR observations.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051328409",
+   "year": 1983,
+   "cited_by_count": 42,
+   "title": "Color coded triarylmethyl protecting groups useful for deoxypolynucleotide synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078265622",
+   "year": 1990,
+   "cited_by_count": 42,
+   "title": "Role of the Cro repressor carboxy terminal domain and flexible dimer linkage in operator and nonspecific DNA binding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1518642715",
+   "year": 2000,
+   "cited_by_count": 41,
+   "title": "Synthetic Strategies and Parameters Involved in the Synthesis of Oligodeoxyribonucleotides According to the Phosphoramidite Method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062369858",
+   "year": 1984,
+   "cited_by_count": 41,
+   "title": "Mutants of the lac promoter with large insertions and deletions between the CAP binding site and the −35 region",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077914787",
+   "year": 1978,
+   "cited_by_count": 41,
+   "title": "Cloning of chemically synthesized lactose operators II. EcoRI-linkered operators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076499109",
+   "year": 1983,
+   "cited_by_count": 40,
+   "title": "N6(N-methyl-2-pyrrolidine amidine)deoxyadenosine - a new deoxynucleoside protecting group",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1597573232",
+   "year": 1978,
+   "cited_by_count": 39,
+   "title": "Studies on gene control regions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157969638",
+   "year": 1990,
+   "cited_by_count": 38,
+   "title": "Synthesis of dinucleoside and dinucleotide phosphorodithioates via a phosphotriester approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092852739",
+   "year": 1988,
+   "cited_by_count": 37,
+   "title": "Synthesis of dinucleoside phosphorodithioates via thioamidites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1496176130",
+   "year": 1972,
+   "cited_by_count": 36,
+   "title": "Studies on polynucleotides",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1595546948",
+   "year": 1987,
+   "cited_by_count": 35,
+   "title": "DNA functional groups required for formation of open complexes between Escherichia coli RNA polymerase and the lambda PR promoter. Identification via base analog substitutions.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062603226",
+   "year": 1983,
+   "cited_by_count": 35,
+   "title": "Chemical Synthesis and biochemical reactivity of bacterlophage bambda pRpromoter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2320242813",
+   "year": 2013,
+   "cited_by_count": 35,
+   "title": "Silver Nanoassemblies Constructed from Boranephosphonate DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965701043",
+   "year": 2006,
+   "cited_by_count": 34,
+   "title": "Synthesis of Mixed Sequence Borane Phosphonate DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002467113",
+   "year": 2011,
+   "cited_by_count": 34,
+   "title": "Synthesis and biological activity of phosphonoacetate- and thiophosphonoacetate-modified 2′-O-methyl oligoribonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981453961",
+   "year": 1991,
+   "cited_by_count": 33,
+   "title": "Synthesis of oligonucleotide phosphorodithioates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116679360",
+   "year": 1977,
+   "cited_by_count": 31,
+   "title": "Studies on gene control regions. VI. The 5- methyl of thymine, a lac repressor recognition site",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2314389050",
+   "year": 2015,
+   "cited_by_count": 31,
+   "title": "Oxidative Substitution of Boranephosphonate Diesters as a Route to Post-synthetically Modified DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2410059712",
+   "year": 1983,
+   "cited_by_count": 31,
+   "title": "Deoxyoligonucleotide synthesis via the phosphoramidite method.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3083443853",
+   "year": 2020,
+   "cited_by_count": 31,
+   "title": "DNA Analogues Modified at the Nonlinking Positions of Phosphorus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980042348",
+   "year": 1996,
+   "cited_by_count": 30,
+   "title": "Inhibition of the erbB-2 Tyrosine Kinase Receptor in Breast Cancer Cells by Phosphoromonothioate and Phosphorodithioate Antisense Oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995703134",
+   "year": 1977,
+   "cited_by_count": 30,
+   "title": "Studies on gene control regions. III. Binding of synthetic and modified synthetic lac operator DNAs to lactose repressor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1472271532",
+   "year": 1994,
+   "cited_by_count": 28,
+   "title": "Cellular Pharmacology and Protein Binding of Phosphoromonothioate and Phosphorodithioate Oligodeoxynucleotides: A Comparative Study",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,655 @@
+{
+ "person": "David R. Liu",
+ "profile": "A5065535610",
+ "ids": [
+  "A5065535610"
+ ],
+ "options": [
+  "for the development of base editing and prime editing for precise genome editing — David R. Liu",
+  "for the development of base editing and prime editing — David R. Liu"
+ ],
+ "birth_year": 1973,
+ "cutoff_year": 1998,
+ "works": [
+  {
+   "paper_id": "W2108664872",
+   "year": 2009,
+   "cited_by_count": 5977,
+   "title": "Conversion of 5-Methylcytosine to 5-Hydroxymethylcytosine in Mammalian DNA by MLL Partner TET1",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2336828812",
+   "year": 2016,
+   "cited_by_count": 5138,
+   "title": "Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2981137429",
+   "year": 2019,
+   "cited_by_count": 4303,
+   "title": "Search-and-replace genome editing without double-strand breaks or donor DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2766599608",
+   "year": 2017,
+   "cited_by_count": 3961,
+   "title": "Programmable base editing of A•T to G•C in genomic DNA without DNA cleavage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3035764705",
+   "year": 2020,
+   "cited_by_count": 2143,
+   "title": "Genome editing with CRISPR–Cas nucleases, base editors, transposases and prime editors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2915459742",
+   "year": 2019,
+   "cited_by_count": 1661,
+   "title": "CRISPResso2 provides accurate and rapid genome editing sequence analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2897295193",
+   "year": 2018,
+   "cited_by_count": 1603,
+   "title": "Base editing: precision chemistry on the genome and transcriptome of living cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2793309516",
+   "year": 2018,
+   "cited_by_count": 1564,
+   "title": "Evolved Cas9 variants with broad PAM compatibility and high DNA specificity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149402050",
+   "year": 2013,
+   "cited_by_count": 1517,
+   "title": "High-throughput profiling of off-target DNA cleavage reveals RNA-programmed Cas9 nuclease specificity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073217307",
+   "year": 2014,
+   "cited_by_count": 1430,
+   "title": "Cationic lipid-mediated delivery of proteins enables efficient protein-based genome editing in vitro and in vivo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995024825",
+   "year": 2013,
+   "cited_by_count": 1307,
+   "title": "Sequence-Controlled Polymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2557181747",
+   "year": 2016,
+   "cited_by_count": 1002,
+   "title": "CRISPR-Based Technologies for the Manipulation of Eukaryotic Genomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1954202239",
+   "year": 2015,
+   "cited_by_count": 958,
+   "title": "Methods for the directed evolution of proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3012327875",
+   "year": 2020,
+   "cited_by_count": 947,
+   "title": "Phage-assisted evolution of an adenine base editor with improved Cas domain compatibility and activity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2805505209",
+   "year": 2018,
+   "cited_by_count": 932,
+   "title": "Improving cytidine and adenine base editors by expression optimization and ancestral reconstruction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981160614",
+   "year": 2014,
+   "cited_by_count": 832,
+   "title": "Fusion of catalytically inactive Cas9 to FokI nuclease improves the specificity of genome modification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2467565876",
+   "year": 2016,
+   "cited_by_count": 827,
+   "title": "Sequence Determinants of Intracellular Phase Separation by Complex Coacervation of a Disordered Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3012016445",
+   "year": 2020,
+   "cited_by_count": 817,
+   "title": "Prime genome editing in rice and wheat",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151220680",
+   "year": 2009,
+   "cited_by_count": 790,
+   "title": "A Small-Molecule Inhibitor of Tgf-β Signaling Replaces Sox2 in Reprogramming by Inducing Nanog",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2588556918",
+   "year": 2017,
+   "cited_by_count": 772,
+   "title": "Increasing the genome-targeting scope and precision of base editing with engineered Cas9-cytidine deaminase fusions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2751474071",
+   "year": 2017,
+   "cited_by_count": 753,
+   "title": "Improved base excision repair inhibition and bacteriophage Mu Gam protein yields C:G-to-T:A base editors with higher efficiency and product purity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3206354438",
+   "year": 2021,
+   "cited_by_count": 721,
+   "title": "Enhanced prime editing systems by manipulating cellular determinants of editing outcomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121090755",
+   "year": 2010,
+   "cited_by_count": 710,
+   "title": "The Behaviour of 5-Hydroxymethylcytosine in Bisulfite Sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097861808",
+   "year": 2011,
+   "cited_by_count": 685,
+   "title": "A system for the continuous directed evolution of biomolecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3041877641",
+   "year": 2020,
+   "cited_by_count": 679,
+   "title": "A bacterial cytidine deaminase toxin enables CRISPR-free mitochondrial base editing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2292390328",
+   "year": 2016,
+   "cited_by_count": 631,
+   "title": "Efficient delivery of genome-editing proteins using bioreducible lipid nanoparticles",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075601360",
+   "year": 2011,
+   "cited_by_count": 603,
+   "title": "A general strategy for the evolution of bond-forming enzymes using yeast display",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2899807648",
+   "year": 2018,
+   "cited_by_count": 601,
+   "title": "Predictable and precise template-free CRISPR editing of pathogenic variants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106132690",
+   "year": 2004,
+   "cited_by_count": 538,
+   "title": "DNA‐Templated Organic Synthesis: Nature's Strategy for Controlling Chemical Reactivity Applied to Synthetic Molecules",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073562518",
+   "year": 2007,
+   "cited_by_count": 529,
+   "title": "Supercharging Proteins Can Impart Unusual Resilience",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2778806019",
+   "year": 2017,
+   "cited_by_count": 529,
+   "title": "Treatment of autosomal dominant hearing loss by in vivo delivery of genome editing agents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096216335",
+   "year": 2004,
+   "cited_by_count": 506,
+   "title": "DNA-Templated Organic Synthesis and Selection of a Library of Macrocycles",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3000375097",
+   "year": 2020,
+   "cited_by_count": 471,
+   "title": "Cytosine and adenine base editing of the brain, liver, retina, heart and skeletal muscle of mice via adeno-associated viruses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3119813698",
+   "year": 2021,
+   "cited_by_count": 459,
+   "title": "In vivo base editing rescues Hutchinson–Gilford progeria syndrome in mice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137409670",
+   "year": 2011,
+   "cited_by_count": 453,
+   "title": "Revealing off-target cleavage specificities of zinc-finger nucleases by in vitro selection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976404496",
+   "year": 2015,
+   "cited_by_count": 426,
+   "title": "Small molecule–triggered Cas9 protein with improved genome-editing specificity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3004494456",
+   "year": 2020,
+   "cited_by_count": 416,
+   "title": "Evaluation and minimization of Cas9-independent off-target DNA editing by cytosine base editors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054225867",
+   "year": 2000,
+   "cited_by_count": 415,
+   "title": "Enzyme Mechanisms for Polycyclic Triterpene Formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2621647941",
+   "year": 2017,
+   "cited_by_count": 414,
+   "title": "Improving the DNA specificity and applicability of base editing through protein engineering and protein delivery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3165885441",
+   "year": 2021,
+   "cited_by_count": 342,
+   "title": "Base editing of haematopoietic stem cells rescues sickle cell disease in mice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3004632840",
+   "year": 2020,
+   "cited_by_count": 341,
+   "title": "Continuous evolution of SpCas9 variants compatible with non-G PAMs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041755598",
+   "year": 2006,
+   "cited_by_count": 323,
+   "title": "The pathogen-associated iroA gene cluster mediates bacterial evasion of lipocalin 2",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963629338",
+   "year": 2019,
+   "cited_by_count": 322,
+   "title": "Continuous evolution of base editors with expanded target compatibility and improved activity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031458021",
+   "year": 2006,
+   "cited_by_count": 319,
+   "title": "How pathogenic bacteria evade mammalian sabotage in the battle for iron",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2946692293",
+   "year": 2019,
+   "cited_by_count": 315,
+   "title": "Circularly permuted and PAM-modified Cas9 variants broaden the targeting scope of base editors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083935868",
+   "year": 2011,
+   "cited_by_count": 312,
+   "title": "Opposing effects of Tcf3 and Tcf1 control Wnt stimulation of embryonic stem cell self-renewal",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3037464909",
+   "year": 2020,
+   "cited_by_count": 309,
+   "title": "Programmable m6A modification of cellular RNAs with a Cas13-directed methyltransferase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3132864675",
+   "year": 2021,
+   "cited_by_count": 307,
+   "title": "Massively parallel assessment of human variants with base editor screens",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141656162",
+   "year": 2011,
+   "cited_by_count": 282,
+   "title": "A biomolecule-compatible visible-light-induced azide reduction from a DNA-encoded reaction-discovery system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063892108",
+   "year": 2001,
+   "cited_by_count": 279,
+   "title": "The Generality of DNA-Templated Synthesis as a Basis for Evolving Non-Natural Small Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2943918361",
+   "year": 2019,
+   "cited_by_count": 277,
+   "title": "Analysis and minimization of cellular RNA editing by DNA adenine base editors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127991158",
+   "year": 2010,
+   "cited_by_count": 276,
+   "title": "Autonomous multistep organic synthesis in a single isothermal solution mediated by a DNA walker",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4233524498",
+   "year": 2017,
+   "cited_by_count": 276,
+   "title": "CRISPR-Based Technologies for the Manipulation of Eukaryotic Genomes",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2785406551",
+   "year": 2018,
+   "cited_by_count": 275,
+   "title": "Rewritable multi-event analog recording in bacterial and mammalian cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3035700080",
+   "year": 2020,
+   "cited_by_count": 274,
+   "title": "Determinants of Base Editing Outcomes from Target Library Analysis and Machine Learning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2766423195",
+   "year": 2017,
+   "cited_by_count": 261,
+   "title": "Continuous directed evolution of aminoacyl-tRNA synthetases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107611782",
+   "year": 2009,
+   "cited_by_count": 259,
+   "title": "Mammalian cell penetration, siRNA transfection, and DNA transfection by supercharged proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041672341",
+   "year": 2004,
+   "cited_by_count": 254,
+   "title": "Reaction discovery enabled by DNA-templated synthesis and in vitro selection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048361834",
+   "year": 2014,
+   "cited_by_count": 249,
+   "title": "Anti-diabetic activity of insulin-degrading enzyme inhibitors mediated by multiple hormones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2805743335",
+   "year": 2018,
+   "cited_by_count": 238,
+   "title": "In vivo base editing of post-mitotic sensory cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046219070",
+   "year": 2011,
+   "cited_by_count": 234,
+   "title": "Small-molecule discovery from DNA-encoded chemical libraries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3046580469",
+   "year": 2020,
+   "cited_by_count": 219,
+   "title": "DNA capture by a CRISPR-Cas9–guided adenine base editor",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2725317476",
+   "year": 2017,
+   "cited_by_count": 217,
+   "title": "Aptazyme-embedded guide RNAs enable ligand-responsive genome editing and transcriptional activation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123500370",
+   "year": 2014,
+   "cited_by_count": 212,
+   "title": "Broad specificity profiling of TALENs results in engineered nucleases with improved DNA-cleavage specificity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968940890",
+   "year": 2014,
+   "cited_by_count": 211,
+   "title": "A DNA-based molecular probe for optically reporting cellular traction forces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142407424",
+   "year": 2013,
+   "cited_by_count": 206,
+   "title": "Enzyme-free translation of DNA into sequence-defined synthetic polymers structurally unrelated to nucleic acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026724911",
+   "year": 2009,
+   "cited_by_count": 205,
+   "title": "LC/MS analysis of cellular RNA reveals NAD-linked RNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2219741287",
+   "year": 2015,
+   "cited_by_count": 201,
+   "title": "Development of potent in vivo mutagenesis plasmids with broad mutational spectra",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120435341",
+   "year": 2002,
+   "cited_by_count": 198,
+   "title": "Expanding the Reaction Scope of DNA-Templated Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3174716159",
+   "year": 2021,
+   "cited_by_count": 198,
+   "title": "Efficient C•G-to-G•C base editors developed using CRISPRi screens, target-library analysis, and machine learning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2345218814",
+   "year": 2016,
+   "cited_by_count": 197,
+   "title": "Continuous evolution of Bacillus thuringiensis toxins overcomes insect resistance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963986378",
+   "year": 1999,
+   "cited_by_count": 190,
+   "title": "Progress toward the evolution of an organism with an expanded genetic code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141855734",
+   "year": 2014,
+   "cited_by_count": 186,
+   "title": "Reprogramming the specificity of sortase enzymes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2795942127",
+   "year": 2018,
+   "cited_by_count": 186,
+   "title": "Second-generation DNA-templated macrocycle libraries for the discovery of bioactive small molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045545415",
+   "year": 2005,
+   "cited_by_count": 183,
+   "title": "In Vitro Characterization of Salmochelin and Enterobactin Trilactone Hydrolases IroD, IroE, and Fes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2942965435",
+   "year": 2019,
+   "cited_by_count": 182,
+   "title": "A High-Throughput Platform to Identify Small-Molecule Inhibitors of CRISPR-Cas9",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2918145920",
+   "year": 2019,
+   "cited_by_count": 181,
+   "title": "Adenine base editing in an adult mouse model of tyrosinaemia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3131093799",
+   "year": 2021,
+   "cited_by_count": 180,
+   "title": "PrimeDesign software for rapid and simplified design of prime editing guide RNAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3032052376",
+   "year": 2020,
+   "cited_by_count": 173,
+   "title": "In vivo base editing restores sensory transduction and transiently improves auditory function in a mouse model of recessive deafness",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978602260",
+   "year": 2014,
+   "cited_by_count": 165,
+   "title": "Negative selection and stringency modulation in phage-assisted continuous evolution",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,657 @@
+{
+ "person": "Stuart L. Schreiber",
+ "profile": "A5035618234",
+ "ids": [
+  "A5035618234",
+  "A5111848285",
+  "A5109170929",
+  "A5108774877"
+ ],
+ "options": [
+  "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies, Stuart L. Schreiber"
+ ],
+ "birth_year": 1956,
+ "cutoff_year": 1981,
+ "works": [
+  {
+   "paper_id": "W2002490399",
+   "year": 2014,
+   "cited_by_count": 6951,
+   "title": "Regulation of Ferroptotic Cancer Cell Death by GPX4",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968931043",
+   "year": 2006,
+   "cited_by_count": 5332,
+   "title": "A Bivalent Chromatin Structure Marks Key Developmental Genes in Embryonic Stem Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984754431",
+   "year": 1991,
+   "cited_by_count": 4113,
+   "title": "Calcineurin is a common target of cyclophilin-cyclosporin A and FKBP-FK506 complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2612467560",
+   "year": 2017,
+   "cited_by_count": 3457,
+   "title": "A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015207840",
+   "year": 2008,
+   "cited_by_count": 2872,
+   "title": "The M2 splice isoform of pyruvate kinase is important for cancer metabolism and tumour growth",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1647597862",
+   "year": 2000,
+   "cited_by_count": 2758,
+   "title": "Printing Proteins as Microarrays for High-Throughput Function Determination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090863707",
+   "year": 2000,
+   "cited_by_count": 2541,
+   "title": "Target-Oriented and Diversity-Oriented Organic Synthesis in Drug Discovery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022936129",
+   "year": 2002,
+   "cited_by_count": 2214,
+   "title": "Active genes are tri-methylated at K4 of histone H3",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969971113",
+   "year": 1992,
+   "cited_by_count": 2141,
+   "title": "The mechanism of action of cyclosporin A and FK506",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057106513",
+   "year": 1994,
+   "cited_by_count": 2094,
+   "title": "A mammalian protein targeted by G1-arresting rapamycin–receptor complex",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015345028",
+   "year": 2013,
+   "cited_by_count": 1909,
+   "title": "Lenalidomide Causes Selective Degradation of IKZF1 and IKZF3 in Multiple Myeloma Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2727828415",
+   "year": 2017,
+   "cited_by_count": 1890,
+   "title": "Dependency of a therapy-resistant state of cancer cells on a lipid peroxidase pathway",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974112332",
+   "year": 1996,
+   "cited_by_count": 1792,
+   "title": "A Mammalian Histone Deacetylase Related to the Yeast Transcriptional Regulator Rpd3p",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029178312",
+   "year": 1999,
+   "cited_by_count": 1713,
+   "title": "Small Molecule Inhibitor of Mitotic Spindle Bipolarity Identified in a Phenotype-Based Screen",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767055857",
+   "year": 2017,
+   "cited_by_count": 1624,
+   "title": "Drug-tolerant persister cancer cells are vulnerable to GPX4 inhibition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066284211",
+   "year": 1995,
+   "cited_by_count": 1591,
+   "title": "Inhibition of Proteasome Activities and Subunit-Specific Amino-Terminal Threonine Modification by Lactacystin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007684630",
+   "year": 2005,
+   "cited_by_count": 1497,
+   "title": "Genomic Maps and Comparative Analysis of Histone Modifications in Human and Mouse",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155289933",
+   "year": 2003,
+   "cited_by_count": 1493,
+   "title": "A Planning Strategy for Diversity‐Oriented Synthesis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024842574",
+   "year": 1991,
+   "cited_by_count": 1485,
+   "title": "Chemistry and Biology of the Immunophilins and Their Immunosuppressive Ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978879981",
+   "year": 1989,
+   "cited_by_count": 1382,
+   "title": "A receptor for the immuno-suppressant FK506 is a cis–trans peptidyl-prolyl isomerase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036639816",
+   "year": 1997,
+   "cited_by_count": 1249,
+   "title": "Nuclear Receptor Repression Mediated by a Complex Containing SMRT, mSin3A, and Histone Deacetylase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042446618",
+   "year": 1993,
+   "cited_by_count": 1197,
+   "title": "Atomic Structures of the Human Immunophilin FKBP-12 Complexes with FK506 and Rapamycin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2101127235",
+   "year": 2003,
+   "cited_by_count": 1042,
+   "title": "Domain-selective small-molecule inhibitor of histone deacetylase 6 (HDAC6)-mediated tubulin deacetylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010023860",
+   "year": 2011,
+   "cited_by_count": 1038,
+   "title": "Selective killing of cancer cells by a small molecule targeting the stress response to ROS",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2220553089",
+   "year": 2015,
+   "cited_by_count": 933,
+   "title": "Correlating chemical sensitivity and basal gene expression reveals mechanism of action",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007110714",
+   "year": 1996,
+   "cited_by_count": 916,
+   "title": "Structure of the FKBP12-Rapamycin Complex Interacting with Binding Domain of Human FRAP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2175970000",
+   "year": 2015,
+   "cited_by_count": 906,
+   "title": "Harnessing Connectivity in a Large-Scale Small-Molecule Sensitivity Dataset",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029852810",
+   "year": 1993,
+   "cited_by_count": 842,
+   "title": "Controlling Signal Transduction with Synthetic Ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152883907",
+   "year": 2013,
+   "cited_by_count": 836,
+   "title": "An Interactive Resource to Identify Cancer Genetic and Lineage Dependencies Targeted by Small Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1516646538",
+   "year": 2015,
+   "cited_by_count": 828,
+   "title": "The promise and peril of chemical probes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2932111434",
+   "year": 2019,
+   "cited_by_count": 820,
+   "title": "A GPX4-dependent cancer cell state underlies the clear-cell morphology and confers sensitivity to ferroptosis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990516841",
+   "year": 1994,
+   "cited_by_count": 806,
+   "title": "Two Binding Orientations for Peptides to the Src SH3 Domain: Development of a General Model for SH3-Ligand Interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054208176",
+   "year": 1999,
+   "cited_by_count": 756,
+   "title": "Three proteins define a class of human histone deacetylases related to yeast Hda1p",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3087176574",
+   "year": 2020,
+   "cited_by_count": 755,
+   "title": "Plasticity of ether lipids promotes ferroptosis susceptibility and evasion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061867473",
+   "year": 2002,
+   "cited_by_count": 753,
+   "title": "Methylation of histone H3 Lys 4 in coding regions of active genes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016567695",
+   "year": 1997,
+   "cited_by_count": 752,
+   "title": "Histone Deacetylase Activity Is Required for Full Transcriptional Repression by mSin3A",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998762942",
+   "year": 1995,
+   "cited_by_count": 713,
+   "title": "Control of p70 S6 kinase by kinase activity of FRAP in vivo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1525573602",
+   "year": 1998,
+   "cited_by_count": 684,
+   "title": "Chromatin deacetylation by an ATP-dependent nucleosome remodelling complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039564969",
+   "year": 2005,
+   "cited_by_count": 671,
+   "title": "Histone Variant H2A.Z Marks the 5′ Ends of Both Active and Inactive Genes in Euchromatin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3005780203",
+   "year": 2020,
+   "cited_by_count": 655,
+   "title": "Cytochrome P450 oxidoreductase contributes to phospholipid peroxidation in ferroptosis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047174875",
+   "year": 1991,
+   "cited_by_count": 640,
+   "title": "Atomic Structure of FKBP-FK506, an Immunophilin-Immunosuppressant Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988044873",
+   "year": 2007,
+   "cited_by_count": 601,
+   "title": "Small molecules enhance autophagy and reduce toxicity in Huntington's disease models",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133446638",
+   "year": 2000,
+   "cited_by_count": 598,
+   "title": "Regulation of histone deacetylase 4 and 5 and transcriptional activity by 14-3- 3-dependent cellular localization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166427186",
+   "year": 2005,
+   "cited_by_count": 594,
+   "title": "Small-molecule inhibition of proteasome and aggresome function induces synergistic antitumor activity in multiple myeloma",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2944723276",
+   "year": 2019,
+   "cited_by_count": 590,
+   "title": "The landscape of cancer cell line metabolism",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091538386",
+   "year": 1992,
+   "cited_by_count": 562,
+   "title": "Inhibition of T cell signaling by immunophilin-ligand complexes correlates with loss of calcineurin phosphatase activity",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102635586",
+   "year": 2001,
+   "cited_by_count": 545,
+   "title": "Identification of a Class of Small Molecule Inhibitors of the Sirtuin Family of NAD-dependent Deacetylases by Phenotypic Screening",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998462789",
+   "year": 2007,
+   "cited_by_count": 543,
+   "title": "Towards the Optimal Screening Collection: A Synthesis Strategy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W191075349",
+   "year": 2002,
+   "cited_by_count": 534,
+   "title": "Deacetylase Enzymes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126415488",
+   "year": 1999,
+   "cited_by_count": 518,
+   "title": "Rapamycin-modulated transcription defines the subset of nutrient-sensitive signaling pathways directly controlled by the Tor proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048059265",
+   "year": 1995,
+   "cited_by_count": 513,
+   "title": "PIK-Related Kinases: DNA Repair, Recombination, and Cell Cycle Checkpoints",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3120313360",
+   "year": 2021,
+   "cited_by_count": 511,
+   "title": "The Rise of Molecular Glues",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011263116",
+   "year": 2001,
+   "cited_by_count": 497,
+   "title": "CoREST is an integral component of the CoREST- human histone deacetylase complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163585426",
+   "year": 2005,
+   "cited_by_count": 496,
+   "title": "Single-Nucleosome Mapping of Histone Modifications in S. cerevisiae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071618706",
+   "year": 1999,
+   "cited_by_count": 486,
+   "title": "Protein phosphatase 2A interacts with the 70-kDa S6 kinase and is activated by inhibition of FKBP12–rapamycinassociated protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994279105",
+   "year": 2000,
+   "cited_by_count": 484,
+   "title": "Small molecule developmental screens reveal the logic and timing of vertebrate development",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169191544",
+   "year": 2009,
+   "cited_by_count": 475,
+   "title": "A small molecule that directs differentiation of human ESCs into the pancreatic lineage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025006912",
+   "year": 1994,
+   "cited_by_count": 460,
+   "title": "Acceleration of the Dess-Martin Oxidation by Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2520159331",
+   "year": 2016,
+   "cited_by_count": 458,
+   "title": "Inhibition of Dihydroorotate Dehydrogenase Overcomes Differentiation Blockade in Acute Myeloid Leukemia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3014091199",
+   "year": 2020,
+   "cited_by_count": 435,
+   "title": "Selective covalent targeting of GPX4 using masked nitrile-oxide electrophiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052815426",
+   "year": 2000,
+   "cited_by_count": 432,
+   "title": "Genomewide studies of histone deacetylase function in yeast",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055710769",
+   "year": 2009,
+   "cited_by_count": 424,
+   "title": "Small Molecules Efficiently Direct Endodermal Differentiation of Mouse and Human Embryonic Stem Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973255314",
+   "year": 1999,
+   "cited_by_count": 423,
+   "title": "Printing Small Molecules as Microarrays and Detecting Protein−Ligand Interactions en Masse",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062886087",
+   "year": 1998,
+   "cited_by_count": 413,
+   "title": "Lactacystin, Proteasome Function, and Cell Fate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993357468",
+   "year": 1998,
+   "cited_by_count": 407,
+   "title": "Chemical genetics resulting from a passion for synthetic organic chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014937237",
+   "year": 2002,
+   "cited_by_count": 396,
+   "title": "Signaling Network Model of Chromatin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062947816",
+   "year": 2010,
+   "cited_by_count": 393,
+   "title": "Reduced histone biosynthesis and chromatin changes arising from a damage signal at telomeres",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034265209",
+   "year": 2004,
+   "cited_by_count": 383,
+   "title": "Chemical suppression of a genetic mutation in a zebrafish model of aortic coarctation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128724486",
+   "year": 2014,
+   "cited_by_count": 380,
+   "title": "Atg16L1 T300A variant decreases selective autophagy resulting in altered cytokine signaling and decreased antibacterial defense",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061355448",
+   "year": 2003,
+   "cited_by_count": 376,
+   "title": "Generating Diverse Skeletons of Small Molecules Combinatorially",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2294990791",
+   "year": 2016,
+   "cited_by_count": 370,
+   "title": "High-throughput identification of genotype-specific cancer vulnerabilities in mixtures of barcoded tumor cell lines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086899319",
+   "year": 1996,
+   "cited_by_count": 369,
+   "title": "A Signaling Pathway to Translational Control",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060145168",
+   "year": 2002,
+   "cited_by_count": 367,
+   "title": "Dissecting glucose signalling with diversity-oriented synthesis and small-molecule microarrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968092563",
+   "year": 2009,
+   "cited_by_count": 364,
+   "title": "Direct control of mitochondrial function by mTOR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071981322",
+   "year": 1998,
+   "cited_by_count": 364,
+   "title": "A role for histone deacetylase activity in HDAC1-mediated transcriptional repression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053420149",
+   "year": 1997,
+   "cited_by_count": 362,
+   "title": "Nuclear histone acetylases and deacetylases and transcriptional regulation: HATs off to HDACs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111115182",
+   "year": 2010,
+   "cited_by_count": 357,
+   "title": "Small molecules of different origins have distinct distributions of structural complexity that correlate with protein-binding profiles",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078577005",
+   "year": 1990,
+   "cited_by_count": 355,
+   "title": "Probing Immunosuppressant Action with a Nonnatural Immunophilin Ligand",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2110312780",
+   "year": 2004,
+   "cited_by_count": 354,
+   "title": "Global nucleosome occupancy in yeast",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087729559",
+   "year": 2005,
+   "cited_by_count": 351,
+   "title": "Perturbational profiling of a cell-line model of tumorigenesis by using metabolic measurements",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

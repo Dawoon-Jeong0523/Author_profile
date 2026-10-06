@@ -1,0 +1,416 @@
+{
+ "person": "David DiVincenzo",
+ "birth_year": 1959,
+ "cutoff_year": 1984,
+ "options": [
+  "for the proposal of quantum computation with electron spins in semiconductor quantum dots — Daniel Loss, David DiVincenzo"
+ ],
+ "works": [
+  {
+   "paper_id": "W2103282498",
+   "year": 1998,
+   "cited_by_count": 6635,
+   "C_5_pctl": 1.0,
+   "title": "Quantum computation with quantum dots"
+  },
+  {
+   "paper_id": "W2060887031",
+   "year": 1996,
+   "cited_by_count": 5161,
+   "C_5_pctl": 1.0,
+   "title": "Mixed-state entanglement and quantum error correction"
+  },
+  {
+   "paper_id": "W2102008187",
+   "year": 1995,
+   "cited_by_count": 4174,
+   "C_5_pctl": 1.0,
+   "title": "Elementary gates for quantum computation"
+  },
+  {
+   "paper_id": "W1620538313",
+   "year": 2000,
+   "cited_by_count": 3155,
+   "C_5_pctl": 1.0,
+   "title": "Quantum information and computation"
+  },
+  {
+   "paper_id": "W2158605123",
+   "year": 2000,
+   "cited_by_count": 2243,
+   "C_5_pctl": 1.0,
+   "title": "The Physical Implementation of Quantum Computation"
+  },
+  {
+   "paper_id": "W4239873278",
+   "year": 1995,
+   "cited_by_count": 1587,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Computation"
+  },
+  {
+   "paper_id": "W2006041413",
+   "year": 1999,
+   "cited_by_count": 1443,
+   "C_5_pctl": 1.0,
+   "title": "Coupled quantum dots as quantum gates"
+  },
+  {
+   "paper_id": "W1974293884",
+   "year": 1999,
+   "cited_by_count": 1114,
+   "C_5_pctl": 1.0,
+   "title": "Quantum nonlocality without entanglement"
+  },
+  {
+   "paper_id": "W1993248778",
+   "year": 1995,
+   "cited_by_count": 1050,
+   "C_5_pctl": 1.0,
+   "title": "Two-bit gates are universal for quantum computation"
+  },
+  {
+   "paper_id": "W1629173918",
+   "year": 2000,
+   "cited_by_count": 893,
+   "C_5_pctl": 1.0,
+   "title": "Universal quantum computation with the exchange interaction"
+  },
+  {
+   "paper_id": "W2070929205",
+   "year": 2000,
+   "cited_by_count": 835,
+   "C_5_pctl": 1.0,
+   "title": "Electron-spin-resonance transistors for quantum computing in silicon-germanium heterostructures"
+  },
+  {
+   "paper_id": "W2044859269",
+   "year": 2001,
+   "cited_by_count": 814,
+   "C_5_pctl": 0.99,
+   "title": "Remote State Preparation"
+  },
+  {
+   "paper_id": "W2148576428",
+   "year": 1999,
+   "cited_by_count": 717,
+   "C_5_pctl": 0.99,
+   "title": "Unextendible Product Bases and Bound Entanglement"
+  },
+  {
+   "paper_id": "W1987403044",
+   "year": 1984,
+   "cited_by_count": 662,
+   "C_5_pctl": 0.92,
+   "title": "Self-consistent effective-mass theory for intralayer screening in graphite intercalation compounds"
+  },
+  {
+   "paper_id": "W1993647396",
+   "year": 1998,
+   "cited_by_count": 545,
+   "C_5_pctl": 1.0,
+   "title": "Optimal universal and state-dependent quantum cloning"
+  },
+  {
+   "paper_id": "W2043452671",
+   "year": 2011,
+   "cited_by_count": 518,
+   "C_5_pctl": 0.99,
+   "title": "Schrieffer–Wolff transformation for quantum many-body systems"
+  },
+  {
+   "paper_id": "W2028679634",
+   "year": 2003,
+   "cited_by_count": 348,
+   "C_5_pctl": 0.98,
+   "title": "Unextendible Product Bases, Uncompletable Product Bases and Bound Entanglement"
+  },
+  {
+   "paper_id": "W1984691108",
+   "year": 1997,
+   "cited_by_count": 341,
+   "C_5_pctl": 0.98,
+   "title": "Capacities of Quantum Erasure Channels"
+  },
+  {
+   "paper_id": "W2055598707",
+   "year": 1996,
+   "cited_by_count": 324,
+   "C_5_pctl": 1.0,
+   "title": "Fault-Tolerant Error Correction with Efficient Quantum Codes"
+  },
+  {
+   "paper_id": "W1860626550",
+   "year": 2002,
+   "cited_by_count": 316,
+   "C_5_pctl": 0.97,
+   "title": "Classical simulation of noninteracting-fermion quantum circuits"
+  },
+  {
+   "paper_id": "W2021483030",
+   "year": 1992,
+   "cited_by_count": 302,
+   "C_5_pctl": 0.99,
+   "title": "Suppression of tunneling by interference in half-integer-spin particles"
+  },
+  {
+   "paper_id": "W1975717363",
+   "year": 1991,
+   "cited_by_count": 301,
+   "C_5_pctl": 1.0,
+   "title": "Classical and quantum ballistic-transport anomalies in microjunctions"
+  },
+  {
+   "paper_id": "W2166258489",
+   "year": 2005,
+   "cited_by_count": 299,
+   "C_5_pctl": 1.0,
+   "title": "Dephasing of a Superconducting Qubit Induced by Photon Noise"
+  },
+  {
+   "paper_id": "W1970302872",
+   "year": 1998,
+   "cited_by_count": 290,
+   "C_5_pctl": 0.98,
+   "title": "Quantum-channel capacity of very noisy channels"
+  },
+  {
+   "paper_id": "W2003626497",
+   "year": 1992,
+   "cited_by_count": 289,
+   "C_5_pctl": 1.0,
+   "title": "Macroscopic quantum tunneling in magnetic proteins"
+  },
+  {
+   "paper_id": "W2075079198",
+   "year": 1995,
+   "cited_by_count": 273,
+   "C_5_pctl": 1.0,
+   "title": "Complex Dynamics of Mesoscopic Magnets"
+  },
+  {
+   "paper_id": "W1963721752",
+   "year": 1996,
+   "cited_by_count": 273,
+   "C_5_pctl": 0.88,
+   "title": "Five two-bit quantum gates are sufficient to implement the quantum Fredkin gate"
+  },
+  {
+   "paper_id": "W2003954610",
+   "year": 2002,
+   "cited_by_count": 266,
+   "C_5_pctl": 0.96,
+   "title": "The entanglement of purification"
+  },
+  {
+   "paper_id": "W2230638509",
+   "year": 2016,
+   "cited_by_count": 263,
+   "C_5_pctl": 1.0,
+   "title": "High-Kinetic-Inductance Superconducting Nanowire Resonators for Circuit QED in a Magnetic Field"
+  },
+  {
+   "paper_id": "W2038054480",
+   "year": 2001,
+   "cited_by_count": 251,
+   "C_5_pctl": 0.96,
+   "title": "Hiding Bits in Bell States"
+  },
+  {
+   "paper_id": "W2034616267",
+   "year": 1992,
+   "cited_by_count": 250,
+   "C_5_pctl": 1.0,
+   "title": "Macroscopic Quantum Effects in Nanometer-Scale Magnets"
+  },
+  {
+   "paper_id": "W2113169827",
+   "year": 2010,
+   "cited_by_count": 241,
+   "C_5_pctl": 1.0,
+   "title": "Coherent spin manipulation in an exchange-only qubit"
+  },
+  {
+   "paper_id": "W2100068753",
+   "year": 2013,
+   "cited_by_count": 237,
+   "C_5_pctl": 1.0,
+   "title": "Self-consistent measurement and state tomography of an exchange-only spin qubit"
+  },
+  {
+   "paper_id": "W1982305921",
+   "year": 2004,
+   "cited_by_count": 230,
+   "C_5_pctl": 0.98,
+   "title": "Locking Classical Correlations in Quantum States"
+  },
+  {
+   "paper_id": "W3164283929",
+   "year": 2014,
+   "cited_by_count": 229,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Information and Quantum Computation"
+  },
+  {
+   "paper_id": "W2010214996",
+   "year": 2000,
+   "cited_by_count": 223,
+   "C_5_pctl": 0.99,
+   "title": "Evidence for bound entangled states with negative partial transpose"
+  },
+  {
+   "paper_id": "W2073361188",
+   "year": 2007,
+   "cited_by_count": 200,
+   "C_5_pctl": 1.0,
+   "title": "Model for 1 / f Flux Noise in SQUIDs and Qubits"
+  },
+  {
+   "paper_id": "W2044885737",
+   "year": 2000,
+   "cited_by_count": 194,
+   "C_5_pctl": 0.96,
+   "title": "Problem of equilibration and the computation of correlation functions on a quantum computer"
+  },
+  {
+   "paper_id": "W1965623667",
+   "year": 1985,
+   "cited_by_count": 182,
+   "C_5_pctl": 0.99,
+   "title": "Cohesion and structure in stage-1 graphite intercalation compounds"
+  },
+  {
+   "paper_id": "W1964807490",
+   "year": 2004,
+   "cited_by_count": 172,
+   "C_5_pctl": 0.97,
+   "title": "Multilevel quantum description of decoherence in superconducting qubits"
+  },
+  {
+   "paper_id": "W1971997173",
+   "year": 1999,
+   "cited_by_count": 171,
+   "C_5_pctl": 0.99,
+   "title": "Quantum computers and quantum coherence"
+  },
+  {
+   "paper_id": "W2059987221",
+   "year": 1986,
+   "cited_by_count": 161,
+   "C_5_pctl": 1.0,
+   "title": "Systematics of Disorder in Quasiperiodic Material"
+  },
+  {
+   "paper_id": "W2066077609",
+   "year": 1998,
+   "cited_by_count": 149,
+   "C_5_pctl": 0.98,
+   "title": "Quantum information is physical"
+  },
+  {
+   "paper_id": "W2056311757",
+   "year": 2007,
+   "cited_by_count": 131,
+   "C_5_pctl": 0.96,
+   "title": "Effective Fault-Tolerant Quantum Computation with Slow Measurements"
+  },
+  {
+   "paper_id": "W2055210327",
+   "year": 2010,
+   "cited_by_count": 119,
+   "C_5_pctl": 0.98,
+   "title": "High-Coherence Hybrid Superconducting Qubit"
+  },
+  {
+   "paper_id": "W2031655727",
+   "year": 1988,
+   "cited_by_count": 116,
+   "C_5_pctl": 0.99,
+   "title": "Growing Perfect Quasicrystals"
+  },
+  {
+   "paper_id": "W1975110012",
+   "year": 1986,
+   "cited_by_count": 113,
+   "C_5_pctl": 0.99,
+   "title": "Electronic and Structural Properties of a Twin Boundary in Si"
+  },
+  {
+   "paper_id": "W2085521764",
+   "year": 1990,
+   "cited_by_count": 111,
+   "C_5_pctl": 0.96,
+   "title": "Super-roughening: A new phase transition on the surfaces of crystals with quenched bulk disorder"
+  },
+  {
+   "paper_id": "W1991815611",
+   "year": 2005,
+   "cited_by_count": 110,
+   "C_5_pctl": 0.98,
+   "title": "Rigorous Born approximation and beyond for the spin-boson model"
+  },
+  {
+   "paper_id": "W2041864875",
+   "year": 2005,
+   "cited_by_count": 108,
+   "C_5_pctl": 0.99,
+   "title": "Local fault-tolerant quantum computation"
+  },
+  {
+   "paper_id": "W2056725761",
+   "year": 1999,
+   "cited_by_count": 106,
+   "C_5_pctl": 0.97,
+   "title": "Physical optimization of quantum error correction circuits"
+  },
+  {
+   "paper_id": "W2951043472",
+   "year": 2004,
+   "cited_by_count": 104,
+   "C_5_pctl": 0.86,
+   "title": "Adaptive Quantum Computation, Constant Depth Quantum Circuits and Arthur-Merlin Games"
+  },
+  {
+   "paper_id": "W1989089374",
+   "year": 2008,
+   "cited_by_count": 97,
+   "C_5_pctl": 0.98,
+   "title": "Quantum Simulation of Many-Body Hamiltonians Using Perturbation Theory with Bounded-Strength Interactions"
+  },
+  {
+   "paper_id": "W2152338767",
+   "year": 2009,
+   "cited_by_count": 97,
+   "C_5_pctl": 0.95,
+   "title": "Fault-tolerant computing with biased-noise superconducting qubits: a case study"
+  },
+  {
+   "paper_id": "W1966314252",
+   "year": 1988,
+   "cited_by_count": 89,
+   "C_5_pctl": 0.99,
+   "title": "Resistance fluctuations in multiprobe microstructures: Length dependence and nonlocality"
+  },
+  {
+   "paper_id": "W2291984401",
+   "year": 2016,
+   "cited_by_count": 87,
+   "C_5_pctl": 0.99,
+   "title": "Circuit design implementing longitudinal coupling: A scalable scheme for superconducting qubits"
+  },
+  {
+   "paper_id": "W2089181616",
+   "year": 2001,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.98,
+   "title": "Anisotropic Spin Exchange in Pulsed Quantum Gates"
+  },
+  {
+   "paper_id": "W1940344214",
+   "year": 2005,
+   "cited_by_count": 84,
+   "C_5_pctl": 0.97,
+   "title": "Double Quantum Dot as a Quantum Bit"
+  }
+ ]
+}

@@ -1,0 +1,1984 @@
+{
+ "field": "physics",
+ "version": "v2 (committee lineup with the highest mean person score)",
+ "k": 30,
+ "convergence_weight": 1.0,
+ "committee_total_points": 45.0,
+ "convergence_point_per_approval": 0.226856,
+ "people_used": 133,
+ "rows_left_out_not_alive": [
+  "ALPHA collaboration",
+  "ATHENA collaboration",
+  "Cumrun Vafa",
+  "David A. Weitz",
+  "Haim Sompolinsky",
+  "Igor Klebanov",
+  "John Doyle",
+  "Kosmas Tsakmakidis",
+  "Nathan Cohen",
+  "Roy Kerr",
+  "Shrinivas R. Kulkarni"
+ ],
+ "method": "Same as ../convergence_2026/build_options.py (v1) except for the people shown on an option the committee named.\n\nv1: the people of all nominations merged into the option were pooled and the top three by weight were shown, so one\nnomination that named three people filled the slots even when most nominations named one person.\n\nv2: the candidates are the lineups the committee members actually wrote. A lineup is the set of people of one\nnomination (same person matching as committee.py); nominations with the same set share it. Deceased people are taken\nout of a lineup (a lineup left empty is dropped). Each person scores committee weight + convergence points, as in v1;\na lineup scores the mean of its people's scores, and the lineup with the highest mean is shown. Ties: the summed\nnormalized Borda points of the nominations that wrote the lineup (\"support\"), then their number, then the names; where\nthe committee's merges.yaml has a hand pick of shown people (the user's tie decisions of 2026-10-01) and it is one of the\ntied lineups, it wins the tie.\nConvergence people placed in a committee option (name match, attach, milestone) still add to their own score but\nare shown only if a committee lineup holds them. Options the committee did not name show their decisions.yaml group\n(or the lone person), as in v1. A hand pick that is not among the tied lineups is not applied; the option is flagged.\n\nOption score = committee points + the convergence points of the people shown (unchanged from v1). Writes\nresults/options_<field>.json, results/options_<field>.csv and results/review_<field>.md (with every candidate lineup).",
+ "options": [
+  {
+   "rank": 1,
+   "option": "for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect — Eugene J. Mele, Charles L. Kane",
+   "discovery": "for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 9.9771,
+   "committee_points": 8.75,
+   "convergence_points": 1.2271,
+   "committee_rank": 1,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Eugene J. Mele",
+     "committee_weight": 8.75,
+     "convergence_points": 0.6187,
+     "convergence_families": {
+      "kalshi": 0.165,
+      "milestone_passed": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Charles L. Kane",
+     "committee_weight": 8.75,
+     "convergence_points": 0.6084,
+     "convergence_families": {
+      "kalshi": 0.1547,
+      "milestone_passed": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Laurens W. Molenkamp",
+     "committee_weight": 8.5,
+     "convergence_points": 0.2269,
+     "convergence_families": {
+      "milestone_passed": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Eugene J. Mele",
+      "Charles L. Kane"
+     ],
+     "mean_score": 9.3635,
+     "support": 0.25,
+     "support_share": 0.0286,
+     "nominations": [
+      "gemini/atomic-physics/r1/#4"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Eugene J. Mele",
+      "Charles L. Kane",
+      "Laurens W. Molenkamp"
+     ],
+     "mean_score": 9.1513,
+     "support": 8.5,
+     "support_share": 0.9714,
+     "nominations": [
+      "anthropic/astroparticle-physics/r1/#3",
+      "anthropic/theoretical-magnetism/r1/#1",
+      "anthropic/applied-and-theoretical-quantum-physics/r1/#1",
+      "anthropic/atomic-physics/r1/#1",
+      "anthropic/general-physics/r1/#1",
+      "anthropic/theoretical-physics/r1/#1",
+      "anthropic/complex-systems/r1/#1",
+      "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#2",
+      "openai/theoretical-magnetism/r1/#2",
+      "openai/applied-and-theoretical-quantum-physics/r1/#4",
+      "openai/general-physics/r1/#2",
+      "openai/theoretical-physics/r1/#2",
+      "openai/complex-systems/r1/#2",
+      "openai/experimental-physics-microscopy-and-microanalysis/r1/#3",
+      "gemini/astroparticle-physics/r1/#4",
+      "gemini/applied-and-theoretical-quantum-physics/r1/#2",
+      "gemini/general-physics/r1/#2"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "option": "for the invention and development of optical lattice clocks, enabling time and frequency measurements at unprecedented precision — Jun Ye, Hidetoshi Katori",
+   "discovery": "for the invention and development of optical lattice clocks, enabling time and frequency measurements at unprecedented precision",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 7.6806,
+   "committee_points": 7.0,
+   "convergence_points": 0.6806,
+   "committee_rank": 2,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Jun Ye",
+     "committee_weight": 7.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Hidetoshi Katori",
+     "committee_weight": 7.0,
+     "convergence_points": 0.2269,
+     "convergence_families": {
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Jun Ye",
+      "Hidetoshi Katori"
+     ],
+     "mean_score": 7.3403,
+     "support": 7.0,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/astroparticle-physics/r1/#2",
+      "anthropic/theoretical-magnetism/r1/#4",
+      "anthropic/atomic-physics/r1/#3",
+      "anthropic/general-physics/r1/#3",
+      "anthropic/theoretical-physics/r1/#3",
+      "openai/astroparticle-physics/r1/#2",
+      "openai/theoretical-magnetism/r1/#1",
+      "openai/applied-and-theoretical-quantum-physics/r1/#2",
+      "openai/atomic-physics/r1/#1",
+      "openai/general-physics/r1/#1",
+      "openai/theoretical-physics/r1/#1",
+      "openai/complex-systems/r1/#1",
+      "openai/experimental-physics-microscopy-and-microanalysis/r1/#2",
+      "gemini/atomic-physics/r1/#2"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "option": "for the theoretical prediction and experimental realization of negative index metamaterials — John B. Pendry, David R. Smith",
+   "discovery": "for the theoretical prediction and experimental realization of negative index metamaterials",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 6.4036,
+   "committee_points": 5.125,
+   "convergence_points": 1.2786,
+   "committee_rank": 3,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "John B. Pendry",
+     "committee_weight": 3.875,
+     "convergence_points": 0.8249,
+     "convergence_families": {
+      "kalshi": 0.1444,
+      "milestone_passed": 0.2269,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "David R. Smith",
+     "committee_weight": 3.75,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Eli Yablonovitch",
+     "committee_weight": 1.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Sajeev John",
+     "committee_weight": 1.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "John D. Joannopoulos",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Richard A. Shelby",
+     "committee_weight": 0.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Andrea Alù",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": "metamaterials (2026 Nobel Symposium on metamaterials)"
+    },
+    {
+     "name": "Nader Engheta",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": "metamaterials (2026 Nobel Symposium on metamaterials)"
+    },
+    {
+     "name": "Ulf Leonhardt",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": "metamaterials and transformation optics (2026 Nobel Symposium on metamaterials)"
+    },
+    {
+     "name": "Vladimir Shalaev",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": "metamaterials (2026 Nobel Symposium on metamaterials)"
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "John B. Pendry",
+      "David R. Smith"
+     ],
+     "mean_score": 4.4518,
+     "support": 3.625,
+     "support_share": 0.7073,
+     "nominations": [
+      "anthropic/astroparticle-physics/r1/#5",
+      "anthropic/applied-and-theoretical-quantum-physics/r1/#5",
+      "anthropic/atomic-physics/r1/#4",
+      "anthropic/general-physics/r1/#2",
+      "anthropic/complex-systems/r1/#2",
+      "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#4",
+      "gemini/theoretical-magnetism/r1/#2",
+      "gemini/applied-and-theoretical-quantum-physics/r1/#5",
+      "gemini/atomic-physics/r1/#5",
+      "gemini/complex-systems/r1/#1",
+      "gemini/experimental-physics-microscopy-and-microanalysis/r1/#2"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "John B. Pendry",
+      "Eli Yablonovitch"
+     ],
+     "mean_score": 3.0375,
+     "support": 0.125,
+     "support_share": 0.0244,
+     "nominations": [
+      "gemini/theoretical-physics/r1/#5"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "John B. Pendry",
+      "David R. Smith",
+      "Richard A. Shelby"
+     ],
+     "mean_score": 3.0095,
+     "support": 0.125,
+     "support_share": 0.0244,
+     "nominations": [
+      "openai/astroparticle-physics/r1/#5"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Eli Yablonovitch",
+      "Sajeev John"
+     ],
+     "mean_score": 1.3125,
+     "support": 0.875,
+     "support_share": 0.1707,
+     "nominations": [
+      "gemini/applied-and-theoretical-quantum-physics/r1/#4",
+      "gemini/general-physics/r1/#4",
+      "gemini/experimental-physics-microscopy-and-microanalysis/r1/#3"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Eli Yablonovitch",
+      "Sajeev John",
+      "John D. Joannopoulos"
+     ],
+     "mean_score": 1.0,
+     "support": 0.375,
+     "support_share": 0.0732,
+     "nominations": [
+      "openai/atomic-physics/r1/#4",
+      "openai/experimental-physics-microscopy-and-microanalysis/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Andrea Alù: convergence 0.45 not shown (in no committee lineup)",
+    "Nader Engheta: convergence 0.45 not shown (in no committee lineup)",
+    "Ulf Leonhardt: convergence 0.45 not shown (in no committee lineup)",
+    "Vladimir Shalaev: convergence 0.45 not shown (in no committee lineup)"
+   ]
+  },
+  {
+   "rank": 4,
+   "option": "for the discovery of topological and geometric phases in quantum systems — Michael V. Berry",
+   "discovery": "for the discovery of topological and geometric phases in quantum systems",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 4.4859,
+   "committee_points": 4.125,
+   "convergence_points": 0.3609,
+   "committee_rank": 4,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Michael V. Berry",
+     "committee_weight": 4.125,
+     "convergence_points": 0.3609,
+     "convergence_families": {
+      "kalshi": 0.1341,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Yakir Aharonov",
+     "committee_weight": 4.0,
+     "convergence_points": 0.3609,
+     "convergence_families": {
+      "kalshi": 0.1341,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Michael V. Berry"
+     ],
+     "mean_score": 4.4859,
+     "support": 0.125,
+     "support_share": 0.0303,
+     "nominations": [
+      "gemini/complex-systems/r1/#5"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Michael V. Berry",
+      "Yakir Aharonov"
+     ],
+     "mean_score": 4.4234,
+     "support": 4.0,
+     "support_share": 0.9697,
+     "nominations": [
+      "anthropic/theoretical-magnetism/r1/#2",
+      "anthropic/theoretical-physics/r1/#2",
+      "anthropic/complex-systems/r1/#4",
+      "openai/theoretical-magnetism/r1/#3",
+      "openai/general-physics/r1/#3",
+      "openai/complex-systems/r1/#5",
+      "gemini/theoretical-magnetism/r1/#5",
+      "gemini/applied-and-theoretical-quantum-physics/r1/#1",
+      "gemini/general-physics/r1/#3",
+      "gemini/theoretical-physics/r1/#1",
+      "gemini/experimental-physics-microscopy-and-microanalysis/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "option": "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms — Charles H. Bennett, Gilles Brassard, Peter W. Shor",
+   "discovery": "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 4.4462,
+   "committee_points": 2.5,
+   "convergence_points": 1.9462,
+   "committee_rank": 6,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Charles H. Bennett",
+     "committee_weight": 1.875,
+     "convergence_points": 0.6806,
+     "convergence_families": {
+      "milestone_passed": 0.2269,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Gilles Brassard",
+     "committee_weight": 1.875,
+     "convergence_points": 0.6806,
+     "convergence_families": {
+      "milestone_passed": 0.2269,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Peter W. Shor",
+     "committee_weight": 1.75,
+     "convergence_points": 0.585,
+     "convergence_families": {
+      "kalshi": 0.0836,
+      "milestone_passed": 0.1672,
+      "symposium_dossier": 0.1672,
+      "web_2026": 0.1672
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Artur K. Ekert",
+     "committee_weight": 0.75,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "David Deutsch",
+     "committee_weight": 0.625,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Jian-Wei Pan",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": "experimental quantum communication (teleportation, entanglement distribution, satellite quantum key distribution), part of the committee's quantum information option"
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Charles H. Bennett",
+      "Gilles Brassard",
+      "Peter W. Shor"
+     ],
+     "mean_score": 2.4821,
+     "support": 1.125,
+     "support_share": 0.45,
+     "nominations": [
+      "anthropic/theoretical-magnetism/r1/#3",
+      "gemini/applied-and-theoretical-quantum-physics/r1/#3",
+      "gemini/theoretical-physics/r1/#3"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Charles H. Bennett",
+      "Gilles Brassard",
+      "Artur K. Ekert"
+     ],
+     "mean_score": 2.1049,
+     "support": 0.75,
+     "support_share": 0.3,
+     "nominations": [
+      "anthropic/applied-and-theoretical-quantum-physics/r1/#2",
+      "gemini/theoretical-magnetism/r1/#4"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Peter W. Shor",
+      "David Deutsch"
+     ],
+     "mean_score": 1.7069,
+     "support": 0.625,
+     "support_share": 0.25,
+     "nominations": [
+      "gemini/general-physics/r1/#1"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Jian-Wei Pan: convergence 0.45 not shown (in no committee lineup)"
+   ]
+  },
+  {
+   "rank": 6,
+   "option": "for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene — Pablo Jarillo-Herrero, Allan H. MacDonald",
+   "discovery": "for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 3.9693,
+   "committee_points": 3.0,
+   "convergence_points": 0.9693,
+   "committee_rank": 5,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Pablo Jarillo-Herrero",
+     "committee_weight": 3.0,
+     "convergence_points": 0.5981,
+     "convergence_families": {
+      "kalshi": 0.1444,
+      "milestone_passed": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Allan H. MacDonald",
+     "committee_weight": 3.0,
+     "convergence_points": 0.3712,
+     "convergence_families": {
+      "kalshi": 0.1444,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Rafi Bistritzer",
+     "committee_weight": 2.625,
+     "convergence_points": 0.3506,
+     "convergence_families": {
+      "kalshi": 0.1237,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Pablo Jarillo-Herrero",
+      "Allan H. MacDonald"
+     ],
+     "mean_score": 3.4846,
+     "support": 0.375,
+     "support_share": 0.125,
+     "nominations": [
+      "anthropic/atomic-physics/r1/#5",
+      "anthropic/theoretical-physics/r1/#5",
+      "gemini/general-physics/r1/#5"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Pablo Jarillo-Herrero",
+      "Allan H. MacDonald",
+      "Rafi Bistritzer"
+     ],
+     "mean_score": 3.315,
+     "support": 2.625,
+     "support_share": 0.875,
+     "nominations": [
+      "anthropic/theoretical-magnetism/r1/#5",
+      "anthropic/applied-and-theoretical-quantum-physics/r1/#4",
+      "anthropic/general-physics/r1/#4",
+      "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#5",
+      "openai/atomic-physics/r1/#5",
+      "gemini/astroparticle-physics/r1/#2",
+      "gemini/atomic-physics/r1/#3",
+      "gemini/theoretical-physics/r1/#4",
+      "gemini/complex-systems/r1/#3",
+      "gemini/experimental-physics-microscopy-and-microanalysis/r1/#4"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "option": "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices — Immanuel Bloch, J. Ignacio Cirac, Peter Zoller",
+   "discovery": "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 3.9167,
+   "committee_points": 1.875,
+   "convergence_points": 2.0417,
+   "committee_rank": 9,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Immanuel Bloch",
+     "committee_weight": 1.875,
+     "convergence_points": 0.6806,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "J. Ignacio Cirac",
+     "committee_weight": 1.875,
+     "convergence_points": 0.6806,
+     "convergence_families": {
+      "milestone_passed": 0.2269,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Peter Zoller",
+     "committee_weight": 1.875,
+     "convergence_points": 0.6806,
+     "convergence_families": {
+      "milestone_passed": 0.2269,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Mikhail Lukin",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": "quantum simulation with arrays of Rydberg atoms, the discovery of the committee's quantum simulation option"
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Immanuel Bloch",
+      "J. Ignacio Cirac",
+      "Peter Zoller"
+     ],
+     "mean_score": 2.5556,
+     "support": 1.875,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/astroparticle-physics/r1/#4",
+      "anthropic/applied-and-theoretical-quantum-physics/r1/#3",
+      "anthropic/atomic-physics/r1/#2",
+      "anthropic/complex-systems/r1/#5",
+      "gemini/atomic-physics/r1/#1"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Mikhail Lukin: convergence 0.45 not shown (in no committee lineup)"
+   ]
+  },
+  {
+   "rank": 8,
+   "option": "for advancing the understanding of the surprising properties of two-dimensional electron systems in strong magnetic fields — Mordehai Heiblum, Jainendra K. Jain, James P. Eisenstein",
+   "discovery": "for advancing the understanding of the surprising properties of two-dimensional electron systems in strong magnetic fields",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 2.2479,
+   "committee_points": 0.0,
+   "convergence_points": 2.2479,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Mordehai Heiblum",
+     "committee_weight": 0.0,
+     "convergence_points": 0.8043,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "kalshi": 0.1237,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Jainendra K. Jain",
+     "committee_weight": 0.0,
+     "convergence_points": 0.7218,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "kalshi": 0.0412,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "James P. Eisenstein",
+     "committee_weight": 0.0,
+     "convergence_points": 0.7218,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "kalshi": 0.0412,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "shared the 2025 Wolf Prize in Physics with this citation (wording kept); all three in the 2023 Nobel Symposium on anyons and in Kalshi markets",
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "option": "for the invention of the quantum cascade laser — Federico Capasso, Alfred Y. Cho, Jérôme Faist",
+   "discovery": "for the invention of the quantum cascade laser",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 2.245,
+   "committee_points": 1.75,
+   "convergence_points": 0.495,
+   "committee_rank": 10,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Federico Capasso",
+     "committee_weight": 1.75,
+     "convergence_points": 0.495,
+     "convergence_families": {
+      "kalshi": 0.0412,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Alfred Y. Cho",
+     "committee_weight": 1.75,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Jérôme Faist",
+     "committee_weight": 1.75,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Federico Capasso",
+      "Alfred Y. Cho",
+      "Jérôme Faist"
+     ],
+     "mean_score": 1.915,
+     "support": 1.75,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/general-physics/r1/#5",
+      "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#3",
+      "openai/astroparticle-physics/r1/#3",
+      "openai/applied-and-theoretical-quantum-physics/r1/#3",
+      "openai/general-physics/r1/#5",
+      "openai/theoretical-physics/r1/#3"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "option": "for pioneering contributions to neutrino astronomy, in particular the discovery of high-energy cosmic neutrinos — Francis Halzen",
+   "discovery": "for pioneering contributions to neutrino astronomy, in particular the discovery of high-energy cosmic neutrinos",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 2.125,
+   "committee_points": 2.125,
+   "convergence_points": 0.0,
+   "committee_rank": 7,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Francis Halzen",
+     "committee_weight": 2.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Albrecht Karle",
+     "committee_weight": 0.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Naoko Kurahashi Neilson",
+     "committee_weight": 0.625,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Elisa Resconi",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Francis Halzen"
+     ],
+     "mean_score": 2.125,
+     "support": 1.25,
+     "support_share": 0.5882,
+     "nominations": [
+      "anthropic/astroparticle-physics/r1/#1",
+      "gemini/astroparticle-physics/r1/#1"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Francis Halzen",
+      "Albrecht Karle",
+      "Naoko Kurahashi Neilson"
+     ],
+     "mean_score": 1.2083,
+     "support": 0.625,
+     "support_share": 0.2941,
+     "nominations": [
+      "openai/astroparticle-physics/r1/#1"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Francis Halzen",
+      "Albrecht Karle",
+      "Elisa Resconi"
+     ],
+     "mean_score": 1.0833,
+     "support": 0.25,
+     "support_share": 0.1176,
+     "nominations": [
+      "openai/complex-systems/r1/#4"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "possibly already awarded: resembles 2002 \"for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos\""
+   ]
+  },
+  {
+   "rank": 11,
+   "option": "for the observation of the shadow of a black hole by event-horizon-scale radio interferometry — Heino Falcke, Sheperd S. Doeleman",
+   "discovery": "for the observation of the shadow of a black hole by event-horizon-scale radio interferometry",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.875,
+   "committee_points": 1.875,
+   "convergence_points": 0.0,
+   "committee_rank": 8,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Heino Falcke",
+     "committee_weight": 1.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Sheperd S. Doeleman",
+     "committee_weight": 1.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Katherine L. Bouman",
+     "committee_weight": 0.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Luciano Rezzolla",
+     "committee_weight": 0.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Feryal Özel",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Heino Falcke",
+      "Sheperd S. Doeleman"
+     ],
+     "mean_score": 1.875,
+     "support": 0.125,
+     "support_share": 0.0667,
+     "nominations": [
+      "gemini/astroparticle-physics/r1/#5"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Heino Falcke",
+      "Sheperd S. Doeleman",
+      "Katherine L. Bouman"
+     ],
+     "mean_score": 1.5417,
+     "support": 0.875,
+     "support_share": 0.4667,
+     "nominations": [
+      "openai/applied-and-theoretical-quantum-physics/r1/#1",
+      "openai/general-physics/r1/#4"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Heino Falcke",
+      "Sheperd S. Doeleman",
+      "Luciano Rezzolla"
+     ],
+     "mean_score": 1.4167,
+     "support": 0.5,
+     "support_share": 0.2667,
+     "nominations": [
+      "openai/atomic-physics/r1/#2"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Heino Falcke",
+      "Sheperd S. Doeleman",
+      "Feryal Özel"
+     ],
+     "mean_score": 1.375,
+     "support": 0.375,
+     "support_share": 0.2,
+     "nominations": [
+      "openai/theoretical-magnetism/r1/#4",
+      "openai/theoretical-physics/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "option": "for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure — Alan H. Guth, Andrei Linde",
+   "discovery": "for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.7037,
+   "committee_points": 1.25,
+   "convergence_points": 0.4537,
+   "committee_rank": 12,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Alan H. Guth",
+     "committee_weight": 1.25,
+     "convergence_points": 0.2269,
+     "convergence_families": {
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Andrei Linde",
+     "committee_weight": 1.25,
+     "convergence_points": 0.2269,
+     "convergence_families": {
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Viatcheslav Mukhanov",
+     "committee_weight": 0.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Alan H. Guth",
+      "Andrei Linde"
+     ],
+     "mean_score": 1.4769,
+     "support": 0.375,
+     "support_share": 0.3,
+     "nominations": [
+      "gemini/astroparticle-physics/r1/#3"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Alan H. Guth",
+      "Andrei Linde",
+      "Viatcheslav Mukhanov"
+     ],
+     "mean_score": 1.2762,
+     "support": 0.875,
+     "support_share": 0.7,
+     "nominations": [
+      "anthropic/theoretical-physics/r1/#4",
+      "openai/applied-and-theoretical-quantum-physics/r1/#5",
+      "gemini/theoretical-physics/r1/#2"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "option": "for numerical simulations that established the cold dark matter model of the formation of cosmic structure — Simon White, Carlos Frenk, Marc Davis",
+   "discovery": "for numerical simulations that established the cold dark matter model of the formation of cosmic structure",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 1.6086,
+   "committee_points": 0.0,
+   "convergence_points": 1.6086,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Simon White",
+     "committee_weight": 0.0,
+     "convergence_points": 0.5775,
+     "convergence_families": {
+      "kalshi": 0.1237,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Carlos Frenk",
+     "committee_weight": 0.0,
+     "convergence_points": 0.5156,
+     "convergence_families": {
+      "kalshi": 0.0619,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Marc Davis",
+     "committee_weight": 0.0,
+     "convergence_points": 0.5156,
+     "convergence_families": {
+      "kalshi": 0.0619,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "with George Efstathiou the authors of the 1985 cold-dark-matter simulations (Davis, Efstathiou, Frenk and White); all three in the 2022 Nobel Symposium on dark matter and in Kalshi markets. Efstathiou is placed with Bond below, as his convergence signals are the 2025 Shaw Prize for the cosmic microwave background",
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "option": "for the invention of aberration-corrected electron optics, enabling electron microscopy with sub-ångström resolution — Maximilian Haider, Knut Urban",
+   "discovery": "for the invention of aberration-corrected electron optics, enabling electron microscopy with sub-ångström resolution",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.5,
+   "committee_points": 1.5,
+   "convergence_points": 0.0,
+   "committee_rank": 11,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Maximilian Haider",
+     "committee_weight": 1.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Knut Urban",
+     "committee_weight": 1.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Harald Rose",
+     "committee_weight": 1.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Ondrej L. Krivanek",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Maximilian Haider",
+      "Knut Urban"
+     ],
+     "mean_score": 1.375,
+     "support": 1.25,
+     "support_share": 0.8333,
+     "nominations": [
+      "anthropic/experimental-physics-microscopy-and-microanalysis/r1/#1",
+      "gemini/experimental-physics-microscopy-and-microanalysis/r1/#1"
+     ],
+     "deceased_removed": [
+      "Harald Rose"
+     ]
+    },
+    {
+     "people": [
+      "Maximilian Haider",
+      "Ondrej L. Krivanek"
+     ],
+     "mean_score": 0.875,
+     "support": 0.25,
+     "support_share": 0.1667,
+     "nominations": [
+      "openai/experimental-physics-microscopy-and-microanalysis/r1/#4"
+     ],
+     "deceased_removed": [
+      "Harald Rose"
+     ]
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "chosen lineup without deceased Harald Rose",
+    "Harald Rose: deceased (merges.yaml); not shown"
+   ]
+  },
+  {
+   "rank": 15,
+   "option": "for the development of highly efficient organic light-emitting diodes based on phosphorescent and thermally activated delayed fluorescence emitters — Chihaya Adachi, Mark E. Thompson, Stephen R. Forrest",
+   "discovery": "for the development of highly efficient organic light-emitting diodes based on phosphorescent and thermally activated delayed fluorescence emitters",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 1.3611,
+   "committee_points": 0.0,
+   "convergence_points": 1.3611,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Chihaya Adachi",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "clarivate_2026": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Mark E. Thompson",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "clarivate_2026": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Stephen R. Forrest",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "clarivate_2026": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "all three named by Clarivate 2026 and listed under physics in the convergence file; phosphorescent OLEDs (Forrest, Thompson) and thermally activated delayed fluorescence (Adachi). The chemistry committee has a related option (efficient OLEDs: Tang, Van Slyke, Thompson, Adachi)",
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "option": "for the invention of atomic force microscopy — Christoph Gerber, Gerd Binnig",
+   "discovery": "for the invention of atomic force microscopy",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.2269,
+   "committee_points": 1.0,
+   "convergence_points": 0.2269,
+   "committee_rank": 13,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Christoph Gerber",
+     "committee_weight": 1.0,
+     "convergence_points": 0.2269,
+     "convergence_families": {
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Gerd Binnig",
+     "committee_weight": 1.0,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Christoph Gerber",
+      "Gerd Binnig"
+     ],
+     "mean_score": 1.1134,
+     "support": 1.0,
+     "support_share": 1.0,
+     "nominations": [
+      "openai/complex-systems/r1/#3",
+      "openai/experimental-physics-microscopy-and-microanalysis/r1/#1"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Gerd Binnig: Nobel laureate (Physics 1986)"
+   ]
+  },
+  {
+   "rank": 17,
+   "option": "for theoretical discoveries of quantum spin liquids and exactly solvable models of topological order — Alexei Y. Kitaev, Patrick A. Lee",
+   "discovery": "for theoretical discoveries of quantum spin liquids and exactly solvable models of topological order",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.1921,
+   "committee_points": 0.625,
+   "convergence_points": 0.5671,
+   "committee_rank": 15,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Alexei Y. Kitaev",
+     "committee_weight": 0.625,
+     "convergence_points": 0.5671,
+     "convergence_families": {
+      "kalshi": 0.1418,
+      "milestone_passed": 0.1418,
+      "symposium_dossier": 0.1418,
+      "web_2026": 0.1418
+     },
+     "attached": null
+    },
+    {
+     "name": "Patrick A. Lee",
+     "committee_weight": 0.625,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Alexei Y. Kitaev",
+      "Patrick A. Lee"
+     ],
+     "mean_score": 0.9086,
+     "support": 0.625,
+     "support_share": 1.0,
+     "nominations": [
+      "gemini/theoretical-magnetism/r1/#1"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "option": "for the discovery of quantum error correction and fault-tolerant quantum computation — Peter W. Shor, Alexei Y. Kitaev, Andrew M. Steane",
+   "discovery": "for the discovery of quantum error correction and fault-tolerant quantum computation",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.1742,
+   "committee_points": 0.625,
+   "convergence_points": 0.5492,
+   "committee_rank": 14,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Peter W. Shor",
+     "committee_weight": 0.625,
+     "convergence_points": 0.2089,
+     "convergence_families": {
+      "kalshi": 0.0298,
+      "milestone_passed": 0.0597,
+      "symposium_dossier": 0.0597,
+      "web_2026": 0.0597
+     },
+     "attached": null
+    },
+    {
+     "name": "Alexei Y. Kitaev",
+     "committee_weight": 0.375,
+     "convergence_points": 0.3403,
+     "convergence_families": {
+      "kalshi": 0.0851,
+      "milestone_passed": 0.0851,
+      "symposium_dossier": 0.0851,
+      "web_2026": 0.0851
+     },
+     "attached": null
+    },
+    {
+     "name": "Andrew M. Steane",
+     "committee_weight": 0.625,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Daniel Gottesman",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "John Preskill",
+     "committee_weight": 0.0,
+     "convergence_points": 0.8352,
+     "convergence_families": {
+      "kalshi": 0.1547,
+      "milestone_passed": 0.2269,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": "shares the milestone \"Quantum error correction / quantum algorithms\" with Kitaev and Shor, who are both in the committee's quantum error correction option (the milestone also names Cirac and Zoller, so the automatic rule left him alone); his work on fault-tolerant thresholds belongs to that discovery"
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Peter W. Shor",
+      "Alexei Y. Kitaev",
+      "Andrew M. Steane"
+     ],
+     "mean_score": 0.7247,
+     "support": 0.375,
+     "support_share": 0.6,
+     "nominations": [
+      "openai/atomic-physics/r1/#3"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Peter W. Shor",
+      "Andrew M. Steane",
+      "Daniel Gottesman"
+     ],
+     "mean_score": 0.5696,
+     "support": 0.25,
+     "support_share": 0.4,
+     "nominations": [
+      "openai/astroparticle-physics/r1/#4"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "John Preskill: convergence 0.84 not shown (in no committee lineup)"
+   ]
+  },
+  {
+   "rank": 19,
+   "option": "for the development of wavelet theory and multiresolution signal analysis — Yves Meyer, Stéphane Mallat, Ingrid Daubechies",
+   "discovery": "for the development of wavelet theory and multiresolution signal analysis",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.9899,
+   "committee_points": 0.0,
+   "convergence_points": 0.9899,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Yves Meyer",
+     "committee_weight": 0.0,
+     "convergence_points": 0.3712,
+     "convergence_families": {
+      "kalshi": 0.1444,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Stéphane Mallat",
+     "committee_weight": 0.0,
+     "convergence_points": 0.3506,
+     "convergence_families": {
+      "kalshi": 0.1237,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Ingrid Daubechies",
+     "committee_weight": 0.0,
+     "convergence_points": 0.2681,
+     "convergence_families": {
+      "kalshi": 0.0412,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "all three have Kalshi physics markets; their shared contribution is wavelet theory (a mathematical discovery)",
+   "flags": [
+    "Ingrid Daubechies: wavelet theory is mathematics; the convergence file lists the three under physics because of Kalshi markets"
+   ]
+  },
+  {
+   "rank": 20,
+   "option": "for the proposal of quantum computation with electron spins in semiconductor quantum dots — Daniel Loss, David DiVincenzo",
+   "discovery": "for the proposal of quantum computation with electron spins in semiconductor quantum dots",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.9074,
+   "committee_points": 0.0,
+   "convergence_points": 0.9074,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Daniel Loss",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "David DiVincenzo",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "the 1998 Loss-DiVincenzo proposal; both in the 2026 Nobel Symposium on quantum computing and simulation",
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "option": "for their studies of stellar explosions and the origin of the elements — Ken'ichi Nomoto, Stanford Woosley",
+   "discovery": "for their studies of stellar explosions and the origin of the elements",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.9074,
+   "committee_points": 0.0,
+   "convergence_points": 0.9074,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Ken'ichi Nomoto",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Stanford Woosley",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "shared the 2026 Shaw Prize in Astronomy with this citation (wording kept)",
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "option": "for pioneering theoretical studies of fluctuations in the cosmic microwave background — George Efstathiou, John Richard Bond",
+   "discovery": "for pioneering theoretical studies of fluctuations in the cosmic microwave background",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.6806,
+   "committee_points": 0.0,
+   "convergence_points": 0.6806,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "George Efstathiou",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "symposium_dossier": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "John Richard Bond",
+     "committee_weight": 0.0,
+     "convergence_points": 0.2269,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "shared the 2025 Shaw Prize in Astronomy \"for their pioneering research in cosmology, in particular for their studies of fluctuations in the cosmic microwave background\"",
+   "flags": []
+  },
+  {
+   "rank": 23,
+   "option": "for fundamental contributions to high-energy astrophysics, galaxies and structure formation, and cosmology — Martin Rees",
+   "discovery": "for fundamental contributions to high-energy astrophysics, galaxies and structure formation, and cosmology",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.6806,
+   "committee_points": 0.0,
+   "convergence_points": 0.6806,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Martin Rees",
+     "committee_weight": 0.0,
+     "convergence_points": 0.6806,
+     "convergence_families": {
+      "high_ppv_prize": 0.2269,
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "the citation of his 2024 Wolf Prize in Physics (wording kept)",
+   "flags": []
+  },
+  {
+   "rank": 24,
+   "option": "for the discovery of magnetic skyrmion lattices and topological spin textures in chiral magnets — Christian Pfleiderer, Yoshinori Tokura, Naoto Nagaosa",
+   "discovery": "for the discovery of magnetic skyrmion lattices and topological spin textures in chiral magnets",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.5787,
+   "committee_points": 0.125,
+   "convergence_points": 0.4537,
+   "committee_rank": 21,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Christian Pfleiderer",
+     "committee_weight": 0.125,
+     "convergence_points": 0.2269,
+     "convergence_families": {
+      "symposium_dossier": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Yoshinori Tokura",
+     "committee_weight": 0.125,
+     "convergence_points": 0.2269,
+     "convergence_families": {
+      "symposium_dossier": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Naoto Nagaosa",
+     "committee_weight": 0.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Christian Pfleiderer",
+      "Yoshinori Tokura",
+      "Naoto Nagaosa"
+     ],
+     "mean_score": 0.2762,
+     "support": 0.125,
+     "support_share": 1.0,
+     "nominations": [
+      "openai/theoretical-magnetism/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 25,
+   "option": "for the detection and theoretical study of the atmospheres of exoplanets through their transits — David Charbonneau, Sara Seager",
+   "discovery": "for the detection and theoretical study of the atmospheres of exoplanets through their transits",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.5362,
+   "committee_points": 0.0,
+   "convergence_points": 0.5362,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "David Charbonneau",
+     "committee_weight": 0.0,
+     "convergence_points": 0.2681,
+     "convergence_families": {
+      "kalshi": 0.0412,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    },
+    {
+     "name": "Sara Seager",
+     "committee_weight": 0.0,
+     "convergence_points": 0.2681,
+     "convergence_families": {
+      "kalshi": 0.0412,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "both have Kalshi physics markets; first detection of an exoplanet atmosphere (Charbonneau) and its theory (Seager)",
+   "flags": []
+  },
+  {
+   "rank": 26,
+   "option": "for the formulation of the hydrodynamic theories of active matter and flocking — John Toner, Sriram Ramaswamy, Yuhai Tu",
+   "discovery": "for the formulation of the hydrodynamic theories of active matter and flocking",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.5,
+   "committee_points": 0.5,
+   "convergence_points": 0.0,
+   "committee_rank": 16,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "John Toner",
+     "committee_weight": 0.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Sriram Ramaswamy",
+     "committee_weight": 0.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Yuhai Tu",
+     "committee_weight": 0.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "John Toner",
+      "Sriram Ramaswamy",
+      "Yuhai Tu"
+     ],
+     "mean_score": 0.5,
+     "support": 0.5,
+     "support_share": 1.0,
+     "nominations": [
+      "gemini/complex-systems/r1/#2"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 27,
+   "option": "for the theory of multiferroic materials, in which magnetic and ferroelectric order coexist — Nicola A. Spaldin",
+   "discovery": "for the theory of multiferroic materials, in which magnetic and ferroelectric order coexist",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.4537,
+   "committee_points": 0.0,
+   "convergence_points": 0.4537,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Nicola A. Spaldin",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "clarivate_2026": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "named by Clarivate 2026",
+   "flags": []
+  },
+  {
+   "rank": 28,
+   "option": "for the experimental discovery of the quantum anomalous Hall effect — Qikun Xue",
+   "discovery": "for the experimental discovery of the quantum anomalous Hall effect",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.4537,
+   "committee_points": 0.0,
+   "convergence_points": 0.4537,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Qikun Xue",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "clarivate_2026": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "named by Clarivate 2026",
+   "flags": []
+  },
+  {
+   "rank": 29,
+   "option": "for the first coherent control of a superconducting quantum bit — Yasunobu Nakamura",
+   "discovery": "for the first coherent control of a superconducting quantum bit",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.4537,
+   "committee_points": 0.0,
+   "convergence_points": 0.4537,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Yasunobu Nakamura",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4537,
+     "convergence_families": {
+      "symposium_dossier": 0.2269,
+      "web_2026": 0.2269
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "2026 Nobel Symposium on quantum computing and simulation",
+   "flags": [
+    "Yasunobu Nakamura: close to the 2025 physics prize (\"for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit\")"
+   ]
+  },
+  {
+   "rank": 30,
+   "option": "for the discovery of fluctuation theorems and exact nonequilibrium work relations that extend thermodynamics to small systems far from equilibrium — Christopher Jarzynski, Denis J. Evans, Gavin E. Crooks",
+   "discovery": "for the discovery of fluctuation theorems and exact nonequilibrium work relations that extend thermodynamics to small systems far from equilibrium",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.375,
+   "committee_points": 0.375,
+   "convergence_points": 0.0,
+   "committee_rank": 17,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Christopher Jarzynski",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Denis J. Evans",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Gavin E. Crooks",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Christopher Jarzynski",
+      "Denis J. Evans",
+      "Gavin E. Crooks"
+     ],
+     "mean_score": 0.375,
+     "support": 0.375,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/complex-systems/r1/#3"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  }
+ ]
+}

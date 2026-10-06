@@ -1,0 +1,528 @@
+15:38:55 start (cards_pipeline.py dryrun: profile_person.resolve on the authors subset)
+
+=== Harry B. Gray
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5066801656 Harry B. Gray 0000-0002-7937-7876         1277           63741 display              False snapshot                      California Institute of Technology (US)
+    2 A5110756323 Harry B. Gray                None          119            6732 display              False snapshot Division of Chemistry (US); None (?); California Institute o
+    3 A5110082713 Harry B. Gray                None           32            1998 display              False snapshot                                                             
+    4 A5103729980    Harry Gray                None           69            1278 display              False snapshot                                                             
+    5 A5074019282    Harry Gray 0000-0002-6714-0089            6             422 display              False snapshot University of Dundee (GB); MRC Biostatistics Unit (GB); Univ
+    6 A5002803638       H. Gray                None           33             219 display              False snapshot                                                             
+    7 A5103515855 Harry B. Gray                None            4             160 display              False snapshot                      California Institute of Technology (US)
+    8 A5108533942    Harry Gray                None            3             115 display              False snapshot                                 Glasgow Royal Infirmary (GB)
+    9 A5110088080       H. Gray                None           12             107 display              False snapshot                                                             
+   10 A5017763658 H. Le B. Gray                None            1              84 display              False snapshot                                                             
+   11 A5006099742       H. Gray                None            5              56 display              False snapshot                                  University of Aberdeen (GB)
+   12 A5003109555     H.B. Gray                None          108              52 display              False snapshot                                                             
+   13 A5085226923       H. Gray                None            7              36 display              False snapshot                                                             
+   14 A5029806889    Harry Gray                None            9              32 display              False snapshot                      Hult International Business School (GB)
+   15 A5074433077       H. Gray                None            1              32 display              False snapshot                                                             
+query 'Harry B. Gray': picked A5066801656 Harry B. Gray [most cited (63,741 vs 6,732 citations)]
+
+=== Jay R. Winkler
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5003268863   Jay R. Winkler 0000-0002-4453-9716          425           23109 display              False snapshot                                                             
+    2 A5101954976       J. Winkler 0000-0003-0568-8820           21            1741 display              False snapshot                   Thüringer Landessternwarte Tautenburg (DE)
+    3 A5026442542       J. Winkler                None           12            1658 display              False snapshot Heidelberg University (DE); University Hospital Heidelberg (
+    4 A5068206055        J Winkler                None           14             747 display              False snapshot                                                             
+    5 A5110360747       J. Winkler                None            7             378 display              False snapshot                                   Genus (United States) (US)
+    6 A5112722385       J. Winkler                None           11             339 display              False snapshot                                  University of Belgrade (RS)
+    7 A5110535414        J Winkler                None            4             264 display              False snapshot                                  University of Belgrade (RS)
+    8 A5011197894       J. Winkler                None           26             238 display              False snapshot       Friedrich-Alexander-Universität Erlangen-Nürnberg (DE)
+    9 A5036095351       J. Winkler                None            6             216 display              False snapshot                                                             
+   10 A5110404772        J Winkler                None            3              87 display              False snapshot                      Eastern Cooperative Oncology Group (US)
+   11 A5106486373     J�rg Winkler                None            7              57 display              False snapshot                           Technische Universität Berlin (DE)
+   12 A5038648181       J. Winkler                None            3              55 display              False snapshot                 University Children's Hospital Tübingen (DE)
+   13 A5007471889 J. Robin Winkler                None            3              40 display              False snapshot                                         Universität Ulm (DE)
+   14 A5111782639   J�rgen Winkler                None            3              36 display              False snapshot                                University of Regensburg (DE)
+   15 A5031352695       J. Winkler                None            3              30 display              False snapshot                             Leibniz University Hannover (DE)
+query 'Jay R. Winkler': picked A5003268863 Jay R. Winkler [most cited (23,109 vs 1,741 citations)]
+
+=== David L. Allara
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name orcid  works_count  cited_by_count   match  affiliation_match   source                       institutions
+    1 A5032114931 David L. Allara  None          287           30335 display               True snapshot Pennsylvania State University (US)
+    2 A5058779087    David Allara  None            2             104 display               True snapshot Pennsylvania State University (US)
+    3 A5027510600     D.L. Allara  None            1               1 display              False snapshot                                   
+    4 A5084397478     D.L. Allara  None            1               1 display              False snapshot                                   
+    5 A5045348188 DAVID L. ALLARA  None            1               0 display              False snapshot                                   
+query 'David L. Allara': picked A5032114931 David L. Allara [most cited (30,335 vs 104 citations)]
+
+=== Ralph G. Nuzzo
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id   display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                 institutions
+    1 A5024392988 Ralph G. Nuzzo 0000-0003-2310-2045          481           57403 display               True snapshot University of Illinois Urbana-Champaign (US)
+    2 A5031985263      R G Nuzzo                None            1              29 display               True snapshot University of Illinois Urbana-Champaign (US)
+    3 A5031509513    R. G. Nuzzo                None           10              22 display               True snapshot University of Illinois Urbana-Champaign (US)
+    4 A5082982056        R Nuzzo                None            2               0 display               True snapshot University of Illinois Urbana-Champaign (US)
+    5 A5054574710     R.G. Nuzzo                None            2              11 display              False snapshot                                             
+    6 A5056859196       R. Nuzzo                None            7               3 display              False snapshot                                             
+    7 A5108605493 Ralph G. Nuzzo                None            1               0 display              False snapshot                                             
+    8 A5043062262       R. Nuzzo                None            1               0 display              False snapshot                                             
+    9 A5060023429       R. Nuzzo                None            1               0 display              False snapshot                  Biogen (United States) (US)
+   10 A5088144380  Rebecca Nuzzo                None           10             878   alias              False snapshot                  Biogen (United States) (US)
+query 'Ralph G. Nuzzo': picked A5024392988 Ralph G. Nuzzo [most cited (57,403 vs 29 citations)]
+
+=== George M. Whitesides
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id         display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5051537916 George M. Whitesides 0000-0001-9451-2442         1521          262270 display               True snapshot                                      Harvard University (US)
+    2 A5112444582 George M. Whitesides                None          234           37503 display               True snapshot Harvard University (US); Harvard University Press (US); Mass
+    3 A5108197516 George M. Whitesides                None            6             466 display               True snapshot                                      Harvard University (US)
+    4 A5103030526 George M. Whitesides 0000-0003-1184-6573            4             110 display               True snapshot                                      Harvard University (US)
+    5 A5097499759  George M Whitesides                None            1               5 display               True snapshot                                      Harvard University (US)
+    6 A5108231558     G. M. WHITESIDES                None           88            1247 display              False snapshot                                                             
+    7 A5102476644 George M. Whitesides                None            5              12 display              False snapshot                                                             
+    8 A5074883824    GEORGE WHITESIDES                None            1               2 display              False snapshot                                                             
+    9 A5102459570 George M. Whitesides                None            6               1 display              False snapshot                                                             
+   10 A5075155229        G. Whitesides                None            1               0 display              False snapshot                                                             
+   11 A5072358162         G Whitesides                None            1               0 display              False snapshot                                                             
+   12 A5047713214      G.E. Whitesides                None           35            6173   alias              False snapshot                                                             
+   13 A5081131890 George H. Whitesides                None           13            1672   alias              False snapshot                                                             
+query 'George M. Whitesides': picked A5051537916 George M. Whitesides [most cited (262,270 vs 37,503 citations)]; same-name fragments A5112444582, A5108197516
+
+=== David R. Liu
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5100739514    David Liu 0000-0003-0346-5033          579           22621 display               True snapshot University of Chile (CL); University of Hagen (DE); DIPF | L
+    2 A5100739512    David Liu 0000-0002-5891-3609          459           14666 display               True snapshot CytoSorbents (United States) (US); Gold Coast City Council (
+    3 A5074520501       D. Liu                None            2             246 display               True snapshot                                         Broad Institute (US)
+    4 A5121467445 David R. Liu                None            1               0 display               True snapshot                                         Broad Institute (US)
+    5 A5072812773       D. Liu                None            1               0 display               True snapshot                                         Broad Institute (US)
+    6 A5009443912       D. Liu                None            2               0 display               True snapshot                                         Broad Institute (US)
+    7 A5065535610 David R. Liu 0000-0002-9943-7557          374           74596 display              False snapshot                                New York Hospital Queens (US)
+    8 A5107862958       D. Liu 0009-0002-8107-5452           81           16110 display              False snapshot European Organization for Nuclear Research (CH); Central Chi
+    9 A5111208129       D. Liu 0009-0001-6073-7587          140           10430 display              False snapshot   Guangxi University (CN); Anhui Polytechnic University (CN)
+   10 A5107940073       D. Liu 0009-0002-8107-5452          111            5980 display              False snapshot Central China Normal University (CN); Shanghai Jiao Tong Uni
+   11 A5100739507    David Liu 0000-0001-6116-658X          110            4257 display              False snapshot                                                             
+   12 A5107875047       D. Liu                None           35            3495 display              False snapshot                                     Shandong University (CN)
+   13 A5023264224        D Liu                None            9            2571 display              False snapshot                                University of Pittsburgh (US)
+   14 A5083033664       D. Liu                None           25            2569 display              False snapshot                   Institute of Physics, Academia Sinica (TW)
+   15 A5107829479       D. Liu                None           21            2482 display              False snapshot                   Institute of Physics, Academia Sinica (TW)
+NOT RESOLVED: ambiguous: the two most cited candidates have 22,621 and 14,666 citations. Choose with --pick N (the rank above), --affiliation, --orcid or --author-id.
+
+=== Michael Grätzel
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5109160404 Michaël Grätzel                None         1896          391246 display               True snapshot Sungkyunkwan University (KR); École Polytechnique Fédérale d
+    2 A5014398633      M. Grätzel                None            9            2186 display               True snapshot                École Polytechnique Fédérale de Lausanne (CH)
+    3 A5102840218 Michael Grätzel 0000-0003-0311-0857           44            1596 display               True snapshot Technische Universität Ilmenau (DE); École Polytechnique Féd
+    4 A5047063292       M GRATZEL                None            7             308 display               True snapshot                École Polytechnique Fédérale de Lausanne (CH)
+    5 A5076355125      M. Grätzel                None            3               4 display               True snapshot                École Polytechnique Fédérale de Lausanne (CH)
+    6 A5121666516 Michael Grätzel                None            1               0 display               True snapshot                École Polytechnique Fédérale de Lausanne (CH)
+    7 A5074582576      M. Grätzel                None           12             490 display              False snapshot                                                             
+    8 A5040894677      M. Grätzel                None            2               5 display              False snapshot                                                             
+    9 A5076805728      M. Gratzel                None            6               3 display              False snapshot                                                             
+   10 A5006518307      M. Gratzel                None            1               1 display              False snapshot                                                             
+   11 A5061528368       M Gratzel                None            1               0 display              False snapshot                                                             
+   12 A5082003839      M. Grätzel                None            1               0 display              False snapshot                                                             
+   13 A5079209052      M. Grätzel                None            1               0 display              False snapshot                                                             
+   14 A5018479642      M. Grätzel                None            1               0 display              False snapshot                                                             
+query 'Michael Grätzel': picked A5109160404 Michaël Grätzel [most cited (391,246 vs 2,186 citations)]; same-name fragments A5102840218
+
+=== Stephen L. Buchwald
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id        display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5039233288 Stephen L. Buchwald 0000-0003-3875-4775         1276          106517 display              False snapshot                   Massachusetts Institute of Technology (US)
+    2 A5084549938          S Buchwald                None           11             364 display              False snapshot                                         Bayer (Germany) (DE)
+    3 A5055648846      S. L. Buchwald                None           31             199 display              False snapshot                                                             
+    4 A5072042172       S.L. Buchwald                None           47              61 display              False snapshot                                                             
+    5 A5090811857       S.L. Buchwald                None            1               1 display              False snapshot                                                             
+    6 A5017203715          S Buchwald                None            1               0 display              False snapshot                                                             
+    7 A5051815589     Sherry Buchwald                None            2             116   alias              False snapshot Harvard University (US); Joslin Diabetes Center (US); Brigha
+    8 A5055890504  Stella Z. Buchwald 0009-0004-3148-7226           22              41   alias              False snapshot                  Koblenz University of Applied Sciences (DE)
+    9 A5010070449      Simon Buchwald 0009-0004-2350-4399           14              11   alias              False snapshot                      University Medical Center Freiburg (DE)
+query 'Stephen L. Buchwald': picked A5039233288 Stephen L. Buchwald [most cited (106,517 vs 364 citations)]
+
+=== Axel D. Becke
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5015077264   Axel D. Becke 0000-0002-6668-7728          112          214315 display               True snapshot                                    Dalhousie University (CA)
+    2 A5042808654        A. Becke                None            3             150 display              False snapshot                      Clausthal University of Technology (DE)
+    3 A5023099242        A. Becke                None            1              22 display              False snapshot                           Graz University of Technology (AT)
+    4 A5008295345     A. D. Becke                None            1              20 display              False snapshot                                                             
+    5 A5001924269 A Von Der Becke                None            2               0 display              False snapshot                                                             
+    6 A5018296376        A. Becké                None            1               0 display              False snapshot                                                             
+    7 A5022587859        A. Becke                None            1               0 display              False snapshot                                                             
+    8 A5074040394   Andreas Becke                None           21            1587   alias              False snapshot German Center for Neurodegenerative Diseases (DE); Otto-von-
+    9 A5031909107   Andreas Becke                None            3               2   alias              False snapshot Otto-von-Guericke University Magdeburg (DE); German Center f
+query 'Axel D. Becke': picked A5015077264 Axel D. Becke [only candidate at the given affiliation]
+
+=== John P. Perdew
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id   display_name               orcid  works_count  cited_by_count   match  affiliation_match   source           institutions
+    1 A5014987686 John P. Perdew 0000-0003-4237-824X          554          411720 display               True snapshot Tulane University (US)
+    2 A5042793274   J. P. Perdew                None            2            1540 display              False snapshot                       
+    3 A5069843039   J. P. Perdew                None            1               0 display              False snapshot                       
+    4 A5008674287   J. P. Perdew                None            1               0 display              False snapshot                       
+    5 A5069813718     J P Perdew                None            1               0 display              False snapshot                       
+query 'John P. Perdew': picked A5014987686 John P. Perdew [only candidate at the given affiliation]
+
+=== Kevan Shokat
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5079376363 Kevan M. Shokat 0000-0001-8590-7741          732           54139 display               True snapshot City College of San Francisco (US); University of California
+    2 A5113991044 Kevan M. Shokat                None          100           10832 display               True snapshot Cellular Research (United States) (US); Howard Hughes Medica
+    3 A5109864298 Kevan M. Shokat                None            6            1033 display               True snapshot Howard Hughes Medical Institute (US); University of Californ
+    4 A5027887291 Kevan M. Shokat                None            6             516 display               True snapshot University of California, San Francisco (US); University of 
+    5 A5122358347 Kevan M. Shokat                None            1               0 display               True snapshot University of San Francisco (US); University of California, 
+    6 A5108073742 Kevan P. Shokat                None            1             330 display              False snapshot Howard Hughes Medical Institute (US); Stanford University (U
+    7 A5033464942    Kevan Shokat                None           17              11 display              False snapshot                                                             
+    8 A5102230320 Kevan M. Shokat                None            1               2 display              False snapshot                                                             
+    9 A5072115330     K.M. Shokat                None            2               1 display              False snapshot                                                             
+   10 A5080949012    K. M. Shokat                None            1               0 display              False snapshot                                                             
+   11 A5055946835      K M Shokat                None            1               0 display              False snapshot                                                             
+   12 A5031331768       K. Shokat                None            1               0 display              False snapshot                                                             
+query 'Kevan Shokat': picked A5079376363 Kevan M. Shokat [most cited (54,139 vs 10,832 citations)]; same-name fragments A5113991044, A5109864298, A5027887291
+
+=== Peter G. Schultz
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5066008654 Peter G. Schultz 0000-0003-3188-1202          880           97590 display               True snapshot Scripps Institution of Oceanography (US); Scripps Research I
+    2 A5009556430       P. Schultz                None           18             573 display              False snapshot                                                             
+    3 A5011485990       P. Schultz                None            7             159 display              False snapshot Reproductive Medicine Associates of New Jersey (US); Johnson
+    4 A5067525257    P. G. SCHULTZ                None            8             134 display              False snapshot                                                             
+    5 A5110817946     P.G. Schultz                None           30             104 display              False snapshot                                                             
+    6 A5052762584    Peter Schultz 0000-0003-2838-300X            5              86 display              False snapshot University of South Africa (ZA); Universidade de Santo Amaro
+    7 A5025095787    Peter Schultz                None            3              76 display              False snapshot                        Slovak University of Agriculture (SK)
+    8 A5053971266    Peter Schultz                None           18              75 display              False snapshot                                                             
+    9 A5042161452    Peter Schultz                None           26              69 display              False snapshot                                      Leipzig University (DE)
+   10 A5034485880       P. Schultz                None            1              42 display              False snapshot                                                             
+   11 A5108766487    Peter Schultz                None            8              24 display              False snapshot                          Los Alamos National Laboratory (US)
+   12 A5103944508    P. G. Schultz                None            5              23 display              False snapshot                                                             
+   13 A5037982126       P. Schultz                None            1              20 display              False snapshot                                                             
+   14 A5052318757        P SCHULTZ                None            1              17 display              False snapshot                                                             
+   15 A5000874024       P. Schultz                None           10              12 display              False snapshot                                                             
+query 'Peter G. Schultz': picked A5066008654 Peter G. Schultz [only candidate at the given affiliation]
+
+=== Jason W. Chin
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5077915220 Jason W. Chin 0000-0003-1219-4757          223           24469 display               True snapshot MedStar Health (US); Wellcome Sanger Institute (GB); MRC Lab
+    2 A5106035034 Jason W. Chin                None            2              33 display               True snapshot                     MRC Laboratory of Molecular Biology (GB)
+    3 A5029911803    Jason Chin                None           47            1237 display              False snapshot                                   W.M. Keck Observatory (US)
+    4 A5014011742    Jason Chin 0000-0002-6573-2670          143            1200 display              False snapshot National University College (PR); College of Law (LV); Austr
+    5 A5109223779        J Chin                None            6             859 display              False snapshot Eunice Kennedy Shriver National Institute of Child Health an
+    6 A5111578076    Jason Chin                None           17             732 display              False snapshot Queen's University Belfast (GB); St John of God Murdoch Hosp
+    7 A5031537062    Jason Chin                None           34             573 display              False snapshot    Abu Dhabi Health Services (AE); Abu Dhabi University (AE)
+    8 A5039207585        J Chin 0000-0001-7104-6231           26             426 display              False snapshot                                                             
+    9 A5111765664       J. Chin                None            5             215 display              False snapshot                                University of Washington (US)
+   10 A5103192540        J Chin 0000-0002-7320-5678           27             163 display              False snapshot                                                             
+   11 A5052700979       J. Chin 0009-0008-1482-0735            8             151 display              False snapshot Louis Stokes Cleveland VA Medical Center (US); Case Western 
+   12 A5069748267       J. Chin                None            1             150 display              False snapshot                         San Raffaele University of Rome (IT)
+   13 A5048084332       J. Chin                None            8             147 display              False snapshot                                                             
+   14 A5108924818       J. Chin                None           10             145 display              False snapshot Monash University (AU); Monash Health (AU); University of Ca
+   15 A5112260554       J. Chin 0009-0002-5468-413X           19             118 display              False snapshot National University of Singapore (SG); Centre for Quantum Te
+query 'Jason W. Chin': picked A5077915220 Jason W. Chin [most cited (24,469 vs 33 citations)]; same-name fragments A5106035034
+
+=== Tuomo Suntola
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5001030475 Tuomo Suntola 0000-0002-1548-834X           62            1816 display              False snapshot                                                             
+    2 A5085307286 Tuomo Suntola                None            2               0 display              False snapshot                                                             
+    3 A5094637028     T Suntola                None            1               0 display              False snapshot Lemuel Shattuck Hospital (US); Division of Materials Researc
+query 'Tuomo Suntola': picked A5001030475 Tuomo Suntola [most cited (1,816 vs 0 citations)]
+
+=== Markku Leskelä
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5052591354   Markku Leskelä 0000-0001-5830-2800         1195           38795 display               True snapshot University of Helsinki (FI); Helsinki Institute of Physics (
+    2 A5022082181       M. Leskelä                None            3               9 display               True snapshot                                  University of Helsinki (FI)
+    3 A5004968333       M. Leskelä                None            2               0 display               True snapshot                                  University of Helsinki (FI)
+    4 A5051732376   Markku Leskelä                None            4               5 display              False snapshot                                                             
+    5 A5049642282       M. Leskela                None            1               1 display              False snapshot                       Michigan Technological University (US)
+    6 A5102181601   Markku Leskelä                None            3               0 display              False snapshot                                                             
+    7 A5014230735       M. LESKELÄ                None            1               0 display              False snapshot                                                             
+    8 A5066326779       M. Leskelä                None            1               0 display              False snapshot                                                             
+    9 A5067017641      M V Leskelä                None            1               0 display              False snapshot                                      University of Oulu (FI)
+   10 A5112046638   Maarit Leskelä                None           13             508   alias              False snapshot                                      University of Oulu (FI)
+   11 A5035396846 Matti V. Leskelä                None           19              88   alias              False snapshot                                      University of Oulu (FI)
+query 'Markku Leskelä': picked A5052591354 Markku Leskelä [most cited (38,795 vs 9 citations)]
+
+=== Mikko Ritala
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5081018621 Mikko Ritala 0000-0002-6210-2980          733           30461 display               True snapshot University of Helsinki (FI); Helsinki Institute of Physics (
+    2 A5110396567 Mikko Ritala                None            1               0 display              False snapshot                                                             
+    3 A5057464920     M Ritala                None            1               0 display              False snapshot                                                             
+query 'Mikko Ritala': picked A5081018621 Mikko Ritala [only candidate at the given affiliation]
+
+=== Chi-Huey Wong
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id            display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5056753239           Chi‐Huey Wong 0000-0002-9961-7865         1114           58781 display               True snapshot Academia Sinica (TW); Scripps Research Institute (US); Genom
+    2 A5101786683           Chi‐Huey Wong 0000-0001-8225-6808           71            3121 display               True snapshot Genomics Research Center, Academia Sinica (TW); Scripps Rese
+    3 A5111743378           Chi-Huey Wong                None            9             589 display               True snapshot Institute of Biological Chemistry, Academia Sinica (TW); Scr
+    4 A5111733263                 C. Wong                None           13             403 display               True snapshot Scripps Clinic (US); Scripps Research Institute (US); Univer
+    5 A5101056317                C-H Wong                None            1               3 display               True snapshot                              Scripps Research Institute (US)
+    6 A5110229594           CHI‐HUEY WONG                None            1               1 display               True snapshot                                          Scripps Clinic (US)
+    7 A5105891839 Prof. Dr. Chi-Huey Wong                None            1               0 display               True snapshot                              Scripps Research Institute (US)
+    8 A5032688567           Chi Huey Wong 0000-0003-2108-1615          141            7464 display              False snapshot The Alfred Hospital (AU); NIHR Leeds Musculoskeletal Biomedi
+    9 A5068046939                 C. Wong 0000-0001-6867-1968          174            5879 display              False snapshot Optica (US); Lawrence Livermore National Laboratory (US); Un
+   10 A5056543738               C.H. Wong 0000-0003-1790-5909          139            4932 display              False snapshot                                                             
+   11 A5011868510           Chi-Hung Wong                None           12            2392 display              False snapshot                                                             
+   12 A5101642048           Chi Hang Wong 0000-0003-4157-6287          111            2235 display              False snapshot University of Hong Kong (HK); Chinese University of Hong Kon
+   13 A5076704581           Chi Heem Wong                None           41            1958 display              False snapshot                                                             
+   14 A5037523120           Chi‐Huey Wong                None           10            1331 display              False snapshot                                                             
+   15 A5103680207           Chi Huey Wong                None           12            1275 display              False snapshot                                                             
+query 'Chi-Huey Wong': picked A5056753239 Chi‐Huey Wong [most cited (58,781 vs 3,121 citations)]; same-name fragments A5111743378
+
+=== John R. Yates III
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id      display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5029671362     John R. Yates 0000-0001-5267-1672         1526          146761 display               True snapshot Scripps Research Institute (US); Scripps (United States) (US
+    2 A5083768832     John R. Yates 0000-0001-8117-4536           26            2431 display               True snapshot                              Scripps Research Institute (US)
+    3 A5101600560     John R. Yates 0000-0002-8215-7276           11            1887 display               True snapshot                              Scripps Research Institute (US)
+    4 A5032186998        J.R. Yates                None            1             135 display               True snapshot                              Scripps Research Institute (US)
+    5 A5064451284      John R Yates                None            2              52 display               True snapshot                              Scripps Research Institute (US)
+    6 A5111759679    John R R Yates                None            1              36 display               True snapshot                              Scripps Research Institute (US)
+    7 A5098667606     John R. Yates                None            3               5 display               True snapshot                              Scripps Research Institute (US)
+    8 A5121002717 John R. Yates III                None            1               0 display               True snapshot                              Scripps Research Institute (US)
+    9 A5121212081      John R Yates                None            1               0 display               True snapshot Scripps Research Institute (US); Scripps Health (US); Scripp
+   10 A5032064754     Jonh R. Yates                None            6              29   alias               True snapshot                              Scripps Research Institute (US)
+   11 A5103141302   John R.W. Yates 0000-0002-9339-7275          108            8908 display              False snapshot                                                             
+   12 A5061083189        J.R. Yates 0000-0002-5888-8132          319            6651 display              False snapshot                                                             
+   13 A5103985736   John R.W. Yates                None           47            4736 display              False snapshot University Hospital Cologne (DE); Moorfields Eye Hospital (G
+   14 A5079423456          J. Yates 0000-0003-1954-8749          150            3178 display              False snapshot                               University College London (GB)
+   15 A5110016293        John Yates                None           30            2735 display              False snapshot                                                             
+query 'John R. Yates III': picked A5029671362 John R. Yates [most cited (146,761 vs 2,431 citations)]; same-name fragments A5064451284, A5098667606
+
+=== Matthias Mann
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5090940750 Matthias Mann 0000-0003-1292-4799         1416          294913 display               True snapshot                    Max Planck Institute of Biochemistry (DE)
+    2 A5112018055 Matthias Mann                None           54            3811 display               True snapshot                    Max Planck Institute of Biochemistry (DE)
+    3 A5108985618 Matthias Mann                None           16             814 display               True snapshot Max Planck Institute for the History of Science (DE); Max Pl
+    4 A5006865320 Matthias Mann                None            6              51 display               True snapshot Novo Nordisk Foundation (DK); University of Copenhagen (DK);
+    5 A5122944335 Matthias Mann                None            1               0 display               True snapshot                    Max Planck Institute of Biochemistry (DE)
+    6 A5122341388 Matthias Mann                None            1               0 display               True snapshot                    Max Planck Institute of Biochemistry (DE)
+    7 A5121782215 Matthias Mann                None            1               0 display               True snapshot                    Max Planck Institute of Biochemistry (DE)
+    8 A5020406740       M. Mann                None            4               0 display               True snapshot                    Max Planck Institute of Biochemistry (DE)
+    9 A5113973023   Martin Mann                None           53            2039   alias               True snapshot                    Max Planck Institute of Biochemistry (DE)
+   10 A5111413714     M.D. Mann                None          129            1525 display              False snapshot                                   University of Warwick (GB)
+   11 A5029982793  M. Gell-Mann                None            2            1507 display              False snapshot                      California Institute of Technology (US)
+   12 A5103074661    M. D. Mann                None           66             996 display              False snapshot                                  City Clinical Hospital (RU)
+   13 A5035971193       M. Mann                None            9             822 display              False snapshot                                      Cardiff University (GB)
+   14 A5109953743    M. D. Mann                None           30             478 display              False snapshot                                                             
+   15 A5109871452       M. Mann                None           27             401 display              False snapshot                                 Sana Klinikum Offenbach (DE)
+query 'Matthias Mann': picked A5090940750 Matthias Mann [most cited (294,913 vs 3,811 citations)]; same-name fragments A5112018055, A5108985618, A5006865320
+
+=== Ruedi Aebersold
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5053361384    Ruedi Aebersold 0000-0002-9576-3267         1179          170745 display               True snapshot ETH Zurich (CH); University Hospital of Zurich (CH); Univers
+    2 A5057298655    Ruedi Aebersold 0000-0002-9576-3267           45            1142 display               True snapshot                                              ETH Zurich (CH)
+    3 A5080487989    Ruedi Aebersold                None           26             312 display               True snapshot                                              ETH Zurich (CH)
+    4 A5112761128    Ruedi Aebersold                None            2               0 display               True snapshot                                              ETH Zurich (CH)
+    5 A5111942511   Rudolf Aebersold                None            2              74   alias               True snapshot                                              ETH Zurich (CH)
+    6 A5107252109 Ruedi H. Aebersold                None           22            3215 display              False snapshot                                                             
+    7 A5109116226    Ruedi Aebersold                None            9            2280 display              False snapshot Swiss Finance Institute (CH); Institute for Systems Biology 
+    8 A5109074421        R Aebersold                None           30            1543 display              False snapshot                                                             
+    9 A5097124166        R Aebersold                None            1              14 display              False snapshot                                   New York Blood Center (US)
+   10 A5027096803    Ruedi Aebersold                None            3              13 display              False snapshot                                                             
+   11 A5048073973       R. Aebersold                None            1               1 display              False snapshot                                                             
+   12 A5011905816    Ruedi Aebersold                None            2               0 display              False snapshot                                                             
+   13 A5012118211    Ruedi Aebersold                None            1               0 display              False snapshot                                                             
+   14 A5038105782    Ruedi AEBERSOLD                None            1               0 display              False snapshot                                                             
+   15 A5050910295       R. Aebersold                None            3               0 display              False snapshot                                                             
+query 'Ruedi Aebersold': picked A5053361384 Ruedi Aebersold [most cited (170,745 vs 1,142 citations)]; same-name fragments A5057298655, A5080487989, A5112761128
+
+=== Anthony J. Arduengo III
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id        display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                         institutions
+    1 A5036757967 Anthony J. Arduengo 0000-0003-4922-2694          312           16044 display              False snapshot Georgia Institute of Technology (US)
+    2 A5097517853          A Arduengo                None            1              45 display              False snapshot                                     
+    3 A5058307760      A. J. ARDUENGO                None            1               0 display              False snapshot                                     
+    4 A5065824719 A. J. III. ARDUENGO                None            1               0 display              False snapshot                                     
+query 'Anthony J. Arduengo III': picked A5036757967 Anthony J. Arduengo [most cited (16,044 vs 45 citations)]
+
+=== Guy Bertrand
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id         display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5019278344         Guy Bertrand 0000-0003-2623-2363          901           40479 display               True snapshot                     University of California, San Diego (US)
+    2 A5112448174         Guy Bertrand                None          199            4770 display              False snapshot                                                             
+    3 A5047467182          G. Bertrand 0000-0002-4718-4279          126            3908 display              False snapshot Centre Interuniversitaire de Recherche et d’Ingénierie des M
+    4 A5076518394          G. Bertrand 0000-0003-2061-9241          255            1789 display              False snapshot CEA LIST (FR); Commissariat à l'Énergie Atomique et aux Éner
+    5 A5009826999          G. Bertrand                None          137            1182 display              False snapshot                                   Institut de l’Elevage (FR)
+    6 A5015414026 G. Coremans-Bertrand                None           18             716 display              False snapshot             Interuniversity Institute for High Energies (BE)
+    7 A5104306064         Guy Bertrand                None           51             215 display              False snapshot                                                             
+    8 A5041024817           G Bertrand                None           10             122 display              False snapshot                                                             
+    9 A5105935625         Guy Bertrand                None            1             102 display              False snapshot Laboratoire Hétérochimie Fondamentale et Appliquée (FR); Uni
+   10 A5041731127          G. Bertrand                None            2              94 display              False snapshot                                                             
+   11 A5111871243         Guy Bertrand                None            2              89 display              False snapshot Laboratoire Hétérochimie Fondamentale et Appliquée (FR); Uni
+   12 A5109448061    G. H. V. Bertrand                None            2              57 display              False snapshot CEA LIST (FR); Commissariat à l'Énergie Atomique et aux Éner
+   13 A5113685160      G�rard Bertrand                None            2              57 display              False snapshot                                   Institut de l’Elevage (FR)
+   14 A5014370126           G Bertrand                None           31              56 display              False snapshot   Hôpital Edouard Herriot (FR); Hospices Civils de Lyon (FR)
+   15 A5078230161           G Bertrand                None            7              39 display              False snapshot                                                             
+query 'Guy Bertrand': picked A5019278344 Guy Bertrand [only candidate at the given affiliation]
+
+=== Wolfgang A. Herrmann
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id                   display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5114006185 Prof. Dr. Wolfgang A. Herrmann                None           18              26 display               True snapshot                          Technical University of Munich (DE)
+    2 A5086772256                 W. A. Herrmann                None            1               0 display               True snapshot                          Technical University of Munich (DE)
+    3 A5114015620           Wolfgang A. Herrmann                None         1476           60282 display              False snapshot                                                             
+    4 A5086257439              Wolfgang Herrmann                None          292           10307 display              False snapshot    Medical University of Graz (AT); Saarland University (DE)
+    5 A5109797045                    W. Herrmann                None          120            2206 display              False snapshot                                 TÜV Rheinland (Germany) (DE)
+    6 A5038257178                    W. Herrmann                None          135             958 display              False snapshot                                                             
+    7 A5110861100                  W.A. Herrmann                None          139             727 display              False snapshot                                                             
+    8 A5048224993              Wolfgang Herrmann 0000-0001-5806-446X          106             677 display              False snapshot Netherlands Institute for Radio Astronomy (NL); Astrobiology
+    9 A5112063232                  W.A. Herrmann                None          117             550 display              False snapshot                                                             
+   10 A5064557744                 W A O Herrmann                None           22             332 display              False snapshot                                                             
+   11 A5015689654                 W. A. Herrmann                None           27             283 display              False snapshot                                                             
+   12 A5114252343                     W Herrmann                None           40             144 display              False snapshot                                                             
+   13 A5071859831                    W. Herrmann                None            1             115 display              False snapshot                                                             
+   14 A5105368563                    W. Herrmann                None           38             100 display              False snapshot                        CK-CARE (CH); University of Bonn (DE)
+   15 A5024845245                    W. Herrmann                None           27              79 display              False snapshot                              Agaplesion Markus Hospital (DE)
+query 'Wolfgang A. Herrmann': picked A5114006185 Prof. Dr. Wolfgang A. Herrmann [most cited (26 vs 0 citations)]
+
+=== Bonnie L. Bassler
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id      display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5034726213 Bonnie L. Bassler 0000-0002-0043-746X          349           53786 display               True snapshot Howard Hughes Medical Institute (US); Princeton University (
+    2 A5020505147         B Bassler                None            1               9 display              False snapshot                                                             
+    3 A5010687123      B.L. Bassler                None            3               0 display              False snapshot                                                             
+    4 A5111882285     Boris Bassler                None           12             166   alias              False snapshot Klinikum Ludwigshafen (DE); Johannes Gutenberg University Ma
+query 'Bonnie L. Bassler': picked A5034726213 Bonnie L. Bassler [only candidate at the given affiliation]
+
+=== E. Peter Greenberg
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id        display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5084243657  E. Peter Greenberg 0000-0001-9474-8041          272           60865 display               True snapshot Johns Hopkins University (US); University of Washington (US)
+    2 A5053581826    Edward Greenberg                None          148            7118 display              False snapshot                                  AbbVie (United States) (US)
+    3 A5086117959      Eran Greenberg 0000-0002-1630-0628          279            4862 display              False snapshot Nuclear Research Institute Rez (Czechia) (CZ); University of
+    4 A5108103104     Erica Greenberg                None            3            3353 display              False snapshot Harvard University (US); Massachusetts General Hospital (US)
+    5 A5012739841     Ellen Greenberg                None           32            2559 display              False snapshot                                                             
+    6 A5020931996    Elaine Greenberg                None           49            1898 display              False snapshot                                                             
+    7 A5090911611 Elizabeth Greenberg                None           20            1788 display              False snapshot                                                             
+    8 A5072152806     Erica Greenberg                None           67            1590 display              False snapshot Massachusetts General Hospital (US); Pearson (United States)
+    9 A5008016119    Edward Greenberg                None           37            1074 display              False snapshot                                  Inova Fairfax Hospital (US)
+   10 A5103585640    Eugene Greenberg                None           27            1058 display              False snapshot                               Carle Foundation Hospital (US)
+   11 A5028937471        E. Greenberg                None           36             970 display              False snapshot                                                             
+   12 A5024979050        E. Greenberg                None           21             958 display              False snapshot Institute of Chemistry of High-Purity Substances them. G.G.D
+   13 A5070111228      Eyal Greenberg                None           25             940 display              False snapshot                                     American University (US)
+   14 A5020010640     Ellen Greenberg                None           11             774 display              False snapshot                 Sofia University "St. Kliment Ohridski" (BG)
+   15 A5020134340    Elliot Greenberg 0000-0003-2167-1535           60             597 display              False snapshot University of Pennsylvania (US); Children's Hospital of Phil
+query 'E. Peter Greenberg': picked A5084243657 E. Peter Greenberg [only candidate at the given affiliation]
+
+=== Akira Fujishima
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5110769784 Akira Fujishima  None         1246          121965 display              False snapshot Osaka University (JP); University of Shanghai for Science an
+    2 A5091220594     A FUJISHIMA  None            2            6387 display              False snapshot              Kanagawa Academy of Science and Technology (JP)
+    3 A5050286251    A. Fujishima  None           49             969 display              False snapshot                                                             
+    4 A5037201145     A Fujishima  None            4              36 display              False snapshot                                         Gifu University (JP)
+    5 A5028177821    A. Fujishima  None            1               6 display              False snapshot                                 The University of Tokyo (JP)
+    6 A5056472382    A. Fujishima  None           13               3 display              False snapshot                                                             
+    7 A5006693561     A FUJISHIMA  None            3               2 display              False snapshot                                                             
+    8 A5086853353    A. Fujishima  None            1               1 display              False snapshot                                                             
+    9 A5025812810     A FUJISHIMA  None            1               1 display              False snapshot                                                             
+   10 A5110099083 Akira Fujishima  None            2               0 display              False snapshot University of Shanghai for Science and Technology (CN); Toky
+   11 A5009407632     A Fujishima  None            1               0 display              False snapshot                                                             
+   12 A5017271631     A FUJISHIMA  None            1               0 display              False snapshot                                                             
+   13 A5056013634    A. Fujishima  None            1               0 display              False snapshot                                                             
+   14 A5058411826     A Fujishima  None            1               0 display              False snapshot                                                             
+   15 A5011034484     A Fujishima  None            1               0 display              False snapshot                                                             
+query 'Akira Fujishima': picked A5110769784 Akira Fujishima [most cited (121,965 vs 6,387 citations)]; same-name fragments A5110099083
+
+=== Kazunari Domen
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id   display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5017910924 Kazunari Domen 0000-0001-7995-4832         1329          125488 display               True snapshot Ōtani University (JP); Kyung Hee University (KR); The Univer
+    2 A5050990513 Kazunari DOMEN                None            2               0 display               True snapshot        Shinshu University (JP); The University of Tokyo (JP)
+    3 A5030293356       K. Domen                None           58            1340 display              False snapshot                                                             
+    4 A5078808986       K. Domen                None           10             423 display              False snapshot                           Tokyo Institute of Technology (JP)
+    5 A5029670827 K.F.E.M. Domen                None           14              88 display              False snapshot                      Eindhoven University of Technology (NL)
+    6 A5014522917       K. Domen                None            3              15 display              False snapshot                                  IBM Research - Almaden (US)
+    7 A5077654074       K. Domen                None            1              11 display              False snapshot                           Tokyo Institute of Technology (JP)
+    8 A5084959845 Kazunari DOMEN                None            1               0 display              False snapshot                                                             
+    9 A5121230578 Kazunari Domen                None            1               0 display              False snapshot                                                             
+   10 A5083383567       K. Domen                None            1               0 display              False snapshot                           Tokyo Institute of Technology (JP)
+   11 A5010203765       K. Domen                None            2               0 display              False snapshot                                                             
+   12 A5013065982       K. Domen                None            1               0 display              False snapshot                                                             
+   13 A5049875789        K DOMEN                None            1               0 display              False snapshot                                                             
+   14 A5005151776 Kazuhisa Domen 0000-0001-7712-7606          231            4542   alias              False snapshot Hyogo Medical University (JP); Hyogo University (JP); Kobe C
+   15 A5012200331 Kazuhisa Domen                None           54             206   alias              False snapshot                                                             
+query 'Kazunari Domen': picked A5017910924 Kazunari Domen [most cited (125,488 vs 0 citations)]; same-name fragments A5050990513
+
+=== Sharon Hammes-Schiffer
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id            display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5041302371  Sharon Hammes‐Schiffer 0000-0002-3782-6995          680           28703 display               True snapshot              Princeton University (US); Yale University (US)
+    2 A5104353141 Sharon Hammes- Schiffer                None            1              31 display              False snapshot                 University of Illinois Urbana-Champaign (US)
+    3 A5051673181             S. Schiffer                None            4              12 display              False snapshot                                    University of Zurich (CH)
+    4 A5080103476             S. Schiffer                None            1               4 display              False snapshot CUNY School of Law (US); City University of New York (US); T
+    5 A5020953891             S. Schiffer                None            1               3 display              False snapshot                                                             
+    6 A5003410166             S. Schiffer                None            2               2 display              False snapshot                                                             
+    7 A5118710191  Sharon Hammes-Schiffer                None            1               1 display              False snapshot                                                             
+    8 A5107908757  Sharon Hammes-Schiffer                None            1               0 display              False snapshot                                                             
+    9 A5008077585              S Schiffer                None            1               0 display              False snapshot                                                             
+   10 A5104739196             S. Schiffer                None            1               0 display              False snapshot                                                             
+   11 A5047050359             S. Schiffer                None            2               0 display              False snapshot                                                             
+   12 A5059682083        Stephen Schiffer                None          122            4399   alias              False snapshot                       John Wiley & Sons (United States) (US)
+   13 A5079219160         Stefan Schiffer 0000-0003-1343-7140          100            1026   alias              False snapshot                  RWTH Aachen University (DE); FH Aachen (DE)
+   14 A5113600585        Steffen Schiffer                None           10             816   alias              False snapshot   Howard Hughes Medical Institute (US); Yale University (US)
+   15 A5026703454          Sonja Schiffer                None           16             576   alias              False snapshot                                         Bayer (Germany) (DE)
+query 'Sharon Hammes-Schiffer': picked A5041302371 Sharon Hammes‐Schiffer [only candidate at the given affiliation]
+
+=== Thomas J. Meyer
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5089516413  Thomas J. Meyer 0000-0002-7006-2608         1375           78573 display               True snapshot Lockheed Martin (United States) (US); University of North Ca
+    2 A5058852069     Thomas Meyer 0000-0001-7228-5365          207           11299 display               True snapshot University of North Carolina at Chapel Hill (US); University
+    3 A5061548787  Thomas J. Meyer 0000-0002-7185-5597          216            7461 display               True snapshot University of North Carolina at Chapel Hill (US); Frederick 
+    4 A5040804314       T.J. Meyer                None            1               0 display               True snapshot             University of North Carolina at Chapel Hill (US)
+    5 A5085047479       T.J. Meyer                None            1               0 display               True snapshot             University of North Carolina at Chapel Hill (US)
+    6 A5022012412 Timothy E. Meyer 0000-0002-1223-9030           69            4824   alias               True snapshot                                North Oaks Health System (US)
+    7 A5113849075     Ted A. Meyer                None          190            4367   alias               True snapshot                    Medical University of South Carolina (US)
+    8 A5006031821     Thomas Meyer 0000-0003-1999-5450          201           11109 display              False snapshot          Main Line Health (US); Praxis für Humangenetik (DE)
+    9 A5057195222     Thomas Meyer 0000-0002-2736-7350          245            9569 display              False snapshot Ambulatory Rehabilitation Center Berlin Adlershof (DE); Univ
+   10 A5025585953     Thomas Meyer 0000-0003-3509-1400          196            5022 display              False snapshot Universitätsmedizin Göttingen (DE); University of Göttingen 
+   11 A5066393440     Thomas Meyer 0000-0003-0839-7391          164            4924 display              False snapshot                                                             
+   12 A5046805274     Thomas Meyer 0000-0001-6711-3809          182            4721 display              False snapshot Universitäts-Kinderklinik Würzburg (DE); Klinikum Dortmund (
+   13 A5102011951     Thomas Meyer 0000-0003-2204-6969          444            2891 display              False snapshot Istituto di Scienza e Tecnologie dell'Informazione "Alessand
+   14 A5109547098         T. Meyer                None           59            2786 display              False snapshot                                      Cornell University (US)
+   15 A5107900770         T. Meyer                None           41            1740 display              False snapshot              European Organization for Nuclear Research (CH)
+query 'Thomas J. Meyer': picked A5089516413 Thomas J. Meyer [most cited (78,573 vs 11,299 citations)]
+
+=== Pierre Chambon
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id             display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5110092140           Pierre Chambon                None           10            1930 display               True snapshot Institut de génétique et de biologie moléculaire et cellulai
+    2 A5109101063               P. Chambon                None            2             817 display               True snapshot Institut de génétique et de biologie moléculaire et cellulai
+    3 A5110900733 Prof. Dr. Pierre Chambon                None            2               0 display               True snapshot Institut de génétique et de biologie moléculaire et cellulai
+    4 A5085761422           Pierre Chambon 0000-0002-7861-6046          841          142996 display              False snapshot              Centre Hospitalier Universitaire de Rennes (FR)
+    5 A5108096591           Pierre Chambon                None          137           21523 display              False snapshot                                     Stanford University (US)
+    6 A5078753587           Pierre Chambon 0000-0001-7394-3729          205           11210 display              False snapshot       Stanford University (US); University of Liverpool (GB)
+    7 A5113670667               P. Chambón                None           64            6869 display              False snapshot Institut de Chimie (FR); Centre National de la Recherche Sci
+    8 A5004731173               P. Chambon                None            3             249 display              False snapshot Philipps University of Marburg (DE); Inserm (FR); Centre Nat
+    9 A5048892641                P Chambon                None            1              30 display              False snapshot                                                             
+   10 A5079756294               P. Chambon                None            1              24 display              False snapshot                                                             
+   11 A5111557664            P.‐J. Chambon                None            1              14 display              False snapshot                                                             
+   12 A5070360609                P Chambon                None            1               7 display              False snapshot                                                             
+   13 A5052252543                P Chambon                None            1               5 display              False snapshot                                                             
+   14 A5003003756                P Chambon                None            1               5 display              False snapshot                                                  Inserm (FR)
+   15 A5102442133           Pierre Chambon                None            4               1 display              False snapshot                                       Académie de Paris (FR)
+NOT RESOLVED: ambiguous: the two most cited candidates have 1,930 and 817 citations. Choose with --pick N (the rank above), --affiliation, --orcid or --author-id.
+
+=== Ronald M. Evans
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5087519016 Ronald M. Evans 0000-0002-9986-5965          923          187485 display               True snapshot California Institute for Biomedical Research (US); Salk Inst
+    2 A5103188464        R. Evans 0000-0002-6255-3546          118            5127 display              False snapshot                             Washington State University (US)
+    3 A5086726856  R. M. L. Evans 0000-0003-4172-8455           78            2063 display              False snapshot                                     University of Leeds (GB)
+    4 A5082335672        R. Evans 0000-0002-0430-6491           98            1902 display              False snapshot                                                             
+    5 A5089060423     R. M. Evans                None           74            1842 display              False snapshot                                                             
+    6 A5080982993         R Evans 0000-0003-4549-8247          102            1207 display              False snapshot None (?); Timken (United States) (US); University of Queensl
+    7 A5103524248      R.M. Evans                None           18             805 display              False snapshot Swansea University (GB); Swansea Bay University Health Board
+    8 A5026331072     R. M. Evans                None           73             522 display              False snapshot                                                             
+    9 A5046049574        R. Evans                None            2             386 display              False snapshot                   University Of Bristol Dental Hospital (GB)
+   10 A5072335135         R Evans                None           35             335 display              False snapshot                                                             
+   11 A5111909195        R. Evans                None           26             306 display              False snapshot                                                             
+   12 A5086275928         R Evans                None            2             268 display              False snapshot                                                             
+   13 A5105938461        R. Evans                None           46             250 display              False snapshot                                                             
+   14 A5108585106        R. Evans                None            4             226 display              False snapshot                                 University of Minnesota (US)
+   15 A5091001634         R Evans                None            1             160 display              False snapshot                                                             
+query 'Ronald M. Evans': picked A5087519016 Ronald M. Evans [only candidate at the given affiliation]

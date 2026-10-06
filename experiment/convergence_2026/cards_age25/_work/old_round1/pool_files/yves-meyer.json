@@ -1,0 +1,430 @@
+{
+ "person": "Yves Meyer",
+ "birth_year": 1939,
+ "cutoff_year": 1964,
+ "options": [
+  "for the development of wavelet theory and multiresolution signal analysis — Yves Meyer, Stéphane Mallat, Ingrid Daubechies"
+ ],
+ "works": [
+  {
+   "paper_id": "W2087377426",
+   "year": 1986,
+   "cited_by_count": 1294,
+   "C_5_pctl": 0.99,
+   "title": "Painless nonorthogonal expansions"
+  },
+  {
+   "paper_id": "W3132971798",
+   "year": 1990,
+   "cited_by_count": 735,
+   "C_5_pctl": 1.0,
+   "title": "Ondelettes et operateurs I"
+  },
+  {
+   "paper_id": "W1989502641",
+   "year": 1982,
+   "cited_by_count": 551,
+   "C_5_pctl": 0.99,
+   "title": "L'integrale de Cauchy Definit un Operateur Borne sur L 2 Pour Les Courbes Lipschitziennes"
+  },
+  {
+   "paper_id": "W2055159103",
+   "year": 1985,
+   "cited_by_count": 508,
+   "C_5_pctl": 0.98,
+   "title": "Some new function spaces and their applications to Harmonic analysis"
+  },
+  {
+   "paper_id": "W2078641643",
+   "year": 1975,
+   "cited_by_count": 501,
+   "C_5_pctl": 0.72,
+   "title": "On commutators of singular integrals and bilinear singular integrals"
+  },
+  {
+   "paper_id": "W2013987111",
+   "year": 1986,
+   "cited_by_count": 344,
+   "C_5_pctl": 1.0,
+   "title": "Ondelettes et bases hilbertiennes"
+  },
+  {
+   "paper_id": "W2003880880",
+   "year": 1996,
+   "cited_by_count": 265,
+   "C_5_pctl": 0.99,
+   "title": "Wavelet methods for pointwise regularity and local oscillations of functions"
+  },
+  {
+   "paper_id": "W2036891674",
+   "year": 1978,
+   "cited_by_count": 259,
+   "C_5_pctl": 0.59,
+   "title": "Commutateurs d'intégrales singulières et opérateurs multilinéaires"
+  },
+  {
+   "paper_id": "W47858079",
+   "year": 1991,
+   "cited_by_count": 205,
+   "C_5_pctl": 0.95,
+   "title": "Lp regularity of velocity averages"
+  },
+  {
+   "paper_id": "W86414441",
+   "year": 1993,
+   "cited_by_count": 187,
+   "C_5_pctl": 0.99,
+   "title": null
+  },
+  {
+   "paper_id": "W2095209441",
+   "year": 1999,
+   "cited_by_count": 176,
+   "C_5_pctl": 0.98,
+   "title": "Wavelets, generalized white noise and fractional integration: The synthesis of fractional Brownian motion"
+  },
+  {
+   "paper_id": "W2036144352",
+   "year": 1991,
+   "cited_by_count": 172,
+   "C_5_pctl": 1.0,
+   "title": "Ondelettes sur l'intervalle"
+  },
+  {
+   "paper_id": "W4210665207",
+   "year": 2001,
+   "cited_by_count": 169,
+   "C_5_pctl": 0.64,
+   "title": "Noiselets"
+  },
+  {
+   "paper_id": "W3192223733",
+   "year": 2001,
+   "cited_by_count": 121,
+   "C_5_pctl": 0.97,
+   "title": "Wavelets: Tools for Science & Technology"
+  },
+  {
+   "paper_id": "W2335760488",
+   "year": 1996,
+   "cited_by_count": 116,
+   "C_5_pctl": 0.93,
+   "title": "Wavelets, Paraproducts, and Navier-Stokes Equations"
+  },
+  {
+   "paper_id": "W2029512392",
+   "year": 1997,
+   "cited_by_count": 94,
+   "C_5_pctl": 0.97,
+   "title": "Construction of Continuous Functions with Prescribed Local Regularity"
+  },
+  {
+   "paper_id": "W1969690731",
+   "year": 1992,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.97,
+   "title": "Improved predictability of two-dimensional turbulent flows using wavelet packet compression"
+  },
+  {
+   "paper_id": "W2008076677",
+   "year": 2007,
+   "cited_by_count": 76,
+   "C_5_pctl": 0.96,
+   "title": "Image decompositions using bounded variation and generalized homogeneous Besov spaces"
+  },
+  {
+   "paper_id": "W2623423078",
+   "year": 1995,
+   "cited_by_count": 57,
+   "C_5_pctl": 0.88,
+   "title": "Littlewood–Paley decomposition and Navier–Stokes equations"
+  },
+  {
+   "paper_id": "W1983273450",
+   "year": 1991,
+   "cited_by_count": 53,
+   "C_5_pctl": 0.99,
+   "title": "Fonctions qui opèrent sur les espaces de Sobolev"
+  },
+  {
+   "paper_id": "W2022264351",
+   "year": 1983,
+   "cited_by_count": 52,
+   "C_5_pctl": 0.91,
+   "title": "La solution des conjectures de Calderón"
+  },
+  {
+   "paper_id": "W2129987302",
+   "year": 2006,
+   "cited_by_count": 50,
+   "C_5_pctl": 0.84,
+   "title": "Nonlinear Dynamics of Heart Rate and Oxygen Uptake in Exhaustive 10,000 m Runs: Influence of Constant vs. Freely Paced"
+  },
+  {
+   "paper_id": "W2319358166",
+   "year": 1983,
+   "cited_by_count": 48,
+   "C_5_pctl": 0.93,
+   "title": "Domaine de la racine carrée de certains opérateurs différentiels accrétifs"
+  },
+  {
+   "paper_id": "W1997299449",
+   "year": 2010,
+   "cited_by_count": 47,
+   "C_5_pctl": 0.9,
+   "title": "Simple quasicrystals are sets of stable sampling"
+  },
+  {
+   "paper_id": "W2132632914",
+   "year": 2010,
+   "cited_by_count": 46,
+   "C_5_pctl": 0.95,
+   "title": "Properties of $BV-G$ Structures $+$ Textures Decomposition Models. Application to Road Detection in Satellite Images"
+  },
+  {
+   "paper_id": "W2060795846",
+   "year": 2009,
+   "cited_by_count": 43,
+   "C_5_pctl": 0.96,
+   "title": "Detection of changes in the fractal scaling of heart rate and speed in a marathon race"
+  },
+  {
+   "paper_id": "W2006989472",
+   "year": 2002,
+   "cited_by_count": 37,
+   "C_5_pctl": 0.9,
+   "title": "On the Instantaneous Spreading for the Navier–Stokes System in the Whole Space"
+  },
+  {
+   "paper_id": "W2061836204",
+   "year": 1997,
+   "cited_by_count": 36,
+   "C_5_pctl": 0.86,
+   "title": "Wavelet Analysis and Chirps"
+  },
+  {
+   "paper_id": "W2020809640",
+   "year": 2000,
+   "cited_by_count": 33,
+   "C_5_pctl": 0.92,
+   "title": "On the Pointwise Regularity of Functions in Critical Besov Spaces"
+  },
+  {
+   "paper_id": "W2086760991",
+   "year": 2009,
+   "cited_by_count": 31,
+   "C_5_pctl": 0.89,
+   "title": "A variant of compressed sensing"
+  },
+  {
+   "paper_id": "W1558095700",
+   "year": 1968,
+   "cited_by_count": 30,
+   "C_5_pctl": 0.97,
+   "title": "Spectres des mesures et mesures absolument continues"
+  },
+  {
+   "paper_id": "W2001834269",
+   "year": 2008,
+   "cited_by_count": 28,
+   "C_5_pctl": 0.8,
+   "title": "Quasicrystals are sets of stable sampling"
+  },
+  {
+   "paper_id": "W2528641175",
+   "year": 1992,
+   "cited_by_count": 26,
+   "C_5_pctl": 0.31,
+   "title": "Adapted wave form analysis, wavelet-packets and applications"
+  },
+  {
+   "paper_id": "W2097818643",
+   "year": 2008,
+   "cited_by_count": 23,
+   "C_5_pctl": 0.91,
+   "title": "CONTINUITY OF CALDERÓN–ZYGMUND OPERATORS ON BESOV OR TRIEBEL–LIZORKIN SPACES"
+  },
+  {
+   "paper_id": "W2045009766",
+   "year": 2006,
+   "cited_by_count": 23,
+   "C_5_pctl": 0.78,
+   "title": "An improvement of Rudin–Osher–Fatemi model"
+  },
+  {
+   "paper_id": "W3006367009",
+   "year": 1994,
+   "cited_by_count": 19,
+   "C_5_pctl": 0.8,
+   "title": "Wavelets: Algorithms & Applications."
+  },
+  {
+   "paper_id": "W2597695649",
+   "year": 1968,
+   "cited_by_count": 18,
+   "C_5_pctl": 0.8,
+   "title": "Endomorphismes des idéaux fermés de $L^1,(G)$, classes de Hardy et séries de Fourier lacunaires"
+  },
+  {
+   "paper_id": "W2031229947",
+   "year": 1997,
+   "cited_by_count": 16,
+   "C_5_pctl": 0.91,
+   "title": "Modulated Malvar–Wilson Bases"
+  },
+  {
+   "paper_id": "W2762770855",
+   "year": 2017,
+   "cited_by_count": 16,
+   "C_5_pctl": 0.89,
+   "title": "Measures with locally finite support and spectrum"
+  },
+  {
+   "paper_id": "W2906858879",
+   "year": 1993,
+   "cited_by_count": 15,
+   "C_5_pctl": 0.86,
+   "title": "Book Review: An introduction to wavelets"
+  },
+  {
+   "paper_id": "W2241791413",
+   "year": 1997,
+   "cited_by_count": 15,
+   "C_5_pctl": 0.31,
+   "title": "Improved Sobolev embedding theorem"
+  },
+  {
+   "paper_id": "W1996400788",
+   "year": 1996,
+   "cited_by_count": 14,
+   "C_5_pctl": 0.69,
+   "title": "A Generalized Poisson Summation Formula"
+  },
+  {
+   "paper_id": "W2001871530",
+   "year": 2005,
+   "cited_by_count": 13,
+   "C_5_pctl": 0.87,
+   "title": "Multifractal analysis of heartbeat time series in human races"
+  },
+  {
+   "paper_id": "W170707984",
+   "year": 1996,
+   "cited_by_count": 13,
+   "C_5_pctl": 0.26,
+   "title": "A characterization of Hilbert spaces and the vector-valued Littlewood–Paley theorem"
+  },
+  {
+   "paper_id": "W785970235",
+   "year": 1990,
+   "cited_by_count": 9,
+   "C_5_pctl": 0.26,
+   "title": "Construction de bases orthonormées d'ondelettes"
+  },
+  {
+   "paper_id": "W2332332676",
+   "year": 1973,
+   "cited_by_count": 9,
+   "C_5_pctl": 0.26,
+   "title": "Adeles et Series Trigonometriques Speciales"
+  },
+  {
+   "paper_id": "W4212921512",
+   "year": 1995,
+   "cited_by_count": 8,
+   "C_5_pctl": 0.86,
+   "title": "Gaussian Bases"
+  },
+  {
+   "paper_id": "W1985941130",
+   "year": 2006,
+   "cited_by_count": 8,
+   "C_5_pctl": 0.59,
+   "title": "Le calcul fonctionnel sous-linéaire dans les espaces de Besov homogènes"
+  },
+  {
+   "paper_id": "W2584199234",
+   "year": 1988,
+   "cited_by_count": 8,
+   "C_5_pctl": 0.37,
+   "title": "Inégalités $L^2$ précisées pour la classe $S^0_{0,0}$"
+  },
+  {
+   "paper_id": "W175016942",
+   "year": 1997,
+   "cited_by_count": 8,
+   "C_5_pctl": 0.25,
+   "title": "Wavelets: Calderon-Zygmund operators and multilinear operators"
+  },
+  {
+   "paper_id": "W2050045217",
+   "year": 1993,
+   "cited_by_count": 7,
+   "C_5_pctl": 0.84,
+   "title": "Remarques sur la construction des ondelettes orthogonales"
+  },
+  {
+   "paper_id": "W2014142329",
+   "year": 2013,
+   "cited_by_count": 7,
+   "C_5_pctl": 0.75,
+   "title": "Quasicrystals, model sets, and automatic sequences"
+  },
+  {
+   "paper_id": "W2601371440",
+   "year": 1970,
+   "cited_by_count": 6,
+   "C_5_pctl": 0.78,
+   "title": "Nombres algébriques et analyse harmonique"
+  },
+  {
+   "paper_id": "W2808793529",
+   "year": 2018,
+   "cited_by_count": 6,
+   "C_5_pctl": 0.74,
+   "title": "BioChaperone Technology Enables the Development of Pramlintide-Prandial Insulin Combinations"
+  },
+  {
+   "paper_id": "W2315544828",
+   "year": 1976,
+   "cited_by_count": 6,
+   "C_5_pctl": 0.72,
+   "title": "Remarques sur un théorème de J. Delsarte"
+  },
+  {
+   "paper_id": "W889275372",
+   "year": 1966,
+   "cited_by_count": 6,
+   "C_5_pctl": 0.46,
+   "title": "Le spectre de Wiener"
+  },
+  {
+   "paper_id": "W2255727695",
+   "year": 1970,
+   "cited_by_count": 5,
+   "C_5_pctl": 0.73,
+   "title": "Les nombres de Pisot et la synthèse harmonique"
+  },
+  {
+   "paper_id": "W1008363592",
+   "year": 1970,
+   "cited_by_count": 4,
+   "C_5_pctl": 0.73,
+   "title": "Les nombres de Pisot et l'analyse harmonique"
+  },
+  {
+   "paper_id": "W2015155313",
+   "year": 2000,
+   "cited_by_count": 4,
+   "C_5_pctl": 0.66,
+   "title": "Le traitement du signal et l'analyse mathématique"
+  },
+  {
+   "paper_id": "W2315331718",
+   "year": 1968,
+   "cited_by_count": 3,
+   "C_5_pctl": 0.73,
+   "title": "Isomorphismes entre certaines algèbres de restrictions"
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "person": "William L. Jorgensen",
+ "profile": "A5053850265",
+ "ids": [
+  "A5053850265"
+ ],
+ "options": [
+  "for the development of computational methods for molecular design in solution — William L. Jorgensen"
+ ],
+ "birth_year": 1949,
+ "cutoff_year": 1974,
+ "works": [
+  {
+   "paper_id": "W1976499671",
+   "year": 1983,
+   "cited_by_count": 40769,
+   "title": "Comparison of simple potential functions for simulating liquid water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051381895",
+   "year": 1996,
+   "cited_by_count": 14815,
+   "title": "Development and Testing of the OPLS All-Atom Force Field on Conformational Energetics and Properties of Organic Liquids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041189078",
+   "year": 1988,
+   "cited_by_count": 4945,
+   "title": "The OPLS [optimized potentials for liquid simulations] potential functions for proteins, energy minimizations for crystals of cyclic peptides and crambin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054881399",
+   "year": 2001,
+   "cited_by_count": 4010,
+   "title": "Evaluation and Reparametrization of the OPLS-AA Force Field for Proteins via Comparison with Accurate Quantum Chemical Calculations on Peptides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2222589778",
+   "year": 2015,
+   "cited_by_count": 3203,
+   "title": "OPLS3: A Force Field Providing Broad Coverage of Drug-like Small Molecules and Proteins",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031107710",
+   "year": 1984,
+   "cited_by_count": 2302,
+   "title": "Optimized intermolecular potential functions for liquid hydrocarbons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087596773",
+   "year": 2000,
+   "cited_by_count": 2273,
+   "title": "A five-site model for liquid water and the reproduction of the density anomaly by rigid, nonpolarizable potential functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050273205",
+   "year": 2004,
+   "cited_by_count": 1585,
+   "title": "The Many Roles of Computation in Drug Discovery",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031596719",
+   "year": 2008,
+   "cited_by_count": 1539,
+   "title": "Performance of B3LYP Density Functional Methods for a Large Set of Organic Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2606142660",
+   "year": 2017,
+   "cited_by_count": 1533,
+   "title": "LigParGen web server: an automatic OPLS-AA parameter generator for organic ligands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043668344",
+   "year": 2005,
+   "cited_by_count": 1503,
+   "title": "Potential energy functions for atomic-level simulations of water and organic and biomolecular systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154670681",
+   "year": 2015,
+   "cited_by_count": 1322,
+   "title": "Accurate and Reliable Prediction of Relative Ligand Binding Potency in Prospective Drug Discovery by Way of a Modern Free-Energy Calculation Protocol and Force Field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W343086395",
+   "year": 1981,
+   "cited_by_count": 1272,
+   "title": "Quantum and statistical mechanical studies of liquids. 10. Transferable intermolecular potential functions for water, alcohols, and ethers. Application to liquid water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063187261",
+   "year": 1986,
+   "cited_by_count": 1147,
+   "title": "Optimized intermolecular potential functions for liquid alcohols",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047241264",
+   "year": 1990,
+   "cited_by_count": 1059,
+   "title": "Aromatic-aromatic interactions: free energy profiles for the benzene dimer in water, chloroform, and liquid benzene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2589236205",
+   "year": 2017,
+   "cited_by_count": 886,
+   "title": "1.14*CM1A-LBCC: Localized Bond-Charge Corrected CM1A Charges for Condensed-Phase Simulations",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036291177",
+   "year": 2002,
+   "cited_by_count": 851,
+   "title": "Prediction of drug solubility from structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2420659973",
+   "year": 2015,
+   "cited_by_count": 832,
+   "title": "Improved Peptide and Protein Torsional Energetics with the OPLS-AA Force Field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067200099",
+   "year": 1985,
+   "cited_by_count": 782,
+   "title": "Temperature and size dependence for Monte Carlo simulations of TIP4P water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092956715",
+   "year": 1985,
+   "cited_by_count": 730,
+   "title": "Monte Carlo simulation of differences in free energies of hydration",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012907468",
+   "year": 1997,
+   "cited_by_count": 659,
+   "title": "OPLS all-atom force field for carbohydrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025006523",
+   "year": 2009,
+   "cited_by_count": 645,
+   "title": "Efficient Drug Lead Discovery and Optimization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066787645",
+   "year": 1989,
+   "cited_by_count": 632,
+   "title": "Free energy calculations: a breakthrough for modeling organic chemistry in solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994055814",
+   "year": 1999,
+   "cited_by_count": 630,
+   "title": "OPLS All-Atom Model for Amines: Resolution of the Amine Hydration Problem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042430712",
+   "year": 1984,
+   "cited_by_count": 619,
+   "title": "Energy component analysis for dilute aqueous solutions of lithium(1+), sodium(1+), fluoride(1-), and chloride(1-) ions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048740371",
+   "year": 1991,
+   "cited_by_count": 593,
+   "title": "OPLS potential functions for nucleotide bases. Relative association constants of hydrogen-bonded base pairs in chloroform",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994344724",
+   "year": 2012,
+   "cited_by_count": 535,
+   "title": "Targeting the von Hippel–Lindau E3 Ubiquitin Ligase Using Small Molecules To Disrupt the VHL/HIF-1α Interaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007434121",
+   "year": 1990,
+   "cited_by_count": 517,
+   "title": "Importance of secondary interactions in triply hydrogen bonded complexes: guanine-cytosine vs uracil-2,6-diaminopyridine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058777775",
+   "year": 1990,
+   "cited_by_count": 515,
+   "title": "Relative partition coefficients for organic solutes from fluid simulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149397893",
+   "year": 2001,
+   "cited_by_count": 504,
+   "title": "Gas‐phase and liquid‐state properties of esters, nitriles, and nitro compounds with the OPLS‐AA force field",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082433219",
+   "year": 1982,
+   "cited_by_count": 499,
+   "title": "Revised TIPS for simulations of liquid water and aqueous solutions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071180837",
+   "year": 2000,
+   "cited_by_count": 494,
+   "title": "Prediction of Properties from Simulations: Free Energies of Solvation in Hexadecane, Octanol, and Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084482408",
+   "year": 1998,
+   "cited_by_count": 458,
+   "title": "Temperature dependence of TIP3P, SPC, and TIP4P water from NPT Monte Carlo simulations: Seeking temperatures of maximum density",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974128000",
+   "year": 2001,
+   "cited_by_count": 451,
+   "title": "Perfluoroalkanes: Conformational Analysis and Liquid-State Properties from ab Initio and Monte Carlo Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013754612",
+   "year": 1983,
+   "cited_by_count": 446,
+   "title": "Quantum and statistical mechanical studies of liquids. 25. Solvation and conformation of methanol in water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975588280",
+   "year": 2006,
+   "cited_by_count": 425,
+   "title": "Halide, Ammonium, and Alkali Metal Ion Parameters for Modeling Aqueous Solutions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990161102",
+   "year": 2005,
+   "cited_by_count": 424,
+   "title": "Molecular modeling of organic and biomolecular systems using BOSS and MCPRO",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977677529",
+   "year": 1998,
+   "cited_by_count": 409,
+   "title": "Ab Initio Study of Hydrogen-Bonded Complexes of Small Organic Molecules with Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015798177",
+   "year": 1985,
+   "cited_by_count": 385,
+   "title": "Theoretical examination of the SN2 reaction involving chloride ion and methyl chloride in the gas phase and aqueous solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2314067773",
+   "year": 2012,
+   "cited_by_count": 377,
+   "title": "Methyl Effects on Protein–Ligand Binding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991215536",
+   "year": 1985,
+   "cited_by_count": 363,
+   "title": "Optimized intermolecular potential functions for amides and peptides. Structure and properties of liquid amides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073887042",
+   "year": 2000,
+   "cited_by_count": 361,
+   "title": "Prediction of drug solubility from Monte Carlo simulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028841370",
+   "year": 2008,
+   "cited_by_count": 358,
+   "title": "Perspective on Free-Energy Perturbation Calculations for Chemical Equilibria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040118401",
+   "year": 2001,
+   "cited_by_count": 335,
+   "title": "Diffusion constant of the TIP5P model of liquid water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073714240",
+   "year": 1988,
+   "cited_by_count": 334,
+   "title": "Efficient computation of absolute free energies of binding by computer simulations. Application to the methane dimer in water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026590485",
+   "year": 1998,
+   "cited_by_count": 328,
+   "title": "Development of an all-atom force field for heterocycles. Properties of liquid pyridine and diazenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980705414",
+   "year": 1994,
+   "cited_by_count": 326,
+   "title": "Free Energies of Hydration and Pure Liquid Properties of Hydrocarbons from the OPLS All-Atom Model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054357498",
+   "year": 1998,
+   "cited_by_count": 321,
+   "title": "Development of an All-Atom Force Field for Heterocycles. Properties of Liquid Pyrrole, Furan, Diazoles, and Oxazoles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033869281",
+   "year": 1986,
+   "cited_by_count": 309,
+   "title": "Monte Carlo simulations of the hydration of ammonium and carboxylate ions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158384190",
+   "year": 2002,
+   "cited_by_count": 294,
+   "title": "PDDG/PM3 and PDDG/MNDO: Improved semiempirical methods",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024106850",
+   "year": 1996,
+   "cited_by_count": 278,
+   "title": "Performance of the AMBER94, MMFF94, and OPLS-AA Force Fields for Modeling Organic Liquids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003632864",
+   "year": 2012,
+   "cited_by_count": 275,
+   "title": "Small‐Molecule Inhibitors of the Interaction between the E3 Ligase VHL and HIF1α",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023146112",
+   "year": 1985,
+   "cited_by_count": 275,
+   "title": "Magnitude and origin of the .beta.-silicon effect on carbenium ions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053759741",
+   "year": 1995,
+   "cited_by_count": 266,
+   "title": "An Extended Linear Response Method for Determining Free Energies of Hydration",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063779505",
+   "year": 2012,
+   "cited_by_count": 264,
+   "title": "Treatment of Halogen Bonding in the OPLS-AA Force Field: Application to Potent Anti-HIV Agents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072441471",
+   "year": 1984,
+   "cited_by_count": 264,
+   "title": "SN2 reaction profiles in the gas phase and aqueous solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977173978",
+   "year": 2000,
+   "cited_by_count": 260,
+   "title": "Developing a Dynamic Pharmacophore Model for HIV-1 Integrase",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990627326",
+   "year": 2006,
+   "cited_by_count": 259,
+   "title": "Contribution of Conformer Focusing to the Uncertainty in Predicting Free Energies for Protein−Ligand Binding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998948060",
+   "year": 2009,
+   "cited_by_count": 257,
+   "title": "Energetics of Displacing Water Molecules from Protein Binding Sites: Consequences for Ligand Optimization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019893551",
+   "year": 2009,
+   "cited_by_count": 254,
+   "title": "Advances in Quantum and Molecular Mechanical (QM/MM) Simulations for Organic and Enzymatic Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3130155181",
+   "year": 2021,
+   "cited_by_count": 248,
+   "title": "Potent Noncovalent Inhibitors of the Main Protease of SARS-CoV‑2 from Molecular Sculpting of the Drug Perampanel Guided by Free Energy Perturbation Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000576273",
+   "year": 1988,
+   "cited_by_count": 237,
+   "title": "Monte Carlo simulations of liquid acetonitrile with a three-site model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050159278",
+   "year": 1991,
+   "cited_by_count": 227,
+   "title": "Rusting of the Lock and Key Model for Protein-Ligand Binding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023585673",
+   "year": 1985,
+   "cited_by_count": 222,
+   "title": "Optimized intermolecular potential functions for amides and peptides. Hydration of amides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089434536",
+   "year": 1983,
+   "cited_by_count": 222,
+   "title": "Theoretical studies of medium effects on conformational equilibria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060149917",
+   "year": 1991,
+   "cited_by_count": 220,
+   "title": "Solvent effects on a Diels-Alder reaction from computer simulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077042715",
+   "year": 1991,
+   "cited_by_count": 216,
+   "title": "Molecular dynamics simulations of the unfolding of an .alpha.-helical analog of ribonuclease A S-peptide in water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3094560806",
+   "year": 2020,
+   "cited_by_count": 216,
+   "title": "Identification of 14 Known Drugs as Inhibitors of the Main Protease of SARS-CoV-2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005586076",
+   "year": 1988,
+   "cited_by_count": 214,
+   "title": "Cis-trans energy difference for the peptide bond in the gas phase and in aqueous solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007924093",
+   "year": 2004,
+   "cited_by_count": 213,
+   "title": "Discovery of a Potent, Selective, and Efficacious Class of Reversible α-Ketoheterocycle Inhibitors of Fatty Acid Amide Hydrolase Effective as Analgesics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121828318",
+   "year": 2014,
+   "cited_by_count": 213,
+   "title": "The many faces of halogen bonding: a review of theoretical models and methods",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009943548",
+   "year": 2004,
+   "cited_by_count": 201,
+   "title": "Free Energies of Hydration from a Generalized Born Model and an All-Atom Force Field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951995354",
+   "year": 1993,
+   "cited_by_count": 193,
+   "title": "Ab initio study of Diels-Alder reactions of cyclopentadiene with ethylene, isoprene, cyclopentadiene, acrylonitrile, and methyl vinyl ketone",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965621253",
+   "year": 1989,
+   "cited_by_count": 192,
+   "title": "Free energy of TIP4P water and the free energies of hydration of CH4 and Cl- from statistical perturbation theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009860588",
+   "year": 1990,
+   "cited_by_count": 187,
+   "title": "Structure and basicity of silyl ethers: a crystallographic and ab initio inquiry into the nature of silicon-oxygen interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973659809",
+   "year": 1986,
+   "cited_by_count": 186,
+   "title": "Ab initio and Monte Carlo calculations for a nucleophilic addition reaction in the gas phase and in aqueous solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983381627",
+   "year": 1992,
+   "cited_by_count": 186,
+   "title": "Effects of hydration on the Claisen rearrangement of allyl vinyl ether from computer simulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005647584",
+   "year": 2009,
+   "cited_by_count": 184,
+   "title": "Prediction of the Water Content in Protein Binding Sites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2324603767",
+   "year": 2004,
+   "cited_by_count": 182,
+   "title": "Steric Retardation of S N 2 Reactions in the Gas Phase and Solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999549845",
+   "year": 2002,
+   "cited_by_count": 181,
+   "title": "QM/MM Simulations for Diels−Alder Reactions in Water: Contribution of Enhanced Hydrogen Bonding at the Transition State to the Solvent Effect",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "person": "Clifford P. Brangwynne",
+ "profile": "A5042735526",
+ "ids": [
+  "A5042735526"
+ ],
+ "options": [
+  "for the discovery of phase-separated biomolecular condensates in cellular organization — Clifford P. Brangwynne, Anthony A. Hyman, Michael K. Rosen"
+ ],
+ "birth_year": 1978,
+ "cutoff_year": 2003,
+ "works": [
+  {
+   "paper_id": "W2756821926",
+   "year": 2017,
+   "cited_by_count": 4114,
+   "title": "Liquid phase condensation in cell physiology and disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054352933",
+   "year": 2009,
+   "cited_by_count": 3498,
+   "title": "Germline P Granules Are Liquid Droplets That Localize by Controlled Dissolution/Condensation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2402791934",
+   "year": 2016,
+   "cited_by_count": 1972,
+   "title": "Coexisting Liquid Phases Underlie Nucleolar Subcompartments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1912455695",
+   "year": 2015,
+   "cited_by_count": 1583,
+   "title": "Polymer physics of intracellular phase transitions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111796925",
+   "year": 2015,
+   "cited_by_count": 1419,
+   "title": "The disordered P granule protein LAF-1 drives phase separation into droplets with tunable viscosity and dynamics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026226960",
+   "year": 2011,
+   "cited_by_count": 1370,
+   "title": "Active liquid-like behavior of nucleoli determines their size and shape in Xenopus laevis oocytes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3082518512",
+   "year": 2020,
+   "cited_by_count": 986,
+   "title": "The nucleolus as a multiphase liquid condensate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2566521622",
+   "year": 2016,
+   "cited_by_count": 964,
+   "title": "Spatiotemporal Control of Intracellular Phase Transitions Using Light-Activated optoDroplets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3017159371",
+   "year": 2020,
+   "cited_by_count": 814,
+   "title": "Competing Protein-RNA Interaction Networks Control Multiphase Intracellular Organization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102898524",
+   "year": 2015,
+   "cited_by_count": 744,
+   "title": "RNA Controls PolyQ Protein Phase Transitions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2903264039",
+   "year": 2018,
+   "cited_by_count": 699,
+   "title": "Liquid Nuclear Condensates Mechanically Sense and Restructure the Genome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149449254",
+   "year": 2006,
+   "cited_by_count": 692,
+   "title": "Microtubules can bear enhanced compressive loads in living cells because of lateral reinforcement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3023602638",
+   "year": 2020,
+   "cited_by_count": 689,
+   "title": "Composition-dependent thermodynamics of intracellular phase separation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2713865210",
+   "year": 2017,
+   "cited_by_count": 622,
+   "title": "Phase behaviour of disordered proteins underlying low density and high permeability of liquid organelles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963175326",
+   "year": 2015,
+   "cited_by_count": 527,
+   "title": "RNA transcription modulates phase transition-driven nuclear body assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2902026154",
+   "year": 2018,
+   "cited_by_count": 516,
+   "title": "Mapping Local and Global Liquid Phase Behavior in Living Cells Using Photo-Oligomerizable Seeds",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006322736",
+   "year": 2012,
+   "cited_by_count": 474,
+   "title": "Getting RNA and Protein in Phase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2784297130",
+   "year": 2018,
+   "cited_by_count": 454,
+   "title": "Physical principles of intracellular organization via active and passive phase transitions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162093412",
+   "year": 2006,
+   "cited_by_count": 453,
+   "title": "The cell as a material",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985681646",
+   "year": 2013,
+   "cited_by_count": 430,
+   "title": "Phase transitions and size scaling of membrane-less organelles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3085471727",
+   "year": 2020,
+   "cited_by_count": 355,
+   "title": "Nucleated transcriptional condensates amplify gene expression",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2970894940",
+   "year": 2019,
+   "cited_by_count": 344,
+   "title": "Quantifying Dynamics in Phase-Separated Condensates Using Fluorescence Recovery after Photobleaching",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2990233693",
+   "year": 2019,
+   "cited_by_count": 335,
+   "title": "Probing and engineering liquid-phase organelles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074536102",
+   "year": 2013,
+   "cited_by_count": 297,
+   "title": "A nuclear F-actin scaffold stabilizes ribonucleoprotein droplets against gravity in large cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W285093818",
+   "year": 2015,
+   "cited_by_count": 267,
+   "title": "Nuclear bodies: the emerging biophysics of nucleoplasmic phases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997342202",
+   "year": 2015,
+   "cited_by_count": 266,
+   "title": "Inverse Size Scaling of the Nucleolus by a Concentration-Dependent Phase Transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097624735",
+   "year": 2009,
+   "cited_by_count": 237,
+   "title": "Intracellular transport by active diffusion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164585663",
+   "year": 2008,
+   "cited_by_count": 232,
+   "title": "Cytoplasmic diffusion: molecular motors mix it up",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2990332438",
+   "year": 2019,
+   "cited_by_count": 228,
+   "title": "The liquid nucleome – phase transitions in the nucleus at a glance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3156389344",
+   "year": 2021,
+   "cited_by_count": 212,
+   "title": "SARS-CoV-2 requires cholesterol for viral entry and pathological syncytia formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3201539595",
+   "year": 2021,
+   "cited_by_count": 198,
+   "title": "Nucleation landscape of biomolecular condensates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009707635",
+   "year": 2011,
+   "cited_by_count": 192,
+   "title": "Beyond Stereospecificity: Liquids and Mesoscale Organization of Cytoplasm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952516695",
+   "year": 2018,
+   "cited_by_count": 182,
+   "title": "Protein Phase Separation Provides Long-Term Memory of Transient Spatial Stimuli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3120286568",
+   "year": 2021,
+   "cited_by_count": 176,
+   "title": "Chromatin mechanics dictates subdiffusion and coarsening dynamics of embedded condensates",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078598084",
+   "year": 2008,
+   "cited_by_count": 173,
+   "title": "Nonequilibrium Microtubule Fluctuations in a Model Cytoskeleton",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141296906",
+   "year": 2007,
+   "cited_by_count": 170,
+   "title": "Force fluctuations and polymerization dynamics of intracellular microtubules",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3170382547",
+   "year": 2021,
+   "cited_by_count": 162,
+   "title": "HP1α is a chromatin crosslinker that controls nuclear and mitotic chromosome mechanics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123084646",
+   "year": 2007,
+   "cited_by_count": 159,
+   "title": "Bending Dynamics of Fluctuating Biopolymers Probed by Automated High-Resolution Filament Tracking",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072880612",
+   "year": 2013,
+   "cited_by_count": 152,
+   "title": "Spatial Organization of the Cell Cytoplasm by Position-Dependent Phase Separation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021944123",
+   "year": 2010,
+   "cited_by_count": 151,
+   "title": "Centrosome Size Sets Mitotic Spindle Length in Caenorhabditis elegans Embryos",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3135110854",
+   "year": 2021,
+   "cited_by_count": 121,
+   "title": "TGF-β-induced DACT1 biomolecular condensates repress Wnt signalling to promote bone metastasis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154246827",
+   "year": 2005,
+   "cited_by_count": 106,
+   "title": "Symmetry‐breaking in mammalian cell cohort migration during tissue pattern formation: Role of random‐walk persistence",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108083849",
+   "year": 2011,
+   "cited_by_count": 100,
+   "title": "Soft active aggregates: mechanics, dynamics and self-assembly of liquid-like intracellular protein bodies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3201461331",
+   "year": 2021,
+   "cited_by_count": 93,
+   "title": "Phase separation vs aggregation behavior for model disordered proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2966973269",
+   "year": 2019,
+   "cited_by_count": 92,
+   "title": "Controlling the material properties and rRNA processing function of the nucleolus using light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3203089164",
+   "year": 2021,
+   "cited_by_count": 88,
+   "title": "Polycomb condensates can promote epigenetic marks but are not required for sustained chromatin compaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2544297969",
+   "year": 2016,
+   "cited_by_count": 82,
+   "title": "Biophysical characterization of organelle-based RNA/protein liquid phases using microfluidics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3177148240",
+   "year": 2021,
+   "cited_by_count": 75,
+   "title": "Mechanical Frustration of Phase Separation in the Cell Nucleus by Chromatin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1899455654",
+   "year": 2015,
+   "cited_by_count": 68,
+   "title": "Remodeling nuclear architecture allows efficient transport of herpesvirus capsids by diffusion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2950308585",
+   "year": 2019,
+   "cited_by_count": 68,
+   "title": "Liquid Nuclear Condensates Mechanically Sense and Restructure the Genome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120509690",
+   "year": 2015,
+   "cited_by_count": 67,
+   "title": "Worms under Pressure: Bulk Mechanical Properties of C. elegans Are Independent of the Cuticle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1128256499",
+   "year": 2015,
+   "cited_by_count": 63,
+   "title": "A size threshold governsCaenorhabditis elegansdevelopmental progression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2528744812",
+   "year": 2016,
+   "cited_by_count": 59,
+   "title": "Hierarchical Size Scaling during Multicellular Growth and Development",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2195366155",
+   "year": 2015,
+   "cited_by_count": 55,
+   "title": "Liquids, Fibers, and Gels: The Many Phases of Neurodegeneration",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035307610",
+   "year": 2007,
+   "cited_by_count": 54,
+   "title": "A new microrheometric approach reveals individual and cooperative roles for TGF‐β1 and IL‐1β in fibroblast‐mediated stiffening of collagen gels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019352743",
+   "year": 2008,
+   "cited_by_count": 53,
+   "title": "A novel small-molecule inhibitor reveals a possible role of kinesin-5 in anastral spindle-pole assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2991564237",
+   "year": 2019,
+   "cited_by_count": 50,
+   "title": "Mapping Local and Global Liquid Phase Behavior in Living Cells Using Photo-Oligomerizable Seeds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3003065392",
+   "year": 2020,
+   "cited_by_count": 48,
+   "title": "Can phase separation buffer cellular noise?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3135544037",
+   "year": 2021,
+   "cited_by_count": 35,
+   "title": "Properties of repression condensates in living Ciona embryos",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2586793126",
+   "year": 2017,
+   "cited_by_count": 30,
+   "title": "Farming and public goods production in Caenorhabditis elegans populations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3184733665",
+   "year": 2021,
+   "cited_by_count": 28,
+   "title": "Interaction of spindle assembly factor TPX2 with importins-α/β inhibits protein phase separation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032371551",
+   "year": 2012,
+   "cited_by_count": 25,
+   "title": "Attenuated short wavelength buckling and force propagation in a biopolymer-reinforced rod",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952667761",
+   "year": 2019,
+   "cited_by_count": 24,
+   "title": "Phase separation in biology and disease—a symposium report",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2414238313",
+   "year": 2015,
+   "cited_by_count": 21,
+   "title": "Soft viscoelastic properties of nuclear actin age oocytes due to gravitational creep",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3130169554",
+   "year": 2021,
+   "cited_by_count": 13,
+   "title": "Chromatin Mechanics Dictates Subdiffusion and Coarsening Dynamics of Embedded Condensates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126084102",
+   "year": 2013,
+   "cited_by_count": 11,
+   "title": "Nuclear mechanics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2616930272",
+   "year": 2017,
+   "cited_by_count": 8,
+   "title": "RNA repeats put a freeze on cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2466164052",
+   "year": 2016,
+   "cited_by_count": 7,
+   "title": "A sticky problem for chromosomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2975863049",
+   "year": 2019,
+   "cited_by_count": 7,
+   "title": "Voices in methods development",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2289135208",
+   "year": 2016,
+   "cited_by_count": 2,
+   "title": "From Physiological Fluids to Pathological Gels: Disordered Proteins at the Nexus of Liquid Phase Separation and Neurodegenerative Disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2913955888",
+   "year": 2019,
+   "cited_by_count": 2,
+   "title": "Sequence Determination of Liquid-Liquid Phase-Separated Assemblies of Engineered Disordered Proteins in Living Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3121509137",
+   "year": 2018,
+   "cited_by_count": 2,
+   "title": "Mapping Local and Global Liquid-liquid Phase Behavior in Living Cells Using Light-activated Multivalent Seeds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984304532",
+   "year": 2015,
+   "cited_by_count": 1,
+   "title": "Assembly and Dynamics of Liquid Phase Protein Droplets Comprised of the DEAD-Box RNA Helicase, LAF-1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987715073",
+   "year": 2013,
+   "cited_by_count": 1,
+   "title": "The micro and macro of RNA function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3130577146",
+   "year": 2021,
+   "cited_by_count": 1,
+   "title": "Spatially Constrained Transcriptional Sources Drive Asphericity of Intracellular Liquids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010054804",
+   "year": 2013,
+   "cited_by_count": 0,
+   "title": "Gravitational Stabilization of an RNA/Protein Droplet Emulsion by a Nuclear Actin Network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035775466",
+   "year": 2014,
+   "cited_by_count": 0,
+   "title": "DEAD Box Helicases in Rnp Granule",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2181525090",
+   "year": 2009,
+   "cited_by_count": 0,
+   "title": "Localize by Controlled Dissolution/Condensation Germline P Granules Are Liquid Droplets That",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2788760525",
+   "year": 2018,
+   "cited_by_count": 0,
+   "title": "Lighting up Intracellular Phase Space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3005091694",
+   "year": 2020,
+   "cited_by_count": 0,
+   "title": "Encoding Multiphase Cytoplasmic Structure",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

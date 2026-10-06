@@ -1,0 +1,16 @@
+# Identity fixes for people already profiled in ../preseen/ (used only by this folder's cards; ../preseen/ is not changed).
+"Naoko Kurahashi Neilson":
+  author_id: "A5064710180;A5024594692"
+  reason: >-
+    ../preseen/ used only A5024594692 (172 works, 2019 onwards). OpenAlex A5064710180 "N. Kurahashi" (569 works, 21,023
+    citations; IceCube papers from 2003) carries ORCID 0000-0003-1047-8094, registered to Naoko Kurahashi Neilson.
+# Profiles run again on 2026-10-05 with NP_NAME_SEARCH=off (cards_pipeline.py submit --only ... --force
+# --no-name-search): the PatentsView name search linked a namesake's patents (Kurahashi Neilson: 7 Fujitsu patents;
+# Ken'ichi Nomoto: 25 patents of Eisai and Yakult). Neither has a pqrs inventor, so their cards show 0 own patents.
+"Christoph Gerber":
+  author_id: "A5111547447;A5004070941"
+  reason: >-
+    The identity used only A5004070941 (later bio-AFM reviews; no STM/AFM originals). OpenAlex A5111547447 "Ch. Gerber"
+    (118 works, 37,656 citations, University of Basel) carries "Atomic Force Microscope" (PRL 1986, with Binnig and
+    Quate), "Surface Studies by Scanning Tunneling Microscopy" (1982) and the IBM Zurich cantilever-sensor work.
+    Added 2026-10-05 evening for cards_age25 (found while choosing defining works).

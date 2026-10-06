@@ -1,0 +1,656 @@
+{
+ "person": "Michele Parrinello",
+ "profile": "A5023487560",
+ "ids": [
+  "A5023487560",
+  "A5109157985"
+ ],
+ "options": [
+  "for the development of ab initio molecular dynamics — Michele Parrinello, Roberto Car",
+  "for the development of ab initio molecular dynamics — Roberto Car, Michele Parrinello"
+ ],
+ "birth_year": 1945,
+ "cutoff_year": 1970,
+ "works": [
+  {
+   "paper_id": "W2081693079",
+   "year": 1981,
+   "cited_by_count": 19251,
+   "title": "Polymorphic transitions in single crystals: A new molecular dynamics method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057477511",
+   "year": 2007,
+   "cited_by_count": 17167,
+   "title": "Canonical sampling through velocity rescaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046001409",
+   "year": 1985,
+   "cited_by_count": 10541,
+   "title": "Unified Approach for Molecular Dynamics and Density-Functional Theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149655632",
+   "year": 2002,
+   "cited_by_count": 5517,
+   "title": "Escaping free-energy minima",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014166972",
+   "year": 2005,
+   "cited_by_count": 5432,
+   "title": "Quickstep: Fast and accurate density functional calculations using a mixed Gaussian and plane waves approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025444507",
+   "year": 2007,
+   "cited_by_count": 4592,
+   "title": "Generalized Neural-Network Representation of High-Dimensional Potential-Energy Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025625972",
+   "year": 1980,
+   "cited_by_count": 3571,
+   "title": "Crystal Structure and Pair Potentials: A Molecular-Dynamics Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057806291",
+   "year": 2008,
+   "cited_by_count": 3126,
+   "title": "Well-Tempered Metadynamics: A Smoothly Converging and Tunable Free-Energy Method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1576668315",
+   "year": 1999,
+   "cited_by_count": 1860,
+   "title": "The nature of the hydrated excess proton in water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986986500",
+   "year": 2009,
+   "cited_by_count": 1835,
+   "title": "PLUMED: A portable plugin for free-energy calculations with molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4251723943",
+   "year": 1997,
+   "cited_by_count": 1263,
+   "title": "A hybrid Gaussian and plane wave density functional scheme",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2970740744",
+   "year": 2019,
+   "cited_by_count": 1190,
+   "title": "Promoting transparency and reproducibility in enhanced molecular simulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4255584963",
+   "year": 2011,
+   "cited_by_count": 1115,
+   "title": "Metadynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059838064",
+   "year": 2002,
+   "cited_by_count": 1053,
+   "title": "The nature and transport mechanism of hydrated hydroxide ions in aqueous solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091432870",
+   "year": 1982,
+   "cited_by_count": 874,
+   "title": "Strain fluctuations and elastic constants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975834451",
+   "year": 1995,
+   "cited_by_count": 841,
+   "title": "Ab initio molecular dynamics simulation of the solvation and transport of hydronium and hydroxyl ions in water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012700578",
+   "year": 2003,
+   "cited_by_count": 839,
+   "title": "Predicting Crystal Structures: The Parrinello-Rahman Method Revisited",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977569451",
+   "year": 2003,
+   "cited_by_count": 832,
+   "title": "Efficient Exploration of Reactive Potential Energy Surfaces Using Car-Parrinello Molecular Dynamics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127883090",
+   "year": 2001,
+   "cited_by_count": 795,
+   "title": "Autoionization in Liquid Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991163614",
+   "year": 1997,
+   "cited_by_count": 730,
+   "title": "On the Quantum Nature of the Shared Proton in Hydrogen Bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167468911",
+   "year": 2016,
+   "cited_by_count": 667,
+   "title": "Enhancing Important Fluctuations: Rare Events and Metadynamics from a Conceptual Viewpoint",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032224966",
+   "year": 1984,
+   "cited_by_count": 640,
+   "title": "Study of an F center in molten KCl",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012214628",
+   "year": 1999,
+   "cited_by_count": 620,
+   "title": "Water Molecule Dipole in the Gas and in the Liquid Phase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998404217",
+   "year": 2007,
+   "cited_by_count": 618,
+   "title": "From A to B in free energy space",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029186981",
+   "year": 2005,
+   "cited_by_count": 614,
+   "title": "Efficient Reconstruction of Complex Free Energy Landscapes by Multiple Walkers Metadynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2317498826",
+   "year": 1999,
+   "cited_by_count": 614,
+   "title": "The Gaussian and augmented-plane-wave density functional method for ab initio molecular dynamics simulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029042254",
+   "year": 1995,
+   "cited_by_count": 613,
+   "title": "Ab Initio Molecular Dynamics Simulation of the Solvation and Transport of H3O+ and OH- Ions in Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971346858",
+   "year": 1993,
+   "cited_by_count": 601,
+   "title": "‘‘Ab initio’’ liquid water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980732448",
+   "year": 1996,
+   "cited_by_count": 599,
+   "title": "Ab initio molecular dynamics simulation of liquid water: Comparison of three gradient-corrected density functionals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085859531",
+   "year": 1999,
+   "cited_by_count": 567,
+   "title": "Structural, electronic, and bonding properties of liquid water from first principles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2314730640",
+   "year": 2014,
+   "cited_by_count": 533,
+   "title": "A Time-Independent Free Energy Estimator for Metadynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091283009",
+   "year": 2005,
+   "cited_by_count": 509,
+   "title": "Assessing the Accuracy of Metadynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991329443",
+   "year": 2006,
+   "cited_by_count": 503,
+   "title": "Free-Energy Landscape for β Hairpin Folding from Combined Parallel Tempering and Metadynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1549154779",
+   "year": 1999,
+   "cited_by_count": 497,
+   "title": "Superionic and Metallic States of Water and Ammonia at Giant Planet Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063945425",
+   "year": 2013,
+   "cited_by_count": 493,
+   "title": "From Metadynamics to Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044311570",
+   "year": 2004,
+   "cited_by_count": 490,
+   "title": "The influence of temperature and density functional models in ab initio molecular dynamics simulation of liquid water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064461272",
+   "year": 1988,
+   "cited_by_count": 477,
+   "title": "Simulation of gold in the glue model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082545972",
+   "year": 1996,
+   "cited_by_count": 463,
+   "title": "Ab initio path integral molecular dynamics: Basic ideas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996084074",
+   "year": 2010,
+   "cited_by_count": 442,
+   "title": "Efficient stochastic thermostatting of path integral molecular dynamics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034668150",
+   "year": 2007,
+   "cited_by_count": 432,
+   "title": "Efficient and Accurate Car-Parrinello-like Approach to Born-Oppenheimer Molecular Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041694664",
+   "year": 2006,
+   "cited_by_count": 427,
+   "title": "Equilibrium Free Energies from Nonequilibrium Metadynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1485423384",
+   "year": 1998,
+   "cited_by_count": 426,
+   "title": "Tunnelling and zero-point motion in high-pressure ice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992191950",
+   "year": 2004,
+   "cited_by_count": 426,
+   "title": "Effective force fields for condensed phase systems from ab initio molecular dynamics simulation: A new method for force-matching",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084429590",
+   "year": 1989,
+   "cited_by_count": 416,
+   "title": "Conjugate gradient minimization of the energy functional: A new method for electronic structure calculation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001996470",
+   "year": 2013,
+   "cited_by_count": 415,
+   "title": "Funnel metadynamics as accurate binding free-energy method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969798710",
+   "year": 2007,
+   "cited_by_count": 414,
+   "title": "Accurate sampling using Langevin dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056617023",
+   "year": 2009,
+   "cited_by_count": 405,
+   "title": "Isothermal-isobaric molecular dynamics using stochastic velocity rescaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002761831",
+   "year": 2007,
+   "cited_by_count": 394,
+   "title": "Coexistence of tetrahedral- and octahedral-like sites in amorphous phase change materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023456054",
+   "year": 1988,
+   "cited_by_count": 386,
+   "title": "Structural, Dymanical, and Electronic Properties of Amorphous Silicon: Anab initioMolecular-Dynamics Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001357862",
+   "year": 2015,
+   "cited_by_count": 379,
+   "title": "Kinetics of protein–ligand unbinding: Predicting pathways, rates, and rate-limiting steps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063079310",
+   "year": 2013,
+   "cited_by_count": 375,
+   "title": "Proton transfer through the water gossamer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067491528",
+   "year": 1997,
+   "cited_by_count": 375,
+   "title": "Equilibrium Geometries and Electronic Structure of Iron−Porphyrin Complexes: A Density Functional Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015087683",
+   "year": 2003,
+   "cited_by_count": 373,
+   "title": "Hydrogen Bonding in Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050250847",
+   "year": 1992,
+   "cited_by_count": 364,
+   "title": "Optical properties of porous silicon: A first-principles study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090784005",
+   "year": 1986,
+   "cited_by_count": 359,
+   "title": "Au (100) Surface Reconstruction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028875836",
+   "year": 2009,
+   "cited_by_count": 351,
+   "title": "Reconstructing the equilibrium Boltzmann distribution from well‐tempered metadynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980782498",
+   "year": 2011,
+   "cited_by_count": 350,
+   "title": "Simplifying the representation of complex free-energy landscapes using sketch-map",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982982767",
+   "year": 1996,
+   "cited_by_count": 350,
+   "title": "Efficient and general algorithms for path integral Car–Parrinello molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052367774",
+   "year": 1997,
+   "cited_by_count": 347,
+   "title": "Ab initio infrared spectrum of liquid water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2316259871",
+   "year": 2014,
+   "cited_by_count": 347,
+   "title": "Well-Tempered Metadynamics Converges Asymptotically",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2748806820",
+   "year": 2004,
+   "cited_by_count": 337,
+   "title": "Liquid Water from First Principles: Investigation of Different Sampling Approaches",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982991255",
+   "year": 1992,
+   "cited_by_count": 332,
+   "title": "Large scale electronic structure calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1489582602",
+   "year": 2014,
+   "cited_by_count": 324,
+   "title": "Variational Approach to Enhanced Sampling and Free Energy Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146597851",
+   "year": 1999,
+   "cited_by_count": 324,
+   "title": "A hybrid method for solutes in complex solvents: Density functional theory combined with empirical force fields",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972749229",
+   "year": 1989,
+   "cited_by_count": 319,
+   "title": "Structural and Electronic Properties of Amorphous Carbon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3010816669",
+   "year": 2020,
+   "cited_by_count": 316,
+   "title": "Rethinking Metadynamics: From Bias Potentials to Probability Distributions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027530487",
+   "year": 1992,
+   "cited_by_count": 315,
+   "title": "Adiabaticity in first-principles molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056661808",
+   "year": 2002,
+   "cited_by_count": 313,
+   "title": "The Role and Perspective of Ab Initio Molecular Dynamics in the Study of Biological Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076382218",
+   "year": 1994,
+   "cited_by_count": 302,
+   "title": "Structure of nanoscale silicon clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077001482",
+   "year": 1988,
+   "cited_by_count": 302,
+   "title": "Equilibrium Structures and Finite Temperature Properties of Silicon Microclusters fromab initioMolecular-Dynamics Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072754743",
+   "year": 2004,
+   "cited_by_count": 296,
+   "title": "Dispersion corrections to density functionals for water aromatic interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123891429",
+   "year": 2012,
+   "cited_by_count": 296,
+   "title": "Metadynamics with Adaptive Gaussians",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027032798",
+   "year": 1997,
+   "cited_by_count": 292,
+   "title": "Two Dimensional Ice Adsorbed on Mica Surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039632336",
+   "year": 1999,
+   "cited_by_count": 291,
+   "title": "Ab initiostudy of structural and electronic properties of yttria-stabilized cubic zirconia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045467689",
+   "year": 2000,
+   "cited_by_count": 289,
+   "title": "General and efficient algorithms for obtaining maximally localized Wannier functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067825331",
+   "year": 1989,
+   "cited_by_count": 288,
+   "title": "A Novel Technique for the Simulation of Interacting Fermion Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069982778",
+   "year": 2005,
+   "cited_by_count": 288,
+   "title": "Flexible Docking in Solution Using Metadynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033858596",
+   "year": 2006,
+   "cited_by_count": 285,
+   "title": "Freezing of a Lennard-Jones Fluid: From Nucleation to Spinodal Regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071360373",
+   "year": 2010,
+   "cited_by_count": 281,
+   "title": "Enhanced Sampling in the Well-Tempered Ensemble",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094279870",
+   "year": 2005,
+   "cited_by_count": 275,
+   "title": "An Efficient Real Space Multigrid QM/MM Electrostatic Coupling",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

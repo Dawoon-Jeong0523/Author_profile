@@ -1,0 +1,586 @@
+# Anchor works per discovery (cards_age25.py blocks reads this). Chosen 2026-10-05 by one LLM agent per option of
+# results/options_physics.json from the pools of the named people: the first discovery/prediction paper and the
+# first realization/observation paper by a named person; an anchor by people not named in the option is left out.
+for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect:
+  n_30: 1
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2030164271
+    title: Quantum Spin Hall Effect in Graphene
+    year: 2005
+    from_person: Charles L. Kane
+    reason: Kane and Mele's original proposal of the quantum spin Hall effect, a time-reversal-invariant topological insulator.
+      It came before their Z2 topological order paper from the same year and before the 3D topological insulator work in 2007.
+      The same entry is also in Eugene J. Mele's file.
+  - label: realization/observation
+    paper_id: W2043175787
+    title: Quantum Spin Hall Insulator State in HgTe Quantum Wells
+    year: 2007
+    from_person: Laurens W. Molenkamp
+    reason: Molenkamp group's first experimental observation of the quantum spin Hall insulator state, with edge-state conductance
+      in HgTe quantum wells. This was the first experimental realization of a topological insulator.
+  note: 'Both anchors come from the named people''s files. Prediction anchor: the earliest Kane–Mele QSH paper (2005), chosen
+    over the later Z2 paper and the 2007 3D paper. Realization anchor: König et al. 2007 (Molenkamp).'
+? for the invention and development of optical lattice clocks, enabling time and frequency measurements at unprecedented precision
+: n_30: 2
+  anchors:
+  - label: discovery/prediction
+    paper_id: W1968125283
+    title: SIDEBAND COOLING AND SPECTROSCOPY OF STRONTIUM ATOMS IN THE LAMB-DICKE CONFINEMENT
+    year: 2002
+    from_person: Hidetoshi Katori
+    reason: 'Katori''s 2002 Frequency Standards and Metrology symposium proceedings paper is the original proposal of the
+      optical lattice clock: Sr atoms held in a magic-wavelength lattice in the Lamb-Dicke regime. The fuller theory followed
+      in the 2003 PRL ''Ultrastable Optical Clock with Neutral Atoms in an Engineered Light Shift Trap'' (W2963885768), which
+      is later and more cited.'
+  - label: realization/observation
+    paper_id: W1985370373
+    title: Spectroscopy of the S01−P03 Clock Transition of Sr87 in an Optical Lattice
+    year: 2003
+    from_person: Hidetoshi Katori
+    reason: 'Takamoto & Katori, PRL 2003: the first experimental spectroscopy of the 87Sr 1S0-3P0 clock transition in a magic-wavelength
+      optical lattice, which makes it the first realization. The 2005 Nature paper ''An optical lattice clock'' (W2008960355)
+      is the later, more cited demonstration of a full clock.'
+  note: Both anchors are Katori's. Jun Ye's pool has no earlier proposal or realization; his lattice-clock papers start in
+    2006. If a peer-reviewed journal prediction anchor is preferred over the 2002 proceedings paper, use W2963885768 (2003).
+for the theoretical prediction and experimental realization of negative index metamaterials:
+  n_30: 3
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2148020016
+    title: Magnetism from conductors and enhanced nonlinear phenomena
+    year: 1999
+    from_person: John B. Pendry
+    reason: Pendry's split-ring resonator proposal for artificial negative permeability. Combined with his 1996 wire-medium
+      negative permittivity, it is the theoretical design that makes a negative-index metamaterial possible. The 1996 paper
+      alone gives only negative epsilon, so this is the first named-person paper that enables a negative index.
+  - label: realization/observation
+    paper_id: W2027652501
+    title: Composite Medium with Simultaneously Negative Permeability and Permittivity
+    year: 2000
+    from_person: David R. Smith
+    reason: First experimental demonstration (Smith et al., PRL 2000) of a microwave metamaterial that combines SRRs and wires,
+      with permittivity and permeability negative at the same time (left-handed). It predates Shelby, Smith and Schultz's
+      2001 'Experimental Verification of a Negative Index of Refraction', which is a later refraction measurement.
+  note: The original idea of negative refractive index comes from Veselago (1968), who is not named in the option and is not
+    in the pools. The prediction anchor is therefore Pendry's 1999 SRR paper, the first named-person theoretical design of
+    a negative-index metamaterial. Pendry's 1996 wire-plasmon paper (W2064240847) is a precursor but covers negative permittivity
+    only. Yablonovitch's pool contains photonic band-gap work and no negative-index anchor.
+for the discovery of topological and geometric phases in quantum systems:
+  n_30: 4
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2028948400
+    title: Significance of Electromagnetic Potentials in the Quantum Theory
+    year: 1959
+    from_person: Yakir Aharonov
+    reason: 'Aharonov-Bohm 1959 is the earliest paper in either file that predicts a topological quantum phase: an electron
+      picks up a phase from electromagnetic potentials even in regions where the fields are zero. Berry''s 1984 ''Quantal
+      phase factors accompanying adiabatic changes'' (W2097780038) is the original paper for the general geometric (Berry)
+      phase, and Aharonov-Anandan 1987 (W2044154336) extended it to non-adiabatic cyclic evolution. Both came after the 1959
+      paper.'
+  note: 'There is no realization/observation anchor. The first experiments were done by people not named in the option, so
+    neither file contains them: Chambers in 1960 and Tonomura et al. in 1986 observed the Aharonov-Bohm effect, and Tomita
+    and Chiao in 1986 observed the Berry phase in optical fibres. Berry''s 1987 paper on Pancharatnam''s phase and coiled
+    light is a later interpretation, not the first observation. If the option is read as being mainly about the geometric
+    phase, the alternative discovery anchor is Berry 1984, W2097780038, ''Quantal phase factors accompanying adiabatic changes''.'
+for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms:
+  n_30: 5
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2015179126
+    title: 'Quantum cryptography: Public key distribution and coin tossing'
+    year: 2014
+    from_person: Charles H. Bennett
+    reason: This is the BB84 quantum key distribution proposal by Bennett and Brassard. It is the first named discovery in
+      the option and predates Shor's 1994 factoring algorithm. The original paper appeared in 1984, but the files list it
+      under the 2014 reprint record (the year is copied as given). The same record is in Brassard's file.
+  - label: realization/observation
+    paper_id: W4214950786
+    title: Experimental quantum cryptography
+    year: 1992
+    from_person: Charles H. Bennett
+    reason: This is the first experimental quantum key distribution prototype, built by Bennett, Bessette, Brassard, Salvail
+      and Smolin, and published as the landmark journal paper. The same record is in Brassard's file.
+  note: 'The files list the BB84 discovery anchor under year 2014, the year of the reprint record; the original proceedings
+    are from 1984. An earlier 1989 record of the same prototype exists (W2079749988, ''Experimental quantum cryptography:
+    the dawn of a new era...'', Brassard). It is a short announcement column, not the full experimental paper, so the 1992
+    paper was chosen. The option''s quantum-algorithms part (Shor''s factoring algorithm, W3011907935 from 1994, with later
+    versions W2137147061 from 1999 and W2168676717 from 2002) is a second discovery. It comes after BB84, so it is not used
+    as the ''first'' anchor. The first experimental run of Shor''s algorithm (NMR, 2001) was by people not named in the option,
+    so it is not in the files.'
+? for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle
+  twisted bilayer graphene
+: n_30: 6
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2127169435
+    title: Moiré bands in twisted double-layer graphene
+    year: 2011
+    from_person: Allan H. MacDonald
+    reason: Bistritzer-MacDonald 2011 continuum model (PNAS) that first predicted flat bands at the 'magic' twist angle in
+      twisted bilayer graphene; appears in both MacDonald's and Bistritzer's files.
+  - label: realization/observation
+    paper_id: W2787584289
+    title: Correlated insulator behaviour at half-filling in magic-angle graphene superlattices
+    year: 2018
+    from_person: Pablo Jarillo-Herrero
+    reason: Cao, Jarillo-Herrero et al. 2018 (Nature), the first experimental observation of correlated insulating states
+      in magic-angle TBG. It was published back-to-back with the superconductivity paper (W2793369479, 'Unconventional superconductivity
+      in magic-angle graphene superlattices', 2018), which is the companion realization. The insulator paper is chosen as
+      the first, being the earlier Nature article of the pair.
+  note: Both anchors are by named people. The superconductivity paper W2793369479 (2018, Jarillo-Herrero) is the same-day
+    companion of the realization anchor and could stand in as an alternate realization anchor. Earlier twisted-bilayer papers
+    by Jarillo-Herrero (2012 and 2016) are not magic-angle correlated or superconducting work, so they were excluded.
+for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices:
+  n_30: 7
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2035413341
+    title: Cold Bosonic Atoms in Optical Lattices
+    year: 1998
+    from_person: J. Ignacio Cirac
+    reason: 'Jaksch, Bruder, Cirac, Gardiner, Zoller 1998: the original proposal that ultracold bosons in optical lattices
+      realize the Bose-Hubbard model, with a predicted superfluid-to-Mott-insulator transition. This is the founding proposal
+      for lattice-based quantum simulation. The paper is also in Zoller''s file.'
+  - label: realization/observation
+    paper_id: W2007391198
+    title: Quantum phase transition from a superfluid to a Mott insulator in a gas of ultracold atoms
+    year: 2002
+    from_person: Immanuel Bloch
+    reason: 'Greiner, Mandel, Esslinger, Hänsch, Bloch 2002: the first experimental realization of the proposed Bose-Hubbard
+      quantum simulator, observing the superfluid-Mott insulator transition in an optical lattice.'
+  note: Both anchors come from the named laureates' own files. The Bloch 2001 paper on a 2D lattice of BECs (W2037879124)
+    is an earlier lattice experiment, but it does not realize the proposed many-body simulator. That makes the 2002 Mott transition
+    paper the first realization.
+for the invention of the quantum cascade laser:
+  n_30: 9
+  anchors:
+  - label: realization/observation
+    paper_id: W4213168521
+    title: Quantum Cascade Laser
+    year: 1994
+    from_person: Federico Capasso
+    reason: The 1994 Science paper by Faist, Capasso, Sivco, Sirtori, Hutchinson and Cho is the first demonstration of the
+      quantum cascade laser. It appears in all three pool files and is the earliest QCL paper in them.
+  note: I left out the discovery/prediction anchor. The idea of light amplification by intersubband transitions in a superlattice
+    came from Kazarinov and Suris in 1971, who are not named in this option, so their paper is not in the pool files. Capasso's
+    resonant-tunneling papers from 1985-1986 are earlier, but they did not propose the cascade laser. I read the files through
+    Bash and Python, not the Read tool.
+for the observation of the shadow of a black hole by event-horizon-scale radio interferometry:
+  n_30: 12
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2031106768
+    title: Viewing the Shadow of the Black Hole at the Galactic Center
+    year: 2000
+    from_person: Heino Falcke
+    reason: Falcke, Melia & Agol 2000 first predicted that the black-hole shadow of Sgr A* would be observable with (sub)mm
+      VLBI. This is the original proposal behind the option.
+  - label: realization/observation
+    paper_id: W2936349953
+    title: First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole
+    year: 2019
+    from_person: Heino Falcke
+    reason: First EHT paper reporting the observed shadow of M87*. This is the first actual realization, and it appears in
+      all three files.
+  note: Doeleman et al. 2008 (W2035538351, event-horizon-scale structure in Sgr A*) was an important earlier step, but it
+    measured structure size, not the shadow, so it is not the first observation.
+for pioneering contributions to neutrino astronomy, in particular the discovery of high-energy cosmic neutrinos:
+  n_30: 10
+  anchors:
+  - label: realization/observation
+    paper_id: W1971214100
+    title: First Observation of PeV-Energy Neutrinos with IceCube
+    year: 2013
+    from_person: Francis Halzen
+    reason: Earliest IceCube paper reporting observed high-energy (PeV) neutrino events beyond the atmospheric expectation
+      (the 'Bert and Ernie' events, PRL, spring 2013). It came before the 2013 Science 'Evidence for High-Energy Extraterrestrial
+      Neutrinos at the IceCube Detector' paper (W1530183786, in all three files), which is the 4-sigma discovery claim. Kurahashi
+      Neilson's file also lists W1971214100.
+  note: No discovery/prediction anchor is given. The idea that high-energy cosmic neutrinos exist and could be detected with
+    large Cherenkov detectors came from earlier physicists who are not named in the option (Markov, Greisen, Reines and others
+    in the 1960s), so no such paper is in the files. Halzen's 1995 'Particle astrophysics with high energy neutrinos' is a
+    review, and his 1997 AGN flux estimate is a later refinement, so neither qualifies. If the anchor should be the formal
+    discovery claim rather than the first observation, use W1530183786 'Evidence for High-Energy Extraterrestrial Neutrinos
+    at the IceCube Detector' (2013) instead.
+for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure:
+  n_30: 13
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2134251287
+    title: 'Inflationary universe: A possible solution to the horizon and flatness problems'
+    year: 1981
+    from_person: Alan H. Guth
+    reason: Guth's 1981 paper is the original proposal of cosmic inflation. It is the earliest paper among the three named
+      people that formulates the theory the option names.
+  note: No realization/observation anchor is given. The observational confirmation of inflation-generated primordial fluctuations
+    came from COBE, WMAP and Planck, and none of the named people led that work, so it is not in the files. Mukhanov's 1981
+    paper 'Quantum Fluctuations and a Nonsingular Universe' (W1650473789, written with Chibisov) is the original prediction
+    of the quantum origin of cosmological structure. It is a strong second discovery-side anchor for the 'quantum origin'
+    part of the option if an extra discovery anchor is allowed. Linde's 1982 new-inflation paper (W1973861971) is a later
+    refinement of the inflation proposal, not the first.
+for the invention of aberration-corrected electron optics, enabling electron microscopy with sub-ångström resolution:
+  n_30: 15
+  anchors:
+  - label: realization/observation
+    paper_id: W2018020686
+    title: Aberration correction in a low voltage SEM by a multipole corrector
+    year: 1995
+    from_person: Maximilian Haider
+    reason: Earliest paper in the files to show a working multipole aberration corrector that actually improved resolution
+      in an electron microscope (Zach and Haider, low-voltage SEM). It came before the first Cs-corrected TEM (Haider/Urban
+      et al., 'Electron microscopy image enhanced', Nature 1998, W1876297499) and the first Cs-corrected STEM (Krivanek, 'Towards
+      sub-Å electron beams', 1999). It is the first realization of aberration-corrected electron optics by a named laureate.
+  note: No discovery/prediction anchor is given. The original proposals for correcting aberrations (Scherzer 1947 on multipole
+    correctors, and Rose 1990 on the hexapole Cs corrector design that Haider built) are by people not named in the option,
+    so they are not in the files. If the anchor should be the first corrected TEM rather than the first working corrector
+    of any kind, use W1876297499, 'Electron microscopy image enhanced' (1998). If the anchor should be the first sub-ångström
+    demonstration, use W1968240415, 'Sub-ångstrom resolution using aberration corrected electron optics' (2002, Krivanek).
+for advancing the understanding of the surprising properties of two-dimensional electron systems in strong magnetic fields:
+  n_30: 8
+  anchors:
+  - label: discovery/prediction
+    paper_id: W1995680910
+    title: Composite-fermion approach for the fractional quantum Hall effect
+    year: 1989
+    from_person: Jainendra K. Jain
+    reason: Jain's original proposal of composite fermions. It is the theoretical concept that explains the surprising fractional
+      quantum Hall properties named in the option, and it is the earliest original theory paper in the three files.
+  - label: realization/observation
+    paper_id: W1993147119
+    title: Observation of an even-denominator quantum number in the fractional quantum Hall effect
+    year: 1987
+    from_person: James P. Eisenstein
+    reason: 'This is the earliest landmark experimental observation of a surprising strong-field 2D electron property by one
+      of the named people: the 5/2 even-denominator FQH state (Willett, Eisenstein et al.). Two later observations are also
+      landmarks but come after it. Heiblum''s direct observation of fractional charge is W1657455754 (1997). Jain''s co-authored
+      detection of composite fermions by magnetic focusing is W2075980613 (1994).'
+  note: 'The option is broad and names no single discovery. The FQHE itself was discovered by Tsui, Stormer and Gossard (1982),
+    who are not named in the option, so their paper is not in the files. Within the files, the earliest observation is Eisenstein
+    1987 (5/2 state). It came before Jain''s composite-fermion theory (1989), so the two anchors are not a strict prediction-then-realization
+    pair. If the anchor should instead confirm Jain''s theory or Laughlin quasiparticles, two alternatives fit. Jain-coauthored
+    composite-fermion detection: W2075980613 (1994). Heiblum''s fractional charge observation: W1657455754 (1997). The first
+    composite-fermion Fermi-surface evidence (Willett et al. 1993, SAW) is by people not named in the option.'
+for the discovery of quantum error correction and fault-tolerant quantum computation:
+  n_30: 11
+  anchors:
+  - label: discovery/prediction
+    paper_id: W1999706070
+    title: Scheme for reducing decoherence in quantum computer memory
+    year: 1995
+    from_person: Peter W. Shor
+    reason: 'Shor''s 1995 nine-qubit code paper is the first proposal of quantum error correction. Later work builds on it:
+      Shor''s fault-tolerant error correction (1996), Kitaev''s anyons and toric code, and Preskill''s threshold papers.'
+  note: 'I left out the realization/observation anchor. The first experimental demonstrations of quantum error correction
+    (Cory et al., NMR, 1998) and later fault-tolerant hardware were done by groups that do not include Preskill, Shor or Kitaev,
+    so those papers are not in the files. The work by the named people that follows the 1995 paper is all theory: Shor 1996
+    on fault-tolerant error correction, Kitaev 1997/2003 on anyons, and Preskill 1998 on reliable quantum computers.'
+for numerical simulations that established the cold dark matter model of the formation of cosmic structure:
+  n_30: 14
+  anchors:
+  - label: realization/observation
+    paper_id: W2032469582
+    title: The evolution of large-scale structure in a universe dominated by cold dark matter
+    year: 1985
+    from_person: Marc Davis
+    reason: Davis, Efstathiou, Frenk and White (DEFW) 1985 was the first N-body simulation of cosmic structure formation in
+      a CDM universe. It is the founding simulation that established CDM as the model for large-scale structure. The same
+      paper appears in all three pool files.
+  note: 'I gave only the realization anchor. The cold dark matter model itself was first proposed by people not named in the
+    option (Peebles 1982; Blumenthal, Faber, Primack and Rees 1984), so none of the pool files has a separate earlier prediction
+    paper for it. The named trio''s discovery is the DEFW 1985 simulation result itself, which is why it is listed once, as
+    realization/observation. Two of their earlier papers in the pools are precursors only and were not used as the prediction
+    anchor: White & Rees 1978, "Core condensation in heavy halos" (W1999367759), which proposed galaxy formation in dark halos
+    but not CDM; and White, Frenk & Davis 1983, "Clustering in a neutrino-dominated universe" (W1980304714), a simulation
+    that ruled out hot dark matter.'
+? for the development of highly efficient organic light-emitting diodes based on phosphorescent and thermally activated delayed
+  fluorescence emitters
+: n_30: 16
+  anchors:
+  - label: realization/observation
+    paper_id: W1668566020
+    title: Highly efficient phosphorescent emission from organic electroluminescent devices
+    year: 1998
+    from_person: Mark E. Thompson
+    reason: Baldo, O'Brien, ..., Thompson, Forrest (Nature 1998) is the first demonstration of a phosphorescent OLED. The
+      PtOEP-doped device harvested triplet excitons, and this is the founding paper of the phosphorescent half of the option.
+      It is an invention paper with no separate earlier proposal by the named people, so it is given once as the realization.
+      The same paper is also in Forrest's file.
+  note: 'I read all three files. The phosphorescent-OLED concept and its first device appear together in the 1998 Nature paper
+    (W1668566020), so there is no separate earlier discovery/prediction paper and none is given. The option also names a second
+    emitter class, TADF. Its first OLED realization by a named person is Adachi''s ''Thermally Activated Delayed Fluorescence
+    from Sn 4+ –Porphyrin Complexes and Their Application to Organic Light Emitting Diodes — A Novel Mechanism for Electroluminescence''
+    (W2102979770, 2009). Later works are refinements, not anchors: 2011 W1966957194 (up-conversion) and the 2012 Nature paper
+    W2150702843 (the high-efficiency TADF breakthrough). TADF as a photophysical phenomenon was described long before, by
+    people not named in the option, so it is not in the files.'
+for the invention of atomic force microscopy:
+  n_30: 17
+  anchors:
+  - label: realization/observation
+    paper_id: W3150248096
+    title: Atomic Force Microscope
+    year: 1986
+    from_person: Gerd Binnig
+    reason: The 1986 PRL by Binnig, Quate and Gerber (it appears in both files) is the invention paper. It proposed the AFM
+      and demonstrated it in the same paper. Neither file has an earlier, separate AFM proposal, so the paper is given once,
+      as realization.
+  note: This invention paper both proposed and realized the AFM, so it is given only as realization/observation. W3150248096
+    also appears in Christoph Gerber's file. The 1987 'Atomic Resolution with Atomic Force Microscope' is a later refinement,
+    so it is left out.
+for the development of wavelet theory and multiresolution signal analysis:
+  n_30: 19
+  anchors:
+  - label: discovery/prediction
+    paper_id: W78443961
+    title: Principe d'incertitude, bases hilbertiennes et algèbres d'opérateurs
+    year: 1986
+    from_person: Yves Meyer
+    reason: Meyer's Bourbaki seminar (1985-86) first construction of a smooth orthonormal wavelet basis, the founding result
+      of modern wavelet theory. 'Painless nonorthogonal expansions' (W2087377426) and 'Ondelettes et bases hilbertiennes'
+      (W2013987111), both also 1986, are close alternatives.
+  - label: realization/observation
+    paper_id: W3024117407
+    title: An efficient image representation for multiscale analysis
+    year: 1987
+    from_person: Stéphane Mallat
+    reason: 'Earliest Mallat paper in the file to turn wavelets into a working multiresolution (pyramid) signal and image
+      decomposition algorithm. The landmark full version is ''A theory for multiresolution signal decomposition: the wavelet
+      representation'' (W2132984323, 1989).'
+  note: Both anchors come from people named in the option. For discovery, I picked Meyer's 1986 Bourbaki orthonormal-basis
+    work over the 1986 Daubechies-Grossmann-Meyer frames paper, because both are 1986 and the orthonormal basis is the founding
+    result. For realization, I took Mallat's 1987 conference paper as the first technical multiresolution algorithm. Use the
+    1989 PAMI paper (W2132984323) instead if the rule should be landmark-first rather than strictly earliest. Daubechies'
+    1988 compactly supported wavelets (W2098914003) is a later refinement.
+for theoretical discoveries of quantum spin liquids and exactly solvable models of topological order:
+  n_30: 18
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2135273380
+    title: Fault-tolerant quantum computation by anyons
+    year: 2003
+    from_person: Alexei Y. Kitaev
+    reason: Kitaev's toric-code paper (preprint 1997, published 2003) is the first exactly solvable lattice model with topological
+      order, a Z2 spin liquid with anyonic excitations. It is the earliest original paper in either file that makes the option's
+      named discovery. The honeycomb model paper ('Anyons in an exactly solved model and beyond', 2006) came later. Patrick
+      Lee's spin-liquid gauge-theory papers in his file (1989 onward) build on Anderson's RVB proposal and are not exactly
+      solvable models.
+  - label: realization/observation
+    paper_id: W3148422733
+    title: Realizing topologically ordered states on a quantum processor
+    year: 2021
+    from_person: Alexei Y. Kitaev
+    reason: This 2021 paper with Kitaev as coauthor prepares toric-code topologically ordered ground states on a superconducting
+      quantum processor and measures them. It is the earliest experimental realization in the files of the model the option
+      names. Lee's experimental paper 'Evidence for quantum spin liquid behaviour in single-layer 1T-TaSe2 from scanning tunnelling
+      microscopy' is also from 2021 but is less directly tied to the named discovery.
+  note: The option is theoretical, and the first experimental realizations happened outside these files. Earlier toric-code
+    and anyon demonstrations (photonic and NMR experiments, about 2007–2009) and spin-liquid candidate observations (for example,
+    kappa-(BEDT-TTF)2Cu2(CN)3 in 2003 and herbertsmithite neutron scattering in 2012) were by people not named in the option.
+    The realization anchor is therefore the earliest realization that includes a named person (Kitaev, 2021), not the first
+    realization overall. If only the overall first realization should count, drop that anchor.
+for the proposal of quantum computation with electron spins in semiconductor quantum dots:
+  n_30: 20
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2103282498
+    title: Quantum computation with quantum dots
+    year: 1998
+    from_person: Daniel Loss
+    reason: The original Loss–DiVincenzo proposal, co-authored by both named people. It proposes using single electron spins
+      in coupled semiconductor quantum dots as qubits, with exchange-based two-qubit gates. It is the earliest such paper
+      in either file. The same paper (W2103282498) is also in David DiVincenzo's file.
+  note: I omitted the realization/observation anchor because the first experimental realizations of spin qubits in quantum
+    dots came from groups not named in this option. These are the Kouwenhoven/Vandersypen group (single-shot spin readout
+    in 2004 and single-spin coherent driven rotations in 2006) and the Marcus group (Petta et al. 2005, coherent manipulation
+    of coupled electron spins). None of these papers is in either file. Some experimental papers in the files have a named
+    person as a co-author, but they are later refinements or variants, not the first realization. Examples are DiVincenzo's
+    'Coherent spin manipulation in an exchange-only qubit' (2010), which realizes his own 2000 exchange-only variant, and
+    Loss's InAs nanowire and hole-spin papers (2007).
+for their studies of stellar explosions and the origin of the elements:
+  n_30: 21
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2076306112
+    title: The Explosive Burning of Oxygen and Silicon
+    year: 1973
+    from_person: Stanford Woosley
+    reason: Earliest landmark paper in either file on explosive nucleosynthesis in supernovae. It is Woosley, Arnett and Clayton's
+      prediction of the iron-group and intermediate-mass elements produced by explosive O/Si burning, which is the core of
+      the 'origin of the elements in stellar explosions' program. It comes before Nomoto's 1976 carbon-deflagration paper
+      and the 1978 presupernova models.
+  note: The realization/observation anchor is omitted. The option is a theoretical-modelling program, and the observations
+    that confirmed it were made by people not named in the option, so they are not in the pools. Examples are the detection
+    of 56Co gamma-ray lines and the 56Ni-powered light curve of SN 1987A, and abundance patterns in metal-poor stars. The
+    named people's SN 1987A papers (Woosley 1988 'Supernova 1987A - Six weeks later', Nomoto 1990 light-curve/nucleosynthesis)
+    are models, not first observations. Nomoto's 1998 SN 1998bw paper is an observation of the GRB-supernova link, not of
+    element origin.
+for pioneering theoretical studies of fluctuations in the cosmic microwave background:
+  n_30: 22
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2048017486
+    title: Cosmic background radiation anisotropies in universes dominated by nonbaryonic dark matter
+    year: 1984
+    from_person: George Efstathiou
+    reason: Bond & Efstathiou 1984 is the original calculation of the CMB anisotropy spectrum in dark-matter-dominated universes,
+      including the acoustic-peak structure. It is the earliest work in either pool that makes the prediction this option
+      names. The same paper ID is also in John Richard Bond's pool. The 1987 paper 'The statistics of cosmic background radiation
+      fluctuations' is a later refinement.
+  note: 'I left out the realization/observation anchor. Neither named person made the first observation of CMB fluctuations:
+    COBE DMR detected the anisotropies in 1992 (Smoot, Mather et al.), and that paper is not in these files. Bond''s later
+    observational papers in his pool, such as BOOMERANG 2000 ''A Flat Universe...'' (W3102763870), came after that first detection
+    and measured the peaks in more detail, so they are not the first realization.'
+for fundamental contributions to high-energy astrophysics, galaxies and structure formation, and cosmology:
+  n_30: 23
+  anchors:
+  - label: discovery/prediction
+    paper_id: W1998290692
+    title: 'Studies in Radio Source Structure: I. A Relativistically Expanding Model for Variable Quasi-Stellar Radio Sources'
+    year: 1967
+    from_person: Martin Rees
+    reason: Earliest landmark original in the pool for the option's high-energy astrophysics strand. It is Rees's relativistically
+      expanding source model for variable quasars, which carries the prediction of apparent superluminal motion. His earlier
+      1966 Nature letter falls before the age-25 cutoff and is not in the pool.
+  note: 'This option cites broad theoretical contributions, so no single discovery is named. I used the earliest landmark
+    prediction in the pool, the 1967 relativistic expansion model (superluminal motion). The galaxy and structure-formation
+    strand has its own landmark, White & Rees 1978 ''Core condensation in heavy halos: a two-stage theory for galaxy formation
+    and clustering'' (W1999367759). I left no realization/observation anchor: Rees is a theorist, and superluminal motion
+    was first observed by VLBI groups such as Whitney et al. (1971), who are not named in the option and so are not in the
+    pool.'
+for the detection and theoretical study of the atmospheres of exoplanets through their transits:
+  n_30: 25
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2155828690
+    title: Theoretical Transmission Spectra during Extrasolar Giant Planet Transits
+    year: 2000
+    from_person: Sara Seager
+    reason: Seager & Sasselov's original prediction that transmission spectroscopy during a transit would reveal absorption
+      features, such as sodium, from the atmosphere of an exoplanet.
+  - label: realization/observation
+    paper_id: W2096390283
+    title: Detection of an Extrasolar Planet Atmosphere
+    year: 2002
+    from_person: David Charbonneau
+    reason: 'First observation of an exoplanet atmosphere: HST detected sodium absorption during transits of HD 209458b, confirming
+      the 2000 prediction.'
+  note: Charbonneau's 1999 paper 'Detection of Planetary Transits Across a Sun-like Star' detected the transit itself, not
+    the atmosphere, so it is not an anchor. The 2005 thermal-emission papers are later work that measured planetary emission
+    at secondary eclipse.
+for the discovery of magnetic skyrmion lattices and topological spin textures in chiral magnets:
+  n_30: 24
+  anchors:
+  - label: discovery/prediction
+    paper_id: W1994669668
+    title: Spontaneous skyrmion ground states in magnetic metals
+    year: 2006
+    from_person: Christian Pfleiderer
+    reason: Rößler, Bogdanov & Pfleiderer (Nature 2006) predicted spontaneous skyrmion ground states and lattices in chiral
+      (B20) magnetic metals such as MnSi. It is the earliest prediction paper in the pools that is co-authored by a named
+      person, and it came before the 2009 observation.
+  - label: realization/observation
+    paper_id: W1972081918
+    title: Skyrmion Lattice in a Chiral Magnet
+    year: 2009
+    from_person: Christian Pfleiderer
+    reason: Mühlbauer et al. (Science 2009) were first to observe a skyrmion lattice experimentally, using neutron scattering
+      in the A phase of MnSi. It comes before Tokura/Nagaosa's 2010 real-space Lorentz TEM observation in Fe0.5Co0.5Si (W2168406111).
+  note: The original theory prediction of magnetic skyrmion/vortex states in chiral magnets, Bogdanov & Yablonskii 1989, is
+    by people not named in the option, so it is not in the pools. The 2006 Rößler-Bogdanov-Pfleiderer paper is used instead
+    because it is the first prediction by a named person. Nagaosa's earliest skyrmion paper in the pools is the 2009 theory
+    paper W2026561106, which comes after 2006. Tokura and Nagaosa's first real-space observation is 2010 (W2168406111), which
+    is later than the 2009 neutron discovery.
+for the theory of multiferroic materials, in which magnetic and ferroelectric order coexist:
+  n_30: 27
+  anchors:
+  - label: realization/observation
+    paper_id: W2130156865
+    title: Epitaxial BiFeO 3 Multiferroic Thin Film Heterostructures
+    year: 2003
+    from_person: Nicola A. Spaldin
+    reason: 'Earliest landmark multiferroic paper in the file: the first experimental realization of room-temperature coexisting
+      ferroelectric and magnetic order with large polarization in BiFeO3 thin films (Wang et al. 2003), with Spaldin''s first-principles
+      theory part of the same paper.'
+  note: The original theory paper, Hill (Spaldin) 2000 'Why are there so few magnetic ferroelectrics?' (J. Phys. Chem. B),
+    is not in the pool file, so the discovery/prediction anchor is left out. All works in the file date from 2003 or later.
+    The 2004 theory papers in the file ('The origin of ferroelectricity in magnetoelectric YMnO3' and 'Ab initio prediction
+    of a multiferroic with large polarization and magnetization') are later refinements, so neither is the first prediction.
+for the formulation of the hydrodynamic theories of active matter and flocking:
+  n_30: 26
+  anchors:
+  - label: discovery/prediction
+    paper_id: W2063134919
+    title: 'Long-Range Order in a Two-Dimensional Dynamical XY Model: How Birds Fly Together'
+    year: 1995
+    from_person: John Toner
+    reason: Toner & Tu 1995 is the original hydrodynamic (Toner-Tu) theory of flocking. It predicted true long-range orientational
+      order in 2D for moving flocks, which an equilibrium system cannot have. The same paper is also in Yuhai Tu's file. The
+      1998 'Flocks, herds, and schools' paper is the longer follow-up, and Ramaswamy's 2002 active-suspension hydrodynamics
+      paper came later.
+  - label: realization/observation
+    paper_id: W2055276703
+    title: Long-Lived Giant Number Fluctuations in a Swarming Granular Nematic
+    year: 2007
+    from_person: Sriram Ramaswamy
+    reason: 'Narayan, Ramaswamy & Menon 2007 is the first experimental observation, by a named person, of a signature hydrodynamic
+      prediction: giant number fluctuations in active ordered matter, predicted by Ramaswamy, Simha & Toner 2003 (W2059667163).
+      The 2001 micropipet paper (W2001626540) observed active membrane fluctuations, which are not central to flocking theory,
+      so it was not used.'
+  note: The option is a theory prize, and the named people did not experimentally realize Toner-Tu flocking order itself.
+    The realization anchor is therefore the first experiment by a named person (Ramaswamy) that confirmed a core prediction
+    of active-matter hydrodynamics, giant number fluctuations. Earlier flocking observations, such as Vicsek-type simulations
+    and animal-flock data, were by people not named in the option and are not in the pools.
+for the experimental discovery of the quantum anomalous Hall effect:
+  n_30: 28
+  anchors:
+  - label: realization/observation
+    paper_id: W1970188810
+    title: Experimental Observation of the Quantum Anomalous Hall Effect in a Magnetic Topological Insulator
+    year: 2013
+    from_person: Qikun Xue
+    reason: First experimental observation of the quantum anomalous Hall effect (Cr-doped (Bi,Sb)2Te3 thin films, Science
+      2013). This is the experimental discovery the option names.
+  note: 'The option names an experimental discovery. The theoretical prediction came first and was made by people not named
+    in the option: Haldane in 1988, and for magnetic topological insulators Yu, Zhang, Fang, Dai and others in 2010. Neither
+    paper is in Xue''s pool, so the discovery/prediction anchor is left out. The 2013 Xue et al. paper is the first realization/observation.
+    The 2013  ''Quantum anomalous Hall effect'' paper (W2141360197) and the 2018 ''Topological Materials: Quantum Anomalous
+    Hall System'' paper are reviews or later works, so they were not used.'
+for the first coherent control of a superconducting quantum bit:
+  n_30: 29
+  anchors:
+  - label: realization/observation
+    paper_id: W3102004576
+    title: Coherent control of macroscopic quantum states in a single-Cooper-pair box
+    year: 1999
+    from_person: Yasunobu Nakamura
+    reason: 'The 1999 Nature paper (Nakamura, Pashkin, Tsai) is the first experiment to show time-domain coherent control
+      of a superconducting qubit: Rabi-like oscillations in a Cooper-pair box. It is the result the option names.'
+  note: The option names an experimental first, and no earlier paper by Nakamura proposes coherent control of a superconducting
+    qubit. The theory proposals for Josephson charge qubits (for example Shnirman, Schoen and Hermon 1997, and Makhlin, Schoen
+    and Shnirman) are by people not named in the option, so they are not in the file and the discovery/prediction anchor is
+    left out. Nakamura's 1997 paper 'Spectroscopy of Energy-Level Splitting between Two Macroscopic Quantum States of Charge
+    Coherently Superposed by Josephson Coupling' (W2023727353) is a spectroscopic precursor showing the superposed charge
+    states. It is not a coherent-control proposal, so it is not used as an anchor.
+? for the discovery of fluctuation theorems and exact nonequilibrium work relations that extend thermodynamics to small systems
+  far from equilibrium
+: n_30: 30
+  anchors:
+  - label: discovery/prediction
+    paper_id: W1988388205
+    title: Probability of second law violations in shearing steady states
+    year: 1993
+    from_person: Denis J. Evans
+    reason: Evans-Cohen-Morriss 1993 is the original fluctuation theorem paper. It came before Jarzynski's 1997 work equality
+      (W2149801992) and Crooks' 1998/1999 relations. W3012969688, a duplicate record with the same title and only 79 citations,
+      was not used.
+  - label: realization/observation
+    paper_id: W2012703902
+    title: Experimental Demonstration of Violations of the Second Law of Thermodynamics for Small Systems and Short Time Scales
+    year: 2002
+    from_person: Denis J. Evans
+    reason: Wang, Sevick, Mittag, Searles and Evans (2002) used an optically trapped colloidal particle. This is the first
+      experimental realization of the fluctuation theorem by one of the named laureates.
+  note: The first experimental test of the Jarzynski equality was Liphardt et al. (2002, Science), from the Bustamante group.
+    None of its authors are named in this option, so it is not in the pools. The realization anchor is Evans's 2002 optical-trap
+    experiment from the same year. Jarzynski's 2005 paper (W1975830725) verified the Crooks theorem on RNA and comes later.

@@ -1,0 +1,654 @@
+{
+ "person": "Peter G. Schultz",
+ "profile": "A5066008654",
+ "ids": [
+  "A5066008654"
+ ],
+ "options": [
+  "for the expansion of the genetic code to incorporate unnatural amino acids into proteins — Peter G. Schultz, Jason W. Chin"
+ ],
+ "birth_year": 1956,
+ "cutoff_year": 1981,
+ "works": [
+  {
+   "paper_id": "W2049106847",
+   "year": 1996,
+   "cited_by_count": 2934,
+   "title": "Organization of 'nanocrystal molecules' using DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155897723",
+   "year": 2009,
+   "cited_by_count": 2717,
+   "title": "Metabolomics analysis reveals large effects of gut microflora on mammalian blood metabolites",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2101600063",
+   "year": 2002,
+   "cited_by_count": 2280,
+   "title": "Coordinated Transcription of Key Pathways in the Mouse by the Circadian Clock",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148313902",
+   "year": 2010,
+   "cited_by_count": 1708,
+   "title": "Adding New Chemistries to the Genetic Code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157680389",
+   "year": 2001,
+   "cited_by_count": 1524,
+   "title": "Expanding the Genetic Code of Escherichia coli",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022756254",
+   "year": 2002,
+   "cited_by_count": 1482,
+   "title": "Large-scale analysis of the human and mouse transcriptomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077467499",
+   "year": 2002,
+   "cited_by_count": 1162,
+   "title": "Genomic analysis of the host response to hepatitis C virus infection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020833052",
+   "year": 2007,
+   "cited_by_count": 1133,
+   "title": "Noxious compounds activate TRPA1 ion channels through covalent modification of cysteines",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040568539",
+   "year": 2010,
+   "cited_by_count": 1062,
+   "title": "Aryl Hydrocarbon Receptor Antagonists Promote the Expansion of Human Hematopoietic Stem Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1520738779",
+   "year": 2000,
+   "cited_by_count": 1040,
+   "title": "A chemical switch for inhibitor-sensitive alleles of any protein kinase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058557544",
+   "year": 1995,
+   "cited_by_count": 1020,
+   "title": "A Combinatorial Approach to Materials Discovery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067013502",
+   "year": 1989,
+   "cited_by_count": 1006,
+   "title": "A General Method for Site-specific Incorporation of Unnatural Amino Acids into Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163266294",
+   "year": 2013,
+   "cited_by_count": 916,
+   "title": "Genomically Recoded Organisms Expand Biological Functions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060391020",
+   "year": 2003,
+   "cited_by_count": 842,
+   "title": "An Expanded Eukaryotic Genetic Code",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3044927477",
+   "year": 2020,
+   "cited_by_count": 832,
+   "title": "Discovery of SARS-CoV-2 antiviral drugs through large-scale compound repurposing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994029539",
+   "year": 2013,
+   "cited_by_count": 810,
+   "title": "Targeting Wnt-driven cancer through the inhibition of Porcupine by LGK974",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142801671",
+   "year": 2012,
+   "cited_by_count": 809,
+   "title": "A Stem Cell–Based Approach to Cartilage Repair",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097981550",
+   "year": 1998,
+   "cited_by_count": 806,
+   "title": "Exploiting Chemical Libraries, Structure, and Genomics in the Search for Kinase Inhibitors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077785805",
+   "year": 2002,
+   "cited_by_count": 743,
+   "title": "Addition of a photocrosslinking amino acid to the genetic code of Escherichia coli",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970743827",
+   "year": 2002,
+   "cited_by_count": 726,
+   "title": "Addition of p -Azido- l -phenylalanine to the Genetic Code of Escherichia c oli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166967514",
+   "year": 2005,
+   "cited_by_count": 719,
+   "title": "A Strategy for Probing the Function of Noncoding RNAs Finds a Repressor of NFAT",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157531738",
+   "year": 2001,
+   "cited_by_count": 692,
+   "title": "Molecular classification of human carcinomas by use of gene expression signatures.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043582941",
+   "year": 1991,
+   "cited_by_count": 669,
+   "title": "At the Crossroads of Chemistry and Immunology: Catalytic Antibodies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020437858",
+   "year": 1999,
+   "cited_by_count": 665,
+   "title": "DNA-Based Assembly of Gold Nanocrystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986826865",
+   "year": 2009,
+   "cited_by_count": 638,
+   "title": "An Enhanced System for Unnatural Amino Acid Mutagenesis in E. coli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109155760",
+   "year": 2004,
+   "cited_by_count": 638,
+   "title": "Expanding the Genetic Code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986983782",
+   "year": 1986,
+   "cited_by_count": 629,
+   "title": "Selective Chemical Catalysis by an Antibody",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067570041",
+   "year": 2000,
+   "cited_by_count": 629,
+   "title": "Effects of environmental enrichment on gene expression in the brain",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966645907",
+   "year": 2000,
+   "cited_by_count": 596,
+   "title": "Mitotic Misregulation and Human Aging",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2616139473",
+   "year": 2006,
+   "cited_by_count": 575,
+   "title": "EXPANDING THE GENETIC CODE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141417189",
+   "year": 2008,
+   "cited_by_count": 568,
+   "title": "The role of PTEN/Akt/PI3K signaling in the maintenance and viability of prostate cancer stem-like cell populations",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126183505",
+   "year": 2012,
+   "cited_by_count": 558,
+   "title": "Synthesis of site-specific antibody-drug conjugates using unnatural amino acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964790454",
+   "year": 1999,
+   "cited_by_count": 551,
+   "title": "Single-pair fluorescence resonance energy transfer on freely diffusing molecules: Observation of Förster distance dependence and subpopulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992743196",
+   "year": 1997,
+   "cited_by_count": 551,
+   "title": "Structural Insights into the Evolution of an Antibody Combining Site",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057129242",
+   "year": 1995,
+   "cited_by_count": 528,
+   "title": "A Class of Cobalt Oxide Magnetoresistance Materials Discovered with Combinatorial Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162435350",
+   "year": 1999,
+   "cited_by_count": 525,
+   "title": "Single-molecule fluorescence spectroscopy of enzyme conformational dynamics and cleavage mechanism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069742753",
+   "year": 2012,
+   "cited_by_count": 518,
+   "title": "Identification of Small Molecule Activators of Cryptochrome",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078482008",
+   "year": 2013,
+   "cited_by_count": 504,
+   "title": "A regenerative approach to the treatment of multiple sclerosis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3053604026",
+   "year": 2020,
+   "cited_by_count": 474,
+   "title": "Antitumor activity of a systemic STING-activating non-nucleotide cGAMP mimetic",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064901552",
+   "year": 2000,
+   "cited_by_count": 464,
+   "title": "Single-molecule protein folding: Diffusion fluorescence resonance energy transfer studies of the denaturation of chymotrypsin inhibitor 2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963635975",
+   "year": 2011,
+   "cited_by_count": 456,
+   "title": "Oxysterols direct immune cell migration via EBI2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106374535",
+   "year": 2008,
+   "cited_by_count": 456,
+   "title": "In silico activity profiling reveals the mechanism of action of antimalarials discovered in a high-throughput screen",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018676953",
+   "year": 1995,
+   "cited_by_count": 420,
+   "title": "From Molecular Diversity to Catalysis: Lessons from the Immune System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128315172",
+   "year": 2006,
+   "cited_by_count": 402,
+   "title": "A chemical toolkit for proteins — an expanded genetic code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2233225245",
+   "year": 2016,
+   "cited_by_count": 395,
+   "title": "Switch-mediated activation and retargeting of CAR-T cells for B-cell malignancies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014639631",
+   "year": 2006,
+   "cited_by_count": 383,
+   "title": "Identification of NVP-TAE684, a potent, selective, and efficacious inhibitor of NPM-ALK",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026089250",
+   "year": 2003,
+   "cited_by_count": 381,
+   "title": "Adding Amino Acids with Novel Reactivity to the Genetic Code of Saccharomyces Cerevisiae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972747946",
+   "year": 2003,
+   "cited_by_count": 378,
+   "title": "Synthetic small molecules that control stem cell fate",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117239890",
+   "year": 2002,
+   "cited_by_count": 377,
+   "title": "Structural genomics of the Thermotoga maritima proteome implemented in a high-throughput structure determination pipeline",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4254395832",
+   "year": 2007,
+   "cited_by_count": 365,
+   "title": "Genetic incorporation of unnatural amino acids into proteins in mammalian cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167121336",
+   "year": 2009,
+   "cited_by_count": 363,
+   "title": "Reprogramming of murine fibroblasts to induced pluripotent stem cells with chemical complementation of Klf4",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078362295",
+   "year": 1993,
+   "cited_by_count": 359,
+   "title": "An Unnatural Biopolymer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2897079052",
+   "year": 2018,
+   "cited_by_count": 356,
+   "title": "A metabolite-derived protein modification integrates glycolysis with KEAP1–NRF2 signalling",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976254260",
+   "year": 2010,
+   "cited_by_count": 353,
+   "title": "Beyond the Canonical 20 Amino Acids: Expanding the Genetic Lexicon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974357725",
+   "year": 2002,
+   "cited_by_count": 352,
+   "title": "Addition of the keto functional group to the genetic code of Escherichia coli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034745024",
+   "year": 2011,
+   "cited_by_count": 351,
+   "title": "Imaging of Plasmodium Liver Stages to Drive Next-Generation Antimalarial Drug Discovery",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2783286140",
+   "year": 2018,
+   "cited_by_count": 350,
+   "title": "Playing with the Molecules of Life",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050428267",
+   "year": 2000,
+   "cited_by_count": 347,
+   "title": "A Novel Copper-Mediated DNA Base Pair",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037720445",
+   "year": 2006,
+   "cited_by_count": 328,
+   "title": "A Genetically Encoded Fluorescent Amino Acid",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077438169",
+   "year": 2001,
+   "cited_by_count": 327,
+   "title": "Functionalized xenon as a biosensor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010547317",
+   "year": 2007,
+   "cited_by_count": 321,
+   "title": "Essential role of stromally induced hedgehog signaling in B-cell malignancies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083076197",
+   "year": 2001,
+   "cited_by_count": 321,
+   "title": "The effects of aging on gene expression in the hypothalamus and cortex of mice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106687445",
+   "year": 2004,
+   "cited_by_count": 319,
+   "title": "An expanded genetic code with a functional quadruplet codon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141735006",
+   "year": 2006,
+   "cited_by_count": 317,
+   "title": "Efficient incorporation of unnatural amino acids into proteins in Escherichia coli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024156903",
+   "year": 2004,
+   "cited_by_count": 316,
+   "title": "A Genetically Encoded Photocaged Amino Acid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020165280",
+   "year": 2015,
+   "cited_by_count": 314,
+   "title": "Auranofin exerts broad-spectrum bactericidal activities by targeting thiol-redox homeostasis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094405449",
+   "year": 2006,
+   "cited_by_count": 311,
+   "title": "Self-renewal of embryonic stem cells by a small molecule",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084922131",
+   "year": 2013,
+   "cited_by_count": 309,
+   "title": "A Versatile Platform for Single- and Multiple-Unnatural Amino Acid Mutagenesis in Escherichia coli",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141607135",
+   "year": 2014,
+   "cited_by_count": 309,
+   "title": "A general approach to site-specific antibody drug conjugates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094233225",
+   "year": 1991,
+   "cited_by_count": 308,
+   "title": "General approach to the synthesis of short .alpha.-helical peptides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031675589",
+   "year": 2004,
+   "cited_by_count": 306,
+   "title": "A role for chemistry in stem cell biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010654635",
+   "year": 1998,
+   "cited_by_count": 287,
+   "title": "Identification of a Blue Photoluminescent Composite Material from a Combinatorial Library",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086948497",
+   "year": 2003,
+   "cited_by_count": 285,
+   "title": "Dedifferentiation of Lineage-Committed Cells by a Small Molecule",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991080086",
+   "year": 2008,
+   "cited_by_count": 283,
+   "title": "A chemical biology approach reveals period shortening of the mammalian circadian clock by specific inhibition of GSK-3β",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093602098",
+   "year": 1994,
+   "cited_by_count": 280,
+   "title": "Mechanistic Studies of the Oxidation of Isoniazid by the Catalase Peroxidase from Mycobacterium tuberculosis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978880815",
+   "year": 2006,
+   "cited_by_count": 279,
+   "title": "A genetically encoded fluorescent amino acid",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040608320",
+   "year": 1992,
+   "cited_by_count": 279,
+   "title": "Peptide ligands for a sugar-binding protein isolated from a random peptide library.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017602203",
+   "year": 2003,
+   "cited_by_count": 277,
+   "title": "Generation of a Bacterium with a 21 Amino Acid Genetic Code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126910411",
+   "year": 2003,
+   "cited_by_count": 277,
+   "title": "Profiling of tyrosine phosphorylation pathways in human cells using mass spectrometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2236608562",
+   "year": 2016,
+   "cited_by_count": 269,
+   "title": "Versatile strategy for controlling the specificity and activity of engineered T cells",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

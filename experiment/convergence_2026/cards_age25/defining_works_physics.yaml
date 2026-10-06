@@ -1,0 +1,2203 @@
+# Defining works per physics person (cards_age25.py cards reads this). Chosen 2026-10-05 by one LLM agent per
+# person from the 80 most-cited research works from age 25 on, live OpenAlex included
+# (cards_age25/_work/pool_files/<slug>.json; flags metrics/in_profile): up to
+# three works most tied to the discovery of the person's option, landmark originals first; the card fills
+# missing slots with the most-cited remaining works. 'note' = the agent's concerns (missing landmarks, namesakes).
+Alan H. Guth:
+  picks:
+  - paper_id: W2134251287
+    year: 1981
+    title: 'Inflationary universe: A possible solution to the horizon and flatness problems'
+    metrics: true
+    in_profile: true
+    reason: 1981 founding paper that proposed cosmic inflation
+  - paper_id: W2164459358
+    year: 1982
+    title: Fluctuations in the New Inflationary Universe
+    metrics: true
+    in_profile: true
+    reason: 1982 Guth-Pi computation of density perturbations from quantum fluctuations during inflation, the quantum origin
+      of structure
+  - paper_id: W2069871288
+    year: 1983
+    title: Could the universe have recovered from a slow first-order phase transition?
+    metrics: true
+    in_profile: true
+    reason: 1983 Guth-Weinberg analysis of the graceful-exit problem of old inflation, a key step in formulating the theory
+  n_related: 45
+  note: 'The landmark papers are present: the 1981 inflation paper and the 1982 Guth-Pi fluctuations paper. The 1985 Guth-Pi
+    paper "Quantum mechanics of the scalar field in the new inflationary universe" (W2173216839, 438 citations) could replace
+    pick 3. It ties directly to the quantum-origin part. Pick 3 went to the 1983 paper because it has more citations. Duplicate
+    records: the 1980 monopole paper (W2055148549 and W4234464502), the 1981 inflation paper (W2999585416, a 1986 reprint
+    with 0 citations), "Inflationary paradigm after Planck 2013", "What can the observation of nonzero curvature tell us",
+    "Do dark matter axions form a condensate", the time machine papers, and the Inflation 1993 records. Several unrelated
+    works look like Guth''s own earlier particle-physics papers, not a namesake''s: the Bethe-Salpeter/pion papers (1974-76)
+    and the lattice gauge papers (1980). The Cosmic Bell Test, MSW neutrino and Gravity Probe B torsion papers are later collaborations.
+    W3047499632 has a null title. n_related is approximate: it counts all inflation and early-universe phase-transition works,
+    including reviews and books.'
+Albrecht Karle:
+  picks:
+  - paper_id: W1530183786
+    year: 2013
+    title: Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector
+    metrics: false
+    in_profile: false
+    reason: '2013 Science paper reporting the first evidence for a high-energy astrophysical neutrino flux (HESE, 28 events):
+      the landmark discovery itself.'
+  - paper_id: W2496932746
+    year: 2016
+    title: OBSERVATION AND CHARACTERIZATION OF A COSMIC MUON NEUTRINO FLUX FROM THE NORTHERN HEMISPHERE USING SIX YEARS OF
+      ICECUBE DATA
+    metrics: true
+    in_profile: true
+    reason: Independent observation of the cosmic neutrino flux in the through-going muon channel, confirming the discovery
+      at >5 sigma.
+  - paper_id: W1931086765
+    year: 2015
+    title: Evidence for Astrophysical Muon Neutrinos from the Northern Sky with IceCube
+    metrics: true
+    in_profile: true
+    reason: 2015 PRL giving the first independent evidence for the astrophysical flux in up-going muon neutrinos, the first
+      confirmation of the 2013 result.
+  n_related: 13
+  note: 'Two expected landmarks are missing from the pool: the 2013 PRL "First Observation of PeV-Energy Neutrinos with IceCube"
+    (Bert and Ernie) and the 2014 PRL "Observation of High-Energy Astrophysical Neutrinos in Three Years of IceCube Data".
+    Other related works are refinements or characterisations: the 2015 combined maximum-likelihood flux analysis, the 7.5-year
+    HESE paper, the 2020 cascade flux paper, the self-veto paper, and the Fermi-2LAC blazar and Galactic constraint papers.
+    They also include precursor diffuse searches (IC40, AMANDA-II) and limits (EHE). Karle''s own main contribution is instrumental,
+    through the detector-building papers (instrumentation 2017, DAQ 2009, first-year performance 2006). These enable the discovery
+    but are not discovery papers. The 1996 HEGRA Crab and 1997 Baikal papers are consistent with his early career, so they
+    are not a namesake. "The IceCube Collaboration" (2005) has an ambiguous title.'
+Alexei Y. Kitaev:
+  picks:
+  - paper_id: W2135273380
+    year: 2003
+    title: Fault-tolerant quantum computation by anyons
+    metrics: true
+    in_profile: true
+    reason: 'Toric code paper: an exactly solvable model of topological order that is also the founding topological quantum
+      error-correcting code, so it fits both options.'
+  - paper_id: W2141708961
+    year: 2006
+    title: Anyons in an exactly solved model and beyond
+    metrics: true
+    in_profile: true
+    reason: 'Kitaev honeycomb model: the landmark exactly solvable quantum spin liquid with non-Abelian anyons.'
+  - paper_id: W2159566537
+    year: 1997
+    title: 'Quantum computations: algorithms and error correction'
+    metrics: true
+    in_profile: true
+    reason: Kitaev's 1997 original paper on quantum error correction and fault-tolerant computation, which includes the first
+      topological/toric-code ideas.
+  n_related: 22
+  note: 'The card lists two options: quantum error correction/fault tolerance, and spin liquids/topological order. The toric
+    code paper (W2135273380) fits both. Missing from the pool: ''Topological quantum memory'' (Dennis, Kitaev, Landahl, Preskill
+    2002) appears only as a garbled record with 0 citations (''Topological quantum memory aÖ'', W2339930214), so the real
+    highly cited record is absent. Kitaev''s 1995 quantum phase-estimation paper and 2001 Majorana-chain paper are also missing
+    (the Majorana chain is not central to either option). Duplicate records: magic states (W2079294297 vs W155452102 vs W2966914667),
+    Fredholm determinants, lattice gas, and universal manifold pairings. Two records have null titles (W2781287371, W2407289119).
+    The 2021 Google quantum-processor papers (cyclic error correction, time crystals, scrambling) are large-team experimental
+    papers that relate only loosely. Close candidate for the third pick: ''Topological Entanglement Entropy'' (W2046439097,
+    2363 citations). It characterises topological order rather than proposing the solvable models, so the original 1997 fault-tolerance
+    paper was chosen instead.'
+Alfred Y. Cho:
+  picks:
+  - paper_id: W4213168521
+    year: 1994
+    title: Quantum Cascade Laser
+    metrics: true
+    in_profile: true
+    reason: '1994 Science paper (Faist, Capasso, Sivco, Sirtori, Hutchinson, Cho): first demonstration of the quantum cascade
+      laser'
+  - paper_id: W2026572776
+    year: 1996
+    title: High power mid-infrared (λ∼5 μm) quantum cascade lasers operating above room temperature
+    metrics: true
+    in_profile: true
+    reason: '1996 milestone: first QCL to operate above room temperature, which made the device practical'
+  - paper_id: W2061265139
+    year: 1995
+    title: Vertical transition quantum cascade laser with Bragg confined excited state
+    metrics: true
+    in_profile: true
+    reason: 1995 original refinement of the QCL active-region design (vertical transition, Bragg-confined state) by the founding
+      team
+  n_related: 48
+  note: 'The landmark 1994 Science QCL paper is in the pool and is the top-cited work. About 48 of the 80 works are QCL papers:
+    device variants, reviews and spectroscopy applications. The 1997 Science superlattice-laser paper (W2015300034, 180 cites)
+    and the 1994 temperature-dependence paper (W1999458145) were close alternatives for the 2nd and 3rd picks. The 1986 sequential
+    resonant tunneling paper (W2074542813) is a conceptual precursor, not the invention itself. The pre-1990 molecular beam
+    epitaxy (MBE) works (1969-1983, flagged not in profile) are consistent with Cho''s real MBE career and do not look like
+    a namesake''s, but they relate to MBE, not the QCL. I saw no namesake contamination.'
+Allan H. MacDonald:
+  picks:
+  - paper_id: W2127169435
+    year: 2011
+    title: Moiré bands in twisted double-layer graphene
+    metrics: true
+    in_profile: true
+    reason: Bistritzer-MacDonald 2011 continuum model that predicted flat bands at the magic angle, the theoretical half of
+      the discovery
+  - paper_id: W2982376788
+    year: 2019
+    title: Superconductors, orbital magnets and correlated states in magic-angle bilayer graphene
+    metrics: true
+    in_profile: true
+    reason: 2019 Nature experiment (Efetov group, MacDonald co-author) observing superconductivity, correlated insulators
+      and orbital magnetism in magic-angle TBG
+  - paper_id: W2591990932
+    year: 2017
+    title: Tunable moiré bands and strong correlations in small-twist-angle bilayer graphene
+    metrics: true
+    in_profile: true
+    reason: 2017 PNAS experiment-theory work showing strong correlations in small-twist-angle bilayer graphene, a direct precursor
+      to the correlated-insulator observation
+  n_related: 8
+  note: 'The landmark 2018 Cao et al. Nature papers (correlated insulator; unconventional superconductivity) are by Jarillo-Herrero''s
+    group and are not MacDonald''s, so as expected they are not in the pool. Other related TBG works in the pool: ''Theory
+    of Phonon-Mediated Superconductivity in Twisted Bilayer Graphene'' (2018, 479 cites), which was a close fourth pick; ''On
+    the nature of the correlated insulator states in twisted bilayer graphene'' (2018); ''Correlated Insulating States in
+    Twisted Double Bilayer Graphene'' (2019); ''Topologically Protected Helical States in Minimally Twisted Bilayer Graphene''
+    (2018); and ''The marvels of moiré materials'' (2021 perspective). Moiré works on TMDs (Hubbard model, moiré excitons)
+    and the 2014 ab initio moiré work are adjacent to the discovery but not counted. No entries look like they belong to a
+    namesake.'
+Andrei Linde:
+  picks:
+  - paper_id: W1973861971
+    year: 1982
+    title: 'A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and
+      primordial monopole problems'
+    metrics: true
+    in_profile: true
+    reason: Landmark 1982 'new inflation' paper; it fixed Guth's graceful-exit problem and made inflation viable.
+  - paper_id: W4256093087
+    year: 1983
+    title: Chaotic inflation
+    metrics: true
+    in_profile: true
+    reason: 1983 original proposal of chaotic inflation, the simple framework that most inflation models still build on.
+  - paper_id: W2007421650
+    year: 1982
+    title: Scalar field fluctuations in the expanding universe and the new inflationary universe scenario
+    metrics: true
+    in_profile: true
+    reason: 1982 original analysis of quantum scalar-field fluctuations during inflation, which covers the quantum-origin-of-structure
+      half of the citation.
+  n_related: 22
+  note: 'All of Linde''s foundational inflation papers are in the pool. Pick 3 was close. ''Eternally existing self-reproducing
+    chaotic inflationary universe'' (1986, 774 cites) is slightly more cited but is about eternal inflation, not the origin
+    of structure. The pool also has other related works: ''Generation of density perturbations in inflationary cosmology''
+    (1987), ''Coleman-Weinberg theory and the new inflationary universe scenario'' (1982), the reviews (''Particle Physics
+    and Inflationary Cosmology'' 1987, ''The inflationary Universe'' 1984) and many later refinements (hybrid inflation, alpha-attractors,
+    inflation in string theory). Many other papers in the pool are about inflation more broadly, so n_related is approximate.
+    No namesake entries seen. Every work matches Linde''s known research areas: thermal field theory, inflation, reheating
+    and string cosmology.'
+Carlos Frenk:
+  picks:
+  - paper_id: W2032469582
+    year: 1985
+    title: The evolution of large-scale structure in a universe dominated by cold dark matter
+    metrics: true
+    in_profile: true
+    reason: 'Davis, Efstathiou, Frenk & White 1985 (DEFW): the first big N-body simulations of CDM, showing that it reproduces
+      observed galaxy clustering.'
+  - paper_id: W1973787491
+    year: 1988
+    title: The formation of dark halos in a universe dominated by cold dark matter
+    metrics: true
+    in_profile: true
+    reason: 'Frenk, White, Davis & Efstathiou 1988: DEFW simulations of how dark halos form in CDM and how they compare with
+      galaxies and clusters.'
+  - paper_id: W1993132186
+    year: 1985
+    title: Numerical techniques for large cosmological N-body simulations
+    metrics: true
+    in_profile: true
+    reason: 'Efstathiou, Davis, Frenk & White 1985: the companion paper describing the simulation methods behind the DEFW
+      CDM programme.'
+  n_related: 20
+  note: 'The three DEFW originals in the pool are the picks. Two DEFW Nature papers are missing from the pool: Frenk, White,
+    Efstathiou & Davis 1985, ''Cold dark matter, the structure of galactic haloes and the clustering of galaxies'', and White,
+    Frenk, Davis & Efstathiou 1987, ''Clusters, filaments and voids in a universe dominated by cold dark matter''. White,
+    Davis, Efstathiou & Frenk 1987, ''Galaxy distribution in a cold dark matter universe'', is also missing. Navarro, Frenk
+    & White 1996, ''The Structure of Cold Dark Matter Halos'' (8,212 citations, marked not in profile), is the NFW profile.
+    It is a famous later CDM result, but it refines the model rather than establishing it, so it was not picked. Many later
+    works build on CDM: the Millennium simulation (2005), Aquarius, the inner-structure series of CDM haloes, EAGLE, and the
+    1998 ''Evolution of Structure in Cold Dark Matter Universes''. These count as related but are later refinements. The pool
+    also has many 2dFGRS and GAMA survey papers that do not relate to the discovery. No entries look like a namesake''s.'
+Charles H. Bennett:
+  picks:
+  - paper_id: W2015179126
+    year: 2014
+    title: 'Quantum cryptography: Public key distribution and coin tossing'
+    metrics: true
+    in_profile: true
+    reason: BB84, the original quantum key distribution protocol with Brassard; the landmark of quantum cryptography (2014
+      TCS reprint of the 1984 paper)
+  - paper_id: W1978553093
+    year: 1993
+    title: Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels
+    metrics: true
+    in_profile: true
+    reason: Original quantum teleportation proposal, a foundational quantum-information protocol co-authored with Brassard;
+      the most-cited work in the pool
+  - paper_id: W2006226307
+    year: 1992
+    title: Quantum cryptography using any two nonorthogonal states
+    metrics: true
+    in_profile: true
+    reason: B92 protocol, Bennett's own primary follow-up QKD scheme that extends the cryptography discovery
+  n_related: 42
+  note: 'The BB84 entry is the 2014 Theoretical Computer Science reprint. The original 1984 proceedings paper is not in the
+    pool as its own record, and W2313440826 is a withdrawn duplicate of the same paper with fewer citations. Other strong
+    candidates are superdense coding (W2020725861, 5354 citations), the first experimental QKD (W4214950786), and the BBM92
+    entanglement-based QKD paper (W1997124098). For the ''quantum algorithms'' part of the option, Bennett''s closest works
+    are ''Elementary gates for quantum computation'' and ''Strengths and Weaknesses of Quantum Computing'' (W2006290558, with
+    a low-citation duplicate W2601248643). Shor''s factoring algorithm belongs to a co-laureate, so it is not expected in
+    this pool. Some entries look like they belong to someone with the same name: python parthenogenesis (2014), forensic psychiatric
+    hospital design (2002), Great Britain Historical GIS (2002), and ''Current Literature 2002 ... Poetry''.'
+Charles L. Kane:
+  picks:
+  - paper_id: W2030164271
+    year: 2005
+    title: Quantum Spin Hall Effect in Graphene
+    metrics: true
+    in_profile: true
+    reason: Kane-Mele 2005 original proposal of the quantum spin Hall (2D topological insulator) state.
+  - paper_id: W2088198211
+    year: 2005
+    title: Z 2 Topological Order and the Quantum Spin Hall Effect
+    metrics: true
+    in_profile: true
+    reason: Introduces the Z2 invariant that defines the topological insulator / QSH phase.
+  - paper_id: W1983970619
+    year: 2007
+    title: Topological Insulators in Three Dimensions
+    metrics: true
+    in_profile: true
+    reason: Fu-Kane-Mele 2007 extension of the theory to 3D topological insulators (strong/weak Z2 indices).
+  n_related: 22
+  note: Strong runner-up is W2031028572 'Topological insulators with inversion symmetry' (2007, 4083 cites), which predicted
+    Bi1-xSbx and was the basis for the first 3D TI observation. The 2010 Colloquium (19106 cites) is the most-cited work but
+    is a review, so it was not picked. 'Superconducting Proximity Effect and Majorana Fermions...' appears twice (W2168226651
+    with 4732 cites, W2154083514 with 258); it is a later application. W1984638721 (grocery-retailer logistics, 2011) looks
+    like a namesake's work. Molenkamp's HgTe experimental observation is not expected in Kane's pool.
+Chihaya Adachi:
+  picks:
+  - paper_id: W2150702843
+    year: 2012
+    title: Highly efficient organic light-emitting diodes from delayed fluorescence
+    metrics: true
+    in_profile: true
+    reason: 2012 Nature landmark showing that carbazolyl dicyanobenzene TADF emitters reach about 100% exciton harvesting
+      in OLEDs, which defines the TADF approach
+  - paper_id: W2051293602
+    year: 2001
+    title: Nearly 100% internal phosphorescence efficiency in an organic light-emitting device
+    metrics: true
+    in_profile: true
+    reason: 2001 Adachi/Baldo/Thompson/Forrest demonstration of about 100% internal efficiency with Ir(ppy)3 phosphorescent
+      OLEDs, the phosphorescent half of the discovery
+  - paper_id: W2102979770
+    year: 2009
+    title: Thermally Activated Delayed Fluorescence from Sn 4+ –Porphyrin Complexes and Their Application to Organic Light
+      Emitting Diodes — A Novel Mechanism for Electroluminescence
+    metrics: true
+    in_profile: true
+    reason: 2009 first demonstration of TADF used as an electroluminescence mechanism in OLEDs, the original proposal that
+      the 2012 work built on
+  n_related: 57
+  note: 'The pool clearly belongs to the right person: a Kyushu/Princeton-era OLED researcher. Other strong candidates were
+    2011 ''Efficient up-conversion of triplet excitons...'' (W1966957194), 2012 RISC (W2005259257), 2014 blue TADF (W1965207322)
+    and 2001 Ir complexes (W2052329392). The earlier Baldo/Forrest/Thompson 1998 Nature electrophosphorescence paper (PtOEP)
+    is not in the pool. That is expected, because Adachi was not an author. Unrelated entries left out: the 1988–1997 fluorescent
+    multilayer EL papers; perovskite, CNT and nucleotide-nanoparticle papers; persistent RTP and long-persistent-luminescence
+    papers; and metrology papers on PLQY and orientation. The 2014 ''Correction: Corrigendum'' (W2785658572) is an erratum
+    record, and ''Controlling Singlet–Triplet Energy Splitting...'' appears twice (W2565165201 and W4234557939).'
+Christian Pfleiderer:
+  picks:
+  - paper_id: W1972081918
+    year: 2009
+    title: Skyrmion Lattice in a Chiral Magnet
+    metrics: true
+    in_profile: true
+    reason: '2009 Science landmark: first observation, by neutron scattering, of a skyrmion lattice in the A phase of MnSi'
+  - paper_id: W1994669668
+    year: 2006
+    title: Spontaneous skyrmion ground states in magnetic metals
+    metrics: true
+    in_profile: true
+    reason: '2006 Nature (Rößler, Bogdanov, Pfleiderer): proposed that skyrmion ground states form spontaneously in chiral
+      magnets'
+  - paper_id: W1973407199
+    year: 2009
+    title: Topological Hall Effect in the A Phase of MnSi
+    metrics: true
+    in_profile: true
+    reason: '2009 PRL: transport evidence of the skyrmion lattice''s topology through the topological Hall effect'
+  n_related: 36
+  note: 'No expected landmark is missing. Also closely related, and next in line: Emergent electrodynamics of skyrmions (2012,
+    W2081976812), Spin Transfer Torques in MnSi (2010), Skyrmion lattice in Fe1-xCoxSi (2010) and Unwinding by Magnetic Monopoles
+    (2013). Two epilepsy fMRI papers (W2017213996, W2077563110) look like a namesake''s work. Many pool works are earlier
+    MnSi/ZrZn2 non-Fermi-liquid and quantum-criticality papers by the same person; these are unrelated to the skyrmion discovery.
+    The n_related count is approximate, because borderline helimagnon and magnon papers were included.'
+Christoph Gerber:
+  picks:
+  - paper_id: W3150248096
+    year: 1986
+    title: Atomic Force Microscope
+    metrics: false
+    in_profile: false
+    reason: The 1986 Binnig–Quate–Gerber PRL that introduced the atomic force microscope, the landmark original.
+  - paper_id: W2003988271
+    year: 1987
+    title: Atomic Resolution with Atomic Force Microscope
+    metrics: false
+    in_profile: false
+    reason: The 1987 follow-up showing that the new AFM reaches atomic resolution; this is the more-cited of two duplicate
+      records.
+  - paper_id: W2047397440
+    year: 2000
+    title: Low Temperature Scanning Force Microscopy of the Si(111)−(7×7) Surface
+    metrics: false
+    in_profile: false
+    reason: Primary AFM research showing atomic-resolution force microscopy on Si(111)7x7; a refinement of the method rather
+      than the original.
+  n_related: 14
+  note: 'Both landmark AFM originals are in the pool. W2016870976 (1987, 82 cites) is a duplicate of W2003988271 and was not
+    picked. Pick 3 is a weak choice. Other primary AFM papers that could replace it are W2335480768 (1996, dynamic force microscopy
+    on Si 7x7) and W2044265274 (1991, low-temperature AFM/STM instrument). The more-cited AFM items are reviews and were deliberately
+    not picked: W2604286980, W2899513440, W2613888280, W2095293979, W2055959755 and W3142639090. The 1982-83 STM papers (W2110167104,
+    W1983684958, W2067326868) are Gerber''s real work with Binnig and Rohrer, but they are about STM, not AFM. Cantilever-array
+    sensor papers are applications built on AFM technology and were counted only loosely. Several entries look like other
+    people with the same name: W2056628858 (D0 silicon detector), W1222897373 (ductal adenocarcinoma), W2066976976 (hemiparkinsonian
+    rats) and possibly W2053414539 (GdAlO3, 1977). The IBM Zurich oxide-memory and YBCO papers are plausibly his but are unrelated
+    to AFM.'
+Christopher Jarzynski:
+  picks:
+  - paper_id: W2149801992
+    year: 1997
+    title: Nonequilibrium Equality for Free Energy Differences
+    metrics: true
+    in_profile: true
+    reason: 1997 PRL that introduced the Jarzynski equality, the exact nonequilibrium work relation <e^{-βW}> = e^{-βΔF}.
+  - paper_id: W2040008731
+    year: 1997
+    title: 'Equilibrium free-energy differences from nonequilibrium measurements: A master-equation approach'
+    metrics: true
+    in_profile: true
+    reason: 1997 companion paper that proves the work relation for stochastic (master-equation) dynamics, extending the original
+      result.
+  - paper_id: W1975830725
+    year: 2005
+    title: Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies
+    metrics: true
+    in_profile: true
+    reason: 2005 single-molecule RNA-pulling experiment that confirmed the Crooks fluctuation theorem and recovered free energies
+      with the work relations.
+  n_related: 36
+  note: 'The landmark 1997 originals are both in the pool. Another strong primary candidate was W1636243797, "Hamiltonian
+    Derivation of a Detailed Fluctuation Theorem" (2000, 313 citations). I ranked it below the 2005 experimental verification
+    because the verification has far more citations (1013). The pool also has major reviews: W2128706048 (2011, 993 citations)
+    and W2157576622 (2008). These look like a namesake''s work: W2778109668 and W2087884383 (1995, synthesis of element 110
+    by the 59Co+209Bi reaction) are nuclear-chemistry papers, not his. W3204960911 and W3166606521 ("Understanding cytoskeletal
+    avalanches...") are duplicate records. The co-laureates'' founding papers are by other authors, so as expected they are
+    not in this pool: Evans–Cohen–Morriss 1993, Evans–Searles 1994, Crooks 1999.'
+Daniel Loss:
+  picks:
+  - paper_id: W2103282498
+    year: 1998
+    title: Quantum computation with quantum dots
+    metrics: true
+    in_profile: true
+    reason: The 1998 Loss-DiVincenzo PRA paper that proposed electron-spin qubits in quantum dots, the founding paper for
+      the discovery.
+  - paper_id: W2006041413
+    year: 1999
+    title: Coupled quantum dots as quantum gates
+    metrics: true
+    in_profile: true
+    reason: Burkard-Loss-DiVincenzo 1999 primary article working out the exchange-coupled double-dot two-qubit gate at the
+      heart of the proposal.
+  - paper_id: W2097039598
+    year: 1999
+    title: Quantum Information Processing Using Quantum Dot Spins and Cavity QED
+    metrics: false
+    in_profile: true
+    reason: 1999 primary proposal (Imamoglu, Loss et al.) extending quantum-dot spin qubits with cavity-mediated coupling
+      for long-range gates.
+  n_related: 26
+  note: 'The landmark 1998 Loss-DiVincenzo paper is in the pool and is the top-cited work. About 26 works relate to the discovery:
+    the gate design, decoherence of spin qubits (nuclei, phonons, holes), EDSR spin control, graphene and nanowire spin qubits,
+    and reviews such as ''Prospects for Spin-Based Quantum Computing in Quantum Dots'' (2013). Other papers that could be
+    the third pick: ''Electron Spin Decoherence in Quantum Dots due to Interaction with Nuclei'' (2002, 783 citations) or
+    ''Double-occupancy errors...'' (2001). Not related to the discovery: the molecular-magnet, Majorana/topological, Berry-phase
+    and persistent-current lines. Two 2016/2020 works marked in_profile=false (Majorana/Andreev topics) fit Loss''s later
+    research, so they do not look like a namesake''s. No namesake concerns.'
+David Charbonneau:
+  picks:
+  - paper_id: W2096390283
+    year: 2002
+    title: Detection of an Extrasolar Planet Atmosphere
+    metrics: true
+    in_profile: true
+    reason: 2002 HST detection of sodium in HD 209458b's atmosphere via transmission spectroscopy during transit, the first
+      detection of an exoplanet atmosphere.
+  - paper_id: W3105451511
+    year: 1999
+    title: Detection of Planetary Transits Across a Sun-like Star
+    metrics: false
+    in_profile: false
+    reason: 1999 discovery of the first exoplanet transit (HD 209458b), which made transit-based atmospheric study possible.
+  - paper_id: W2150632669
+    year: 2005
+    title: Detection of Thermal Emission from an Extrasolar Planet
+    metrics: false
+    in_profile: false
+    reason: 2005 Spitzer secondary-eclipse detection of a planet's own thermal emission, the first direct atmospheric emission
+      measurement from an exoplanet.
+  n_related: 31
+  note: 'No expected landmark is missing: the 1999 transit, the 2002 sodium atmosphere and the 2005 thermal-emission papers
+    are all in the pool. ''The Broadband Infrared Emission Spectrum of the Exoplanet HD 189733b'' (2008) appears twice (W2054655173
+    with 302 citations, W3099400026 with 181). Many later atmosphere papers relate (2007 HD 189733b day-night map, 2008 haze,
+    2008 water, 2008 temperature inversion, the GJ1214b spectra) but they are follow-ups. The many Kepler/TESS/MEarth survey
+    papers carry high citation counts but are about planet detection and occurrence rates, not atmospheres. No entries look
+    like a namesake''s.'
+David DiVincenzo:
+  picks:
+  - paper_id: W2103282498
+    year: 1998
+    title: Quantum computation with quantum dots
+    metrics: true
+    in_profile: true
+    reason: Loss-DiVincenzo 1998 PRA original proposal of electron-spin qubits in quantum dots with exchange-gated two-qubit
+      operations
+  - paper_id: W2006041413
+    year: 1999
+    title: Coupled quantum dots as quantum gates
+    metrics: true
+    in_profile: true
+    reason: Burkard-Loss-DiVincenzo 1999 direct follow-up computing the exchange coupling in double dots that realizes the
+      proposed spin gate
+  - paper_id: W2097039598
+    year: 1999
+    title: Quantum Information Processing Using Quantum Dot Spins and Cavity QED
+    metrics: false
+    in_profile: true
+    reason: 1999 PRL extending quantum-dot electron-spin qubits to cavity-mediated coupling, a core early elaboration of the
+      spin-qubit scheme
+  n_related: 13
+  note: The landmark 1998 Loss-DiVincenzo paper is in the pool. Other related works include Universal quantum computation
+    with the exchange interaction (2000), ESR transistors in SiGe (2000), Anisotropic spin exchange (2001), Spin-orbit coupling
+    in quantum gates (2003), Double Quantum Dot as a Quantum Bit (2005), the spin-filter readout paper (1999), Quantum computers
+    and quantum coherence (1999 review), and the exchange-only and GaAs spin-qubit experiments (2010, 2013, 2014). Much of
+    the high-citation pool is general quantum information work (error correction, elementary gates, the DiVincenzo criteria,
+    bound entanglement), which is not specific to the spin-dot discovery. The early condensed-matter papers (graphite intercalation,
+    quasicrystals) fit DiVincenzo's career and do not look like a namesake's work. The two 'complexity of stoquastic local
+    Hamiltonian problems' entries are duplicates of each other, and neither relates to the discovery.
+David R. Smith:
+  picks:
+  - paper_id: W2027652501
+    year: 2000
+    title: Composite Medium with Simultaneously Negative Permeability and Permittivity
+    metrics: true
+    in_profile: true
+    reason: '2000 PRL: first composite medium with negative permittivity and permeability at the same time, the original left-handed
+      metamaterial.'
+  - paper_id: W1990245077
+    year: 2001
+    title: Experimental Verification of a Negative Index of Refraction
+    metrics: true
+    in_profile: true
+    reason: '2001 Science (Shelby, Smith, Schultz): the landmark experiment showing negative refraction in a metamaterial.'
+  - paper_id: W2117305317
+    year: 2000
+    title: Negative Refractive Index in Left-Handed Materials
+    metrics: true
+    in_profile: true
+    reason: '2000 Smith and Kroll: theory showing that left-handed media have a negative refractive index; companion to the
+      composite-medium paper.'
+  n_related: 20
+  note: 'Both landmark originals (2000 PRL and 2001 Science) are in the pool. About 20 works relate directly to the discovery:
+    negative-index and left-handed media, metamaterial parameter retrieval, and indefinite media. This count includes reviews
+    such as ''Metamaterials and Negative Refractive Index'' (2004, Science review). Cloaking, transformation optics and absorber
+    papers were left out as later applications. Some entries look like a namesake''s or a different David R. Smith''s: the
+    plasmonic nanoparticle and nanowire papers (2000-2003, probably the same person''s UCSD collaboration with Schultz, so
+    plausible), ''Cosmological constraints on theories with large extra dimensions'' (1999), ''User-configurable MAGIC for
+    electromagnetic PIC calculations'' (1995) and ''Single-target molecule detection...'' (2000). None of these affects the
+    picks.'
+Denis J. Evans:
+  picks:
+  - paper_id: W1988388205
+    year: 1993
+    title: Probability of second law violations in shearing steady states
+    metrics: true
+    in_profile: true
+    reason: 'Evans-Cohen-Morriss 1993 PRL: the original steady-state fluctuation theorem, found in simulations of a sheared
+      fluid'
+  - paper_id: W2053423120
+    year: 1994
+    title: Equilibrium microstates which generate second law violating steady states
+    metrics: true
+    in_profile: true
+    reason: 'Evans-Searles 1994: derives the transient fluctuation theorem for the dissipation function'
+  - paper_id: W2012703902
+    year: 2002
+    title: Experimental Demonstration of Violations of the Second Law of Thermodynamics for Small Systems and Short Time Scales
+    metrics: true
+    in_profile: true
+    reason: 'Wang et al. 2002 PRL: first experimental confirmation of the fluctuation theorem, using an optically trapped
+      colloidal bead'
+  n_related: 18
+  note: The 1993 PRL appears twice. W1988388205 has 1612 citations and W3012969688 has 79, so I picked the more cited record.
+    'The Fluctuation Theorem' (W2134312352, 2002, 870 citations) is a review in Advances in Physics, so it ranks below the
+    primary papers. Other related works include the 2004 optical-trap experiment, the 1999 stochastic fluctuation theorem,
+    the 2003 non-equilibrium free energy theorem, the 2005 steady-state experiment, and several later refinements from 2000
+    to 2008. I counted only papers directly on fluctuation theorems and the second law. The earlier precursors on the conjugate-pairing
+    rule and Lyapunov exponents (1990, 1992) are not counted. All entries look like they belong to the right person, and no
+    expected landmark is missing.
+Eli Yablonovitch:
+  picks:
+  - paper_id: W2075689277
+    year: 1987
+    title: Inhibited Spontaneous Emission in Solid-State Physics and Electronics
+    metrics: false
+    in_profile: true
+    reason: 1987 founding proposal of the photonic band gap / engineered periodic dielectric, his precursor contribution to
+      artificial electromagnetic media
+  - paper_id: W2160595416
+    year: 1999
+    title: High-impedance electromagnetic surfaces with a forbidden frequency band
+    metrics: true
+    in_profile: true
+    reason: 1999 Sievenpiper-Yablonovitch high-impedance surface, a canonical metamaterial (artificial magnetic conductor),
+      the work closest to the metamaterial discovery
+  - paper_id: W1972187331
+    year: 1991
+    title: 'Photonic band structure: The face-centered-cubic case employing nonspherical atoms'
+    metrics: true
+    in_profile: true
+    reason: 1991 experimental realization of the first full 3D photonic band gap ('Yablonovite'), the landmark demonstration
+      of engineered EM band structure
+  n_related: 20
+  note: There are no negative-index papers in the pool, and as far as I know Yablonovitch never wrote one on negative refraction
+    or negative index itself. His tie to this option comes from photonic crystals and artificial electromagnetic structures.
+    So the picks are his photonic band gap and metamaterial-surface landmarks, which are related to the discovery but are
+    not negative-index work. The 20 related works are photonic crystal, photonic band gap or high-impedance-surface papers,
+    such as the 1996 wire-mesh crystals, the 1998 metallo-dielectric crystals and the photonic band gap antennas. None of
+    the entries looks like a namesake's. The 2017 graphene-nanoribbon FET paper (not in his profile) could be a misattribution,
+    but it is unrelated anyway.
+Eugene J. Mele:
+  picks:
+  - paper_id: W2030164271
+    year: 2005
+    title: Quantum Spin Hall Effect in Graphene
+    metrics: true
+    in_profile: true
+    reason: Kane-Mele 2005 PRL that proposed the quantum spin Hall insulator, the founding theoretical prediction.
+  - paper_id: W2088198211
+    year: 2005
+    title: Z 2 Topological Order and the Quantum Spin Hall Effect
+    metrics: true
+    in_profile: true
+    reason: Kane-Mele 2005 introduction of the Z2 invariant that classifies time-reversal-invariant topological insulators.
+  - paper_id: W1983970619
+    year: 2007
+    title: Topological Insulators in Three Dimensions
+    metrics: true
+    in_profile: true
+    reason: Fu-Kane-Mele 2007 extension of the Z2 classification to 3D (strong and weak) topological insulators.
+  n_related: 9
+  note: 'All three landmark Kane-Mele and Fu-Kane-Mele papers are in the pool. Other related works: ''A New Spin on the Insulating
+    State'' (2006 perspective), ''Surface states of topological insulators'' (2012), ''Surface State Magnetization and Chiral
+    Edge States on Topological Insulators'' (2013), the Bi2Se3 strain paper (2011), the strained-HgTe spin texture paper (2013)
+    and the 1T''-WSe2 QSH domain boundaries paper (2019). The topological superconductivity papers (2013) are adjacent to
+    the topic but not counted. No apparent namesake entries; the earlier polyacetylene, nanotube and Si-surface papers fit
+    Mele''s known career.'
+Federico Capasso:
+  picks:
+  - paper_id: W4213168521
+    year: 1994
+    title: Quantum Cascade Laser
+    metrics: true
+    in_profile: true
+    reason: 1994 Science paper by Faist, Capasso, Cho et al. reporting the first quantum cascade laser; this is the landmark
+      original.
+  - paper_id: W2026572776
+    year: 1996
+    title: High power mid-infrared (λ∼5 μm) quantum cascade lasers operating above room temperature
+    metrics: true
+    in_profile: true
+    reason: 1996 demonstration of QCL operation above room temperature at high power, the step that made the device practical.
+  - paper_id: W2079654046
+    year: 1997
+    title: Distributed feedback quantum cascade lasers
+    metrics: true
+    in_profile: true
+    reason: 1997 single-mode DFB QCL, the key early development behind spectroscopy and sensing uses.
+  n_related: 13
+  note: The 1994 Science original (W4213168521) is in the pool, so no landmark is missing. About 13 works relate to QCLs.
+    They include the precursor 'Sequential resonant tunneling through a multiquantum well superlattice' (1986), several later
+    QCL variants (3.4 um, THz difference-frequency generation, photonic-crystal surface emitting, ultra-broadband, resonant
+    tunneling in QCLs, DFB spectroscopy) and the reviews from 2001, 2002 and 2010. The most-cited works in the pool are on
+    metasurfaces and flat optics (2011 onward), a separate line of Capasso's research that is not the QCL discovery. None
+    of the entries looks like a namesake's work.
+Francis Halzen:
+  picks:
+  - paper_id: W1530183786
+    year: 2013
+    title: Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector
+    metrics: false
+    in_profile: false
+    reason: '2013 Science paper (28 HESE events): the landmark first evidence for an astrophysical high-energy neutrino flux'
+  - paper_id: W2007403924
+    year: 2014
+    title: Observation of High-Energy Astrophysical Neutrinos in Three Years of IceCube Data
+    metrics: true
+    in_profile: true
+    reason: 2014 PRL that raised the cosmic neutrino flux to a >5 sigma discovery-level observation
+  - paper_id: W1971214100
+    year: 2013
+    title: First Observation of PeV-Energy Neutrinos with IceCube
+    metrics: true
+    in_profile: true
+    reason: 2013 PRL reporting the 'Bert' and 'Ernie' PeV events, the first hint of the cosmic neutrino signal
+  n_related: 24
+  note: 'The three landmark discovery papers are all in the pool. The 2013 Science paper (W1530183786) has in_profile=false
+    and metrics=false, but it is the right record. Other related works: confirmation and characterization papers (northern-sky
+    muon neutrinos 2015/2016, combined likelihood 2015, flavor ratio, HESE 7.5 yr, cascades 2020, above 1 TeV 2015, inelasticity
+    2019, Fermi blazar contribution); detector and enabling papers (instrumentation 2017, South Pole ice optics 2006, first-year
+    performance, DAQ, PMT, energy reconstruction, AMANDA 2001 observation, IceCube design 2003); and Halzen''s own theory
+    and review papers (1995, 1997, 2002). Unrelated works such as the ''Quarks and Leptons'' textbook (3 duplicate records),
+    early QCD and hadron-physics papers, and the dark-matter, oscillation and cosmic-ray anisotropy papers look like his own
+    career or IceCube collaboration output, not a namesake''s.'
+Gavin E. Crooks:
+  picks:
+  - paper_id: W2021820673
+    year: 1999
+    title: Entropy production fluctuation theorem and the nonequilibrium work relation for free energy differences
+    metrics: false
+    in_profile: true
+    reason: 1999 PRE landmark that derives the Crooks fluctuation theorem and links it to the Jarzynski equality
+  - paper_id: W1482044830
+    year: 1998
+    title: Nonequilibrium Measurements of Free Energy Differences for Microscopically Reversible Markovian Systems
+    metrics: true
+    in_profile: true
+    reason: 1998 original paper proving the nonequilibrium work relation for microscopically reversible Markov dynamics
+  - paper_id: W2035078255
+    year: 2000
+    title: Path-ensemble averages in systems driven far from equilibrium
+    metrics: true
+    in_profile: true
+    reason: 2000 generalization that unifies the fluctuation theorems and work relations as path-ensemble averages
+  n_related: 20
+  note: 'The three core Crooks fluctuation-theorem papers (1998, 1999, 2000) are all in the pool. Other related works are
+    later extensions and applications. These include the Hatano-Sasa experimental test (2004), quantum Jarzynski and time-reversal
+    (2008), the adiabatic gas work distribution (2006/2007), Bayesian free energies (2008), Length of Time''s Arrow (2008),
+    NCMC (2011) and the 2009 comment. Several records are duplicates: quantum Jarzynski W3104430737/W1489639875, quantum operation
+    time reversal W2073838104/W225287851, NCMC W2002507860/W2604646379, and near-equilibrium free energy W2091204092/W4299849139.
+    The pool also holds unrelated work by the same person: WebLogo, bioinformatics, lipase papers from 1995 and E. coli imaging.
+    These look like Crooks''s own career breadth, not a namesake''s. W2962814113 and W2963509758 have null titles.'
+George Efstathiou:
+  picks:
+  - paper_id: W2048017486
+    year: 1984
+    title: Cosmic background radiation anisotropies in universes dominated by nonbaryonic dark matter
+    metrics: true
+    in_profile: true
+    reason: 'Bond & Efstathiou 1984: the landmark calculation of CMB anisotropies, including the acoustic-peak structure,
+      in dark-matter cosmologies'
+  - paper_id: W2010341663
+    year: 1987
+    title: The statistics of cosmic background radiation fluctuations
+    metrics: true
+    in_profile: true
+    reason: 'Bond & Efstathiou 1987: the foundational statistical theory of Gaussian CMB fluctuations (angular power spectrum,
+      correlation functions, peaks)'
+  - paper_id: W2007325434
+    year: 1992
+    title: COBE background radiation anisotropies and large-scale structure in the Universe
+    metrics: true
+    in_profile: true
+    reason: 'Efstathiou, Bond & White 1992: applied the CMB fluctuation theory to the COBE detection to normalise and test
+      dark-matter models'
+  n_related: 3
+  note: 'Picks are the joint Bond-Efstathiou theory papers. Three expected landmarks are missing from the pool: Efstathiou
+    & Bond 1986 on isocurvature CDM CMB fluctuations, Bond, Efstathiou & Tegmark 1997 ''Forecasting cosmic parameter errors
+    from microwave background anisotropy experiments'', and Efstathiou & Bond 1999 ''Cosmic confusion'' on parameter degeneracies.
+    Many Planck collaboration papers measure CMB fluctuations, for example 2013 XV on power spectra and likelihood, 2013 XXIII
+    on isotropy and statistics, 2015 XI, and the numerous 2015/2018 results with untitled duplicate-looking records. They
+    are not counted because they are later observational applications from a large collaboration, not the theoretical studies.
+    Counting them broadly would give about 30 related works. The non-Planck works (CDM N-body, 2dF, galaxy formation) are
+    by the real Efstathiou, not a namesake, but they belong to large-scale structure rather than CMB theory.'
+Gerd Binnig:
+  picks:
+  - paper_id: W3150248096
+    year: 1986
+    title: Atomic Force Microscope
+    metrics: true
+    in_profile: true
+    reason: 1986 PRL by Binnig, Quate and Gerber that introduced the atomic force microscope; the landmark original.
+  - paper_id: W2003988271
+    year: 1987
+    title: Atomic Resolution with Atomic Force Microscope
+    metrics: true
+    in_profile: true
+    reason: 1987 follow-up by Binnig, Gerber et al. that first showed AFM imaging at atomic resolution; picked over its duplicate
+      record with 79 citations.
+  - paper_id: W2018691623
+    year: 1993
+    title: True Atomic Resolution by Atomic Force Microscopy Through Repulsive and Attractive Forces
+    metrics: true
+    in_profile: true
+    reason: 1993 Science paper with Ohnesorge showing true atomic resolution by AFM, a key test of the method's power.
+  n_related: 24
+  note: 'The 1986 AFM original is in the pool and is the clear top pick. ''Atomic Resolution with Atomic Force Microscope''
+    (1987) appears twice: W2003988271 has 545 citations and W2016870976 has 79. I picked the record with more citations. Other
+    AFM-related works are ''Force microscopy'' (1992), ''Atomic-Force Microscopy'' (1987), the review ''In touch with atoms''
+    (1999) and the MoS2 scanning force study (1991). The ''Millipede'' AFM data-storage papers (about 15) are later applications,
+    so I did not pick them. Most of the high-citation pool is Binnig''s STM work, which won the 1986 Nobel Prize, not AFM.
+    The 2006-2018 image-analysis and medical-segmentation papers (liver CT, Cellenger, tissue phenomics) are probably his
+    later Definiens company work, not a namesake''s. They are unrelated to AFM.'
+Gilles Brassard:
+  picks:
+  - paper_id: W2015179126
+    year: 2014
+    title: 'Quantum cryptography: Public key distribution and coin tossing'
+    metrics: true
+    in_profile: true
+    reason: BB84, the original quantum key distribution protocol (Bennett & Brassard). The 1984 original appears here as its
+      2014 TCS reprint.
+  - paper_id: W1978553093
+    year: 1993
+    title: Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels
+    metrics: true
+    in_profile: true
+    reason: Original quantum teleportation proposal (Bennett, Brassard et al. 1993), a foundational quantum-information discovery;
+      the most cited work in the pool.
+  - paper_id: W4214950786
+    year: 1992
+    title: Experimental quantum cryptography
+    metrics: true
+    in_profile: true
+    reason: First experimental demonstration of quantum key distribution (Bennett, Bessette, Brassard et al. 1992).
+  n_related: 55
+  note: 'BB84 (1984) appears only as the 2014 Theor. Comput. Sci. reprint (W2015179126) plus a WITHDRAWN 2011 duplicate (W2313440826).
+    Duplicates: the teleportation paper (W1525305151), the purification errata (W1942039577, W1985684781), Strengths and Weaknesses
+    (W2601248643) and Oracle Quantum Computing (W1906651570). Brassard''s quantum-algorithm landmarks are in the pool but
+    cited less: Quantum Amplitude Amplification and Estimation (W3217033513) and Strengths and Weaknesses of Quantum Computing
+    (W2006290558). The BBHT paper ''Tight bounds on quantum searching'' is missing from the pool. Likely namesake entries
+    (microwave/electronics engineering): the Doherty amplifier (W2046221191), the power amplifier waveform setup (W2165832438)
+    and the MESFET thermal characterization (W2146549790).'
+Heino Falcke:
+  picks:
+  - paper_id: W2936349953
+    year: 2019
+    title: First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole
+    metrics: true
+    in_profile: true
+    reason: Landmark 2019 EHT paper reporting the first observation of a black hole shadow (M87*) by event-horizon-scale VLBI.
+  - paper_id: W2031106768
+    year: 2000
+    title: Viewing the Shadow of the Black Hole at the Galactic Center
+    metrics: true
+    in_profile: true
+    reason: 'Falcke, Melia & Agol 2000: the original proposal that sub-mm VLBI could image a black hole shadow, which set
+      up the discovery.'
+  - paper_id: W2936095933
+    year: 2019
+    title: First M87 Event Horizon Telescope Results. VI. The Shadow and Mass of the Central Black Hole
+    metrics: true
+    in_profile: true
+    reason: Core EHT 2019 paper measuring the shadow size and inferring the M87* black hole mass from it.
+  n_related: 16
+  note: 'Related works: EHT M87 papers I-VIII (2019/2021), Falcke et al. 2000 shadow proposal, the EHT GRMHD code comparison,
+    shadow-based gravity tests (2018, 2020), black-hole charge limits, boson star vs black hole, and earlier Sgr A* VLBI size
+    and polarization papers. The 2022 EHT Sgr A* results papers are not in the pool. The EHT 2019 paper set I-VI is spread
+    across several records. Papers IV (imaging) and V (ring origin) are close alternatives to Paper VI. Most of the rest of
+    the pool is Pierre Auger, LOFAR, and jet/accretion work, which is genuinely Falcke''s (no sign of a namesake) but has
+    nothing to do with this discovery. The low-luminosity AGN radio sources paper appears as duplicate records (W4297902343/W4302420628/W2124699152),
+    and so do the accreting black hole unification paper (W4293256937/W2096555080) and the SKA reionization paper; none of
+    these is related.'
+Hidetoshi Katori:
+  picks:
+  - paper_id: W2008960355
+    year: 2005
+    title: An optical lattice clock
+    metrics: true
+    in_profile: true
+    reason: 'Takamoto et al., Nature 2005: the landmark first demonstration of a working Sr optical lattice clock'
+  - paper_id: W2963885768
+    year: 2003
+    title: Ultrastable Optical Clock with Neutral Atoms in an Engineered Light Shift Trap
+    metrics: true
+    in_profile: true
+    reason: 'Katori et al., PRL 2003: the magic-wavelength light-shift-trap concept that defines the optical lattice clock'
+  - paper_id: W1985370373
+    year: 2003
+    title: Spectroscopy of the S01−P03 Clock Transition of Sr87 in an Optical Lattice
+    metrics: false
+    in_profile: true
+    reason: 'Takamoto & Katori, PRL 2003: first spectroscopy of the Sr clock transition in a magic-wavelength lattice, the
+      experimental starting point'
+  n_related: 58
+  note: 'Katori''s original 2002 proposal, published in the Frequency Standards and Metrology symposium proceedings, is not
+    in the pool. There are duplicate or minor records: W1857848356 (2004, 26 citations) duplicates the 2003 ''Ultrastable
+    Optical Clock'' paper; W2697621843 ''Optical lattice clock'' (2005, 5 citations) looks like a short version or proceedings
+    of the Nature paper; ''Optical lattice clocks with non-interacting bosons and fermions'' appears three times (W1999658039,
+    W1987448617, W2151998507). n_related is approximate. It excludes the early Ar/Kr metastable-atom work, single-ion lattice
+    diffusion, atom-chip electrodynamic trapping and the highly-charged-ion spectroscopy papers, which belong to the same
+    person but not to this discovery. No namesake entries were seen.'
+Immanuel Bloch:
+  picks:
+  - paper_id: W2007391198
+    year: 2002
+    title: Quantum phase transition from a superfluid to a Mott insulator in a gas of ultracold atoms
+    metrics: true
+    in_profile: true
+    reason: Landmark 2002 experiment realizing the Bose-Hubbard model in an optical lattice, the founding demonstration of
+      lattice quantum simulation (implements the Jaksch-Zoller proposal).
+  - paper_id: W1967205858
+    year: 2010
+    title: Single-atom-resolved fluorescence imaging of an atomic Mott insulator
+    metrics: true
+    in_profile: true
+    reason: Quantum gas microscope with single-site resolution in an optical lattice, a key experimental advance for quantum
+      simulators.
+  - paper_id: W2104281360
+    year: 2015
+    title: Observation of many-body localization of interacting fermions in a quasirandom optical lattice
+    metrics: true
+    in_profile: true
+    reason: Highly cited primary quantum-simulation result that observed a many-body phase which is hard to compute classically,
+      using fermions in an optical lattice.
+  n_related: 66
+  note: The 2002 Mott insulator paper is clearly the main landmark. Other strong primary lattice-simulation candidates are
+    Tonks-Girardeau 2004 (1596 citations) and Hofstadter Hamiltonian 2013 (1369). The highly cited works "Many-body physics
+    with ultracold gases" (2008), "Quantum simulations with ultracold quantum gases" (2012) and the 2017 lattice simulation
+    article are reviews, so I passed over them. Two ATLAS particle-physics papers (W941912815, W2162294415) look like a namesake
+    or misattributed entries. The pre-lattice BEC and atom-laser works (1998-2001), the quantum technologies roadmap and the
+    spin-interaction measurements are not related to the discovery. The n_related count is approximate.
+Ingrid Daubechies:
+  picks:
+  - paper_id: W2098914003
+    year: 1988
+    title: Orthonormal bases of compactly supported wavelets
+    metrics: true
+    in_profile: true
+    reason: 1988 landmark original constructing the Daubechies compactly supported orthonormal wavelets within the Mallat-Meyer
+      multiresolution framework
+  - paper_id: W1996021349
+    year: 1990
+    title: The wavelet transform, time-frequency localization and signal analysis
+    metrics: true
+    in_profile: true
+    reason: 1990 foundational paper on the continuous and discrete wavelet transforms and wavelet frames for signal analysis
+  - paper_id: W3005363104
+    year: 1992
+    title: Biorthogonal bases of compactly supported wavelets
+    metrics: true
+    in_profile: true
+    reason: 1992 Cohen-Daubechies-Feauveau original that introduced biorthogonal wavelets (the basis of JPEG2000), extending
+      multiresolution analysis
+  n_related: 35
+  note: '''Ten Lectures on Wavelets'' (W2062024414, 1992, 15,723 citations) is her most cited and arguably most influential
+    wavelet work. I left it out only because it is a lecture-note monograph, not a primary research article. Use it as the
+    first alternative if books count. It also appears as two low-cited duplicate records (W2320084686, W4246377848). The 1986
+    ''Painless nonorthogonal expansions'' paper with Grossmann and Meyer (wavelet frames) is not in the pool. Early 1980s
+    mathematical-physics papers on quantization, path integrals and relativistic molecules are hers and predate the wavelet
+    work, so they are not related. Later off-topic works (paintings, tooth surfaces, Brainbow, AdaBoost) also look like hers,
+    not a namesake''s. W2135915144 has a null title.'
+J. Ignacio Cirac:
+  picks:
+  - paper_id: W2035413341
+    year: 1998
+    title: Cold Bosonic Atoms in Optical Lattices
+    metrics: true
+    in_profile: true
+    reason: 'Jaksch, Bruder, Cirac, Gardiner, Zoller 1998: the founding proposal that cold atoms in optical lattices realize
+      the Bose-Hubbard model, with a superfluid-to-Mott transition (observed by Bloch''s group in 2002).'
+  - paper_id: W2030096869
+    year: 2004
+    title: Tonks–Girardeau gas of ultracold atoms in an optical lattice
+    metrics: true
+    in_profile: true
+    reason: 'Paredes, ..., Cirac, ..., Bloch 2004 (Nature): experimental realization of a strongly correlated 1D Tonks gas
+      in an optical lattice, a joint Cirac–Bloch simulator result.'
+  - paper_id: W1991583534
+    year: 2002
+    title: High-Temperature Superfluidity of Fermionic Atoms in Optical Lattices
+    metrics: true
+    in_profile: true
+    reason: 'Hofstetter, Cirac, Zoller, Demler, Lukin 2002: proposal to use fermions in optical lattices to simulate the Hubbard
+      model and d-wave superfluidity, a core quantum-simulation idea.'
+  n_related: 9
+  note: 'Related works not picked: ''Entanglement of Atoms via Cold Controlled Collisions'' (1999), a lattice gate/entanglement
+    proposal that I nearly picked third; the 2012 perspective ''Goals and opportunities in quantum simulation''; the 2015
+    and 2019 lattice-gauge-theory reviews; the 2011 Majorana cold-atom wires paper; the 2008 dissipation in cold molecular
+    gases paper; and ''Effective Quantum Spin Systems with Trapped Ions'' (2004), a simulator but with ions rather than lattices.
+    No namesake entries seen, and the expected landmark (Jaksch et al. 1998) is in the pool. Many of the most-cited works
+    in the pool (ion-trap QC, quantum repeaters, DLCZ, MPS/PEPS) are unrelated to this option.'
+Jainendra K. Jain:
+  picks:
+  - paper_id: W1995680910
+    year: 1989
+    title: Composite-fermion approach for the fractional quantum Hall effect
+    metrics: true
+    in_profile: true
+    reason: The 1989 PRL that introduced composite fermions and explained the FQHE as an integer QHE of electron-flux composites;
+      Jain's founding paper.
+  - paper_id: W2242383394
+    year: 1990
+    title: Theory of the fractional quantum Hall effect
+    metrics: true
+    in_profile: true
+    reason: The 1990 full PRB paper of the composite-fermion theory, with the hierarchy of fractions nu = n/(2pn+1) and its
+      wave functions.
+  - paper_id: W1971862605
+    year: 1989
+    title: Incompressible quantum Hall states
+    metrics: true
+    in_profile: true
+    reason: The 1989 companion paper building the CF/Jain incompressible FQH states, which belongs to the original proposal.
+  n_related: 54
+  note: 'No landmark paper is missing: the 1989 PRL and the 1989/1990 PRB composite-fermion papers are all in the pool. The
+    count of 54 includes composite-fermion and FQHE works only. The pool also has about 8 integer-QHE and high-field 2DES
+    works from 1988-1990, such as quasi-1D QHE breakdown, the Landauer formulation and Aharonov-Bohm effects on QH plateaus.
+    Counting the option''s wording broadly would bring the total to about 62. Other entries look unrelated but are probably
+    still Jain''s from Penn State collaborations: the topological Anderson insulator, nanowire superconductivity, topological
+    insulator films and graphene transistors. The 1985-1990 plasmon and hot-electron works are from his PhD and early postdoc
+    years. No namesake entries are evident.'
+James P. Eisenstein:
+  picks:
+  - paper_id: W1993147119
+    year: 1987
+    title: Observation of an even-denominator quantum number in the fractional quantum Hall effect
+    metrics: true
+    in_profile: true
+    reason: 1987 landmark discovery of the nu=5/2 even-denominator FQH state in a 2D electron system, his most-cited work
+      on the topic
+  - paper_id: W2168933666
+    year: 2000
+    title: Resonantly Enhanced Tunneling in a Double Layer Quantum Hall Ferromagnet
+    metrics: true
+    in_profile: true
+    reason: 2000 primary observation of spontaneous interlayer coherence (exciton condensate) in bilayer 2D systems at nu_T=1
+  - paper_id: W2089160792
+    year: 1999
+    title: Evidence for an Anisotropic State of Two-Dimensional Electrons in High Landau Levels
+    metrics: true
+    in_profile: true
+    reason: 1999 discovery of anisotropic stripe/nematic phases of 2D electrons in high Landau levels
+  n_related: 52
+  note: 'Namesake contamination: five works by the political scientist James Eisenstein are in the pool (Felony Justice x2
+    [1977, 1981], The Tenor of Justice, State Legislators as Congressional Candidates, Federal/State Criminal Prosecution
+    Nexus). The early He-3 superfluid papers (1979-1982) are his own work but are unrelated to the discovery. The 2004 ''Bose-Einstein
+    condensation of excitons in bilayer electron systems'' (819 cites) is a Nature review/perspective, so I ranked it below
+    the primary 2000 tunneling paper. The 1992 double-layer nu=1/2 FQH paper (W2055424040) is a strong alternative third pick.
+    The 2002 quantized Hall drag paper and the 2004 vanishing Hall resistance paper are not in the top 3, but they are important
+    bilayer-condensate primary papers. n_related is approximate (about 52 of 80): zero-field tunneling, Coulomb drag, graphene
+    and device papers are excluded.'
+Jérôme Faist:
+  picks:
+  - paper_id: W4213168521
+    year: 1994
+    title: Quantum Cascade Laser
+    metrics: true
+    in_profile: true
+    reason: The 1994 Science paper (Faist, Capasso, Sivco, Sirtori, Hutchinson, Cho) that first demonstrated the quantum cascade
+      laser.
+  - paper_id: W2026572776
+    year: 1996
+    title: High power mid-infrared (λ∼5 μm) quantum cascade lasers operating above room temperature
+    metrics: true
+    in_profile: true
+    reason: 1996 demonstration of QCL operation above room temperature, the milestone that made the invention practical.
+  - paper_id: W2061265139
+    year: 1995
+    title: Vertical transition quantum cascade laser with Bragg confined excited state
+    metrics: true
+    in_profile: true
+    reason: 1995 refinement of the core QCL active-region design, from the original Bell Labs team immediately after the invention.
+  n_related: 52
+  note: The landmark 1994 Science paper is in the pool and is the clear first pick. Picks 2 and 3 are early Bell Labs follow-ups,
+    and the order between them is a judgement call. Other strong candidates for those slots are W2079654046 (the 1997 DFB
+    QCL, 353 citations) and W2075282890 (1995 CW vertical-transition QCL). Most pool works are QCL-related, including THz
+    QCLs, frequency combs and external-cavity sources, but these are later applications or extensions. W2045657318 (1992,
+    a bound state above a well) and W1966154276 (1994, intersubband nonparabolicity) are intersubband-physics precursors rather
+    than the invention itself. Unrelated work in the pool (GeSn/Ge lasers, ultrastrong coupling, cavity QED materials, chaotic
+    microlasers) matches Faist's later ETH research rather than a namesake, so no namesake contamination is evident.
+John B. Pendry:
+  picks:
+  - paper_id: W2148020016
+    year: 1999
+    title: Magnetism from conductors and enhanced nonlinear phenomena
+    metrics: true
+    in_profile: true
+    reason: 1999 split-ring resonator proposal for artificial negative permeability, the magnetic half of the first negative-index
+      metamaterial.
+  - paper_id: W2064240847
+    year: 1996
+    title: Extremely Low Frequency Plasmons in Metallic Mesostructures
+    metrics: true
+    in_profile: true
+    reason: 1996 wire-mesh medium with tunable negative permittivity, the electric half combined with SRRs in the first negative-index
+      metamaterial.
+  - paper_id: W2122765624
+    year: 2000
+    title: Negative Refraction Makes a Perfect Lens
+    metrics: true
+    in_profile: true
+    reason: 2000 landmark theory of what negative-index media can do (sub-diffraction perfect lens); his most-cited negative-index
+      paper.
+  n_related: 26
+  note: No expected landmark is missing. The 1996 PRL and the 1999 IEEE MTT paper are the theory behind Smith et al. 2000.
+    The perfect-lens paper is the most cited, but it comes after them as a consequence of negative refraction, so it is ranked
+    third. n_related counts the negative-index and SRR/wire-media works (about 26, for example 'Low frequency plasmons in
+    thin-wire structures', 'Metamaterials and Negative Refractive Index' (review) and 'A Chiral Route to Negative Refraction').
+    If transformation optics and cloaking metamaterials were counted too, the number would be about 40. The early LEED, EXAFS,
+    XANES and photoemission works fit Pendry's own career and do not look like a namesake's. W436919038, titled 'Fornel, Frédérique
+    de', is a malformed record with no metrics; its title says nothing about its content.
+John Preskill:
+  picks:
+  - paper_id: W1969329609
+    year: 1998
+    title: Reliable quantum computers
+    metrics: true
+    in_profile: true
+    reason: Preskill's 1998 original paper on fault-tolerant quantum computation and the accuracy threshold for concatenated
+      codes.
+  - paper_id: W1874981471
+    year: 2006
+    title: Quantum accuracy threshold for concatenated distance-3 code
+    metrics: true
+    in_profile: true
+    reason: Aliferis-Gottesman-Preskill rigorous proof of the fault-tolerance threshold theorem, the standard reference for
+      it.
+  - paper_id: W1984125696
+    year: 2001
+    title: Encoding a qubit in an oscillator
+    metrics: true
+    in_profile: true
+    reason: The GKP paper, which proposed a landmark bosonic quantum error-correcting code that works with fault-tolerant
+      schemes; it is the most-cited QEC original in the pool.
+  n_related: 21
+  note: 'Missing from the pool: Dennis-Kitaev-Landahl-Preskill ''Topological quantum memory'' (2002, J. Math. Phys.), a major
+    fault-tolerance and surface-code landmark that would otherwise be a top pick. The closely related Wang-Harrington-Preskill
+    ''Confinement-Higgs transition...'' (2003) is in the pool. The pool has many later fault-tolerance refinements: correlated,
+    biased and Gaussian noise; postselection; Bacon-Shor; Fibonacci; color-code thresholds. ''Battling Decoherence'' (1999)
+    and ''Quantum computing: pro and con'' (1998) are reviews or perspectives, so I did not pick them. The highly cited non-QEC
+    works (NISQ, BB84 security proof, axion cosmology, topological entanglement entropy) are genuine Preskill papers but are
+    unrelated to this discovery. ''Security of quantum key distribution with imperfect devices'' (2004) appears twice as duplicate
+    records. No namesake entries seen.'
+John Richard Bond:
+  picks:
+  - paper_id: W2048017486
+    year: 1984
+    title: Cosmic background radiation anisotropies in universes dominated by nonbaryonic dark matter
+    metrics: true
+    in_profile: true
+    reason: 'Bond & Efstathiou 1984: landmark calculation of CMB anisotropy spectra in cold/hot dark matter universes, including
+      acoustic structure.'
+  - paper_id: W2010341663
+    year: 1987
+    title: The statistics of cosmic background radiation fluctuations
+    metrics: true
+    in_profile: true
+    reason: 'Bond & Efstathiou 1987: foundational theory of the statistics of Gaussian CMB fluctuations (power spectrum, hot/cold
+      spots, correlation function).'
+  - paper_id: W2011662523
+    year: 1998
+    title: Estimating the power spectrum of the cosmic microwave background
+    metrics: true
+    in_profile: true
+    reason: 'Bond, Jaffe & Knox 1998: theoretical/statistical method for extracting the CMB angular power spectrum from anisotropy
+      data.'
+  n_related: 4
+  note: 'The fourth related work is BBKS 1986, ''The statistics of peaks of Gaussian random fields'' (3025 cites). It is the
+    most cited, but it covers density-field peaks in general rather than the CMB specifically, so I ranked it below the three
+    CMB papers. Several expected landmarks are not in the pool, possibly because they fall below the top-80 citation cutoff:
+    Bond, Efstathiou & Tegmark 1997 on the parameter degeneracy, Bond et al. 1994 ''Probing cosmic parameters'' (CMB), and
+    Efstathiou & Bond 1986/1999. Many pool entries are observational CMB papers (Planck, BOOMERANG, MAXIMA, ACT, CBI, Simons
+    Observatory). They are broadly on CMB fluctuations but are not the theoretical discovery, so they are not counted. The
+    Planck records have generic titles and include duplicates. The 1983 collisionless-damping paper and the 1984 ''Very Massive
+    Objects'' paper are Bond''s other work and are not related. No entries look like a namesake''s.'
+John Toner:
+  picks:
+  - paper_id: W2063134919
+    year: 1995
+    title: 'Long-Range Order in a Two-Dimensional Dynamical XY Model: How Birds Fly Together'
+    metrics: true
+    in_profile: true
+    reason: 'Toner-Tu 1995 PRL: the original hydrodynamic theory of flocking, showing long-range order in 2D active polar
+      fluids'
+  - paper_id: W2060203271
+    year: 1998
+    title: 'Flocks, herds, and schools: A quantitative theory of flocking'
+    metrics: true
+    in_profile: true
+    reason: 'Toner-Tu 1998 PRE: the full Toner-Tu hydrodynamic theory of flocks, and the most-cited work in the pool'
+  - paper_id: W2059667163
+    year: 2003
+    title: 'Active nematics on a substrate: Giant number fluctuations and long-time tails'
+    metrics: true
+    in_profile: true
+    reason: 'Ramaswamy-Simha-Toner 2003: extends the hydrodynamic theory to active nematics and predicts giant number fluctuations'
+  n_related: 19
+  note: 'The landmark Toner-Tu papers (PRL 1995 and PRE 1998) are both in the pool. "Hydrodynamics and phases of flocks" (2005,
+    Annals of Physics, 974 citations) is a review by Toner, Tu and Ramaswamy, so it ranks below the primary 2003 active-nematics
+    article. The pool also has related primary work on active membranes (2000, 1999) and later refinements: the 2012 reanalysis,
+    Malthusian flocks, active smectics and quenched disorder. Two entries look like a namesake''s or misattributions: "The
+    Continuum of Long Term Care:" (1990) and possibly "Fractal Dimensions of Model Particle Packings..." (1986). The pool
+    also has two "Toner replies" comment records.'
+Jun Ye:
+  picks:
+  - paper_id: W2036614989
+    year: 2014
+    title: An optical lattice clock with accuracy and stability at the 10−18 level
+    metrics: true
+    in_profile: true
+    reason: Landmark 2014 Nature Sr lattice clock that first reached 10^-18 accuracy and stability, the headline precision
+      result
+  - paper_id: W2025458672
+    year: 2008
+    title: Sr Lattice Clock at 1 × 10 –16 Fractional Uncertainty by Remote Optical Evaluation with a Ca Clock
+    metrics: true
+    in_profile: true
+    reason: 2008 Science paper where the JILA Sr lattice clock first surpassed the Cs primary standard in accuracy
+  - paper_id: W2073958075
+    year: 2015
+    title: Systematic evaluation of an atomic clock at 2 × 10−18 total uncertainty
+    metrics: true
+    in_profile: true
+    reason: 2015 primary article taking the Sr lattice clock to a record 2e-18 total systematic uncertainty
+  n_related: 24
+  note: 'Lattice-clock work is all over the pool. Also related: the 2006 PRL systematic study of the Sr87 clock transition,
+    the 2006 Science paper on 1-second optical coherence, the 2007 Sr87 clock below 1e-15, the 2017 Fermi-degenerate 3D lattice
+    clock (374 citations, a strong alternative third pick), the 2019 clock-stability and SrI papers, the 2020 and 2019 tweezer
+    clocks, the 2021 clock network, and the 2013 many-body, 2014 SU(N) and 2016 spin-orbit papers that use the clock as a
+    platform. Enabling ultrastable-laser and cavity papers (2005, 2007, 2009, 2013, 2017, 2019) count as related but not defining.
+    The most-cited related work is the 2015 RMP review ''Optical atomic clocks'' (2336), left out because it is a review.
+    Lattice-clock invention credit goes to Katori (2003/2005), whose papers are not Ye''s, so their absence is expected. Many
+    top-cited works (polar molecules, frequency combs, cavity spectroscopy) belong to Ye''s other research lines, not to a
+    namesake. No duplicate records seen.'
+Katherine L. Bouman:
+  picks:
+  - paper_id: W2936349953
+    year: 2019
+    title: First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole
+    metrics: true
+    in_profile: true
+    reason: Landmark EHT 2019 summary paper announcing the first observation of a black hole shadow (M87*).
+  - paper_id: W2937056002
+    year: 2019
+    title: First M87 Event Horizon Telescope Results. IV. Imaging the Central Supermassive Black Hole
+    metrics: false
+    in_profile: true
+    reason: Primary EHT paper reconstructing the shadow image from interferometric data; this is Bouman's core contribution
+      (imaging algorithms).
+  - paper_id: W2936095933
+    year: 2019
+    title: First M87 Event Horizon Telescope Results. VI. The Shadow and Mass of the Central Black Hole
+    metrics: true
+    in_profile: true
+    reason: Primary EHT paper measuring the shadow size and black hole mass; more cited than Paper IV, but less tied to her
+      own role.
+  n_related: 30
+  note: 'The pool has only 37 works, not 80. 30 are EHT/VLBI-related: M87 Papers I-VIII, the GRMHD comparison, the Sgr A*
+    scattering and 86 GHz papers, sparse-modeling and polarimetric imaging, dynamical imaging, SYMBA (two duplicate records,
+    W3123227886 with 34 citations and W2995385347 with 5), THEMIS, EHT-HOPS, the ''Portrait of a Black Hole'' popular pieces,
+    and others. The 7 unrelated works are her computer-vision and other papers: corners-as-cameras, visual vibrometry, fabric
+    material properties, image imputation (two papers), visual dynamics, and control barrier functions. They are hers, not
+    a namesake''s. Missing landmarks: her CHIRP imaging-algorithm paper (CVPR 2016, ''Computational Imaging for VLBI Image
+    Reconstruction'') is not in the pool, nor are the 2022 Sgr A* EHT Results papers. Ordering: Paper IV is placed above the
+    more-cited Paper VI because the image reconstruction is Bouman''s defining role in the discovery.'
+Ken'ichi Nomoto:
+  picks:
+  - paper_id: W1995618220
+    year: 1984
+    title: Accreting white dwarf models of Type I supernovae. III - Carbon deflagration supernovae
+    metrics: true
+    in_profile: true
+    reason: 'The W7 carbon-deflagration model (Nomoto, Thielemann & Yokoi 1984): the standard Type Ia explosion model and
+      source of its iron-peak nucleosynthesis yields.'
+  - paper_id: W2052619536
+    year: 1996
+    title: Core-Collapse Supernovae and Their Ejecta
+    metrics: true
+    in_profile: true
+    reason: Primary paper giving core-collapse supernova explosive-nucleosynthesis yields (Thielemann, Nomoto & Hashimoto
+      1996), widely used to trace where elements come from.
+  - paper_id: W2602257590
+    year: 1998
+    title: A hypernova model for the supernova associated with the γ-ray burst of 25 April 1998
+    metrics: true
+    in_profile: true
+    reason: Original hypernova model for SN 1998bw/GRB980425, which established a new class of energetic stellar explosion.
+  n_related: 68
+  note: 'Possible namesake entries (not astrophysics): the Lenvatinib papers (W2151600653, W2917680953, W2901757914), Eribulin
+    (W1983225377), Listeria gamma/delta T cells (W2099401468) and podocyte nephropathy (W1979228623). JEM-EUSO (W2005898646)
+    may also be a namesake. Close alternatives to the picks: Kobayashi et al. 2006 nucleosynthesis yields (W2028466334, 684
+    citations), the 1976 carbon-deflagration original (W1988987494, low citations) and the 2013 ARA&A review (W2097111096,
+    990 citations; a review, so not picked). Some pool works are only loosely related: GRB afterglow at z=6.3, the SGR flare,
+    neutron-star field decay and LIGO black-hole spins.'
+Knut Urban:
+  picks:
+  - paper_id: W1876297499
+    year: 1998
+    title: Electron microscopy image enhanced
+    metrics: true
+    in_profile: true
+    reason: The 1998 Nature paper by Haider, Urban and colleagues reporting the first working spherical-aberration-corrected
+      TEM, the landmark original of the discovery.
+  - paper_id: W2070311459
+    year: 1998
+    title: A spherical-aberration-corrected 200kV transmission electron microscope
+    metrics: true
+    in_profile: true
+    reason: The 1998 primary instrument paper describing the hexapole Cs-corrected 200 kV TEM.
+  - paper_id: W2112661812
+    year: 1998
+    title: Towards 0.1 nm resolution with the first spherically corrected transmission electron microscope
+    metrics: true
+    in_profile: true
+    reason: The 1998 companion paper showing that the first Cs-corrected TEM improves resolution toward sub-angstrom.
+  n_related: 12
+  note: 'All three picks are the 1998 Haider/Rose/Urban corrector originals. Other related works in the pool: the 1999 ''A
+    way to higher resolution'' paper, the 2002 high-resolution imaging paper, the negative-Cs papers (2003 oxygen imaging
+    in perovskites, 2004, 2009), the 2008 Science review, the 2009 perspective, and later applications that name aberration-corrected
+    HRTEM (2005 tilt boundary, 2009 SrTiO3/LaAlO3). Rose''s 1990 corrector theory paper is not in the pool, which is expected
+    because Urban was not an author. The pool also holds many unrelated Urban works on quasicrystals, YBCO films and STM of
+    III-V surfaces. They look like the same person (Juelich), not a namesake.'
+Laurens W. Molenkamp:
+  picks:
+  - paper_id: W2043175787
+    year: 2007
+    title: Quantum Spin Hall Insulator State in HgTe Quantum Wells
+    metrics: true
+    in_profile: true
+    reason: 'Landmark 2007 Science paper (König et al.): first experimental observation of the quantum spin Hall effect, i.e.
+      the first 2D topological insulator.'
+  - paper_id: W2085332084
+    year: 2009
+    title: Nonlocal Transport in the Quantum Spin Hall State
+    metrics: true
+    in_profile: true
+    reason: 2009 Science (Roth et al.) nonlocal measurements confirming helical edge-state transport, which established the
+      QSH state.
+  - paper_id: W2033983076
+    year: 2011
+    title: Quantum Hall Effect from the Topological Surface States of Strained Bulk HgTe
+    metrics: true
+    in_profile: true
+    reason: 2011 PRL (Brüne et al.) showing quantum Hall transport from the surface states of strained HgTe, a 3D topological
+      insulator.
+  n_related: 25
+  note: 'The core landmark (König et al. 2007) is in the pool. W2128459818 (2008, ''The Quantum Spin Hall Effect: Theory and
+    Experiment'') is a review, so it was left out even though it has more citations than the 2011 3D-TI paper. W1997346170
+    (2012, spin polarization of QSH edge states) could replace the third pick. Two 2004-2005 HgTe quantum-well band-structure
+    papers are counted as precursors. The topolectrical-circuit papers are about topology but not about this discovery and
+    were not counted. Most of the other related works are follow-ups: Josephson junctions, quantum anomalous Hall, Bi2Se3
+    growth. No namesake entries were seen. Some older entries (1985 pentacene photon echo, organic FETs) are in other fields
+    but fit Molenkamp''s known career.'
+Marc Davis:
+  picks:
+  - paper_id: W2032469582
+    year: 1985
+    title: The evolution of large-scale structure in a universe dominated by cold dark matter
+    metrics: true
+    in_profile: true
+    reason: 'The 1985 Davis-Efstathiou-Frenk-White N-body paper: the landmark simulations showing that CDM (with biasing)
+      reproduces observed galaxy clustering.'
+  - paper_id: W2027240438
+    year: 1987
+    title: Clusters, filaments, and voids in a universe dominated by cold dark matter
+    metrics: true
+    in_profile: true
+    reason: The 1987 White-Frenk-Davis-Efstathiou CDM simulations reproducing the cosmic web of clusters, filaments and voids;
+      a core DEFW paper.
+  - paper_id: W1993132186
+    year: 1985
+    title: Numerical techniques for large cosmological N-body simulations
+    metrics: true
+    in_profile: true
+    reason: The 1985 DEFW methods paper describing the P3M simulation machinery behind the CDM structure-formation simulations.
+  n_related: 10
+  note: 'The core DEFW ''gang of four'' CDM papers in the pool are W2032469582 (1985 ApJ), W1993132186 (1985 methods), W2027240438
+    (1987 Nature) and W2003639844 (1985 Nature on CDM halos and the Hubble sequence, 193 citations). W2003639844 is a close
+    alternative for the 3rd pick if primary-results papers are preferred over a methods paper. Also related: the 1988 scale-free
+    clustering paper, the 1983 nonlinear-evolution paper (an earlier neutrino/hot-dark-matter simulation), the 1990 cluster
+    amplitude paper, the 1992 mixed hot+cold dark matter paper, ''The end of cold dark matter?'' (1992), the 1994 two-fluid
+    paper, and the 1989 velocity-correlation paper. The 1988 Frenk et al. ApJ paper ''The formation of dark halos in a universe
+    dominated by cold dark matter'' is expected but missing from the pool. Most of the remaining pool is Davis''s observational
+    work: the CfA, IRAS and DEEP2 surveys, SFD dust maps, AEGIS and PHIBSS. Some entries look like namesakes or misattributions:
+    the 1972 gravitational-radiation paper (that one is plausibly the real Marc Davis), the 1980 paper on dielectronic recombination
+    for Ca/Ni ions, the 1984 paper on periodic comet showers (this is really Davis-Hut-Muller, so the same person), the SDSS
+    quasar papers and the SN 1993J spectroscopy paper.'
+Mark E. Thompson:
+  picks:
+  - paper_id: W1668566020
+    year: 1998
+    title: Highly efficient phosphorescent emission from organic electroluminescent devices
+    metrics: true
+    in_profile: true
+    reason: '1998 Nature (Baldo et al.): first phosphorescent OLED (PtOEP), showing that triplet harvesting raises electroluminescence
+      efficiency.'
+  - paper_id: W2878404963
+    year: 1999
+    title: Very high-efficiency green organic light-emitting devices based on electrophosphorescence
+    metrics: true
+    in_profile: true
+    reason: '1999 APL: the Ir(ppy)3 electrophosphorescent OLED that made iridium emitters the basis of practical high-efficiency
+      phosphorescent OLEDs.'
+  - paper_id: W2051293602
+    year: 2001
+    title: Nearly 100% internal phosphorescence efficiency in an organic light-emitting device
+    metrics: true
+    in_profile: true
+    reason: '2001 (Adachi et al.): showed nearly 100% internal quantum efficiency from phosphorescent emitters, which completes
+      the case for triplet harvesting.'
+  n_related: 43
+  note: The landmark phosphorescent-OLED papers are in the pool and are the most-cited works. The 2001 JACS bis-cyclometalated
+    Ir complexes paper (W2052329392, 2769 cites) is a close alternative for third place, since it is the emitter-chemistry
+    original. The pool has no TADF-OLED landmark, because that half of the citation is Adachi's work (2012 Nature) and not
+    Thompson's. The closest Thompson works are the Cu(I) TADF/phosphorescence papers (W2328884557, W2911951534). Pre-1995
+    organometallic chemistry papers (scandocene sigma-bond metathesis, Ziegler-Natta) and the later nanowire/biosensor/OPV/graphene
+    papers look like Thompson's own earlier or side work, not a namesake's, but they are unrelated to the discovery. W4249293795
+    (2001 'Synthesis and Characterization of Phosphorescent Cyclometalated Iridium Complexes') may be a related or duplicate
+    record of the Lamansky Inorg. Chem. paper.
+Martin Rees:
+  picks:
+  - paper_id: W1999367759
+    year: 1978
+    title: 'Core condensation in heavy halos: a two-stage theory for galaxy formation and clustering'
+    metrics: true
+    in_profile: true
+    reason: 'White & Rees 1978: the founding paper of galaxy formation by gas cooling inside dark-matter halos, central to
+      the structure-formation part of the citation.'
+  - paper_id: W2084178876
+    year: 1984
+    title: Formation of galaxies and large-scale structure with cold dark matter
+    metrics: false
+    in_profile: true
+    reason: 'Blumenthal, Faber, Primack & Rees 1984: the landmark cold-dark-matter framework for galaxies and large-scale
+      structure, covering the cosmology part.'
+  - paper_id: W2009530585
+    year: 1988
+    title: Tidal disruption of stars by black holes of 106–108 solar masses in nearby galaxies
+    metrics: true
+    in_profile: true
+    reason: 'Rees 1988: the original prediction of tidal disruption flares from stars torn apart by massive black holes, a
+      defining high-energy astrophysics result.'
+  n_related: 77
+  note: 'The option is a broad, field-level citation, so almost the whole pool counts as related. That makes the picks a judgment
+    call. They are meant to cover the citation''s three parts: White-Rees 1978 for galaxies, Blumenthal et al. 1984 (CDM)
+    for cosmology and Rees 1988 for high-energy astrophysics. Strong alternatives for the high-energy slot are the Meszaros
+    & Rees GRB fireball/afterglow papers (1992 fireballs, 1997 afterglow prediction W2050170524), Begelman-Blandford-Rees
+    1980 on black hole binaries, and the twin-exhaust model (1974). I ranked these below the picks rather than excluding them.
+    The famous 1966 Nature superluminal-motion paper falls before the 1967 cutoff, so it is not in the pool; its 1967 MNRAS
+    follow-up W1998290692 is. ''A Simplified Lead Oxide Cadaver Injection Technique'' (1986) belongs to a different person
+    with the same name. The Swift mission paper (2004) is a large-collaboration instrument paper. The anthropic-principle
+    and dimensionless-constants papers are only loosely related. ''High-redshift galaxies, their active nuclei and central
+    black holes'' (1998) appears twice (W1995289811 and W2952195337). ''Theory of extragalactic radio sources'' (1984) and
+    ''Black Hole Models for Active Galactic Nuclei'' (1984) are reviews.'
+Maximilian Haider:
+  picks:
+  - paper_id: W1876297499
+    year: 1998
+    title: Electron microscopy image enhanced
+    metrics: true
+    in_profile: true
+    reason: '1998 Nature landmark (Haider, Uhlemann, Schwan, Rose, Kabius, Urban): first working hexapole spherical-aberration-corrected
+      TEM'
+  - paper_id: W2112661812
+    year: 1998
+    title: Towards 0.1 nm resolution with the first spherically corrected transmission electron microscope
+    metrics: true
+    in_profile: true
+    reason: Primary 1998 report of the first Cs-corrected TEM and its route toward sub-angstrom resolution
+  - paper_id: W2015279717
+    year: 1998
+    title: Residual wave aberrations in the first spherical aberration corrected transmission electron microscope
+    metrics: true
+    in_profile: true
+    reason: 1998 companion paper characterising the aberrations of the same first corrected TEM
+  n_related: 26
+  note: 'All expected landmarks are in the pool. W2018020686 (1995, Zach & Haider, first multipole aberration corrector in
+    a low-voltage SEM, 150 citations) is also a primary demonstration and could take the third slot. Many pool entries look
+    like namesakes and are probably misattributed: the organic and medicinal chemistry papers (Pd C-H activation, cephanolide
+    synthesis, trans-cyclooctene, valerenic acid, culmorin, Fusarium mycotoxins, imidazole/benzofuran arylation, plus their
+    ChemInform duplicates) and a 1980 dental paper on Gracey curets. The 1990s STEM biology papers (chromatin, ribosomes,
+    double labelling) are probably the real Haider''s early EMBL STEM work, but they have nothing to do with the discovery.'
+Michael V. Berry:
+  picks:
+  - paper_id: W2097780038
+    year: 1984
+    title: Quantal phase factors accompanying adiabatic changes
+    metrics: false
+    in_profile: true
+    reason: The 1984 landmark original that introduced the geometric (Berry) phase for quantum states transported adiabatically.
+  - paper_id: W2062830522
+    year: 1987
+    title: The Adiabatic Phase and Pancharatnam's Phase for Polarized Light
+    metrics: true
+    in_profile: true
+    reason: Connects the geometric phase to Pancharatnam's optical polarization phase, a key extension of the discovery to
+      optics.
+  - paper_id: W1999445557
+    year: 1985
+    title: Classical adiabatic angles and quantal adiabatic phase
+    metrics: true
+    in_profile: true
+    reason: Links the quantum geometric phase to its classical counterpart, the Hannay angle, giving the semiclassical side
+      of the discovery.
+  n_related: 11
+  note: 'The landmark 1984 Proc. R. Soc. A paper is in the pool and is by far the most cited work. Other related works in
+    the pool: Interpreting the anholonomy of coiled light (1987), Quantum phase corrections from adiabatic iteration (1987),
+    Anticipations of the Geometric Phase (1990, a historical review), Diabolical points in the spectra of triangles (1984),
+    Geometric amplitude factors in adiabatic quantum transitions (1990), geometric magnetism (1993), and the two 1980 Aharonov-Bohm
+    papers on wavefront dislocations and the exact AB wavefunction. These look like namesake entries, not this physicist''s
+    work: ''Templates for the Solution of Linear Systems'' (1995, numerical analysis), ''Electro-Optical and Magneto-Optical
+    Properties of Liquid Crystals'' (1984) and ''The surgical treatment of osteochondritis of the capitellum'' (1985). ''Littlewood''s
+    Miscellany'' (1987) is possibly a book-review or editorial misattribution.'
+Mordehai Heiblum:
+  picks:
+  - paper_id: W1657455754
+    year: 1997
+    title: Direct observation of a fractional charge
+    metrics: true
+    in_profile: true
+    reason: Landmark 1997 shot-noise measurement of e/3 quasiparticle charge in the fractional quantum Hall regime of a 2DEG
+  - paper_id: W2761459232
+    year: 2018
+    title: Observation of half-integer thermal Hall conductance
+    metrics: true
+    in_profile: true
+    reason: 2018 thermal-transport observation of half-integer thermal Hall conductance at nu=5/2, evidence for non-abelian
+      topological order
+  - paper_id: W1927245941
+    year: 2008
+    title: Observation of a quarter of an electron charge at the ν = 5/2 quantum Hall state
+    metrics: true
+    in_profile: true
+    reason: Shot-noise detection of e/4 quasiparticles at the even-denominator 5/2 FQH state
+  n_related: 27
+  note: 'Strong FQH/quantum Hall edge cluster (fractional charge 1997, e/5 1999, e/4 at 5/2 2008, neutral modes 2010, anyonic
+    heat flow 2017, half-integer thermal Hall 2018, MZ interferometer 2003, etc.). Alternatives close to the picks: ''Observation
+    of neutral modes in the fractional quantum Hall regime'' (2010, 221) and ''Observed quantization of anyonic heat flow''
+    (2017, 211). Top-cited work overall (Majorana nanowire 2012) and early optics/hot-electron/quantum-dot interference papers
+    are unrelated to the discovery. ''Theory of Disorder-Induced Half-Integer Thermal Hall Conductance'' (2018) is a theory
+    paper probably credited via co-authorship; it is related, but Heiblum may not have contributed. ''Direct measurement of
+    the density of states of a two-dimensional electron gas'' (1985) is ambiguous: it may be a magnetic-field DOS study, and
+    attribution is uncertain. No expected landmark appears to be missing.'
+Naoko Kurahashi Neilson:
+  picks:
+  - paper_id: W1530183786
+    year: 2013
+    title: Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector
+    metrics: false
+    in_profile: false
+    reason: 2013 Science paper reporting the first evidence for astrophysical high-energy neutrinos (the HESE starting-event
+      analysis); this is the landmark discovery paper.
+  - paper_id: W2007403924
+    year: 2014
+    title: Observation of High-Energy Astrophysical Neutrinos in Three Years of IceCube Data
+    metrics: true
+    in_profile: true
+    reason: The 3-year HESE update, which raised the evidence for a cosmic neutrino flux above 5 sigma, making it a full observation.
+  - paper_id: W1971214100
+    year: 2013
+    title: First Observation of PeV-Energy Neutrinos with IceCube
+    metrics: true
+    in_profile: true
+    reason: Detection of the two PeV events ('Bert' and 'Ernie'), which set off the starting-event search and the discovery
+      that followed.
+  n_related: 13
+  note: 'The expected landmarks are all in the pool. The 2013 Science paper (W1530183786) has metrics=false and in_profile=false,
+    which means OpenAlex credited it to her only after January 2026. It is still the defining discovery paper. The count of
+    13 covers the diffuse astrophysical flux papers: the 6-year northern-sky muon flux, the combined fit, the 7.5-year HESE,
+    the northern-sky evidence, the TeV starting events, the flavor ratio, the cascades, the IC40/IC59 diffuse searches and
+    the tau search. If generic IceCube point-source and multimessenger searches were also counted as neutrino astronomy, the
+    number would be much higher. Most of the pool is IceCube collaboration-authorship papers (dark matter, cosmic-ray anisotropy,
+    oscillations), which are not tied to the discovery. W3125953470 has a null title. I saw no namesake entries.'
+Naoto Nagaosa:
+  picks:
+  - paper_id: W2168406111
+    year: 2010
+    title: Real-space observation of a two-dimensional skyrmion crystal
+    metrics: true
+    in_profile: true
+    reason: The 2010 Lorentz-TEM paper (Yu, Tokura, Nagaosa et al.) that first directly imaged a skyrmion lattice in a chiral
+      magnet; the landmark observation
+  - paper_id: W2026561106
+    year: 2009
+    title: Skyrmions and anomalous Hall effect in a Dzyaloshinskii-Moriya spiral magnet
+    metrics: true
+    in_profile: true
+    reason: Original 2009 theory paper predicting skyrmion crystal phases in DM chiral magnets and their emergent-field (topological
+      Hall) signature
+  - paper_id: W2036096993
+    year: 2010
+    title: Skyrmion lattice in a two-dimensional chiral magnet
+    metrics: true
+    in_profile: true
+    reason: Primary 2010 theory paper showing that the skyrmion lattice is stabilized in thin-film chiral magnets, which supported
+      the real-space observation
+  n_related: 16
+  note: 'The highly cited 2013 Nature Nanotechnology review ''Topological properties and dynamics of magnetic skyrmions''
+    (W1991395163, 3819 cites) defines the field, but it was ranked below the primary originals because it is a review. The
+    landmark skyrmion-lattice neutron paper (Muhlbauer et al., Science 2009) is by Pfleiderer''s group, not Nagaosa, so its
+    absence is expected. The other related works are later skyrmion dynamics and transport refinements: current-driven motion,
+    the ratchet effect, meron/antiskyrmion transformations, and the topological Hall effect in SrRuO3-SrIrO3. ''Spin Chirality,
+    Berry Phase, and Anomalous Hall Effect in a Frustrated Ferromagnet'' (2001) is borderline: it is precursor work on spin-chirality-driven
+    Hall effects and is not counted. No namesake entries were seen. One work, the 2007 Bi2212 gap paper, is not in the profile
+    but is plausibly a real collaboration.'
+Nicola A. Spaldin:
+  picks:
+  - paper_id: W2130156865
+    year: 2003
+    title: Epitaxial BiFeO 3 Multiferroic Thin Film Heterostructures
+    metrics: true
+    in_profile: true
+    reason: 2003 Science landmark (Wang et al., Spaldin coauthor) showing large polarization coexisting with magnetism in
+      BiFeO3 films; it triggered the multiferroics revival
+  - paper_id: W2065162112
+    year: 2005
+    title: Weak ferromagnetism and magnetoelectric coupling in bismuth ferrite
+    metrics: true
+    in_profile: true
+    reason: Ederer & Spaldin's first-principles theory of how weak ferromagnetism couples to polarization in BiFeO3, the core
+      theory of the magnetoelectric coupling
+  - paper_id: W1973963333
+    year: 2004
+    title: The origin of ferroelectricity in magnetoelectric YMnO3
+    metrics: true
+    in_profile: true
+    reason: 2004 Nature Materials paper giving the geometric mechanism that lets ferroelectricity coexist with magnetism in
+      hexagonal manganites
+  n_related: 38
+  note: 'The key theory landmark, Hill (Spaldin) 2000 J. Phys. Chem. B "Why are there so few magnetic ferroelectrics?", is
+    not in the pool even though 2000 is after the 1994 cutoff. This may be because it was published under her maiden name,
+    Hill. Other close candidates in the pool: "First-principles study of spontaneous polarization in multiferroic BiFeO3"
+    (2005, 1401 cites) and "Ab initio prediction of a multiferroic with large polarization and magnetization" (2004). Duplicate
+    records: "Multiferroics: Past, present, and future" appears twice (2010 and 2017). The pool also has several highly cited
+    reviews ("Multiferroics: progress and prospects in thin films", "The Renaissance of Magnetoelectric Multiferroics", "Advances
+    in magnetoelectric multiferroics"), which were passed over in favour of primary research articles. Unrelated entries such
+    as the ZnO/TiO2 dilute magnetism papers, the superconductivity papers and the dark-matter paper look like her own work,
+    not a namesake''s.'
+Ondrej L. Krivanek:
+  picks:
+  - paper_id: W1968240415
+    year: 2002
+    title: Sub-ångstrom resolution using aberration corrected electron optics
+    metrics: true
+    in_profile: true
+    reason: '2002 Nature landmark (Batson, Dellby, Krivanek): first sub-angstrom STEM imaging achieved with an aberration
+      corrector.'
+  - paper_id: W1966272533
+    year: 1999
+    title: Towards sub-Å electron beams
+    metrics: true
+    in_profile: true
+    reason: 1999 original report of Krivanek's working quadrupole-octupole Cs corrector for STEM, the founding demonstration
+      of corrected probe optics.
+  - paper_id: W1981794368
+    year: 2004
+    title: Direct Sub-Angstrom Imaging of a Crystal Lattice
+    metrics: true
+    in_profile: true
+    reason: 2004 Science paper giving a direct sub-angstrom lattice image (0.78 Å) with the Nion aberration-corrected STEM.
+  n_related: 20
+  note: The pool has the expected landmarks (1999 Ultramicroscopy corrector, 2002 Nature sub-Å, 2004 Science). Some highly
+    cited works, such as the 2010 Nature ADF atom-by-atom analysis, the 2008 chemical imaging paper and the 2004 single-atom
+    EELS paper, are applications of aberration-corrected STEM rather than the invention itself. They count toward n_related
+    but are ranked below the originals. Early works on Si/SiO2 interfaces (1977-1985) and EELS/imaging-filter work are from
+    the same real person but are unrelated to the discovery. "Elnes of 3d transition-metal oxides" (1990) appears twice (duplicate
+    records). No namesake entries are evident.
+Pablo Jarillo-Herrero:
+  picks:
+  - paper_id: W2793369479
+    year: 2018
+    title: Unconventional superconductivity in magic-angle graphene superlattices
+    metrics: true
+    in_profile: true
+    reason: 2018 landmark Nature paper that discovered superconductivity in magic-angle twisted bilayer graphene
+  - paper_id: W2787584289
+    year: 2018
+    title: Correlated insulator behaviour at half-filling in magic-angle graphene superlattices
+    metrics: true
+    in_profile: true
+    reason: 2018 companion landmark Nature paper that observed the correlated insulator states at half filling in magic-angle
+      TBG
+  - paper_id: W3127466677
+    year: 2021
+    title: Tunable strongly coupled superconductivity in magic-angle twisted trilayer graphene
+    metrics: true
+    in_profile: true
+    reason: 'Most-cited direct extension: magic-angle superconductivity carried over to twisted trilayer graphene'
+  n_related: 16
+  note: Both 2018 landmark originals (superconductivity, correlated insulator) are in the pool. Pick 3 is a follow-up, not
+    an original. Other candidates were the 2016 precursor 'Superlattice-Induced Insulating States...in Twisted Bilayer Graphene'
+    and later MATBG work (strange metal, cascade, FCI, Pomeranchuk, Pauli-limit). The Bistritzer-MacDonald 2011 PNAS theory
+    paper is co-credited in the option but belongs to the other laureates, so its absence from this pool is expected. 'The
+    marvels of moiré materials' (2021) is a review/perspective and is related. One 2017 entry (W2765729541) has a null title.
+    Several in_profile=false entries (Bi2Se3 nanodevices, He-ion etching, LaTe3 CDW, graphene nanoconstrictions) look plausibly
+    his own Harvard/MIT-era work rather than a namesake's, and none of them bear on the discovery.
+Patrick A. Lee:
+  picks:
+  - paper_id: W2016104426
+    year: 2005
+    title: 'U(1) Gauge Theory of the Hubbard Model: Spin Liquid States and Possible Application to κ − ( BEDT − TTF ) 2 Cu
+      2 ( CN ) 3'
+    metrics: false
+    in_profile: false
+    reason: 'Lee & Lee 2005: proposed the spinon-Fermi-surface U(1) spin liquid and linked it to a real organic material,
+      his best-known QSL original'
+  - paper_id: W1920957234
+    year: 2007
+    title: Projected-Wave-Function Study of the Spin- 1/2 Heisenberg Model on the Kagomé Lattice
+    metrics: false
+    in_profile: false
+    reason: 'Ran, Hermele, Lee, Wen 2007: proposed the algebraic (U(1) Dirac) spin liquid as the kagome Heisenberg ground
+      state'
+  - paper_id: W1880549010
+    year: 2004
+    title: Stability of U(1) spin liquids in two dimensions
+    metrics: false
+    in_profile: false
+    reason: 'Hermele et al. 2004: showed that gapless U(1) (algebraic) spin liquids can be stable phases in 2D, a key theoretical
+      basis for QSLs'
+  n_related: 22
+  note: 'Lee''s QSL work comes out of his RVB / slave-boson gauge-theory program, so many cuprate gauge-theory papers are
+    related but are not spin-liquid originals: 1989 gauge field/AB flux, 1990 uniform RVB, 1992 gauge theory of the normal
+    state, 1998 SU(2) t-J. The most-cited related entry is ''Doping a Mott insulator'' (2006, 4535 citations), but it is a
+    review, so it is not picked. ''An End to the Drought of Quantum Spin Liquids'' (2008) is a Science perspective and is
+    also excluded. Other related primary papers: the kagome algebraic spin liquid 2008, Na4Ir3O8 2008, Amperean pairing 2007,
+    weak Mott triangular 2010, Z2 kagome PSG 2011, thermal Hall 2010 and 2015, 1T-TaS2 2017 and 2018, and 1T-TaSe2 STM 2021.
+    The Majorana-wire papers build on Kitaev''s chain but are not spin liquid or topological-order papers, so they are not
+    counted. The pool has no exactly solvable model of topological order by Lee, since that is Kitaev''s part of the option.
+    The pool seems to mix two author IDs, but the titles look consistent with a single person: Lee''s localization, mesoscopic
+    and Coulomb-blockade work is all his.'
+Peter W. Shor:
+  picks:
+  - paper_id: W2168676717
+    year: 2002
+    title: 'Algorithms for quantum computation: discrete logarithms and factoring'
+    metrics: true
+    in_profile: true
+    reason: The original 1994 FOCS paper giving Shor's quantum factoring and discrete-log algorithm, the landmark quantum
+      algorithm (most-cited of its four duplicate records)
+  - paper_id: W1999706070
+    year: 1995
+    title: Scheme for reducing decoherence in quantum computer memory
+    metrics: true
+    in_profile: true
+    reason: The 1995 9-qubit Shor code, the first quantum error-correcting code, which founded quantum error correction
+  - paper_id: W2114207424
+    year: 1996
+    title: Good quantum error-correcting codes exist
+    metrics: true
+    in_profile: true
+    reason: Calderbank-Shor 1996 CSS-code construction, a founding quantum error-correction result
+  n_related: 20
+  note: 'The factoring paper appears as four duplicate records: W2168676717 (FOCS, listed as 2002, 8018 cites), W3023478445
+    (SIAM J. Comput. 1997, 6063), W2137147061 (SIAM Review 1999, 3597) and W3011907935 (1994, 278). The most-cited record
+    is picked. ''Fault-tolerant quantum computation'' (W2167927798, FOCS 1996, listed as 2002) is the landmark fault-tolerance
+    paper the second option names directly. It is a strong alternative to the CSS paper for slot 3, which went to the CSS
+    paper because it has more citations. Other related works include ''Simple Proof of Security of the BB84...'' (cryptography),
+    GF(4) codes, Orthogonal Geometry and ''Fault-Tolerant Error Correction with Efficient Quantum Codes''. The pool also has
+    many classical computational-geometry, bin-packing and combinatorics papers. These look like Shor''s own early CS work,
+    not a namesake''s, and are unrelated to the discovery.'
+Peter Zoller:
+  picks:
+  - paper_id: W2035413341
+    year: 1998
+    title: Cold Bosonic Atoms in Optical Lattices
+    metrics: true
+    in_profile: true
+    reason: 'Jaksch et al. 1998 landmark proposal: Bose-Hubbard model realized with cold atoms in optical lattices and the
+      superfluid-Mott transition, which Bloch observed in 2002 and which founded optical-lattice quantum simulation.'
+  - paper_id: W2116365249
+    year: 2003
+    title: 'Creation of effective magnetic fields in optical lattices: the Hofstadter butterfly for cold neutral atoms'
+    metrics: false
+    in_profile: true
+    reason: Jaksch & Zoller 2003 original proposal for simulating artificial gauge fields and Hofstadter physics in optical
+      lattices, later realized experimentally by Bloch's group and others.
+  - paper_id: W2084336605
+    year: 1999
+    title: Entanglement of Atoms via Cold Controlled Collisions
+    metrics: true
+    in_profile: true
+    reason: Jaksch et al. 1999 proposal to engineer many-atom entanglement with spin-dependent optical lattices, realized
+      by Bloch's group (Mandel et al. 2003).
+  n_related: 20
+  note: 'The core landmark (Jaksch, Bruder, Cirac, Gardiner, Zoller 1998 PRL) is in the pool and is the clear top pick. Other
+    related works in the pool are mostly later proposals or reviews, so they rank lower: Hofstetter 2002 fermionic superfluidity
+    in lattices; 2003 Bose/Anderson glasses; 2005 non-Abelian gauge potentials; the 2006 polar-molecule lattice-spin toolbox
+    (1053 citations, a strong alternative for third place); 2006 repulsively bound pairs; 2012/2013 lattice gauge theory simulators;
+    2012 entanglement growth; 2015 chiral edge states; the reviews ''The cold atom Hubbard toolbox'' (dated 2013 in the pool,
+    though the original is 2005), ''Goals and opportunities in quantum simulation'' and ''Topological quantum matter...''.
+    The pool is dominated by ion-trap and quantum-information work (Cirac-Zoller 1995, quantum repeaters, DLCZ), which is
+    not part of this discovery. No entries look like a namesake''s.'
+Qikun Xue:
+  picks:
+  - paper_id: W1970188810
+    year: 2013
+    title: Experimental Observation of the Quantum Anomalous Hall Effect in a Magnetic Topological Insulator
+    metrics: true
+    in_profile: true
+    reason: The landmark 2013 Science paper reporting the first observation of the QAHE in Cr-doped (Bi,Sb)2Te3 films.
+  - paper_id: W2125671278
+    year: 2013
+    title: Thin Films of Magnetically Doped Topological Insulator with Carrier‐Independent Long‐Range Ferromagnetic Order
+    metrics: true
+    in_profile: true
+    reason: 2013 paper establishing the Cr-doped (Bi,Sb)2Te3 film platform with carrier-independent ferromagnetism that made
+      the QAHE observation possible.
+  - paper_id: W2053820380
+    year: 2013
+    title: Topology-Driven Magnetic Quantum Phase Transition in Topological Insulators
+    metrics: true
+    in_profile: true
+    reason: 2013 Science companion work on magnetically doped TIs showing the topology-driven magnetic transition behind the
+      QAH route.
+  n_related: 12
+  note: 'The landmark QAHE paper (Chang et al., Science 2013) is in the pool and is the clear top pick. Picks 2 and 3 are
+    precursor and companion works on the material platform. Other related works are refinements, follow-ups or reviews: zero
+    Hall plateau (2015), codoping enhancement (2017), the 2018 ''Quantum Anomalous Hall System'' review, the 2013 ''Quantum
+    anomalous Hall effect'' entry (likely a review or perspective), the WAL-WL crossover in magnetically doped TI (2012),
+    Cr-induced gap opening (2014), the topological Hall effect (2017), and the MnBi2Te4 intrinsic magnetic TI papers (2019,
+    2020). I counted the general TI thin-film MBE papers as background, not related. The pool also holds a lot of FeSe/STO
+    superconductivity work and some off-topic entries (N-doped graphene, ZnO, SERS, nanoporous gold sensor) that may belong
+    to namesakes or merged author IDs.'
+Rafi Bistritzer:
+  picks:
+  - paper_id: W2127169435
+    year: 2011
+    title: Moiré bands in twisted double-layer graphene
+    metrics: true
+    in_profile: true
+    reason: The Bistritzer-MacDonald continuum model (PNAS 2011) that predicted flat bands at the 'magic angle' in twisted
+      bilayer graphene; this is the landmark theory paper.
+  - paper_id: W1991868441
+    year: 2011
+    title: Moiré butterflies in twisted bilayer graphene
+    metrics: true
+    in_profile: true
+    reason: Follow-up work using the same twisted-bilayer moiré continuum model, applied to the Hofstadter spectrum in a magnetic
+      field.
+  - paper_id: W1982485248
+    year: 2010
+    title: Transport between twisted graphene layers
+    metrics: true
+    in_profile: true
+    reason: Earlier theory of interlayer coupling and tunneling between misaligned graphene layers that led to the moiré band
+      model.
+  n_related: 5
+  note: The landmark (W2127169435, PNAS 2011, Moiré bands) is in the pool and clearly ranks first. Two more related items
+    were not picked. 'Graphene moiré mystery solved?' (2011) appears to be a short News & Views-style commentary, not primary
+    research. 'Tunneling conductance between misaligned graphene layers' (2010, 0 citations) looks like a conference abstract
+    or minor record related to the 2010 transport paper. The other works (exciton superfluidity in graphene bilayers, electronic
+    cooling, cold-atom dephasing, STO perovskites, Coulomb drag) are unrelated to the discovery but are consistent with the
+    same person, so none look like a namesake's. Bistritzer did not take part in the experimental discovery of correlated
+    insulators and superconductivity (Cao et al. 2018, Jarillo-Herrero group), so that paper is correctly absent from his
+    pool.
+Sara Seager:
+  picks:
+  - paper_id: W2155828690
+    year: 2000
+    title: Theoretical Transmission Spectra during Extrasolar Giant Planet Transits
+    metrics: true
+    in_profile: true
+    reason: 'Seager & Sasselov 2000: founding theory of transmission spectroscopy, which predicted the transit atmospheric
+      signatures (e.g. Na) later detected'
+  - paper_id: W2064058620
+    year: 2005
+    title: Infrared radiation from an extrasolar planet
+    metrics: true
+    in_profile: true
+    reason: 'Deming, Seager et al. 2005: first detection of thermal emission from an exoplanet (HD 209458b) by Spitzer secondary
+      eclipse'
+  - paper_id: W2084832836
+    year: 2007
+    title: A spectrum of an extrasolar planet
+    metrics: true
+    in_profile: true
+    reason: 'Richardson, Deming, Seager et al. 2007: first infrared emission spectrum of a transiting exoplanet''s atmosphere'
+  n_related: 36
+  note: 'The 2000 transmission-spectra theory paper is the clear landmark. Charbonneau et al. 2002, the first detection of
+    sodium in an exoplanet atmosphere, does not include Seager as an author, so it is correctly absent from the pool. I left
+    out two works that are close to the topic. Seager & Mallen-Ornelas 2003 (transit light-curve solution, 833 citations)
+    is about transits but not atmospheres. Seager & Sasselov 1998 (irradiated giant-planet atmospheres, 158 citations) is
+    earlier theory. The most-cited works in the pool are Kepler/TESS mission papers (W2070508637, W2761986865, W2749229678);
+    these are high-citation papers not tied to the discovery. Two works look like possible namesakes or misattributions: ''Natural
+    Products Containing a Nitrogen-Sulfur Bond'' (2018) and the GLIMPSE Galactic-plane survey (2003). ''A New Calculation
+    of the Recombination Epoch'' (1999) is Seager''s genuine early cosmology work, but it is unrelated to the discovery.'
+Sheperd S. Doeleman:
+  picks:
+  - paper_id: W2936349953
+    year: 2019
+    title: First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole
+    metrics: true
+    in_profile: true
+    reason: Landmark 2019 EHT paper announcing the first image of a black hole shadow (M87*) by event-horizon-scale VLBI.
+  - paper_id: W2035538351
+    year: 2008
+    title: Event-horizon-scale structure in the supermassive black hole candidate at the Galactic Centre
+    metrics: true
+    in_profile: true
+    reason: 'Doeleman-led 2008 Nature paper: first 1.3 mm VLBI detection of event-horizon-scale structure in Sgr A*, the proof
+      of concept behind the EHT.'
+  - paper_id: W2936095933
+    year: 2019
+    title: First M87 Event Horizon Telescope Results. VI. The Shadow and Mass of the Central Black Hole
+    metrics: true
+    in_profile: true
+    reason: Core 2019 EHT result that measures the shadow size and turns it into the mass of M87*.
+  n_related: 62
+  note: 'The 2019 EHT M87 papers II-V (instrumentation, calibration, imaging, physical origin) and VII-VIII (polarization)
+    are also landmark-level and were left out only because of the 3-pick limit. Paper IV (Imaging, 1501 citations) is a close
+    alternative to Paper VI. The 2022 EHT Sgr A* shadow papers are not in the pool. Some records are duplicates: the ALMA
+    Phasing System (2017/2018) and Testing GR with the Shadow Size of Sgr A* (2016/2015). Two records have null titles (W3104256499,
+    W3121511533). The SiO maser, MWA/Mileura, GRB 030329 and blazar works (3C 279, 3C 84, 1924-292) are by the same person
+    but unrelated to the shadow discovery. None look like they belong to a namesake.'
+Simon White:
+  picks:
+  - paper_id: W2032469582
+    year: 1985
+    title: The evolution of large-scale structure in a universe dominated by cold dark matter
+    metrics: true
+    in_profile: true
+    reason: 'Davis, Efstathiou, Frenk & White 1985: the landmark N-body simulations showing that CDM reproduces observed large-scale
+      galaxy clustering.'
+  - paper_id: W1973787491
+    year: 1988
+    title: The formation of dark halos in a universe dominated by cold dark matter
+    metrics: true
+    in_profile: true
+    reason: 'Frenk, White, Davis & Efstathiou 1988: DEFW simulations of dark halo formation in CDM, the follow-up to the 1985
+      paper.'
+  - paper_id: W1980304714
+    year: 1983
+    title: Clustering in a neutrino-dominated universe
+    metrics: true
+    in_profile: true
+    reason: 'White, Frenk & Davis 1983: simulations that ruled out hot (neutrino) dark matter and so prepared the case for
+      CDM.'
+  n_related: 20
+  note: The 1978 White & Rees paper 'Core condensation in heavy halos' (W1999367759) is very highly cited and closely related,
+    but it is analytic theory, not the numerical simulations named in the option, so it was not picked. The Navarro-Frenk-White
+    universal halo profile papers (1996/1997) are missing from the pool. W2128816921 (health literacy in older adults, 2009)
+    is clearly by a different Simon White who shares the name. Many SDSS/Planck/EAGLE survey papers are unrelated to the discovery.
+    The Millennium Simulation paper (W2141709306, 2005) is related but is a later refinement.
+Sriram Ramaswamy:
+  picks:
+  - paper_id: W2090370210
+    year: 2002
+    title: Hydrodynamic Fluctuations and Instabilities in Ordered Suspensions of Self-Propelled Particles
+    metrics: false
+    in_profile: true
+    reason: 'Simha & Ramaswamy 2002 PRL: the founding hydrodynamic theory of active suspensions (generic instability of ordered
+      swimmer suspensions, active stress).'
+  - paper_id: W2059667163
+    year: 2003
+    title: 'Active nematics on a substrate: Giant number fluctuations and long-time tails'
+    metrics: true
+    in_profile: true
+    reason: 'Ramaswamy-Simha-Toner 2003: primary prediction of giant number fluctuations from active-nematic hydrodynamics,
+      a hallmark result of the theory.'
+  - paper_id: W2105218727
+    year: 2005
+    title: Hydrodynamics and phases of flocks
+    metrics: true
+    in_profile: true
+    reason: 'Toner-Tu-Ramaswamy 2005: the joint synthesis of the hydrodynamic theory of flocking by exactly the three named
+      option holders.'
+  n_related: 47
+  note: 'Pool is Ramaswamy''s own active-matter corpus; the Toner-Tu flocking originals (1995/1998) are not his and correctly
+    absent. Highly cited reviews (2013 RMP ''Hydrodynamics of soft active matter'', 2010 Annu. Rev. ''Mechanics and Statistics
+    of Active Matter'', 2017 ''Active matter'') were ranked below primaries; 2005 Annals paper is review-like but kept as
+    the only three-author joint work. Other strong alternates: Narayan et al. 2007 Science (experimental observation of giant
+    number fluctuations, W2055276703) and Hatwalne et al. 2004 ''Rheology of Active-Particle Suspensions'' (W2068587972).
+    W1985564584 (2002, ''Statistical hydrodynamics of ordered suspensions...'') is a companion paper to the 2002 PRL. ''Acto-myosin
+    contractility rotates the cell nucleus'' appears twice (2013/2014 records). Many 1980s-90s works (quasicrystals, glass
+    transition, smectics) are unrelated to the discovery; no namesake entries apparent.'
+Stanford Woosley:
+  picks:
+  - paper_id: W2047798125
+    year: 1995
+    title: The Evolution and Explosion of Massive Stars. II. Explosive Hydrodynamics and Nucleosynthesis
+    metrics: true
+    in_profile: true
+    reason: Woosley and Weaver 1995. This is the landmark grid of core-collapse supernova models and their yields, and the
+      basis of how we model where the elements come from.
+  - paper_id: W2035879704
+    year: 1993
+    title: Gamma-ray bursts from stellar mass accretion disks around black holes
+    metrics: true
+    in_profile: true
+    reason: Woosley 1993, the original collapsar paper. It introduced a new kind of massive-star explosion, the engine behind
+      gamma-ray bursts.
+  - paper_id: W2088668851
+    year: 2003
+    title: How Massive Single Stars End Their Life
+    metrics: true
+    in_profile: true
+    reason: Heger et al. 2003. This primary study maps how massive stars die and which explosions and remnants result, sorted
+      by mass and metallicity.
+  n_related: 74
+  note: 'Almost every work in the pool is about massive-star evolution, supernovae, GRBs or nucleosynthesis, so the options
+    include the whole body of work. Close alternatives: the 2002 RMP review "The evolution and explosion of massive stars"
+    (W2063437365, 2091 citations), left out because it is a review; Weaver, Zimmerman and Woosley 1978 "Presupernova evolution
+    of massive stars" (W2076068263), a foundational original; the 1999 Collapsars paper (W2086199187); and Woosley and Hoffman
+    1994 on the r-process (W2040281876). Loosely related entries are GRB-afterglow observing papers such as X-ray flares,
+    HETE-2 and GRB 050709. Possible namesake or collaboration-credit entries: "Supernova 1987A" (1989, no metrics, not in
+    profile) and several 2016 non-profile works by Sukhbold/Ertl et al. All of these are plausibly real Woosley co-authorships.
+    No landmark looks missing.'
+Stéphane Mallat:
+  picks:
+  - paper_id: W2132984323
+    year: 1989
+    title: 'A theory for multiresolution signal decomposition: the wavelet representation'
+    metrics: false
+    in_profile: true
+    reason: 1989 IEEE PAMI landmark introducing multiresolution analysis and the fast wavelet (pyramid) algorithm
+  - paper_id: W1980149518
+    year: 1989
+    title: Multiresolution approximations and wavelet orthonormal bases of 𝐿²(𝑅)
+    metrics: false
+    in_profile: true
+    reason: 1989 Trans. AMS original mathematical formulation of multiresolution approximations building orthonormal wavelet
+      bases (more-cited of two duplicate records)
+  - paper_id: W2166982406
+    year: 1989
+    title: Multifrequency channel decompositions of images and wavelet models
+    metrics: true
+    in_profile: true
+    reason: 1989 companion paper applying the wavelet multiresolution representation to image decomposition
+  n_related: 55
+  note: Expected landmarks are present. W4238865235 (957 cites) duplicates W1980149518 (Trans. AMS 1989); the more-cited record
+    was picked. Early precursors W114250020 (1988) and W3024117407 (1987) are also in the pool but have few citations. 'The
+    Quijote Simulations' (2020) is a large cosmology collaboration paper and only loosely tied to Mallat. Many later works
+    (matching pursuit, bandelets, scattering transforms) build on wavelets but are refinements or applications. n_related
+    is an approximate count of the wavelet, multiresolution and time-frequency works.
+Stephen R. Forrest:
+  picks:
+  - paper_id: W1668566020
+    year: 1998
+    title: Highly efficient phosphorescent emission from organic electroluminescent devices
+    metrics: true
+    in_profile: true
+    reason: 1998 Nature landmark (Baldo, Thompson, Forrest) that first showed triplet harvesting in phosphorescent (PtOEP)
+      OLEDs.
+  - paper_id: W2051293602
+    year: 2001
+    title: Nearly 100% internal phosphorescence efficiency in an organic light-emitting device
+    metrics: true
+    in_profile: true
+    reason: 2001 primary demonstration that phosphorescent emitters give nearly unit internal quantum efficiency, the core
+      efficiency claim.
+  - paper_id: W2878404963
+    year: 1999
+    title: Very high-efficiency green organic light-emitting devices based on electrophosphorescence
+    metrics: true
+    in_profile: true
+    reason: 1999 Ir(ppy)3 electrophosphorescent OLED, the iridium-emitter design that became the industry standard for efficient
+      phosphorescent OLEDs.
+  n_related: 34
+  note: The option covers both phosphorescent and TADF emitters. The pool has no TADF works, which is expected because TADF
+    is Adachi's contribution. The phosphorescent landmarks are all in the pool. Other related works include the 2001 Ir complexes
+    paper in JACS (W2052329392), the 1999 singlet-triplet ratio paper (W2020443100) and many blue/white PHOLED follow-ups.
+    The SARS-CoV-2 papers from 2020-2021 (W3098697637, W3128154910, W3134446480, W3023609275, W3167632857, W3043177992) look
+    like a namesake's work, probably a different S. Forrest in Cambridge virology, and were wrongly merged into this profile.
+    The 2020 perovskite ISOS consensus paper and the 1979 smoke-aggregate paper (Forrest & Witten) are plausibly his own but
+    are unrelated to the discovery.
+Viatcheslav Mukhanov:
+  picks:
+  - paper_id: W1650473789
+    year: 1981
+    title: Quantum Fluctuations and a Nonsingular Universe
+    metrics: false
+    in_profile: true
+    reason: 'Mukhanov & Chibisov 1981 JETP Lett: the original prediction that quantum vacuum fluctuations during quasi-de
+      Sitter expansion seed a nearly scale-invariant spectrum of cosmological perturbations'
+  - paper_id: W1506490762
+    year: 1982
+    title: The Vacuum energy and large scale structure of the universe
+    metrics: false
+    in_profile: true
+    reason: 'Chibisov & Mukhanov 1982: detailed follow-up deriving large-scale structure from quantum vacuum fluctuations,
+      part of the original quantum-origin prediction'
+  - paper_id: W1640776704
+    year: 1985
+    title: Gravitational Instability of the Universe Filled with a Scalar Field
+    metrics: true
+    in_profile: true
+    reason: 'Mukhanov 1985: gauge-invariant quantization of scalar-field perturbations during inflation (the Mukhanov-Sasaki
+      variable), the standard framework for the prediction'
+  n_related: 25
+  note: The 1981 landmark (Mukhanov & Chibisov, JETP Lett.) is in the pool, but it has no metrics. The most-cited related
+    work is the 1992 review 'Theory of cosmological perturbations' (Mukhanov, Feldman, Brandenberger; 3363 cites). I passed
+    it over because it is a review. The 1988 'Quantum Theory of Gauge Invariant Cosmological Perturbations' (176 cites, no
+    metrics) is a close alternative for the third pick. Mukhanov's later work on k-inflation, k-essence, mimetic and massive
+    gravity, and nonsingular black holes is unrelated or only loosely related. 'Eternal Inflation, Black Holes, and the Future
+    of Civilizations' (2000) appears twice (W2132472751 and W3004818757). A few entries outside the profile (e.g., 'Spectroscopy
+    of the Quantum Black Hole' 1995, 'Probing quantum geometry at LHC') look like real co-authored Mukhanov papers, not a
+    namesake's. 'Inflationary Theory and Alternative Cosmology' (2002, not in profile) is probably also his.
+Yakir Aharonov:
+  picks:
+  - paper_id: W2028948400
+    year: 1959
+    title: Significance of Electromagnetic Potentials in the Quantum Theory
+    metrics: true
+    in_profile: true
+    reason: 'Aharonov-Bohm 1959 original: the topological phase from enclosed electromagnetic potentials, the founding paper
+      of the topological phase.'
+  - paper_id: W2044154336
+    year: 1987
+    title: Phase change during a cyclic quantum evolution
+    metrics: true
+    in_profile: true
+    reason: 'Aharonov-Anandan 1987 original: geometric phase for any cyclic evolution, the non-adiabatic generalisation of
+      Berry''s phase.'
+  - paper_id: W2084349987
+    year: 1984
+    title: Topological Quantum Effects for Neutral Particles
+    metrics: true
+    in_profile: true
+    reason: 'Aharonov-Casher 1984 original: a topological phase for neutral particles with a magnetic moment, the dual of
+      the AB effect.'
+  n_related: 15
+  note: 'All three landmark originals are in the pool: AB 1959, Aharonov-Anandan 1987 and Aharonov-Casher 1984. Other related
+    works are the AB follow-ups (1961, 1962, 1963), Anandan-Aharonov ''Geometry of quantum evolution'' (1990), ''Geometric
+    quantum phase and angles'' (1988), Berry-potential geometric forces (1992), AC comment/nonlocality papers (1988, 1989),
+    AB scattering (1984), AB nonlocality (2016), the spinor 2pi sign change (1967) and the AC zero-mode paper (1979). I found
+    no namesake entries. The pool is dominated by weak-value and time-symmetric work, which is unrelated to this option. The
+    1988 ''100'' spin paper is highly cited but is not about geometric phases.'
+Yasunobu Nakamura:
+  picks:
+  - paper_id: W3102004576
+    year: 1999
+    title: Coherent control of macroscopic quantum states in a single-Cooper-pair box
+    metrics: false
+    in_profile: false
+    reason: '1999 Nature landmark: first time-domain coherent control (pulse-driven oscillations) of a superconducting charge
+      qubit'
+  - paper_id: W2023727353
+    year: 1997
+    title: Spectroscopy of Energy-Level Splitting between Two Macroscopic Quantum States of Charge Coherently Superposed by
+      Josephson Coupling
+    metrics: true
+    in_profile: true
+    reason: 1997 PRL precursor showing coherent superposition of charge states in the Cooper-pair box, the qubit later coherently
+      controlled
+  - paper_id: W2033798881
+    year: 2002
+    title: Charge Echo in a Cooper-Pair Box
+    metrics: true
+    in_profile: true
+    reason: 2002 follow-up extending coherent pulse control of the charge qubit to echo sequences, confirming and refining
+      the 1999 result
+  n_related: 10
+  note: 'The 1999 Nature landmark is in the pool (no metrics, not in the profile record, but it is clearly his). The 2001
+    Rabi-oscillation paper (W2078631842, 210 citations) is about as closely related as Charge Echo; I put Charge Echo third
+    because it has more citations. The other related works are later extensions to coupled and conditional-gate charge qubits,
+    flux qubits, noise and readout, plus a 2009 charge-qubit review. ''Quantum computers'' (2010, 3375 citations) is a broad
+    review and I did not count it as defining. Two entries may belong to a namesake: ''Electric Dipole Moment of the Neutron
+    from 2+1 Flavor Lattice QCD'' (2015, lattice QCD) and possibly ''Spin-current-driven thermoelectric coating'' (2012).
+    W3142098715 has no title (null).'
+Yoshinori Tokura:
+  picks:
+  - paper_id: W2168406111
+    year: 2010
+    title: Real-space observation of a two-dimensional skyrmion crystal
+    metrics: true
+    in_profile: true
+    reason: Landmark 2010 Lorentz-TEM real-space imaging of the skyrmion lattice in chiral magnet Fe0.5Co0.5Si, Tokura's defining
+      skyrmion paper
+  - paper_id: W2066681415
+    year: 2010
+    title: Near room-temperature formation of a skyrmion crystal in thin-films of the helimagnet FeGe
+    metrics: true
+    in_profile: true
+    reason: Primary 2010 observation extending the skyrmion crystal to near room temperature in chiral FeGe
+  - paper_id: W1987836318
+    year: 2012
+    title: Skyrmion flow near room temperature in an ultralow current density
+    metrics: false
+    in_profile: true
+    reason: Primary 2012 demonstration of current-driven skyrmion lattice motion at ultralow current density, establishing
+      their spintronic dynamics
+  n_related: 24
+  note: 'Pool has many skyrmion/topological spin-texture works (2010 to 2020). The most-cited related item, ''Topological
+    properties and dynamics of magnetic skyrmions'' (2013, Nagaosa and Tokura, 3819 cites), is a review, so it ranks below
+    the primary observations. Other primary papers that relate: MnGe topological Hall (2011), real-space MnSi/MnGe skyrmion
+    lattices, the meron-skyrmion transformation (2018), and the square skyrmion lattice (2020). Tokura''s Cu2OSeO3 multiferroic
+    skyrmion paper (Seki 2012, Science) is missing from the pool. The Mühlbauer 2009 MnSi neutron discovery is Pfleiderer''s,
+    without Tokura, so it is not expected here. No namesake entries seen. The manganite, multiferroic and organic-ferroelectric
+    works are genuinely Tokura''s, but they do not relate to this discovery.'
+Yuhai Tu:
+  picks:
+  - paper_id: W2063134919
+    year: 1995
+    title: 'Long-Range Order in a Two-Dimensional Dynamical XY Model: How Birds Fly Together'
+    metrics: true
+    in_profile: true
+    reason: 1995 Toner-Tu PRL that originated the hydrodynamic theory of flocking, showing true long-range order in 2D flocks
+  - paper_id: W2060203271
+    year: 1998
+    title: 'Flocks, herds, and schools: A quantitative theory of flocking'
+    metrics: true
+    in_profile: true
+    reason: 1998 full Toner-Tu paper with the complete hydrodynamic continuum theory and renormalization-group analysis of
+      flocks
+  - paper_id: W2088923717
+    year: 1998
+    title: Sound Waves and the Absence of Galilean Invariance in Flocks
+    metrics: true
+    in_profile: true
+    reason: 1998 primary research paper predicting the anomalous sound-wave modes of the Toner-Tu flocking hydrodynamics
+  n_related: 8
+  note: 'I counted 8 works that directly concern flocking hydrodynamics. Besides the three picks, they are: the highly cited
+    2005 Annals of Physics review ''Hydrodynamics and phases of flocks'' (974 citations), left out because it is a review;
+    ''Phases and phase transitions in flocking systems'' (2000); ''Moving and staying together without a leader'' (2003);
+    and the two 2018 papers on flocking with quenched disorder. Two 2001 papers on bacterial-bath active particles are related
+    to active matter only loosely, so I did not count them. The pool mixes in many works that look like namesakes'': gene-expression
+    and lymphoma profiling, cancer cell migration, the antimalarial-drug paper, and Si-SiO2 and epitaxy materials work. Some
+    of these may be IBM Yuhai Tu''s own (gene-expression analysis and silicon oxidation are plausible), but the cancer/biomedical
+    and qinghaosu entries are probably a different person. None of this affects the picks. No expected landmark is missing.'
+Yves Meyer:
+  picks:
+  - paper_id: W2013987111
+    year: 1986
+    title: Ondelettes et bases hilbertiennes
+    metrics: true
+    in_profile: true
+    reason: 'Lemarié-Meyer 1986 paper: smooth orthonormal wavelet bases (the Meyer wavelet), a founding result of wavelet
+      theory'
+  - paper_id: W78443961
+    year: 1986
+    title: Principe d'incertitude, bases hilbertiennes et algèbres d'opérateurs
+    metrics: false
+    in_profile: true
+    reason: 1985/86 Bourbaki seminar where Meyer first built an orthonormal wavelet basis, against the expectation that none
+      existed
+  - paper_id: W2087377426
+    year: 1986
+    title: Painless nonorthogonal expansions
+    metrics: true
+    in_profile: true
+    reason: 'Daubechies-Grossmann-Meyer 1986: discrete wavelet frames, the step from the continuous transform to discrete
+      wavelet expansions'
+  n_related: 28
+  note: 'The multiresolution analysis landmark (Mallat 1989, ''Multiresolution approximations and wavelet orthonormal bases
+    of L2'', partly from his work with Meyer) is not in the pool. Pool items not picked: the monograph ''Ondelettes et operateurs
+    I'' (1990, 735 citations) is the canonical synthesis but is a book. It would be the 4th pick if books counted. Duplicates:
+    ''Wavelets: Tools for Science & Technology'' (1987/2001), ''Wavelets: Calderón-Zygmund and Multilinear Operators'' (1997,
+    two records), and ''Measures with locally finite support and spectrum'' (2016/2017). The ''construction de bases orthonormées
+    d''ondelettes'' records (1988/1990) have few citations. W86414441 (1993) has no title. Some entries look like a namesake''s:
+    heart-rate/marathon physiology (2005-2009) and BioChaperone/pramlintide (2018). Meyer did co-author some of the marathon
+    multifractal papers, though.'

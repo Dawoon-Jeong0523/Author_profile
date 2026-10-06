@@ -1,0 +1,430 @@
+{
+ "person": "Laurens W. Molenkamp",
+ "birth_year": 1956,
+ "cutoff_year": 1981,
+ "options": [
+  "for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect — Eugene J. Mele, Charles L. Kane, Laurens W. Molenkamp"
+ ],
+ "works": [
+  {
+   "paper_id": "W2043175787",
+   "year": 2007,
+   "cited_by_count": 5938,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Spin Hall Insulator State in HgTe Quantum Wells"
+  },
+  {
+   "paper_id": "W2084838123",
+   "year": 2000,
+   "cited_by_count": 1955,
+   "C_5_pctl": 1.0,
+   "title": "Fundamental obstacle for electrical spin injection from a ferromagnetic metal into a diffusive semiconductor"
+  },
+  {
+   "paper_id": "W1640888000",
+   "year": 1999,
+   "cited_by_count": 1833,
+   "C_5_pctl": 1.0,
+   "title": "Injection and detection of a spin-polarized current in a light-emitting diode"
+  },
+  {
+   "paper_id": "W3098271581",
+   "year": 2018,
+   "cited_by_count": 926,
+   "C_5_pctl": 1.0,
+   "title": "Topolectrical-circuit realization of topological corner modes"
+  },
+  {
+   "paper_id": "W2085332084",
+   "year": 2009,
+   "cited_by_count": 888,
+   "C_5_pctl": 1.0,
+   "title": "Nonlocal Transport in the Quantum Spin Hall State"
+  },
+  {
+   "paper_id": "W2128459818",
+   "year": 2008,
+   "cited_by_count": 783,
+   "C_5_pctl": 1.0,
+   "title": "The Quantum Spin Hall Effect: Theory and Experiment"
+  },
+  {
+   "paper_id": "W3037234208",
+   "year": 2018,
+   "cited_by_count": 594,
+   "C_5_pctl": 1.0,
+   "title": "Topolectrical Circuits"
+  },
+  {
+   "paper_id": "W2033983076",
+   "year": 2011,
+   "cited_by_count": 484,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Hall Effect from the Topological Surface States of Strained Bulk HgTe"
+  },
+  {
+   "paper_id": "W2144813415",
+   "year": 2004,
+   "cited_by_count": 418,
+   "C_5_pctl": 1.0,
+   "title": "Suppression of the persistent spin Hall current by defect scattering"
+  },
+  {
+   "paper_id": "W1825643586",
+   "year": 2016,
+   "cited_by_count": 378,
+   "C_5_pctl": 1.0,
+   "title": "4π-periodic Josephson supercurrent in HgTe-based topological Josephson junctions"
+  },
+  {
+   "paper_id": "W1994910204",
+   "year": 2004,
+   "cited_by_count": 374,
+   "C_5_pctl": 0.99,
+   "title": "Tunneling Anisotropic Magnetoresistance: A Spin-Valve-Like Tunnel Magnetoresistance Using a Single Magnetic Layer"
+  },
+  {
+   "paper_id": "W2076307512",
+   "year": 2014,
+   "cited_by_count": 355,
+   "C_5_pctl": 1.0,
+   "title": "Induced superconductivity in the quantum spin Hall edge"
+  },
+  {
+   "paper_id": "W2081968714",
+   "year": 1995,
+   "cited_by_count": 324,
+   "C_5_pctl": 0.83,
+   "title": "Hydrodynamic electron flow in high-mobility wires"
+  },
+  {
+   "paper_id": "W2895657249",
+   "year": 2018,
+   "cited_by_count": 315,
+   "C_5_pctl": 1.0,
+   "title": "Hanbury-Brown and Twiss exchange and non-equilibrium-induced correlations in disordered, four-terminal graphene-ribbon conductor"
+  },
+  {
+   "paper_id": "W2256476973",
+   "year": 2016,
+   "cited_by_count": 307,
+   "C_5_pctl": 1.0,
+   "title": "Gapless Andreev bound states in the quantum spin Hall insulator HgTe"
+  },
+  {
+   "paper_id": "W3023643438",
+   "year": 2005,
+   "cited_by_count": 306,
+   "C_5_pctl": 0.97,
+   "title": "Band structure of semimagnetic Hg1−yMnyTe quantum wells"
+  },
+  {
+   "paper_id": "W1997346170",
+   "year": 2012,
+   "cited_by_count": 300,
+   "C_5_pctl": 1.0,
+   "title": "Spin polarization of the quantum spin Hall edge states"
+  },
+  {
+   "paper_id": "W1964415034",
+   "year": 2011,
+   "cited_by_count": 284,
+   "C_5_pctl": 1.0,
+   "title": "Single valley Dirac fermions in zero-gap HgTe quantum wells"
+  },
+  {
+   "paper_id": "W1998422417",
+   "year": 2003,
+   "cited_by_count": 256,
+   "C_5_pctl": 1.0,
+   "title": "Voltage-Controlled Spin Selection in a Magnetic Resonant Tunneling Diode"
+  },
+  {
+   "paper_id": "W2092375548",
+   "year": 2013,
+   "cited_by_count": 252,
+   "C_5_pctl": 1.0,
+   "title": "Imaging currents in HgTe quantum wells in the quantum spin Hall regime"
+  },
+  {
+   "paper_id": "W2009061273",
+   "year": 1987,
+   "cited_by_count": 250,
+   "C_5_pctl": 0.98,
+   "title": "Giant oscillator strength of free excitons in GaAs"
+  },
+  {
+   "paper_id": "W1994033834",
+   "year": 1995,
+   "cited_by_count": 240,
+   "C_5_pctl": 1.0,
+   "title": "Resonant Tunneling Through Two Discrete Energy States"
+  },
+  {
+   "paper_id": "W2004059309",
+   "year": 2005,
+   "cited_by_count": 237,
+   "C_5_pctl": 0.99,
+   "title": "Thermopower of a Kondo Spin-Correlated Quantum Dot"
+  },
+  {
+   "paper_id": "W2128753345",
+   "year": 2003,
+   "cited_by_count": 223,
+   "C_5_pctl": 1.0,
+   "title": "Diffuse transport and spin accumulation in a Rashba two-dimensional electron gas"
+  },
+  {
+   "paper_id": "W2001417694",
+   "year": 1993,
+   "cited_by_count": 213,
+   "C_5_pctl": 0.94,
+   "title": "Coulomb-Blockade Oscillations in the Thermopower of a Quantum Dot"
+  },
+  {
+   "paper_id": "W2017530403",
+   "year": 2008,
+   "cited_by_count": 212,
+   "C_5_pctl": 0.99,
+   "title": "Quantum dot as thermal rectifier"
+  },
+  {
+   "paper_id": "W2018691036",
+   "year": 2006,
+   "cited_by_count": 205,
+   "C_5_pctl": 1.0,
+   "title": "Direct Observation of the Aharonov-Casher Phase"
+  },
+  {
+   "paper_id": "W2040245444",
+   "year": 2004,
+   "cited_by_count": 198,
+   "C_5_pctl": 1.0,
+   "title": "Bias-induced threshold voltages shifts in thin-film organic transistors"
+  },
+  {
+   "paper_id": "W2144443258",
+   "year": 2001,
+   "cited_by_count": 193,
+   "C_5_pctl": 0.99,
+   "title": "Rashba Hamiltonian and electron transport"
+  },
+  {
+   "paper_id": "W2065394920",
+   "year": 1990,
+   "cited_by_count": 191,
+   "C_5_pctl": 0.99,
+   "title": "Quantum oscillations in the transverse voltage of a channel in the nonlinear transport regime"
+  },
+  {
+   "paper_id": "W2302492125",
+   "year": 2017,
+   "cited_by_count": 189,
+   "C_5_pctl": 1.0,
+   "title": "Observation of the universal magnetoelectric effect in a 3D topological insulator"
+  },
+  {
+   "paper_id": "W2060650719",
+   "year": 2010,
+   "cited_by_count": 172,
+   "C_5_pctl": 0.99,
+   "title": "Fingerprint of different spin–orbit terms for spin transport in HgTe quantum wells"
+  },
+  {
+   "paper_id": "W1968360291",
+   "year": 1992,
+   "cited_by_count": 166,
+   "C_5_pctl": 0.97,
+   "title": "Peltier coefficient and thermal conductance of a quantum point contact"
+  },
+  {
+   "paper_id": "W1988707325",
+   "year": 2004,
+   "cited_by_count": 164,
+   "C_5_pctl": 0.99,
+   "title": "Temperature dependent magnetic anisotropy in (Ga,Mn)As layers"
+  },
+  {
+   "paper_id": "W2052294811",
+   "year": 1990,
+   "cited_by_count": 156,
+   "C_5_pctl": 0.99,
+   "title": "Electron-beam collimation with a quantum point contact"
+  },
+  {
+   "paper_id": "W2051326497",
+   "year": 2003,
+   "cited_by_count": 153,
+   "C_5_pctl": 1.0,
+   "title": "Very Large Magnetoresistance in Lateral Ferromagnetic (Ga,Mn)As Wires with Nanoconstrictions"
+  },
+  {
+   "paper_id": "W2321569304",
+   "year": 2017,
+   "cited_by_count": 151,
+   "C_5_pctl": 1.0,
+   "title": "Josephson Radiation from Gapless Andreev Bound States in HgTe-Based Topological Junctions"
+  },
+  {
+   "paper_id": "W2012750709",
+   "year": 2002,
+   "cited_by_count": 151,
+   "C_5_pctl": 0.99,
+   "title": "Spin injection into semiconductors, physics and experiments"
+  },
+  {
+   "paper_id": "W1966191783",
+   "year": 2007,
+   "cited_by_count": 150,
+   "C_5_pctl": 0.99,
+   "title": "Character of states near the Fermi level in (Ga,Mn)As: Impurity to valence band crossover"
+  },
+  {
+   "paper_id": "W2884636150",
+   "year": 2019,
+   "cited_by_count": 148,
+   "C_5_pctl": 1.0,
+   "title": "Band structure engineering and reconstruction in electric circuit networks"
+  },
+  {
+   "paper_id": "W1558145073",
+   "year": 2005,
+   "cited_by_count": 147,
+   "C_5_pctl": 1.0,
+   "title": "Very Large Tunneling Anisotropic Magnetoresistance of a (Ga,Mn)As/GaAs/(Ga,Mn)As Stack"
+  },
+  {
+   "paper_id": "W2073708197",
+   "year": 2010,
+   "cited_by_count": 145,
+   "C_5_pctl": 1.0,
+   "title": "Evidence for the ballistic intrinsic spin Hall effect in HgTe nanostructures"
+  },
+  {
+   "paper_id": "W1508268547",
+   "year": 2004,
+   "cited_by_count": 143,
+   "C_5_pctl": 0.99,
+   "title": "Manifestation of the spin Hall effect through charge-transport in the mesoscopic regime"
+  },
+  {
+   "paper_id": "W2163121483",
+   "year": 2000,
+   "cited_by_count": 141,
+   "C_5_pctl": 0.98,
+   "title": "Magnetic polarons in a single diluted magnetic semiconductor quantum dot"
+  },
+  {
+   "paper_id": "W2997055716",
+   "year": 2020,
+   "cited_by_count": 137,
+   "C_5_pctl": 1.0,
+   "title": "Absence of evidence for chiral Majorana modes in quantum anomalous Hall-superconductor devices"
+  },
+  {
+   "paper_id": "W2269689008",
+   "year": 2015,
+   "cited_by_count": 125,
+   "C_5_pctl": 1.0,
+   "title": "Unexpected edge conduction in mercury telluride quantum wells under broken time-reversal symmetry"
+  },
+  {
+   "paper_id": "W1993260730",
+   "year": 2015,
+   "cited_by_count": 121,
+   "C_5_pctl": 0.99,
+   "title": "Nonsinusoidal Current-Phase Relationship in Josephson Junctions from the 3D Topological Insulator HgTe"
+  },
+  {
+   "paper_id": "W2065087664",
+   "year": 2009,
+   "cited_by_count": 119,
+   "C_5_pctl": 0.99,
+   "title": "Bistability of Vortex Core Dynamics in a Single Perpendicularly Magnetized Nanodisk"
+  },
+  {
+   "paper_id": "W2038296400",
+   "year": 2011,
+   "cited_by_count": 117,
+   "C_5_pctl": 0.99,
+   "title": "Giant Magneto-Optical Faraday Effect in HgTe Thin Films in the Terahertz Spectral Range"
+  },
+  {
+   "paper_id": "W2021843174",
+   "year": 2004,
+   "cited_by_count": 116,
+   "C_5_pctl": 0.98,
+   "title": "Giant spin-orbit splitting in a HgTe quantum well"
+  },
+  {
+   "paper_id": "W2227365687",
+   "year": 2016,
+   "cited_by_count": 110,
+   "C_5_pctl": 0.99,
+   "title": "Controlled finite momentum pairing and spatially varying order parameter in proximitized HgTe quantum wells"
+  },
+  {
+   "paper_id": "W2125924134",
+   "year": 1985,
+   "cited_by_count": 108,
+   "C_5_pctl": 0.99,
+   "title": "Optical dephasing in organic amorphous systems. A photon echo and hole-burning study of pentacene in polymethylmethacrylate"
+  },
+  {
+   "paper_id": "W2157476950",
+   "year": 2006,
+   "cited_by_count": 108,
+   "C_5_pctl": 0.99,
+   "title": "Vertex Corrections to the Anomalous Hall Effect in Spin-Polarized Two-Dimensional Electron Gases with a Rashba Spin-Orbit Interaction"
+  },
+  {
+   "paper_id": "W2210536256",
+   "year": 2016,
+   "cited_by_count": 106,
+   "C_5_pctl": 0.99,
+   "title": "Room-temperature spin–orbit torque in NiMnSb"
+  },
+  {
+   "paper_id": "W2271238488",
+   "year": 2015,
+   "cited_by_count": 106,
+   "C_5_pctl": 0.99,
+   "title": "Coincidence of superparamagnetism and perfect quantization in the quantum anomalous Hall state"
+  },
+  {
+   "paper_id": "W1992741157",
+   "year": 1995,
+   "cited_by_count": 105,
+   "C_5_pctl": 0.98,
+   "title": "Scaling of the Coulomb Energy Due to Quantum Fluctuations in the Charge on a Quantum Dot"
+  },
+  {
+   "paper_id": "W2035809016",
+   "year": 2010,
+   "cited_by_count": 104,
+   "C_5_pctl": 0.97,
+   "title": "High‐Performance Single Crystal Organic Field‐Effect Transistors Based on Two Dithiophene‐Tetrathiafulvalene (DT‐TTF) Polymorphs"
+  },
+  {
+   "paper_id": "W1988850665",
+   "year": 1994,
+   "cited_by_count": 98,
+   "C_5_pctl": 0.94,
+   "title": "Electron-electron-scattering-induced size effects in a two-dimensional wire"
+  },
+  {
+   "paper_id": "W2054849515",
+   "year": 2001,
+   "cited_by_count": 93,
+   "C_5_pctl": 0.99,
+   "title": "Large Magnetoresistance Effect Due to Spin Injection into a Nonmagnetic Semiconductor"
+  },
+  {
+   "paper_id": "W2053686576",
+   "year": 2001,
+   "cited_by_count": 92,
+   "C_5_pctl": 0.98,
+   "title": "Heating of the magnetic ion system in (Zn, Mn)Se/(Zn, Be)Se semimagnetic quantum wells by means of photoexcitation"
+  }
+ ]
+}

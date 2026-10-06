@@ -1,0 +1,77 @@
+Clifford P. Brangwynne:
+  picks:
+  - paper_id: W2054352933
+    year: 2009
+    title: Germline P Granules Are Liquid Droplets That Localize by Controlled Dissolution/Condensation
+    metrics: false
+    in_profile: true
+    reason: 2009 Science paper showing that germline P granules are liquid droplets that condense and dissolve, the founding
+      observation of liquid-like condensates
+  - paper_id: W2026226960
+    year: 2011
+    title: Active liquid-like behavior of nucleoli determines their size and shape in Xenopus laevis oocytes
+    metrics: false
+    in_profile: true
+    reason: 2011 PNAS paper showing that nucleoli behave as active liquid droplets, extending the condensate picture to the
+      nucleus
+  - paper_id: W2402791934
+    year: 2016
+    title: Coexisting Liquid Phases Underlie Nucleolar Subcompartments
+    metrics: true
+    in_profile: true
+    reason: 2016 Cell paper showing that coexisting immiscible liquid phases build the subcompartments of the nucleolus
+  n_related: 40
+  note: Chosen by Claude after the birth year was corrected (Wikidata gave 2000, which emptied the first pool). The 2009 and
+    2011 papers have no metrics values in the profile tables. Off-topic early works (microtubule mechanics, 2005-2008) are
+    his own PhD-era research, not a namesake.
+Mikko Ritala:
+  picks:
+  - paper_id: W1965368032
+    year: 2000
+    title: Atomic Layer Deposition of Oxide Thin Films with Metal Alkoxides as Oxygen Sources
+    metrics: true
+    in_profile: true
+    reason: 2000 Science paper on atomic layer deposition of oxide films with metal alkoxides as oxygen sources, a key ALD
+      chemistry advance
+  - paper_id: W1987596999
+    year: 1993
+    title: Growth of titanium dioxide thin films by atomic layer epitaxy
+    metrics: true
+    in_profile: true
+    reason: 1993 paper on growth of titanium dioxide films by atomic layer epitaxy, an early Helsinki ALE oxide process
+  - paper_id: W2012445711
+    year: 1999
+    title: Perfectly Conformal TiN and Al2O3 Films Deposited by Atomic Layer Deposition
+    metrics: true
+    in_profile: true
+    reason: 1999 paper showing perfectly conformal TiN and Al2O3 films by ALD, the property that made ALD industrial
+  n_related: 70
+  note: Chosen by Claude after the birth year was corrected (Wikidata gave 2000, which emptied the first pool). His most-cited
+    works are reviews (2002 with Leskela, 2003, 2013 crystallinity overview), left out as later syntheses. Suntola is the
+    1974 inventor of atomic layer epitaxy; Ritala and Leskela developed the chemistry from the 1990s.
+Jay R. Winkler:
+  picks:
+  - paper_id: W1965672697
+    year: 1982
+    title: Electron-transfer kinetics of pentaammineruthenium(III)(histidine-33)-ferricytochrome c. Measurement of the rate
+      of intramolecular electron transfer between redox centers separated by 15.ANG. in a protein
+    metrics: true
+    in_profile: true
+    reason: 1982 JACS measurement of electron-transfer kinetics in ruthenium-modified cytochrome c, the founding experiment
+      of long-range electron transfer in proteins
+  - paper_id: W1965428140
+    year: 1992
+    title: Electron-Tunneling Pathways in Oroteins
+    metrics: true
+    in_profile: true
+    reason: 1992 Science paper with Gray and Beratan on electron-tunneling pathways in proteins
+  - paper_id: W2079924875
+    year: 1995
+    title: 'Electron Tunneling in Proteins: Coupling Through a β Strand'
+    metrics: true
+    in_profile: true
+    reason: 1995 Science paper on electron tunneling coupled through a beta strand in ruthenium-modified azurin
+  n_related: 35
+  note: Chosen by Claude after the birth year was corrected (Wikidata gave 1965, which cut off the 1982 founding paper; he
+    was born 1956). The 1987 microemulsion paper is his own earlier spectroscopy work. Later solar-fuel and hydrogen-evolution
+    papers are a different line of his research.

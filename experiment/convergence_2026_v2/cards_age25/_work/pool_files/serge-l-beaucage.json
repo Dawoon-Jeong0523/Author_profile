@@ -1,0 +1,654 @@
+{
+ "person": "Serge L. Beaucage",
+ "profile": "A5022821865",
+ "ids": [
+  "A5022821865"
+ ],
+ "options": [
+  "for the development of phosphoramidite chemistry for automated DNA synthesis — Marvin H. Caruthers, Serge L. Beaucage, Mark D. Matteucci"
+ ],
+ "birth_year": 1951,
+ "cutoff_year": 1976,
+ "works": [
+  {
+   "paper_id": "W2089617243",
+   "year": 1981,
+   "cited_by_count": 1941,
+   "title": "Deoxynucleoside phosphoramidites—A new class of key intermediates for deoxypolynucleotide synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033441782",
+   "year": 1996,
+   "cited_by_count": 1485,
+   "title": "CpG motifs present in bacteria DNA rapidly induce lymphocytes to secrete interleukin 6, interleukin 12, and interferon gamma.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966419565",
+   "year": 1992,
+   "cited_by_count": 701,
+   "title": "Advances in the Synthesis of Oligonucleotides by the Phosphoramidite Approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952615165",
+   "year": 1993,
+   "cited_by_count": 317,
+   "title": "The synthesis of modified oligonucleotides by the phosphoramidite approach and their applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056945430",
+   "year": 1990,
+   "cited_by_count": 301,
+   "title": "3H-1,2-Benzodithiole-3-one 1,1-dioxide as an improved sulfurizing reagent in the solid-phase synthesis of oligodeoxyribonucleoside phosphorothioates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988844434",
+   "year": 1993,
+   "cited_by_count": 248,
+   "title": "The Functionalization of Oligonucleotides Via Phosphoramidite Derivatives",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158805724",
+   "year": 1978,
+   "cited_by_count": 238,
+   "title": "The synthesis of oligoribonucleotides. II. The use of silyl protecting groups in nucleoside and nucleotide chemistry. VII",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001905450",
+   "year": 1990,
+   "cited_by_count": 227,
+   "title": "The automated synthesis of sulfur-containing oligodeoxyribonucleotides using 3H-1,2-benzodithiol-3-one 1,1-dioxide as a sulfur-transfer reagent",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076453991",
+   "year": 1986,
+   "cited_by_count": 183,
+   "title": "Nucleotide chemistry. 16. Amidine protecting groups for oligonucleotide synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092534111",
+   "year": 2001,
+   "cited_by_count": 140,
+   "title": "Strategies in the Preparation of DNA Oligonucleotide Arrays for Diagnostic Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986666165",
+   "year": 1993,
+   "cited_by_count": 88,
+   "title": "The synthesis of specific ribonucleotides and unrelated phosphorylated biomolecules by the phosphoramidite method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113121371",
+   "year": 1993,
+   "cited_by_count": 88,
+   "title": "An antisense oligodeoxynucleotide that depletes RI alpha subunit of cyclic AMP-dependent protein kinase induces growth inhibition in human cancer cells.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2312223326",
+   "year": 1983,
+   "cited_by_count": 88,
+   "title": "Chemical Synthesis and Biological Studies on Mutated Gene-control Regions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970673071",
+   "year": 2000,
+   "cited_by_count": 84,
+   "title": "Deoxyribonucleoside Cyclic N -Acylphosphoramidites as a New Class of Monomers for the Stereocontrolled Synthesis of Oligothymidylyl- and Oligodeoxycytidylyl- Phosphorothioates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105380856",
+   "year": 2013,
+   "cited_by_count": 81,
+   "title": "Cyclic‐di‐GMP and cyclic‐di‐AMP activate the NLRP3 inflammasome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094623985",
+   "year": 1990,
+   "cited_by_count": 62,
+   "title": "Role of DNA superhelicity in partitioning of the pSC101 plasmid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117590778",
+   "year": 2001,
+   "cited_by_count": 59,
+   "title": "Inhibition of Potentially Anti-Apoptotic Proteins by Antisense Protein Kinase C-α (Isis 3521) and Antisense bcl-2 (G3139) Phosphorothioate Oligodeoxynucleotides: Relationship to the Decreased Viability of T24 Bladder and PC3 Prostate Cancer Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2950823617",
+   "year": 2008,
+   "cited_by_count": 56,
+   "title": "Solid-phase synthesis of siRNA oligonucleotides.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073700785",
+   "year": 1999,
+   "cited_by_count": 47,
+   "title": "The 4-[N-Methyl-N-(2,2,2-trifluoroacetyl)amino]butyl Group as an Alternative to the 2-Cyanoethyl Group for Phosphate Protection in the Synthesis of Oligodeoxyribonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1489935189",
+   "year": 1985,
+   "cited_by_count": 45,
+   "title": "Quantitative in vivo receptor binding. I. Theory and application to the muscarinic cholinergic receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016791148",
+   "year": 1977,
+   "cited_by_count": 45,
+   "title": "A general transesterification method for the synthesis of mixed trialkyl phosphates",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1994972230",
+   "year": 1984,
+   "cited_by_count": 44,
+   "title": "A simple and efficient preparation of deoxynucleoside phosphoramidites in situ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004711134",
+   "year": 1978,
+   "cited_by_count": 43,
+   "title": "Facile alkylation of purines, pyrimidines, nucleosides and nucleotides using tetrabutylammonium fluoride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017501021",
+   "year": 1987,
+   "cited_by_count": 43,
+   "title": "An efficient procedure for the solid phase tritylation of nucleosides and nucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994731245",
+   "year": 1976,
+   "cited_by_count": 42,
+   "title": "A facile method for the removal of phosphate protecting groups in nucleotide synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1518642715",
+   "year": 2000,
+   "cited_by_count": 41,
+   "title": "Synthetic Strategies and Parameters Involved in the Synthesis of Oligodeoxyribonucleotides According to the Phosphoramidite Method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1551008314",
+   "year": 2009,
+   "cited_by_count": 41,
+   "title": "Recent Advances in the Chemical Synthesis of RNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2950819154",
+   "year": 2003,
+   "cited_by_count": 40,
+   "title": "Oligodeoxyribonucleotides Synthesis: Phosphoramidite Approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094497498",
+   "year": 2002,
+   "cited_by_count": 38,
+   "title": "The 3-( N - tert -Butylcarboxamido)-1-propyl Group as an Attractive Phosphate/Thiophosphate Protecting Group for Solid-Phase Oligodeoxyribonucleotide Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031670447",
+   "year": 2001,
+   "cited_by_count": 37,
+   "title": "The 2-(N-Formyl-N-methyl)aminoethyl Group as a Potential Phosphate/Thiophosphate Protecting Group in Solid-Phase Oligodeoxyribonucleotide Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984803315",
+   "year": 1979,
+   "cited_by_count": 36,
+   "title": "Fluoride ion promoted deprotection and transesterification in nucleotide triesters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981210402",
+   "year": 2006,
+   "cited_by_count": 34,
+   "title": "Use of thermolytic protective groups to prevent G-tetrad formation in CpG ODN type D: structural studies and immunomodulatory activity in primates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003163383",
+   "year": 2009,
+   "cited_by_count": 33,
+   "title": "Assessment of heat-sensitive thiophosphate protecting groups in the development of thermolytic DNA oligonucleotide prodrugs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036914780",
+   "year": 2004,
+   "cited_by_count": 33,
+   "title": "Thermolytic 4-Methylthio-1-butyl Group for Phosphate/Thiophosphate Protection in Solid-Phase Synthesis of DNA Oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952140827",
+   "year": 2003,
+   "cited_by_count": 32,
+   "title": "Thermolytic Carbonates for Potential 5‘-Hydroxyl Protection of Deoxyribonucleosides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2410059712",
+   "year": 1983,
+   "cited_by_count": 31,
+   "title": "Deoxyoligonucleotide synthesis via the phosphoramidite method.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3127573808",
+   "year": 2021,
+   "cited_by_count": 31,
+   "title": "Alterations in the HLA-B*57:01 Immunopeptidome by Flucloxacillin and Immunogenicity of Drug-Haptenated Peptides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094389832",
+   "year": 1995,
+   "cited_by_count": 30,
+   "title": "Synthesis and Physicochemical Properties of Alternating .alpha.,.beta.-Oligodeoxyribonucleotides with Alternating (3'.fwdarw.3')- and (5'.fwdarw.5')-Internucleotidic Phosphodiester Linkages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061522233",
+   "year": 2007,
+   "cited_by_count": 29,
+   "title": "Assessment of 4-Nitrogenated Benzyloxymethyl Groups for 2‘-Hydroxyl Protection in Solid-Phase RNA Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1423742425",
+   "year": 1991,
+   "cited_by_count": 28,
+   "title": "Gyrase‐dependent stabilization of pSC101 plasmid inheritance by transcriptionally active promoters.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075214112",
+   "year": 2001,
+   "cited_by_count": 28,
+   "title": "The 4-oxopentyl group as a labile phosphate/thiophosphate protecting group for synthetic oligodeoxyribonucleotides",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095166100",
+   "year": 1985,
+   "cited_by_count": 28,
+   "title": "Conceptual basis of the selective activation of bis(dialkylamino)methoxyphosphines by weak acids and its application toward the preparation of deoxynucleoside phosphoramidites in situ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969000711",
+   "year": 2010,
+   "cited_by_count": 27,
+   "title": "Convenient Synthesis of a Propargylated Cyclic (3′-5′) Diguanylic Acid and Its “Click” Conjugation to a Biotinylated Azide",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974344026",
+   "year": 2008,
+   "cited_by_count": 27,
+   "title": "Thermolytic Release of Covalently Linked DNA Oligonucleotides and Their Conjugates from Controlled-Pore Glass at Near Neutral pH",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067225606",
+   "year": 2012,
+   "cited_by_count": 27,
+   "title": "A Novel Function of RNAs Arising From the Long Terminal Repeat of Human Endogenous Retrovirus 9 in Cell Cycle Arrest",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087575846",
+   "year": 2003,
+   "cited_by_count": 27,
+   "title": "Thermolytic Properties of 3-(2-Pyridyl)-1-propyl and 2-[N-Methyl-N-(2-pyridyl)]aminoethyl Phosphate/Thiophosphate Protecting Groups in Solid-Phase Synthesis of Oligodeoxyribonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999047732",
+   "year": 1991,
+   "cited_by_count": 26,
+   "title": "Alternating .alpha.,.beta.-oligothymidylates with alternating (3'.fwdarw.3')- and (5'.fwdarw.5')-internucleotidic phosphodiester linkages as models for antisense oligodeoxyribonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043123949",
+   "year": 2008,
+   "cited_by_count": 24,
+   "title": "The 4-(N-Dichloroacetyl-N-methylamino)benzyloxymethyl Group for 2‘-Hydroxyl Protection of Ribonucleosides in the Solid-Phase Synthesis of Oligoribonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080211761",
+   "year": 1988,
+   "cited_by_count": 24,
+   "title": "2-mercaptobenzothiazole--an improved reagent for the removal of methyl phosphate protecting groups from oligodeoxynucleotide phosphotriesters.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3006695650",
+   "year": 2020,
+   "cited_by_count": 24,
+   "title": "CpG ODN D35 improves the response to abbreviated low-dose pentavalent antimonial treatment in non-human primate model of cutaneous leishmaniasis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985563646",
+   "year": 2011,
+   "cited_by_count": 22,
+   "title": "The overlapping host responses to bacterial cyclic dinucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952711909",
+   "year": 1994,
+   "cited_by_count": 22,
+   "title": "Stepwise Regeneration and Recovery of Deoxyribonucleoside Phosphoramidite Monomers During Solid-Phase Oligonucleotide Synthesis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052479086",
+   "year": 1976,
+   "cited_by_count": 21,
+   "title": "Fluoride ion-promoted transesterification in phosphate triesters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061759544",
+   "year": 2007,
+   "cited_by_count": 21,
+   "title": "Solid-Phase Synthesis of Thermolytic DNA Oligonucleotides Functionalized with a Single 4-Hydroxy-1-butyl or 4-Phosphato-/Thiophosphato-1-butyl Thiophosphate Protecting Group",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2463787851",
+   "year": 2016,
+   "cited_by_count": 21,
+   "title": "Solid-Phase Purification of Synthetic DNA Sequences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951043407",
+   "year": 1997,
+   "cited_by_count": 21,
+   "title": "N-Trifluoroacetylamino Alcohols as Phosphodiester Protecting Groups in the Synthesis of Oligodeoxyribonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998000379",
+   "year": 1978,
+   "cited_by_count": 20,
+   "title": "The alkylation of purines, pyrimidines and nucleotides by dialkyl sulfates with tetrabutylammonium fluoride",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052371199",
+   "year": 1996,
+   "cited_by_count": 20,
+   "title": "Synthesis of (2-Deoxy-α- and -β- d -erythro-pentofuranosyl)(thymin-1-yl)alkanes and Their Incorporation into Oligodeoxyribonucleotides. Effect of Nucleobase−Sugar Linker Flexibility on the Formation of DNA−DNA and DNA−RNA Hybrids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2733633582",
+   "year": 2017,
+   "cited_by_count": 20,
+   "title": "Structural evaluation of an amyloid fibril model using small-angle x-ray scattering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997241000",
+   "year": 2005,
+   "cited_by_count": 19,
+   "title": "An Efficient Reagent for the Phosphorylation of Deoxyribonucleosides, DNA Oligonucleotides, and Their Thermolytic Analogues",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998601322",
+   "year": 2005,
+   "cited_by_count": 19,
+   "title": "Novel multiple 5′-amino-modified primer for DNA microarrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088691318",
+   "year": 2010,
+   "cited_by_count": 18,
+   "title": "Hydroxyalkylated phosphoramidate, phosphoramidothioate and phosphorodiamidothioate derivatives as thiophosphate protecting groups in the development of thermolytic DNA prodrugs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102776694",
+   "year": 2011,
+   "cited_by_count": 18,
+   "title": "Permanent or reversible conjugation of 2′-O- or 5′-O-aminooxymethylated nucleosides with functional groups as a convenient and efficient approach to the modification of RNA and DNA sequences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951262657",
+   "year": 1992,
+   "cited_by_count": 18,
+   "title": "LARGE-SCALE PREPARATION OF THE SULFUR-TRANSFER REAGENT 3H-1,2-BENZODITHIOL-3-ONE 1,1-DIOXIDE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058021143",
+   "year": 2003,
+   "cited_by_count": 17,
+   "title": "Conceptual “Heat‐Driven” Approach to the Synthesis of DNA Oligonucleotides on Microarrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2802326701",
+   "year": 2018,
+   "cited_by_count": 17,
+   "title": "High-Throughput In-Use and Stress Size Stability Screening of Protein Therapeutics Using Algorithm-Driven Dynamic Light Scattering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030636873",
+   "year": 1979,
+   "cited_by_count": 15,
+   "title": "Fluoride ion catalyzed alkylation of purines, pyrimidines, nucleosides and nucleotides using alkyl halides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2288903565",
+   "year": 1996,
+   "cited_by_count": 15,
+   "title": "On the Quality Control of Antisense Oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145119997",
+   "year": 1996,
+   "cited_by_count": 14,
+   "title": "[(2-Deoxy-α- and β-D-erythro-pentofuranosyl)thymin-1-YL] methane derivatives as potential conformational probes for altDNA oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2180894462",
+   "year": 1999,
+   "cited_by_count": 14,
+   "title": "Abstracts from the Third Annual NIH Symposium on Therapeutic Oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093212843",
+   "year": 1979,
+   "cited_by_count": 13,
+   "title": "Fluoride ion catalyzed alkylation of nucleic acid derivatives using trialkyl phosphates, dialkyl sulfates and alkyl methanesulfonates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986800279",
+   "year": 2013,
+   "cited_by_count": 12,
+   "title": "The 2‐Cyano‐2,2‐dimethylethanimine‐N‐oxymethyl Group for the 2′‐Hydroxyl Protection of Ribonucleosides in the Solid‐Phase Synthesis of RNA Sequences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973635047",
+   "year": 2005,
+   "cited_by_count": 11,
+   "title": "31P NMR Study of the Desulfurization of Oligonucleoside Phosphorothioates Effected by “Aged” Trichloroacetic Acid Solutions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023691745",
+   "year": 2013,
+   "cited_by_count": 11,
+   "title": "Assessment of the cellular internalization of thermolytic phosphorothioate DNA oligonucleotide prodrugs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099175700",
+   "year": 2015,
+   "cited_by_count": 11,
+   "title": "Amphipathic trans-acting phosphorothioate DNA elements mediate the delivery of uncharged nucleic acid sequences in mammalian cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2912062529",
+   "year": 2001,
+   "cited_by_count": 10,
+   "title": "Deoxyribonucleoside Phosphoramidites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3134751544",
+   "year": 2021,
+   "cited_by_count": 9,
+   "title": "Innovative 2′- O -Imino-2-propanoate-Protecting Group for Effective Solid-Phase Synthesis and 2′- O -Deprotection of RNA Sequences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2634949092",
+   "year": 2017,
+   "cited_by_count": 7,
+   "title": "A High‐Throughput Process for the Solid‐Phase Purification of Synthetic DNA Sequences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3159485246",
+   "year": 2021,
+   "cited_by_count": 7,
+   "title": "An Improved PEG‐Linked Solid Support for Minimizing Process‐Related Impurities During Solid‐Phase Synthesis of DNA and RNA Sequences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4240845919",
+   "year": 2011,
+   "cited_by_count": 7,
+   "title": "Synthesis of Unmodified Oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

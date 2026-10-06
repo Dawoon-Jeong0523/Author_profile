@@ -1,0 +1,656 @@
+{
+ "person": "John R. Yates III",
+ "profile": "A5029671362",
+ "ids": [
+  "A5029671362",
+  "A5064451284",
+  "A5098667606"
+ ],
+ "options": [
+  "for the development of mass-spectrometry-based proteomics — John R. Yates III, Matthias Mann, Ruedi Aebersold"
+ ],
+ "birth_year": 1958,
+ "cutoff_year": 1983,
+ "works": [
+  {
+   "paper_id": "W2026465178",
+   "year": 1994,
+   "cited_by_count": 6557,
+   "title": "An approach to correlate tandem mass spectral data of peptides with amino acid sequences in a protein database",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1597678601",
+   "year": 2001,
+   "cited_by_count": 4767,
+   "title": "Large-scale analysis of the yeast proteome by multidimensional protein identification technology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096500024",
+   "year": 2013,
+   "cited_by_count": 2553,
+   "title": "Microglia Promote Learning-Dependent Synapse Formation through Brain-Derived Neurotrophic Factor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997504014",
+   "year": 2004,
+   "cited_by_count": 2463,
+   "title": "A Model for Random Sampling and Estimation of Relative Protein Abundance in Shotgun Proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1525575010",
+   "year": 1999,
+   "cited_by_count": 2226,
+   "title": "Direct analysis of protein complexes using mass spectrometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147864074",
+   "year": 2003,
+   "cited_by_count": 2223,
+   "title": "Wnt proteins are lipid-modified and can act as stem cell growth factors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970696723",
+   "year": 2001,
+   "cited_by_count": 1818,
+   "title": "An Automated Multidimensional Protein Identification Technology for Shotgun Proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087481305",
+   "year": 2013,
+   "cited_by_count": 1444,
+   "title": "Protein Analysis by Shotgun/Bottom-up Proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990299806",
+   "year": 2002,
+   "cited_by_count": 1404,
+   "title": "DTASelect and Contrast: Tools for Assembling and Comparing Protein Identifications from Shotgun Proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156022009",
+   "year": 2002,
+   "cited_by_count": 1300,
+   "title": "A proteomic view of the Plasmodium falciparum life cycle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149993601",
+   "year": 2005,
+   "cited_by_count": 1283,
+   "title": "Histone H3 Methylation by Set2 Directs Deacetylation of Coding Regions by Rpd3S to Suppress Spurious Intragenic Transcription",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059572899",
+   "year": 1995,
+   "cited_by_count": 1257,
+   "title": "Method to Correlate Tandem Mass Spectra of Modified Peptides to Amino Acid Sequences in the Protein Database",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120365943",
+   "year": 1998,
+   "cited_by_count": 1219,
+   "title": "The hMre11/hRad50 Protein Complex and Nijmegen Breakage Syndrome: Linkage of Double-Strand Break Repair to the Cellular DNA Damage Response",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981978551",
+   "year": 1986,
+   "cited_by_count": 1174,
+   "title": "Protein sequencing by tandem mass spectrometry.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140985419",
+   "year": 2009,
+   "cited_by_count": 1065,
+   "title": "Proteomics by Mass Spectrometry: Approaches, Advances, and Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162223351",
+   "year": 2002,
+   "cited_by_count": 1024,
+   "title": "Role of Rpn11 Metalloprotease in Deubiquitination and Degradation by the 26 S Proteasome",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130144581",
+   "year": 1992,
+   "cited_by_count": 993,
+   "title": "Assembly and aggregation properties of synthetic Alzheimer's A4/beta amyloid peptide analogs.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995478292",
+   "year": 2004,
+   "cited_by_count": 816,
+   "title": "Automated approach for quantitative analysis of complex peptide mixtures from tandem mass spectra",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118103211",
+   "year": 2005,
+   "cited_by_count": 814,
+   "title": "A Comprehensive Survey of the Plasmodium Life Cycle by Genomic, Transcriptomic, and Proteomic Analyses",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113153354",
+   "year": 2007,
+   "cited_by_count": 752,
+   "title": "The minimum information about a proteomics experiment (MIAPE)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146087376",
+   "year": 2006,
+   "cited_by_count": 736,
+   "title": "The human CENP-A centromeric nucleosome-associated complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129895984",
+   "year": 2002,
+   "cited_by_count": 729,
+   "title": "Genome sequence and comparative analysis of the model rodent malaria parasite Plasmodium yoelii yoelii",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035700643",
+   "year": 1998,
+   "cited_by_count": 724,
+   "title": "Mass spectrometry and the age of the proteome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003261719",
+   "year": 2008,
+   "cited_by_count": 720,
+   "title": "Mass spectrometry for proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042693437",
+   "year": 1999,
+   "cited_by_count": 703,
+   "title": "The insulin-like growth factor (IGF)-dependent IGF binding protein-4 protease secreted by human fibroblasts is pregnancy-associated plasma protein-A",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058982772",
+   "year": 2005,
+   "cited_by_count": 690,
+   "title": "A role for the P-body component GW182 in microRNA function",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994577866",
+   "year": 2004,
+   "cited_by_count": 679,
+   "title": "Acetylation by Tip60 Is Required for Selective Histone Variant Exchange at DNA Lesions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045340003",
+   "year": 1993,
+   "cited_by_count": 669,
+   "title": "Peptide Mass Maps: A Highly Informative Approach to Protein Identification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103089522",
+   "year": 2009,
+   "cited_by_count": 663,
+   "title": "Centromere-Specific Assembly of CENP-A Nucleosomes Is Mediated by HJURP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083441358",
+   "year": 2003,
+   "cited_by_count": 662,
+   "title": "Nuclear Membrane Proteins with Potential Disease Links Found by Subtractive Proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983255121",
+   "year": 2003,
+   "cited_by_count": 656,
+   "title": "A method for the comprehensive proteomic analysis of membrane proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059706603",
+   "year": 2008,
+   "cited_by_count": 655,
+   "title": "Bora and the Kinase Aurora A Cooperatively Activate the Kinase Plk1 and Control Mitotic Entry",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979270142",
+   "year": 2004,
+   "cited_by_count": 649,
+   "title": "The CREB Coactivator TORC2 Functions as a Calcium- and cAMP-Sensitive Coincidence Detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986157458",
+   "year": 2002,
+   "cited_by_count": 640,
+   "title": "Phospho-Regulation of Kinetochore-Microtubule Attachments by the Aurora Kinase Ipl1p",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2436016506",
+   "year": 2014,
+   "cited_by_count": 603,
+   "title": "Isobaric Labeling-Based Relative Quantification in Shotgun Proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159997339",
+   "year": 2006,
+   "cited_by_count": 595,
+   "title": "Hsp90 Cochaperone Aha1 Downregulation Rescues Misfolding of CFTR in Cystic Fibrosis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171938017",
+   "year": 2002,
+   "cited_by_count": 592,
+   "title": "Shotgun identification of protein modifications from protein complexes and lens tissue",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988194926",
+   "year": 2011,
+   "cited_by_count": 585,
+   "title": "Analysis of the myosin-II-responsive focal adhesion proteome reveals a role for β-Pix in negative regulation of focal adhesion maturation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982281628",
+   "year": 2013,
+   "cited_by_count": 584,
+   "title": "Identification of Long-Lived Proteins Reveals Exceptional Stability of Essential Cellular Structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2182963873",
+   "year": 2015,
+   "cited_by_count": 569,
+   "title": "ProLuCID: An improved SEQUEST-like algorithm with enhanced sensitivity and specificity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030370943",
+   "year": 2003,
+   "cited_by_count": 567,
+   "title": "The application of mass spectrometry to membrane proteomics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051808752",
+   "year": 2008,
+   "cited_by_count": 556,
+   "title": "Neural palmitoyl-proteomics reveals dynamic synaptic palmitoylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093295511",
+   "year": 2009,
+   "cited_by_count": 547,
+   "title": "Molecular Architecture of the Human Pre-mRNA 3′ Processing Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105469941",
+   "year": 2000,
+   "cited_by_count": 540,
+   "title": "Proteasomal Proteomics: Identification of Nucleotide-sensitive Proteasome-interacting Proteins by Mass Spectrometric Analysis of Affinity-purified Proteasomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995048848",
+   "year": 2009,
+   "cited_by_count": 539,
+   "title": "Distinct Argonaute-Mediated 22G-RNA Pathways Direct Genome Surveillance in the C. elegans Germline",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970277428",
+   "year": 2008,
+   "cited_by_count": 538,
+   "title": "A fasting inducible switch modulates gluconeogenesis via activator/coactivator exchange",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981625060",
+   "year": 2006,
+   "cited_by_count": 538,
+   "title": "Global Analysis of Protein Palmitoylation in Yeast",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167784171",
+   "year": 2009,
+   "cited_by_count": 534,
+   "title": "PYR/PYL/RCAR family members are major in‐vivo ABI1 protein phosphatase 2C‐interacting proteins in Arabidopsis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080386975",
+   "year": 2004,
+   "cited_by_count": 531,
+   "title": "Dissection of the Mammalian Midbody Proteome Reveals Conserved Cytokinesis Mechanisms",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108572433",
+   "year": 2001,
+   "cited_by_count": 524,
+   "title": "Mus81-Eme1 Are Essential Components of a Holliday Junction Resolvase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965383843",
+   "year": 1997,
+   "cited_by_count": 523,
+   "title": "Direct Analysis and Identification of Proteins in Mixtures by LC/MS/MS and Database Searching at the Low-Femtomole Level",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049104619",
+   "year": 2012,
+   "cited_by_count": 520,
+   "title": "The Exopolysaccharide Matrix Modulates the Interaction between 3D Architecture and Virulence of a Mixed-Species Oral Biofilm",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079900102",
+   "year": 2010,
+   "cited_by_count": 512,
+   "title": "Aurora B Phosphorylates Spatially Distinct Targets to Differentially Regulate the Kinetochore-Microtubule Interface",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092650602",
+   "year": 2006,
+   "cited_by_count": 509,
+   "title": "The CENP-H–I complex is required for the efficient incorporation of newly synthesized CENP-A into centromeres",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070359888",
+   "year": 2005,
+   "cited_by_count": 505,
+   "title": "Chd1 chromodomain links histone H3 methylation with SAGA- and SLIK-dependent acetylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997393151",
+   "year": 1995,
+   "cited_by_count": 504,
+   "title": "Surface Chemistry of Silicon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068474659",
+   "year": 2007,
+   "cited_by_count": 486,
+   "title": "Asymmetric CLASP-Dependent Nucleation of Noncentrosomal Microtubules at the trans-Golgi Network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975721281",
+   "year": 2010,
+   "cited_by_count": 480,
+   "title": "Mass spectrometry in high-throughput proteomics: ready for the big time",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3125800928",
+   "year": 2021,
+   "cited_by_count": 479,
+   "title": "The SARS-CoV-2 nucleocapsid phosphoprotein forms mutually exclusive condensates with RNA and the membrane-associated M protein",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164312318",
+   "year": 2004,
+   "cited_by_count": 446,
+   "title": "Global analysis of transcript and protein levels across the Plasmodium falciparum life cycle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027872382",
+   "year": 2008,
+   "cited_by_count": 438,
+   "title": "The Proteomes of Human Parotid and Submandibular/Sublingual Gland Salivas Collected as the Ductal Secretions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130916594",
+   "year": 2013,
+   "cited_by_count": 433,
+   "title": "Isogenic Human iPSC Parkinson’s Model Shows Nitrosative Stress-Induced Dysfunction in MEF2-PGC1α Transcription",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076057425",
+   "year": 2009,
+   "cited_by_count": 428,
+   "title": "Jmjd6 Catalyses Lysyl-Hydroxylation of U2AF65, a Protein Associated with RNA Splicing",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154579172",
+   "year": 2013,
+   "cited_by_count": 426,
+   "title": "βCaMKII in Lateral Habenula Mediates Core Symptoms of Depression",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031393760",
+   "year": 2007,
+   "cited_by_count": 424,
+   "title": "Functional specialization of β-arrestin interactions revealed by proteomic analysis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967046460",
+   "year": 1998,
+   "cited_by_count": 423,
+   "title": "A Subset of TAFIIs Are Integral Components of the SAGA Complex Required for Nucleosome Acetylation and Transcriptional Stimulation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065617511",
+   "year": 2004,
+   "cited_by_count": 419,
+   "title": "Direct proteomic mapping of the lung microvascular endothelial cell surface in vivo and in cell culture",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167999293",
+   "year": 2006,
+   "cited_by_count": 417,
+   "title": "Functional Proteomics Reveals the Biochemical Niche of C. elegans DCR-1 in Multiple Small-RNA-Mediated Pathways",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964616851",
+   "year": 2009,
+   "cited_by_count": 411,
+   "title": "Human SLX4 Is a Holliday Junction Resolvase Subunit that Binds Multiple DNA Repair/Recombination Endonucleases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002264839",
+   "year": 2008,
+   "cited_by_count": 411,
+   "title": "A quantitative analysis software tool for mass spectrometry–based proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031818334",
+   "year": 2002,
+   "cited_by_count": 410,
+   "title": "Proteomic survey of metabolic pathways in rice",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089993812",
+   "year": 2014,
+   "cited_by_count": 409,
+   "title": "Phenotypic differences in hiPSC NPCs derived from patients with schizophrenia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099009321",
+   "year": 2004,
+   "cited_by_count": 409,
+   "title": "A conserved protein network controls assembly of the outer kinetochore and its ability to sustain tension",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112143438",
+   "year": 2004,
+   "cited_by_count": 407,
+   "title": "Large-scale database searching using tandem mass spectra: Looking up the answer in the back of the book",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015038174",
+   "year": 2004,
+   "cited_by_count": 402,
+   "title": "Cln3 Activates G1-Specific Transcription via Phosphorylation of the SBF Bound Repressor Whi5",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013410321",
+   "year": 1998,
+   "cited_by_count": 392,
+   "title": "Protein Identification at the Low Femtomole Level from Silver-Stained Gels Using a New Fritless Electrospray Interface for Liquid Chromatography–Microspray and Nanospray Mass Spectrometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088392539",
+   "year": 2002,
+   "cited_by_count": 391,
+   "title": "Analysis of Quantitative Proteomic Data Generated via Multidimensional Protein Identification Technology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009046935",
+   "year": 2007,
+   "cited_by_count": 388,
+   "title": "Insulin modulates gluconeogenesis by inhibition of the coactivator TORC2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020018374",
+   "year": 2005,
+   "cited_by_count": 386,
+   "title": "Proteomics of organelles and large cellular structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088215815",
+   "year": 2009,
+   "cited_by_count": 380,
+   "title": "Mammalian miRNA RISC Recruits CAF1 and PABP to Affect PABP-Dependent Deadenylation",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,242 @@
+Anthony A. Hyman:
+  picks:
+  - paper_id: W2054352933
+    year: 2009
+    title: 'Germline P Granules Are Liquid Droplets That Localize by Controlled Dissolution/Condensation'
+    metrics: false
+    in_profile: true
+    reason: The founding Brangwynne-Hyman report that a cellular body (P granules) is a liquid droplet formed by phase separation.
+  - paper_id: W2026226960
+    year: 2011
+    title: 'Active liquid-like behavior of nucleoli determines their size and shape in Xenopus laevis oocytes'
+    metrics: false
+    in_profile: true
+    reason: Extended the liquid-condensate principle to the nucleolus, an early key paper generalising the discovery.
+  - paper_id: W1952608303
+    year: 2015
+    title: 'A Liquid-to-Solid Phase Transition of the ALS Protein FUS Accelerated by Disease Mutation'
+    metrics: true
+    in_profile: true
+    reason: Landmark showing condensates of a prion-like RNA-binding protein mature into solids, linking phase separation to disease.
+  n_related: 23
+  note: 'No expected landmark missing (Brangwynne et al. 2009 Science is present). Much of the record is Hyman''s earlier microtubule, spindle and C. elegans genomics work, which is his own and not a namesake.'
+Craig M. Crews:
+  picks:
+  - paper_id: W2151683271
+    year: 2001
+    title: 'Protacs: Chimeric molecules that target proteins to the Skp1–Cullin–F box complex for ubiquitination and degradation'
+    metrics: true
+    in_profile: true
+    reason: The first PROTAC report (with Deshaies), introducing chimeric molecules that recruit an E3 ligase to degrade a target protein.
+  - paper_id: W2083469632
+    year: 2008
+    title: 'Targeted intracellular protein degradation induced by a small molecule: En route to chemical proteomics'
+    metrics: true
+    in_profile: true
+    reason: First all-small-molecule PROTAC (MDM2-recruiting), turning the concept into true small-molecule degraders.
+  - paper_id: W1512690422
+    year: 2015
+    title: 'Catalytic in vivo protein knockdown by small-molecule PROTACs'
+    metrics: true
+    in_profile: true
+    reason: Showed VHL-recruiting small-molecule PROTACs act catalytically and work in vivo, establishing the drug paradigm.
+  n_related: 52
+  note: 'No expected landmark missing (Sakamoto et al. 2001 PNAS and Schneekloth et al. 2004 JACS are both present). Earlier MEK/ERK cloning, epoxomicin/proteasome and fumagillin/MetAP-2 papers are Crews''s own pre-PROTAC work, not a namesake.'
+David L. Allara:
+  picks:
+  - paper_id: W1967598238
+    year: 1983
+    title: 'Adsorption of bifunctional organic disulfides on gold surfaces'
+    metrics: true
+    in_profile: true
+    reason: Nuzzo and Allara's original report of spontaneously organised sulfur-on-gold monolayers, the founding paper of thiol/gold SAMs.
+  - paper_id: W1967334144
+    year: 1985
+    title: 'Spontaneously organized molecular assemblies. 1. Formation, dynamics, and physical properties of n-alkanoic acids adsorbed from solution on an oxidized aluminum surface'
+    metrics: true
+    in_profile: true
+    reason: First paper of Allara and Nuzzo's 'Spontaneously organized molecular assemblies' series, setting out how monolayers form from solution.
+  - paper_id: W1972091231
+    year: 1987
+    title: 'Spontaneously organized molecular assemblies. 4. Structural characterization of n-alkyl thiol monolayers on gold by optical ellipsometry, infrared spectroscopy, and electrochemistry'
+    metrics: true
+    in_profile: true
+    reason: The defining structural characterisation of alkanethiol SAMs on gold, the system that became the standard.
+  n_related: 50
+  note: 'No expected landmark missing. The record also includes Bell Labs-era alkane pyrolysis, polymer-blend and SERS papers (1975-1982) and later molecular-electronics work, which fit his career; the 2006 breast-cell Raman paper (in_profile false) is off-topic.'
+F. Ulrich Hartl:
+  picks:
+  - paper_id: W2081422975
+    year: 1989
+    title: 'Mitochondrial heat-shock protein hsp60 is essential for assembly of proteins imported into yeast mitochondria'
+    metrics: true
+    in_profile: true
+    reason: The Cheng-Horwich-Hartl Nature paper showing hsp60 is required for folding and assembly of imported proteins, the founding chaperone-assisted folding result.
+  - paper_id: W2062775685
+    year: 1989
+    title: 'Protein folding in mitochondria requires complex formation with hsp60 and ATP hydrolysis'
+    metrics: true
+    in_profile: true
+    reason: Companion Nature paper showing that folding in vivo needs ATP-dependent binding to the hsp60 chaperonin.
+  - paper_id: W2072744250
+    year: 1992
+    title: 'Successive action of DnaK, DnaJ and GroEL along the pathway of chaperone-mediated protein folding'
+    metrics: true
+    in_profile: true
+    reason: Established the sequential Hsp70-to-chaperonin pathway of assisted folding.
+  n_related: 65
+  note: 'No expected landmark missing. Three records share the title ''Molecular chaperones in cellular protein folding'' (1994, 1995, 1996), probably separate reviews or chapters, possibly duplicates. The 1986-1991 mitochondrial import and Sec translocation papers are his pre-chaperone work, not a namesake.'
+Jin-Quan Yu:
+  picks:
+  - paper_id: W2010584571
+    year: 2007
+    title: 'Palladium-Catalyzed Methylation and Arylation of sp2 and sp3 C−H Bonds in Simple Carboxylic Acids'
+    metrics: true
+    in_profile: true
+    reason: Key early demonstration of Pd(II)-catalysed C–H functionalisation directed by weakly coordinating carboxylic acids.
+  - paper_id: W2158930657
+    year: 2008
+    title: 'PdII‐Catalyzed Enantioselective Activation of C(sp2)H and C(sp3)H Bonds Using Monoprotected Amino Acids as Chiral Ligands'
+    metrics: true
+    in_profile: true
+    reason: Introduced mono-N-protected amino acid (MPAA) ligands, the basis of Yu's ligand-enabled and enantioselective C–H activation.
+  - paper_id: W1975240837
+    year: 2012
+    title: 'Activation of remote meta-C–H bonds assisted by an end-on template'
+    metrics: true
+    in_profile: true
+    reason: Landmark Nature paper on template-directed remote meta-C–H activation.
+  n_related: 79
+  note: 'No expected landmark missing (the Science olefination paper and the 2016 transient directing group paper are present). The 2009 Angewandte review appears twice, as English (W2125014016) and German (W2119004319) editions. The 2004 hetero-Michael addition paper is off-topic but his.'
+John P. Perdew:
+  picks:
+  - paper_id: W1981368803
+    year: 1996
+    title: 'Generalized Gradient Approximation Made Simple'
+    metrics: true
+    in_profile: true
+    reason: The PBE functional, the non-empirical GGA that became the workhorse of DFT calculations.
+  - paper_id: W2090135568
+    year: 1986
+    title: 'Accurate and simple density functional for the electronic exchange energy: Generalized gradient approximation'
+    metrics: true
+    in_profile: true
+    reason: The first generalized gradient approximation (PW86), founding the GGA rung of functionals.
+  - paper_id: W2052637367
+    year: 1981
+    title: 'Self-interaction correction to density-functional approximations for many-electron systems'
+    metrics: true
+    in_profile: true
+    reason: Perdew-Zunger paper giving the standard LDA correlation parametrization and the self-interaction correction.
+  n_related: 72
+  note: 'No expected landmark missing; PW91 (1992), P86 correlation (1986), PW92 (1992), TPSS (2003) and SCAN (2015) are also present. W2054704030 (1997) is the erratum to PBE, a duplicate record.'
+Krzysztof Matyjaszewski:
+  picks:
+  - paper_id: W2074554162
+    year: 1995
+    title: 'Controlled/"living" radical polymerization. atom transfer radical polymerization in the presence of transition-metal complexes'
+    metrics: true
+    in_profile: true
+    reason: The Wang-Matyjaszewski JACS paper that introduced atom transfer radical polymerization (ATRP).
+  - paper_id: W2317295301
+    year: 1995
+    title: 'Controlled/"Living" Radical Polymerization. Halogen Atom Transfer Radical Polymerization Promoted by a Cu(I)/Cu(II) Redox Process'
+    metrics: true
+    in_profile: true
+    reason: Key companion paper establishing the Cu(I)/Cu(II) redox mechanism of ATRP.
+  - paper_id: W1995443865
+    year: 1996
+    title: 'Polymers with Very Low Polydispersities from Atom Transfer Radical Polymerization'
+    metrics: true
+    in_profile: true
+    reason: Early Science paper showing that homogeneous ATRP gives near-monodisperse polymers, confirming control.
+  n_related: 65
+  note: 'No expected landmark missing. Several broad ATRP reviews (2001, 2007, 2012, 2014) overlap in scope. Nanoiron transport and self-healing papers are collaborations, not a namesake.'
+Michael Elowitz:
+  picks:
+  - paper_id: W1645305843
+    year: 2000
+    title: 'A synthetic oscillatory network of transcriptional regulators'
+    metrics: true
+    in_profile: true
+    reason: The repressilator (Elowitz and Leibler), one of the two founding synthetic gene circuits.
+  - paper_id: W1557270760
+    year: 2002
+    title: 'Combinatorial Synthesis of Genetic Networks'
+    metrics: false
+    in_profile: true
+    reason: Built libraries of synthetic circuits combinatorially to map circuit wiring to function.
+  - paper_id: W2171280873
+    year: 2002
+    title: 'Stochastic Gene Expression in a Single Cell'
+    metrics: true
+    in_profile: true
+    reason: Used synthetic dual-reporter constructs to separate intrinsic from extrinsic noise, a defining use of engineered circuits.
+  n_related: 20
+  note: 'No expected landmark missing. A 2007 ''Supporting Online Material'' record and a 2014 ''Correction'' duplicate main papers. The early biophysics (1995-1999) and the 2003 osteosarcoma p53 paper are off-topic but plausibly his.'
+Michael K. Rosen:
+  picks:
+  - paper_id: W2085978470
+    year: 2012
+    title: 'Phase transitions in the assembly of multivalent signalling proteins'
+    metrics: true
+    in_profile: true
+    reason: The Li et al. Nature paper showing that multivalent interactions drive liquid-liquid phase separation, the founding biochemical mechanism of condensates.
+  - paper_id: W2335345046
+    year: 2016
+    title: 'Phase separation of signaling molecules promotes T cell receptor signal transduction'
+    metrics: false
+    in_profile: true
+    reason: Showed that phase-separated signaling clusters have a cellular function in T cell receptor signaling.
+  - paper_id: W2461977200
+    year: 2016
+    title: 'Compositional Control of Phase-Separated Cellular Bodies'
+    metrics: true
+    in_profile: true
+    reason: Set out the scaffold/client framework for what goes into condensates.
+  n_related: 21
+  note: 'No expected landmark missing. Most other works are Rosen''s earlier WASP/WAVE actin-regulation and NMR structural biology, his own, not a namesake.'
+Michele Parrinello:
+  picks:
+  - paper_id: W2046001409
+    year: 1985
+    title: 'Unified Approach for Molecular Dynamics and Density-Functional Theory'
+    metrics: true
+    in_profile: true
+    reason: The Car-Parrinello paper that founded ab initio molecular dynamics.
+  - paper_id: W2023456054
+    year: 1988
+    title: 'Structural, Dymanical, and Electronic Properties of Amorphous Silicon: Anab initioMolecular-Dynamics Study'
+    metrics: true
+    in_profile: true
+    reason: Car and Parrinello's first major application of the method, simulating amorphous silicon.
+  - paper_id: W1576668315
+    year: 1999
+    title: 'The nature of the hydrated excess proton in water'
+    metrics: true
+    in_profile: true
+    reason: Landmark ab initio MD result on proton transport in water.
+  n_related: 44
+  note: 'No expected landmark missing. Many top works are Parrinello''s other contributions (Parrinello-Rahman 1980/1981, metadynamics 2002, velocity rescaling 2007, neural-network potentials 2007), not ab initio MD. The two 1995 hydronium/hydroxide records (W1975834451, W2029042254) have near-identical titles and may be companion papers or duplicates.'
+Robert G. Bergman:
+  picks:
+  - paper_id: W2070760110
+    year: 1982
+    title: 'Carbon-hydrogen activation in completely saturated hydrocarbons: direct observation of M + R-H .fwdarw. M(R)(H)'
+    metrics: true
+    in_profile: true
+    reason: Janowicz and Bergman's landmark first direct observation of oxidative addition of alkane C–H bonds to a soluble metal complex.
+  - paper_id: W1964986996
+    year: 1983
+    title: 'Activation of carbon-hydrogen bonds in saturated hydrocarbons on photolysis of (.eta.5-C5Me5)(PMe3)IrH2. Relative rates of reaction of the intermediate with different types of carbon-hydrogen bonds and functionalization of the metal-bound alkyl groups'
+    metrics: true
+    in_profile: true
+    reason: Full paper on Ir-mediated alkane C–H activation, covering selectivity and the first functionalisation of the activated alkyls.
+  - paper_id: W1986600892
+    year: 2001
+    title: 'Annulation of Aromatic Imines via Directed C−H Activation with Wilkinson''s Catalyst'
+    metrics: true
+    in_profile: true
+    reason: Early Bergman-Ellman paper on catalytic, directed C–H functionalisation, the catalytic arm of the discovery.
+  n_related: 36
+  note: 'No expected landmark missing. The record also holds his p-benzyne/Bergman cyclization work (1972-1981), hydroamination, and supramolecular host catalysis with Raymond, all his own, not a namesake.'

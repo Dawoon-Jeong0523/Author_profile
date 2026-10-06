@@ -1,0 +1,654 @@
+{
+ "person": "Michael Elowitz",
+ "profile": "A5014076497",
+ "ids": [
+  "A5014076497"
+ ],
+ "options": [
+  "for the development of synthetic gene circuits — James J. Collins, Michael Elowitz, Stanislas Leibler"
+ ],
+ "birth_year": 1970,
+ "cutoff_year": 1995,
+ "works": [
+  {
+   "paper_id": "W2171280873",
+   "year": 2002,
+   "cited_by_count": 5573,
+   "title": "Stochastic Gene Expression in a Single Cell",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1645305843",
+   "year": 2000,
+   "cited_by_count": 4683,
+   "title": "A synthetic oscillatory network of transcriptional regulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137088684",
+   "year": 2002,
+   "cited_by_count": 1719,
+   "title": "Intrinsic and extrinsic contributions to stochasticity in gene expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149242848",
+   "year": 2010,
+   "cited_by_count": 1512,
+   "title": "Functional roles for noise in genetic circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105057212",
+   "year": 2005,
+   "cited_by_count": 1136,
+   "title": "Gene Regulation at the Single-Cell Level",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097651998",
+   "year": 2004,
+   "cited_by_count": 1044,
+   "title": "Dynamics of the p53-Mdm2 feedback loop in individual cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140347764",
+   "year": 2002,
+   "cited_by_count": 750,
+   "title": "Negative Autoregulation Speeds the Response Times of Transcription Networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967668980",
+   "year": 2006,
+   "cited_by_count": 734,
+   "title": "An excitable gene regulatory circuit induces transient cellular differentiation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043854809",
+   "year": 2010,
+   "cited_by_count": 645,
+   "title": "Cis-interactions between Notch and Delta generate mutually exclusive signalling states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171539493",
+   "year": 1999,
+   "cited_by_count": 630,
+   "title": "Protein Mobility in the Cytoplasm of Escherichia coli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030083295",
+   "year": 2004,
+   "cited_by_count": 595,
+   "title": "Modeling a synthetic multicellular clock: Repressilators coupled by quorum sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1557270760",
+   "year": 2002,
+   "cited_by_count": 539,
+   "title": "Combinatorial Synthesis of Genetic Networks",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056406543",
+   "year": 2008,
+   "cited_by_count": 498,
+   "title": "Frequency-modulated nuclear localization bursts coordinate gene regulation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2279123229",
+   "year": 2016,
+   "cited_by_count": 478,
+   "title": "Dynamics of epigenetic regulation at the single-cell level",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068978083",
+   "year": 2007,
+   "cited_by_count": 477,
+   "title": "Tunability and Noise Dependence in Differentiation Dynamics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2557069473",
+   "year": 2016,
+   "cited_by_count": 444,
+   "title": "Synthetic recording and in situ readout of lineage information in single cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993482839",
+   "year": 2013,
+   "cited_by_count": 403,
+   "title": "Functional Roles of Pulsing in Genetic Circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121806138",
+   "year": 2007,
+   "cited_by_count": 375,
+   "title": "Programming gene expression with combinatorial promoters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086128646",
+   "year": 2011,
+   "cited_by_count": 372,
+   "title": "Measuring single-cell gene expression dynamics in bacteria using fluorescence time-lapse microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026697234",
+   "year": 2005,
+   "cited_by_count": 358,
+   "title": "Reconstruction of genetic circuits",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2612758576",
+   "year": 2017,
+   "cited_by_count": 339,
+   "title": "Challenges and emerging directions in single-cell analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2786741514",
+   "year": 2018,
+   "cited_by_count": 337,
+   "title": "Dynamic Ligand Discrimination in the Notch Signaling Pathway",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4249558460",
+   "year": 2018,
+   "cited_by_count": 336,
+   "title": "Programmable protein circuits in living cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068751516",
+   "year": 2014,
+   "cited_by_count": 311,
+   "title": "Dynamic Heterogeneity and DNA Methylation in Embryonic Stem Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083385452",
+   "year": 2013,
+   "cited_by_count": 292,
+   "title": "Positive Feedback Between PU.1 and the Cell Cycle Controls Myeloid Differentiation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002227368",
+   "year": 2011,
+   "cited_by_count": 291,
+   "title": "Synthetic Biology: Integrated Gene Circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2752405730",
+   "year": 2017,
+   "cited_by_count": 270,
+   "title": "Combinatorial Signal Perception in the BMP Pathway",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121633536",
+   "year": 2009,
+   "cited_by_count": 267,
+   "title": "Architecture-Dependent Noise Discriminates Functionally Analogous Differentiation Circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997057704",
+   "year": 2009,
+   "cited_by_count": 255,
+   "title": "Using movies to analyse gene circuit dynamics in single cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987862415",
+   "year": 2008,
+   "cited_by_count": 233,
+   "title": "Regulatory activity revealed by dynamic correlations in gene expression noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085434605",
+   "year": 2014,
+   "cited_by_count": 228,
+   "title": "Realizing the potential of synthetic biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157507882",
+   "year": 2010,
+   "cited_by_count": 217,
+   "title": "Build life to understand it",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092724797",
+   "year": 2011,
+   "cited_by_count": 216,
+   "title": "Stochastic Pulse Regulation in Bacterial Stress Response",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143805806",
+   "year": 2011,
+   "cited_by_count": 210,
+   "title": "The ePetri dish, an on-chip cell imaging platform based on subpixel perspective sweeping microscopy (SPSM)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081144759",
+   "year": 2003,
+   "cited_by_count": 193,
+   "title": "The presence of p53 mutations in human osteosarcomas correlates with high levels of genomic instability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987754123",
+   "year": 2015,
+   "cited_by_count": 166,
+   "title": "Single-Cell Transcriptome Analysis Reveals Dynamic Changes in lncRNA Expression during Reprogramming",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018428660",
+   "year": 2011,
+   "cited_by_count": 163,
+   "title": "Mutual Inactivation of Notch Receptors and Ligands Facilitates Developmental Patterning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112112943",
+   "year": 1997,
+   "cited_by_count": 161,
+   "title": "Photoactivation turns green fluorescent protein red",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2796439542",
+   "year": 2018,
+   "cited_by_count": 161,
+   "title": "Morphogen gradient reconstitution reveals Hedgehog pathway design principles",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087672211",
+   "year": 2013,
+   "cited_by_count": 159,
+   "title": "Rate of environmental change determines stress response specificity",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125343901",
+   "year": 2009,
+   "cited_by_count": 159,
+   "title": "Partial penetrance facilitates developmental evolution in bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3143323622",
+   "year": 2021,
+   "cited_by_count": 159,
+   "title": "Imaging cell lineage with a synthetic digital recording system",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040263625",
+   "year": 1998,
+   "cited_by_count": 148,
+   "title": "Chromophore-assisted light inactivation and self-organization of microtubules and motors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2464730303",
+   "year": 2016,
+   "cited_by_count": 139,
+   "title": "Asynchronous combinatorial action of four regulatory factors activates Bcl11b for T cell commitment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055468924",
+   "year": 2014,
+   "cited_by_count": 138,
+   "title": "Fringe proteins modulate Notch-ligand cis and trans interactions to specify signaling states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3153508581",
+   "year": 2021,
+   "cited_by_count": 131,
+   "title": "Programmable protein circuit design",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098093544",
+   "year": 2015,
+   "cited_by_count": 128,
+   "title": "Combinatorial gene regulation by modulation of relative pulse timing",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995510049",
+   "year": 1995,
+   "cited_by_count": 113,
+   "title": "Spiral Defects in Motility Assays: A Measure of Motor Protein Force",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038168727",
+   "year": 2012,
+   "cited_by_count": 109,
+   "title": "Pulsed Feedback Defers Cellular Differentiation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2953150924",
+   "year": 2018,
+   "cited_by_count": 109,
+   "title": "Metabolic interactions between dynamic bacterial subpopulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2953942915",
+   "year": 2019,
+   "cited_by_count": 107,
+   "title": "Communication codes in developmental signaling pathways",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2798985900",
+   "year": 2019,
+   "cited_by_count": 104,
+   "title": "Cis-activation in the Notch signaling pathway",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2550701680",
+   "year": 2016,
+   "cited_by_count": 103,
+   "title": "Inferring Cell-State Transition Dynamics from Lineage Trees and Endpoint Single-Cell Measurements",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090732700",
+   "year": 2010,
+   "cited_by_count": 101,
+   "title": "A General Mechanism for Network-Dosage Compensation in Gene Circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2985708835",
+   "year": 2019,
+   "cited_by_count": 96,
+   "title": "In situ readout of DNA barcodes and single base edits facilitated by in vitro transcription",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2950214765",
+   "year": 2018,
+   "cited_by_count": 91,
+   "title": "A stochastic epigenetic switch controls the dynamics of T-cell lineage commitment",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2947678542",
+   "year": 2019,
+   "cited_by_count": 89,
+   "title": "Constitutive splicing and economies of scale in gene expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128018926",
+   "year": 2010,
+   "cited_by_count": 81,
+   "title": "A synthetic three-color scaffold for monitoring genetic regulation and noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127006594",
+   "year": 2006,
+   "cited_by_count": 79,
+   "title": "A Fluctuation Method to Quantify In Vivo Fluorescence Data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170688078",
+   "year": 2014,
+   "cited_by_count": 78,
+   "title": "Pulsatile Dynamics in the Yeast Proteome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990039203",
+   "year": 2007,
+   "cited_by_count": 77,
+   "title": "Accurate prediction of gene feedback circuit behavior from component properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2589812846",
+   "year": 2017,
+   "cited_by_count": 69,
+   "title": "An operational view of intercellular signaling pathways",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3171133702",
+   "year": 2021,
+   "cited_by_count": 63,
+   "title": "Benchmarked approaches for reconstruction of in vitro cell lineages and in silico models of C. elegans and M. musculus developmental trees",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057152187",
+   "year": 2008,
+   "cited_by_count": 57,
+   "title": "The evolutionary dynamics of the Saccharomyces cerevisiae protein interaction network after duplication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2786243788",
+   "year": 2018,
+   "cited_by_count": 42,
+   "title": "Molecular Time Sharing through Dynamic Pulsing in Single Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144153860",
+   "year": 2006,
+   "cited_by_count": 35,
+   "title": "Tracking Cell Signals in Fluorescent Images",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113947179",
+   "year": 2014,
+   "cited_by_count": 27,
+   "title": "Brf1 posttranscriptionally regulates pluripotency and differentiation responses downstream of Erk MAP kinase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028985741",
+   "year": 2011,
+   "cited_by_count": 21,
+   "title": "Dynamical Consequences of Bandpass Feedback Loops in a Bacterial Phosphorelay",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079309411",
+   "year": 2014,
+   "cited_by_count": 14,
+   "title": "Polyphasic feedback enables tunable cellular timers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2897954926",
+   "year": 2018,
+   "cited_by_count": 13,
+   "title": "Self-Amplifying Pulsatile Protein Dynamics without Positive Feedback",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2299279097",
+   "year": 2016,
+   "cited_by_count": 9,
+   "title": "Central Dogma Goes Digital",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2530839600",
+   "year": 2016,
+   "cited_by_count": 9,
+   "title": "Precision timing in a cell",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021900323",
+   "year": 2011,
+   "cited_by_count": 8,
+   "title": "Following evolution of bacterial antibiotic resistance in real time",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767888915",
+   "year": 2017,
+   "cited_by_count": 8,
+   "title": "Advancing towards a global mammalian gene regulation model through single-cell analysis and synthetic biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055112021",
+   "year": 2005,
+   "cited_by_count": 5,
+   "title": "Deviations in mating",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3202146472",
+   "year": 2021,
+   "cited_by_count": 4,
+   "title": "Single cell biology—a Keystone Symposia report",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973409257",
+   "year": 2011,
+   "cited_by_count": 2,
+   "title": "Mixed Messages: How Bacteria Resolve Conflicting Signals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031056967",
+   "year": 2014,
+   "cited_by_count": 2,
+   "title": "Correction: Fringe proteins modulate Notch-ligand cis and trans interactions to specify signaling states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2341576777",
+   "year": 2007,
+   "cited_by_count": 1,
+   "title": "Supporting Online Material for Tunability and Noise Dependence in Differentiation Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993730187",
+   "year": 2010,
+   "cited_by_count": 0,
+   "title": "Signaling Dynamics at the Single Cell Level",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

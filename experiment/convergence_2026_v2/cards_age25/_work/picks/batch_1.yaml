@@ -1,0 +1,259 @@
+Bill Morandi:
+  picks: []
+  n_related: 0
+  note: No skeletal-editing paper is in the list, which stops at 2021; the expected landmarks (e.g. Reisenbauer et al., "Late-stage
+    diversification of indole skeletons through nitrogen atom insertion", Science 2022, and the follow-up nitrogen-atom insertion
+    into indenes) are missing. The records cover his earlier cyclopropanation, Wacker oxidation, shuttle catalysis and functional-group
+    metathesis work; C–C cleavage of unstrained alcohols is only loosely adjacent to skeletal editing. Many duplicate records
+    (German Angewandte versions and repeated ids, e.g. W2147111608/W4248601741, W2153810710/W4244812902). No namesake detected.
+David W. Deamer:
+  picks:
+  - paper_id: W2127407003
+    year: 1996
+    title: Characterization of individual polynucleotide molecules using a membrane channel
+    metrics: true
+    in_profile: true
+    reason: The founding Kasianowicz-Brandin-Branton-Deamer report that single RNA/DNA strands can be driven through an alpha-hemolysin
+      pore and detected by current blockades.
+  - paper_id: W2125021618
+    year: 1999
+    title: Microsecond Time-Scale Discrimination Among Polycytidylic Acid, Polyadenylic Acid, and Polyuridylic Acid as Homopolymers
+      or as Segments Within Single RNA Molecules
+    metrics: true
+    in_profile: true
+    reason: First demonstration that a nanopore distinguishes nucleotide composition within single RNA molecules, the key
+      step from detection toward sequencing.
+  - paper_id: W1481296411
+    year: 2001
+    title: Rapid discrimination among individual DNA hairpin molecules at single-nucleotide resolution using an ion channel
+    metrics: true
+    in_profile: true
+    reason: Showed single-nucleotide resolution in nanopore analysis of individual DNA molecules.
+  n_related: 10
+  note: 'No major nanopore landmark is missing (Kasianowicz et al. 1996 PNAS is present). Duplicate records: "Large volume
+    liposomes by an ether vaporization method" (1976, twice) and "The first living systems: a bioenergetic perspective" (1997,
+    twice). The other works are his genuine liposome, membrane-permeability and origin-of-life research, not a namesake; the
+    optofluidic-chip papers (2004-2007) are single-molecule detection collaborations but not nanopore work.'
+E. Peter Greenberg:
+  picks:
+  - paper_id: W1632889752
+    year: 1985
+    title: Diffusion of autoinducer is involved in regulation of the Vibrio fischeri luminescence system
+    metrics: true
+    in_profile: true
+    reason: Early Kaplan-Greenberg demonstration that the freely diffusible autoinducer signal mediates cell-density control
+      of V. fischeri luminescence.
+  - paper_id: W1943112463
+    year: 1994
+    title: 'Quorum sensing in bacteria: the LuxR-LuxI family of cell density-responsive transcriptional regulators'
+    metrics: true
+    in_profile: true
+    reason: Coined the term quorum sensing and defined the LuxR-LuxI signalling family as a general bacterial communication
+      system.
+  - paper_id: W1977105094
+    year: 1994
+    title: Structure of the autoinducer required for expression of Pseudomonas aeruginosa virulence genes.
+    metrics: true
+    in_profile: true
+    reason: Identified the acyl-homoserine lactone signal of P. aeruginosa, extending quorum sensing to pathogen virulence
+      control.
+  n_related: 60
+  note: 'Expected but missing: Eberhard et al. 1981 Biochemistry, "Structural identification of autoinducer of Photobacterium
+    fischeri luciferase" (the first acyl-homoserine lactone signal). The airway-antimicrobial and biofilm-physiology papers
+    are genuine Welsh/Greenberg collaborations, not a namesake. No duplicates noticed.'
+John E. Bercaw:
+  picks:
+  - paper_id: W2088779491
+    year: 1987
+    title: .sigma.-Bond metathesis for carbon-hydrogen bonds of hydrocarbons and Sc-R (R = H, alkyl, aryl) bonds of permethylscandocene
+      derivatives. Evidence for noninvolvement of the .pi. system in electrophilic activation of aromatic and vinylic C-H
+      bonds
+    metrics: true
+    in_profile: true
+    reason: Established sigma-bond metathesis as a fundamental mechanism of C–H bond activation at d0 metal centres.
+  - paper_id: W2066671943
+    year: 1996
+    title: 'Exploring the Mechanism of Aqueous C−H Activation by Pt(II) through Model Chemistry: Evidence for the Intermediacy
+      of Alkylhydridoplatinum(IV) and Alkane σ-Adducts'
+    metrics: true
+    in_profile: true
+    reason: Key mechanistic study of Shilov-type platinum C–H activation, revealing alkane sigma-adducts and alkylhydridoplatinum(IV)
+      intermediates.
+  - paper_id: W2054801325
+    year: 1997
+    title: C−H Activation at Cationic Platinum(II) Centers
+    metrics: true
+    in_profile: true
+    reason: Introduced cationic Pt(II) model complexes that activate alkane and arene C–H bonds under mild conditions.
+  n_related: 17
+  note: 'No major C–H activation landmark is missing; the 1987 sigma-bond metathesis paper and the 1990s Shilov-chemistry
+    mechanism papers with Labinger are present. Duplicate: the 1998 review on alkane oxidation by electrophilic late metals
+    appears in English and German ("Oxidation von Alkanen ..."). The most-cited item (NMR chemical shifts of trace impurities,
+    2010) and the Ziegler-Natta, dinitrogen and CO-reduction papers are genuine but unrelated to C–H activation; no namesake
+    detected.'
+Makoto Fujita:
+  picks:
+  - paper_id: W2046994616
+    year: 1990
+    title: Preparation of a macrocyclic polynuclear complex, [(en)Pd(4,4'-bpy)]4(NO3)8 (en = ethylenediamine, bpy = bipyridine),
+      which recognizes an organic molecule in aqueous media
+    metrics: true
+    in_profile: true
+    reason: The first Pd(II)-pyridine molecular square, the founding demonstration of coordination-driven self-assembly of
+      a discrete host.
+  - paper_id: W2027685691
+    year: 1995
+    title: Self-assembly of ten molecules into nanometre-sized organic host frameworks
+    metrics: true
+    in_profile: true
+    reason: Nature report of the M6L4 coordination cage assembled from ten components, the archetype of self-assembled 3D
+      hosts.
+  - paper_id: W2001904302
+    year: 1994
+    title: Quantitative self-assembly of a [2]catenane from two preformed molecular rings
+    metrics: true
+    in_profile: true
+    reason: Showed that reversible Pd-pyridine bonds allow quantitative self-assembly of interlocked catenanes.
+  n_related: 72
+  note: 'No expected landmark is missing. Duplicate: "Functional Molecular Flasks" (2009) also appears as its German Angewandte
+    version. A few off-topic items (1988 fluoride-catalysed hydrosilane reduction, 2014 electrochemical heteroarene C–H functionalization,
+    2015 helicene synthesis, 2016/2019 natural-product and P450 papers via the crystalline sponge method) look like early-career
+    work or collaborations rather than a namesake.'
+Mark Levin:
+  picks:
+  - paper_id: W3161581565
+    year: 2021
+    title: Skeletal editing through direct nitrogen deletion of secondary amines
+    metrics: true
+    in_profile: true
+    reason: Landmark Nature report of single-atom nitrogen deletion from cyclic and acyclic amines with an anomeric amide
+      reagent, a defining skeletal-editing reaction.
+  - paper_id: W3184508237
+    year: 2021
+    title: Carbon Atom Insertion into Pyrroles and Indoles Promoted by Chlorodiazirines
+    metrics: true
+    in_profile: true
+    reason: Single-carbon-atom ring expansion of pyrroles and indoles to pyridines and quinolines, a core skeletal-editing
+      transformation.
+  n_related: 2
+  note: Only two skeletal-editing papers are present because the list stops at 2021; later landmarks such as Woo et al., Science
+    2022 (photochemical carbon deletion of azaarenes) and Jurczyk et al., Nature Synthesis 2022 ("Single-atom logic for heterocycle
+    editing") are missing. The 2021 deamination via isodiazenes uses the same anomeric-amide chemistry but is not skeletal
+    editing. "Exfoliation of boron carbide into ultrathin nanosheets" (2021) looks like a namesake.
+Matthias Mann:
+  picks:
+  - paper_id: W2058135122
+    year: 1994
+    title: Error-Tolerant Identification of Peptides in Sequence Databases by Peptide Sequence Tags
+    metrics: true
+    in_profile: true
+    reason: Introduced peptide sequence tags for identifying proteins from tandem mass spectra by database search, a cornerstone
+      of MS-based protein identification.
+  - paper_id: W2078594804
+    year: 1996
+    title: Mass Spectrometric Sequencing of Proteins from Silver-Stained Polyacrylamide Gels
+    metrics: true
+    in_profile: true
+    reason: Established in-gel digestion with mass spectrometric sequencing of gel-separated proteins, enabling large-scale
+      proteomics.
+  - paper_id: W2140946052
+    year: 2002
+    title: Stable Isotope Labeling by Amino Acids in Cell Culture, SILAC, as a Simple and Accurate Approach to Expression
+      Proteomics
+    metrics: true
+    in_profile: true
+    reason: Introduced SILAC, the metabolic labelling method that made MS-based proteomics quantitative.
+  n_related: 60
+  note: No key landmark is missing; the 1993 peptide-mass-fingerprinting paper, the 1994 sequence-tag paper, the 1996 nanoelectrospray/gel
+    papers, SILAC (2002) and MaxQuant (2008) are all present. The 1989/1990/1994 electrospray papers with Fenn are genuine
+    but precede proteomics proper. Several highly cited biology collaborations (FLICE, IKK, telomerase, exosome, ANRIL) used
+    his MS identification but are not about the method; no namesake or duplicates noticed.
+Michael Grätzel:
+  picks:
+  - paper_id: W1980216394
+    year: 1991
+    title: A low-cost, high-efficiency solar cell based on dye-sensitized colloidal TiO2 films
+    metrics: true
+    in_profile: true
+    reason: The O'Regan-Grätzel Nature paper that invented the dye-sensitized mesoporous TiO2 solar cell.
+  - paper_id: W2121304740
+    year: 1993
+    title: Conversion of light to electricity by cis-X2bis(2,2'-bipyridyl-4,4'-dicarboxylate)ruthenium(II) charge-transfer
+      sensitizers (X = Cl-, Br-, I-, CN-, and SCN-) on nanocrystalline titanium dioxide electrodes
+    metrics: false
+    in_profile: false
+    reason: Introduced the N3 ruthenium sensitizer that became the benchmark dye for dye-sensitized solar cells.
+  - paper_id: W2169328609
+    year: 2012
+    title: Lead Iodide Perovskite Sensitized All-Solid-State Submicron Thin Film Mesoscopic Solar Cell with Efficiency Exceeding
+      9%
+    metrics: false
+    in_profile: true
+    reason: First stable all-solid-state lead-iodide perovskite solar cell above 9 percent, launching the perovskite photovoltaics
+      field.
+  n_related: 68
+  note: 'Expected but missing: the 1988 JACS precursor on sensitization of high-surface-area TiO2 films (Vlachopoulos et al.).
+    The 1993 N3 dye paper and a few perovskite papers carry in_profile false. Hematite water-splitting, ionic-liquid and TiO2
+    surface-science papers are genuine Grätzel work outside the solar-cell discovery; no namesake or duplicates noticed.'
+Pascal Mayer:
+  picks:
+  - paper_id: W2005619554
+    year: 2003
+    title: 'Solid Phase DNA Amplification: A Simple Monte Carlo Lattice Model'
+    metrics: true
+    in_profile: true
+    reason: Models solid-phase (bridge) DNA amplification, the surface DNA-colony clustering that underlies massively parallel
+      sequencing-by-synthesis.
+  n_related: 1
+  note: 'Expected but missing: Adessi et al. 2000 Nucleic Acids Research (solid-phase DNA amplification, primer attachment
+    and amplification mechanisms); his DNA-colony invention was otherwise disclosed mainly in patents. The 2003 Monte Carlo
+    paper appears twice (W2005619554, W3036533250). The 1991-1998 DNA electrophoresis papers are his genuine early work, but
+    the 2021 forestry and "Gavdos" items and probably the 2014 Haemophilus biofilm papers look like namesakes.'
+Shankar Balasubramanian:
+  picks:
+  - paper_id: W2012016911
+    year: 2008
+    title: Accurate whole human genome sequencing using reversible terminator chemistry
+    metrics: true
+    in_profile: true
+    reason: The Bentley et al. Nature paper describing Solexa/Illumina reversible-terminator sequencing-by-synthesis on clonal
+      clusters and its first human genome.
+  - paper_id: W2762638728
+    year: 2017
+    title: 'DNA sequencing at 40: past, present and future'
+    metrics: true
+    in_profile: true
+    reason: Review placing massively parallel sequencing-by-synthesis in the history of DNA sequencing.
+  n_related: 2
+  note: Only one primary sequencing-by-synthesis paper (Bentley et al., Nature 2008) is present; the Solexa chemistry was
+    otherwise disclosed mainly in patents, so no further journal landmark is expected. The list is dominated by his genuine
+    G-quadruplex and modified-base sequencing work. The catalytic nanomotor/micromachine papers (2009-2011), the lytic-phage
+    SPR sensor (2006) and the nanotube antimicrobial coating (2008) appear to come from a namesake.
+Stuart L. Schreiber:
+  picks:
+  - paper_id: W1984754431
+    year: 1991
+    title: Calcineurin is a common target of cyclophilin-cyclosporin A and FKBP-FK506 complexes
+    metrics: true
+    in_profile: true
+    reason: Showed that small molecules act by gluing their binding protein to a new target, the founding molecular-glue concept
+      behind ligase-redirecting degraders.
+  - paper_id: W2029852810
+    year: 1993
+    title: Controlling Signal Transduction with Synthetic Ligands
+    metrics: true
+    in_profile: true
+    reason: Introduced chemical inducers of dimerization, the induced-proximity principle that bifunctional degraders build
+      on.
+  - paper_id: W2015345028
+    year: 2013
+    title: Lenalidomide Causes Selective Degradation of IKZF1 and IKZF3 in Multiple Myeloma Cells
+    metrics: false
+    in_profile: true
+    reason: Showed that lenalidomide redirects the CRL4-CRBN ubiquitin ligase to degrade IKZF1/IKZF3, a defining case of small-molecule
+      targeted protein degradation.
+  n_related: 14
+  note: No direct degrader paper beyond the 2013 lenalidomide-IKZF1/3 study is present; the list instead reflects the molecular-glue
+    lineage (FKBP/cyclophilin-calcineurin, FKBP-rapamycin-FRAP) and chemical inducers of dimerization, plus the 2021 review
+    "The Rise of Molecular Glues". Most other records (ferroptosis, histone deacetylases, chromatin maps, diversity-oriented
+    synthesis) are genuine Schreiber work unrelated to the option; no namesake or duplicates noticed.

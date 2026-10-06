@@ -1,0 +1,655 @@
+{
+ "person": "Mordehai Heiblum",
+ "profile": "A5008483233",
+ "ids": [
+  "A5008483233",
+  "A5041471545"
+ ],
+ "options": [
+  "for advancing the understanding of the surprising properties of two-dimensional electron systems in strong magnetic fields — Mordehai Heiblum, Jainendra K. Jain, James P. Eisenstein"
+ ],
+ "birth_year": 1947,
+ "cutoff_year": 1972,
+ "works": [
+  {
+   "paper_id": "W2116325781",
+   "year": 2012,
+   "cited_by_count": 2055,
+   "title": "Zero-bias peaks and splitting in an Al–InAs nanowire topological superconductor as a signature of Majorana fermions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1657455754",
+   "year": 1997,
+   "cited_by_count": 920,
+   "title": "Direct observation of a fractional charge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002218600",
+   "year": 2003,
+   "cited_by_count": 745,
+   "title": "An electronic Mach–Zehnder interferometer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127499937",
+   "year": 1975,
+   "cited_by_count": 741,
+   "title": "Analysis of curved optical waveguides by conformal transformation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075062858",
+   "year": 1995,
+   "cited_by_count": 692,
+   "title": "Coherence and Phase Sensitive Measurements in a Quantum Dot",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994994267",
+   "year": 1997,
+   "cited_by_count": 569,
+   "title": "Phase measurement in a quantum dot via a double-slit interference experiment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1658650122",
+   "year": 1998,
+   "cited_by_count": 498,
+   "title": "Dephasing in electron interference by a ‘which-path’ detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082339641",
+   "year": 1985,
+   "cited_by_count": 434,
+   "title": "Direct Observation of Ballistic Transport in GaAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2761459232",
+   "year": 2018,
+   "cited_by_count": 388,
+   "title": "Observation of half-integer thermal Hall conductance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1927245941",
+   "year": 2008,
+   "cited_by_count": 340,
+   "title": "Observation of a quarter of an electron charge at the ν = 5/2 quantum Hall state",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969831177",
+   "year": 1995,
+   "cited_by_count": 336,
+   "title": "Temporal Correlation of Electrons: Suppression of Shot Noise in a Ballistic Quantum Point Contact",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122983440",
+   "year": 2007,
+   "cited_by_count": 290,
+   "title": "Interference between two indistinguishable electrons from independent sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020933251",
+   "year": 1985,
+   "cited_by_count": 258,
+   "title": "Direct measurement of the density of states of a two-dimensional electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971902001",
+   "year": 2006,
+   "cited_by_count": 239,
+   "title": "Unexpected Behavior in a Two-Path Electron Interferometer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1811969339",
+   "year": 2000,
+   "cited_by_count": 237,
+   "title": "Phase Evolution in a Kondo-Correlated System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160695824",
+   "year": 2012,
+   "cited_by_count": 231,
+   "title": "High-efficiency Cooper pair splitting demonstrated by two-particle conductance resonance and positive noise cross-correlation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023201054",
+   "year": 2010,
+   "cited_by_count": 221,
+   "title": "Observation of neutral modes in the fractional quantum Hall regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2554260667",
+   "year": 2017,
+   "cited_by_count": 211,
+   "title": "Observed quantization of anyonic heat flow",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054985181",
+   "year": 2008,
+   "cited_by_count": 196,
+   "title": "MBE growth of ultra-low disorder 2DEG with mobility exceeding 35×106cm2/Vs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1493523146",
+   "year": 1999,
+   "cited_by_count": 170,
+   "title": "Observation of quasiparticles with one-fifth of an electron's charge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026708009",
+   "year": 1981,
+   "cited_by_count": 170,
+   "title": "Tunneling hot electron transfer amplifiers (theta): Amplifiers operating up to the infrared",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159387479",
+   "year": 2009,
+   "cited_by_count": 169,
+   "title": "Method for Suppression of Stacking Faults in Wurtzite III−V Nanowires",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043461117",
+   "year": 1984,
+   "cited_by_count": 158,
+   "title": "Temperature dependence of the electron mobility in GaAs-GaAlAs heterostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096644720",
+   "year": 1996,
+   "cited_by_count": 156,
+   "title": "Phase rigidity andh/2eoscillations in a single-ring Aharonov-Bohm experiment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157735736",
+   "year": 2005,
+   "cited_by_count": 153,
+   "title": "Crossover from ‘mesoscopic’ to ‘universal’ phase for electron transmission in quantum dots",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976572470",
+   "year": 1997,
+   "cited_by_count": 150,
+   "title": "Extremely high-mobility two dimensional electron gas: Evaluation of scattering mechanisms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978354765",
+   "year": 1987,
+   "cited_by_count": 148,
+   "title": "Investigation of theDXcenter in heavily dopedn-GaAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137630984",
+   "year": 2010,
+   "cited_by_count": 148,
+   "title": "Role of interactions in an electronic Fabry–Perot interferometer operating in the quantum Hall effect regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125153626",
+   "year": 1978,
+   "cited_by_count": 141,
+   "title": "Characteristics of integrated MOM junctions at DC and at optical frequencies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162126777",
+   "year": 2002,
+   "cited_by_count": 140,
+   "title": "Transmission Phase of a Quantum Dot with Kondo Correlation near the Unitary Limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040514150",
+   "year": 1985,
+   "cited_by_count": 139,
+   "title": "Tunneling hot-electron transfer amplifier: A hot-electron GaAs device with current gain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059999752",
+   "year": 1989,
+   "cited_by_count": 133,
+   "title": "One-dimensional electron gas in GaAs: Periodic conductance oscillations as a function of density",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157515088",
+   "year": 2008,
+   "cited_by_count": 126,
+   "title": "Stacking-Faults-Free Zinc Blende GaAs Nanowires",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975070666",
+   "year": 2007,
+   "cited_by_count": 119,
+   "title": "Entanglement, Dephasing, and Phase Recovery via Cross-Correlation Measurements of Electrons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978410796",
+   "year": 1982,
+   "cited_by_count": 117,
+   "title": "Characteristics of AuGeNi ohmic contacts to GaAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022046418",
+   "year": 1990,
+   "cited_by_count": 115,
+   "title": "Electrostatic electron lens in the ballistic regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968329277",
+   "year": 1983,
+   "cited_by_count": 109,
+   "title": "High-magnetic-field transport in a dilute two-dimensional electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011899712",
+   "year": 2009,
+   "cited_by_count": 108,
+   "title": "Shot Noise and Charge at the 2/3 Composite Fractional Quantum Hall State",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991279407",
+   "year": 2000,
+   "cited_by_count": 104,
+   "title": "Controlled Dephasing of Electronsviaa Phase Sensitive Detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980047396",
+   "year": 1983,
+   "cited_by_count": 103,
+   "title": "Growth by molecular beam epitaxy and characterization of high purity GaAs and AlGaAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969215832",
+   "year": 1987,
+   "cited_by_count": 101,
+   "title": "Electron interference effects in quantum wells: Observation of bound and resonant states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138083009",
+   "year": 2007,
+   "cited_by_count": 99,
+   "title": "Controlled dephasing of electrons by non-gaussian shot noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966676870",
+   "year": 2014,
+   "cited_by_count": 94,
+   "title": "Proliferation of neutral modes in fractional quantum Hall states",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2768334854",
+   "year": 2018,
+   "cited_by_count": 94,
+   "title": "Theory of Disorder-Induced Half-Integer Thermal Hall Conductance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022022309",
+   "year": 2003,
+   "cited_by_count": 93,
+   "title": "Scattering of Bunched Fractionally Charged Quasiparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043427698",
+   "year": 1994,
+   "cited_by_count": 88,
+   "title": "Unexpected Periodicity in an Electronic Double Slit Interference Experiment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1518564315",
+   "year": 2008,
+   "cited_by_count": 87,
+   "title": "Two-electron bunching in transport through a quantum dot induced by Kondo correlations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025100320",
+   "year": 2002,
+   "cited_by_count": 85,
+   "title": "Charge Distribution in a Kondo-Correlated Quantum Dot",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2579990086",
+   "year": 2017,
+   "cited_by_count": 84,
+   "title": "Edge reconstruction in fractional quantum Hall states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2331966736",
+   "year": 2014,
+   "cited_by_count": 82,
+   "title": "Charge Fractionalization in the Integer Quantum Hall Effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014969888",
+   "year": 2011,
+   "cited_by_count": 80,
+   "title": "Characterizing Neutral Modes of Fractional States in the Second Landau Level",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081353447",
+   "year": 1989,
+   "cited_by_count": 78,
+   "title": "Lateral tunneling, ballistic transport, and spectroscopy in a two-dimensional electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2460876452",
+   "year": 2018,
+   "cited_by_count": 78,
+   "title": "Nonlocal supercurrent of quartets in a three-terminal Josephson junction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083745537",
+   "year": 1989,
+   "cited_by_count": 75,
+   "title": "Hot ballistic transport and phonon emission in a two-dimensional electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4200463315",
+   "year": 2021,
+   "cited_by_count": 72,
+   "title": "Distinguishing between non-abelian topological orders in a quantum Hall system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2941959618",
+   "year": 2019,
+   "cited_by_count": 70,
+   "title": "Concomitant opening of a bulk-gap with an emerging possible Majorana zero mode",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041551963",
+   "year": 1988,
+   "cited_by_count": 68,
+   "title": "High-mobility variable-density two-dimensional electron gas in inverted GaAs-AlGaAs heterojunctions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068171028",
+   "year": 1990,
+   "cited_by_count": 68,
+   "title": "Ballistic hot-electron transistors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1511325038",
+   "year": 2010,
+   "cited_by_count": 65,
+   "title": "Dependence of the tunneling quasiparticle charge determined via shot noise measurements on the tunneling barrier and energetics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005580696",
+   "year": 2010,
+   "cited_by_count": 65,
+   "title": "Density dependence of the ν=52 energy gap: Experiment and theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017600333",
+   "year": 1984,
+   "cited_by_count": 65,
+   "title": "High mobility electron gas in selectively doped n:AlGaAs/GaAs heterojunctions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088337247",
+   "year": 1996,
+   "cited_by_count": 63,
+   "title": "Measurement of Phase and Magnitude of the Reflection Coefficient of a Quantum Dot",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2903569160",
+   "year": 2019,
+   "cited_by_count": 63,
+   "title": "Melting of Interference in the Fractional Quantum Hall Effect: Appearance of Neutral Modes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989801429",
+   "year": 1994,
+   "cited_by_count": 62,
+   "title": "Correlated charged donors and strong mobility enhancement in a two-dimensional electron gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963721049",
+   "year": 2012,
+   "cited_by_count": 62,
+   "title": "Upstream Neutral Modes in the Fractional Quantum Hall Effect Regime: Heat Waves or Coherent Dipoles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967063430",
+   "year": 2000,
+   "cited_by_count": 60,
+   "title": "Evolution of Quasiparticle Charge in the Fractional Quantum Hall Regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990344364",
+   "year": 1987,
+   "cited_by_count": 60,
+   "title": "Ballistic Electrons in Semiconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992011463",
+   "year": 1983,
+   "cited_by_count": 59,
+   "title": "Heavy doping of GaAs and AlGaAs with silicon by molecular beam epitaxy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025032387",
+   "year": 1986,
+   "cited_by_count": 59,
+   "title": "dc performance of ballistic tunneling hot-electron transfer amplifiers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993160807",
+   "year": 1986,
+   "cited_by_count": 55,
+   "title": "Evidence of hot-electron transfer into an upper valley in GaAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043588539",
+   "year": 1985,
+   "cited_by_count": 55,
+   "title": "Energy band discontinuities in heterojunctions measured by internal photoemission",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029170430",
+   "year": 1986,
+   "cited_by_count": 54,
+   "title": "Origin of the nonexponential thermal emission kinetics of D X centers in GaAlAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1750299912",
+   "year": 2015,
+   "cited_by_count": 51,
+   "title": "Robust electron pairing in the integer quantum hall effect regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968432590",
+   "year": 2008,
+   "cited_by_count": 51,
+   "title": "Quantum mechanical complementarity probed in a closed-loop Aharonov–Bohm interferometer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078006638",
+   "year": 1989,
+   "cited_by_count": 51,
+   "title": "Use of superlattices to realize inverted GaAs/AlGaAs heterojunctions with low-temperature mobility of 2×106 cm2/V s",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094266054",
+   "year": 1989,
+   "cited_by_count": 51,
+   "title": "Observation of single-optical-phonon emission",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2941167042",
+   "year": 2019,
+   "cited_by_count": 50,
+   "title": "Synthesizing a ν=2/3 fractional quantum Hall effect edge state from counter-propagating ν=1 and ν=1/3 states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2253056501",
+   "year": 2016,
+   "cited_by_count": 48,
+   "title": "Charge of a quasiparticle in a superconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096039837",
+   "year": 2012,
+   "cited_by_count": 47,
+   "title": "Extracting net current from an upstream neutral mode in the fractional quantum Hall regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032049440",
+   "year": 2008,
+   "cited_by_count": 46,
+   "title": "Transmission Phase of a Singly Occupied Quantum Dot in the Kondo Regime",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

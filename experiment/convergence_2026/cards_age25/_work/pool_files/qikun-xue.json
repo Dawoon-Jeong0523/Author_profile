@@ -1,0 +1,658 @@
+{
+ "person": "Qikun Xue",
+ "profile": "A5101862667",
+ "ids": [
+  "A5101862667",
+  "A5110614605",
+  "A5113763430",
+  "A5100558022",
+  "A5100835365"
+ ],
+ "options": [
+  "for the experimental discovery of the quantum anomalous Hall effect — Qikun Xue"
+ ],
+ "birth_year": 1963,
+ "cutoff_year": 1988,
+ "works": [
+  {
+   "paper_id": "W1970188810",
+   "year": 2013,
+   "cited_by_count": 3712,
+   "title": "Experimental Observation of the Quantum Anomalous Hall Effect in a Magnetic Topological Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119751781",
+   "year": 2010,
+   "cited_by_count": 1420,
+   "title": "Crossover of the three-dimensional topological insulator Bi2Se3 to the two-dimensional limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088938695",
+   "year": 2012,
+   "cited_by_count": 1206,
+   "title": "Interface-Induced High-Temperature Superconductivity in Single Unit-Cell FeSe Films on SrTiO 3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970842925",
+   "year": 2014,
+   "cited_by_count": 1098,
+   "title": "Superconductivity above 100 K in single-layer FeSe films on doped SrTiO3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2465845169",
+   "year": 2016,
+   "cited_by_count": 1062,
+   "title": "Discovery of robust in-plane ferroelectricity in atomic-thick SnTe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2331046673",
+   "year": 2011,
+   "cited_by_count": 1055,
+   "title": "Toward N-Doped Graphene via Solvothermal Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142617637",
+   "year": 2013,
+   "cited_by_count": 796,
+   "title": "Phase diagram and electronic indication of high-temperature superconductivity at 65 K in single-layer FeSe films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088225002",
+   "year": 2009,
+   "cited_by_count": 736,
+   "title": "Experimental Demonstration of Topological Surface States Protected by Time-Reversal Symmetry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951838608",
+   "year": 2019,
+   "cited_by_count": 637,
+   "title": "Experimental Realization of an Intrinsic Magnetic Topological Insulator *",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144591886",
+   "year": 2004,
+   "cited_by_count": 615,
+   "title": "Superconductivity Modulated by Quantum Size Effects",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036802942",
+   "year": 2012,
+   "cited_by_count": 555,
+   "title": "Electronic origin of high-temperature superconductivity in single-layer FeSe superconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2586985273",
+   "year": 2015,
+   "cited_by_count": 554,
+   "title": "Experimental Detection of a Majorana Mode in the core of a Magnetic Vortex inside a Topological Insulator-Superconductor Bi 2 Te 3 / NbSe 2 Heterostructure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003949154",
+   "year": 2012,
+   "cited_by_count": 544,
+   "title": "The Coexistence of Superconductivity and Topological Order in the Bi 2 Se 3 Thin Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066666188",
+   "year": 2010,
+   "cited_by_count": 537,
+   "title": "Superconductivity in one-atomic-layer metal films grown on Si(111)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143493810",
+   "year": 2010,
+   "cited_by_count": 426,
+   "title": "Intrinsic Topological Insulator Bi 2 Te 3 Thin Films on Si and Their Thickness Limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967875390",
+   "year": 2011,
+   "cited_by_count": 419,
+   "title": "Direct Observation of Nodes and Twofold Symmetry in FeSe Superconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1577559372",
+   "year": 2010,
+   "cited_by_count": 394,
+   "title": "Landau Quantization of Topological Surface States in Bi2Se3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140931692",
+   "year": 2012,
+   "cited_by_count": 365,
+   "title": "Crossover between Weak Antilocalization and Weak Localization in a Magnetically Doped Topological Insulator",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2296001603",
+   "year": 2016,
+   "cited_by_count": 312,
+   "title": "Oxygen vacancies: The origin of n -type conductivity in ZnO",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027102241",
+   "year": 2002,
+   "cited_by_count": 305,
+   "title": "Spontaneous Assembly of Perfectly Ordered Identical-Size Nanocluster Arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126496854",
+   "year": 2011,
+   "cited_by_count": 299,
+   "title": "Phase separation and magnetic order in K-doped iron selenide superconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032646148",
+   "year": 2014,
+   "cited_by_count": 291,
+   "title": "Direct Observation of High-Temperature Superconductivity in One-Unit-Cell FeSe Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092145599",
+   "year": 2011,
+   "cited_by_count": 282,
+   "title": "Evidence for electron-electron interaction in topological insulator thin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125671278",
+   "year": 2013,
+   "cited_by_count": 275,
+   "title": "Thin Films of Magnetically Doped Topological Insulator with Carrier‐Independent Long‐Range Ferromagnetic Order",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981405644",
+   "year": 2008,
+   "cited_by_count": 262,
+   "title": "Self-Retracting Motion of Graphite Microflakes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109932171",
+   "year": 2009,
+   "cited_by_count": 262,
+   "title": "Controlled Growth of High‐Quality ZnO‐Based Films and Fabrication of Visible‐Blind and Solar‐Blind Ultra‐Violet Detectors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100717790",
+   "year": 2008,
+   "cited_by_count": 255,
+   "title": "Probing Superexchange Interaction in Molecular Magnets by Spin-Flip Spectroscopy and Microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012059147",
+   "year": 2011,
+   "cited_by_count": 247,
+   "title": "Electron interaction-driven insulating ground state in Bi 2 Se 3 topological insulators in the two-dimensional limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053820380",
+   "year": 2013,
+   "cited_by_count": 237,
+   "title": "Topology-Driven Magnetic Quantum Phase Transition in Topological Insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060315751",
+   "year": 2008,
+   "cited_by_count": 235,
+   "title": "High-Resolution Scanning Tunneling Spectroscopy of Magnetic Impurity Induced Bound States in the Superconducting Gap of Pb Thin Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979797089",
+   "year": 2011,
+   "cited_by_count": 233,
+   "title": "Single molecule detection from a large-scale SERS-active Au79Ag21 substrate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997135378",
+   "year": 2012,
+   "cited_by_count": 225,
+   "title": "Landau Quantization and the Thickness Limit of Topological Insulator Thin Films of Sb 2 Te 3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168703872",
+   "year": 2011,
+   "cited_by_count": 222,
+   "title": "Topological Insulator Thin Films of Bi2Te3 with Controlled Electronic Structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067244445",
+   "year": 2007,
+   "cited_by_count": 217,
+   "title": "Manipulating the Kondo Resonance through Quantum Size Effects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2738975275",
+   "year": 2017,
+   "cited_by_count": 215,
+   "title": "Ising Superconductivity and Quantum Phase Transition in Macro-Size Monolayer NbSe 2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2197169611",
+   "year": 2015,
+   "cited_by_count": 210,
+   "title": "Quantum Griffiths singularity of superconductor-metal transition in Ga thin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2793282431",
+   "year": 2018,
+   "cited_by_count": 205,
+   "title": "Topological Materials: Quantum Anomalous Hall System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767705805",
+   "year": 2017,
+   "cited_by_count": 203,
+   "title": "Enhancing the Quantum Anomalous Hall Effect by Magnetic Codoping in a Topological Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161404030",
+   "year": 2013,
+   "cited_by_count": 195,
+   "title": "Nanoporous Gold Based Optical Sensor for Sub-ppt Detection of Mercury Ions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996653433",
+   "year": 1995,
+   "cited_by_count": 188,
+   "title": "Structures of the Ga-Rich 4×2 and 4×6 Reconstructions of the GaAs(001) Surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049471620",
+   "year": 2012,
+   "cited_by_count": 188,
+   "title": "Fermi-Level Tuning of Epitaxial Sb2Te3 Thin Films on Graphene by Regulating Intrinsic Defects and Substrate Transfer Doping",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099785366",
+   "year": 2005,
+   "cited_by_count": 180,
+   "title": "Band Structure and Oscillatory Electron-Phonon Coupling of Pb Thin Films Determined by Atomic-Layer-Resolved Quantum-Well States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078218389",
+   "year": 2011,
+   "cited_by_count": 178,
+   "title": "Molecular-beam epitaxy and robust superconductivity of stoichiometric FeSe crystalline films on bilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976996098",
+   "year": 1997,
+   "cited_by_count": 177,
+   "title": "Scanning tunneling microscopy of III-V compound semiconductor (001) surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001923555",
+   "year": 2013,
+   "cited_by_count": 168,
+   "title": "Fully gapped topological surface states in Bi2Se3 films induced by a d-wave high-temperature superconductor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2901212093",
+   "year": 2019,
+   "cited_by_count": 158,
+   "title": "Discovery of Superconductivity in 2M WS 2 with Possible Topological Surface States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2972402217",
+   "year": 2019,
+   "cited_by_count": 152,
+   "title": "Evidence of anisotropic Majorana bound states in 2M-WS2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983820616",
+   "year": 2002,
+   "cited_by_count": 147,
+   "title": "Spin-Dependent Transport through an Interacting Quantum Dot",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139219807",
+   "year": 2011,
+   "cited_by_count": 147,
+   "title": "Molecular Beam Epitaxial Growth of Topological Insulators",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2333255356",
+   "year": 2014,
+   "cited_by_count": 146,
+   "title": "Interface charge doping effects on superconductivity of single-unit-cell FeSe films on SrTiO3 substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098522620",
+   "year": 2018,
+   "cited_by_count": 141,
+   "title": "Long range intrinsic ferromagnetism in two dimensional materials and dissipationless future technologies",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2898927359",
+   "year": 2018,
+   "cited_by_count": 134,
+   "title": "Enhanced Spontaneous Polarization in Ultrathin SnTe Films with Layered Antipolar Structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141360197",
+   "year": 2013,
+   "cited_by_count": 130,
+   "title": "Quantum anomalous Hall effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967439875",
+   "year": 2007,
+   "cited_by_count": 129,
+   "title": "Experimental observation of quantum oscillation of surface chemical reactivities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2617989702",
+   "year": 2017,
+   "cited_by_count": 128,
+   "title": "Dimensional Crossover-Induced Topological Hall Effect in a Magnetic Topological Insulator",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974777351",
+   "year": 2003,
+   "cited_by_count": 122,
+   "title": "Spin Current through a Quantum Dot in the Presence of an Oscillating Magnetic Field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139486808",
+   "year": 2014,
+   "cited_by_count": 120,
+   "title": "Experimental Observation of Dirac-like Surface States and Topological Phase Transition in Pb1−xSnxTe(111) Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1697337242",
+   "year": 2015,
+   "cited_by_count": 119,
+   "title": "Observation of the Zero Hall Plateau in a Quantum Anomalous Hall Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021145054",
+   "year": 2014,
+   "cited_by_count": 118,
+   "title": "Chemical-Potential-Dependent Gap Opening at the Dirac Surface States of Bi2Se3 Induced by Aggregated Substitutional Cr Atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120199153",
+   "year": 2016,
+   "cited_by_count": 116,
+   "title": "Observation of Double-Dome Superconductivity in Potassium-Doped FeSe Thin Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001192822",
+   "year": 2002,
+   "cited_by_count": 114,
+   "title": "Artificial nanocluster crystal: Lattice of identical Al clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997681648",
+   "year": 2010,
+   "cited_by_count": 113,
+   "title": "Atomically smooth ultrathin films of topological insulator Sb2Te3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014973770",
+   "year": 2012,
+   "cited_by_count": 111,
+   "title": "Suppression of Superconductivity by Twin Boundaries in FeSe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970445244",
+   "year": 2013,
+   "cited_by_count": 110,
+   "title": "Large-scale uniform bilayer graphene prepared by vacuum graphitization of 6H-SiC(0001) substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019333932",
+   "year": 2012,
+   "cited_by_count": 109,
+   "title": "KFe2Se2 is the Parent Compound of K-Doped Iron Selenide Superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034113318",
+   "year": 2002,
+   "cited_by_count": 108,
+   "title": "Fabrication and structural analysis of Al, Ga, and In nanocluster crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2494048375",
+   "year": 2016,
+   "cited_by_count": 108,
+   "title": "Nodeless pairing in superconducting copper-oxide monolayer films on Bi2Sr2CaCu2O8+",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021047538",
+   "year": 2015,
+   "cited_by_count": 105,
+   "title": "Detection of a Superconducting Phase in a Two-Atom Layer of Hexagonal Ga Film Grown on Semiconducting GaN(0001)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2290680764",
+   "year": 2016,
+   "cited_by_count": 105,
+   "title": "High-Temperature Superconductivity in Single-Unit-Cell FeSe Films on Anatase TiO2(001)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969230691",
+   "year": 2015,
+   "cited_by_count": 104,
+   "title": "Molecular beam epitaxy growth and scanning tunneling microscopy study of TiSe2 ultrathin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3016859990",
+   "year": 2020,
+   "cited_by_count": 103,
+   "title": "Electronic States and Magnetic Response of MnBi2Te4 by Scanning Tunneling Microscopy and Spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2772683438",
+   "year": 2017,
+   "cited_by_count": 102,
+   "title": "Observation of unconventional anomalous Hall effect in epitaxial CrTe thin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112914892",
+   "year": 2013,
+   "cited_by_count": 101,
+   "title": "Quasiparticle dynamics in reshaped helical Dirac cone of topological insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1554549558",
+   "year": 2016,
+   "cited_by_count": 100,
+   "title": "Ultrafast Dynamics Evidence of High Temperature Superconductivity in Single Unit Cell FeSe on SrTiO3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1556733232",
+   "year": 2015,
+   "cited_by_count": 100,
+   "title": "Molecular Beam Epitaxy‐Grown SnSe in the Rock‐Salt Structure: An Artificial Topological Crystalline Insulator Material",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2378806114",
+   "year": 1999,
+   "cited_by_count": 100,
+   "title": "Structures of GaN(0001)- (2×2) , - (4×4) , and - (5×5) Surface Reconstructions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041309333",
+   "year": 2002,
+   "cited_by_count": 99,
+   "title": "Crosshatching on a SiGe film grown on a Si(001) substrate studied by Raman mapping and atomic force microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2332897755",
+   "year": 2013,
+   "cited_by_count": 96,
+   "title": "Atomic and electronic structures of single-layer FeSe on SrTiO 3 (001): The role of oxygen deficiency",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171365600",
+   "year": 2015,
+   "cited_by_count": 95,
+   "title": "Observation of Anderson Localization in Ultrathin Films of Three-Dimensional Topological Insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2401722245",
+   "year": 2016,
+   "cited_by_count": 94,
+   "title": "Role of SrTiO3 phonon penetrating into thin FeSe films in the enhancement of superconductivity",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "person": "Paul W. K. Rothemund",
+ "profile": "A5016860712",
+ "ids": [
+  "A5016860712"
+ ],
+ "options": [
+  "for the development of DNA origami and programmable self-assembly of DNA nanostructures — Paul W. K. Rothemund, William M. Shih, Hao Yan"
+ ],
+ "birth_year": 1972,
+ "cutoff_year": 1997,
+ "works": [
+  {
+   "paper_id": "W2126961173",
+   "year": 2006,
+   "cited_by_count": 7563,
+   "title": "Folding DNA to create nanoscale shapes and patterns",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062802768",
+   "year": 2004,
+   "cited_by_count": 863,
+   "title": "Algorithmic Self-Assembly of DNA Sierpinski Triangles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097282649",
+   "year": 2009,
+   "cited_by_count": 619,
+   "title": "Self-assembly of carbon nanotubes into two-dimensional geometries using DNA origami templates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159635590",
+   "year": 2002,
+   "cited_by_count": 568,
+   "title": "Solution of a 20-Variable 3-SAT Problem on a DNA Computer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019733001",
+   "year": 2004,
+   "cited_by_count": 501,
+   "title": "Design and Characterization of Programmable DNA Nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983241546",
+   "year": 2000,
+   "cited_by_count": 416,
+   "title": "The program-size complexity of self-assembled squares (extended abstract)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062864075",
+   "year": 2009,
+   "cited_by_count": 386,
+   "title": "Placement and orientation of individual DNA shapes on lithographically patterned surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019376824",
+   "year": 2011,
+   "cited_by_count": 380,
+   "title": "Programmable molecular recognition based on the geometry of DNA nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013284377",
+   "year": 2014,
+   "cited_by_count": 363,
+   "title": "A single-stranded architecture for cotranscriptional folding of RNA nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146238633",
+   "year": 2007,
+   "cited_by_count": 339,
+   "title": "An autonomous polymerization motor powered by DNA hybridization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2135520597",
+   "year": 2009,
+   "cited_by_count": 267,
+   "title": "An information-bearing seed for nucleating algorithmic self-assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2467767398",
+   "year": 2016,
+   "cited_by_count": 251,
+   "title": "Engineering and mapping nanocavity emission via precision placement of DNA origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019553804",
+   "year": 2005,
+   "cited_by_count": 224,
+   "title": "Two Computational Primitives for Algorithmic Self-Assembly: Copying and Counting",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044131499",
+   "year": 1998,
+   "cited_by_count": 218,
+   "title": "A Sticker-Based Model for DNA Computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1503647233",
+   "year": 2000,
+   "cited_by_count": 217,
+   "title": "The program-size complexity of self-assembled squares",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121344850",
+   "year": 2014,
+   "cited_by_count": 187,
+   "title": "Self-assembly of two-dimensional DNA origami lattices using cation-controlled surface diffusion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038652534",
+   "year": 1999,
+   "cited_by_count": 152,
+   "title": "On Applying Molecular Computation to the Data Encryption Standard",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018846968",
+   "year": 2014,
+   "cited_by_count": 140,
+   "title": "Optimized Assembly and Covalent Coupling of Single-Molecule DNA Origami Nanoarrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162045225",
+   "year": 2006,
+   "cited_by_count": 135,
+   "title": "Sturdier DNA Nanotubes via Ligation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163041701",
+   "year": 2000,
+   "cited_by_count": 134,
+   "title": "Using lateral capillary forces to compute by self-assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3161020364",
+   "year": 2021,
+   "cited_by_count": 114,
+   "title": "RNA origami design tools enable cotranscriptional folding of kilobase-sized nanoscaffolds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2405531059",
+   "year": 2016,
+   "cited_by_count": 107,
+   "title": "A population‐based temporal logic gate for timing and recording chemical events",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2903339958",
+   "year": 2006,
+   "cited_by_count": 103,
+   "title": "Rothemund, P.W.K.: Folding DNA to create nanoscale shapes and patterns. Nature 440, 297-302",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3132512568",
+   "year": 2021,
+   "cited_by_count": 94,
+   "title": "Absolute and arbitrary orientation of single-molecule shapes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2775673448",
+   "year": 2017,
+   "cited_by_count": 85,
+   "title": "DNA Nanotechnology: A foundation for Programmable Nanoscale Materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2998807224",
+   "year": 2020,
+   "cited_by_count": 84,
+   "title": "Branched kissing loops for the construction of diverse RNA homooligomeric nanostructures",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3182061642",
+   "year": 2021,
+   "cited_by_count": 50,
+   "title": "Bench-Top Fabrication of Single-Molecule Nanoarrays by DNA Origami Placement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035982560",
+   "year": 2012,
+   "cited_by_count": 34,
+   "title": "The importance of being modular",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3114079475",
+   "year": 2020,
+   "cited_by_count": 23,
+   "title": "Properties of DNA- and Protein-Scaffolded Lipid Nanodiscs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4249921770",
+   "year": 2005,
+   "cited_by_count": 21,
+   "title": "Design of DNA origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2902033413",
+   "year": 2007,
+   "cited_by_count": 8,
+   "title": "An autonomous polymerization motor powered by DNA hybridization. Nat Nanotechnol 2:490-494",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160739883",
+   "year": 2012,
+   "cited_by_count": 7,
+   "title": "Beyond Watson and Crick: Programming DNA self-assembly for nanofabrication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2320641418",
+   "year": 2013,
+   "cited_by_count": 1,
+   "title": "Correction to “Design and Characterization of Programmable DNA Nanotubes”",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1642019010",
+   "year": 2005,
+   "cited_by_count": 0,
+   "title": "Development of Long, Stiff DNA Tubes as Nanopatterned Substrates for Protein Binding",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2286510983",
+   "year": 2006,
+   "cited_by_count": 0,
+   "title": "The Application of Absorption Spectroscopy to the Study of Chicrophyl and Photosynthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2407239614",
+   "year": 2013,
+   "cited_by_count": 0,
+   "title": "Design and Characterization of Programmable DNA Nanotubes Correction to Supporting Information",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2574180524",
+   "year": 2017,
+   "cited_by_count": 0,
+   "title": "Interfacing Molecules with the Macroscopic World",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2954756465",
+   "year": 2017,
+   "cited_by_count": 0,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2995154219",
+   "year": 2003,
+   "cited_by_count": 0,
+   "title": "Stiffness and stability of DNA nanotubes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3201541846",
+   "year": 2021,
+   "cited_by_count": 0,
+   "title": "Snell's Law for Swimmers",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4231555589",
+   "year": 2008,
+   "cited_by_count": 0,
+   "title": "DNA Nanoscaffold Directed Self-Assembly of Carbon Nanotube Devices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4248571117",
+   "year": 2010,
+   "cited_by_count": 0,
+   "title": "Self-Assembly of Carbon Nanotubes into Two-Dimensional Geometries Using DNA Templates",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "person": "Arthur L. Horwich",
+ "profile": "A5034561133",
+ "ids": [
+  "A5034561133"
+ ],
+ "options": [
+  "for the discovery of molecular chaperones that assist protein folding in the cell — Arthur L. Horwich, F. Ulrich Hartl"
+ ],
+ "birth_year": 1951,
+ "cutoff_year": 1976,
+ "works": [
+  {
+   "paper_id": "W1963770237",
+   "year": 1998,
+   "cited_by_count": 2804,
+   "title": "The Hsp70 and Hsp60 Chaperone Machines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087689873",
+   "year": 2006,
+   "cited_by_count": 1585,
+   "title": "Molecular Chaperones and Protein Quality Control",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1892996896",
+   "year": 1994,
+   "cited_by_count": 1327,
+   "title": "The crystal structure of the bacterial chaperonln GroEL at 2.8 Å",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142338805",
+   "year": 1997,
+   "cited_by_count": 1249,
+   "title": "The crystal structure of the asymmetric GroEL–GroES–(ADP)7 chaperonin complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081422975",
+   "year": 1989,
+   "cited_by_count": 948,
+   "title": "Mitochondrial heat-shock protein hsp60 is essential for assembly of proteins imported into yeast mitochondria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974347829",
+   "year": 1991,
+   "cited_by_count": 858,
+   "title": "Chaperonin-mediated protein folding at the surface of groEL through a 'molten globule'-like intermediate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062775685",
+   "year": 1989,
+   "cited_by_count": 675,
+   "title": "Protein folding in mitochondria requires complex formation with hsp60 and ATP hydrolysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144263933",
+   "year": 1998,
+   "cited_by_count": 575,
+   "title": "STRUCTURE AND FUNCTION IN GroEL-MEDIATED PROTEIN FOLDING",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088981849",
+   "year": 2001,
+   "cited_by_count": 477,
+   "title": "Mechanisms of protein folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1564936970",
+   "year": 1999,
+   "cited_by_count": 424,
+   "title": "Global unfolding of a substrate protein by the Hsp100 chaperone ClpA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015644766",
+   "year": 1994,
+   "cited_by_count": 422,
+   "title": "Heat shock proteins and molecular chaperones: Mediators of protein conformation and turnover in the cell",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121963790",
+   "year": 2007,
+   "cited_by_count": 419,
+   "title": "Two Families of Chaperonin: Physiology and Mechanism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1646791064",
+   "year": 1997,
+   "cited_by_count": 411,
+   "title": "Distinct actions of cis and trans ATP within the double ring of the chaperonin GroEL",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965255559",
+   "year": 1996,
+   "cited_by_count": 401,
+   "title": "Characterization of the Active Intermediate of a GroEL–GroES-Mediated Protein Folding Reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078684251",
+   "year": 2002,
+   "cited_by_count": 383,
+   "title": "NMR analysis of a 900K GroEL–GroES complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996645786",
+   "year": 1994,
+   "cited_by_count": 359,
+   "title": "GroEL-mediated protein folding proceeds by multiple rounds of binding and release of nonnative forms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129214482",
+   "year": 1993,
+   "cited_by_count": 348,
+   "title": "Folding in vivo of bacterial cytoplasmic proteins: Role of GroEL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112374350",
+   "year": 1997,
+   "cited_by_count": 339,
+   "title": "GroEL‐Mediated protein folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047519073",
+   "year": 1991,
+   "cited_by_count": 337,
+   "title": "A molecular chaperone from a thermophilic archaebacterium is related to the eukaryotic protein t-complex polypeptide-1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085046609",
+   "year": 1992,
+   "cited_by_count": 302,
+   "title": "Prevention of Protein Denaturation Under Heat Stress by the Chaperonin Hsp60",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978440190",
+   "year": 1999,
+   "cited_by_count": 301,
+   "title": "GroEL-GroES Cycling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046221312",
+   "year": 2001,
+   "cited_by_count": 297,
+   "title": "ATP-Bound States of GroEL Captured by Cryo-Electron Microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161256688",
+   "year": 2002,
+   "cited_by_count": 288,
+   "title": "ClpS, a Substrate Modulator of the ClpAP Machine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044680119",
+   "year": 1984,
+   "cited_by_count": 281,
+   "title": "Structure and Expression of a Complementary DNA for the Nuclear Coded Precursor of Human Mitochondrial Ornithine Transcarbamylase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974288679",
+   "year": 1997,
+   "cited_by_count": 275,
+   "title": "Deadly Conformations—Protein Misfolding in Prion Disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065638048",
+   "year": 2006,
+   "cited_by_count": 243,
+   "title": "GroEL−GroES-Mediated Protein Folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1543378549",
+   "year": 1985,
+   "cited_by_count": 240,
+   "title": "A leader peptide is sufficient to direct mitochondrial import of a chimeric protein.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074654002",
+   "year": 2005,
+   "cited_by_count": 230,
+   "title": "Loops in the Central Channel of ClpA Chaperone Mediate Protein Binding, Unfolding, and Translocation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971090714",
+   "year": 1994,
+   "cited_by_count": 204,
+   "title": "Cystosolic chaperonin subunits have a conserved ATPase domain but diverged polypeptide-binding domains",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974335852",
+   "year": 2002,
+   "cited_by_count": 200,
+   "title": "Protein aggregation in disease: a role for folding intermediates forming specific multimeric interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039004975",
+   "year": 2009,
+   "cited_by_count": 194,
+   "title": "An ALS-Linked Mutant SOD1 Produces a Locomotor Defect Associated with Aggregation and Synaptic Dysfunction When Expressed in Neurons of Caenorhabditis elegans",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980656534",
+   "year": 2012,
+   "cited_by_count": 190,
+   "title": "ATP-Triggered Conformational Changes Delineate Substrate-Binding and -Folding Mechanics of the GroEL Chaperonin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071213863",
+   "year": 2000,
+   "cited_by_count": 190,
+   "title": "Multivalent Binding of Nonnative Substrate Proteins by the Chaperonin GroEL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079024602",
+   "year": 1999,
+   "cited_by_count": 188,
+   "title": "Chaperone rings in protein folding and degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4231988541",
+   "year": 2002,
+   "cited_by_count": 182,
+   "title": "Protein aggregation in disease: a role for folding intermediates forming specific multimeric interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026607364",
+   "year": 2013,
+   "cited_by_count": 181,
+   "title": "Recessive loss of function of the neuronal ubiquitin hydrolase UCHL1 leads to early-onset progressive neurodegeneration",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164897290",
+   "year": 2012,
+   "cited_by_count": 177,
+   "title": "Structure and Allostery of the Chaperonin GroEL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168117947",
+   "year": 2001,
+   "cited_by_count": 173,
+   "title": "GroEL/GroES-Mediated Folding of a Protein Too Large to Be Encapsulated",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018905233",
+   "year": 1986,
+   "cited_by_count": 172,
+   "title": "Targeting of pre-ornithine transcarbamylase to mitochondria: Definition of critical regions and residues in the leader peptide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141854486",
+   "year": 1997,
+   "cited_by_count": 171,
+   "title": "Chaperonin-Mediated Folding in the Eukaryotic Cytosol Proceeds through Rounds of Release of Native and Nonnative Forms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040677008",
+   "year": 2003,
+   "cited_by_count": 156,
+   "title": "Chaperonin-mediated protein folding: fate of substrate polypeptide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159081670",
+   "year": 1998,
+   "cited_by_count": 155,
+   "title": "Maturation of Human Cyclin E Requires the Function of Eukaryotic Chaperonin CCT",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093397531",
+   "year": 2006,
+   "cited_by_count": 154,
+   "title": "Allosteric signaling of ATP hydrolysis in GroEL–GroES complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W204545715",
+   "year": 1988,
+   "cited_by_count": 152,
+   "title": "The processing peptidase of yeast mitochondria: the two co‐operating components MPP and PEP are structurally related.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120538760",
+   "year": 2001,
+   "cited_by_count": 149,
+   "title": "ClpA mediates directional translocation of substrate proteins into the ClpP protease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071760721",
+   "year": 2009,
+   "cited_by_count": 148,
+   "title": "Chaperonin-mediated protein folding: using a central cavity to kinetically assist polypeptide chain folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029086579",
+   "year": 2006,
+   "cited_by_count": 145,
+   "title": "Global aggregation of newly translated proteins in an Escherichia coli strain deficient of the chaperonin GroEL",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980360022",
+   "year": 2002,
+   "cited_by_count": 144,
+   "title": "Solution NMR Techniques for Large Molecular and Supramolecular Structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143366726",
+   "year": 2009,
+   "cited_by_count": 139,
+   "title": "Progressive aggregation despite chaperone associations of a mutant SOD1-YFP in transgenic mice that develop ALS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080195140",
+   "year": 1991,
+   "cited_by_count": 134,
+   "title": "Protein folding causes an arrest of preprotein translocation into mitochondria in vivo.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001053656",
+   "year": 1989,
+   "cited_by_count": 133,
+   "title": "Linkage mapping of a mouse gene, iv, that controls left-right asymmetry of the heart and viscera.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055885027",
+   "year": 1985,
+   "cited_by_count": 128,
+   "title": "Gene deletion and restriction fragment length polymorphisms at the human ornithine transcarbamylase locus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063117554",
+   "year": 1984,
+   "cited_by_count": 127,
+   "title": "Human Ornithine Transcarbamylase Locus Mapped to Band Xp21.1 Near the Duchenne Muscular Dystrophy Locus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1503886867",
+   "year": 1993,
+   "cited_by_count": 120,
+   "title": "Protein folding in the cell: functions of two families of molecular chaperone, hsp 60 and TF55-TCP1",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069867742",
+   "year": 2004,
+   "cited_by_count": 118,
+   "title": "Exploring the Structural Dynamics of the E.coli Chaperonin GroEL Using Translation-libration-screw Crystallographic Refinement of Intermediate States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079021559",
+   "year": 2005,
+   "cited_by_count": 114,
+   "title": "Direct NMR observation of a substrate protein bound to the chaperonin GroEL",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154873819",
+   "year": 2008,
+   "cited_by_count": 106,
+   "title": "Chaperonin chamber accelerates protein folding through passive action of preventing aggregation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007363410",
+   "year": 2007,
+   "cited_by_count": 101,
+   "title": "Topologies of a Substrate Protein Bound to the Chaperonin GroEL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002308733",
+   "year": 2009,
+   "cited_by_count": 93,
+   "title": "The GroEL/GroES cis cavity as a passive anti‐aggregation device",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082612432",
+   "year": 1997,
+   "cited_by_count": 86,
+   "title": "Native-like structure of a protein-folding intermediate bound to the chaperonin GroEL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1490851253",
+   "year": 2001,
+   "cited_by_count": 84,
+   "title": "Folding of malate dehydrogenase inside the GroEL-GroES cavity.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088724729",
+   "year": 2004,
+   "cited_by_count": 81,
+   "title": "Substrate polypeptide presents a load on the apical domains of the chaperonin GroEL",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030532947",
+   "year": 1998,
+   "cited_by_count": 79,
+   "title": "Folding in vivo of a newly translated yeast cytosolic enzyme is mediated by the SSA class of cytosolic yeast Hsp70 proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985095544",
+   "year": 2004,
+   "cited_by_count": 75,
+   "title": "Uniform and Residue-specific 15N-labeling of Proteins on a Highly Deuterated Background",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018863540",
+   "year": 2013,
+   "cited_by_count": 74,
+   "title": "RNA-Seq Profiling of Spinal Cord Motor Neurons from a Presymptomatic SOD1 ALS Mouse",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003494859",
+   "year": 1985,
+   "cited_by_count": 73,
+   "title": "Arginine in the leader peptide is required for both import and proteolytic cleavage of a mitochondrial precursor.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034435214",
+   "year": 1985,
+   "cited_by_count": 73,
+   "title": "A cDNA clone for the precursor of rat mitochondrial ornithine transcarbamylase: comparison of rat and human leader sequences and conservation of catalytic sites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026954647",
+   "year": 1990,
+   "cited_by_count": 72,
+   "title": "Sorting pathways of mitochondrial inner membrane proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104786801",
+   "year": 1992,
+   "cited_by_count": 72,
+   "title": "Two related genes encoding extremely hydrophobic proteins suppress a lethal mutation in the yeast mitochondrial processing enhancing protein.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134440736",
+   "year": 2014,
+   "cited_by_count": 63,
+   "title": "Selective degeneration of a physiological subtype of spinal motor neuron in mice with SOD1-linked ALS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3008974935",
+   "year": 2020,
+   "cited_by_count": 63,
+   "title": "Chaperonin-assisted protein folding: a chronologue",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2344647981",
+   "year": 2016,
+   "cited_by_count": 61,
+   "title": "Extended survival of misfolded G85R SOD1-linked ALS mice by transgenic expression of chaperone Hsp110",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2988983093",
+   "year": 2019,
+   "cited_by_count": 57,
+   "title": "Hsp110 mitigates α-synuclein pathology in vivo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111171658",
+   "year": 2013,
+   "cited_by_count": 56,
+   "title": "Molecular chaperone Hsp110 rescues a vesicle transport defect produced by an ALS-associated mutant SOD1 protein in squid axoplasm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152625922",
+   "year": 2007,
+   "cited_by_count": 55,
+   "title": "Folding trajectories of human dihydrofolate reductase inside the GroEL–GroES chaperonin cavity and free in solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994953155",
+   "year": 2014,
+   "cited_by_count": 54,
+   "title": "Molecular Chaperones in Cellular Protein Folding: The Birth of a Field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063825781",
+   "year": 1990,
+   "cited_by_count": 53,
+   "title": "Protein import into mitochondria and peroxisomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346240738",
+   "year": 2016,
+   "cited_by_count": 51,
+   "title": "GroEL/ES inhibitors as potential antibiotics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992285004",
+   "year": 1983,
+   "cited_by_count": 49,
+   "title": "Molecular cloning of the cDNA coding for rat ornithine transcarbamoylase.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2887409185",
+   "year": 2018,
+   "cited_by_count": 47,
+   "title": "Sulfonamido-2-arylbenzoxazole GroEL/ES Inhibitors as Potent Antibacterials against Methicillin-Resistant Staphylococcus aureus (MRSA)",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

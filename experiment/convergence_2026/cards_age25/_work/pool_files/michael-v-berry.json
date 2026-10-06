@@ -1,0 +1,655 @@
+{
+ "person": "Michael V. Berry",
+ "profile": "A5032503181",
+ "ids": [
+  "A5032503181",
+  "A5006305535"
+ ],
+ "options": [
+  "for the discovery of topological and geometric phases in quantum systems — Michael V. Berry, Yakir Aharonov"
+ ],
+ "birth_year": 1941,
+ "cutoff_year": 1966,
+ "works": [
+  {
+   "paper_id": "W2097780038",
+   "year": 1984,
+   "cited_by_count": 9247,
+   "title": "Quantal phase factors accompanying adiabatic changes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115138743",
+   "year": 1974,
+   "cited_by_count": 2169,
+   "title": "Dislocations in wave trains",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129442062",
+   "year": 1977,
+   "cited_by_count": 1389,
+   "title": "Level clustering in the regular spectrum",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2550557946",
+   "year": 2016,
+   "cited_by_count": 1266,
+   "title": "Roadmap on structured light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018458110",
+   "year": 1977,
+   "cited_by_count": 1153,
+   "title": "Regular and irregular semiclassical wavefunctions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145667305",
+   "year": 1985,
+   "cited_by_count": 1051,
+   "title": "Semiclassical theory of spectral rigidity",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062830522",
+   "year": 1987,
+   "cited_by_count": 1026,
+   "title": "The Adiabatic Phase and Pancharatnam's Phase for Polarized Light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046951295",
+   "year": 2009,
+   "cited_by_count": 982,
+   "title": "Transitionless quantum driving",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142998301",
+   "year": 2004,
+   "cited_by_count": 832,
+   "title": "Physics of Nonhermitian Degeneracies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4230252700",
+   "year": 1995,
+   "cited_by_count": 779,
+   "title": "Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090432663",
+   "year": 1977,
+   "cited_by_count": 581,
+   "title": "Semi-classical mechanics in phase space: A study of Wigner’s function",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058802173",
+   "year": 1984,
+   "cited_by_count": 573,
+   "title": "Semiclassical level spacings when regular and chaotic orbits coexist",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142404943",
+   "year": 1976,
+   "cited_by_count": 515,
+   "title": "Closed orbits and the regular bound spectrum",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4232668442",
+   "year": 2009,
+   "cited_by_count": 489,
+   "title": "Optical currents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095378083",
+   "year": 1981,
+   "cited_by_count": 468,
+   "title": "Quantizing a classically ergodic system: Sinai's billiard and the KKR method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137772817",
+   "year": 1997,
+   "cited_by_count": 458,
+   "title": "Of flying frogs and levitrons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074990455",
+   "year": 1984,
+   "cited_by_count": 433,
+   "title": "Diabolical points in the spectra of triangles",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982928226",
+   "year": 2006,
+   "cited_by_count": 429,
+   "title": "Evolution of quantum superoscillations and optical superresolution without evanescent waves",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2101112255",
+   "year": 1987,
+   "cited_by_count": 419,
+   "title": "Neutrino billiards: time-reversal symmetry-breaking without magnetic fields",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4245223766",
+   "year": 1979,
+   "cited_by_count": 409,
+   "title": "Quantum maps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999445557",
+   "year": 1985,
+   "cited_by_count": 408,
+   "title": "Classical adiabatic angles and quantal adiabatic phase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2570248309",
+   "year": 1984,
+   "cited_by_count": 407,
+   "title": "Electro-Optical and Magneto-Optical Properties of Liquid Crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076050576",
+   "year": 1976,
+   "cited_by_count": 393,
+   "title": "Waves and Thom's theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994127744",
+   "year": 1980,
+   "cited_by_count": 392,
+   "title": "Quantization of linear maps on a torus-fresnel diffraction by a periodic grating",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049073117",
+   "year": 1989,
+   "cited_by_count": 371,
+   "title": "Quantum scars of classical closed orbits in phase space",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018651156",
+   "year": 1981,
+   "cited_by_count": 361,
+   "title": "Regularity and chaos in classical mechanics, illustrated by three deformations of a circular 'billiard'",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991057622",
+   "year": 1999,
+   "cited_by_count": 354,
+   "title": "The Riemann Zeros and Eigenvalue Asymptotics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4245911052",
+   "year": 1979,
+   "cited_by_count": 340,
+   "title": "Diffractals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139131426",
+   "year": 1989,
+   "cited_by_count": 335,
+   "title": "Uniform asymptotic smoothing of Stokes’s discontinuities",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025995346",
+   "year": 1987,
+   "cited_by_count": 323,
+   "title": "The Bakerian Lecture, 1987. Quantum chaology",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100764053",
+   "year": 2000,
+   "cited_by_count": 311,
+   "title": "Phase singularities in isotropic random waves",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097693105",
+   "year": 2001,
+   "cited_by_count": 308,
+   "title": "Polarization singularities in isotropic random vector waves",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005201443",
+   "year": 1981,
+   "cited_by_count": 300,
+   "title": "Pseudointegrable systems in classical and quantum mechanics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032876366",
+   "year": 1987,
+   "cited_by_count": 280,
+   "title": "Quantum phase corrections from adiabatic iteration",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984246035",
+   "year": 1977,
+   "cited_by_count": 240,
+   "title": "Calculating the bound spectrum by path summation in action-angle variables",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1491976844",
+   "year": 2001,
+   "cited_by_count": 239,
+   "title": "Quantum carpets, carpets of light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019050895",
+   "year": 1991,
+   "cited_by_count": 235,
+   "title": "Hyperasymptotics for integrals with saddles",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083759081",
+   "year": 1990,
+   "cited_by_count": 227,
+   "title": "Anticipations of the Geometric Phase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041596672",
+   "year": 1986,
+   "cited_by_count": 223,
+   "title": "Statistics of energy levels without time-reversal symmetry: Aharonov-Bohm chaotic billiards",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980486981",
+   "year": 1994,
+   "cited_by_count": 221,
+   "title": "Evanescent and real waves in quantum billiards and Gaussian beams",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157619770",
+   "year": 1979,
+   "cited_by_count": 221,
+   "title": "The elliptic umbilic diffraction catastrophe",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036246399",
+   "year": 1987,
+   "cited_by_count": 219,
+   "title": "Interpreting the anholonomy of coiled light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975383406",
+   "year": 1977,
+   "cited_by_count": 217,
+   "title": "Umbilic points on Gaussian random surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124000927",
+   "year": 1980,
+   "cited_by_count": 215,
+   "title": "Wavefront dislocations in the Aharonov-Bohm effect and its water wave analogue",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1824535231",
+   "year": 1978,
+   "cited_by_count": 213,
+   "title": "Regular and irregular motion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965860102",
+   "year": 1979,
+   "cited_by_count": 213,
+   "title": "Evolution of semiclassical quantum states in phase space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130893320",
+   "year": 2003,
+   "cited_by_count": 213,
+   "title": "The optical singularities of birefringent dichroic chiral crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984307133",
+   "year": 1990,
+   "cited_by_count": 205,
+   "title": "Histories of adiabatic quantum transitions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044083383",
+   "year": 1998,
+   "cited_by_count": 201,
+   "title": "Paraxial beams of spinning light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970140375",
+   "year": 1996,
+   "cited_by_count": 198,
+   "title": "Quantum fractals in boxes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2939589365",
+   "year": 2019,
+   "cited_by_count": 185,
+   "title": "Roadmap on superoscillations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123393632",
+   "year": 1993,
+   "cited_by_count": 178,
+   "title": "Chaotic classical and half-classical adiabatic reactions: geometric magnetism and deterministic friction",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991998207",
+   "year": 1989,
+   "cited_by_count": 171,
+   "title": "Quantum chaology, not quantum chaos",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095449560",
+   "year": 1966,
+   "cited_by_count": 166,
+   "title": "Uniform approximation for potential scattering involving a rainbow",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160357945",
+   "year": 1986,
+   "cited_by_count": 161,
+   "title": "False time-reversal violation and energy level statistics: the role of anti-unitary symmetry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045312330",
+   "year": 1997,
+   "cited_by_count": 152,
+   "title": "Transparent mirrors: rays, waves and localization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2982745898",
+   "year": 1992,
+   "cited_by_count": 151,
+   "title": "A new asymptotic representation for ζ(½ + i t ) and quantum spectral determinants",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4244319576",
+   "year": 1990,
+   "cited_by_count": 142,
+   "title": "Hyperasymptotics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007162988",
+   "year": 1985,
+   "cited_by_count": 140,
+   "title": "Classical billiards in magnetic fields",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028946585",
+   "year": 2011,
+   "cited_by_count": 139,
+   "title": "Slow non-Hermitian cycling: exact solutions and the Stokes phenomenon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2560912414",
+   "year": 1982,
+   "cited_by_count": 134,
+   "title": "Semi-classical Approximation in Quantum Mechanics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003365770",
+   "year": 2006,
+   "cited_by_count": 133,
+   "title": "Conical diffraction: observations and theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170949705",
+   "year": 1985,
+   "cited_by_count": 130,
+   "title": "The surgical treatment of osteochondritis of the capitellum",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966592938",
+   "year": 1978,
+   "cited_by_count": 126,
+   "title": "Disruption of wavefronts: statistics of dislocations in incoherent Gaussian random waves",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040825465",
+   "year": 1998,
+   "cited_by_count": 126,
+   "title": "Diffraction by volume gratings with imaginary potentials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036704739",
+   "year": 1988,
+   "cited_by_count": 120,
+   "title": "Semiclassical formula for the number variance of the Riemann zeros",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164924032",
+   "year": 1990,
+   "cited_by_count": 120,
+   "title": "Geometric amplitude factors in adiabatic quantum transitions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767483275",
+   "year": 1996,
+   "cited_by_count": 117,
+   "title": "The Levitron TM : an adiabatic trap for spins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982080409",
+   "year": 1978,
+   "cited_by_count": 116,
+   "title": "Topography of random surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1503975326",
+   "year": 2000,
+   "cited_by_count": 112,
+   "title": "Making waves in physics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041495320",
+   "year": 2003,
+   "cited_by_count": 112,
+   "title": "Mode degeneracies and the petermann excess-noise factor for unstable lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048484819",
+   "year": 2005,
+   "cited_by_count": 111,
+   "title": "Orbital and spin angular momentum in conical diffraction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015692741",
+   "year": 1980,
+   "cited_by_count": 109,
+   "title": "Exact Aharonov-Bohm wavefunction obtained by applying Dirac's magnetic phase factor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017836407",
+   "year": 1977,
+   "cited_by_count": 109,
+   "title": "Focusing and twinkling: critical exponents from catastrophes in non-Gaussian random short waves",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039513402",
+   "year": 1988,
+   "cited_by_count": 109,
+   "title": "Stokes' phenomenon ; smoothing a victorian discontinuity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034924428",
+   "year": 2010,
+   "cited_by_count": 105,
+   "title": "Quantum backflow, negative kinetic energy, and optical retro-propagation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999222302",
+   "year": 1998,
+   "cited_by_count": 102,
+   "title": "Much ado about nothing: optical distortion lines (phase singularities, zeros, and vortices)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051897721",
+   "year": 1975,
+   "cited_by_count": 101,
+   "title": "Cusped rainbows and incoherence effects in the rippling-mirror model for particle scattering from surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128260987",
+   "year": 2008,
+   "cited_by_count": 99,
+   "title": "Exact and geometrical optics energy trajectories in twisted beams",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2568854391",
+   "year": 1987,
+   "cited_by_count": 97,
+   "title": "Littlewood's Miscellany",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

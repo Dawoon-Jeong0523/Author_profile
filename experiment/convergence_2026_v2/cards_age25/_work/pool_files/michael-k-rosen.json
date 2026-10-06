@@ -1,0 +1,654 @@
+{
+ "person": "Michael K. Rosen",
+ "profile": "A5012173770",
+ "ids": [
+  "A5012173770"
+ ],
+ "options": [
+  "for the discovery of phase-separated biomolecular condensates in cellular organization — Clifford P. Brangwynne, Anthony A. Hyman, Michael K. Rosen"
+ ],
+ "birth_year": 1965,
+ "cutoff_year": 1990,
+ "works": [
+  {
+   "paper_id": "W2590568317",
+   "year": 2017,
+   "cited_by_count": 5914,
+   "title": "Biomolecular condensates: organizers of cellular biochemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085978470",
+   "year": 2012,
+   "cited_by_count": 2569,
+   "title": "Phase transitions in the assembly of multivalent signalling proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1854281301",
+   "year": 2015,
+   "cited_by_count": 1620,
+   "title": "Formation and Maturation of Phase-Separated Liquid Droplets by RNA-Binding Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2335345046",
+   "year": 2016,
+   "cited_by_count": 1400,
+   "title": "Phase separation of signaling molecules promotes T cell receptor signal transduction",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2461977200",
+   "year": 2016,
+   "cited_by_count": 1274,
+   "title": "Compositional Control of Phase-Separated Cellular Bodies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2973290848",
+   "year": 2019,
+   "cited_by_count": 1091,
+   "title": "Organization of Chromatin by Intrinsic and Regulated Phase Separation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3099323319",
+   "year": 2020,
+   "cited_by_count": 880,
+   "title": "A framework for understanding the functions of biomolecular condensates across scales",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2467565876",
+   "year": 2016,
+   "cited_by_count": 827,
+   "title": "Sequence Determinants of Intracellular Phase Separation by Complex Coacervation of a Disordered Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059161447",
+   "year": 2000,
+   "cited_by_count": 744,
+   "title": "Autoinhibition and activation mechanisms of the Wiskott–Aldrich syndrome protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951283121",
+   "year": 2017,
+   "cited_by_count": 727,
+   "title": "Intrinsically disordered linkers determine the interplay between phase separation and gelation in multivalent proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2172098255",
+   "year": 2014,
+   "cited_by_count": 609,
+   "title": "Phase transitions of multivalent proteins can promote clustering of membrane receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2922246560",
+   "year": 2019,
+   "cited_by_count": 557,
+   "title": "Stoichiometry controls activity of phase-separated clusters of actin signaling proteins",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066953183",
+   "year": 2010,
+   "cited_by_count": 486,
+   "title": "Structure and control of the actin regulatory WAVE complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2755486970",
+   "year": 2017,
+   "cited_by_count": 435,
+   "title": "Intrinsically disordered sequences enable modulation of protein phase separation through distributed tyrosine motifs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1581108390",
+   "year": 2001,
+   "cited_by_count": 431,
+   "title": "Constitutively activating mutation in WASP causes X-linked severe congenital neutropenia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171432125",
+   "year": 2000,
+   "cited_by_count": 377,
+   "title": "Structural Basis for Relief of Autoinhibition of the Dbl Homology Domain of Proto-Oncogene Vav by Tyrosine Phosphorylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2887994055",
+   "year": 2018,
+   "cited_by_count": 375,
+   "title": "Who's In and Who's Out—Compositional Control of Biomolecular Condensates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968603501",
+   "year": 2005,
+   "cited_by_count": 366,
+   "title": "Structural basis of actin filament nucleation and processive capping by a formin homology 2 domain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2625742743",
+   "year": 2018,
+   "cited_by_count": 351,
+   "title": "Intrinsically Disordered Regions Can Contribute Promiscuous Interactions to RNP Granule Assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2931894123",
+   "year": 2019,
+   "cited_by_count": 344,
+   "title": "Regulation of Transmembrane Signaling by Phase Separation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2801356113",
+   "year": 2018,
+   "cited_by_count": 332,
+   "title": "Nuclear Import Receptor Inhibits Phase Separation of FUS through Binding to Multiple Sites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975898157",
+   "year": 1992,
+   "cited_by_count": 330,
+   "title": "Solution Structure of the SH3 Domain of Src and Identification of Its Ligand-Binding Site",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1907110586",
+   "year": 1999,
+   "cited_by_count": 319,
+   "title": "Structure of Cdc42 in complex with the GTPase-binding domain of the ‘Wiskott–Aldrich syndrome’ protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990664560",
+   "year": 1991,
+   "cited_by_count": 303,
+   "title": "Solution Structure of FKBP, a Rotamase Enzyme and Receptor for FK506 and Rapamycin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978773252",
+   "year": 1996,
+   "cited_by_count": 300,
+   "title": "Selective Methyl Group Protonation of Perdeuterated Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037936544",
+   "year": 2014,
+   "cited_by_count": 292,
+   "title": "The WAVE Regulatory Complex Links Diverse Receptors to the Actin Cytoskeleton",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3164397064",
+   "year": 2021,
+   "cited_by_count": 285,
+   "title": "Mechanistic dissection of increased enzymatic rate in a phase-separated compartment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997228602",
+   "year": 2010,
+   "cited_by_count": 255,
+   "title": "Physical Mechanisms of Signal Integration by WASP Family Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030222262",
+   "year": 2005,
+   "cited_by_count": 254,
+   "title": "Structural Basis of Rho GTPase-Mediated Activation of the Formin mDia1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999187807",
+   "year": 1997,
+   "cited_by_count": 250,
+   "title": "Global Folds of Highly Deuterated, Methyl-Protonated Proteins by Multidimensional NMR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967904525",
+   "year": 2013,
+   "cited_by_count": 234,
+   "title": "Regulation of WASH-Dependent Actin Polymerization and Protein Trafficking by Ubiquitination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104095808",
+   "year": 2010,
+   "cited_by_count": 218,
+   "title": "WASH and WAVE actin regulators of the Wiskott–Aldrich syndrome protein (WASP) family are controlled by analogous structurally related complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027387232",
+   "year": 2010,
+   "cited_by_count": 206,
+   "title": "Rationally improving LOV domain–based photoswitches",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982863538",
+   "year": 2008,
+   "cited_by_count": 204,
+   "title": "Hierarchical Regulation of WASP/WAVE Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973911766",
+   "year": 2014,
+   "cited_by_count": 203,
+   "title": "Retromer Binding to FAM21 and the WASH Complex Is Perturbed by the Parkinson Disease-Linked VPS35(D620N) Mutation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154637838",
+   "year": 2011,
+   "cited_by_count": 201,
+   "title": "Arp2/3 complex is bound and activated by two WASP proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125272201",
+   "year": 2015,
+   "cited_by_count": 196,
+   "title": "Conserved interdomain linker promotes phase separation of the multivalent adaptor protein Nck",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980316109",
+   "year": 2004,
+   "cited_by_count": 195,
+   "title": "Chemical inhibition of N-WASP by stabilization of a native autoinhibited conformation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032793177",
+   "year": 2012,
+   "cited_by_count": 190,
+   "title": "Multiple repeat elements within the FAM21 tail link the WASH actin regulatory complex to the retromer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979511698",
+   "year": 2003,
+   "cited_by_count": 176,
+   "title": "Structure of Cdc42 in a complex with the GTPase‐binding domain of the cell polarity protein, Par6",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095103973",
+   "year": 2003,
+   "cited_by_count": 176,
+   "title": "Contingent Phosphorylation/Dephosphorylation Provides a Mechanism of Molecular Memory in WASP",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1506678536",
+   "year": 1997,
+   "cited_by_count": 170,
+   "title": "C-terminal binding domain of Rho GDP-dissociation inhibitor directs N-terminal inhibitory peptide to GTPases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077922474",
+   "year": 2014,
+   "cited_by_count": 170,
+   "title": "Local F-actin Network Links Synapse Formation and Axon Branching",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2759963226",
+   "year": 2017,
+   "cited_by_count": 170,
+   "title": "Rac1 GTPase activates the WAVE regulatory complex through two distinct binding sites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105756079",
+   "year": 2003,
+   "cited_by_count": 158,
+   "title": "A conserved amphipathic helix in WASP/Scar proteins is essential for activation of Arp2/3 complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3036288316",
+   "year": 2020,
+   "cited_by_count": 156,
+   "title": "A quantitative inventory of yeast P body proteins reveals principles of composition and specificity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974338734",
+   "year": 2008,
+   "cited_by_count": 155,
+   "title": "Estimation of the available free energy in a LOV2-Jα photoswitch",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031657234",
+   "year": 2007,
+   "cited_by_count": 155,
+   "title": "Arp2/3-independent assembly of actin by Vibrio type III effector VopL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160438933",
+   "year": 2010,
+   "cited_by_count": 155,
+   "title": "Structural and Energetic Mechanisms of Cooperative Autoinhibition and Activation of Vav1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086974999",
+   "year": 2001,
+   "cited_by_count": 153,
+   "title": "WASP Recruitment to the T Cell:APC Contact Site Occurs Independently of Cdc42 Activation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007516779",
+   "year": 2009,
+   "cited_by_count": 149,
+   "title": "The WAVE regulatory complex is inhibited",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115708822",
+   "year": 1992,
+   "cited_by_count": 147,
+   "title": "Natural Products as Probes of Cellular Function: Studies of Immunophilins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030616863",
+   "year": 1998,
+   "cited_by_count": 141,
+   "title": "Structure and mutagenesis of the Dbl homology domain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2292767755",
+   "year": 2016,
+   "cited_by_count": 132,
+   "title": "Data publication with the structural biology data grid supports live analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041437399",
+   "year": 2003,
+   "cited_by_count": 131,
+   "title": "Itk Functions to Control Actin Polymerization at the Immune Synapse through Localized Activation of Cdc42 and WASP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037141227",
+   "year": 1995,
+   "cited_by_count": 130,
+   "title": "Direct demonstration of an intramolecular SH2—phosphotyrosine interaction in the Crk protein",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155353685",
+   "year": 2006,
+   "cited_by_count": 125,
+   "title": "Autoinhibition regulates cellular localization and actin assembly activity of the diaphanous-related formins FRLα and mDia1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2956058000",
+   "year": 2019,
+   "cited_by_count": 123,
+   "title": "A composition-dependent molecular clutch between T cell signaling condensates and actin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2550537208",
+   "year": 2016,
+   "cited_by_count": 122,
+   "title": "Structural and mechanistic insights into regulation of the retromer coat by TBC1d5",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151931974",
+   "year": 2009,
+   "cited_by_count": 120,
+   "title": "Insulin receptor tyrosine kinase substrate links the E. coli O157:H7 actin assembly effectors Tir and EspF U during pedestal formation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1934962120",
+   "year": 2013,
+   "cited_by_count": 119,
+   "title": "Measurement and Analysis of In Vitro Actin Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967596069",
+   "year": 2014,
+   "cited_by_count": 115,
+   "title": "Ena/VASP Proteins Cooperate with the WAVE Complex to Regulate the Actin Cytoskeleton",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063063649",
+   "year": 2008,
+   "cited_by_count": 112,
+   "title": "A large kindred with X‐linked neutropenia with an I294T mutation of the Wiskott‐Aldrich syndrome gene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122925817",
+   "year": 2013,
+   "cited_by_count": 111,
+   "title": "Three-color single molecule imaging shows WASP detachment from Arp2/3 complex triggers actin filament branch formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3028543714",
+   "year": 2020,
+   "cited_by_count": 106,
+   "title": "Dynamin regulates the dynamics and mechanical strength of the actin cytoskeleton as a multifilament actin-bundling protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973247376",
+   "year": 2008,
+   "cited_by_count": 105,
+   "title": "Structural mechanism of WASP activation by the enterohaemorrhagic E. coli effector EspFU",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099199220",
+   "year": 2008,
+   "cited_by_count": 105,
+   "title": "Genetically encoded photoswitching of actin assembly through the Cdc42-WASP-Arp2/3 complex pathway",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125980227",
+   "year": 2008,
+   "cited_by_count": 103,
+   "title": "Internal dynamics control activation and activity of the autoinhibited Vav DH domain",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980274652",
+   "year": 2006,
+   "cited_by_count": 101,
+   "title": "Signal transduction pathway of TonB-dependent transporters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021112201",
+   "year": 2005,
+   "cited_by_count": 89,
+   "title": "Protein-tyrosine Kinase and GTPase Signals Cooperate to Phosphorylate and Activate Wiskott-Aldrich Syndrome Protein (WASP)/Neuronal WASP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074157101",
+   "year": 1996,
+   "cited_by_count": 84,
+   "title": "An (H)C(CO)NH-TOCSY pulse scheme for sequential assignment of protonated methyl groups in otherwise deuterated 15N, 13C-labeled proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996929472",
+   "year": 1993,
+   "cited_by_count": 82,
+   "title": "A composite FKBP12-FK506 surface that contacts calcineurin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2614819858",
+   "year": 2017,
+   "cited_by_count": 77,
+   "title": "ATP controls the crowd",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141719688",
+   "year": 2010,
+   "cited_by_count": 76,
+   "title": "Activating WASP mutations associated with X-linked neutropenia result in enhanced actin polymerization, altered cytoskeletal responses, and genomic instability in lymphocytes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2286227686",
+   "year": 2016,
+   "cited_by_count": 70,
+   "title": "Fat2 acts through the WAVE regulatory complex to drive collective cell migration during tissue rotation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2554582892",
+   "year": 2016,
+   "cited_by_count": 65,
+   "title": "Actin is an evolutionarily-conserved damage-associated molecular pattern that signals tissue injury in Drosophila melanogaster",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039121377",
+   "year": 2011,
+   "cited_by_count": 60,
+   "title": "Mechanism of actin filament nucleation by the bacterial effector VopL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3163003464",
+   "year": 2021,
+   "cited_by_count": 60,
+   "title": "The role of sigma 1 receptor in organization of endoplasmic reticulum signaling microdomains",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108828634",
+   "year": 1993,
+   "cited_by_count": 58,
+   "title": "Sequential assignment and structure determination of spider toxin .omega.-Aga-IVB",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3134237166",
+   "year": 2021,
+   "cited_by_count": 57,
+   "title": "Inhibition of CRISPR-Cas12a DNA targeting by nucleosomes and chromatin",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

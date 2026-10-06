@@ -1,0 +1,655 @@
+{
+ "person": "David L. Allara",
+ "profile": "A5032114931",
+ "ids": [
+  "A5032114931"
+ ],
+ "options": [
+  "for the development of self-assembled monolayers on solid surfaces — David L. Allara, Ralph G. Nuzzo, George M. Whitesides",
+  "for the development of self-assembled monolayers — David L. Allara, Ralph G. Nuzzo, Jacob Sagiv"
+ ],
+ "birth_year": 1937,
+ "cutoff_year": 1962,
+ "works": [
+  {
+   "paper_id": "W1972091231",
+   "year": 1987,
+   "cited_by_count": 3129,
+   "title": "Spontaneously organized molecular assemblies. 4. Structural characterization of n-alkyl thiol monolayers on gold by optical ellipsometry, infrared spectroscopy, and electrochemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967598238",
+   "year": 1983,
+   "cited_by_count": 2270,
+   "title": "Adsorption of bifunctional organic disulfides on gold surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2185386454",
+   "year": 1991,
+   "cited_by_count": 1950,
+   "title": "Comparison of the structures and wetting properties of self-assembled monolayers of n-alkanethiols on the coinage metal surfaces, copper, silver, and gold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032888181",
+   "year": 1990,
+   "cited_by_count": 1563,
+   "title": "Fundamental studies of microscopic wetting on organic surfaces. 1. Formation and structural characterization of a self-consistent series of polyfunctional organic monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133899617",
+   "year": 2001,
+   "cited_by_count": 1237,
+   "title": "Conductance Switching in Single Molecules Through Conformational Changes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022150513",
+   "year": 1996,
+   "cited_by_count": 1143,
+   "title": "Are Single Molecular Wires Conducting?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026854929",
+   "year": 1986,
+   "cited_by_count": 959,
+   "title": "Unusually Low Surface-Recombination Velocity on Silicon and Germanium Surfaces",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989367423",
+   "year": 1987,
+   "cited_by_count": 791,
+   "title": "Molecular monolayers and films. A panel report for the Materials Sciences Division of the Department of Energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057026947",
+   "year": 1985,
+   "cited_by_count": 687,
+   "title": "Spontaneously organized molecular assemblies. 2. Quantitative infrared spectroscopic determination of equilibrium structures of solution-adsorbed n-alkanoic acids on an oxidized aluminum surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009034769",
+   "year": 1987,
+   "cited_by_count": 681,
+   "title": "Spontaneously organized molecular assemblies. 3. Preparation and properties of solution adsorbed monolayers of organic disulfides on gold surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040763963",
+   "year": 1995,
+   "cited_by_count": 666,
+   "title": "Self-Assembled Monolayers and Multilayers of Conjugated Thiols, .alpha.,.omega.-Dithiols, and Thioacetyl-Containing Adsorbates. Understanding Attachments between Potential Molecular Wires and Gold Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967334144",
+   "year": 1985,
+   "cited_by_count": 652,
+   "title": "Spontaneously organized molecular assemblies. 1. Formation, dynamics, and physical properties of n-alkanoic acids adsorbed from solution on an oxidized aluminum surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004447895",
+   "year": 1988,
+   "cited_by_count": 577,
+   "title": "Monolayer films prepared by the spontaneous self-assembly of symmetrical and unsymmetrical dialkyl sulfides from solution onto gold substrates: structure, properties, and reactivity of constituent functional groups",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136056392",
+   "year": 1994,
+   "cited_by_count": 446,
+   "title": "An Intrinsic Relationship between Molecular Structure in Self-Assembled n-Alkylsiloxane Monolayers and Deposition Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091055006",
+   "year": 1999,
+   "cited_by_count": 359,
+   "title": "Electron Transfer through Organic Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071780942",
+   "year": 1994,
+   "cited_by_count": 336,
+   "title": "Phase Separation of Mixed-Composition Self-Assembled Monolayers into Nanometer Scale Molecular Domains",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075566459",
+   "year": 1998,
+   "cited_by_count": 330,
+   "title": "Insertion, Conductivity, and Structures of Conjugated Organic Oligomers in Self-Assembled Alkanethiol Monolayers on Au{111}",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021432737",
+   "year": 1992,
+   "cited_by_count": 329,
+   "title": "Quantitative determination of molecular structure in multilayered thin films of biaxial and lower symmetry from photon spectroscopies. I. Reflection infrared vibrational spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062885303",
+   "year": 2003,
+   "cited_by_count": 323,
+   "title": "Direct Covalent Grafting of Conjugated Molecules onto Si, GaAs, and Pd Surfaces from Aryldiazonium Salts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051433899",
+   "year": 1995,
+   "cited_by_count": 303,
+   "title": "Evidence for a Unique Chain Organization in Long Chain Silane Monolayers Deposited on Two Widely Different Solid Substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095531934",
+   "year": 1982,
+   "cited_by_count": 300,
+   "title": "An infrared reflection spectroscopy study of oriented cadmium arachidate monolayer films on evaporated silver",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121821565",
+   "year": 1997,
+   "cited_by_count": 290,
+   "title": "n-Alkylsiloxanes: From Single Monolayers to Layered Crystals. The Formation of Crystalline Polymers from the Hydrolysis ofn-Octadecyltrichlorosilane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090106568",
+   "year": 1997,
+   "cited_by_count": 280,
+   "title": "Endothelial Cell Growth and Protein Adsorption on Terminally Functionalized, Self-Assembled Monolayers of Alkanethiolates on Gold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951016885",
+   "year": 1992,
+   "cited_by_count": 236,
+   "title": "A new class of organized self-assembled monolayers: alkane thiols on gallium arsenide(100)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069192524",
+   "year": 1980,
+   "cited_by_count": 235,
+   "title": "A compilation of kinetic parameters for the thermal degradation of n-alkane molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028651438",
+   "year": 1978,
+   "cited_by_count": 229,
+   "title": "Distortions of Band Shapes in External Reflection Infrared Spectra of Thin Polymer Films on Metal Substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023052057",
+   "year": 2004,
+   "cited_by_count": 216,
+   "title": "Effect of Local Environment on Molecular Conduction: Isolated Molecule versus Self-Assembled Monolayer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060037849",
+   "year": 2007,
+   "cited_by_count": 215,
+   "title": "Preparation, Structure, and Optical Properties of Nanoporous Gold Thin Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072182053",
+   "year": 2002,
+   "cited_by_count": 199,
+   "title": "Bond Insertion, Complexation, and Penetration Pathways of Vapor-Deposited Aluminum Atoms with HO- and CH3O-Terminated Organic Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084024481",
+   "year": 1996,
+   "cited_by_count": 195,
+   "title": "Sub-10 nm lithography with self-assembled monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125000843",
+   "year": 2006,
+   "cited_by_count": 174,
+   "title": "SINGLE-MOLECULE ELECTRICAL JUNCTIONS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973665190",
+   "year": 1986,
+   "cited_by_count": 166,
+   "title": "Formation of an organized monolayer by solution adsorption of octadecyltrichlorosilane on gold: electrochemical properties and structural characterization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971256647",
+   "year": 2004,
+   "cited_by_count": 155,
+   "title": "Thermally Activated Conduction in Molecular Junctions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041824609",
+   "year": 2004,
+   "cited_by_count": 151,
+   "title": "The Dynamics of Noble Metal Atom Penetration through Methoxy-Terminated Alkanethiolate Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052346105",
+   "year": 1995,
+   "cited_by_count": 148,
+   "title": "Chain Length Dependence of the Structure and Wetting Properties in Binary Composition Monolayers of OH- and CH3-Terminated Alkanethiolates on Gold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074808184",
+   "year": 2003,
+   "cited_by_count": 148,
+   "title": "Self-Assembled Oligo(phenylene-ethynylene) Molecular Electronic Switch Monolayers on Gold: Structures and Chemical Stability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093081062",
+   "year": 1995,
+   "cited_by_count": 148,
+   "title": "Critical issues in applications of self-assembled monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078907060",
+   "year": 1999,
+   "cited_by_count": 142,
+   "title": "Chemical Effects of Methyl and Methyl Ester Groups on the Nucleation and Growth of Vapor-Deposited Aluminum Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023445001",
+   "year": 1986,
+   "cited_by_count": 141,
+   "title": "Formation and structure of a spontaneously adsorbed monolayer of arachidic on silver",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997311439",
+   "year": 1981,
+   "cited_by_count": 136,
+   "title": "Silver-Molecule Separation Dependence of Surface-Enhanced Raman Scattering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989268166",
+   "year": 1997,
+   "cited_by_count": 135,
+   "title": "Modification of self-assembled monolayers of alkanethiols on gold by ionizing radiation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017052858",
+   "year": 1993,
+   "cited_by_count": 134,
+   "title": "Self-assembled monolayer electron beam resist on GaAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966617815",
+   "year": 1999,
+   "cited_by_count": 133,
+   "title": "Directed Self-Assembly to Create Molecular Terraces with Molecularly Sharp Boundaries in Organic Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980241306",
+   "year": 2006,
+   "cited_by_count": 132,
+   "title": "Molecular Self-Assembly at Bare Semiconductor Surfaces: Preparation and Characterization of Highly Organized Octadecanethiolate Monolayers on GaAs(001)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075237679",
+   "year": 1993,
+   "cited_by_count": 130,
+   "title": "Self-assembled monolayer electron-beam resists on GaAs and SiO2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981442016",
+   "year": 2004,
+   "cited_by_count": 129,
+   "title": "Nanowire-Based Molecular Monolayer Junctions: Synthesis, Assembly, and Electrical Characterization",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026915696",
+   "year": 1980,
+   "cited_by_count": 127,
+   "title": "Mean free path for inelastic scattering of 1.2 kev electrons in thin poly(methylmethacrylate) films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014971924",
+   "year": 1993,
+   "cited_by_count": 125,
+   "title": "Effect of KI on Improving Copper Corrosion Inhibition Efficiency of Benzotriazole in Sulfuric Acid Electrolytes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005682134",
+   "year": 2004,
+   "cited_by_count": 124,
+   "title": "Ultrasensitive quartz crystal microbalance with porous gold electrodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989745410",
+   "year": 1995,
+   "cited_by_count": 123,
+   "title": "An in-situ X-ray photoelectron study of the interaction between vapor-deposited Ti atoms and functional groups at the surfaces of self-assembled monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017254646",
+   "year": 2005,
+   "cited_by_count": 121,
+   "title": "An evaluation of methods for contact angle measurement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033098178",
+   "year": 2000,
+   "cited_by_count": 120,
+   "title": "The Interaction of Vapor-Deposited Al Atoms with CO2H Groups at the Surface of a Self-Assembled Alkanethiolate Monolayer on Gold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051361463",
+   "year": 1982,
+   "cited_by_count": 120,
+   "title": "Measurement of the molecule–silver separation dependence of surface enhanced Raman scattering in multilayered structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141308330",
+   "year": 1996,
+   "cited_by_count": 115,
+   "title": "Electron-Beam-Induced Damage in Self-Assembled Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973613557",
+   "year": 1994,
+   "cited_by_count": 114,
+   "title": "A New Mechanism for Surface Diffusion: Motion of a Substrate-Adsorbate Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053017400",
+   "year": 1996,
+   "cited_by_count": 110,
+   "title": "Nanometer-scale phase separation in mixed composition self-assembled monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067425536",
+   "year": 1978,
+   "cited_by_count": 110,
+   "title": "Compatibility in Blends of Poly(methyl methacrylate) and Poly(styrene-co-acrylonitrile). 1. Physical Properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034948008",
+   "year": 2005,
+   "cited_by_count": 109,
+   "title": "Reversible Bistable Switching in Nanoscale Thiol-Substituted Oligoaniline Molecular Junctions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974325448",
+   "year": 2006,
+   "cited_by_count": 105,
+   "title": "Characterization of human breast epithelial cells by confocal Raman microspectroscopy",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2077774857",
+   "year": 1999,
+   "cited_by_count": 100,
+   "title": "Deviations from 1:1 Compositions in Self-Assembled Monolayers Formed from Adsorption of Asymmetric Dialkyl Disulfides on Gold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050522109",
+   "year": 1994,
+   "cited_by_count": 96,
+   "title": "Electron beam lithography with monolayers of alkylthiols and alkylsiloxanes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974586995",
+   "year": 1975,
+   "cited_by_count": 93,
+   "title": "A computational modeling study of the low‐temperature pyrolysis of n‐alkanes; mechanisms of propane, n‐butane, and n‐pentane pyrolyses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061544537",
+   "year": 1995,
+   "cited_by_count": 90,
+   "title": "Correlation of Molecular Organization and Substrate Wettability in the Self-Assembly of n-Alkylsiloxane Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968073739",
+   "year": 1991,
+   "cited_by_count": 87,
+   "title": "GaAs Interfaces with Octadecyl Thiol Self-Assembled Monolayer: Structural and Electrical Properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043889963",
+   "year": 2007,
+   "cited_by_count": 85,
+   "title": "Molecular Self-Assembly at Bare Semiconductor Surfaces: Investigation of the Chemical and Electronic Properties of the Alkanethiolate−GaAs(001) Interface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072262341",
+   "year": 2005,
+   "cited_by_count": 85,
+   "title": "Relative Conductances of Alkaneselenolate and Alkanethiolate Monolayers on Au{111}",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027794700",
+   "year": 2000,
+   "cited_by_count": 81,
+   "title": "Combined Scanning Tunneling Microscopy and Infrared Spectroscopic Characterization of Mixed Surface Assemblies of Linear Conjugated Guest Molecules in Host Alkanethiolate Monolayers on Gold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067106620",
+   "year": 2004,
+   "cited_by_count": 80,
+   "title": "Interaction of vapor-deposited Ti and Au with molecular wires",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2110793429",
+   "year": 2007,
+   "cited_by_count": 80,
+   "title": "Molecular Self-Assembly at Bare Semiconductor Surfaces: Characterization of a Homologous Series of n-Alkanethiolate Monolayers on GaAs(001)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001177810",
+   "year": 1980,
+   "cited_by_count": 78,
+   "title": "A computational analysis of the alkane pyrolysis mechanism: Sensitivity analysis of individual reaction steps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024691810",
+   "year": 2008,
+   "cited_by_count": 77,
+   "title": "Surface‐Enhanced Raman Detection on Metalized Nanostructured Poly(p‐xylylene) Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060745003",
+   "year": 2003,
+   "cited_by_count": 77,
+   "title": "Self-Assembled Monolayers of Nitrile-Functionalized Alkanethiols on Gold and Silver Substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977590808",
+   "year": 1994,
+   "cited_by_count": 76,
+   "title": "Scanning tunneling microscopy based lithography of octadecanethiol on Au and GaAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018824497",
+   "year": 2005,
+   "cited_by_count": 75,
+   "title": "Self-Assembly, Characterization, and Chemical Stability of Isocyanide-Bound Molecular Wire Monolayers on Gold and Palladium Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993363132",
+   "year": 2004,
+   "cited_by_count": 74,
+   "title": "Temperature effects on conduction through a molecular junction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048350654",
+   "year": 2005,
+   "cited_by_count": 74,
+   "title": "A perspective on surfaces and interfaces",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2101416193",
+   "year": 1995,
+   "cited_by_count": 74,
+   "title": "Pattern transfer of electron beam modified self-assembled monolayers for high-resolution lithography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009827084",
+   "year": 2004,
+   "cited_by_count": 73,
+   "title": "Ordered Local Domain Structures of Decaneselenolate and Dodecaneselenolate Monolayers on Au{111}",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075408685",
+   "year": 1996,
+   "cited_by_count": 69,
+   "title": "HCl Vapor-Induced Structural Rearrangements of n-Alkanoate Self-Assembled Monolayers on Ambient Silver, Copper, and Aluminum Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091090478",
+   "year": 2011,
+   "cited_by_count": 69,
+   "title": "Orbital-Dependent Charge Transfer Dynamics in Conjugated Self-Assembled Monolayers",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

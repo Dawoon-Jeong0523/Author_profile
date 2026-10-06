@@ -1,0 +1,656 @@
+{
+ "person": "Stanford Woosley",
+ "profile": "A5057891002",
+ "ids": [
+  "A5057891002",
+  "A5078670975",
+  "A5003272288"
+ ],
+ "options": [
+  "for their studies of stellar explosions and the origin of the elements — Ken'ichi Nomoto, Stanford Woosley"
+ ],
+ "birth_year": 1944,
+ "cutoff_year": 1969,
+ "works": [
+  {
+   "paper_id": "W2047798125",
+   "year": 1995,
+   "cited_by_count": 3495,
+   "title": "The Evolution and Explosion of Massive Stars. II. Explosive Hydrodynamics and Nucleosynthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035879704",
+   "year": 1993,
+   "cited_by_count": 2325,
+   "title": "Gamma-ray bursts from stellar mass accretion disks around black holes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086199187",
+   "year": 1999,
+   "cited_by_count": 2119,
+   "title": "Collapsars: Gamma‐Ray Bursts and Explosions in “Failed Supernovae”",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063437365",
+   "year": 2002,
+   "cited_by_count": 2091,
+   "title": "The evolution and explosion of massive stars",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088668851",
+   "year": 2003,
+   "cited_by_count": 2016,
+   "title": "How Massive Single Stars End Their Life",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137473859",
+   "year": 2006,
+   "cited_by_count": 1655,
+   "title": "The Supernova–Gamma-Ray Burst Connection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983471014",
+   "year": 2002,
+   "cited_by_count": 1556,
+   "title": "The Nucleosynthetic Signature of Population III",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114800671",
+   "year": 2003,
+   "cited_by_count": 1388,
+   "title": "A very energetic supernova associated with the γ-ray burst of 29 March 2003",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077310516",
+   "year": 2000,
+   "cited_by_count": 976,
+   "title": "Presupernova Evolution of Rotating Massive Stars. I. Numerical Method and Evolution of the Internal Stellar Structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4243703598",
+   "year": 1989,
+   "cited_by_count": 924,
+   "title": "Supernova 1987A",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2167689711",
+   "year": 2002,
+   "cited_by_count": 893,
+   "title": "Nucleosynthesis in Massive Stars with Improved Nuclear and Stellar Physics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995594498",
+   "year": 2006,
+   "cited_by_count": 873,
+   "title": "The Progenitor Stars of Gamma‐Ray Bursts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098567878",
+   "year": 2016,
+   "cited_by_count": 844,
+   "title": "Core-collapse supernovae from 9 to 120 solar masses based on neutrino-powered explosions",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2076068263",
+   "year": 1978,
+   "cited_by_count": 823,
+   "title": "Presupernova evolution of massive stars",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036062947",
+   "year": 2006,
+   "cited_by_count": 798,
+   "title": "Long γ-ray bursts and core-collapse supernovae have different environments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098813469",
+   "year": 2005,
+   "cited_by_count": 797,
+   "title": "Presupernova Evolution of Differentially Rotating Massive Stars Including Magnetic Fields",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983739502",
+   "year": 1999,
+   "cited_by_count": 750,
+   "title": "Hyperaccreting Black Holes and Gamma‐Ray Bursts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040281876",
+   "year": 1994,
+   "cited_by_count": 733,
+   "title": "The r-process and neutrino-heated supernova ejecta",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2512413576",
+   "year": 2017,
+   "cited_by_count": 730,
+   "title": "Pulsational Pair-instability Supernovae",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012387554",
+   "year": 2007,
+   "cited_by_count": 717,
+   "title": "Nucleosynthesis and remnants in massive stars of solar metallicity",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2073342600",
+   "year": 1986,
+   "cited_by_count": 698,
+   "title": "The Physics of Supernova Explosions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047244984",
+   "year": 2001,
+   "cited_by_count": 694,
+   "title": "Supernovae, Jets, and Collapsars",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990425095",
+   "year": 1981,
+   "cited_by_count": 683,
+   "title": "Explosive hydrogen burning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996162015",
+   "year": 1996,
+   "cited_by_count": 656,
+   "title": "Nucleosynthesis in Neutrino‐driven Winds. I. The Physical Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964942307",
+   "year": 2010,
+   "cited_by_count": 651,
+   "title": "NUCLEOSYNTHESIS AND EVOLUTION OF MASSIVE METAL-FREE STARS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131213682",
+   "year": 2007,
+   "cited_by_count": 637,
+   "title": "Pulsational pair instability as an explanation for the most luminous supernovae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041609283",
+   "year": 1990,
+   "cited_by_count": 620,
+   "title": "The nu-process",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2596552446",
+   "year": 1994,
+   "cited_by_count": 532,
+   "title": "Sub-Chandrasekhar mass models for Type IA supernovae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065421417",
+   "year": 2006,
+   "cited_by_count": 514,
+   "title": "A new γ-ray burst classification scheme from GRB 060614",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112741107",
+   "year": 2005,
+   "cited_by_count": 502,
+   "title": "Bright X-ray Flares in Gamma-Ray Burst Afterglows",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125396253",
+   "year": 2006,
+   "cited_by_count": 496,
+   "title": "An optical supernova associated with the X-ray flash XRF 060218",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000452205",
+   "year": 1992,
+   "cited_by_count": 459,
+   "title": "The alpha-process and the r-process",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980238296",
+   "year": 2001,
+   "cited_by_count": 442,
+   "title": "Pair‐Instability Supernovae, Gravity Waves, and Gamma‐Ray Transients",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963669440",
+   "year": 2003,
+   "cited_by_count": 403,
+   "title": "Relativistic Jets in Collapsars",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002361842",
+   "year": 1978,
+   "cited_by_count": 368,
+   "title": "The p-process in supernovae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095203653",
+   "year": 1988,
+   "cited_by_count": 368,
+   "title": "SN 1987A - After the peak",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968893677",
+   "year": 1992,
+   "cited_by_count": 347,
+   "title": "R-process nucleosynthesis in the high-entropy supernova bubble",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076306112",
+   "year": 1973,
+   "cited_by_count": 346,
+   "title": "The Explosive Burning of Oxygen and Silicon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012997244",
+   "year": 2008,
+   "cited_by_count": 334,
+   "title": "Detailed Abundances for 28 Metal‐poor Stars: Stellar Relics in the Milky Way",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041835596",
+   "year": 2004,
+   "cited_by_count": 334,
+   "title": "Models for Type I X‐Ray Bursts with Improved Nuclear Physics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068139976",
+   "year": 1993,
+   "cited_by_count": 323,
+   "title": "Nucleosynthesis in massive stars and the 12C(α, γ)16O reaction rate",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964410718",
+   "year": 1976,
+   "cited_by_count": 316,
+   "title": "Tables of thermonuclear-reaction-rate data for neutron-induced reactions on heavy nuclei",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028135437",
+   "year": 1992,
+   "cited_by_count": 313,
+   "title": "The conductive propagation of nuclear flames. I - Degenerate C + O and O + NE + MG white dwarfs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013228004",
+   "year": 2005,
+   "cited_by_count": 308,
+   "title": "The physics of core-collapse supernovae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061016656",
+   "year": 2011,
+   "cited_by_count": 305,
+   "title": "SUB-CHANDRASEKHAR MASS MODELS FOR SUPERNOVAE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3105860584",
+   "year": 2016,
+   "cited_by_count": 299,
+   "title": "The effect of pair-instability mass loss on black-hole mergers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001626873",
+   "year": 1994,
+   "cited_by_count": 295,
+   "title": "SN 1993J: A Type IIb supernova",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056614217",
+   "year": 1995,
+   "cited_by_count": 293,
+   "title": "The Presupernova Evolution and Explosion of Helium Stars That Experience Mass Loss",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986721897",
+   "year": 1997,
+   "cited_by_count": 288,
+   "title": "Nucleosynthesis in Neutrino‐driven Winds. II. Implications for Heavy Element Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988229964",
+   "year": 2009,
+   "cited_by_count": 288,
+   "title": "The diversity of type Ia supernovae from broken symmetries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098962958",
+   "year": 2016,
+   "cited_by_count": 288,
+   "title": "A two-parameter criterion for classifying the explodability of massive stars by the neutrino-driven mechanism",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2001114828",
+   "year": 1998,
+   "cited_by_count": 275,
+   "title": "A Comparative Modeling of Supernova 1993J",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1852937913",
+   "year": 2015,
+   "cited_by_count": 274,
+   "title": "THE REMARKABLE DEATHS OF 9–11 SOLAR MASS STARS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963927651",
+   "year": 1999,
+   "cited_by_count": 274,
+   "title": "Gamma‐Ray Bursts and Type Ic Supernova SN 1998bw",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078859216",
+   "year": 2014,
+   "cited_by_count": 272,
+   "title": "THE COMPACTNESS OF PRESUPERNOVA STELLAR CORES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019582571",
+   "year": 1993,
+   "cited_by_count": 270,
+   "title": "The evolution of massive stars including mass loss - Presupernova models and explosion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042093521",
+   "year": 1976,
+   "cited_by_count": 269,
+   "title": "γ-ray bursts from thermonuclear explosions on neutron stars",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063900308",
+   "year": 2013,
+   "cited_by_count": 253,
+   "title": "VERY LOW ENERGY SUPERNOVAE FROM NEUTRINO MASS LOSS",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1973609937",
+   "year": 1986,
+   "cited_by_count": 245,
+   "title": "Models for Type I supernova. I - Detonations in white dwarfs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028632015",
+   "year": 2004,
+   "cited_by_count": 241,
+   "title": "The Propagation and Eruption of Relativistic Jets from the Stellar Progenitors of Gamma‐Ray Bursts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1584477200",
+   "year": 2005,
+   "cited_by_count": 233,
+   "title": "Discovery of the short γ-ray burst GRB 050709",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996976532",
+   "year": 1978,
+   "cited_by_count": 233,
+   "title": "Semiempirical thermonuclear reaction-rate data for intermediate-mass nuclei",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147737716",
+   "year": 2005,
+   "cited_by_count": 224,
+   "title": "Global Characteristics of X‐Ray Flashes and X‐Ray–Rich Gamma‐Ray Bursts Observed by HETE ‐ 2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114811371",
+   "year": 1997,
+   "cited_by_count": 218,
+   "title": "The Thermonuclear Explosion of Chandrasekhar Mass White Dwarfs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152792452",
+   "year": 2012,
+   "cited_by_count": 218,
+   "title": "On the nature of supernovae Ib and Ic",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160117884",
+   "year": 2011,
+   "cited_by_count": 217,
+   "title": "Core-collapse explosions of Wolf-Rayet stars and the connection to Type IIb/Ib/Ic supernovae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005587651",
+   "year": 1993,
+   "cited_by_count": 214,
+   "title": "Connection between flavor-mixing of cosmologically significant neutrinos and heavy element nucleosynthesis in supernovae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150052761",
+   "year": 2010,
+   "cited_by_count": 211,
+   "title": "Discovery of the nearby long, soft GRB 100316D with an associated supernova",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026081469",
+   "year": 2001,
+   "cited_by_count": 198,
+   "title": "Presupernova Evolution with Improved Rates for Weak Interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3101812206",
+   "year": 2010,
+   "cited_by_count": 195,
+   "title": "Type ib/c supernovae in binary systems. I. Evolution and properties of the progenitor stars",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W3037251411",
+   "year": 2004,
+   "cited_by_count": 191,
+   "title": "Neutrino nucleosynthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042587647",
+   "year": 1996,
+   "cited_by_count": 188,
+   "title": "Production of the Light p-Process Nuclei in Neutrino-driven Winds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032794526",
+   "year": 1998,
+   "cited_by_count": 185,
+   "title": "Helium Star/Black Hole Mergers: A New Gamma-Ray Burst Model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980329912",
+   "year": 1985,
+   "cited_by_count": 178,
+   "title": "Nucleosynthesis in neutron-rich supernova ejecta",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012349276",
+   "year": 1988,
+   "cited_by_count": 168,
+   "title": "Supernova 1987A - Six weeks later",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070407898",
+   "year": 1999,
+   "cited_by_count": 162,
+   "title": "Low‐Density Graphite Grains and Mixing in Type II Supernovae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973363208",
+   "year": 1986,
+   "cited_by_count": 161,
+   "title": "Stellar Core Collapse and Supernovaa,b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061334837",
+   "year": 1992,
+   "cited_by_count": 160,
+   "title": "The collapse of white dwarfs to neutron stars",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3210089421",
+   "year": 1986,
+   "cited_by_count": 156,
+   "title": "Nucleosynthesis and chemical evolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2135734881",
+   "year": 2012,
+   "cited_by_count": 153,
+   "title": "LONG GAMMA-RAY TRANSIENTS FROM COLLAPSARS",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

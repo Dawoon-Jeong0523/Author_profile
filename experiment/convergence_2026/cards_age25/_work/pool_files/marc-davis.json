@@ -1,0 +1,655 @@
+{
+ "person": "Marc Davis",
+ "profile": "A5108728467",
+ "ids": [
+  "A5108728467",
+  "A5108458048"
+ ],
+ "options": [
+  "for numerical simulations that established the cold dark matter model of the formation of cosmic structure — Simon White, Carlos Frenk, Marc Davis"
+ ],
+ "birth_year": 1947,
+ "cutoff_year": 1972,
+ "works": [
+  {
+   "paper_id": "W2111817932",
+   "year": 1998,
+   "cited_by_count": 14153,
+   "title": "Maps of Dust Infrared Emission for Use in Estimation of Reddening and Cosmic Microwave Background Radiation Foregrounds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032469582",
+   "year": 1985,
+   "cited_by_count": 3125,
+   "title": "The evolution of large-scale structure in a universe dominated by cold dark matter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125977823",
+   "year": 2007,
+   "cited_by_count": 1855,
+   "title": "Star Formation in AEGIS Field Galaxies since z = 1.1: The Dominance of Gradually Declining Star Formation, and the Main Sequence of Star-forming Galaxies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2601053151",
+   "year": 1979,
+   "cited_by_count": 1385,
+   "title": "A survey of galaxy redshifts. I - Data reduction techniques",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042905846",
+   "year": 1987,
+   "cited_by_count": 1383,
+   "title": "Fundamental properties of elliptical galaxies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094993922",
+   "year": 1983,
+   "cited_by_count": 1174,
+   "title": "A survey of galaxy redshifts. V - The two-point position and velocity correlations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095917766",
+   "year": 2007,
+   "cited_by_count": 1045,
+   "title": "Galaxy Luminosity Functions to z ∼1 from DEEP2 and COMBO‐17: Implications for Red Galaxy Formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153928838",
+   "year": 2010,
+   "cited_by_count": 953,
+   "title": "A study of the gas-star formation relation over cosmic time★",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114874982",
+   "year": 2010,
+   "cited_by_count": 929,
+   "title": "High molecular gas fractions in normal massive star-forming galaxies in the young Universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028398011",
+   "year": 2013,
+   "cited_by_count": 886,
+   "title": "PHIBSS: MOLECULAR GAS CONTENT AND SCALING RELATIONS IN z ∼ 1-3 MASSIVE, MAIN-SEQUENCE STAR-FORMING GALAXIES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116053549",
+   "year": 2003,
+   "cited_by_count": 742,
+   "title": "The DEIMOS spectrograph for the Keck II Telescope: integration and testing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033030037",
+   "year": 2013,
+   "cited_by_count": 707,
+   "title": "THE DEEP2 GALAXY REDSHIFT SURVEY: DESIGN, OBSERVATIONS, DATA REDUCTION, AND REDSHIFTS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1647593176",
+   "year": 1999,
+   "cited_by_count": 557,
+   "title": "Extrapolation of Galactic Dust Emission at 100 Microns to Cosmic Microwave Background Radiation Frequencies Using FIRAS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150772486",
+   "year": 2007,
+   "cited_by_count": 544,
+   "title": "The All-Wavelength Extended Groth Strip International Survey (AEGIS) Data Sets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993132186",
+   "year": 1985,
+   "cited_by_count": 444,
+   "title": "Numerical techniques for large cosmological N-body simulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057490476",
+   "year": 2001,
+   "cited_by_count": 366,
+   "title": "High-Redshift Quasars Found in Sloan Digital Sky Survey Commissioning Data. IV. Luminosity Function from the Fall Equatorial Stripe Sample",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087986618",
+   "year": 1988,
+   "cited_by_count": 366,
+   "title": "Gravitational clustering from scale-free initial conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1959064610",
+   "year": 2006,
+   "cited_by_count": 363,
+   "title": "The Deep Evolutionary Exploratory Probe 2 Galaxy Redshift Survey: The Galaxy Luminosity Function toz ∼ 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044610256",
+   "year": 2002,
+   "cited_by_count": 355,
+   "title": "Unusual Broad Absorption Line Quasars from the Sloan Digital Sky Survey",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997867090",
+   "year": 1992,
+   "cited_by_count": 345,
+   "title": "A redshift survey of IRAS galaxies. VII - The infrared and redshift data for the 1.936 Jansky sample",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106183910",
+   "year": 1998,
+   "cited_by_count": 321,
+   "title": "Identification of a host galaxy at redshift z = 3.42 for the γ-ray burst of 14 December 1997",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095061213",
+   "year": 1976,
+   "cited_by_count": 305,
+   "title": "Galaxy Correlations as a Function of Morphological Type",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054720694",
+   "year": 1995,
+   "cited_by_count": 296,
+   "title": "The IRAS 1.2 Jy Survey: Redshift Data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984644267",
+   "year": 2006,
+   "cited_by_count": 292,
+   "title": "On the Origin of [O ii ] Emission in Red‐Sequence and Poststarburst Galaxies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3104345759",
+   "year": 2013,
+   "cited_by_count": 283,
+   "title": "Science Objectives and Early Results of the DEEP2 Redshift Survey",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975557117",
+   "year": 2012,
+   "cited_by_count": 272,
+   "title": "THE METALLICITY DEPENDENCE OF THE CO → H 2 CONVERSION FACTOR IN z ⩾ 1 STAR-FORMING GALAXIES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996755716",
+   "year": 2004,
+   "cited_by_count": 270,
+   "title": "The Team Keck Treasury Redshift Survey of the GOODS-North Field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1619886093",
+   "year": 2000,
+   "cited_by_count": 268,
+   "title": "The Discovery of a Luminous [CLC][ITAL]z[/ITAL][/CLC] = 5.80 Quasar from the Sloan Digital Sky Survey",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030838909",
+   "year": 1984,
+   "cited_by_count": 260,
+   "title": "Extinction of species by periodic comet showers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1826794997",
+   "year": 2007,
+   "cited_by_count": 259,
+   "title": "The DEEP2 Galaxy Redshift Survey: the role of galaxy environment in the cosmic star formation history",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076741049",
+   "year": 1977,
+   "cited_by_count": 258,
+   "title": "On the integration of the BBGKY equations for the development of strongly nonlinear clustering in an expanding universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005376313",
+   "year": 2005,
+   "cited_by_count": 254,
+   "title": "The Assembly History of Field Spheroidals: Evolution of Mass‐to‐Light Ratios and Signatures of Recent Star Formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076392377",
+   "year": 2004,
+   "cited_by_count": 245,
+   "title": "The DEEP2 Galaxy Redshift Survey: Evolution of Close Galaxy Pairs and Major-Merger Rates up to z ~ 1.2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151296334",
+   "year": 2006,
+   "cited_by_count": 242,
+   "title": "The DEEP2 Galaxy Redshift Survey: the relationship between galaxy properties and environment at z 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027240438",
+   "year": 1987,
+   "cited_by_count": 223,
+   "title": "Clusters, filaments, and voids in a universe dominated by cold dark matter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145002594",
+   "year": 2012,
+   "cited_by_count": 209,
+   "title": "Dependence of galaxy quenching on halo mass and distance from its centre",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055629046",
+   "year": 2007,
+   "cited_by_count": 197,
+   "title": "The DEEP2 galaxy redshift survey: evolution of the colour–density relation at 0.4 < z < 1.35",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003639844",
+   "year": 1985,
+   "cited_by_count": 193,
+   "title": "Cold dark matter, the structure of galactic haloes and the origin of the Hubble sequence",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053955485",
+   "year": 2009,
+   "cited_by_count": 190,
+   "title": "INSPIRALLING SUPERMASSIVE BLACK HOLES: A NEW SIGNPOST FOR GALAXY MERGERS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075632435",
+   "year": 1982,
+   "cited_by_count": 184,
+   "title": "A survey of galaxy redshifts. II - The large scale space distribution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970193123",
+   "year": 1992,
+   "cited_by_count": 181,
+   "title": "Large-scale structure in a universe with mixed hot and cold dark matter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162614937",
+   "year": 2002,
+   "cited_by_count": 178,
+   "title": "Deviations from the Local Hubble Flow. I. The Tip of the Red Giant Branch as a Distance Indicator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1819726873",
+   "year": 2011,
+   "cited_by_count": 174,
+   "title": "Local gravity versus local velocity: solutions for β and non-linear bias",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998731207",
+   "year": 2004,
+   "cited_by_count": 161,
+   "title": "The DEEP2 Galaxy Redshift Survey: Clustering of Galaxies in Early Data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160567608",
+   "year": 1994,
+   "cited_by_count": 152,
+   "title": "Clustering in the 1.2-Jy IRAS Galaxy Redshift Survey - I. The redshift and real space correlation functions*",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103272635",
+   "year": 2015,
+   "cited_by_count": 152,
+   "title": "AEGIS-X: DEEP CHANDRA IMAGING OF THE CENTRAL GROTH STRIP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068682131",
+   "year": 2009,
+   "cited_by_count": 149,
+   "title": "AEGIS: THE CLUSTERING OF X-RAY ACTIVE GALACTIC NUCLEUS RELATIVE TO GALAXIES ATz∼ 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171056624",
+   "year": 1972,
+   "cited_by_count": 148,
+   "title": "Pulses of Gravitational Radiation of a Particle Falling Radially into a Schwarzschild Black Hole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036370896",
+   "year": 1990,
+   "cited_by_count": 145,
+   "title": "Galaxy clusters and the amplitude of primordial fluctuations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993420825",
+   "year": 2000,
+   "cited_by_count": 141,
+   "title": "Optical Spectroscopy of Supernova 1993J During Its First 2500 Days",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165356463",
+   "year": 2002,
+   "cited_by_count": 139,
+   "title": "ChandraDetection of a Type II Quasar atz= 3.288",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012576933",
+   "year": 2005,
+   "cited_by_count": 138,
+   "title": "Measuring Galaxy Environments with Deep Redshift Surveys",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003050568",
+   "year": 2000,
+   "cited_by_count": 135,
+   "title": "Detection of a Far‐Infrared Excess with DIRBE at 60 and 100 Microns",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966805122",
+   "year": 1983,
+   "cited_by_count": 128,
+   "title": "Nonlinear evolution of large-scale structure in the universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121833666",
+   "year": 2005,
+   "cited_by_count": 127,
+   "title": "The DEEP2 Galaxy Redshift Survey: First Results on Galaxy Groups",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033362295",
+   "year": 1994,
+   "cited_by_count": 125,
+   "title": "Two-fluid simulations of galaxy formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022311143",
+   "year": 2009,
+   "cited_by_count": 123,
+   "title": "1.75 h –1 kpc SEPARATION DUAL ACTIVE GALACTIC NUCLEI AT z = 0.36 IN THE COSMOS FIELD",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143255998",
+   "year": 1983,
+   "cited_by_count": 123,
+   "title": "Evidence for Local Anisotropy of the Hubble Flow",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967255332",
+   "year": 1993,
+   "cited_by_count": 122,
+   "title": "The power spectrum of IRAS galaxies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1841299674",
+   "year": 2001,
+   "cited_by_count": 121,
+   "title": "High-Redshift Quasars Found in Sloan Digital Sky Survey Commissioning Data. III. A Color-selected Sample at [ITAL][CLC]i[/CLC][/ITAL]* < 20 in the Fall Equatorial Stripe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068712987",
+   "year": 2006,
+   "cited_by_count": 120,
+   "title": "The DEEP2 Galaxy Redshift Survey: Clustering of Quasars and Galaxies atz= 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984743356",
+   "year": 2006,
+   "cited_by_count": 117,
+   "title": "The DEEP2 Galaxy Redshift Survey: Clustering of Galaxies as a Function of Luminosity atz= 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130408131",
+   "year": 1999,
+   "cited_by_count": 116,
+   "title": "The Discovery of a High-Redshift Quasar without Emission Lines from Sloan Digital Sky Survey Commissioning Data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093152317",
+   "year": 1988,
+   "cited_by_count": 108,
+   "title": "On the universality of the two-point galaxy correlation function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004862934",
+   "year": 1993,
+   "cited_by_count": 103,
+   "title": "IRAS galaxies versus POTENT mass - Density fields, biasing, and Omega",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1563243244",
+   "year": 2011,
+   "cited_by_count": 94,
+   "title": "AEGIS: DEMOGRAPHICS OF X-RAY AND OPTICALLY SELECTED ACTIVE GALACTIC NUCLEI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093085693",
+   "year": 2013,
+   "cited_by_count": 90,
+   "title": "PHIBSS: MOLECULAR GAS, EXTINCTION, STAR FORMATION, AND KINEMATICS IN THEz= 1.5 STAR-FORMING GALAXY EGS13011166",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970312383",
+   "year": 1996,
+   "cited_by_count": 88,
+   "title": "The two-point correlation function and morphological segregation in the Optical Redshift Survey",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071516739",
+   "year": 1981,
+   "cited_by_count": 87,
+   "title": "Velocity Dispersions of Elliptical and s0 Galaxies - Part Two - Infall of the Local Group to Virgo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086573197",
+   "year": 2002,
+   "cited_by_count": 86,
+   "title": "Three‐dimensional Identification and Reconstruction of Galaxy Systems within Flux‐limited Redshift Surveys",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995936724",
+   "year": 1992,
+   "cited_by_count": 83,
+   "title": "The end of cold dark matter?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980001035",
+   "year": 1981,
+   "cited_by_count": 80,
+   "title": "Velocity dispersions of elliptical and S0 galaxies. I - Data and mass-to-light ratios. II - Infall of the local group to Virgo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1815960455",
+   "year": 2010,
+   "cited_by_count": 77,
+   "title": "Absence of evidence is not evidence of absence: the colour-density relation at fixed stellar mass persists to z∼ 1★",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071958824",
+   "year": 1997,
+   "cited_by_count": 76,
+   "title": "The Velocity Field from Type Ia Supernovae Matches the Gravity Field from Galaxy Surveys",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969972434",
+   "year": 2006,
+   "cited_by_count": 74,
+   "title": "The DEEP2 Galaxy Redshift Survey: Mean Ages and Metallicities of Red Field Galaxies at z ~ 0.9 from Stacked Keck DEIMOS Spectra",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024939080",
+   "year": 1989,
+   "cited_by_count": 74,
+   "title": "Cosmological velocity correlations - Observations and model predictions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2759444110",
+   "year": 2013,
+   "cited_by_count": 74,
+   "title": "An estimate of Ωm without conventional priors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029114491",
+   "year": 1990,
+   "cited_by_count": 72,
+   "title": "A redshift survey of IRAS galaxies. I - Sample selection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095073373",
+   "year": 1980,
+   "cited_by_count": 72,
+   "title": "Dielectronic recombination rates, ionization equilibrium, and radiative emission rates for calcium and nickel ions in low-density high-temperature plasmas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145750226",
+   "year": 2009,
+   "cited_by_count": 72,
+   "title": "The DEEP2 Galaxy Redshift Survey: environments of post-starburst galaxies at z ∼ 0.1 and ∼0.8",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

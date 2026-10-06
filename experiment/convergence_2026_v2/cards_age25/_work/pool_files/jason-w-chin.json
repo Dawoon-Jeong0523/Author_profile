@@ -1,0 +1,655 @@
+{
+ "person": "Jason W. Chin",
+ "profile": "A5077915220",
+ "ids": [
+  "A5077915220",
+  "A5106035034"
+ ],
+ "options": [
+  "for the expansion of the genetic code to incorporate unnatural amino acids into proteins — Peter G. Schultz, Jason W. Chin"
+ ],
+ "birth_year": 1973,
+ "cutoff_year": 1998,
+ "works": [
+  {
+   "paper_id": "W2087714970",
+   "year": 2010,
+   "cited_by_count": 1923,
+   "title": "Regulation of Cellular Metabolism by Protein Lysine Acetylation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2332024781",
+   "year": 2014,
+   "cited_by_count": 1024,
+   "title": "Cellular Incorporation of Unnatural Amino Acids and Bioorthogonal Labeling of Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060391020",
+   "year": 2003,
+   "cited_by_count": 842,
+   "title": "An Expanded Eukaryotic Genetic Code",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077785805",
+   "year": 2002,
+   "cited_by_count": 743,
+   "title": "Addition of a photocrosslinking amino acid to the genetic code of Escherichia coli",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2763278454",
+   "year": 2017,
+   "cited_by_count": 743,
+   "title": "Expanding and reprogramming the genetic code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970743827",
+   "year": 2002,
+   "cited_by_count": 726,
+   "title": "Addition of p -Azido- l -phenylalanine to the Genetic Code of Escherichia c oli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002336386",
+   "year": 2010,
+   "cited_by_count": 618,
+   "title": "Encoding multiple unnatural amino acids via evolution of a quadruplet-decoding ribosome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052858356",
+   "year": 2008,
+   "cited_by_count": 588,
+   "title": "Genetically encoding Nε-acetyllysine in recombinant proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984981795",
+   "year": 2012,
+   "cited_by_count": 513,
+   "title": "Genetic Encoding of Bicyclononynes and trans-Cyclooctenes for Site-Specific Protein Labeling in Vitro and in Live Mammalian Cells via Rapid Fluorogenic Diels–Alder Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148123458",
+   "year": 2014,
+   "cited_by_count": 507,
+   "title": "Expanding and Reprogramming the Genetic Code of Cells and Animals",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2944969418",
+   "year": 2019,
+   "cited_by_count": 496,
+   "title": "Total synthesis of Escherichia coli with a recoded genome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086473824",
+   "year": 2009,
+   "cited_by_count": 495,
+   "title": "A Method for Genetically Installing Site-Specific Acetylation in Recombinant Histones Defines the Effects of H3 K56 Acetylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069182434",
+   "year": 2012,
+   "cited_by_count": 472,
+   "title": "Genetically encoded norbornene directs site-specific cellular protein labelling via a rapid bioorthogonal reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026089250",
+   "year": 2003,
+   "cited_by_count": 381,
+   "title": "Adding Amino Acids with Novel Reactivity to the Genetic Code of Saccharomyces Cerevisiae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062660287",
+   "year": 2012,
+   "cited_by_count": 346,
+   "title": "Designer proteins: applications of genetic code expansion in cell biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067826785",
+   "year": 2009,
+   "cited_by_count": 313,
+   "title": "Genetic Encoding and Labeling of Aliphatic Azides and Alkynes in Recombinant Proteins via a Pyrrolysyl-tRNA Synthetase/tRNA CUA Pair and Click Chemistry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963724731",
+   "year": 2005,
+   "cited_by_count": 308,
+   "title": "A network of orthogonal ribosome·mRNA pairs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100631905",
+   "year": 2007,
+   "cited_by_count": 308,
+   "title": "Evolved orthogonal ribosomes enhance the efficiency of synthetic genetic code expansion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170915201",
+   "year": 2014,
+   "cited_by_count": 298,
+   "title": "Host Cofactors and Pharmacologic Ligands Share an Essential Interface in HIV-1 Capsid That Is Lost upon Disassembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099464495",
+   "year": 2010,
+   "cited_by_count": 294,
+   "title": "Engineered diubiquitin synthesis reveals Lys29-isopeptide specificity of an OTU deubiquitinase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978880815",
+   "year": 2006,
+   "cited_by_count": 279,
+   "title": "A genetically encoded fluorescent amino acid",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965347340",
+   "year": 2014,
+   "cited_by_count": 269,
+   "title": "Efficient Multisite Unnatural Amino Acid Incorporation in Mammalian Cells via Optimized Pyrrolysyl tRNA Synthetase/tRNA Expression and Engineered eRF1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003527687",
+   "year": 2012,
+   "cited_by_count": 268,
+   "title": "CPSF6 Defines a Conserved Capsid Interface that Modulates HIV-1 Replication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019670700",
+   "year": 2010,
+   "cited_by_count": 268,
+   "title": "Genetically Encoded Photocontrol of Protein Localization in Mammalian Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059253719",
+   "year": 2014,
+   "cited_by_count": 267,
+   "title": "Optimized orthogonal translation of unnatural amino acids enables spontaneous protein double-labelling and FRET",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149148789",
+   "year": 2014,
+   "cited_by_count": 266,
+   "title": "Conformationally strained trans-cyclooctene with improved stability and excellent reactivity in tetrazine ligation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080578479",
+   "year": 2012,
+   "cited_by_count": 249,
+   "title": "DAXX envelops a histone H3.3–H4 dimer for H3.3-specific recognition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080064417",
+   "year": 2011,
+   "cited_by_count": 246,
+   "title": "Expanding the Genetic Code of an Animal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3111662732",
+   "year": 2020,
+   "cited_by_count": 242,
+   "title": "Reprogramming the genetic code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1607154936",
+   "year": 2015,
+   "cited_by_count": 233,
+   "title": "Efficient genetic encoding of phosphoserine and its nonhydrolyzable analog",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061093994",
+   "year": 2004,
+   "cited_by_count": 227,
+   "title": "Substrate recognition by the AAA+ chaperone ClpB",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028119145",
+   "year": 2010,
+   "cited_by_count": 219,
+   "title": "Expanding the Genetic Code of Yeast for Incorporation of Diverse Unnatural Amino Acids via a Pyrrolysyl-tRNA Synthetase/tRNA Pair",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043249509",
+   "year": 2012,
+   "cited_by_count": 195,
+   "title": "Expanding the genetic code of Drosophila melanogaster",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2803722031",
+   "year": 2018,
+   "cited_by_count": 193,
+   "title": "Mutually orthogonal pyrrolysyl-tRNA synthetase/tRNA pairs",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992502609",
+   "year": 2014,
+   "cited_by_count": 184,
+   "title": "Proteome labeling and protein identification in specific tissues and at specific developmental stages in an animal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034512806",
+   "year": 2015,
+   "cited_by_count": 182,
+   "title": "Genetic Code Expansion Enables Live-Cell and Super-Resolution Imaging of Site-Specifically Labeled Cellular Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061252639",
+   "year": 2011,
+   "cited_by_count": 179,
+   "title": "Traceless and Site-Specific Ubiquitination of Recombinant Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3165839825",
+   "year": 2021,
+   "cited_by_count": 175,
+   "title": "Sense codon reassignment enables viral resistance and encoded polymer synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2231352968",
+   "year": 2016,
+   "cited_by_count": 169,
+   "title": "Genetic code expansion in stable cell lines enables encoded chromatin modification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064358553",
+   "year": 2014,
+   "cited_by_count": 167,
+   "title": "Genetic Encoding of Photocaged Cysteine Allows Photoactivation of TEV Protease in Live Mammalian Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2333958926",
+   "year": 2012,
+   "cited_by_count": 167,
+   "title": "Photocontrol of Tyrosine Phosphorylation in Mammalian Cells via Genetic Encoding of Photocaged Tyrosine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2533711759",
+   "year": 2016,
+   "cited_by_count": 167,
+   "title": "Defining synonymous codon compression schemes by genome recoding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001366878",
+   "year": 2005,
+   "cited_by_count": 165,
+   "title": "Photo-cross-linking interacting proteins with a genetically encoded benzophenone",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2312277739",
+   "year": 2014,
+   "cited_by_count": 165,
+   "title": "Genetically Encoded Optochemical Probes for Simultaneous Fluorescence Reporting and Light Activation of Protein Function with Two-Photon Excitation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054355523",
+   "year": 2011,
+   "cited_by_count": 163,
+   "title": "Light-Activated Kinases Enable Temporal Dissection of Signaling Networks in Living Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2616377434",
+   "year": 2009,
+   "cited_by_count": 163,
+   "title": "Genetically Encoding Nϵ-Methyl- l -lysine in Recombinant Histones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968780370",
+   "year": 2011,
+   "cited_by_count": 162,
+   "title": "Genetically Encoded 1,2-Aminothiols Facilitate Rapid and Site-Specific Protein Labeling via a Bio-orthogonal Cyanobenzothiazole Condensation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1906256670",
+   "year": 2015,
+   "cited_by_count": 155,
+   "title": "Selective, rapid and optically switchable regulation of protein function in live mammalian cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2617704854",
+   "year": 2017,
+   "cited_by_count": 154,
+   "title": "Biosynthesis and genetic encoding of phosphothreonine through parallel selection and deep sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158412952",
+   "year": 2002,
+   "cited_by_count": 151,
+   "title": "In Vivo Photocrosslinking with Unnatural Amino Acid Mutagenesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143878771",
+   "year": 2011,
+   "cited_by_count": 147,
+   "title": "An ankyrin-repeat ubiquitin-binding domain determines TRABID's specificity for atypical ubiquitin chains",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2335208324",
+   "year": 2014,
+   "cited_by_count": 147,
+   "title": "Concerted, Rapid, Quantitative, and Site-Specific Dual Labeling of Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072313716",
+   "year": 2011,
+   "cited_by_count": 144,
+   "title": "Molecular basis for ubiquitin and ISG15 cross-reactivity in viral ovarian tumor domains",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2783185708",
+   "year": 2018,
+   "cited_by_count": 142,
+   "title": "Toward an orthogonal central dogma",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148471367",
+   "year": 2009,
+   "cited_by_count": 134,
+   "title": "Synthesis of orthogonal transcription-translation networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3032151504",
+   "year": 2020,
+   "cited_by_count": 134,
+   "title": "Engineered triply orthogonal pyrrolysyl–tRNA synthetase/tRNA pairs enable the genetic encoding of three distinct non-canonical amino acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2509607702",
+   "year": 2016,
+   "cited_by_count": 131,
+   "title": "Genetic code expansion in the mouse brain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2905279928",
+   "year": 2018,
+   "cited_by_count": 130,
+   "title": "Trapping biosynthetic acyl-enzyme intermediates with encoded 2,3-diaminopropionic acid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975952514",
+   "year": 2008,
+   "cited_by_count": 122,
+   "title": "Genetically Encoding Protein Oxidative Damage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061232132",
+   "year": 2014,
+   "cited_by_count": 118,
+   "title": "Strain-promoted sydnone bicyclo-[6.1.0]-nonyne cycloaddition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054015330",
+   "year": 2010,
+   "cited_by_count": 116,
+   "title": "Acetylation regulates Cyclophilin A catalysis, immunosuppression and HIV isomerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3009584281",
+   "year": 2020,
+   "cited_by_count": 114,
+   "title": "Alcohol-derived DNA crosslinks are repaired by two distinct mechanisms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3015450180",
+   "year": 2020,
+   "cited_by_count": 112,
+   "title": "Rapid discovery and evolution of orthogonal aminoacyl-tRNA synthetase–tRNA pairs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095447949",
+   "year": 2001,
+   "cited_by_count": 106,
+   "title": "Design and Evolution of a Miniature Bcl-2 Binding Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2902321532",
+   "year": 2018,
+   "cited_by_count": 105,
+   "title": "Controlling orthogonal ribosome subunit interactions enables evolution of new function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2791241064",
+   "year": 2018,
+   "cited_by_count": 102,
+   "title": "Rapid and Efficient Generation of Stable Antibody–Drug Conjugates via an Encoded Cyclopropene and an Inverse‐Electron‐Demand Diels–Alder Reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089502862",
+   "year": 2011,
+   "cited_by_count": 99,
+   "title": "Acetylation of lysine 120 of p53 endows DNA-binding specificity at effective physiological salt concentration",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139106508",
+   "year": 2010,
+   "cited_by_count": 97,
+   "title": "Genetically encoding an aliphatic diazirine for protein photocrosslinking",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2331486389",
+   "year": 2013,
+   "cited_by_count": 97,
+   "title": "Genetically Encoded Light-Activated Transcription for Spatiotemporal Control of Gene Expression and Gene Silencing in Mammalian Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108484316",
+   "year": 2011,
+   "cited_by_count": 95,
+   "title": "A dual role of H4K16 acetylation in the establishment of yeast silent chromatin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976230851",
+   "year": 2003,
+   "cited_by_count": 93,
+   "title": "Progress Toward an Expanded Eukaryotic Genetic Code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036284784",
+   "year": 2012,
+   "cited_by_count": 92,
+   "title": "Reprogramming the Genetic Code: From Triplet to Quadruplet Codes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025994431",
+   "year": 2010,
+   "cited_by_count": 91,
+   "title": "De Novo Generation of Mutually Orthogonal Aminoacyl-tRNA Synthetase/tRNA Pairs",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029174147",
+   "year": 2001,
+   "cited_by_count": 90,
+   "title": "Concerted Evolution of Structure and Function in a Miniature Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092889971",
+   "year": 2005,
+   "cited_by_count": 88,
+   "title": "Cellular Logic with Orthogonal Ribosomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061503328",
+   "year": 2010,
+   "cited_by_count": 87,
+   "title": "Genetically Directing ɛ-N, N-Dimethyl-l-Lysine in Recombinant Histones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2777700910",
+   "year": 2017,
+   "cited_by_count": 85,
+   "title": "Labeling and identifying cell-specific proteomes in the mouse brain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2802635892",
+   "year": 2018,
+   "cited_by_count": 85,
+   "title": "Intracellular antibody signalling is regulated by phosphorylation of the Fc receptor TRIM21",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3208676851",
+   "year": 2021,
+   "cited_by_count": 84,
+   "title": "Cryo-EM structure of MukBEF reveals DNA loop entrapment at chromosomal unloading sites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988884282",
+   "year": 2013,
+   "cited_by_count": 81,
+   "title": "Efficient and Rapid C. elegans Transgenesis by Bombardment and Hygromycin B Selection",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}
