@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-06T16:18:00.841618</dc:date>
+    <dc:date>2026-10-06T16:38:27.625789</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,7 +42,7 @@ z
      <g id="line2d_1">
       <path d="M 519.12 561.6 
 L 519.12 136.8 
-" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#pb3179ee416)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_2"/>
      <g id="text_1">
@@ -53,7 +53,7 @@ L 519.12 136.8
      <g id="line2d_3">
       <path d="M 600.768 561.6 
 L 600.768 136.8 
-" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#pb3179ee416)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_4"/>
      <g id="text_2">
@@ -64,7 +64,7 @@ L 600.768 136.8
      <g id="line2d_5">
       <path d="M 682.416 561.6 
 L 682.416 136.8 
-" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#pb3179ee416)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_6"/>
      <g id="text_3">
@@ -75,7 +75,7 @@ L 682.416 136.8
      <g id="line2d_7">
       <path d="M 764.064 561.6 
 L 764.064 136.8 
-" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#pb3179ee416)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_8"/>
      <g id="text_4">
@@ -86,7 +86,7 @@ L 764.064 136.8
      <g id="line2d_9">
       <path d="M 845.712 561.6 
 L 845.712 136.8 
-" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#pb3179ee416)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_10"/>
      <g id="text_5">
@@ -97,7 +97,7 @@ L 845.712 136.8
      <g id="line2d_11">
       <path d="M 927.36 561.6 
 L 927.36 136.8 
-" clip-path="url(#p367af63dd8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#pb3179ee416)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_12"/>
      <g id="text_6">
@@ -112,7 +112,7 @@ L 874.2888 162.465
 L 874.2888 187.835 
 L 519.12 187.835 
 z
-" clip-path="url(#p367af63dd8)" style="fill: #087f74"/>
+" clip-path="url(#pb3179ee416)" style="fill: #087f74"/>
    </g>
    <g id="text_7">
     <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="65.9736" y="172.347031" transform="rotate(-0 65.9736 172.347031)">01  Bloch · Cirac · Zoller</text>
@@ -129,7 +129,7 @@ L 772.2288 221.465
 L 772.2288 246.835 
 L 519.12 246.835 
 z
-" clip-path="url(#p367af63dd8)" style="fill: #8aa4b4"/>
+" clip-path="url(#pb3179ee416)" style="fill: #8aa4b4"/>
    </g>
    <g id="text_10">
     <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="231.347031" transform="rotate(-0 65.9736 231.347031)">02  Preskill · Shor · Kitaev</text>
@@ -146,7 +146,7 @@ L 735.4872 280.465
 L 735.4872 305.835 
 L 519.12 305.835 
 z
-" clip-path="url(#p367af63dd8)" style="fill: #8aa4b4"/>
+" clip-path="url(#pb3179ee416)" style="fill: #8aa4b4"/>
    </g>
    <g id="text_13">
     <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="290.347031" transform="rotate(-0 65.9736 290.347031)">03  Mele · Kane · Molenkamp</text>
@@ -163,7 +163,7 @@ L 731.4048 339.465
 L 731.4048 364.835 
 L 519.12 364.835 
 z
-" clip-path="url(#p367af63dd8)" style="fill: #8aa4b4"/>
+" clip-path="url(#pb3179ee416)" style="fill: #8aa4b4"/>
    </g>
    <g id="text_16">
     <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="349.347031" transform="rotate(-0 65.9736 349.347031)">04  Adachi · Thompson · Forrest</text>
@@ -180,7 +180,7 @@ L 727.3224 398.465
 L 727.3224 423.835 
 L 519.12 423.835 
 z
-" clip-path="url(#p367af63dd8)" style="fill: #8aa4b4"/>
+" clip-path="url(#pb3179ee416)" style="fill: #8aa4b4"/>
    </g>
    <g id="text_19">
     <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="408.347031" transform="rotate(-0 65.9736 408.347031)">05  Efstathiou · Bond</text>
@@ -200,7 +200,7 @@ L 662.004 516.465
 L 662.004 541.835 
 L 519.12 541.835 
 z
-" clip-path="url(#p367af63dd8)" style="fill: #c2410c"/>
+" clip-path="url(#pb3179ee416)" style="fill: #c2410c"/>
    </g>
    <g id="text_23">
     <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c2410c" x="65.9736" y="526.347031" transform="rotate(-0 65.9736 526.347031)">14  Halzen · Karle · Kurahashi Neilson</text>
@@ -230,7 +230,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p367af63dd8">
+  <clipPath id="pb3179ee416">
    <rect x="519.12" y="136.8" width="408.24" height="424.8"/>
   </clipPath>
  </defs>

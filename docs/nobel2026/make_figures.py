@@ -3,7 +3,9 @@
 
     $PY docs/nobel2026/make_figures.py      # -> docs/nobel2026/{medicine,physics}_2026_top5_vs_award.{png,svg}
 
-Data: Data/Result/nobel_{medicine,physics}_2026_probabilities.csv (the final Preseen forecasts, 30 outcomes each). The
+Data: Data/Result/nobel_medicine_2026_cards_main_evidence.csv (the 2 October run with the profile cards as the main
+evidence, 12 discoveries + Other, as on the public dashboard) and Data/Result/nobel_physics_2026_probabilities.csv (the
+5 October final forecast, 30 discoveries). The
 layout follows Data/Result/Figure_Nobel.ipynb (same header, colours and row geometry); added here: the awarded
 discovery is drawn in a second accent colour and, when it is outside the top 5, shown below a gap with its rank.
 """
@@ -24,17 +26,17 @@ TOP_N = 5
 
 FIELDS = {
     "medicine": {
-        "csv": "nobel_medicine_2026_probabilities.csv",
+        "csv": "nobel_medicine_2026_cards_main_evidence.csv",
         "title": "2026 Nobel Prize in Physiology or Medicine",
-        "subtitle": "Forecast top 5 of 30 laureate-set outcomes, and the awarded discovery",
-        "awarded": [6],                       # best-ranked outcome of the awarded discovery (optogenetics)
+        "subtitle": "Profile cards as the main evidence: top 5 of 12 named discoveries (Other 40.0 %)",
+        "awarded": [1],                       # optogenetics
         "award_tag": "awarded discovery",
-        "xmax": 30,
+        "xmax": 10,
         "notes": ["Awarded 5 Oct 2026: Karl Deisseroth, Peter Hegemann and Georg Nagel, for light-gated ion channels and "
-                  "optogenetics. The exact trio was not among the 30 outcomes; the three optogenetics lineups "
-                  "(ranks 6, 7, 23) hold 8.6 % together.",
-                  "Forecast: Preseen treatment forecast of 4 Oct 2026 (Treatment Final), conditional on one of the 30 "
-                  "listed outcomes."],
+                  "optogenetics (the option named Miesenböck instead of Nagel; options are matched by discovery). "
+                  "\"Other\" (a discovery not listed) received 40.0 %.",
+                  "Forecast: Preseen, 2 Oct 2026, 12 discoveries + Other, profile cards as the main evidence (arm 4), "
+                  "the run shown on the public dashboard."],
     },
     "physics": {
         "csv": "nobel_physics_2026_probabilities.csv",
@@ -52,7 +54,8 @@ FIELDS = {
 
 
 def draw(key, cfg):
-    df = pd.read_csv(DATA / cfg["csv"], encoding="utf-8-sig").sort_values("rank")
+    df = pd.read_csv(DATA / cfg["csv"], encoding="utf-8-sig").dropna(subset=["rank"]).sort_values("rank")
+    df["rank"] = df["rank"].astype(int)                  # "Other" (no rank) is stated in the subtitle
     top = df.head(TOP_N)
     extra = df[df["rank"].isin(cfg["awarded"]) & (df["rank"] > TOP_N)]
     rows = list(top.itertuples()) + ([None] if len(extra) else []) + list(extra.itertuples())

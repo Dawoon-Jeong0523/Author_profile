@@ -23,8 +23,9 @@ probabilities with and without those cards. This README shows the forecasts for 
 ## 2026 results
 
 Probabilities are conditional on the prize going to one of the listed options (the 30-option questions have no
-"Other"); an option is matched by its discovery, so the named people need not be the laureates, except in the Medicine
-question of 4 October, whose outcomes are exact laureate sets. Forecast data: [`Data/Result/`](Data/Result/); figures:
+"Other"); options are matched by their discovery, so the named people need not be the laureates. The Medicine results
+are those of the public dashboard (https://dawoon-jeong0523.github.io/Author_profile/): four arms of one question,
+1–2 October. Forecast data: [`Data/Result/`](Data/Result/); figures:
 [`docs/nobel2026/make_figures.py`](docs/nobel2026/make_figures.py).
 
 ### Physiology or Medicine (awarded 5 October)
@@ -34,33 +35,38 @@ question of 4 October, whose outcomes are exact laureate sets. Forecast data: [`
 **Award:** Karl Deisseroth, Peter Hegemann and Georg Nagel, "for their discoveries concerning light-gated ion channels
 and optogenetics".
 
-- **Final forecast** (Preseen, 4 October; 30 laureate sets): GLP-1 led with 24.7 %. Optogenetics appeared as three
-  lineups — Deisseroth · Hegemann · Miesenböck (6th, 4.1 %), Deisseroth · Hegemann · Boyden (7th, 3.6 %), Hegemann ·
-  Bamberg · Deisseroth (23rd, 0.9 %) — 8.6 % together; the awarded trio with Nagel was not among the 30 outcomes. In the
-  virtual committee only one of the optogenetics nominations (7 % of the option's points) named exactly Deisseroth,
-  Hegemann and Nagel.
-- **Context conditions** (1–2 October; the same question of 12 discoveries + "Other"):
+**Forecast shown** (arm 4 of the dashboard, profile cards as the main evidence, 2 October): optogenetics was the first
+of the 12 named discoveries with 7.9 % ("Other" 40.0 %), ahead of Wnt signalling and organoids (7.7 %), the breast- and
+ovarian-cancer susceptibility genes (6.4 %), leptin (6.2 %) and PCSK9 (5.7 %); the control favourite GLP-1 fell to
+3.0 %. The option named Miesenböck where the prize went to Nagel; matched by discovery, it is the awarded option (in the
+virtual committee only one optogenetics nomination named exactly Deisseroth, Hegemann and Nagel).
 
-  | Condition | Runs | Optogenetics | Rank among 12 | Leading option | "Other" |
-  |---|---:|---:|---:|---|---:|
-  | No context (control) | 5 | 5.5 % | 6 | GLP-1, 20.3 % | 31 % |
-  | Profile cards as context | 3 | 6.8 % | 3 | GLP-1, 19.6 % | 30 % |
-  | Cards as one of the main sources | 1 | 7.4 % | 4 | orexin, 11.7 % | 34 % |
-  | **Cards as the main evidence** | 1 | **7.9 %** | **1** | **optogenetics**, 7.9 % | 40 % |
+**The four arms** (the same question; numbers as on the dashboard):
 
-  The more weight the forecaster gave to the profile cards, the higher the awarded discovery ranked: first under the
-  main-evidence instruction, sixth without context, where the award favourite GLP-1 led.
+| Arm | Runs | Optogenetics | Rank among 12 | Leading option | GLP-1 | "Other" | Distance from the control mean | Rank correlation with the control |
+|---|---:|---:|---:|---|---:|---:|---:|---:|
+| 1 Control | 5 | 5.5 % | 6 | GLP-1, 20.3 % | 20.3 % | 31.0 % | 1.0× | – |
+| 2 Cards as context | 3 | 6.8 % | 3 | GLP-1, 19.6 % | 19.6 % | 30.4 % | 0.9× | 0.93 |
+| 3 Cards as one main source | 1 | 7.4 % | 4 | orexin, 11.7 % | 11.0 % | 34.0 % | 2.8× | 0.81 |
+| **4 Cards as the main evidence** | 1 | **7.9 %** | **1** | **optogenetics**, 7.9 % | 3.0 % | 40.0 % | 6.2× | −0.03 |
 
-**How each Medicine forecast was set up** (each condition is its own Preseen question with an identical definition;
-notes are context the forecaster receives before it runs):
+Distance: how far a run lands from the mean of the control runs, in units of a control run's own distance from the mean
+of the other control runs (0.75 percentage points per option in Medicine). The more weight the forecaster was told to
+give the cards, the higher the awarded discovery ranked — sixth without them, first as the main evidence — while the
+award favourite GLP-1 fell from 20.3 % to 3.0 % and "Other" grew from 31 % to 40 %.
 
-| Forecast | Question | Context given to the forecaster | What changed from the row above |
-|---|---|---|---|
-| No context (control), 1–2 Oct | 12 committee discoveries + "Other", each naming up to 3 people; resolved by the discovery in the official motivation | none | baseline |
-| Cards as context, 1 Oct | same | a definitions note + 30 profile cards, one per named person (treatment `consider`); no instruction | the cards are added, nothing says how to use them |
-| Cards as one of the main sources, 2 Oct | same | the same cards + an instruction note (`assume_true`): the profiles are one of the main sources, with weight comparable to the other evidence; use prizes, news, published predictions, the history of the prize and knowledge of the field actively; take the figures as given | the forecaster is told to weigh the cards as much as its other evidence ([note](experiment/preseen_cards_balanced/instruction/00_instruction.md)) |
-| Cards as the main evidence (arm 4), 2 Oct, 09:04–09:31 CDT | same | an instruction note (`assume_true`): the profiles are the main evidence for comparing the named options; judge "Other" as usual and use the profiles mainly to divide the remaining probability among the named options; base the relative probabilities primarily on the measures and reference lines; take the figures as given; other information (prizes, news, predictions, history) only as a secondary adjustment; name the profile evidence behind each leading option. Plus the definitions note and the 30 cards (`consider`) | the cards become the basis of the ranking ([note](experiment/preseen_cards_main/instruction/00_instruction.md)); result: "Other" 40 %, optogenetics 7.9 % (first named option), GLP-1 3.0 % |
-| Final forecast, 4 Oct ("Treatment Final", the figure above) | a different question: 30 exact laureate sets with their discovery (GLP-1 named as Drucker · Holst · Mojsov), no "Other"; also a version with "Other" (48.1 %) | not recorded in this repository | not the arm-4 run of 2 October, whose GLP-1 option named Mojsov · Holst · Knudsen |
+**How the arms were set up.** One question, *Which discovery will the 2026 Nobel Prize in Physiology or Medicine be
+awarded for?*: the twelve discoveries of the virtual committee (6 specialist personas of the Medicine committee, each run
+on Claude, GPT and Gemini; Borda count and merge review), each with up to three living people, and "Other"; it resolves
+on the discovery in the official motivation, whoever shares the prize. Each arm is a private copy of the question with
+identical wording, because context notes attach to a question:
+
+| Arm | Context given to the forecaster | What changed from the arm above |
+|---|---|---|
+| 1 Control (4 runs on 1 Oct, 1 on 2 Oct) | the question only | baseline |
+| 2 Cards as context (3 runs, 1 Oct) | a definitions note and 30 profile cards, one per named person (impact, defining papers, patents, textbooks, collaboration, each compared with the 2000–2025 laureates at the time of their prize), as notes to consider; no instruction | the cards are added; nothing says how to use them |
+| 3 Cards as one main source (1 run, 2 Oct) | the same cards + an instruction to assume ([note](experiment/preseen_cards_balanced/instruction/00_instruction.md)): the profiles are one of the main sources, weighed comparably with prizes, news, published predictions, the history of the prize and knowledge of the field, which it should use actively; take the figures as given | the cards get weight comparable to the other evidence |
+| 4 Cards as the main evidence (1 run, 2 Oct, 09:04–09:31 CDT) | the same cards + an instruction to assume ([note](experiment/preseen_cards_main/instruction/00_instruction.md)): the profiles are the main evidence for comparing the named options; judge "Other" as usual and use the profiles mainly to divide the remaining probability among the named options; base the relative probabilities primarily on the measures and reference lines; take the figures as given; prizes, news, predictions and history only as a secondary adjustment; name the profile evidence behind each leading option | the cards become the basis of the ranking |
 
 ### Physics (awarded 6 October)
 
@@ -129,8 +135,8 @@ The scores against the award will be added here after the announcement.
   percentile of laureates, was treated as minor). The chemistry cards now list the patents tied to each discovery.
 - **Name the people the evidence supports, not three by default.** Physics went to one person; the committee had said
   so in half of its nominations.
-- **No final forecast had the award as favourite.** The awarded discoveries were 6th (Medicine, 30 laureate sets) and
-  14th (Physics, 30 discoveries) in the final forecasts.
+- **Where the awarded discoveries stood.** Medicine's optogenetics was the first named option when the cards were the
+  main evidence, but sixth without them; Physics' neutrino astronomy ranked 9th to 14th under every condition.
 
 ## How the forecasts are made
 
@@ -172,7 +178,7 @@ flowchart LR
 | [`experiment/convergence_2026_v2/`](experiment/convergence_2026_v2/README.md) | 6 Oct | v2 lineup rule, medicine list, v1/v2 comparison, cards for every list, age-25 chemistry cards |
 | [`experiment/preseen_generated30/`](experiment/preseen_generated30/README.md) | 6 Oct | 30 chemistry options generated by Preseen |
 | `experiment/preseen_chem30_main/` | 6 Oct | chemistry: main evidence on three lists, control on v2 ([LOG](experiment/preseen_chem30_main/LOG.md)) |
-| [`Data/Result/`](Data/Result/) | 4–5 Oct | final medicine and physics forecasts (CSV) and the figure notebook |
+| [`Data/Result/`](Data/Result/) | 2–5 Oct | forecast tables behind the figures (Medicine: arm 4 of 2 October; Physics: 5 October) and the figure notebook |
 | [`handoff/`](handoff/README.md) | 3 Oct | context and forecasts of the four conditions, kept apart, for Preseen |
 
 ## The data engine: research profiles of scientists
