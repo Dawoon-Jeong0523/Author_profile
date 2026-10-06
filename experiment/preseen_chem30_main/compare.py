@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""compare.py: the Chemistry forecasts of 6 October side by side (v1, v2, Preseen's own list; on v2 also control, main2,
-main3 and the demographic arm).
+"""compare.py: the Chemistry forecasts of 6 October side by side.
 
-    python3 compare.py            # results/compare.csv, results/compare.md, results/tldr_<list>.md
+    python3 compare.py            # results/compare.{csv,md}, results/write_up_<run>.md: the published runs
+                                  # results/all_runs/: every run (v1, v2, Preseen's list, main2 too), not pushed
+
+Published: the treatment (arm main3, the main result), the demographic arm and the control, all on the v2 list.
 
 v1 and v2 have the same 30 discoveries (only the named people differ) and are matched by the discovery text. Preseen's
 list words its discoveries differently; PRESEEN_TO_V1 matches 17 of its options to a v1 discovery by hand (two Preseen
@@ -17,6 +19,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 OUT = HERE / "results"
 LISTS = ["v1", "v2", "preseen", "v2_control", "v2_main2", "v2_main3", "v2_demo"]
+PUBLISHED = ["v2_main3", "v2_demo", "v2_control"]
 # Preseen option number -> v1 option number (same discovery), checked by hand 2026-10-06
 PRESEEN_TO_V1 = {1: 1, 2: 3, 3: 9, 4: 5, 5: 11, 6: 23, 7: 2, 11: 28, 12: 12, 14: 4, 16: 27, 17: 29, 18: 17, 21: 15,
                  24: 7, 28: 6, 30: 4}
@@ -120,7 +123,9 @@ def main():
     key = "v2_p" if R["v2"] else "v1_p"
     rows.sort(key=lambda r: -(r.get(key) if r.get(key) is not None else -1 + r.get("pre_p", 0)))
     cols = ["discovery", "v1_n", "v1_people", "v1_p", "v2_people", "v2_p", "v2m2_p", "v2m3_p", "v2demo_p", "v2ctl_p", "pre_n", "pre_people", "pre_p"]
-    with open(OUT / "compare.csv", "w", newline="", encoding="utf-8") as fh:
+    ALL = OUT / "all_runs"
+    ALL.mkdir(exist_ok=True)
+    with open(ALL / "compare_all.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=cols)
         w.writeheader()
         w.writerows([{c: r.get(c, "") for c in cols} for r in rows])
@@ -200,11 +205,59 @@ def main():
                   f"{f(r.get('pre_p'))} | {prp} |")
     md += ["", "Preseen-list rows that sum two of its options (polymer delivery and controlled release) name both "
                "lineups, separated by /."]
-    (OUT / "compare.md").write_text("\n".join(md) + "\n", encoding="utf-8")
+    (ALL / "compare_all.md").write_text("\n".join(md) + "\n", encoding="utf-8")
     for l in done:
-        (OUT / f"write_up_{l}.md").write_text(R[l]["write_up"], encoding="utf-8")
-    print("\n".join(md[9:17]))
+        (OUT / f"write_up_{l}.md" if l in PUBLISHED else ALL / f"write_up_{l}.md").write_text(R[l]["write_up"], encoding="utf-8")
+    if all(R[l] for l in PUBLISHED):
+        publish(R, rows)
     print(f"lists done: {done}")
+
+
+def publish(R, rows):
+    """results/compare.md and compare.csv: the treatment (arm main3, the main result), the demographic arm, the control."""
+    rows = sorted([r for r in rows if r.get("v2m3_p") is not None], key=lambda r: -r["v2m3_p"])
+    cols = [("v2m3_p", "Treatment"), ("v2demo_p", "Demographic"), ("v2ctl_p", "Control")]
+    links = {"v2_main3": "https://preseen.com/q/urrByOH0UlbPnAcF-Kk7YA",       # public Preseen pages given by the user
+             "v2_demo": "https://preseen.com/q/IRgKh66nV-BgnQslZ6oM0A",
+             "v2_control": "https://preseen.com/q/tV5NqBF_m70rlHecLi8aVg"}
+    with open(OUT / "compare.csv", "w", newline="", encoding="utf-8") as fh:
+        w = csv.writer(fh)
+        w.writerow(["rank_treatment", "discovery", "people", "treatment", "demographic", "control"])
+        for k, r in enumerate(rows, 1):
+            w.writerow([k, r["discovery"], r["v2_people"]] + [round(r[c], 6) for c, _ in cols])
+    m3, dm, ct = ([r[c] for r in rows] for c, _ in cols)
+    md = ["# Chemistry 2026: the treatment and its comparison forecasts", "",
+          "Three Preseen runs, one each, on 6 October 2026, on the same question: 30 discoveries (the v2 list), each with "
+          "the living people it names, no \"Other\". **The treatment is the main result** (profile cards with the patents "
+          "tied to each discovery as the main evidence; arm `main3` in the run files); the demographic forecast adds the "
+          "demographics of past laureates to the treatment's notes, the control has no notes at all. Prompts and cards: "
+          "[README](../../../README.md#chemistry-announced-7-october). Probabilities in %; differences of about one "
+          "point are within the run-to-run spread.", "",
+          "## The runs", "",
+          "| Forecast | Notes given to the forecaster | Time (UTC) | Top 3 (discovery — named people, probability) | Max | Entropy (bits; uniform 4.91) | Preseen |",
+          "|---|---|---|---|---:|---:|---|"]
+    notes = {"v2_main3": "profile cards with the patents tied to the discovery as the main evidence, every card measure "
+                         "important; Chemistry timing base rate; Medicine and Physics 2026 outcomes",
+             "v2_demo": "the treatment's notes + the demographics of the 2000–2025 Chemistry laureates and the 2026 laureates, "
+                        "with a demographic factor of 0.5–2 per option",
+             "v2_control": "none"}
+    for l, (_, name) in zip(PUBLISHED, cols):
+        p, opts = R[l]["p"], R[l]["options"]
+        top = sorted(range(30), key=lambda i: -p[i])[:3]
+        md.append(f"| {'**' + name + '**' if l == 'v2_main3' else name} | {notes[l]} | "
+                  f"{R[l]['started'][11:16]}–{R[l]['finished'][11:16]} | "
+                  + "<br>".join(f"{short(disc(opts[i]))} — {people(opts[i])}, **{100 * p[i]:.1f}**" for i in top)
+                  + f" | {100 * max(p):.1f} | {entropy(p):.2f} | [result]({links[l]}) |")
+    md += ["", "## Agreement with the treatment", "",
+           f"- control vs treatment: Spearman {spearman(ct, m3):.2f}, mean |difference| {100 * sum(abs(a - b) for a, b in zip(ct, m3)) / 30:.2f} points per option",
+           f"- demographic vs treatment: Spearman {spearman(dm, m3):.2f}, mean |difference| {100 * sum(abs(a - b) for a, b in zip(dm, m3)) / 30:.2f} points per option",
+           "", "## All 30 options", "", "Sorted by the treatment.", "",
+           "| # | Discovery | Named people | Treatment | Demographic | Control |", "|---:|---|---|---:|---:|---:|"]
+    for k, r in enumerate(rows, 1):
+        md.append(f"| {k} | {r['discovery'].removeprefix('for ')} | {r['v2_people']} | **{100 * r['v2m3_p']:.1f}** | "
+                  f"{100 * r['v2demo_p']:.1f} | {100 * r['v2ctl_p']:.1f} |")
+    (OUT / "compare.md").write_text("\n".join(md) + "\n", encoding="utf-8")
+    print("\n".join(md[9:15]))
 
 
 if __name__ == "__main__":
