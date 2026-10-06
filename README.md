@@ -38,7 +38,7 @@ are those of the public dashboard (https://dawoon-jeong0523.github.io/Author_pro
 and optogenetics".
 
 **Treatment** (profile cards as the main evidence, 2 October; arm 4 of the
-[public dashboard](https://dawoon-jeong0523.github.io/Author_profile/)): optogenetics was the first of the 12 named
+[public dashboard](https://dawoon-jeong0523.github.io/Author_profile/); [Preseen report](Data/Result/Medicine/Treatment.pdf)): optogenetics was the first of the 12 named
 discoveries with 7.9 % ("Other" 40.0 %), ahead of Wnt signalling and organoids (7.7 %), the breast- and
 ovarian-cancer susceptibility genes (6.4 %), leptin (6.2 %) and PCSK9 (5.7 %); the control favourite GLP-1 fell to
 3.0 %. The option named Miesenböck where the prize went to Nagel; matched by discovery, it is the awarded option (in the
@@ -46,12 +46,12 @@ virtual committee only one optogenetics nomination named exactly Deisseroth, Heg
 
 **All Medicine forecasts** (the same question; numbers as on the dashboard):
 
-| Forecast | Runs | Optogenetics | Rank among 12 | Leading option | GLP-1 | "Other" | Distance from the control mean | Rank correlation with the control |
-|---|---:|---:|---:|---|---:|---:|---:|---:|
-| Control | 5 | 5.5 % | 6 | GLP-1, 20.3 % | 20.3 % | 31.0 % | 1.0× | – |
-| Cards as context | 3 | 6.8 % | 3 | GLP-1, 19.6 % | 19.6 % | 30.4 % | 0.9× | 0.93 |
-| Cards as one main source | 1 | 7.4 % | 4 | orexin, 11.7 % | 11.0 % | 34.0 % | 2.8× | 0.81 |
-| **Treatment: cards as the main evidence** | 1 | **7.9 %** | **1** | **optogenetics**, 7.9 % | 3.0 % | 40.0 % | 6.2× | −0.03 |
+| Forecast | Runs | Optogenetics | Rank among 12 | Leading option | GLP-1 | "Other" | Distance from the control mean | Rank correlation with the control | Preseen report |
+|---|---:|---:|---:|---|---:|---:|---:|---:|---|
+| Control | 5 | 5.5 % | 6 | GLP-1, 20.3 % | 20.3 % | 31.0 % | 1.0× | – | |
+| Cards as context | 3 | 6.8 % | 3 | GLP-1, 19.6 % | 19.6 % | 30.4 % | 0.9× | 0.93 | |
+| Cards as one main source | 1 | 7.4 % | 4 | orexin, 11.7 % | 11.0 % | 34.0 % | 2.8× | 0.81 | |
+| **Treatment: cards as the main evidence** | 1 | **7.9 %** | **1** | **optogenetics**, 7.9 % | 3.0 % | 40.0 % | 6.2× | −0.03 | [PDF](Data/Result/Medicine/Treatment.pdf) |
 
 Distance: how far a run lands from the mean of the control runs, in units of a control run's own distance from the mean
 of the other control runs (0.75 percentage points per option in Medicine). The more weight the forecaster was told to
@@ -87,19 +87,20 @@ favourite GLP-1 fell from 20.3 % to 3.0 % and "Other" grew from 31 % to 40 %.
 **Award:** Francis Halzen alone, "for decisive contributions to the IceCube Neutrino Observatory and the discovery of
 high-energy neutrinos of astrophysical origin".
 
-**Treatment** (Preseen, 5 October; 30 discoveries, profile cards as the main evidence): ultracold-atom quantum
+**Treatment** (Preseen, 5 October; 30 discoveries, profile cards as the main evidence;
+[Preseen report](Data/Result/Physics/Treatment.pdf)): ultracold-atom quantum
 simulation led with 8.7 %; neutrino astronomy was 14th with 3.5 %.
 
 **All Physics forecasts:**
 
-| Question | Forecast | Runs | Neutrino astronomy | Rank | Leading option |
-|---|---|---:|---:|---:|---|
-| 12 + Other (1–2 Oct) | control | 5 | 3.7 % | 9 of 12 | optical lattice clocks, 14.7 % |
-| | cards as context | 3 | 4.1 % | 9 | optical lattice clocks, 15.4 % |
-| | cards as one main source | 1 | 3.0 % | 9 | quantum simulation, 12.8 % |
-| | cards as the main evidence | 1 | 2.1 % | 11 | quantum simulation, 13.3 % |
-| 30 discoveries (5 Oct) | control | 1 | 3.1 % | 11 of 30 | optical lattice clocks, 13.7 % |
-| | **treatment: cards as the main evidence** | 1 | 3.5 % | 14 | quantum simulation, 8.7 % |
+| Question | Forecast | Runs | Neutrino astronomy | Rank | Leading option | Preseen report |
+|---|---|---:|---:|---:|---|---|
+| 12 + Other (1–2 Oct) | control | 5 | 3.7 % | 9 of 12 | optical lattice clocks, 14.7 % | |
+| | cards as context | 3 | 4.1 % | 9 | optical lattice clocks, 15.4 % | |
+| | cards as one main source | 1 | 3.0 % | 9 | quantum simulation, 12.8 % | |
+| | cards as the main evidence | 1 | 2.1 % | 11 | quantum simulation, 13.3 % | |
+| 30 discoveries (5 Oct) | control | 1 | 3.1 % | 11 of 30 | optical lattice clocks, 13.7 % | [PDF](Data/Result/Physics/Control.pdf) |
+| | **treatment: cards as the main evidence** | 1 | 3.5 % | 14 | quantum simulation, 8.7 % | [PDF](Data/Result/Physics/Treatment.pdf) |
 
 The forecasters discounted neutrino astronomy for collaboration-scale attribution (IceCube papers are signed by
 hundreds) and for the earlier neutrino prizes of 2002 and 2015. The committee answered the attribution question by giving
@@ -139,7 +140,7 @@ nominations of this discovery had named Halzen alone.
 
 ![2026 Chemistry: treatment top 5](docs/nobel2026/chemistry_2026_top5_main3.png)
 
-**Treatment** (Preseen, 6 October, one run; [Preseen result](https://preseen.com/q/urrByOH0UlbPnAcF-Kk7YA)): 30
+**Treatment** (Preseen, 6 October, one run; [Preseen report](Data/Result/Chemistry/Treatment.pdf)): 30
 discoveries, profile cards with the patents tied to each discovery as the main evidence, every card measure treated
 as important. Proteomics leads with 8.9 %, then self-assembled monolayers (8.6 %), dye-sensitized solar cells (8.4 %),
 palladium-catalysed carbon–heteroatom coupling and nanopores (5.9 % each). The scores against the award will be added
@@ -148,11 +149,11 @@ after the announcement.
 **All Chemistry forecasts** (the same question, one run each; all 30 options with their named people:
 [comparison](experiment/preseen_chem30_main/results/compare.md)):
 
-| Forecast | Notes | Top 3 | Rank correlation with the treatment | Preseen |
+| Forecast | Notes | Top 3 | Rank correlation with the treatment | Preseen report |
 |---|---|---|---:|---|
-| **Treatment** | profile cards with patents as the main evidence | **proteomics 8.9 %, self-assembled monolayers 8.6 %, dye-sensitized solar cells 8.4 %** | – | [result](https://preseen.com/q/urrByOH0UlbPnAcF-Kk7YA) |
-| Demographic | the treatment's notes + the demographics of past laureates | proteomics 8.8 %, self-assembled monolayers 6.5 %, dye-sensitized solar cells 6.2 % | 0.87 | [result](https://preseen.com/q/IRgKh66nV-BgnQslZ6oM0A) |
-| Control | none | sequencing-by-synthesis 17.3 %, perovskite solar cells 7.9 %, controlled radical polymerization 6.2 % | 0.32 | [result](https://preseen.com/q/tV5NqBF_m70rlHecLi8aVg) |
+| **Treatment** | profile cards with patents as the main evidence | **proteomics 8.9 %, self-assembled monolayers 8.6 %, dye-sensitized solar cells 8.4 %** | – | [PDF](Data/Result/Chemistry/Treatment.pdf) |
+| Demographic | the treatment's notes + the demographics of past laureates | proteomics 8.8 %, self-assembled monolayers 6.5 %, dye-sensitized solar cells 6.2 % | 0.87 | [PDF](Data/Result/Chemistry/Demographic.pdf) |
+| Control | none | sequencing-by-synthesis 17.3 %, perovskite solar cells 7.9 %, controlled radical polymerization 6.2 % | 0.32 | [PDF](Data/Result/Chemistry/Control.pdf) |
 
 - **Without notes the forecaster backs the prize favourite.** Sequencing-by-synthesis (Wolf, Gairdner and Princess of
   Asturias awards) leads the control with 17.3 %; in the treatment it has 3.5 %. The forecaster counted the Solexa
@@ -290,7 +291,7 @@ The Chemistry runs used K1 + K3 cards (treatment, demographic); the control had 
 | `experiment/preseen_main_no_other/`, `preseen_30_no_other/`, `preseen_12_main_v2/`, `preseen_30_main_v2/`, `preseen_5_main_v2/` | 5 Oct | physics: 12, 30 and 5 options without "Other", main evidence and control |
 | [`experiment/convergence_2026_v2/`](experiment/convergence_2026_v2/README.md) | 6 Oct | v2 lineup rule, cards, patents tied to the discovery (chemistry) |
 | `experiment/preseen_chem30_main/` | 6 Oct | chemistry: treatment (main result), demographic and control ([comparison](experiment/preseen_chem30_main/results/compare.md)) |
-| [`Data/Result/`](Data/Result/) | 2–6 Oct | forecast tables behind the figures (Medicine: arm 4 of 2 October; Physics: 5 October; Chemistry: the treatment of 6 October) and the figure notebook |
+| [`Data/Result/`](Data/Result/) | 2–6 Oct | Preseen reports (PDF) of the treatment and control forecasts, forecast tables behind the figures (Medicine: arm 4 of 2 October; Physics: 5 October; Chemistry: the treatment of 6 October) and the figure notebook |
 | [`handoff/`](handoff/README.md) | 3 Oct | context and forecasts of the four conditions, kept apart, for Preseen |
 
 ## The data engine: research profiles of scientists
@@ -321,7 +322,7 @@ Nobel Prize/
 │   ├── author_profiles.md            documentation of the profile pipeline
 │   └── example/hinton/               figures of the profile example
 ├── Data/
-│   ├── Result/                       final 2026 forecasts (treatment of each field) and the figure notebook
+│   ├── Result/                       Preseen reports (PDF, per field), forecast tables, the figure notebook
 │   ├── convergence_2026.csv          person-level evidence for the 30-option lists
 │   ├── prizeatlas/                   PrizeAtlas laureate tables (CSV; SOURCE.md)
 │   ├── Li2019/, SciSciNet_Link_NobelLaureates.tsv   laureate publication records
