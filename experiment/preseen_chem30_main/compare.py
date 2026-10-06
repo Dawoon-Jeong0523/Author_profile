@@ -217,9 +217,9 @@ def publish(R, rows):
     """results/compare.md and compare.csv: the treatment (arm main3, the main result), the demographic arm, the control."""
     rows = sorted([r for r in rows if r.get("v2m3_p") is not None], key=lambda r: -r["v2m3_p"])
     cols = [("v2m3_p", "Treatment"), ("v2demo_p", "Demographic"), ("v2ctl_p", "Control")]
-    links = {"v2_main3": "https://preseen.com/q/urrByOH0UlbPnAcF-Kk7YA",       # public Preseen pages given by the user
-             "v2_demo": "https://preseen.com/q/IRgKh66nV-BgnQslZ6oM0A",
-             "v2_control": "https://preseen.com/q/tV5NqBF_m70rlHecLi8aVg"}
+    links = {"v2_main3": "../../../Data/Result/Chemistry/Treatment.pdf",        # Preseen reports saved by the user
+             "v2_demo": "../../../Data/Result/Chemistry/Demographic.pdf",
+             "v2_control": "../../../Data/Result/Chemistry/Control.pdf"}
     with open(OUT / "compare.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         w.writerow(["rank_treatment", "discovery", "people", "treatment", "demographic", "control"])
@@ -234,7 +234,7 @@ def publish(R, rows):
           "[README](../../../README.md#chemistry-announced-7-october). Probabilities in %; differences of about one "
           "point are within the run-to-run spread.", "",
           "## The runs", "",
-          "| Forecast | Notes given to the forecaster | Time (UTC) | Top 3 (discovery — named people, probability) | Max | Entropy (bits; uniform 4.91) | Preseen |",
+          "| Forecast | Notes given to the forecaster | Time (UTC) | Top 3 (discovery — named people, probability) | Max | Entropy (bits; uniform 4.91) | Preseen report |",
           "|---|---|---|---|---:|---:|---|"]
     notes = {"v2_main3": "profile cards with the patents tied to the discovery as the main evidence, every card measure "
                          "important; Chemistry timing base rate; Medicine and Physics 2026 outcomes",
@@ -247,7 +247,7 @@ def publish(R, rows):
         md.append(f"| {'**' + name + '**' if l == 'v2_main3' else name} | {notes[l]} | "
                   f"{R[l]['started'][11:16]}–{R[l]['finished'][11:16]} | "
                   + "<br>".join(f"{short(disc(opts[i]))} — {people(opts[i])}, **{100 * p[i]:.1f}**" for i in top)
-                  + f" | {100 * max(p):.1f} | {entropy(p):.2f} | [result]({links[l]}) |")
+                  + f" | {100 * max(p):.1f} | {entropy(p):.2f} | [PDF]({links[l]}) |")
     md += ["", "## Agreement with the treatment", "",
            f"- control vs treatment: Spearman {spearman(ct, m3):.2f}, mean |difference| {100 * sum(abs(a - b) for a, b in zip(ct, m3)) / 30:.2f} points per option",
            f"- demographic vs treatment: Spearman {spearman(dm, m3):.2f}, mean |difference| {100 * sum(abs(a - b) for a, b in zip(dm, m3)) / 30:.2f} points per option",
