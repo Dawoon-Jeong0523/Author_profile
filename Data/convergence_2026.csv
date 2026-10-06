@@ -1,0 +1,630 @@
+person_id,name,primary_field,status,n_families,families,details
+balasubramanian-shankar,Shankar Balasubramanian,chemistry,alive,6,high_ppv_prize;kalshi;milestone_passed;swedish_proximity;symposium_dossier;web_2026,"high_ppv_prize: Gairdner International 2024, Wolf (Physics + Chemistry + Medicine) 2026 | kalshi: KXNOBELCHEM 0.10 | milestone_passed: Next-generation (Solexa) sequencing (milestone 2014) | swedish_proximity: prize_novo_nordisk_prize:2024 | symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing | web_2026: S02, S03"
+klenerman-david,David Klenerman,chemistry,alive,5,high_ppv_prize;milestone_passed;swedish_proximity;symposium_dossier;web_2026,"high_ppv_prize: Gairdner International 2024, Wolf (Physics + Chemistry + Medicine) 2026 | milestone_passed: Next-generation (Solexa) sequencing (milestone 2014) | swedish_proximity: prize_novo_nordisk_prize:2024 | symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing | web_2026: S02, S03"
+liu-david,David R. Liu,chemistry,alive,5,clarivate_2026;high_ppv_prize;kalshi;milestone_passed;web_2026,"clarivate_2026: Clarivate 2026 | high_ppv_prize: Benjamin Franklin Medal (Phys/Chem/Life) 2026 | kalshi: KXNOBELCHEM 0.15 | milestone_passed: CRISPR base and prime editing (milestone 2022) | web_2026: S01, S02, S08"
+gray-harry,Harry B. Gray,chemistry,alive,5,clarivate_2026;kalshi;swedish_proximity;symposium_dossier;web_2026,"clarivate_2026: Clarivate 2026 | kalshi: KXNOBELCHEM 0.04 | swedish_proximity: honorary_doctorate_relevant_faculty:1991;2020 | symposium_dossier: 2022-vision-of-bio-inorganic-chemistry | web_2026: S02, S03, S08"
+drucker-daniel,Daniel J. Drucker,medicine,alive,5,clarivate_2026;kalshi;milestone_passed;symposium_dossier;web_2026,"clarivate_2026: Clarivate 2026 | kalshi: KXNOBELMED 0.21 | milestone_passed: GLP-1 receptor agonists for diabetes/obesity (milestone 2021) | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum | web_2026: S01, S08"
+mojsov-svetlana,Svetlana Mojsov,medicine,alive,5,clarivate_2026;high_ppv_prize;milestone_passed;symposium_dossier;web_2026,"clarivate_2026: Clarivate 2026 | high_ppv_prize: Lasker (Basic + Clinical + Special) 2024 | milestone_passed: GLP-1 receptor agonists for diabetes/obesity (milestone 2021) | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum | web_2026: S01, S08"
+mignot-emmanuel,Emmanuel Mignot,medicine,alive,4,high_ppv_prize;kalshi;symposium_dossier;web_2026,high_ppv_prize: Lasker (Basic + Clinical + Special) 2026 | kalshi: KXNOBELMED 0.10 | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum | web_2026: S01
+holst-jens,Jens Juul Holst,medicine,alive,4,clarivate_2026;milestone_passed;symposium_dossier;web_2026,"clarivate_2026: Clarivate 2026 | milestone_passed: GLP-1 receptor agonists for diabetes/obesity (milestone 2021) | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum | web_2026: S01, S08"
+knudsen-lotte,Lotte Bjerre Knudsen,medicine,alive,4,high_ppv_prize;milestone_passed;symposium_dossier;web_2026,high_ppv_prize: Lasker (Basic + Clinical + Special) 2024 | milestone_passed: GLP-1 receptor agonists for diabetes/obesity (milestone 2021) | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum | web_2026: S01
+kitaev-alexei,Alexei Kitaev,physics,alive,4,kalshi;milestone_passed;symposium_dossier;web_2026,"kalshi: KXNOBELPHYSICS 0.22 | milestone_passed: Quantum error correction / quantum algorithms (milestone 2024) | symposium_dossier: 2023-anyons-from-idea-to-reality, 2026-quantum-computing-and-simulation | web_2026: S04, S05"
+jain-jainendra,Jainendra K. Jain,physics,alive,4,high_ppv_prize;kalshi;symposium_dossier;web_2026,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2025 | kalshi: KXNOBELPHYSICS 0.04 | symposium_dossier: 2023-anyons-from-idea-to-reality | web_2026: S05
+eisenstein-james,James P. Eisenstein,physics,alive,4,high_ppv_prize;kalshi;symposium_dossier;web_2026,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2025 | kalshi: KXNOBELPHYSICS 0.04 | symposium_dossier: 2023-anyons-from-idea-to-reality | web_2026: S05
+pendry-john,John Pendry,physics,alive,4,kalshi;milestone_passed;symposium_dossier;web_2026,"kalshi: KXNOBELPHYSICS 0.14 | milestone_passed: Metamaterials / negative refraction (milestone 2006) | symposium_dossier: 2026-metamaterials-science-and-technology | web_2026: S01, S04, S05, S06"
+preskill-john,John Preskill,physics,alive,4,kalshi;milestone_passed;symposium_dossier;web_2026,"kalshi: KXNOBELPHYSICS 0.15 | milestone_passed: Quantum error correction / quantum algorithms (milestone 2024) | symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S04, S05"
+heiblum-mordehai,Mordehai Heiblum,physics,alive,4,high_ppv_prize;kalshi;symposium_dossier;web_2026,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2025 | kalshi: KXNOBELPHYSICS 0.12 | symposium_dossier: 2023-anyons-from-idea-to-reality | web_2026: S05
+shor-peter,Peter Shor,physics,alive,4,kalshi;milestone_passed;symposium_dossier;web_2026,"kalshi: KXNOBELPHYSICS 0.11 | milestone_passed: Quantum error correction / quantum algorithms (milestone 2024) | symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S04, S05"
+allara-david,David L. Allara,chemistry,alive,3,clarivate_2026;kalshi;web_2026,"clarivate_2026: Clarivate 2026 | kalshi: KXNOBELCHEM 0.15 | web_2026: S02, S03, S08"
+snaith-henry,Henry Snaith,chemistry,alive,3,milestone_passed;symposium_dossier;web_2026,"milestone_passed: Perovskite solar cells (milestone 2021) | symposium_dossier: 2023-efficient-light-to-the-electric-power-converatio | web_2026: S02, S03"
+winkler-jay,Jay R. Winkler,chemistry,alive,3,clarivate_2026;symposium_dossier;web_2026,"clarivate_2026: Clarivate 2026 | symposium_dossier: 2022-vision-of-bio-inorganic-chemistry | web_2026: S02, S03, S08"
+mayer-pascal,Pascal Mayer,chemistry,alive,3,high_ppv_prize;symposium_dossier;web_2026,"high_ppv_prize: Gairdner International 2024, Wolf (Physics + Chemistry + Medicine) 2026 | symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing | web_2026: S03"
+cullis-pieter,Pieter Cullis,chemistry,alive,3,milestone_passed;swedish_proximity;web_2026,milestone_passed: Lipid nanoparticle delivery (milestone 2018) | swedish_proximity: prize_scheele:2025 | web_2026: S01
+miyasaka-tsutomu,Tsutomu Miyasaka,chemistry,alive,3,milestone_passed;symposium_dossier;web_2026,milestone_passed: Perovskite solar cells (milestone 2021) | symposium_dossier: 2023-efficient-light-to-the-electric-power-converatio | web_2026: S03
+fehr-ernst,Ernst Fehr,economics,alive,3,kalshi;symposium_dossier;web_2026,kalshi: KXNOBELECON 0.06 | symposium_dossier: 2022-the-social-brain | web_2026: S10
+woodford-michael,Michael D. Woodford,economics,alive,3,clarivate_2026;high_ppv_prize;web_2026,"clarivate_2026: Clarivate 2026 | high_ppv_prize: BBVA Frontiers Economics 2024, Nemmers Prize in Economics 2024 | web_2026: S08"
+athey-susan,Susan C. Athey,economics,alive,3,clarivate_2026;kalshi;web_2026,"clarivate_2026: Clarivate 2026 | kalshi: KXNOBELECON 0.16 | web_2026: S08, S09, S10"
+olson-eric,Eric Olson,medicine,alive,3,high_ppv_prize;swedish_proximity;symposium_dossier,high_ppv_prize: Louisa Gross Horwitz Prize 2025 | swedish_proximity: ki_research_lecture:2003 | symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+fujimoto-james,James G. Fujimoto,medicine,alive,3,clarivate_2026;kalshi;web_2026,"clarivate_2026: Clarivate 2026 | kalshi: KXNOBELMED 0.17 | web_2026: S01, S08"
+deisseroth-karl,Karl Deisseroth,medicine,alive,3,kalshi;milestone_passed;symposium_dossier,kalshi: KXNOBELMED 0.14 | milestone_passed: Optogenetics (milestone 2021) | symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+king-mary-claire,Mary-Claire King,medicine,alive,3,kalshi;swedish_proximity;web_2026,kalshi: KXNOBELMED 0.11 | swedish_proximity: ki_research_lecture:2016 | web_2026: S19
+yanagisawa-masashi,Masashi Yanagisawa,medicine,alive,3,high_ppv_prize;symposium_dossier;web_2026,high_ppv_prize: Lasker (Basic + Clinical + Special) 2026 | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum | web_2026: S01
+springer-timothy,Timothy A. Springer,medicine,alive,3,clarivate_2026;kalshi;web_2026,clarivate_2026: Clarivate 2026 | kalshi: KXNOBELMED 0.09 | web_2026: S08
+chen-zhijian,Zhijian Chen,medicine,alive,3,high_ppv_prize;insider_x;kalshi,"high_ppv_prize: Lasker (Basic + Clinical + Special) 2024, Paul Ehrlich & Ludwig Darmstaedter Prize 2025 | insider_x: @perlmannlab 2024-09-28 | kalshi: KXNOBELMED 0.02"
+frenk-carlos,Carlos Frenk,physics,alive,3,kalshi;symposium_dossier;web_2026,kalshi: KXNOBELPHYSICS 0.06 | symposium_dossier: 2022-dark-matter | web_2026: S05
+bennett-charles-2,Charles H. Bennett,physics,alive,3,milestone_passed;symposium_dossier;web_2026,milestone_passed: Quantum key distribution (milestone 2017) | symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+kane-charles,Charles L. Kane,physics,alive,3,kalshi;milestone_passed;web_2026,kalshi: KXNOBELPHYSICS 0.15 | milestone_passed: Topological insulators (milestone 2007) | web_2026: S04
+mele-eugene,Eugene Mele,physics,alive,3,kalshi;milestone_passed;web_2026,"kalshi: KXNOBELPHYSICS 0.16 | milestone_passed: Topological insulators (milestone 2007) | web_2026: S04, S05"
+capasso-federico,Federico Capasso,physics,alive,3,kalshi;symposium_dossier;web_2026,"kalshi: KXNOBELPHYSICS 0.04 | symposium_dossier: 2026-metamaterials-science-and-technology | web_2026: S04, S05, S06"
+brassard-gilles,Gilles Brassard,physics,alive,3,milestone_passed;symposium_dossier;web_2026,milestone_passed: Quantum key distribution (milestone 2017) | symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+bloch-immanuel,Immanuel Bloch,physics,alive,3,high_ppv_prize;symposium_dossier;web_2026,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2026 | symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+cirac-juan,Juan Ignacio Cirac,physics,alive,3,milestone_passed;symposium_dossier;web_2026,milestone_passed: Quantum error correction / quantum algorithms (milestone 2024) | symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+davis-marc,Marc Davis,physics,alive,3,kalshi;symposium_dossier;web_2026,kalshi: KXNOBELPHYSICS 0.06 | symposium_dossier: 2022-dark-matter | web_2026: S05
+rees-martin,Martin Rees,physics,alive,3,high_ppv_prize;symposium_dossier;web_2026,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2024 | symposium_dossier: 2022-dark-matter | web_2026: S05
+jarillo-herrero-pablo,Pablo Jarillo-Herrero,physics,alive,3,kalshi;milestone_passed;web_2026,"kalshi: KXNOBELPHYSICS 0.14 | milestone_passed: Moire / twisted bilayer graphene (milestone 2018) | web_2026: S04, S05, S06"
+zoller-peter,Peter Zoller,physics,alive,3,milestone_passed;symposium_dossier;web_2026,milestone_passed: Quantum error correction / quantum algorithms (milestone 2024) | symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+white-simon,Simon White,physics,alive,3,kalshi;symposium_dossier;web_2026,kalshi: KXNOBELPHYSICS 0.12 | symposium_dossier: 2022-dark-matter | web_2026: S05
+stratton-michael,Michael R. Stratton,,alive,2,insider_x;swedish_proximity,insider_x: @perlmannlab 2022-11-03 | swedish_proximity: ki_research_lecture:2022
+wong-chi-huey,Chi-Huey Wong,chemistry,alive,2,kalshi;web_2026,kalshi: KXNOBELCHEM 0.09 | web_2026: S03
+bayley-hagan,Hagan Bayley,chemistry,alive,2,symposium_dossier;web_2026,symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing | web_2026: S03
+sagiv-jacob,Jacob Sagiv,chemistry,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S02, S03, S08"
+shokat-kevan,Kevan Shokat,chemistry,alive,2,insider_x;web_2026,insider_x: @perlmannlab 2023-03-31 | web_2026: S02
+matyjaszewski-krzysztof,Krzysztof Matyjaszewski,chemistry,alive,2,kalshi;web_2026,kalshi: KXNOBELCHEM 0.03 | web_2026: S03
+gratzel-michael,Michael Grätzel,chemistry,alive,2,symposium_dossier;web_2026,symposium_dossier: 2023-efficient-light-to-the-electric-power-converatio | web_2026: S02
+park-nam-gyu,Nam-Gyu Park,chemistry,alive,2,symposium_dossier;web_2026,symposium_dossier: 2023-efficient-light-to-the-electric-power-converatio | web_2026: S03
+schultz-peter,Peter G. Schultz,chemistry,alive,2,kalshi;swedish_proximity,kalshi: KXNOBELCHEM 0.10 | swedish_proximity: prize_scheele:2023
+nuzzo-ralph,Ralph G. Nuzzo,chemistry,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S02, S03, S08"
+buchwald-stephen,Stephen L. Buchwald,chemistry,alive,2,kalshi;web_2026,kalshi: KXNOBELCHEM 0.12 | web_2026: S02
+mas-colell-andreu,Andreu Mas-Colell,economics,alive,2,kalshi;web_2026,"kalshi: KXNOBELECON 0.06 | web_2026: S09, S10"
+pakes-ariel,Ariél Pakes,economics,alive,2,kalshi;web_2026,kalshi: KXNOBELECON 0.26 | web_2026: S10
+manski-charles,Charles F. Manski,economics,alive,2,high_ppv_prize;symposium_dossier,high_ppv_prize: BBVA Frontiers Economics 2025 | symposium_dossier: 2022-social-network-analysis
+varian-hal,Hal R. Varian,economics,alive,2,clarivate_2026;web_2026,clarivate_2026: Clarivate 2026 | web_2026: S08
+zingales-luigi,Luigi Zingales,economics,alive,2,kalshi;web_2026,kalshi: KXNOBELECON 0.02 | web_2026: S10
+rabin-matthew,Matthew Rabin,economics,alive,2,kalshi;web_2026,kalshi: KXNOBELECON 0.05 | web_2026: S10
+dasgupta-partha,Partha Dasgupta,economics,alive,2,kalshi;web_2026,"kalshi: KXNOBELECON 0.06 | web_2026: S09, S10"
+blundell-richard,Richard Blundell,economics,alive,2,kalshi;web_2026,"kalshi: KXNOBELECON 0.08 | web_2026: S09, S10"
+barro-robert,Robert Barro,economics,alive,2,kalshi;web_2026,"kalshi: KXNOBELECON 0.07 | web_2026: S09, S10"
+winter-sidney,Sidney G. Winter,economics,alive,2,clarivate_2026;web_2026,clarivate_2026: Clarivate 2026 | web_2026: S08
+zenou-yves,Yves Zenou,economics,alive,2,swedish_proximity;symposium_dossier,swedish_proximity: kva_foreign_member:2023 | symposium_dossier: 2022-social-network-analysis
+bird-adrian,Adrian Bird,medicine,alive,2,high_ppv_prize;swedish_proximity,high_ppv_prize: Louisa Gross Horwitz Prize 2026 | swedish_proximity: prize_brain_prize:2020
+june-carl,Carl H. June,medicine,alive,2,milestone_passed;web_2026,milestone_passed: CAR-T cell therapy (milestone 2017) | web_2026: S01
+heldin-carl-henrik,Carl-Henrik Heldin,medicine,alive,2,swedish_proximity;symposium_dossier,swedish_proximity: ki_research_lecture:1996 | symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+saper-clifford,Clifford B. Saper,medicine,alive,2,swedish_proximity;symposium_dossier,swedish_proximity: ki_research_lecture:2011 | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+huang-david,David Huang,medicine,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S01, S08"
+swanson-eric,Eric A. Swanson,medicine,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S01, S08"
+zoghbi-huda,Huda Zoghbi,medicine,alive,2,high_ppv_prize;swedish_proximity,high_ppv_prize: Louisa Gross Horwitz Prize 2026 | swedish_proximity: ki_research_lecture:2007;2015; prize_brain_prize:2020
+friedman-jeffrey,Jeffrey M. Friedman,medicine,alive,2,kalshi;swedish_proximity,kalshi: KXNOBELMED 0.20 | swedish_proximity: ki_research_lecture:1996
+olesen-jes,Jes Olesen,medicine,alive,2,swedish_proximity;symposium_dossier,swedish_proximity: prize_brain_prize:2021 | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+miyazono-kohei,Kohei Miyazono,medicine,alive,2,swedish_proximity;symposium_dossier,swedish_proximity: kva_foreign_member:2025 | symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+edvinsson-lars,Lars Edvinsson,medicine,alive,2,swedish_proximity;symposium_dossier,swedish_proximity: prize_brain_prize:2021 | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+mann-matthias,Matthias Mann,medicine,alive,2,high_ppv_prize;swedish_proximity,high_ppv_prize: Gairdner International 2026 | swedish_proximity: ki_research_lecture:2013;2020
+cooper-max,Max Dale Cooper,medicine,alive,2,kalshi;web_2026,kalshi: KXNOBELMED 0.11 | web_2026: S01
+welsh-michael,Michael J. Welsh,medicine,alive,2,high_ppv_prize;milestone_passed,"high_ppv_prize: Gairdner International 2025, Lasker (Basic + Clinical + Special) 2025 | milestone_passed: CFTR modulators (cystic fibrosis) (milestone 2019)"
+moskowitz-michael,Michael Moskowitz,medicine,alive,2,swedish_proximity;symposium_dossier,swedish_proximity: prize_brain_prize:2021 | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+sadelain-michel,Michel Sadelain,medicine,alive,2,high_ppv_prize;milestone_passed,high_ppv_prize: Gairdner International 2024 | milestone_passed: CAR-T cell therapy (milestone 2017)
+monje-michelle,Michelle Monje,medicine,alive,2,insider_x;swedish_proximity,insider_x: @perlmannlab 2025-03-07 | swedish_proximity: ki_research_lecture:2025; prize_brain_prize:2025
+bjorkman-pamela,Pamela J. Bjorkman,medicine,alive,2,high_ppv_prize;swedish_proximity,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2025 | swedish_proximity: ki_research_lecture:2002
+negulescu-paul,Paul A. Negulescu,medicine,alive,2,high_ppv_prize;milestone_passed,"high_ppv_prize: Gairdner International 2025, Lasker (Basic + Clinical + Special) 2025 | milestone_passed: CFTR modulators (cystic fibrosis) (milestone 2019)"
+goadsby-peter,Peter Goadsby,medicine,alive,2,swedish_proximity;symposium_dossier,swedish_proximity: prize_brain_prize:2021 | symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+evans-ronald,Ronald M. Evans,medicine,alive,2,insider_x;swedish_proximity,insider_x: @perlmannlab 2025-09-10 | swedish_proximity: ki_research_lecture:1999
+macdonald-allan,Allan H. MacDonald,physics,alive,2,kalshi;web_2026,"kalshi: KXNOBELPHYSICS 0.14 | web_2026: S04, S05, S06"
+alu-andrea,Andrea Alù,physics,alive,2,symposium_dossier;web_2026,"symposium_dossier: 2026-metamaterials-science-and-technology | web_2026: S05, S06"
+ekert-artur,Artur Ekert,physics,alive,2,symposium_dossier;web_2026,symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+adachi-chihaya,Chihaya Adachi,physics,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S02, S05, S06, S08"
+loss-daniel,Daniel Loss,physics,alive,2,symposium_dossier;web_2026,symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+charbonneau-david,David Charbonneau,physics,alive,2,kalshi;web_2026,kalshi: KXNOBELPHYSICS 0.04 | web_2026: S05
+deutsch-david,David Deutsch,physics,alive,2,symposium_dossier;web_2026,symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+divincenzo-david,David DiVincenzo,physics,alive,2,symposium_dossier;web_2026,symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+smith-david,David R. Smith,physics,alive,2,symposium_dossier;web_2026,"symposium_dossier: 2026-metamaterials-science-and-technology | web_2026: S04, S05, S06"
+van-dishoeck-ewine,Ewine van Dishoeck,physics,alive,2,kalshi;web_2026,kalshi: KXNOBELPHYSICS 0.05 | web_2026: S05
+efstathiou-george,George Efstathiou,physics,alive,2,high_ppv_prize;symposium_dossier,high_ppv_prize: Shaw (Astronomy + Life Sci) 2025 | symposium_dossier: 2022-dark-matter
+daubechies-ingrid,Ingrid Daubechies,physics,alive,2,kalshi;web_2026,"kalshi: KXNOBELPHYSICS 0.04 | web_2026: S05, S06"
+pan-jian-wei,Jian-Wei Pan,physics,alive,2,symposium_dossier;web_2026,symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+ye-jun,Jun Ye,physics,alive,2,high_ppv_prize;web_2026,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2026 | web_2026: S05
+nomoto-kenichi,Ken'ichi Nomoto,physics,alive,2,high_ppv_prize;web_2026,high_ppv_prize: Shaw (Astronomy + Life Sci) 2026 | web_2026: S04
+thompson-mark,Mark E. Thompson,physics,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S02, S05, S06, S08"
+berry-michael,Michael Berry,physics,alive,2,kalshi;web_2026,"kalshi: KXNOBELPHYSICS 0.13 | web_2026: S04, S05"
+lukin-mikhail,Mikhail Lukin,physics,alive,2,symposium_dossier;web_2026,symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+engheta-nader,Nader Engheta,physics,alive,2,symposium_dossier;web_2026,"symposium_dossier: 2026-metamaterials-science-and-technology | web_2026: S05, S06"
+spaldin-nicola,Nicola A. Spaldin,physics,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S02, S05, S06, S07, S08"
+xue-qikun,Qikun Xue,physics,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S05, S06, S08"
+bistritzer-rafi,Rafi Bistritzer,physics,alive,2,kalshi;web_2026,"kalshi: KXNOBELPHYSICS 0.12 | web_2026: S04, S05"
+seager-sara,Sara Seager,physics,alive,2,kalshi;web_2026,kalshi: KXNOBELPHYSICS 0.04 | web_2026: S05
+woosley-stanford,Stanford Woosley,physics,alive,2,high_ppv_prize;web_2026,high_ppv_prize: Shaw (Astronomy + Life Sci) 2026 | web_2026: S04
+forrest-stephen,Stephen R. Forrest,physics,alive,2,clarivate_2026;web_2026,"clarivate_2026: Clarivate 2026 | web_2026: S02, S05, S06, S08"
+mallat-stephane,Stéphane Mallat,physics,alive,2,kalshi;web_2026,"kalshi: KXNOBELPHYSICS 0.12 | web_2026: S05, S06"
+leonhardt-ulf,Ulf Leonhardt,physics,alive,2,symposium_dossier;web_2026,"symposium_dossier: 2026-metamaterials-science-and-technology | web_2026: S05, S06"
+shalaev-vladimir,Vladimir Shalaev,physics,alive,2,symposium_dossier;web_2026,"symposium_dossier: 2026-metamaterials-science-and-technology | web_2026: S05, S06"
+aharonov-yakir,Yakir Aharonov,physics,alive,2,kalshi;web_2026,"kalshi: KXNOBELPHYSICS 0.13 | web_2026: S04, S05"
+nakamura-yasunobu,Yasunobu Nakamura,physics,alive,2,symposium_dossier;web_2026,symposium_dossier: 2026-quantum-computing-and-simulation | web_2026: S05
+meyer-yves,Yves Meyer,physics,alive,2,kalshi;web_2026,"kalshi: KXNOBELPHYSICS 0.14 | web_2026: S05, S06"
+lane-david,David P. Lane,,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2010
+yu-jin-quan,Jin-Quan Yu,,alive,1,web_2026,web_2026: S02
+ptashne-mark,Mark Ptashne,,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1999
+levine-michael,Michael S. Levine,,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2017
+diamond-jared,Jared Diamond,agriculture,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2005
+andersson-leif,Leif Andersson,agriculture,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2014
+georges-michel,Michel A. J. Georges,agriculture,unknown,1,swedish_proximity,swedish_proximity: honorary_doctorate_relevant_faculty:2023
+ravishankara-a,A. R. Ravishankara,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+kojima-akihiro,Akihiro Kojima,chemistry,unknown,1,symposium_dossier,symposium_dossier: 2023-efficient-light-to-the-electric-power-converatio
+tokmakoff-andrei,Andrei Tokmakoff,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+beratan-unknown,Beratan,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-vision-of-bio-inorganic-chemistry
+mirandi-bill,Bill Mirandi,chemistry,alive,1,web_2026,web_2026: S02
+white-christina,Christina White,chemistry,alive,1,web_2026,web_2026: S02
+brangwynne-clifford,Clifford P. Brangwynne,chemistry,alive,1,high_ppv_prize,high_ppv_prize: Keio Medical Science Prize 2025
+branton-daniel,Daniel Branton,chemistry,alive,1,symposium_dossier,symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing
+deamer-david,David Deamer,chemistry,alive,1,symposium_dossier,symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing
+eisenberg-david,David Eisenberg,chemistry,unknown,1,swedish_proximity,swedish_proximity: prize_aminoff:2026
+jonas-david,David M. Jonas,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+dutton-unknown,Dutton,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-vision-of-bio-inorganic-chemistry
+coates-geoffrey,Geoffrey W. Coates,chemistry,alive,1,high_ppv_prize,high_ppv_prize: Benjamin Franklin Medal (Phys/Chem/Life) 2026
+church-george,George Church,chemistry,alive,1,symposium_dossier,"symposium_dossier: 2024-spatial-biology-in-the-genomics-era, 2025-creative-uses-of-high-throughput-sequencing"
+fleming-graham,Graham R. Fleming,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+scholes-gregory,Gregory D. Scholes,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+schwarz-helmut,Helmut F. Schwarz,chemistry,alive,1,high_ppv_prize,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2025
+levy-hiram,Hiram Levy II,chemistry,unknown,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+barton-jacqueline,Jacqueline Barton,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-vision-of-bio-inorganic-chemistry
+anderson-james,James G. Anderson,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+collins-james,James J. Collins,chemistry,alive,1,web_2026,web_2026: S02
+stubbe-joanne,JoAnne Stubbe,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-vision-of-bio-inorganic-chemistry
+thornton-joel,Joel Thornton,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+hartwig-john,John F. Hartwig,chemistry,alive,1,web_2026,web_2026: S02
+seinfeld-john,John H. Seinfeld,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+rothberg-jonathan,Jonathan Rothberg,chemistry,alive,1,symposium_dossier,symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing
+lelieveld-jos,Jos Lelieveld,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+nelson-keith,Keith A. Nelson,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+hood-leroy,Leroy Hood,chemistry,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1995
+akeson-mark,Mark Akeson,chemistry,alive,1,symposium_dossier,symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing
+levin-mark,Mark Levin,chemistry,alive,1,web_2026,web_2026: S02
+kulmala-markku,Markku Kulmala,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+green-martin,Martin A. Green,chemistry,alive,1,symposium_dossier,symposium_dossier: 2023-efficient-light-to-the-electric-power-converatio
+nilsson-mats,Mats Nilsson,chemistry,alive,1,symposium_dossier,"symposium_dossier: 2024-spatial-biology-in-the-genomics-era, 2025-creative-uses-of-high-throughput-sequencing"
+sanford-melanie,Melanie Sanford,chemistry,alive,1,web_2026,web_2026: S02
+kanatzidis-mercouri,Mercouri Kanatzidis,chemistry,alive,1,symposium_dossier,symposium_dossier: 2023-efficient-light-to-the-electric-power-converatio
+elowitz-michael,Michael Elowitz,chemistry,alive,1,web_2026,web_2026: S02
+parrinello-michele,Michele Parrinello,chemistry,alive,1,kalshi,kalshi: KXNOBELCHEM 0.14
+ehn-mikael,Mikael Ehn,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+cho-minhaeng,Minhaeng Cho,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+moser-unknown,Moser,chemistry,unknown,1,symposium_dossier,symposium_dossier: 2022-vision-of-bio-inorganic-chemistry
+ronaghi-mostafa,Mostafa Ronaghi,chemistry,alive,1,symposium_dossier,symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing
+halas-naomi,Naomi J. Halas,chemistry,alive,1,high_ppv_prize,high_ppv_prize: Benjamin Franklin Medal (Phys/Chem/Life) 2025
+donahue-neil,Neil Donahue,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+onuchic-unknown,Onuchic,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-vision-of-bio-inorganic-chemistry
+holland-patrick,Patrick Holland,chemistry,alive,1,web_2026,web_2026: S03
+blainey-paul,Paul Blainey,chemistry,alive,1,symposium_dossier,symposium_dossier: 2025-creative-uses-of-high-throughput-sequencing
+wennberg-paul,Paul Wennberg,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+hammond-paula,Paula T. Hammond,chemistry,alive,1,high_ppv_prize,high_ppv_prize: Benjamin Franklin Medal (Phys/Chem/Life) 2024
+hamm-peter,Peter Hamm,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+rees-unknown,Rees,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-vision-of-bio-inorganic-chemistry
+sarpong-richard,Richard Sarpong,chemistry,alive,1,web_2026,web_2026: S02
+bergman-robert,Robert G. Bergman,chemistry,alive,1,web_2026,web_2026: S02
+seok-sang,Sang Il Seok,chemistry,alive,1,symposium_dossier,symposium_dossier: 2023-efficient-light-to-the-electric-power-converatio
+mukamel-shaul,Shaul Mukamel,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+pandis-spyros,Spyros Pandis,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+leibler-stanislas,Stanislas Leibler,chemistry,alive,1,web_2026,web_2026: S02
+lippard-stephen,Stephen J. Lippard,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-vision-of-bio-inorganic-chemistry
+schreiber-stuart,Stuart Schreiber,chemistry,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1996
+solomon-susan,Susan Solomon,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+zhang-tao,Tao Zhang,chemistry,alive,1,web_2026,web_2026: S03
+elsaesser-thomas,Thomas Elsaesser,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+brixner-tobias,Tobias Brixner,chemistry,alive,1,symposium_dossier,symposium_dossier: 2022-exploring-complex-molecular-and-condensed-phase
+ramanathan-veerabhadran,Veerabhadran Ramanathan,chemistry,alive,1,symposium_dossier,symposium_dossier: 2026-from-molecules-to-climate
+verdelhan-adrien,Adrien Verdelhan,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+tahbaz-salehi-alireza,Alireza Tahbaz-Salehi,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+galeotti-andrea,Andrea Galeotti,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+wolinsky-asher,Asher Wolinsky,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+golub-benjamin,Benjamin Golub,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+milanovic-branko,Branko Milanovic,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+reinhart-carmen,Carmen Reinhart,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+engel-charles,Charles Engel,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+autor-david,David Autor,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+saez-emmanuel,Emmanuel Saez,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+brynjolfsson-erik,Erik Brynjolfsson,economics,alive,1,swedish_proximity,swedish_proximity: honorary_doctorate_economics_faculty:2026; honorary_doctorate_relevant_faculty:2026
+zucman-gabriel,Gabriel Zucman,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+gopinath-gita,Gita Gopinath,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+kaminsky-graciela,Graciela Kaminsky,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+calvo-guillermo,Guillermo Calvo,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+lustig-hanno,Hanno Lustig,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+rey-helene,Hélène Rey,economics,alive,1,symposium_dossier,"symposium_dossier: 2022-inequality, 2026-international-economics"
+frankel-jeffrey,Jeffrey Frankel,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+gali-jordi,Jordi Galí,economics,alive,1,high_ppv_prize,high_ppv_prize: BBVA Frontiers Economics 2024
+rogoff-kenneth,Kenneth Rogoff,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+katz-lawrence,Lawrence F. Katz,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+straub-ludwig,Ludwig Straub,economics,alive,1,high_ppv_prize,high_ppv_prize: John Bates Clark Medal 2026
+granovetter-mark,Mark Granovetter,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+maggiori-matteo,Matteo Maggiori,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+jackson-matthew,Matthew O. Jackson,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+obstfeld-maurice,Maurice Obstfeld,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+corak-miles,Miles Corak,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+milesi-ferretti-unknown,Milesi-Ferretti,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+hendren-nathaniel,Nathaniel Hendren,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+itskhoki-oleg,Oleg Itskhoki,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+blanchard-olivier,Olivier Blanchard,economics,alive,1,high_ppv_prize,high_ppv_prize: BBVA Frontiers Economics 2024
+lane-philip,Philip Lane,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+strack-philipp,Philipp Strack,economics,unknown,1,high_ppv_prize,high_ppv_prize: John Bates Clark Medal 2024
+gourinchas-pierre-olivier,Pierre-Olivier Gourinchas,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+kranton-rachel,Rachel Kranton,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+chetty-raj,Raj Chetty,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+caballero-ricardo,Ricardo Caballero,economics,alive,1,symposium_dossier,symposium_dossier: 2026-international-economics
+goyal-sanjeev,Sanjeev Goyal,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+stantcheva-stefanie,Stefanie Stantcheva,economics,alive,1,high_ppv_prize,high_ppv_prize: John Bates Clark Medal 2025
+piketty-thomas,Thomas Piketty,economics,alive,1,symposium_dossier,symposium_dossier: 2022-inequality
+carvalho-vasco,Vasco Carvalho,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+bala-venkatesh,Venkatesh Bala,economics,unknown,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+newey-whitney,Whitney Newey,economics,alive,1,high_ppv_prize,high_ppv_prize: Nemmers Prize in Economics 2026
+bramoulle-yann,Yann Bramoullé,economics,alive,1,symposium_dossier,symposium_dossier: 2022-social-network-analysis
+prado-adelia,Adelia Prado,literature,alive,1,web_2026,web_2026: S15
+mabanckou-alan,Alan Mabanckou,literature,unknown,1,web_2026,web_2026: S15
+wright-alexis,Alexis Wright,literature,alive,1,web_2026,web_2026: S15
+esber-ali,Ali Ahmad Said Esber,literature,alive,1,web_2026,web_2026: S15
+smith-ali,Ali Smith,literature,alive,1,web_2026,web_2026: S15
+ghosh-amitav,Amitav Ghosh,literature,alive,1,web_2026,web_2026: S15
+devi-ananda,Ananda Devi,literature,alive,1,web_2026,web_2026: S15
+kurkov-andrey,Andrey Kurkov,literature,alive,1,web_2026,web_2026: S15
+carson-anne,Anne Carson,literature,alive,1,web_2026,"web_2026: S15, S17"
+molina-antonio,Antonio Muñoz Molina,literature,alive,1,web_2026,web_2026: S15
+strauss-botho,Botho Strauss,literature,alive,1,web_2026,web_2026: S15
+diop-boubacar,Boubacar Boris Diop,literature,alive,1,web_2026,web_2026: S15
+al-maqtari-bushra,Bushra al-Maqtari,literature,alive,1,web_2026,web_2026: S15
+can-xue,Can Xue,literature,alive,1,web_2026,"web_2026: S14, S15, S16, S17"
+tiller-carl,Carl Frode Tiller,literature,alive,1,web_2026,web_2026: S15
+phillips-caryl,Caryl Phillips,literature,alive,1,web_2026,web_2026: S15
+adichie-chimamanda,Chimamanda Ngozi Adichie,literature,alive,1,web_2026,web_2026: S15
+kracht-christian,Christian Kracht,literature,alive,1,web_2026,web_2026: S15
+magris-claudio,Claudio Magris,literature,alive,1,web_2026,web_2026: S15
+toibin-colm,Colm Tóibín,literature,alive,1,web_2026,web_2026: S15
+whitehead-colson,Colson Whitehead,literature,alive,1,web_2026,web_2026: S15
+rossi-cristina,Cristina Peri Rossi,literature,alive,1,web_2026,web_2026: S15
+garza-cristina,Cristina Rivera Garza,literature,alive,1,web_2026,"web_2026: S15, S16"
+aira-cesar,César Aira,literature,alive,1,web_2026,web_2026: S15
+grossman-david,David Grossman,literature,alive,1,web_2026,web_2026: S15
+peace-david,David Peace,literature,alive,1,web_2026,web_2026: S15
+levy-deborah,Deborah Levy,literature,alive,1,web_2026,web_2026: S15
+eltit-diamela,Diamela Eltit,literature,alive,1,web_2026,web_2026: S15
+delillo-don,Don DeLillo,literature,alive,1,web_2026,web_2026: S15
+duong-thuhuong,Duong Thu Huong,literature,alive,1,web_2026,web_2026: S15
+danticat-edwidge,Edwidge Danticat,literature,alive,1,web_2026,web_2026: S15
+carrere-emmanuel,Emmanuel Carrere,literature,alive,1,web_2026,web_2026: S15
+vila-matas-enrique,Enrique Vila-Matas,literature,alive,1,web_2026,"web_2026: S15, S16"
+sotiropoulos-ersi,Ersi Sotiropoulos,literature,alive,1,web_2026,"web_2026: S15, S16"
+lutz-garielle,Garielle Lutz,literature,alive,1,web_2026,web_2026: S15
+murnane-gerald,Gerald Murnane,literature,alive,1,web_2026,"web_2026: S15, S16"
+ismailov-hamid,Hamid Ismailov,literature,alive,1,web_2026,web_2026: S15
+murakami-haruki,Haruki Murakami,literature,alive,1,web_2026,"web_2026: S14, S15, S16, S17"
+garner-helen,Helen Garner,literature,alive,1,web_2026,web_2026: S15
+aridjis-homero,Homero Aridjis,literature,alive,1,web_2026,web_2026: S15
+hwang-sokyong,Hwang Sok-yong,literature,alive,1,web_2026,web_2026: S15
+cixous-helene,Hélène Cixous,literature,alive,1,web_2026,web_2026: S15
+al-koni-ibrahim,Ibrahim al-Koni,literature,alive,1,web_2026,web_2026: S15
+vitale-ida,Ida Vitale,literature,alive,1,web_2026,web_2026: S15
+vladislavic-ivan,Ivan Vladislavić,literature,alive,1,web_2026,web_2026: S15
+rowling-jk,J.K. Rowling,literature,alive,1,web_2026,web_2026: S15
+kincaid-jamaica,Jamaica Kincaid,literature,alive,1,web_2026,web_2026: S15
+harjo-joy,Joy Harjo,literature,alive,1,web_2026,web_2026: S15
+oates-joyce,Joyce Carol Oates,literature,alive,1,web_2026,web_2026: S15
+knausgaard-karl,Karl Ove Knausgaard,literature,alive,1,web_2026,web_2026: S15
+ko-un,Ko Un,literature,alive,1,web_2026,web_2026: S15
+aboulela-leila,Leila Aboulela,literature,alive,1,web_2026,web_2026: S15
+silko-leslie,Leslie Marmon Silko,literature,alive,1,web_2026,web_2026: S15
+jorge-lidia,Lidia Jorge,literature,alive,1,web_2026,web_2026: S15
+johnson-linton,Linton Kwesi Johnson,literature,alive,1,web_2026,web_2026: S15
+erdrich-louise,Louise Erdrich,literature,alive,1,web_2026,web_2026: S15
+ulitskaya-lyudmila,Lyudmila Ulitskaya,literature,alive,1,web_2026,"web_2026: S15, S16"
+dowlatabadi-mahmoud,Mahmoud Dowlatabadi,literature,alive,1,web_2026,web_2026: S15
+atwood-margaret,Margaret Atwood,literature,alive,1,web_2026,"web_2026: S15, S16, S17"
+ndiaye-marie,Marie NDiaye,literature,alive,1,web_2026,web_2026: S15
+robinson-marilynne,Marilynne Robinson,literature,alive,1,web_2026,web_2026: S15
+nussbaum-martha,Martha Nussbaum,literature,alive,1,web_2026,web_2026: S15
+couto-mia,Mia Couto,literature,alive,1,web_2026,web_2026: S15
+ondaatje-michael,Michael Ondaatje,literature,alive,1,web_2026,web_2026: S15
+houellebecq-michel,Michel Houellebecq,literature,alive,1,web_2026,"web_2026: S15, S16"
+kanai-mieko,Mieko Kanai,literature,alive,1,web_2026,web_2026: S15
+cartarescu-mircea,Mircea Cărtărescu,literature,alive,1,web_2026,"web_2026: S14, S15, S16"
+bail-murray,Murray Bail,literature,alive,1,web_2026,web_2026: S15
+gstrein-norbert,Norbert Gstrein,literature,alive,1,web_2026,web_2026: S15
+farah-nuruddin,Nuruddin Farah,literature,alive,1,web_2026,web_2026: S15
+grace-patricia,Patricia Grace,literature,alive,1,web_2026,web_2026: S15
+chamoiseau-patrick,Patrick Chamoiseau,literature,alive,1,web_2026,web_2026: S15
+chiziane-paulina,Paulina Chiziane,literature,alive,1,web_2026,web_2026: S15
+michon-pierre,Pierre Michon,literature,alive,1,web_2026,web_2026: S15
+cusk-rachel,Rachel Cusk,literature,alive,1,web_2026,web_2026: S15
+zurita-raul,Raul Zúrita,literature,alive,1,web_2026,web_2026: S15
+macfarlane-robert,Robert Macfarlane,literature,alive,1,web_2026,web_2026: S15
+krynicki-ryszard,Ryszard Krynicki,literature,alive,1,web_2026,web_2026: S15
+barakat-salim,Salim Barakat,literature,alive,1,web_2026,web_2026: S15
+rushdie-salman,Salman Rushdie,literature,alive,1,web_2026,"web_2026: S15, S17"
+yazbek-samar,Samar Yazbek,literature,alive,1,web_2026,web_2026: S15
+mukasonga-scholastique,Scholastique Mukasonga,literature,alive,1,web_2026,web_2026: S15
+barry-sebastian,Sebastian Barry,literature,alive,1,web_2026,web_2026: S15
+king-stephen,Stephen King,literature,alive,1,web_2026,web_2026: S15
+jelloun-tahar,Tahar Ben Jelloun,literature,alive,1,web_2026,web_2026: S15
+pynchon-thomas,Thomas Pynchon,literature,alive,1,web_2026,"web_2026: S15, S16, S17"
+sorokin-vladimir,Vladimir Sorokin,literature,alive,1,web_2026,web_2026: S15
+vollmann-william,William T. Vollmann,literature,alive,1,web_2026,web_2026: S15
+guo-xiaolu,Xiaolu Guo,literature,alive,1,web_2026,web_2026: S15
+yan-lianke,Yan Lianke,literature,alive,1,web_2026,web_2026: S15
+tawada-yoko,Yoko Tawada,literature,alive,1,web_2026,web_2026: S15
+yu-hua,Yu Hua,literature,alive,1,web_2026,web_2026: S15
+krainer-adrian,Adrian R. Krainer,medicine,alive,1,milestone_passed,milestone_passed: Antisense oligonucleotide therapy (SMA) (milestone 2016)
+saghatelian-alan,Alan Saghatelian,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+jeffreys-alec,Alec Jeffreys,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2002
+goldberg-alfred,Alfred L. Goldberg,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2005
+benabid-alim-louis,Alim-Louis Benabid,medicine,alive,1,swedish_proximity,swedish_proximity: honorary_doctorate_relevant_faculty:2020
+spradling-allan,Allan Spradling,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wiley Prize (Biomedical) 2024
+ablasser-andrea,Andrea Ablasser,medicine,alive,1,high_ppv_prize,high_ppv_prize: Paul Ehrlich & Ludwig Darmstaedter Prize 2025
+feinberg-andrew,Andrew P. Feinberg,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2009
+dejean-anne,Anne Dejean,medicine,alive,1,high_ppv_prize,high_ppv_prize: Shaw (Astronomy + Life Sci) 2026
+carvunis-anne-ruxandra,Anne-Ruxandra Carvunis,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+hunter-anthony,Anthony R. Hunter,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1998
+raj-arjun,Arjun Raj,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+levine-arnold,Arnold J. Levine,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1998
+widding-astrid,Astrid Söderbergh Widding,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+surani-azim,Azim Surani,medicine,alive,1,high_ppv_prize,high_ppv_prize: Paul Ehrlich & Ludwig Darmstaedter Prize 2026
+bassler-bonnie,Bonnie Bassler,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2016
+roska-botond,Botond Roska,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2024
+bennett-frank,C. Frank Bennett,medicine,alive,1,milestone_passed,milestone_passed: Antisense oligonucleotide therapy (SMA) (milestone 2016)
+kahn-ronald,C. Ronald Kahn,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1994
+carter-sue,C. Sue Carter,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+swanton-c,C. Swanton,medicine,unknown,1,insider_x,insider_x: @perlmannlab 2026-02-12
+shatz-carla,Carla J. Shatz,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1997
+dulac-catherine,Catherine Dulac,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+zuker-charles,Charles S. Zuker,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2026
+zhu-chen,Chen Zhu,medicine,alive,1,high_ppv_prize,high_ppv_prize: Shaw (Astronomy + Life Sci) 2026
+frith-chris,Chris Frith,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+holt-christine,Christine Holt,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2023
+bargmann-cornelia,Cornelia Bargmann,medicine,alive,1,symposium_dossier,"symposium_dossier: 2022-the-social-brain, 2022-when-neuropeptides-really-count-from-worm-to-hum"
+thompson-craig,Craig B. Thompson,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2012
+crews-craig,Craig Crews,medicine,unknown,1,swedish_proximity,swedish_proximity: prize_scheele:2021
+ginty-david,David Ginty,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2026
+anderson-david,David J. Anderson,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+solter-davor,Davor Solter,medicine,alive,1,high_ppv_prize,high_ppv_prize: Paul Ehrlich & Ludwig Darmstaedter Prize 2026
+kasper-dennis,Dennis L. Kasper,medicine,alive,1,high_ppv_prize,high_ppv_prize: Paul Ehrlich & Ludwig Darmstaedter Prize 2024
+gorlich-dirk,Dirk Görlich,medicine,alive,1,high_ppv_prize,high_ppv_prize: Lasker (Basic + Clinical + Special) 2025
+tsao-doris,Doris Ying Tsao,medicine,alive,1,high_ppv_prize,high_ppv_prize: Rosenstiel Award 2024
+boyden-edward,Edward S. Boyden,medicine,alive,1,milestone_passed,milestone_passed: Optogenetics (milestone 2021)
+fuchs-elaine,Elaine Fuchs,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2011
+lander-eric,Eric Lander,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2000
+schuman-erin,Erin Schuman,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2023
+ruoslahti-erkki,Erkki Ruoslahti,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1995
+bamberg-ernst,Ernst Bamberg,medicine,alive,1,milestone_passed,milestone_passed: Optogenetics (milestone 2021)
+macosko-evan,Evan Macosko,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+marder-eve,Eve Marder,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2016
+hartl-ulrich,F. Ulrich Hartl,medicine,alive,1,kalshi,kalshi: KXNOBELMED 0.11
+chen-fei,Fei Chen,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+collins-francis,Francis Collins,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1994
+winkler-frank,Frank Winkler,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2025
+gage-fred,Fred Gage,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2012
+struhl-gary,Gary Struhl,medicine,alive,1,high_ppv_prize,high_ppv_prize: Gairdner International 2025
+rubin-gerald,Gerald Rubin,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wiley Prize (Biomedical) 2026
+miesenbock-gero,Gero Miesenböck,medicine,alive,1,milestone_passed,milestone_passed: Optogenetics (milestone 2021)
+rizzolatti-giacomo,Giacomo Rizzolatti,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+storz-gisela,Gisela Storz,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+barber-glen,Glen Barber,medicine,alive,1,high_ppv_prize,high_ppv_prize: Paul Ehrlich & Ludwig Darmstaedter Prize 2025
+kroemer-guido,Guido Kroemer,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2014
+clevers-hans,Hans Clevers,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2004
+saxena-hari,Hari Mohan Saxena,medicine,unknown,1,web_2026,web_2026: S01
+lodish-harvey,Harvey Lodish,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+hobbs-helen,Helen Hobbs,medicine,alive,1,milestone_passed,milestone_passed: PCSK9 and LDL genetics (milestone 2015)
+lin-herbert,Herbert Lin,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+de-the-hugues,Hugues de Thé,medicine,alive,1,high_ppv_prize,high_ppv_prize: Shaw (Astronomy + Life Sci) 2026
+couzin-iain,Iain Couzin,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+weissman-irving,Irving Weissman,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2003
+greenwald-iva,Iva Greenwald,medicine,alive,1,high_ppv_prize,"high_ppv_prize: Gairdner International 2025, Wiley Prize (Biomedical) 2025"
+miller-jacques,Jacques Miller,medicine,alive,1,web_2026,web_2026: S01
+darnell-james,James E. Darnell,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1995
+kelly-jeffery,Jeffery W. Kelly,medicine,alive,1,high_ppv_prize,high_ppv_prize: Gairdner International 2026
+gordon-jeffrey,Jeffrey I. Gordon,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1996;2013
+wrana-jeffrey,Jeffrey Wrana,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+gonzalez-jesus,Jesús Tito González,medicine,unknown,1,high_ppv_prize,high_ppv_prize: Lasker (Basic + Clinical + Special) 2025
+lundeberg-joakim,Joakim Lundeberg,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+massague-joan,Joan Massagué,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+chory-joanne,Joanne Chory,medicine,unknown,1,high_ppv_prize,high_ppv_prize: Benjamin Franklin Medal (Phys/Chem/Life) 2024
+eng-john,John Eng,medicine,unknown,1,web_2026,web_2026: S01
+white-john,John G. White,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wiley Prize (Biomedical) 2026
+hardy-john,John Hardy,medicine,alive,1,milestone_passed,milestone_passed: Anti-amyloid therapy / amyloid hypothesis (milestone 2023)
+hughes-john,John Hughes,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+prensner-john,John Prensner,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+yates-john,John R. Yates III,medicine,alive,1,high_ppv_prize,high_ppv_prize: Gairdner International 2026
+frisen-jonas,Jonas Frisén,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+cohen-jonathan,Jonathan C. Cohen,medicine,alive,1,milestone_passed,milestone_passed: PCSK9 and LDL genetics (milestone 2015)
+weissman-jonathan,Jonathan Weissman,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+sahel-jose-alain,José-Alain Sahel,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wolf (Physics + Chemistry + Medicine) 2024
+couso-juan,Juan Pablo Couso,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+kimble-judith,Judith Kimble,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wiley Prize (Biomedical) 2024
+simons-kai,Kai Simons,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1996
+tye-kay,Kay Tye,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+mori-kazutoshi,Kazutoshi Mori,medicine,alive,1,kalshi,kalshi: KXNOBELMED 0.02
+tanaka-keiji,Keiji Tanaka,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2014
+campbell-kevin,Kevin Campbell,medicine,unknown,1,high_ppv_prize,high_ppv_prize: Louisa Gross Horwitz Prize 2025
+nasmyth-kim,Kim A. Nasmyth,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2007
+rajewsky-klaus,Klaus Rajewsky,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1997
+hattori-kunihiro,Kunihiro Hattori,medicine,alive,1,high_ppv_prize,high_ppv_prize: Lasker (Basic + Clinical + Special) 2026
+tsui-lap,Lap-Chee Tsui,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2004
+attisano-liliana,Liliana Attisano,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+jan-lily,Lily Jan,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1997
+cai-long,Long Cai,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+kunkel-louis,Louis M. Kunkel,medicine,alive,1,high_ppv_prize,high_ppv_prize: Louisa Gross Horwitz Prize 2025
+shapiro-lucy,Lucy Shapiro,medicine,alive,1,high_ppv_prize,high_ppv_prize: Lasker (Basic + Clinical + Special) 2025
+de-lecea-luis,Luis de Lecea,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+nedergaard-maiken,Maiken Nedergaard,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2024; prize_jahre:2023
+murthy-mala,Mala Murthy,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wiley Prize (Biomedical) 2026
+feldmann-marc,Marc Feldmann,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1998
+raichle-marcus,Marcus E. Raichle,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2010
+livingstone-margaret,Margaret Livingstone,medicine,alive,1,high_ppv_prize,high_ppv_prize: Rosenstiel Award 2024
+goulding-martyn,Martyn Goulding,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2022
+tschop-matthias,Matthias Tschöp,medicine,alive,1,swedish_proximity,swedish_proximity: honorary_doctorate_relevant_faculty:2024
+greenberg-michael,Michael E. Greenberg,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2023
+karin-michael,Michael Karin,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2003
+nicolelis-miguel,Miguel A. Nicolelis,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2007
+bissell-mina,Mina J. Bissell,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2011
+kanwisher-nancy,Nancy Kanwisher,medicine,alive,1,high_ppv_prize,high_ppv_prize: Rosenstiel Award 2024
+ingolia-nicholas,Nicholas Ingolia,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+douarin-nicole,Nicole Marthe Le Douarin,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1998
+mizushima-noboru,Noboru Mizushima,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2018
+hubner-norbert,Norbert Hubner,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+kiehn-ole,Ole Kiehn,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2022; prize_jahre:2026
+cossart-pascale,Pascale Cossart,medicine,alive,1,swedish_proximity,swedish_proximity: honorary_doctorate_ki:2020; honorary_doctorate_relevant_faculty:2020; ki_research_lecture:1998
+rakic-pasko,Pasko Rakic,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2003
+cramer-patrick,Patrick Cramer,medicine,alive,1,swedish_proximity,swedish_proximity: prize_aminoff:2022
+ernfors-patrik,Patrik Ernfors,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2026
+stahl-patrik,Patrik Ståhl,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+hegemann-peter,Peter Hegemann,medicine,alive,1,milestone_passed,milestone_passed: Optogenetics (milestone 2021)
+walter-peter,Peter Walter,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2019
+ten-dijke-peter,Peter ten Dijke,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+marrack-philippa,Philippa Marrack,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1995
+schofield-raymond,Raymond Schofield,medicine,unknown,1,high_ppv_prize,high_ppv_prize: Wiley Prize (Biomedical) 2024
+saxe-rebecca,Rebecca Saxe,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+dimarchi-richard,Richard DiMarchi,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:1996
+peto-richard,Richard Peto,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2008
+derynck-rik,Rik Derynck,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+malenka-robert,Robert Malenka,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+singer-robert,Robert Singer,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+waterston-robert,Robert Waterston,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2003
+weinberg-robert,Robert Weinberg,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+aebersold-ruedi,Ruedi Aebersold,medicine,alive,1,high_ppv_prize,high_ppv_prize: Gairdner International 2026
+tyagi-sanjay,Sanjay Tyagi,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-spatial-biology-in-the-genomics-era
+slavoff-sarah,Sarah Slavoff,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+emr-scott,Scott D. Emr,medicine,alive,1,high_ppv_prize,high_ppv_prize: Louisa Gross Horwitz Prize 2024
+van-heesch-sebastiaan,Sebastiaan van Heesch,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+seung-sebastian,Sebastian Seung,medicine,alive,1,high_ppv_prize,high_ppv_prize: Wiley Prize (Biomedical) 2026
+nagata-shigekazu,Shigekazu Nagata,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2012
+arber-silvia,Silvia Arber,medicine,alive,1,swedish_proximity,swedish_proximity: prize_brain_prize:2022
+snyder-solomon,Solomon H. Snyder,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+artavanis-tsakonas-spyros,Spyros Artavanis-Tsakonas,medicine,alive,1,high_ppv_prize,"high_ppv_prize: Gairdner International 2025, Wiley Prize (Biomedical) 2025"
+wenkel-stephan,Stephan Wenkel,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+rosenberg-steven,Steven A. Rosenberg,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2000
+mcknight-steven,Steven L. McKnight,medicine,alive,1,high_ppv_prize,high_ppv_prize: Lasker (Basic + Clinical + Special) 2025
+orkin-stuart,Stuart Orkin,medicine,alive,1,high_ppv_prize,high_ppv_prize: Shaw (Astronomy + Life Sci) 2024
+thein-swee,Swee Lay Thein,medicine,alive,1,high_ppv_prize,high_ppv_prize: Shaw (Astronomy + Life Sci) 2024
+kondo-takefumi,Takefumi Kondo,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+kitazawa-takehisa,Takehisa Kitazawa,medicine,alive,1,high_ppv_prize,high_ppv_prize: Lasker (Basic + Clinical + Special) 2026
+sakurai-takeshi,Takeshi Sakurai,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+boon-thierry,Thierry Boon,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1997
+helleday-thomas,Thomas Helleday,medicine,unknown,1,swedish_proximity,swedish_proximity: prize_jahre:2024
+insel-thomas,Thomas Insel,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+tuschl-thomas,Thomas Tuschl,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2008
+hokfelt-tomas,Tomas Hökfelt,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-when-neuropeptides-really-count-from-worm-to-hum
+igawa-tomoyuki,Tomoyuki Igawa,medicine,alive,1,high_ppv_prize,high_ppv_prize: Lasker (Basic + Clinical + Special) 2026
+frith-uta,Uta Frith,medicine,alive,1,symposium_dossier,symposium_dossier: 2022-the-social-brain
+nussenzweig-victor,Victor Nussenzweig,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1999
+sundquist-wesley,Wesley I. Sundquist,medicine,alive,1,high_ppv_prize,high_ppv_prize: Louisa Gross Horwitz Prize 2024
+catterall-william,William A. Catterall,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:2002
+freiwald-winrich,Winrich Freiwald,medicine,alive,1,high_ppv_prize,high_ppv_prize: Rosenstiel Award 2024
+baumeister-wolfgang,Wolfgang Baumeister,medicine,alive,1,high_ppv_prize,"high_ppv_prize: Gairdner International 2026, Shaw (Astronomy + Life Sci) 2025"
+wozney-unknown,Wozney,medicine,unknown,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+wang-xiao-fan,Xiao-Fan Wang,medicine,alive,1,symposium_dossier,symposium_dossier: 2024-tgf-family-future-frontiers-in-medicine-and-phys
+wang-xiaodong,Xiaodong Wang,medicine,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2017
+zhuang-xiaowei,Xiaowei Zhuang,medicine,alive,1,symposium_dossier,"symposium_dossier: 2024-spatial-biology-in-the-genomics-era, 2025-creative-uses-of-high-throughput-sequencing"
+chang-moore-yuan,Yuan Chang-Moore,medicine,alive,1,kalshi,kalshi: KXNOBELMED 0.02
+jan-yuh,Yuh Nung Jan,medicine,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1997
+kageyama-yuji,Yuji Kageyama,medicine,alive,1,symposium_dossier,symposium_dossier: 2026-decoding-microproteins-from-basic-biology-to-bio
+malual-alokiir,Alokiir Malual,peace,unknown,1,web_2026,web_2026: S18
+denouveaux-arthur,Arthur Dénouveaux,peace,unknown,1,web_2026,web_2026: S18
+org-committee-to-protect-journalists,Committee to Protect Journalists,peace,unknown,1,web_2026,web_2026: S11
+org-concordis-international,Concordis International,peace,unknown,1,web_2026,web_2026: S18
+attenborough-david,David Attenborough,peace,alive,1,web_2026,"web_2026: S13, S14"
+trump-donald,Donald Trump,peace,alive,1,web_2026,"web_2026: S13, S14, S18"
+albanese-francesca,Francesca Albanese,peace,alive,1,web_2026,web_2026: S18
+thunberg-greta,Greta Thunberg,peace,alive,1,web_2026,"web_2026: S14, S18"
+han-hakja,Hak Ja Han,peace,alive,1,web_2026,web_2026: S18
+safiya-hussam,Hussam Abu Safiya,peace,alive,1,web_2026,web_2026: S18
+org-international-association-of-judges,International Association of Judges,peace,unknown,1,web_2026,web_2026: S18
+org-international-court-of-justice,International Court of Justice,peace,unknown,1,web_2026,"web_2026: S12, S18"
+org-international-criminal-court,International Criminal Court,peace,unknown,1,web_2026,"web_2026: S11, S18"
+kushner-jared,Jared Kushner,peace,alive,1,web_2026,web_2026: S14
+coale-john,John Coale,peace,alive,1,web_2026,web_2026: S18
+sandu-maia,Maia Sandu,peace,alive,1,web_2026,web_2026: S18
+org-minneapolis,Minneapolis,peace,unknown,1,web_2026,web_2026: S18
+kuleba-mykola,Mykola Kuleba,peace,alive,1,web_2026,web_2026: S18
+kurbatov-nikolai,Nikolai Kurbatov,peace,unknown,1,web_2026,web_2026: S18
+org-people-of-ukraine,People of Ukraine,peace,unknown,1,web_2026,web_2026: S18
+leo-xiv-pope,Pope Leo XIV,peace,alive,1,web_2026,web_2026: S18
+al-saqqa-sara,Sara Al-Saqqa,peace,alive,1,web_2026,web_2026: S18
+org-save-the-children,Save the Children,peace,unknown,1,web_2026,"web_2026: S11, S18"
+sharif-shehbaz,Shehbaz Sharif,peace,alive,1,web_2026,web_2026: S11
+org-sudans-emergency-response-rooms,Sudan's Emergency Response Rooms,peace,unknown,1,web_2026,"web_2026: S11, S12, S13, S14, S18"
+org-the-citizen-collective-of-the-light-revolution,The Citizen Collective of the 'Light Revolution',peace,unknown,1,web_2026,web_2026: S18
+org-unrwa,UNRWA,peace,unknown,1,web_2026,"web_2026: S12, S18"
+nakate-vanessa,Vanessa Nakate,peace,alive,1,web_2026,web_2026: S13
+zelenskyy-volodymyr,Volodymyr Zelenskyy,peace,alive,1,web_2026,web_2026: S18
+org-world-trade-organisation,World Trade Organisation,peace,unknown,1,web_2026,web_2026: S18
+org-yad-vashem,Yad Vashem,peace,unknown,1,web_2026,web_2026: S18
+navalnaya-yulia,Yulia Navalnaya,peace,alive,1,web_2026,"web_2026: S11, S12, S18"
+org-alpha-collaboration,ALPHA collaboration,physics,unknown,1,web_2026,web_2026: S06
+org-athena-collaboration,ATHENA collaboration,physics,unknown,1,web_2026,web_2026: S06
+guth-alan,Alan Guth,physics,alive,1,web_2026,web_2026: S05
+schliesser-albert,Albert Schliesser,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+buonanno-alessandra,Alessandra Buonanno,physics,alive,1,swedish_proximity,swedish_proximity: prize_oskar_klein_lecture:2023
+heinrich-andreas,Andreas J. Heinrich,physics,alive,1,web_2026,web_2026: S05
+linde-andrei,Andrei Linde,physics,alive,1,web_2026,web_2026: S05
+cleland-andrew,Andrew N. Cleland,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+gonzalez-anthony,Anthony Gonzalez,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+heidmann-antoine,Antoine Heidmann,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+sen-ashoke,Ashoke Sen,physics,alive,1,swedish_proximity,swedish_proximity: prize_oskar_klein_lecture:2026
+vishwanath-ashvin,Ashvin Vishwanath,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+bernevig-andrei,B. Andrei Bernevig,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+halperin-bertrand,Bertrand I. Halperin,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+caves-carlton,Carlton Caves,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+pfleiderer-christian,Christian Pfleiderer,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+gerber-christoph,Christoph Gerber,physics,alive,1,web_2026,web_2026: S05
+monroe-christopher,Christopher Monroe,physics,alive,1,symposium_dossier,symposium_dossier: 2026-quantum-computing-and-simulation
+regal-cindy,Cindy Regal,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+felser-claudia,Claudia Felser,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+pellegrini-claudio,Claudio Pellegrini,physics,alive,1,web_2026,web_2026: S05
+vafa-cumrun,Cumrun Vafa,physics,unknown,1,swedish_proximity,swedish_proximity: honorary_doctorate_relevant_faculty:2020
+arovas-daniel,Daniel Arovas,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+weitz-david,David A. Weitz,physics,unknown,1,high_ppv_prize,high_ppv_prize: Benjamin Franklin Medal (Phys/Chem/Life) 2024
+kharzeev-dmitri,Dmitri Kharzeev,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+clowe-douglas,Douglas Clowe,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+aprile-elena,Elena Aprile,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+andrei-eva,Eva Andrei,physics,alive,1,web_2026,"web_2026: S04, S05, S06"
+marquardt-florian,Florian Marquardt,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+giessibl-franz,Franz Josef Giessibl,physics,alive,1,web_2026,web_2026: S05
+eleftheriades-george,George Eleftheriades,physics,alive,1,web_2026,"web_2026: S05, S06"
+moore-gregory,Gregory W. Moore,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+feve-gwendal,Gwendal Fève,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+sompolinsky-haim,Haim Sompolinsky,physics,unknown,1,swedish_proximity,swedish_proximity: prize_brain_prize:2024
+quinn-helen,Helen Quinn,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+katori-hidetoshi,Hidetoshi Katori,physics,alive,1,web_2026,web_2026: S05
+kanamori-hiroo,Hiroo Kanamori,physics,alive,1,web_2026,web_2026: S05
+ding-hong,Hong Ding,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+klebanov-igor,Igor Klebanov,physics,unknown,1,swedish_proximity,swedish_proximity: prize_oskar_klein_lecture:2022
+einasto-jaan,Jaan Einasto,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+harris-jack,Jack Harris,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+bloch-jacqueline,Jacqueline Bloch,physics,alive,1,web_2026,web_2026: S05
+myrheim-jan,Jan Myrheim,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+tsai-jaw-shen,Jaw-Shen Tsai,physics,alive,1,symposium_dossier,symposium_dossier: 2026-quantum-computing-and-simulation
+hangst-jeffrey,Jeffrey Hangst,physics,alive,1,web_2026,"web_2026: S05, S06"
+teufel-john,John D. Teufel,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+doyle-john,John Doyle,physics,unknown,1,swedish_proximity,swedish_proximity: honorary_doctorate_relevant_faculty:2022
+ellis-john-2,John Ellis,physics,alive,1,web_2026,web_2026: S05
+perdew-john,John Perdew,physics,alive,1,high_ppv_prize,high_ppv_prize: Benjamin Franklin Medal (Phys/Chem/Life) 2025
+bond-john,John Richard Bond,physics,alive,1,high_ppv_prize,high_ppv_prize: Shaw (Astronomy + Life Sci) 2025
+leinaas-jon,Jon Magne Leinaas,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+navarro-julio,Julio Navarro,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+freese-katherine,Katherine Freese,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+soai-kenso,Kenso Soai,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+vahala-kerry,Kerry Vahala,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+lehnert-konrad,Konrad Lehnert,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+tsakmakidis-kosmas,Kosmas Tsakmakidis,physics,unknown,1,web_2026,web_2026: S05
+molenkamp-laurens,Laurens W. Molenkamp,physics,alive,1,milestone_passed,milestone_passed: Topological insulators (milestone 2007)
+hau-lene,Lene Hau,physics,alive,1,web_2026,web_2026: S05
+ju-long,Long Ju,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+hasan-zahid,M. Zahid Hasan,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+aspelmeyer-markus,Markus Aspelmeyer,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+greiner-markus,Markus Greiner,physics,alive,1,symposium_dossier,symposium_dossier: 2026-quantum-computing-and-simulation
+markevitch-maxim,Maxim Markevitch,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+manfra-michael,Michael J. Manfra,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+cohen-nathan,Nathan Cohen,physics,unknown,1,web_2026,web_2026: S05
+mavalvala-nergis,Nergis Mavalvala,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+read-nicholas,Nicholas Read,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+hess-ortwin,Ortwin Hess,physics,alive,1,web_2026,web_2026: S05
+painter-oskar,Oskar Painter,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+steinhardt-paul,Paul Steinhardt,physics,alive,1,web_2026,web_2026: S05
+shearer-peter,Peter Shearer,physics,alive,1,web_2026,web_2026: S05
+sikivie-pierre,Pierre Sikivie,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+li-qiang,Qiang Li,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+blatt-rainer,Rainer Blatt,physics,alive,1,symposium_dossier,symposium_dossier: 2026-quantum-computing-and-simulation
+schoelkopf-robert,Robert Schoelkopf,physics,alive,1,symposium_dossier,symposium_dossier: 2026-quantum-computing-and-simulation
+naaman-ron,Ron Naaman,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+kerr-roy,Roy Kerr,physics,unknown,1,swedish_proximity,swedish_proximity: prize_oskar_klein_lecture:2020
+faber-sandra,Sandra Faber,physics,alive,1,symposium_dossier,symposium_dossier: 2022-dark-matter
+wu-sau,Sau Lan Wu,physics,alive,1,web_2026,web_2026: S05
+lloyd-seth,Seth Lloyd,physics,alive,1,symposium_dossier,symposium_dossier: 2026-quantum-computing-and-simulation
+kulkarni-shrinivas,Shrinivas R. Kulkarni,physics,unknown,1,high_ppv_prize,high_ppv_prize: Shaw (Astronomy + Life Sci) 2024
+harris-stephen,Stephen E. Harris,physics,alive,1,web_2026,web_2026: S05
+girvin-steven,Steven Girvin,physics,alive,1,symposium_dossier,symposium_dossier: 2026-quantum-computing-and-simulation
+kippenberg-tobias,Tobias J. Kippenberg,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+springel-volker,Volker Springel,physics,alive,1,web_2026,web_2026: S05
+freedman-wendy,Wendy Laurel Freedman,physics,alive,1,high_ppv_prize,high_ppv_prize: Benjamin Franklin Medal (Phys/Chem/Life) 2026
+dai-xi,Xi Dai,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+zhang-xiang,Xiang Zhang,physics,alive,1,symposium_dossier,symposium_dossier: 2026-metamaterials-science-and-technology
+xu-xiaodong,Xiaodong Xu,physics,alive,1,symposium_dossier,symposium_dossier: 2023-anyons-from-idea-to-reality
+chu-yiwen,Yiwen Chu,physics,alive,1,symposium_dossier,symposium_dossier: 2024-quantum-control-of-mechanical-systems
+tokura-yoshinori,Yoshinori Tokura,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+paltiel-yossi,Yossi Paltiel,physics,alive,1,symposium_dossier,symposium_dossier: 2021-chiral-matters
+fischer-alain,Alain Fischer,science,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2001
+damasio-antonio,Antonio Damasio,science,unknown,1,swedish_proximity,swedish_proximity: ki_research_lecture:1995
+davis-mark,Mark E. Davis,science,alive,1,swedish_proximity,swedish_proximity: ki_research_lecture:2001
+sahin-ugur,Uğur Şahin,science,unknown,1,swedish_proximity,swedish_proximity: prize_novo_nordisk_prize:2022
+tureci-ozlem,Özlem Türeci,science,unknown,1,swedish_proximity,swedish_proximity: prize_novo_nordisk_prize:2022

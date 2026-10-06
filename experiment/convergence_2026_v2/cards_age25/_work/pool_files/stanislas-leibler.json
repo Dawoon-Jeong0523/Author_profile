@@ -1,0 +1,654 @@
+{
+ "person": "Stanislas Leibler",
+ "profile": "A5088016503",
+ "ids": [
+  "A5088016503"
+ ],
+ "options": [
+  "for the development of synthetic gene circuits — James J. Collins, Michael Elowitz, Stanislas Leibler"
+ ],
+ "birth_year": 1957,
+ "cutoff_year": 1982,
+ "works": [
+  {
+   "paper_id": "W1645305843",
+   "year": 2000,
+   "cited_by_count": 4683,
+   "title": "A synthetic oscillatory network of transcriptional regulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1644749979",
+   "year": 1999,
+   "cited_by_count": 3636,
+   "title": "From molecular to modular cell biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148323109",
+   "year": 2004,
+   "cited_by_count": 3118,
+   "title": "Bacterial Persistence as a Phenotypic Switch",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117056464",
+   "year": 1997,
+   "cited_by_count": 1553,
+   "title": "Robustness in simple biochemical networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043487490",
+   "year": 2005,
+   "cited_by_count": 1395,
+   "title": "Phenotypic Diversity, Population Growth, and Information in Fluctuating Environments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1637936532",
+   "year": 1999,
+   "cited_by_count": 1152,
+   "title": "Robustness in bacterial chemotaxis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1503265874",
+   "year": 1997,
+   "cited_by_count": 871,
+   "title": "Self-organization of microtubules and motors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151457629",
+   "year": 2009,
+   "cited_by_count": 736,
+   "title": "Protein Sectors: Evolutionary Units of Three-Dimensional Structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171539493",
+   "year": 1999,
+   "cited_by_count": 630,
+   "title": "Protein Mobility in the Cytoplasm of Escherichia coli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026078372",
+   "year": 2000,
+   "cited_by_count": 629,
+   "title": "An Ultrasensitive Bacterial Motor Revealed by Monitoring Signaling Proteins in Single Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029189987",
+   "year": 2001,
+   "cited_by_count": 614,
+   "title": "Physical Properties Determining Self-Organization of Motors and Microtubules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127240867",
+   "year": 2005,
+   "cited_by_count": 612,
+   "title": "Bacterial Persistence",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108493072",
+   "year": 2002,
+   "cited_by_count": 605,
+   "title": "Mechanisms of noise-resistance in genetic oscillators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044917835",
+   "year": 2013,
+   "cited_by_count": 576,
+   "title": "Dynamic Persistence of Antibiotic-Stressed Mycobacteria",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1557270760",
+   "year": 2002,
+   "cited_by_count": 539,
+   "title": "Combinatorial Synthesis of Genetic Networks",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1575619134",
+   "year": 2000,
+   "cited_by_count": 538,
+   "title": "Circadian clocks limited by noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035861275",
+   "year": 1985,
+   "cited_by_count": 524,
+   "title": "Effects of Thermal Fluctuations on Systems with Small Surface Tension",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073881036",
+   "year": 2002,
+   "cited_by_count": 500,
+   "title": "Establishment of developmental precision and proportions in the early Drosophila embryo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112360585",
+   "year": 1996,
+   "cited_by_count": 465,
+   "title": "Subdiffusion and Anomalous Local Viscoelasticity in Actin Networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167774038",
+   "year": 1992,
+   "cited_by_count": 413,
+   "title": "Control of microtubule dynamics and length by cyclin A- and cyclin B-dependent kinases in Xenopus egg extracts.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038540528",
+   "year": 2001,
+   "cited_by_count": 373,
+   "title": "Ordering Genes in a Flagella Pathway by Analysis of Expression Kinetics from Living Bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095579053",
+   "year": 1993,
+   "cited_by_count": 351,
+   "title": "Physical aspects of the growth and regulation of microtubule structures",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009718457",
+   "year": 1986,
+   "cited_by_count": 337,
+   "title": "Unbinding Transitions of Interacting Membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030193906",
+   "year": 1986,
+   "cited_by_count": 318,
+   "title": "Curvature instability in membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146433021",
+   "year": 2009,
+   "cited_by_count": 298,
+   "title": "Simpson's Paradox in a Synthetic Microbial System",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966199886",
+   "year": 1983,
+   "cited_by_count": 279,
+   "title": "Critical Wetting in Three Dimensions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978093309",
+   "year": 1987,
+   "cited_by_count": 254,
+   "title": "Ordered and curved meso-structures in membranes and amphiphilic films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091206106",
+   "year": 2004,
+   "cited_by_count": 247,
+   "title": "Resilient circadian oscillator revealed in individual cyanobacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031398978",
+   "year": 1994,
+   "cited_by_count": 238,
+   "title": "Dynamic instability of microtubules as an efficient way to search in space.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121141482",
+   "year": 1993,
+   "cited_by_count": 232,
+   "title": "Porters versus rowers: a unified stochastic model of motor proteins.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007368235",
+   "year": 1997,
+   "cited_by_count": 215,
+   "title": "Assembly and positioning of microtubule asters in microfabricated chambers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080017805",
+   "year": 1988,
+   "cited_by_count": 207,
+   "title": "Geometrical aspects of the frustration in the cubic phases of lyotropic liquid crystals.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103029515",
+   "year": 2003,
+   "cited_by_count": 207,
+   "title": "Modeling network dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092835482",
+   "year": 2012,
+   "cited_by_count": 196,
+   "title": "Speed, dissipation, and error in kinetic proofreading",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971724638",
+   "year": 1996,
+   "cited_by_count": 195,
+   "title": "A magnetic manipulator for studying local rheology and micromechanical properties of biological systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160903198",
+   "year": 2009,
+   "cited_by_count": 195,
+   "title": "Neuronal couplings between retinal ganglion cells inferred by efficient inverse statistical physics methods",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168275195",
+   "year": 2003,
+   "cited_by_count": 189,
+   "title": "DNA Looping and Physical Constraints on Transcription Regulation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969036334",
+   "year": 1987,
+   "cited_by_count": 184,
+   "title": "Thermodynamic behavior of two-dimensional vesicles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051530551",
+   "year": 1991,
+   "cited_by_count": 170,
+   "title": "Computer Simulations of Self-Assembled Membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010286179",
+   "year": 1996,
+   "cited_by_count": 163,
+   "title": "Kinetics of self-assembling microtubules: an \"inverse problem\" in biochemistry.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979388055",
+   "year": 1988,
+   "cited_by_count": 161,
+   "title": "Phase behaviour of an ensemble of nonintersecting random fluid films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112112943",
+   "year": 1997,
+   "cited_by_count": 161,
+   "title": "Photoactivation turns green fluorescent protein red",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963702929",
+   "year": 1983,
+   "cited_by_count": 149,
+   "title": "Critical wetting : the domain of validity of mean field theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040263625",
+   "year": 1998,
+   "cited_by_count": 148,
+   "title": "Chromophore-assisted light inactivation and self-organization of microtubules and motors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147670151",
+   "year": 2003,
+   "cited_by_count": 146,
+   "title": "Environmental stresses can alleviate the average deleterious effect of mutations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145897869",
+   "year": 2010,
+   "cited_by_count": 133,
+   "title": "An interdomain sector mediating allostery in Hsp70 molecular chaperones",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094809563",
+   "year": 1994,
+   "cited_by_count": 130,
+   "title": "Moving forward noisily",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063282276",
+   "year": 1994,
+   "cited_by_count": 126,
+   "title": "Stochastic Dynamics of Microtubules: A Model for Caps and Catastrophes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025778135",
+   "year": 1996,
+   "cited_by_count": 124,
+   "title": "Microtubule dynamics: Caps, catastrophes, and coupled hydrolysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052841316",
+   "year": 1989,
+   "cited_by_count": 121,
+   "title": "Localization Transition of Random Chains at Interfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2903274511",
+   "year": 2018,
+   "cited_by_count": 114,
+   "title": "Benefits of phenotypic plasticity for population growth in varying environments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995510049",
+   "year": 1995,
+   "cited_by_count": 113,
+   "title": "Spiral Defects in Motility Assays: A Measure of Motor Protein Force",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058473280",
+   "year": 2010,
+   "cited_by_count": 110,
+   "title": "Individual histories and selection in heterogeneous populations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028763603",
+   "year": 1987,
+   "cited_by_count": 108,
+   "title": "Complete unbinding and quasi-long-range order in lamellar phases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999824974",
+   "year": 2015,
+   "cited_by_count": 107,
+   "title": "Protein Sectors: Statistical Coupling Analysis versus Conservation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023545782",
+   "year": 1989,
+   "cited_by_count": 103,
+   "title": "Thermodynamical behavior of polymerized membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141213178",
+   "year": 2010,
+   "cited_by_count": 102,
+   "title": "Cooperation and Hamilton's rule in a simple synthetic microbial system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117291237",
+   "year": 2012,
+   "cited_by_count": 101,
+   "title": "Contingency and Statistical Laws in Replicate Microbial Closed Ecosystems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976856178",
+   "year": 2014,
+   "cited_by_count": 100,
+   "title": "Discriminatory Proofreading Regimes in Nonequilibrium Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150036973",
+   "year": 2014,
+   "cited_by_count": 99,
+   "title": "A model for the generation and transmission of variations in evolution",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999556680",
+   "year": 2005,
+   "cited_by_count": 95,
+   "title": "Precise domain specification in the developing Drosophila embryo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057866576",
+   "year": 1995,
+   "cited_by_count": 90,
+   "title": "\"Gliding Assays\" for Motor Proteins: A Theoretical Analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2521092641",
+   "year": 2016,
+   "cited_by_count": 88,
+   "title": "Strain analysis of protein structures and low dimensionality of mechanical allosteric couplings",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095170141",
+   "year": 2014,
+   "cited_by_count": 87,
+   "title": "Multifarious assembly mixtures: Systems allowing retrieval of diverse stored structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949957529",
+   "year": 2019,
+   "cited_by_count": 86,
+   "title": "Environment-to-phenotype mapping and adaptation strategies in varying environments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036009292",
+   "year": 1988,
+   "cited_by_count": 85,
+   "title": "Crumpling and Buckling Transitions in Polymerized Membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068573595",
+   "year": 1996,
+   "cited_by_count": 84,
+   "title": "Influence of M-phase chromatin on the anisotropy of microtubule asters.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969776057",
+   "year": 1996,
+   "cited_by_count": 80,
+   "title": "Motor protein mechanics: a stochastic model with minimal mechanochemical coupling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038691360",
+   "year": 1988,
+   "cited_by_count": 79,
+   "title": "Model for Lamellar Phases of Interacting Lipid Membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092704790",
+   "year": 2011,
+   "cited_by_count": 78,
+   "title": "Quantitation of Cellular Dynamics in Growing Arabidopsis Roots with Light Sheet Microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028790713",
+   "year": 1982,
+   "cited_by_count": 74,
+   "title": "Observation of an anomalous adsorption in a critical binary mixture",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986523213",
+   "year": 2007,
+   "cited_by_count": 73,
+   "title": "Printing Multistrain Bacterial Patterns with a Piezoelectric Inkjet Printer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065733390",
+   "year": 1991,
+   "cited_by_count": 70,
+   "title": "Vanishing tension of fluctuating membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987637559",
+   "year": 1995,
+   "cited_by_count": 66,
+   "title": "Spontaneous nucleation of microtubules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032024800",
+   "year": 2013,
+   "cited_by_count": 64,
+   "title": "Behavioral diversity in microbes and low-dimensional phenotypic spaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035103992",
+   "year": 1989,
+   "cited_by_count": 62,
+   "title": "Unbinding Transitions of Semi-flexible Polymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2562286467",
+   "year": 2015,
+   "cited_by_count": 60,
+   "title": "Strongly Deterministic Population Dynamics in Closed Microbial Communities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2997054914",
+   "year": 2019,
+   "cited_by_count": 59,
+   "title": "Lessons from equilibrium statistical physics regarding the assembly of protein complexes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077287973",
+   "year": 1983,
+   "cited_by_count": 49,
+   "title": "Critical adsorption: The renormalization-group approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002089514",
+   "year": 1989,
+   "cited_by_count": 46,
+   "title": "Structural phase transitions of interacting membranes",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

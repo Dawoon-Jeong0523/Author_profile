@@ -1,0 +1,242 @@
+Akira Fujishima:
+  picks:
+  - paper_id: W2042492216
+    year: 1972
+    title: 'Electrochemical Photolysis of Water at a Semiconductor Electrode'
+    metrics: true
+    in_profile: true
+    reason: The Fujishima-Honda Nature paper, the landmark first report of light-driven water splitting at a TiO2 semiconductor electrode.
+  - paper_id: W2084936898
+    year: 1971
+    title: 'Electrochemical Evidence for the Mechanism of the Primary Stage of Photosynthesis'
+    metrics: true
+    in_profile: true
+    reason: Early Fujishima-Honda report of photo-induced oxygen evolution at an illuminated TiO2 electrode, the direct precursor of the 1972 water-photolysis paper.
+  - paper_id: W2048629787
+    year: 1975
+    title: 'Hydrogen Production under Sunlight with an Electrochemical Photocell'
+    metrics: true
+    in_profile: true
+    reason: Extends the TiO2 photoelectrochemical cell to hydrogen production under real sunlight, the key early follow-up on solar water splitting.
+  n_related: 40
+  note: 'The 1969 Japanese-language first report (Kogyo Kagaku Zasshi) is not in the list. Most related works are later TiO2 photocatalysis applications and reviews (self-cleaning, superhydrophilicity, environmental cleanup) rather than water splitting itself; the 1979 Nature paper on CO2 photoreduction is related but a different reaction. The record also holds photomagnetic Prussian-blue, diamond-electrode and liquid-crystal works, which look like collaborations of the same person, not a namesake.'
+Arthur L. Horwich:
+  picks:
+  - paper_id: W2081422975
+    year: 1989
+    title: 'Mitochondrial heat-shock protein hsp60 is essential for assembly of proteins imported into yeast mitochondria'
+    metrics: true
+    in_profile: true
+    reason: Horwich lab yeast genetics paper (Cheng et al. 1989) showing hsp60 is required to fold and assemble imported proteins, the founding discovery of chaperonin-assisted folding.
+  - paper_id: W2062775685
+    year: 1989
+    title: 'Protein folding in mitochondria requires complex formation with hsp60 and ATP hydrolysis'
+    metrics: true
+    in_profile: true
+    reason: Companion 1989 Nature paper with Hartl and Neupert showing that folding requires ATP-dependent binding to hsp60, establishing the chaperone mechanism.
+  - paper_id: W1974347829
+    year: 1991
+    title: 'Chaperonin-mediated protein folding at the surface of groEL through a ''molten globule''-like intermediate'
+    metrics: true
+    in_profile: true
+    reason: Joint Hartl-Horwich paper defining how GroEL binds a molten-globule folding intermediate and releases it with ATP and GroES, the key early mechanistic work.
+  n_related: 55
+  note: 'The 1994 GroEL crystal structure (W1892996896) and the 1997 GroEL-GroES-(ADP)7 structure are also central and in the list. Duplicate record: Protein aggregation in disease: a role for folding intermediates forming specific multimeric interactions (2002) appears twice (W1974335852, W4231988541). The non-chaperone works (ornithine transcarbamylase cloning, mitochondrial import, ALS/SOD1 models) are his own earlier and later lines of work, not a namesake.'
+Donald A. Tomalia:
+  picks:
+  - paper_id: W2009500363
+    year: 1985
+    title: 'A New Class of Polymers: Starburst-Dendritic Macromolecules'
+    metrics: true
+    in_profile: true
+    reason: The 1985 Polymer Journal paper that first reported PAMAM starburst dendrimers as a new class of polymers.
+  - paper_id: W2073296825
+    year: 1986
+    title: 'Dendritic macromolecules: synthesis of starburst dendrimers'
+    metrics: true
+    in_profile: true
+    reason: Key early full report of the divergent, generation-by-generation synthesis of starburst dendrimers.
+  - paper_id: W2039264218
+    year: 1987
+    title: 'Starburst dendrimers. 4. Covalently fixed unimolecular assemblages reiminiscent of spheroidal micelles'
+    metrics: true
+    in_profile: true
+    reason: Part of the founding Starburst dendrimers series, establishing dendrimers as covalently fixed unimolecular micelle-like objects.
+  n_related: 74
+  note: 'The 1990 Angewandte review (W2168206768) is the most-cited defining overview but was ranked below the originals; its German-language edition (W2161699170) is a duplicate. Dendrimers in biomedical applications - reflections on the field appears twice (W2006682004, 2005 and W3022238111, 2012). Two RNA-oligonucleotide liver works (2013, 2019) look out of field and may be a loose collaboration or a namesake mix-in.'
+Harry B. Gray:
+  picks:
+  - paper_id: W1965672697
+    year: 1982
+    title: 'Electron-transfer kinetics of pentaammineruthenium(III)(histidine-33)-ferricytochrome c. Measurement of the rate of intramolecular electron transfer between redox centers separated by 15.ANG. in a protein'
+    metrics: true
+    in_profile: true
+    reason: The landmark first measurement (Winkler, Gray et al.) of long-range intramolecular electron transfer over 15 Å in a ruthenium-modified protein.
+  - paper_id: W2069118865
+    year: 1986
+    title: 'Long-Range Electron Transfer in Heme Proteins'
+    metrics: false
+    in_profile: true
+    reason: Science paper extending the Ru-labeled protein method to show how electron-transfer rates fall off with distance in heme proteins.
+  - paper_id: W2033288176
+    year: 1992
+    title: 'Electron-Tunneling Pathways in Cytochrome c'
+    metrics: true
+    in_profile: true
+    reason: Experimental test (Wuttke, Winkler, Gray) showing that protein electron-tunneling rates follow specific bonded pathways, a defining step in long-range protein electron transfer.
+  n_related: 18
+  note: 'The 1996 Annual Review Electron transfer in proteins and the 1992 Science pathways paper with Beratan and Onuchic (title misspelled Oroteins, W1965428140) are also central. Electron flow through metalloproteins appears with the same title as W3081956156 (2010) and W2043821600 (2013); these may be two separate articles. The other works are his own ligand-field, inorganic spectroscopy and solar-fuels research, not a namesake.'
+Henry J. Snaith:
+  picks:
+  - paper_id: W1965464747
+    year: 2012
+    title: 'Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites'
+    metrics: true
+    in_profile: true
+    reason: The 2012 Science paper with Miyasaka that introduced the solid-state, meso-superstructured perovskite solar cell at about 10 % efficiency.
+  - paper_id: W2073726416
+    year: 2013
+    title: 'Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber'
+    metrics: true
+    in_profile: true
+    reason: Showed micrometre-scale carrier diffusion lengths in mixed-halide perovskites, explaining why thin-film perovskite cells work.
+  - paper_id: W2144574847
+    year: 2013
+    title: 'Efficient planar heterojunction perovskite solar cells by vapour deposition'
+    metrics: true
+    in_profile: true
+    reason: Demonstrated that perovskite cells work without a mesoporous scaffold, as vapour-deposited planar heterojunctions at over 15 % efficiency.
+  n_related: 78
+  note: 'All three picks are perovskite because perovskite is common to both options. His solid-state dye-sensitized cell work is also in the list (2006 Li-salt doping of the hole transporter, 2007 review, 2009 maximum-efficiency estimate, 2010 SnO2 cells) but ranks below the perovskite originals. No sign of a namesake.'
+Jens K. Nørskov:
+  picks:
+  - paper_id: W2091775405
+    year: 1995
+    title: 'Electronic factors determining the reactivity of metal surfaces'
+    metrics: true
+    in_profile: true
+    reason: The Hammer-Nørskov paper introducing the d-band model, the core theoretical descriptor of transition-metal surface reactivity.
+  - paper_id: W1973634181
+    year: 2007
+    title: 'Scaling Properties of Adsorption Energies for Hydrogen-Containing Molecules on Transition-Metal Surfaces'
+    metrics: true
+    in_profile: true
+    reason: Established adsorption-energy scaling relations, the basis of descriptor-based volcano analysis and computational catalyst design.
+  - paper_id: W2167035995
+    year: 2004
+    title: 'Origin of the Overpotential for Oxygen Reduction at a Fuel-Cell Cathode'
+    metrics: true
+    in_profile: true
+    reason: Introduced the computational hydrogen electrode, which carried the surface-catalysis theory into electrocatalysis.
+  n_related: 60
+  note: 'Other defining works in the list are Why gold is the noblest of all the metals (1995), the RPBE functional (1999), Universality in Heterogeneous Catalysis (2002) and the 2004 Brønsted-Evans-Polanyi volcano paper. The original Nørskov-Lang 1980 effective-medium theory paper is not in the list (only the 1987 follow-up W2138728043). Several works are experimental collaborations (MoS2, NiFe and IrOx catalysts, ammonia protocol) rather than theory, but none looks like a namesake.'
+John F. Hartwig:
+  picks:
+  - paper_id: W2052830222
+    year: 1994
+    title: 'Palladium-catalyzed formation of carbon-nitrogen bonds. Reaction intermediates and catalyst improvements in the hetero cross-coupling of aryl halides and tin amides'
+    metrics: true
+    in_profile: true
+    reason: The 1994 JACS report (with Paul and Patt) on Pd-catalyzed aryl C-N coupling and its intermediates, published alongside Buchwald and founding Buchwald-Hartwig amination.
+  - paper_id: W1993847723
+    year: 1995
+    title: 'Palladium-catalyzed synthesis of arylamines from aryl halides. Mechanistic studies lead to coupling in the absence of tin reagents'
+    metrics: true
+    in_profile: true
+    reason: The 1995 tin-free amination of aryl halides with free amines, the step that made Pd-catalyzed C-N coupling practical.
+  - paper_id: W2045444647
+    year: 2000
+    title: 'Thermal, Catalytic, Regiospecific Functionalization of Alkanes'
+    metrics: true
+    in_profile: true
+    reason: The 2000 Science report of catalytic, terminal-selective C-H borylation of alkanes, the landmark of his C-H functionalization work.
+  n_related: 55
+  note: 'For C-H functionalization, the 1997 Science paper on stoichiometric alkane functionalization by metal boryl complexes (W2088019388) and the 2002 Ir/bipyridine arene borylation (W2018823964) are also landmark entries. Duplicates: German-language editions of the 1998 Angewandte review (W2031255003) and the 2012 kinetic-isotope-effect review (W2127983660). No sign of a namesake.'
+Mark D. Matteucci:
+  picks:
+  - paper_id: W2054615424
+    year: 1981
+    title: 'Synthesis of deoxyoligonucleotides on a polymer support'
+    metrics: true
+    in_profile: true
+    reason: The Matteucci-Caruthers JACS paper on solid-phase synthesis of DNA by phosphite-triester chemistry on silica, the platform for automated phosphoramidite synthesis.
+  - paper_id: W2005815600
+    year: 1980
+    title: 'The synthesis of oligodeoxyprimidines on a polymer support'
+    metrics: true
+    in_profile: true
+    reason: The first report of the Matteucci-Caruthers polymer-supported phosphite approach to oligodeoxynucleotides.
+  - paper_id: W2410059712
+    year: 1983
+    title: 'Deoxyoligonucleotide synthesis via the phosphoramidite method.'
+    metrics: false
+    in_profile: false
+    reason: Caruthers-group account (with Beaucage and Matteucci) of the full phosphoramidite method for automated DNA synthesis.
+  n_related: 10
+  note: 'The 1981 Beaucage-Caruthers phosphoramidite paper (Tetrahedron Letters) is not his and is not in the list. Also related: the 1983 5-phenyltetrazole activator paper and the 1980 ZnBr2 detritylation paper. The later antisense, triple-helix and TH-302 hypoxia-prodrug works fit his moves to Gilead and Threshold; the 1986 yeast interferon and alkaline-phosphatase papers fit his time at Genentech, so no clear namesake. Duplicate: a ChemInform abstract (W2030792840) repeats W2952072088.'
+Sharon Hammes-Schiffer:
+  picks:
+  - paper_id: W2079642199
+    year: 1999
+    title: 'Multistate continuum theory for multiple charge transfer reactions in solution'
+    metrics: true
+    in_profile: true
+    reason: The founding Soudackov-Hammes-Schiffer multistate continuum theory, the framework for treating coupled proton and electron transfer in solution.
+  - paper_id: W1978936677
+    year: 2000
+    title: 'Derivation of rate expressions for nonadiabatic proton-coupled electron transfer reactions in solution'
+    metrics: true
+    in_profile: true
+    reason: Derived the nonadiabatic PCET rate expressions that underpin her PCET theory and its kinetic-isotope-effect predictions.
+  - paper_id: W2002265279
+    year: 1997
+    title: 'Proton-coupled electron transfer reactions in solution: Molecular dynamics with quantum transitions for model systems'
+    metrics: true
+    in_profile: true
+    reason: Her earliest PCET-specific dynamics study, which applied quantum-transition molecular dynamics to model PCET systems.
+  n_related: 30
+  note: 'Later defining reviews in the list include Theoretical Perspectives on PCET (2001), the 2008 and 2010 PCET reviews and the 2010 Chemical Reviews article with Stuchebrukhov. Many other works cover enzyme motion and hydrogen tunneling, the nuclear-electronic orbital method, and the multi-author Q-Chem 5 software paper. No sign of a namesake.'
+Stanislas Leibler:
+  picks:
+  - paper_id: W1645305843
+    year: 2000
+    title: 'A synthetic oscillatory network of transcriptional regulators'
+    metrics: true
+    in_profile: true
+    reason: The Elowitz-Leibler repressilator, one of the two founding demonstrations of synthetic gene circuits.
+  - paper_id: W1557270760
+    year: 2002
+    title: 'Combinatorial Synthesis of Genetic Networks'
+    metrics: false
+    in_profile: true
+    reason: Built combinatorial libraries of synthetic transcriptional networks to map circuit wiring to logic behaviour, a key follow-up on synthetic circuit design.
+  - paper_id: W2146433021
+    year: 2009
+    title: 'Simpson''s Paradox in a Synthetic Microbial System'
+    metrics: false
+    in_profile: true
+    reason: Used an engineered gene-circuit microbial system to test population-level evolutionary dynamics, applying synthetic circuits to biological questions.
+  n_related: 6
+  note: 'Few works concern synthetic circuits. Most of the record is his earlier soft-matter physics (membranes, wetting) and his later work on cytoskeleton self-organization, robustness and bacterial persistence, all from the same person, not a namesake. Mechanisms of noise-resistance in genetic oscillators (2002) and From molecular to modular cell biology (1999) are related but theoretical or perspective pieces.'
+Stephen L. Buchwald:
+  picks:
+  - paper_id: W2000441241
+    year: 1994
+    title: 'Palladium-Catalyzed Aromatic Aminations with in situ Generated Aminostannanes'
+    metrics: true
+    in_profile: true
+    reason: The 1994 Guram-Buchwald report of Pd-catalyzed aryl amination, published alongside Hartwig and founding Buchwald-Hartwig C-N coupling.
+  - paper_id: W2025358565
+    year: 1995
+    title: 'A Simple Catalytic Method for the Conversion of Aryl Bromides to Arylamines'
+    metrics: true
+    in_profile: true
+    reason: The 1995 tin-free Pd-catalyzed amination of aryl bromides with free amines, the practical breakthrough of the reaction.
+  - paper_id: W2064730371
+    year: 1996
+    title: 'An Improved Catalyst System for Aromatic Carbon−Nitrogen Bond Formation: The Possible Involvement of Bis(Phosphine) Palladium Complexes as Key Intermediates'
+    metrics: true
+    in_profile: true
+    reason: Introduced chelating BINAP-type ligands for C-N coupling, the second-generation catalyst that broadened the scope to primary amines.
+  n_related: 30
+  note: 'Pd-catalyzed C-O coupling (1999 diaryl ethers W2062650417, 2006 phenols) is also in the list but ranks below the C-N originals. Many listed works are Suzuki and other C-C couplings or Cu-catalyzed C-N couplings, related but outside Pd C-heteroatom chemistry. Duplicate: the German edition (W1967544306) of the 2008 biaryl phosphane amination review. The 2013 Parkinson neuron paper is out of field, likely a collaboration rather than a namesake.'

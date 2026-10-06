@@ -1,0 +1,31 @@
+rank,discovery,people,n_people,score,committee_points,convergence_points,committee_rank,n_lineups,chosen_lineup_support_share,discovery_source,flags
+1,for the discovery of glucagon-like peptide-1 and its development into therapies for diabetes and obesity,Svetlana Mojsov,1,12.5218,11.5,1.0218,1,5,0.0435,committee (LLM ballots),chosen lineup without deceased Joel F. Habener | Joel F. Habener: deceased (merges.yaml); not shown
+2,"for the development of optogenetics, a method to control the activity of genetically defined neurons with light",Karl Deisseroth; Peter Hegemann; Gero Miesenböck,3,10.4537,9.5,0.9537,2,4,0.5088,committee (LLM ballots),Ernst Bamberg: convergence 0.20 not shown (in no committee lineup)
+3,for the development of chimeric antigen receptor T-cell therapy,Carl H. June; Michel Sadelain,2,5.9841,5.1667,0.8175,3,2,0.9677,committee (LLM ballots),chosen lineup without deceased Zelig Eshhar | Zelig Eshhar: deceased (merges.yaml); not shown
+4,for their discovery of orexin and its role in the regulation of sleep and wakefulness,Emmanuel Mignot; Masashi Yanagisawa,2,2.9902,1.6667,1.3235,7,2,0.8,committee (LLM ballots),Clifford B. Saper: convergence 0.41 not shown (in no committee lineup)
+5,for their discovery of the unfolded protein response,Peter Walter; Kazutoshi Mori,2,2.8905,2.6667,0.2238,4,1,1.0,committee (LLM ballots),
+6,for the discovery of PCSK9 and its role in regulating LDL cholesterol metabolism,Helen H. Hobbs; Nabil G. Seidah; Jonathan C. Cohen,3,2.0754,1.6667,0.4087,5,2,0.5,committee (LLM ballots),
+7,for the discovery of leptin and the hormonal regulation of body weight,Jeffrey M. Friedman,1,1.899,1.5,0.399,9,2,0.8889,committee (LLM ballots),
+8,for their discoveries concerning the Wnt signaling pathway and its application in cultivating organoids,Hans Clevers; Roel Nusse,2,1.7044,1.5,0.2044,8,1,1.0,committee (LLM ballots),
+9,for their development of high-throughput next-generation DNA sequencing methods,David Klenerman; Shankar Balasubramanian,2,1.6667,1.6667,0.0,6,1,1.0,committee (LLM ballots),
+10,for their discoveries of the role of calcitonin gene-related peptide in migraine,Jes Olesen; Lars Edvinsson; Peter J. Goadsby,3,1.5595,0.3333,1.2262,19,1,1.0,committee (LLM ballots),Michael Moskowitz: convergence 0.41 not shown (in no committee lineup)
+11,for the discovery of tumour necrosis factor as a therapeutic target in chronic inflammatory autoimmune disease,Marc Feldmann; Ravinder N. Maini,2,1.5377,1.3333,0.2044,10,1,1.0,committee (LLM ballots),
+12,for the discovery of the cGAS–STING pathway that senses cytosolic DNA and activates innate immunity,Zhijian J. Chen; Glen N. Barber,2,1.4659,0.8333,0.6326,13,1,1.0,committee (LLM ballots),
+13,for the invention of optical coherence tomography,James G. Fujimoto; David Huang; Eric A. Swanson,3,1.3917,0.0,1.3917,,,,decisions.yaml (Claude),
+14,for the discovery of inherited susceptibility genes for breast and ovarian cancer,Mary-Claire King,1,1.1199,0.8333,0.2865,12,2,0.8,committee (LLM ballots),
+15,for the discovery of chaperone-mediated protein folding in cells,Franz-Ulrich Hartl; Arthur L. Horwich,2,1.1071,1.0,0.1071,11,1,1.0,committee (LLM ballots),
+16,"for discoveries of oncogenes, tumor-suppressor genes and inherited susceptibility genes in human cancer",Mary-Claire King; Robert A. Weinberg; Bert Vogelstein,3,1.1003,0.6667,0.4336,16,1,1.0,committee (LLM ballots),
+17,for the discovery of antisense oligonucleotide correction of SMN2 splicing as a therapy for spinal muscular atrophy,Adrian R. Krainer; C. Frank Bennett,2,1.0754,0.6667,0.4087,15,1,1.0,committee (LLM ballots),
+18,for his discoveries concerning the role of the gut microbiome in human health and disease,Jeffrey I. Gordon,1,1.0377,0.8333,0.2044,14,1,1.0,committee (LLM ballots),
+19,for the development of CFTR modulator therapy that corrects the molecular defect in cystic fibrosis,Michael J. Welsh; Paul A. Negulescu,2,0.8175,0.0,0.8175,,,,decisions.yaml (Claude),
+20,for the discovery of MeCP2 and its role in Rett syndrome,Adrian Bird; Huda Zoghbi,2,0.8175,0.0,0.8175,,,,decisions.yaml (Claude),
+21,for discoveries of the receptors and intracellular signalling of the TGF-beta family,Carl-Henrik Heldin; Kohei Miyazono,2,0.8175,0.0,0.8175,,,,decisions.yaml (Claude),
+22,for the discovery of the cystic fibrosis gene and the molecular basis of cystic fibrosis,Francis S. Collins; Lap-Chee Tsui; John R. Riordan,3,0.7421,0.3333,0.4087,20,1,1.0,committee (LLM ballots),
+23,for the discovery of papillomavirus virus-like particles and their use as vaccines to prevent human papillomavirus-induced cancer,Douglas R. Lowy; Ian H. Frazer; John T. Schiller,3,0.6667,0.6667,0.0,17,1,1.0,committee (LLM ballots),
+24,for discoveries of the transcriptional and microprotein mechanisms that control heart and muscle development,Eric Olson,1,0.6131,0.0,0.6131,,,,decisions.yaml (Claude),
+25,for the discovery of integrins and the molecular mechanisms of leukocyte adhesion,Timothy A. Springer,1,0.4963,0.0,0.4963,,,,decisions.yaml (Claude),
+26,for the development of mass-spectrometry-based proteomics,Matthias Mann,1,0.4087,0.0,0.4087,,,,decisions.yaml (Claude),
+27,for discoveries of how neuronal activity regulates myelination and drives the growth of brain cancers,Michelle Monje,1,0.4087,0.0,0.4087,,,,decisions.yaml (Claude),
+28,for determining the structure of the MHC class I molecule and how it presents peptide antigens,Pamela J. Bjorkman,1,0.4087,0.0,0.4087,,,,decisions.yaml (Claude),
+29,for the discovery of the nuclear hormone receptor superfamily,Ronald M. Evans,1,0.4087,0.0,0.4087,,,,decisions.yaml (Claude),
+30,for discoveries of the p53 tumor suppressor pathway and its role in preventing cancer,Arnold J. Levine; Bert Vogelstein; David P. Lane,3,0.371,0.1667,0.2044,22,1,1.0,committee (LLM ballots),

@@ -1,0 +1,654 @@
+{
+ "person": "Tao Zhang",
+ "profile": "A5100375748",
+ "ids": [
+  "A5100375748"
+ ],
+ "options": [
+  "for the development of single-atom catalysis — Tao Zhang"
+ ],
+ "birth_year": 1963,
+ "cutoff_year": 1988,
+ "works": [
+  {
+   "paper_id": "W2134716155",
+   "year": 2011,
+   "cited_by_count": 6855,
+   "title": "Single-atom catalysis of CO oxidation using Pt1/FeOx",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979371521",
+   "year": 2013,
+   "cited_by_count": 4422,
+   "title": "Single-Atom Catalysts: A New Frontier in Heterogeneous Catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2803427589",
+   "year": 2018,
+   "cited_by_count": 3915,
+   "title": "Heterogeneous single-atom catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2790507915",
+   "year": 2018,
+   "cited_by_count": 2125,
+   "title": "Atomically dispersed Ni(i) as the active site for electrochemical CO2 reduction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2189000696",
+   "year": 2015,
+   "cited_by_count": 1614,
+   "title": "Light-Driven Heterogeneous Reduction of Carbon Dioxide: Photocatalysts and Photoelectrodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2975586142",
+   "year": 2019,
+   "cited_by_count": 1428,
+   "title": "Selective Hydrogenation over Supported Metal Catalysts: From Nanoparticles to Single Atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2888827392",
+   "year": 2018,
+   "cited_by_count": 1410,
+   "title": "Single Cobalt Atoms Anchored on Porous N-Doped Graphene with Dual Reaction Sites for Efficient Fenton-like Catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014824706",
+   "year": 2014,
+   "cited_by_count": 1067,
+   "title": "FeOx-supported platinum single-atom and pseudo-single-atom catalysts for chemoselective hydrogenation of functionalized nitroarenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3006891031",
+   "year": 2020,
+   "cited_by_count": 988,
+   "title": "State of the art and perspectives in heterogeneous catalysis of CO 2 hydrogenation to methanol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2314274336",
+   "year": 2013,
+   "cited_by_count": 983,
+   "title": "Remarkable Performance of Ir 1 /FeO x Single-Atom Catalyst in Water Gas Shift Reaction",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3096020050",
+   "year": 2020,
+   "cited_by_count": 934,
+   "title": "Single-Atom Catalysts Based on the Metal–Oxide Interaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2736999751",
+   "year": 2017,
+   "cited_by_count": 928,
+   "title": "Discriminating Catalytically Active FeN x Species of Atomically Dispersed Fe–N–C Catalyst for Selective Oxidation of the C–H Bond",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2740657411",
+   "year": 2017,
+   "cited_by_count": 756,
+   "title": "Thermally stable single atom Pt/m-Al2O3 for selective hydrogenation and CO oxidation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988277551",
+   "year": 2008,
+   "cited_by_count": 753,
+   "title": "Direct Catalytic Conversion of Cellulose into Ethylene Glycol Using Nickel‐Promoted Tungsten Carbide Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2999090610",
+   "year": 2020,
+   "cited_by_count": 675,
+   "title": "Enabling Direct H2O2 Production in Acidic Media through Rational Design of Transition Metal Single Atom Catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2409420614",
+   "year": 2016,
+   "cited_by_count": 670,
+   "title": "Single-atom dispersed Co–N–C catalyst: structure identification and performance for hydrogenative coupling of nitroarenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2197652168",
+   "year": 2015,
+   "cited_by_count": 658,
+   "title": "Ag Alloyed Pd Single-Atom Catalysts for Efficient Selective Hydrogenation of Acetylene to Ethylene in Excess Ethylene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2984804082",
+   "year": 2019,
+   "cited_by_count": 635,
+   "title": "Atomically dispersed nickel as coke-resistant active sites for methane dry reforming",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2911133971",
+   "year": 2019,
+   "cited_by_count": 610,
+   "title": "Non defect-stabilized thermally stable single-atom catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2556309208",
+   "year": 2016,
+   "cited_by_count": 526,
+   "title": "Hydroformylation of Olefins by a Rhodium Single‐Atom Catalyst with Activity Comparable to RhCl(PPh 3 ) 3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3017305892",
+   "year": 2020,
+   "cited_by_count": 522,
+   "title": "Strong Metal–Support Interactions between Pt Single Atoms and TiO 2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2762144611",
+   "year": 2017,
+   "cited_by_count": 509,
+   "title": "Classical strong metal–support interactions between gold nanoparticles and titanium dioxide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1209331024",
+   "year": 2015,
+   "cited_by_count": 498,
+   "title": "Ultrastable single-atom gold catalysts with strong covalent metal-support interaction (CMSI)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044479511",
+   "year": 2013,
+   "cited_by_count": 481,
+   "title": "One-Pot Conversion of Cellulose to Ethylene Glycol with Multifunctional Tungsten-Based Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2579601412",
+   "year": 2017,
+   "cited_by_count": 481,
+   "title": "Performance of Cu-Alloyed Pd Single-Atom Catalyst for Semihydrogenation of Acetylene under Simulated Front-End Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2977270706",
+   "year": 2019,
+   "cited_by_count": 464,
+   "title": "Unraveling the coordination structure-performance relationship in Pt1/Fe2O3 single-atom catalyst",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2903365446",
+   "year": 2018,
+   "cited_by_count": 458,
+   "title": "Single-Atom Catalysis toward Efficient CO2 Conversion to CO and Formate Products",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2215738657",
+   "year": 2015,
+   "cited_by_count": 448,
+   "title": "Strong Metal–Support Interactions between Gold Nanoparticles and Nonoxides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2322718557",
+   "year": 2012,
+   "cited_by_count": 444,
+   "title": "Recent Advances in Preferential Oxidation of CO Reaction over Platinum Group Metal Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2994454543",
+   "year": 2019,
+   "cited_by_count": 444,
+   "title": "Elucidating the Electrocatalytic CO 2 Reduction Reaction over a Model Single‐Atom Nickel Catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2281185144",
+   "year": 2015,
+   "cited_by_count": 441,
+   "title": "Highly Efficient Catalysis of Preferential Oxidation of CO in H2-Rich Stream by Gold Single-Atom Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3197855596",
+   "year": 2021,
+   "cited_by_count": 441,
+   "title": "Dynamic Behavior of Single-Atom Catalysts in Electrocatalysis: Identification of Cu-N 3 as an Active Site for the Oxygen Reduction Reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2232828257",
+   "year": 2015,
+   "cited_by_count": 412,
+   "title": "PdZn Intermetallic Nanostructure with Pd–Zn–Pd Ensembles for Highly Active and Chemoselective Semi-Hydrogenation of Acetylene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103953151",
+   "year": 2020,
+   "cited_by_count": 371,
+   "title": "Identification of the Electronic and Structural Dynamics of Catalytic Centers in Single-Fe-Atom Material",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2886912338",
+   "year": 2018,
+   "cited_by_count": 351,
+   "title": "Single-atom catalyst: a rising star for green synthesis of fine chemicals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072662450",
+   "year": 2010,
+   "cited_by_count": 338,
+   "title": "Hydrolysis of cellulose into glucose over carbons sulfonated at elevated temperatures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1904617196",
+   "year": 2015,
+   "cited_by_count": 336,
+   "title": "Synthesis of ethylene glycol and terephthalic acid from biomass for producing PET",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2800047745",
+   "year": 2018,
+   "cited_by_count": 332,
+   "title": "Identifying Active Sites of Nitrogen‐Doped Carbon Materials for the CO2 Reduction Reaction",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3009222120",
+   "year": 2020,
+   "cited_by_count": 323,
+   "title": "Strong metal-support interaction promoted scalable production of thermally stable single-atom catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103738125",
+   "year": 2009,
+   "cited_by_count": 316,
+   "title": "Transition Metal–Tungsten Bimetallic Catalysts for the Conversion of Cellulose into Ethylene Glycol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2585007512",
+   "year": 2017,
+   "cited_by_count": 313,
+   "title": "Production of Primary Amines by Reductive Amination of Biomass‐Derived Aldehydes/Ketones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106750554",
+   "year": 2008,
+   "cited_by_count": 310,
+   "title": "Au–Cu Alloy nanoparticles confined in SBA-15 as a highly efficient catalyst for CO oxidation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2800597554",
+   "year": 2018,
+   "cited_by_count": 308,
+   "title": "A Durable Nickel Single‐Atom Catalyst for Hydrogenation Reactions and Cellulose Valorization under Harsh Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3183924151",
+   "year": 2021,
+   "cited_by_count": 305,
+   "title": "Highly selective and robust single-atom catalyst Ru1/NC for reductive amination of aldehydes/ketones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018972272",
+   "year": 2008,
+   "cited_by_count": 284,
+   "title": "Synthesis of Thermally Stable and Highly Active Bimetallic Au−Ag Nanoparticles on Inert Supports",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984282929",
+   "year": 2011,
+   "cited_by_count": 276,
+   "title": "Structural changes of Au–Cu bimetallic catalysts in CO oxidation: In situ XRD, EPR, XANES, and FT-IR characterizations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060414779",
+   "year": 2009,
+   "cited_by_count": 270,
+   "title": "A new 3D mesoporous carbon replicated from commercial silica as a catalyst support for direct conversion of cellulose into ethylene glycol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949029906",
+   "year": 2019,
+   "cited_by_count": 270,
+   "title": "Zeolite-supported metal catalysts for selective hydrodeoxygenation of biomass-derived platform molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091626499",
+   "year": 2011,
+   "cited_by_count": 269,
+   "title": "Synthesis, characterization and catalytic performances of Ce-SBA-15 supported nickel catalysts for methane dry reforming to hydrogen and syngas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2768004292",
+   "year": 2017,
+   "cited_by_count": 268,
+   "title": "Direct catalytic hydrogenation of CO2 to formate over a Schiff-base-mediated gold nanocatalyst",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2890792318",
+   "year": 2018,
+   "cited_by_count": 261,
+   "title": "Theoretical understanding of the stability of single-atom catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2492932621",
+   "year": 2016,
+   "cited_by_count": 259,
+   "title": "Ultrastable Hydroxyapatite/Titanium‐Dioxide‐Supported Gold Nanocatalyst with Strong Metal–Support Interaction for Carbon Monoxide Oxidation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3011478633",
+   "year": 2020,
+   "cited_by_count": 259,
+   "title": "Regeneration of catalysts deactivated by coke deposition: A review",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057701720",
+   "year": 2013,
+   "cited_by_count": 258,
+   "title": "Selective catalytic reduction of NO with NH3 over HZSM-5-supported Fe–Cu nanocomposite catalysts: The Fe–Cu bimetallic effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2333004875",
+   "year": 2014,
+   "cited_by_count": 256,
+   "title": "Efficient and Durable Au Alloyed Pd Single-Atom Catalyst for the Ullmann Reaction of Aryl Chlorides in Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2911715687",
+   "year": 2019,
+   "cited_by_count": 256,
+   "title": "Iridium Single-Atom Catalyst Performing a Quasi-homogeneous Hydrogenation Transformation of CO2 to Formate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3128559496",
+   "year": 2021,
+   "cited_by_count": 248,
+   "title": "Heterogeneous catalysts for CO 2 hydrogenation to formic acid/formate: from nanoscale to single atom",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2132748470",
+   "year": 2012,
+   "cited_by_count": 245,
+   "title": "A Noble‐Metal‐Free Catalyst Derived from Ni‐Al Hydrotalcite for Hydrogen Generation from N2H4⋅H2O Decomposition",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2794256365",
+   "year": 2018,
+   "cited_by_count": 234,
+   "title": "Acid-Promoter-Free Ethylene Methoxycarbonylation over Ru-Clusters/Ceria: The Catalysis of Interfacial Lewis Acid–Base Pair",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2905511962",
+   "year": 2018,
+   "cited_by_count": 234,
+   "title": "Efficient quantum dots anchored nanocomposite for highly active ORR/OER electrocatalyst of advanced metal-air batteries",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2325095228",
+   "year": 2014,
+   "cited_by_count": 232,
+   "title": "Supported Single Pt 1 /Au 1 Atoms for Methanol Steam Reforming",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975956350",
+   "year": 2013,
+   "cited_by_count": 231,
+   "title": "Catalysis by gold: New insights into the support effect",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2944150770",
+   "year": 2019,
+   "cited_by_count": 221,
+   "title": "Transition metal carbide catalysts for biomass conversion: A review",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3037713700",
+   "year": 2020,
+   "cited_by_count": 217,
+   "title": "Tuning reactivity of Fischer–Tropsch synthesis by regulating TiOx overlayer over Ru/TiO2 nanocatalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2601879102",
+   "year": 2017,
+   "cited_by_count": 211,
+   "title": "UiO-66 derived Ru/ZrO 2 @C as a highly stable catalyst for hydrogenation of levulinic acid to γ-valerolactone",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4240708081",
+   "year": 2008,
+   "cited_by_count": 209,
+   "title": "Direct Catalytic Conversion of Cellulose into Ethylene Glycol Using Nickel‐Promoted Tungsten Carbide Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111073819",
+   "year": 2013,
+   "cited_by_count": 207,
+   "title": "Understanding the synergistic effects of gold bimetallic catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153312415",
+   "year": 2012,
+   "cited_by_count": 205,
+   "title": "Synthesis of High‐Quality Diesel with Furfural and 2‐Methylfuran from Hemicellulose",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144231431",
+   "year": 2012,
+   "cited_by_count": 201,
+   "title": "Design of a Highly Active Ir/Fe(OH) x Catalyst: Versatile Application of Pt‐Group Metals for the Preferential Oxidation of Carbon Monoxide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2583252143",
+   "year": 2017,
+   "cited_by_count": 201,
+   "title": "Selectivity Control for Cellulose to Diols: Dancing on Eggs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2802303449",
+   "year": 2018,
+   "cited_by_count": 198,
+   "title": "Maximizing the Number of Interfacial Sites in Single‐Atom Catalysts for the Highly Selective, Solvent‐Free Oxidation of Primary Alcohols",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2904588570",
+   "year": 2018,
+   "cited_by_count": 186,
+   "title": "Effect of Na Promoter on Fe-Based Catalyst for CO 2 Hydrogenation to Alkenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166620304",
+   "year": 2015,
+   "cited_by_count": 183,
+   "title": "A Schiff base modified gold catalyst for green and efficient H 2 production from formic acid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2620506950",
+   "year": 2017,
+   "cited_by_count": 179,
+   "title": "Promotion effects of potassium on the activity and selectivity of Pt/zeolite catalysts for reverse water gas shift reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068944577",
+   "year": 2013,
+   "cited_by_count": 174,
+   "title": "Promotional effect of Pd single atoms on Au nanoparticles supported on silica for the selective hydrogenation of acetylene in excess ethylene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013504490",
+   "year": 2015,
+   "cited_by_count": 172,
+   "title": "A novel Ce–Ta mixed oxide catalyst for the selective catalytic reduction of NO with NH3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060726155",
+   "year": 2009,
+   "cited_by_count": 171,
+   "title": "Catalytic conversion of cellulose into ethylene glycol over supported carbide catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3048671340",
+   "year": 2020,
+   "cited_by_count": 171,
+   "title": "High‐Density and Thermally Stable Palladium Single‐Atom Catalysts for Chemoselective Hydrogenations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2985364634",
+   "year": 2019,
+   "cited_by_count": 170,
+   "title": "Electrostatic Stabilization of Single-Atom Catalysts by Ionic Liquids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986457700",
+   "year": 2013,
+   "cited_by_count": 169,
+   "title": "Synthesis of renewable high-density fuels using cyclopentanone derived from lignocellulose",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

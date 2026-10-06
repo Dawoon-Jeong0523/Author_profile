@@ -1,0 +1,25 @@
+{
+ "person": "Michael Elowitz",
+ "options": [
+  "for the development of synthetic gene circuits — James J. Collins, Michael Elowitz, Stanislas Leibler"
+ ],
+ "birth_year": 1970,
+ "patents": [
+  {
+   "patent_id": "10899823",
+   "title": "Programmable protein circuits in living cells",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "California Institute of Technology",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10527631",
+   "title": "Compositions and methods for programmable sensing and control through combinatorial molecular interactions",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "California Institute of Technology",
+   "cited_by_patents": 1
+  }
+ ]
+}

@@ -1,0 +1,655 @@
+{
+ "person": "Peter W. Shor",
+ "profile": "A5020744800",
+ "ids": [
+  "A5020744800"
+ ],
+ "options": [
+  "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms — Charles H. Bennett, Gilles Brassard, Peter W. Shor",
+  "for the discovery of quantum error correction and fault-tolerant quantum computation — John Preskill, Peter W. Shor, Alexei Y. Kitaev"
+ ],
+ "birth_year": 1959,
+ "cutoff_year": 1984,
+ "works": [
+  {
+   "paper_id": "W2168676717",
+   "year": 2002,
+   "cited_by_count": 8018,
+   "title": "Algorithms for quantum computation: discrete logarithms and factoring",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3023478445",
+   "year": 1997,
+   "cited_by_count": 6063,
+   "title": "Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1999706070",
+   "year": 1995,
+   "cited_by_count": 4289,
+   "title": "Scheme for reducing decoherence in quantum computer memory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102008187",
+   "year": 1995,
+   "cited_by_count": 4174,
+   "title": "Elementary gates for quantum computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137147061",
+   "year": 1999,
+   "cited_by_count": 3597,
+   "title": "Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071764857",
+   "year": 2000,
+   "cited_by_count": 2886,
+   "title": "Simple Proof of Security of the BB84 Quantum Key Distribution Protocol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114207424",
+   "year": 1996,
+   "cited_by_count": 2435,
+   "title": "Good quantum error-correcting codes exist",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167413626",
+   "year": 1998,
+   "cited_by_count": 1806,
+   "title": "Quantum error correction via codes over GF(4)",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1974293884",
+   "year": 1999,
+   "cited_by_count": 1114,
+   "title": "Quantum nonlocality without entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167927798",
+   "year": 2002,
+   "cited_by_count": 866,
+   "title": "Fault-tolerant quantum computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044859269",
+   "year": 2001,
+   "cited_by_count": 814,
+   "title": "Remote State Preparation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091331782",
+   "year": 1997,
+   "cited_by_count": 797,
+   "title": "Quantum Error Correction and Orthogonal Geometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148576428",
+   "year": 1999,
+   "cited_by_count": 717,
+   "title": "Unextendible Product Bases and Bound Entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4254977685",
+   "year": 1989,
+   "cited_by_count": 666,
+   "title": "Applications of random sampling in computational geometry, II",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123142728",
+   "year": 2002,
+   "cited_by_count": 658,
+   "title": "Entanglement-assisted capacity of a quantum channel and the reverse Shannon theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053861514",
+   "year": 1999,
+   "cited_by_count": 596,
+   "title": "Entanglement-Assisted Classical Capacity of Noisy Quantum Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123829027",
+   "year": 2003,
+   "cited_by_count": 574,
+   "title": "Entanglement Breaking Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055257826",
+   "year": 1987,
+   "cited_by_count": 443,
+   "title": "Geometric applications of a matrix-searching algorithm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2594901681",
+   "year": 2005,
+   "cited_by_count": 425,
+   "title": "The Capacity of a Quantum Channel for Simultaneous Transmission of Classical and Quantum Information",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4292403337",
+   "year": 1998,
+   "cited_by_count": 359,
+   "title": "Quantum information theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028679634",
+   "year": 2003,
+   "cited_by_count": 348,
+   "title": "Unextendible Product Bases, Uncompletable Product Bases and Bound Entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980744208",
+   "year": 2004,
+   "cited_by_count": 335,
+   "title": "Randomizing Quantum States: Constructions and Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055598707",
+   "year": 1996,
+   "cited_by_count": 324,
+   "title": "Fault-Tolerant Error Correction with Efficient Quantum Codes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975244148",
+   "year": 2004,
+   "cited_by_count": 320,
+   "title": "Equivalence of Additivity Questions in Quantum Information Theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970302872",
+   "year": 1998,
+   "cited_by_count": 290,
+   "title": "Quantum-channel capacity of very noisy channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107050628",
+   "year": 1995,
+   "cited_by_count": 282,
+   "title": "Quantum Computers, Factoring, and Decoherence",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3011907935",
+   "year": 1994,
+   "cited_by_count": 278,
+   "title": "Algorithms for quantum computation: Discrete log and factoring",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074863496",
+   "year": 1989,
+   "cited_by_count": 275,
+   "title": "A linear-time algorithm for computing the voronoi diagram of a convex polygon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082513731",
+   "year": 1991,
+   "cited_by_count": 272,
+   "title": "Chip-firing Games on Graphs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068884802",
+   "year": 2003,
+   "cited_by_count": 235,
+   "title": "Oblivious Remote State Preparation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010214996",
+   "year": 2000,
+   "cited_by_count": 223,
+   "title": "Evidence for bound entangled states with negative partial transpose",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131970804",
+   "year": 2011,
+   "cited_by_count": 220,
+   "title": "The Quantum Double Model with Boundary: Condensations and Symmetries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103182327",
+   "year": 2014,
+   "cited_by_count": 219,
+   "title": "The Quantum Reverse Shannon Theorem and Resource Tradeoffs for Simulating Quantum Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058601882",
+   "year": 1994,
+   "cited_by_count": 187,
+   "title": "Local rule-based theory of virus shell assembly.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992815312",
+   "year": 1998,
+   "cited_by_count": 171,
+   "title": "Local Rules Simulation of the Kinetics of Virus Capsid Self-Assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1508356799",
+   "year": 1998,
+   "cited_by_count": 166,
+   "title": "Random domino tilings and the arctic circle theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998230386",
+   "year": 1989,
+   "cited_by_count": 161,
+   "title": "Sharp upper and lower bounds on the length of general Davenport-Schinzel sequences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003431413",
+   "year": 2006,
+   "cited_by_count": 146,
+   "title": "Error-correcting codes for adiabatic quantum computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984525415",
+   "year": 2001,
+   "cited_by_count": 142,
+   "title": "Nonadditivity of Bipartite Distillable Entanglement Follows from a Conjecture on Bound Entangled Werner States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988808425",
+   "year": 1992,
+   "cited_by_count": 140,
+   "title": "The rectilinear steiner arborescence problem",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021404493",
+   "year": 1997,
+   "cited_by_count": 137,
+   "title": "Quantum Analog of the MacWilliams Identities for Classical Coding Theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1591124829",
+   "year": 2016,
+   "cited_by_count": 121,
+   "title": "Supercritical entanglement in local systems: Counterexample to the area law for quantum matter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144970024",
+   "year": 1994,
+   "cited_by_count": 118,
+   "title": "Efficient NC algorithms for set cover with applications to learning and geometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171133411",
+   "year": 2008,
+   "cited_by_count": 116,
+   "title": "Channel-Adapted Quantum Error Correction for the Amplitude Damping Channel",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996010259",
+   "year": 2012,
+   "cited_by_count": 111,
+   "title": "Criticality without Frustration for Quantum Spin-1 Chains",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014706286",
+   "year": 1997,
+   "cited_by_count": 109,
+   "title": "A Nonadditive Quantum Code",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051792790",
+   "year": 2003,
+   "cited_by_count": 109,
+   "title": "Superactivation of Bound Entanglement",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069098301",
+   "year": 1992,
+   "cited_by_count": 108,
+   "title": "Keller’s cube-tiling conjecture is false in high dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1833245741",
+   "year": 2012,
+   "cited_by_count": 104,
+   "title": "Performance of the quantum adiabatic algorithm on random instances of two optimization problems on regular hypergraphs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2610893972",
+   "year": 1989,
+   "cited_by_count": 103,
+   "title": "Tight bounds for minimax grid matching with applications to the average case analysis of algorithms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009931551",
+   "year": 1986,
+   "cited_by_count": 102,
+   "title": "The average-case analysis of some on-line algorithms for bin packing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997180513",
+   "year": 2007,
+   "cited_by_count": 101,
+   "title": "Optimum quantum error recovery using semidefinite programming",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075475446",
+   "year": 2008,
+   "cited_by_count": 91,
+   "title": "A lower bound for the length of a partial transversal in a Latin square",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981203901",
+   "year": 2003,
+   "cited_by_count": 87,
+   "title": "Why haven't more quantum algorithms been found?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164987874",
+   "year": 2012,
+   "cited_by_count": 86,
+   "title": "Quantum money from knots",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1605351220",
+   "year": 1999,
+   "cited_by_count": 83,
+   "title": "A Group-Theoretic Framework for the Construction of Packings in Grassmannian Spaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2792069505",
+   "year": 2018,
+   "cited_by_count": 72,
+   "title": "Resource theory of non-Gaussian operations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052393177",
+   "year": 1987,
+   "cited_by_count": 68,
+   "title": "A Linear time algorithm for computing the Voronoi diagram of a convex polygon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071083341",
+   "year": 2003,
+   "cited_by_count": 65,
+   "title": "Bit-commitment-based quantum coin flipping",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121443253",
+   "year": 2008,
+   "cited_by_count": 65,
+   "title": "Quantum transverse-field Ising model on an infinite tree from matrix product states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027862748",
+   "year": 1990,
+   "cited_by_count": 64,
+   "title": "Average-case analysis of cutting and packing in two dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992365301",
+   "year": 2006,
+   "cited_by_count": 62,
+   "title": "On the Sum-of-Squares algorithm for bin packing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976755703",
+   "year": 1991,
+   "cited_by_count": 61,
+   "title": "Minimax Grid Matching and Empirical Measures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047249257",
+   "year": 2003,
+   "cited_by_count": 61,
+   "title": "Entanglement Assisted Capacity of the Broadband Lossy Channel",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987139164",
+   "year": 1995,
+   "cited_by_count": 59,
+   "title": "A new proof of Cayley's formula for counting labeled trees",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037747187",
+   "year": 2003,
+   "cited_by_count": 59,
+   "title": "Broadband channel capacities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060515419",
+   "year": 1991,
+   "cited_by_count": 59,
+   "title": "Multilayer grid embeddings for VLSI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076655037",
+   "year": 1986,
+   "cited_by_count": 59,
+   "title": "Tight bounds for minimax grid matching, with applications to the average case analysis of algorithms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025940785",
+   "year": 1990,
+   "cited_by_count": 57,
+   "title": "Generalized planar matching",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085103587",
+   "year": 2008,
+   "cited_by_count": 57,
+   "title": "Structured near-optimal channel-adapted quantum error correction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099000905",
+   "year": 2004,
+   "cited_by_count": 57,
+   "title": "Progress in Quantum Algorithms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019482147",
+   "year": 1993,
+   "cited_by_count": 56,
+   "title": "Probabilistically checkable debate systems and approximation algorithms for PSPACE-hard functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102902634",
+   "year": 1988,
+   "cited_by_count": 54,
+   "title": "Algorithms for diametral pairs and convex hulls that are optimal, randomized, and incremental",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2953111444",
+   "year": 2011,
+   "cited_by_count": 51,
+   "title": "Quantum adiabatic algorithms, small gaps, and different paths",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006575126",
+   "year": 1984,
+   "cited_by_count": 50,
+   "title": "On the pagenumber of planar graphs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165318736",
+   "year": 1997,
+   "cited_by_count": 45,
+   "title": "Random Debaters and the Hardness of Approximating Stochastic Functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951237228",
+   "year": 2008,
+   "cited_by_count": 45,
+   "title": "Estimating Jones polynomials is a complete problem for one clean qubit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022197039",
+   "year": 1993,
+   "cited_by_count": 44,
+   "title": "Packings in two dimensions: Asymptotic average-case analysis of algorithms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1898922656",
+   "year": 1998,
+   "cited_by_count": 43,
+   "title": "A Family of Optimal Packings in Grassmannian Manifolds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994442196",
+   "year": 2000,
+   "cited_by_count": 41,
+   "title": "Bin Packing with Discrete Item Sizes, Part I: Perfect Packing Theorems and the Average Case Behavior of Optimal Packings",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

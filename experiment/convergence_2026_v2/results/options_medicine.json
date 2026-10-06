@@ -1,0 +1,1768 @@
+{
+ "field": "medicine",
+ "version": "v2 (committee lineup with the highest mean person score)",
+ "k": 30,
+ "convergence_weight": 1.0,
+ "committee_total_points": 45.0,
+ "convergence_point_per_approval": 0.204369,
+ "people_used": 174,
+ "rows_left_out_not_alive": [
+  "Alfred L. Goldberg",
+  "C. Ronald Kahn",
+  "C. Swanton",
+  "Craig B. Thompson",
+  "Craig Crews",
+  "Guido Kroemer",
+  "Hari Mohan Saxena",
+  "Irving Weissman",
+  "James E. Darnell",
+  "Jesús Tito González",
+  "Joanne Chory",
+  "John Eng",
+  "Kai Simons",
+  "Keiji Tanaka",
+  "Kevin Campbell",
+  "Klaus Rajewsky",
+  "Lily Jan",
+  "Maiken Nedergaard",
+  "Marcus E. Raichle",
+  "Michael Karin",
+  "Nicole Marthe Le Douarin",
+  "Noboru Mizushima",
+  "Raymond Schofield",
+  "Robert Waterston",
+  "Shigekazu Nagata",
+  "Thierry Boon",
+  "Thomas Helleday",
+  "Thomas Tuschl",
+  "Victor Nussenzweig",
+  "William A. Catterall",
+  "Wozney",
+  "Yuh Nung Jan"
+ ],
+ "method": "Same as ../convergence_2026/build_options.py (v1) except for the people shown on an option the committee named.\n\nv1: the people of all nominations merged into the option were pooled and the top three by weight were shown, so one\nnomination that named three people filled the slots even when most nominations named one person.\n\nv2: the candidates are the lineups the committee members actually wrote. A lineup is the set of people of one\nnomination (same person matching as committee.py); nominations with the same set share it. Deceased people are taken\nout of a lineup (a lineup left empty is dropped). Each person scores committee weight + convergence points, as in v1;\na lineup scores the mean of its people's scores, and the lineup with the highest mean is shown. Ties: the summed\nnormalized Borda points of the nominations that wrote the lineup (\"support\"), then their number, then the names; where\nthe committee's merges.yaml has a hand pick of shown people (the user's tie decisions of 2026-10-01) and it is one of the\ntied lineups, it wins the tie.\nConvergence people placed in a committee option (name match, attach, milestone) still add to their own score but\nare shown only if a committee lineup holds them. Options the committee did not name show their decisions.yaml group\n(or the lone person), as in v1. A hand pick that is not among the tied lineups is not applied; the option is flagged.\n\nOption score = committee points + the convergence points of the people shown (unchanged from v1). Writes\nresults/options_<field>.json, results/options_<field>.csv and results/review_<field>.md (with every candidate lineup).",
+ "options": [
+  {
+   "rank": 1,
+   "option": "for the discovery of glucagon-like peptide-1 and its development into therapies for diabetes and obesity — Svetlana Mojsov",
+   "discovery": "for the discovery of glucagon-like peptide-1 and its development into therapies for diabetes and obesity",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 12.5218,
+   "committee_points": 11.5,
+   "convergence_points": 1.0218,
+   "committee_rank": 1,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Svetlana Mojsov",
+     "committee_weight": 11.5,
+     "convergence_points": 1.0218,
+     "convergence_families": {
+      "clarivate_2026": 0.2044,
+      "high_ppv_prize": 0.2044,
+      "milestone_passed": 0.2044,
+      "symposium_dossier": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Joel F. Habener",
+     "committee_weight": 9.0,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Jens Juul Holst",
+     "committee_weight": 6.5,
+     "convergence_points": 0.8175,
+     "convergence_families": {
+      "clarivate_2026": 0.2044,
+      "milestone_passed": 0.2044,
+      "symposium_dossier": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Lotte Bjerre Knudsen",
+     "committee_weight": 3.6667,
+     "convergence_points": 0.8175,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "milestone_passed": 0.2044,
+      "symposium_dossier": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Daniel J. Drucker",
+     "committee_weight": 3.3333,
+     "convergence_points": 1.0218,
+     "convergence_families": {
+      "clarivate_2026": 0.2044,
+      "kalshi": 0.2044,
+      "milestone_passed": 0.2044,
+      "symposium_dossier": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Svetlana Mojsov"
+     ],
+     "mean_score": 12.5218,
+     "support": 0.5,
+     "support_share": 0.0435,
+     "nominations": [
+      "gemini/molecular-developmental-biology/r1/#3"
+     ],
+     "deceased_removed": [
+      "Joel F. Habener"
+     ]
+    },
+    {
+     "people": [
+      "Svetlana Mojsov",
+      "Jens Juul Holst"
+     ],
+     "mean_score": 9.9197,
+     "support": 4.0,
+     "support_share": 0.3478,
+     "nominations": [
+      "anthropic/neuroscience/r1/#1",
+      "openai/molecular-systems-biology/r1/#1",
+      "openai/neuroscience/r1/#1",
+      "openai/molecular-genetics/r1/#1",
+      "gemini/molecular-genetics/r1/#2"
+     ],
+     "deceased_removed": [
+      "Joel F. Habener"
+     ]
+    },
+    {
+     "people": [
+      "Svetlana Mojsov",
+      "Lotte Bjerre Knudsen"
+     ],
+     "mean_score": 8.503,
+     "support": 3.6667,
+     "support_share": 0.3188,
+     "nominations": [
+      "anthropic/neurology/r1/#1",
+      "anthropic/molecular-systems-biology/r1/#1",
+      "anthropic/molecular-genetics/r1/#1",
+      "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#1",
+      "gemini/neurology/r1/#4"
+     ],
+     "deceased_removed": [
+      "Joel F. Habener"
+     ]
+    },
+    {
+     "people": [
+      "Svetlana Mojsov",
+      "Daniel J. Drucker"
+     ],
+     "mean_score": 8.4385,
+     "support": 0.8333,
+     "support_share": 0.0725,
+     "nominations": [
+      "anthropic/molecular-developmental-biology/r1/#1"
+     ],
+     "deceased_removed": [
+      "Joel F. Habener"
+     ]
+    },
+    {
+     "people": [
+      "Svetlana Mojsov",
+      "Jens Juul Holst",
+      "Daniel J. Drucker"
+     ],
+     "mean_score": 8.0648,
+     "support": 2.5,
+     "support_share": 0.2174,
+     "nominations": [
+      "openai/neurology/r1/#1",
+      "openai/experimental-rheumatology-immunology-autoimmunity/r1/#1",
+      "openai/molecular-developmental-biology/r1/#1"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "chosen lineup without deceased Joel F. Habener",
+    "Joel F. Habener: deceased (merges.yaml); not shown"
+   ]
+  },
+  {
+   "rank": 2,
+   "option": "for the development of optogenetics, a method to control the activity of genetically defined neurons with light — Karl Deisseroth, Peter Hegemann, Gero Miesenböck",
+   "discovery": "for the development of optogenetics, a method to control the activity of genetically defined neurons with light",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 10.4537,
+   "committee_points": 9.5,
+   "convergence_points": 0.9537,
+   "committee_rank": 2,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Karl Deisseroth",
+     "committee_weight": 9.5,
+     "convergence_points": 0.545,
+     "convergence_families": {
+      "kalshi": 0.1362,
+      "milestone_passed": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Peter Hegemann",
+     "committee_weight": 8.6667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Gero Miesenböck",
+     "committee_weight": 5.6667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Edward S. Boyden",
+     "committee_weight": 4.0,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Georg Nagel",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Ernst Bamberg",
+     "committee_weight": 0.0,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "milestone_passed": 0.2044
+     },
+     "attached": "shares the milestone 'Optogenetics (milestone 2021)'"
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Karl Deisseroth",
+      "Peter Hegemann",
+      "Gero Miesenböck"
+     ],
+     "mean_score": 8.2624,
+     "support": 4.8333,
+     "support_share": 0.5088,
+     "nominations": [
+      "anthropic/neurology/r1/#2",
+      "openai/neurology/r1/#3",
+      "openai/molecular-systems-biology/r1/#3",
+      "openai/neuroscience/r1/#3",
+      "openai/molecular-developmental-biology/r1/#3",
+      "gemini/molecular-systems-biology/r1/#2",
+      "gemini/molecular-genetics/r1/#3",
+      "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#4",
+      "gemini/molecular-developmental-biology/r1/#2"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Karl Deisseroth",
+      "Peter Hegemann",
+      "Edward S. Boyden"
+     ],
+     "mean_score": 7.7068,
+     "support": 3.1667,
+     "support_share": 0.3333,
+     "nominations": [
+      "anthropic/molecular-systems-biology/r1/#2",
+      "anthropic/neuroscience/r1/#2",
+      "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#3",
+      "anthropic/molecular-developmental-biology/r1/#3",
+      "gemini/neurology/r1/#1"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Karl Deisseroth",
+      "Gero Miesenböck",
+      "Edward S. Boyden"
+     ],
+     "mean_score": 6.7068,
+     "support": 0.8333,
+     "support_share": 0.0877,
+     "nominations": [
+      "gemini/neuroscience/r1/#1"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Karl Deisseroth",
+      "Peter Hegemann",
+      "Georg Nagel"
+     ],
+     "mean_score": 6.5276,
+     "support": 0.6667,
+     "support_share": 0.0702,
+     "nominations": [
+      "anthropic/molecular-genetics/r1/#2"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Ernst Bamberg: convergence 0.20 not shown (in no committee lineup)"
+   ]
+  },
+  {
+   "rank": 3,
+   "option": "for the development of chimeric antigen receptor T-cell therapy — Carl H. June, Michel Sadelain",
+   "discovery": "for the development of chimeric antigen receptor T-cell therapy",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 5.9841,
+   "committee_points": 5.1667,
+   "convergence_points": 0.8175,
+   "committee_rank": 3,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Carl H. June",
+     "committee_weight": 5.1667,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "milestone_passed": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Michel Sadelain",
+     "committee_weight": 5.1667,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Zelig Eshhar",
+     "committee_weight": 3.8333,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Steven A. Rosenberg",
+     "committee_weight": 0.1667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Carl H. June",
+      "Michel Sadelain"
+     ],
+     "mean_score": 5.5754,
+     "support": 5.0,
+     "support_share": 0.9677,
+     "nominations": [
+      "anthropic/neurology/r1/#5",
+      "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#4",
+      "gemini/neurology/r1/#3",
+      "gemini/molecular-systems-biology/r1/#5",
+      "openai/neurology/r1/#2",
+      "openai/molecular-systems-biology/r1/#2",
+      "openai/neuroscience/r1/#5",
+      "openai/molecular-genetics/r1/#3",
+      "openai/experimental-rheumatology-immunology-autoimmunity/r1/#2",
+      "openai/molecular-developmental-biology/r1/#5",
+      "gemini/molecular-genetics/r1/#5",
+      "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#1"
+     ],
+     "deceased_removed": [
+      "Zelig Eshhar"
+     ]
+    },
+    {
+     "people": [
+      "Carl H. June",
+      "Michel Sadelain",
+      "Steven A. Rosenberg"
+     ],
+     "mean_score": 3.8406,
+     "support": 0.1667,
+     "support_share": 0.0323,
+     "nominations": [
+      "gemini/molecular-developmental-biology/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "chosen lineup without deceased Zelig Eshhar",
+    "Zelig Eshhar: deceased (merges.yaml); not shown"
+   ]
+  },
+  {
+   "rank": 4,
+   "option": "for their discovery of orexin and its role in the regulation of sleep and wakefulness — Emmanuel Mignot, Masashi Yanagisawa",
+   "discovery": "for their discovery of orexin and its role in the regulation of sleep and wakefulness",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 2.9902,
+   "committee_points": 1.6667,
+   "convergence_points": 1.3235,
+   "committee_rank": 7,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Emmanuel Mignot",
+     "committee_weight": 1.6667,
+     "convergence_points": 0.7104,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "kalshi": 0.0973,
+      "symposium_dossier": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Masashi Yanagisawa",
+     "committee_weight": 1.6667,
+     "convergence_points": 0.6131,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "symposium_dossier": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Luis de Lecea",
+     "committee_weight": 0.3333,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Clifford B. Saper",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "swedish_proximity": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": "co-author with Yanagisawa of the 1999 orexin-knockout narcolepsy paper (Chemelli et al., Cell); his signals (2022 neuropeptide Nobel Symposium, KI lecture) concern hypothalamic sleep-wake circuits, the committee's orexin option"
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Emmanuel Mignot",
+      "Masashi Yanagisawa"
+     ],
+     "mean_score": 2.3285,
+     "support": 1.3333,
+     "support_share": 0.8,
+     "nominations": [
+      "gemini/neurology/r1/#2",
+      "gemini/neuroscience/r1/#2"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Emmanuel Mignot",
+      "Masashi Yanagisawa",
+      "Luis de Lecea"
+     ],
+     "mean_score": 1.7315,
+     "support": 0.3333,
+     "support_share": 0.2,
+     "nominations": [
+      "openai/molecular-developmental-biology/r1/#4"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Clifford B. Saper: convergence 0.41 not shown (in no committee lineup)"
+   ]
+  },
+  {
+   "rank": 5,
+   "option": "for their discovery of the unfolded protein response — Peter Walter, Kazutoshi Mori",
+   "discovery": "for their discovery of the unfolded protein response",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 2.8905,
+   "committee_points": 2.6667,
+   "convergence_points": 0.2238,
+   "committee_rank": 4,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Peter Walter",
+     "committee_weight": 2.6667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Kazutoshi Mori",
+     "committee_weight": 2.6667,
+     "convergence_points": 0.0195,
+     "convergence_families": {
+      "kalshi": 0.0195
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Peter Walter",
+      "Kazutoshi Mori"
+     ],
+     "mean_score": 2.7786,
+     "support": 2.6667,
+     "support_share": 1.0,
+     "nominations": [
+      "openai/molecular-systems-biology/r1/#5",
+      "gemini/neurology/r1/#5",
+      "gemini/molecular-systems-biology/r1/#3",
+      "gemini/neuroscience/r1/#3",
+      "gemini/molecular-genetics/r1/#4",
+      "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#2",
+      "gemini/molecular-developmental-biology/r1/#4"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "option": "for the discovery of PCSK9 and its role in regulating LDL cholesterol metabolism — Helen H. Hobbs, Nabil G. Seidah, Jonathan C. Cohen",
+   "discovery": "for the discovery of PCSK9 and its role in regulating LDL cholesterol metabolism",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 2.0754,
+   "committee_points": 1.6667,
+   "convergence_points": 0.4087,
+   "committee_rank": 5,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Helen H. Hobbs",
+     "committee_weight": 1.6667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Nabil G. Seidah",
+     "committee_weight": 1.6667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Jonathan C. Cohen",
+     "committee_weight": 0.8333,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Catherine Boileau",
+     "committee_weight": 0.8333,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Helen H. Hobbs",
+      "Nabil G. Seidah",
+      "Jonathan C. Cohen"
+     ],
+     "mean_score": 1.5251,
+     "support": 0.8333,
+     "support_share": 0.5,
+     "nominations": [
+      "anthropic/neuroscience/r1/#4",
+      "anthropic/molecular-genetics/r1/#5",
+      "openai/neurology/r1/#4"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Helen H. Hobbs",
+      "Nabil G. Seidah",
+      "Catherine Boileau"
+     ],
+     "mean_score": 1.457,
+     "support": 0.8333,
+     "support_share": 0.5,
+     "nominations": [
+      "openai/neuroscience/r1/#2",
+      "openai/experimental-rheumatology-immunology-autoimmunity/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "option": "for the discovery of leptin and the hormonal regulation of body weight — Jeffrey M. Friedman",
+   "discovery": "for the discovery of leptin and the hormonal regulation of body weight",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.899,
+   "committee_points": 1.5,
+   "convergence_points": 0.399,
+   "committee_rank": 9,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Jeffrey M. Friedman",
+     "committee_weight": 1.5,
+     "convergence_points": 0.399,
+     "convergence_families": {
+      "kalshi": 0.1946,
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Stephen O'Rahilly",
+     "committee_weight": 0.1667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Jeffrey M. Friedman"
+     ],
+     "mean_score": 1.899,
+     "support": 1.3333,
+     "support_share": 0.8889,
+     "nominations": [
+      "anthropic/molecular-systems-biology/r1/#3",
+      "anthropic/neuroscience/r1/#5",
+      "anthropic/molecular-developmental-biology/r1/#4",
+      "openai/experimental-rheumatology-immunology-autoimmunity/r1/#4"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Jeffrey M. Friedman",
+      "Stephen O'Rahilly"
+     ],
+     "mean_score": 1.0329,
+     "support": 0.1667,
+     "support_share": 0.1111,
+     "nominations": [
+      "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "option": "for their discoveries concerning the Wnt signaling pathway and its application in cultivating organoids — Hans Clevers, Roel Nusse",
+   "discovery": "for their discoveries concerning the Wnt signaling pathway and its application in cultivating organoids",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.7044,
+   "committee_points": 1.5,
+   "convergence_points": 0.2044,
+   "committee_rank": 8,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Hans Clevers",
+     "committee_weight": 1.5,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Roel Nusse",
+     "committee_weight": 1.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Hans Clevers",
+      "Roel Nusse"
+     ],
+     "mean_score": 1.6022,
+     "support": 1.5,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/molecular-developmental-biology/r1/#2",
+      "gemini/molecular-developmental-biology/r1/#1"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "option": "for their development of high-throughput next-generation DNA sequencing methods — David Klenerman, Shankar Balasubramanian",
+   "discovery": "for their development of high-throughput next-generation DNA sequencing methods",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.6667,
+   "committee_points": 1.6667,
+   "convergence_points": 0.0,
+   "committee_rank": 6,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "David Klenerman",
+     "committee_weight": 1.6667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Shankar Balasubramanian",
+     "committee_weight": 1.6667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "David Klenerman",
+      "Shankar Balasubramanian"
+     ],
+     "mean_score": 1.6667,
+     "support": 1.6667,
+     "support_share": 1.0,
+     "nominations": [
+      "gemini/molecular-systems-biology/r1/#1",
+      "gemini/molecular-genetics/r1/#1"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "option": "for their discoveries of the role of calcitonin gene-related peptide in migraine — Jes Olesen, Lars Edvinsson, Peter J. Goadsby",
+   "discovery": "for their discoveries of the role of calcitonin gene-related peptide in migraine",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.5595,
+   "committee_points": 0.3333,
+   "convergence_points": 1.2262,
+   "committee_rank": 19,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Jes Olesen",
+     "committee_weight": 0.3333,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "swedish_proximity": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Lars Edvinsson",
+     "committee_weight": 0.3333,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "swedish_proximity": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Peter J. Goadsby",
+     "committee_weight": 0.3333,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "swedish_proximity": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Michael Moskowitz",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "swedish_proximity": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": "trigeminovascular basis of migraine and the role of CGRP; his 2021 Brain Prize (per the convergence file) is the field of the committee's CGRP option with Olesen, Edvinsson and Goadsby"
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Jes Olesen",
+      "Lars Edvinsson",
+      "Peter J. Goadsby"
+     ],
+     "mean_score": 0.742,
+     "support": 0.3333,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/neurology/r1/#4"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Michael Moskowitz: convergence 0.41 not shown (in no committee lineup)"
+   ]
+  },
+  {
+   "rank": 11,
+   "option": "for the discovery of tumour necrosis factor as a therapeutic target in chronic inflammatory autoimmune disease — Marc Feldmann, Ravinder N. Maini",
+   "discovery": "for the discovery of tumour necrosis factor as a therapeutic target in chronic inflammatory autoimmune disease",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.5377,
+   "committee_points": 1.3333,
+   "convergence_points": 0.2044,
+   "committee_rank": 10,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Marc Feldmann",
+     "committee_weight": 1.3333,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Ravinder N. Maini",
+     "committee_weight": 1.3333,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Marc Feldmann",
+      "Ravinder N. Maini"
+     ],
+     "mean_score": 1.4355,
+     "support": 1.3333,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/experimental-rheumatology-immunology-autoimmunity/r1/#2",
+      "openai/experimental-rheumatology-immunology-autoimmunity/r1/#3",
+      "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "option": "for the discovery of the cGAS–STING pathway that senses cytosolic DNA and activates innate immunity — Zhijian J. Chen, Glen N. Barber",
+   "discovery": "for the discovery of the cGAS–STING pathway that senses cytosolic DNA and activates innate immunity",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.4659,
+   "committee_points": 0.8333,
+   "convergence_points": 0.6326,
+   "committee_rank": 13,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Zhijian J. Chen",
+     "committee_weight": 0.8333,
+     "convergence_points": 0.4282,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "insider_x": 0.2044,
+      "kalshi": 0.0195
+     },
+     "attached": null
+    },
+    {
+     "name": "Glen N. Barber",
+     "committee_weight": 0.8333,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Zhijian J. Chen",
+      "Glen N. Barber"
+     ],
+     "mean_score": 1.1496,
+     "support": 0.8333,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/molecular-systems-biology/r1/#4",
+      "anthropic/neuroscience/r1/#3"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "option": "for the invention of optical coherence tomography — James G. Fujimoto, David Huang, Eric A. Swanson",
+   "discovery": "for the invention of optical coherence tomography",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 1.3917,
+   "committee_points": 0.0,
+   "convergence_points": 1.3917,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "James G. Fujimoto",
+     "committee_weight": 0.0,
+     "convergence_points": 0.5742,
+     "convergence_families": {
+      "clarivate_2026": 0.2044,
+      "kalshi": 0.1654,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "David Huang",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "clarivate_2026": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Eric A. Swanson",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "clarivate_2026": 0.2044,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "all three named by Clarivate 2026 and by the same web sources (S01, S08); the inventors of OCT",
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "option": "for the discovery of inherited susceptibility genes for breast and ovarian cancer — Mary-Claire King",
+   "discovery": "for the discovery of inherited susceptibility genes for breast and ovarian cancer",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.1199,
+   "committee_points": 0.8333,
+   "convergence_points": 0.2865,
+   "committee_rank": 12,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Mary-Claire King",
+     "committee_weight": 0.8333,
+     "convergence_points": 0.2865,
+     "convergence_families": {
+      "kalshi": 0.0595,
+      "swedish_proximity": 0.1135,
+      "web_2026": 0.1135
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Mark H. Skolnick",
+     "committee_weight": 0.1667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Michael R. Stratton",
+     "committee_weight": 0.1667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "lineups": [
+    {
+     "people": [
+      "Mary-Claire King"
+     ],
+     "mean_score": 1.1198,
+     "support": 0.6667,
+     "support_share": 0.8,
+     "nominations": [
+      "anthropic/molecular-genetics/r1/#3",
+      "anthropic/molecular-developmental-biology/r1/#5"
+     ],
+     "deceased_removed": []
+    },
+    {
+     "people": [
+      "Mary-Claire King",
+      "Mark H. Skolnick",
+      "Michael R. Stratton"
+     ],
+     "mean_score": 0.4844,
+     "support": 0.1667,
+     "support_share": 0.2,
+     "nominations": [
+      "openai/molecular-genetics/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "option": "for the discovery of chaperone-mediated protein folding in cells — Franz-Ulrich Hartl, Arthur L. Horwich",
+   "discovery": "for the discovery of chaperone-mediated protein folding in cells",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.1071,
+   "committee_points": 1.0,
+   "convergence_points": 0.1071,
+   "committee_rank": 11,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Franz-Ulrich Hartl",
+     "committee_weight": 1.0,
+     "convergence_points": 0.1071,
+     "convergence_families": {
+      "kalshi": 0.1071
+     },
+     "attached": null
+    },
+    {
+     "name": "Arthur L. Horwich",
+     "committee_weight": 1.0,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Franz-Ulrich Hartl",
+      "Arthur L. Horwich"
+     ],
+     "mean_score": 1.0535,
+     "support": 1.0,
+     "support_share": 1.0,
+     "nominations": [
+      "openai/molecular-systems-biology/r1/#4",
+      "openai/molecular-genetics/r1/#4",
+      "gemini/molecular-systems-biology/r1/#4"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "option": "for discoveries of oncogenes, tumor-suppressor genes and inherited susceptibility genes in human cancer — Mary-Claire King, Robert A. Weinberg, Bert Vogelstein",
+   "discovery": "for discoveries of oncogenes, tumor-suppressor genes and inherited susceptibility genes in human cancer",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.1003,
+   "committee_points": 0.6667,
+   "convergence_points": 0.4336,
+   "committee_rank": 16,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Mary-Claire King",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.2293,
+     "convergence_families": {
+      "kalshi": 0.0476,
+      "swedish_proximity": 0.0908,
+      "web_2026": 0.0908
+     },
+     "attached": null
+    },
+    {
+     "name": "Robert A. Weinberg",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Bert Vogelstein",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Mary-Claire King",
+      "Robert A. Weinberg",
+      "Bert Vogelstein"
+     ],
+     "mean_score": 0.8112,
+     "support": 0.6667,
+     "support_share": 1.0,
+     "nominations": [
+      "openai/molecular-developmental-biology/r1/#2"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "option": "for the discovery of antisense oligonucleotide correction of SMN2 splicing as a therapy for spinal muscular atrophy — Adrian R. Krainer, C. Frank Bennett",
+   "discovery": "for the discovery of antisense oligonucleotide correction of SMN2 splicing as a therapy for spinal muscular atrophy",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.0754,
+   "committee_points": 0.6667,
+   "convergence_points": 0.4087,
+   "committee_rank": 15,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Adrian R. Krainer",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "C. Frank Bennett",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Adrian R. Krainer",
+      "C. Frank Bennett"
+     ],
+     "mean_score": 0.8711,
+     "support": 0.6667,
+     "support_share": 1.0,
+     "nominations": [
+      "anthropic/neurology/r1/#3",
+      "anthropic/molecular-systems-biology/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "option": "for his discoveries concerning the role of the gut microbiome in human health and disease — Jeffrey I. Gordon",
+   "discovery": "for his discoveries concerning the role of the gut microbiome in human health and disease",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.0377,
+   "committee_points": 0.8333,
+   "convergence_points": 0.2044,
+   "committee_rank": 14,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Jeffrey I. Gordon",
+     "committee_weight": 0.8333,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Jeffrey I. Gordon"
+     ],
+     "mean_score": 1.0377,
+     "support": 0.8333,
+     "support_share": 1.0,
+     "nominations": [
+      "gemini/neuroscience/r1/#4",
+      "gemini/experimental-rheumatology-immunology-autoimmunity/r1/#3"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 19,
+   "option": "for the development of CFTR modulator therapy that corrects the molecular defect in cystic fibrosis — Michael J. Welsh, Paul A. Negulescu",
+   "discovery": "for the development of CFTR modulator therapy that corrects the molecular defect in cystic fibrosis",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.8175,
+   "committee_points": 0.0,
+   "convergence_points": 0.8175,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Michael J. Welsh",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Paul A. Negulescu",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "milestone_passed": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "both have the 2025 Gairdner and Lasker awards and the milestone \"CFTR modulators (cystic fibrosis)\" in the convergence file; a different discovery from the committee's option on the cystic fibrosis gene",
+   "flags": []
+  },
+  {
+   "rank": 20,
+   "option": "for the discovery of MeCP2 and its role in Rett syndrome — Adrian Bird, Huda Zoghbi",
+   "discovery": "for the discovery of MeCP2 and its role in Rett syndrome",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.8175,
+   "committee_points": 0.0,
+   "convergence_points": 0.8175,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Adrian Bird",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Huda Zoghbi",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "both have the 2026 Louisa Gross Horwitz Prize and the 2020 Brain Prize in the convergence file",
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "option": "for discoveries of the receptors and intracellular signalling of the TGF-beta family — Carl-Henrik Heldin, Kohei Miyazono",
+   "discovery": "for discoveries of the receptors and intracellular signalling of the TGF-beta family",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.8175,
+   "committee_points": 0.0,
+   "convergence_points": 0.8175,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Carl-Henrik Heldin",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "swedish_proximity": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Kohei Miyazono",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "swedish_proximity": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "both in the 2024 Nobel Symposium dossier on the TGF-beta family",
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "option": "for the discovery of the cystic fibrosis gene and the molecular basis of cystic fibrosis — Francis S. Collins, Lap-Chee Tsui, John R. Riordan",
+   "discovery": "for the discovery of the cystic fibrosis gene and the molecular basis of cystic fibrosis",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.7421,
+   "committee_points": 0.3333,
+   "convergence_points": 0.4087,
+   "committee_rank": 20,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Francis S. Collins",
+     "committee_weight": 0.3333,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Lap-Chee Tsui",
+     "committee_weight": 0.3333,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "John R. Riordan",
+     "committee_weight": 0.3333,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Francis S. Collins",
+      "Lap-Chee Tsui",
+      "John R. Riordan"
+     ],
+     "mean_score": 0.4695,
+     "support": 0.3333,
+     "support_share": 1.0,
+     "nominations": [
+      "openai/neuroscience/r1/#4"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 23,
+   "option": "for the discovery of papillomavirus virus-like particles and their use as vaccines to prevent human papillomavirus-induced cancer — Douglas R. Lowy, Ian H. Frazer, John T. Schiller",
+   "discovery": "for the discovery of papillomavirus virus-like particles and their use as vaccines to prevent human papillomavirus-induced cancer",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.6667,
+   "committee_points": 0.6667,
+   "convergence_points": 0.0,
+   "committee_rank": 17,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Douglas R. Lowy",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Ian H. Frazer",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "John T. Schiller",
+     "committee_weight": 0.6667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Douglas R. Lowy",
+      "Ian H. Frazer",
+      "John T. Schiller"
+     ],
+     "mean_score": 0.6667,
+     "support": 0.6667,
+     "support_share": 1.0,
+     "nominations": [
+      "openai/molecular-genetics/r1/#2"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 24,
+   "option": "for discoveries of the transcriptional and microprotein mechanisms that control heart and muscle development — Eric Olson",
+   "discovery": "for discoveries of the transcriptional and microprotein mechanisms that control heart and muscle development",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.6131,
+   "committee_points": 0.0,
+   "convergence_points": 0.6131,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Eric Olson",
+     "committee_weight": 0.0,
+     "convergence_points": 0.6131,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "swedish_proximity": 0.2044,
+      "symposium_dossier": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "2025 Louisa Gross Horwitz Prize, KI lecture and the 2026 Nobel Symposium dossier on microproteins",
+   "flags": []
+  },
+  {
+   "rank": 25,
+   "option": "for the discovery of integrins and the molecular mechanisms of leukocyte adhesion — Timothy A. Springer",
+   "discovery": "for the discovery of integrins and the molecular mechanisms of leukocyte adhesion",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.4963,
+   "committee_points": 0.0,
+   "convergence_points": 0.4963,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Timothy A. Springer",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4963,
+     "convergence_families": {
+      "clarivate_2026": 0.2044,
+      "kalshi": 0.0876,
+      "web_2026": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "named by Clarivate 2026, Kalshi medicine market and one web source",
+   "flags": []
+  },
+  {
+   "rank": 26,
+   "option": "for the development of mass-spectrometry-based proteomics — Matthias Mann",
+   "discovery": "for the development of mass-spectrometry-based proteomics",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.4087,
+   "committee_points": 0.0,
+   "convergence_points": 0.4087,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Matthias Mann",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "2026 Gairdner International Award and KI lectures",
+   "flags": []
+  },
+  {
+   "rank": 27,
+   "option": "for discoveries of how neuronal activity regulates myelination and drives the growth of brain cancers — Michelle Monje",
+   "discovery": "for discoveries of how neuronal activity regulates myelination and drives the growth of brain cancers",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.4087,
+   "committee_points": 0.0,
+   "convergence_points": 0.4087,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Michelle Monje",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "insider_x": 0.2044,
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "one insider_x post (2025), KI lecture and the 2025 Brain Prize in the convergence file",
+   "flags": []
+  },
+  {
+   "rank": 28,
+   "option": "for determining the structure of the MHC class I molecule and how it presents peptide antigens — Pamela J. Bjorkman",
+   "discovery": "for determining the structure of the MHC class I molecule and how it presents peptide antigens",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.4087,
+   "committee_points": 0.0,
+   "convergence_points": 0.4087,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Pamela J. Bjorkman",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "high_ppv_prize": 0.2044,
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "2025 Wolf Prize and a KI lecture in the convergence file",
+   "flags": []
+  },
+  {
+   "rank": 29,
+   "option": "for the discovery of the nuclear hormone receptor superfamily — Ronald M. Evans",
+   "discovery": "for the discovery of the nuclear hormone receptor superfamily",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.4087,
+   "committee_points": 0.0,
+   "convergence_points": 0.4087,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Ronald M. Evans",
+     "committee_weight": 0.0,
+     "convergence_points": 0.4087,
+     "convergence_families": {
+      "insider_x": 0.2044,
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [],
+   "group_reason": "one insider_x post (2025) and a KI lecture; Pierre Chambon, the other usual name, died on 2026-05-05",
+   "flags": []
+  },
+  {
+   "rank": 30,
+   "option": "for discoveries of the p53 tumor suppressor pathway and its role in preventing cancer — Arnold J. Levine, Bert Vogelstein, David P. Lane",
+   "discovery": "for discoveries of the p53 tumor suppressor pathway and its role in preventing cancer",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.371,
+   "committee_points": 0.1667,
+   "convergence_points": 0.2044,
+   "committee_rank": 22,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Arnold J. Levine",
+     "committee_weight": 0.1667,
+     "convergence_points": 0.2044,
+     "convergence_families": {
+      "swedish_proximity": 0.2044
+     },
+     "attached": null
+    },
+    {
+     "name": "Bert Vogelstein",
+     "committee_weight": 0.1667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "David P. Lane",
+     "committee_weight": 0.1667,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "lineups": [
+    {
+     "people": [
+      "Arnold J. Levine",
+      "Bert Vogelstein",
+      "David P. Lane"
+     ],
+     "mean_score": 0.2348,
+     "support": 0.1667,
+     "support_share": 1.0,
+     "nominations": [
+      "openai/neurology/r1/#5"
+     ],
+     "deceased_removed": []
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  }
+ ]
+}

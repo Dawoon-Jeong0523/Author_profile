@@ -1,0 +1,654 @@
+{
+ "person": "Immanuel Bloch",
+ "profile": "A5032954061",
+ "ids": [
+  "A5032954061"
+ ],
+ "options": [
+  "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices — Immanuel Bloch, J. Ignacio Cirac, Peter Zoller"
+ ],
+ "birth_year": 1972,
+ "cutoff_year": 1997,
+ "works": [
+  {
+   "paper_id": "W1979308046",
+   "year": 2008,
+   "cited_by_count": 8129,
+   "title": "Many-body physics with ultracold gases",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007391198",
+   "year": 2002,
+   "cited_by_count": 5725,
+   "title": "Quantum phase transition from a superfluid to a Mott insulator in a gas of ultracold atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056511881",
+   "year": 2012,
+   "cited_by_count": 2205,
+   "title": "Quantum simulations with ultracold quantum gases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2914454605",
+   "year": 2019,
+   "cited_by_count": 1733,
+   "title": "Colloquium : Many-body localization, thermalization, and entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104281360",
+   "year": 2015,
+   "cited_by_count": 1668,
+   "title": "Observation of many-body localization of interacting fermions in a quasirandom optical lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030096869",
+   "year": 2004,
+   "cited_by_count": 1596,
+   "title": "Tonks–Girardeau gas of ultracold atoms in an optical lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2752346050",
+   "year": 2017,
+   "cited_by_count": 1457,
+   "title": "Quantum simulations with ultracold atoms in optical lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042278379",
+   "year": 2005,
+   "cited_by_count": 1405,
+   "title": "Ultracold quantum gases in optical lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063327258",
+   "year": 2013,
+   "cited_by_count": 1369,
+   "title": "Realization of the Hofstadter Hamiltonian with Ultracold Atoms in Optical Lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967205858",
+   "year": 2010,
+   "cited_by_count": 1287,
+   "title": "Single-atom-resolved fluorescence imaging of an atomic Mott insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042827511",
+   "year": 2002,
+   "cited_by_count": 1191,
+   "title": "Collapse and revival of the matter wave field of a Bose–Einstein condensate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989180436",
+   "year": 2012,
+   "cited_by_count": 1034,
+   "title": "Probing the relaxation towards equilibrium in an isolated strongly correlated one-dimensional Bose gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141240101",
+   "year": 2013,
+   "cited_by_count": 986,
+   "title": "Direct measurement of the Zak phase in topological Bloch bands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118666298",
+   "year": 2014,
+   "cited_by_count": 964,
+   "title": "Measuring the Chern number of Hofstadter bands with ultracold bosonic atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2336937015",
+   "year": 2016,
+   "cited_by_count": 942,
+   "title": "Exploring the many-body localization transition in two dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999404512",
+   "year": 2012,
+   "cited_by_count": 824,
+   "title": "Light-cone-like spreading of correlations in a quantum many-body system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018098207",
+   "year": 2003,
+   "cited_by_count": 772,
+   "title": "Controlled collisions for multi-particle entanglement of optically trapped atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012813559",
+   "year": 2011,
+   "cited_by_count": 734,
+   "title": "Experimental Realization of Strong Effective Magnetic Fields in an Optical Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167977891",
+   "year": 2008,
+   "cited_by_count": 718,
+   "title": "Metallic and Insulating Phases of Repulsively Interacting Fermions in a 3D Optical Lattice",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151392186",
+   "year": 2011,
+   "cited_by_count": 695,
+   "title": "Single-spin addressing in an atomic Mott insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049883489",
+   "year": 2007,
+   "cited_by_count": 679,
+   "title": "Time-Resolved Observation and Control of Superexchange Interactions with Ultracold Atoms in Optical Lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037879124",
+   "year": 2001,
+   "cited_by_count": 655,
+   "title": "Exploring Phase Coherence in a 2D Lattice of Bose-Einstein Condensates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2775516909",
+   "year": 2018,
+   "cited_by_count": 649,
+   "title": "The quantum technologies roadmap: a European community view",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W866678434",
+   "year": 2015,
+   "cited_by_count": 636,
+   "title": "A Thouless quantum pump with ultracold bosonic atoms in an optical superlattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159650664",
+   "year": 2007,
+   "cited_by_count": 596,
+   "title": "Direct observation of second-order atom tunnelling",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064532930",
+   "year": 1999,
+   "cited_by_count": 562,
+   "title": "Atom Laser with a cw Output Coupler",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963080633",
+   "year": 2005,
+   "cited_by_count": 522,
+   "title": "Spatial quantum noise interferometry in expanding ultracold atom clouds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137529507",
+   "year": 2012,
+   "cited_by_count": 519,
+   "title": "Observation of spatially ordered structures in a two-dimensional Rydberg gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098267872",
+   "year": 2013,
+   "cited_by_count": 511,
+   "title": "Quantum dynamics of a mobile spin impurity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1527964431",
+   "year": 2014,
+   "cited_by_count": 497,
+   "title": "Observation of chiral currents with ultracold atoms in bosonic ladders",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965664846",
+   "year": 2003,
+   "cited_by_count": 463,
+   "title": "Coherent Transport of Neutral Atoms in Spin-Dependent Optical Lattice Potentials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990634016",
+   "year": 2013,
+   "cited_by_count": 440,
+   "title": "Microscopic observation of magnon bound states and their dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158970070",
+   "year": 2012,
+   "cited_by_count": 432,
+   "title": "Fermionic transport and out-of-equilibrium dynamics in a homogeneous Hubbard model with ultracold atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2617026648",
+   "year": 2018,
+   "cited_by_count": 426,
+   "title": "Exploring 4D quantum Hall physics with a 2D topological charge pump",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2520242270",
+   "year": 2016,
+   "cited_by_count": 412,
+   "title": "Spin- and density-resolved microscopy of antiferromagnetic correlations in Fermi-Hubbard chains",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2084035623",
+   "year": 2008,
+   "cited_by_count": 374,
+   "title": "Quantum coherence and entanglement with ultracold atoms in optical lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114478036",
+   "year": 2016,
+   "cited_by_count": 373,
+   "title": "Coupling Identical one-dimensional Many-Body Localized Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2974458447",
+   "year": 2019,
+   "cited_by_count": 355,
+   "title": "Floquet approach to ℤ2 lattice gauge theories with ultracold atoms in optical lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120841280",
+   "year": 2014,
+   "cited_by_count": 354,
+   "title": "Observation of two-orbital spin-exchange interactions with ultracold SU(N)-symmetric fermions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2299768518",
+   "year": 2016,
+   "cited_by_count": 352,
+   "title": "Many-body interferometry of a Rydberg-dressed spin lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163000554",
+   "year": 2012,
+   "cited_by_count": 326,
+   "title": "The ‘Higgs’ amplitude mode at the two-dimensional superfluid/Mott insulator transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1678429019",
+   "year": 2000,
+   "cited_by_count": 307,
+   "title": "Measurement of the spatial coherence of a trapped Bose gas at the phase transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2476238444",
+   "year": 2017,
+   "cited_by_count": 305,
+   "title": "Periodically driving a many-body localized quantum system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2754750508",
+   "year": 2018,
+   "cited_by_count": 300,
+   "title": "Single-Particle Mobility Edge in a One-Dimensional Quasiperiodic Optical Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031636151",
+   "year": 2011,
+   "cited_by_count": 292,
+   "title": "Observation of Correlated Particle-Hole Pairs and String Order in Low-Dimensional Mott Insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996778989",
+   "year": 2013,
+   "cited_by_count": 289,
+   "title": "Expansion Dynamics of Interacting Bosons in Homogeneous Lattices in One and Two Dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2208487111",
+   "year": 2015,
+   "cited_by_count": 286,
+   "title": "Crystallization in Ising quantum magnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001975594",
+   "year": 2010,
+   "cited_by_count": 275,
+   "title": "Time-resolved observation of coherent multi-body interactions in quantum phase revivals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2778075645",
+   "year": 2017,
+   "cited_by_count": 274,
+   "title": "Observation of Slow Dynamics near the Many-Body Localization Transition in One-Dimensional Quasiperiodic Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2527822664",
+   "year": 2017,
+   "cited_by_count": 271,
+   "title": "Signatures of Many-Body Localization in a Controlled Open Quantum System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049548592",
+   "year": 2006,
+   "cited_by_count": 264,
+   "title": "Free fermion antibunching in a degenerate atomic Fermi gas released from an optical lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103662184",
+   "year": 2017,
+   "cited_by_count": 260,
+   "title": "Probing Slow Relaxation and Many-Body Localization in Two-Dimensional Quasiperiodic Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100359709",
+   "year": 2013,
+   "cited_by_count": 259,
+   "title": "Negative Absolute Temperature for Motional Degrees of Freedom",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003578803",
+   "year": 2014,
+   "cited_by_count": 254,
+   "title": "An Aharonov-Bohm interferometer for determining Bloch band topology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016986149",
+   "year": 1998,
+   "cited_by_count": 238,
+   "title": "Bose-Einstein condensation in a quadrupole-Ioffe-configuration trap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999691527",
+   "year": 2006,
+   "cited_by_count": 230,
+   "title": "Resonant control of spin dynamics in ultracold quantum gases by microwave dressing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2889751760",
+   "year": 2019,
+   "cited_by_count": 229,
+   "title": "Observation of Many-Body Localization in a One-Dimensional System with a Single-Particle Mobility Edge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2618465568",
+   "year": 2017,
+   "cited_by_count": 225,
+   "title": "Coherent Many-Body Spin Dynamics in a Long-Range Interacting Ising Chain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032872821",
+   "year": 2014,
+   "cited_by_count": 217,
+   "title": "Far-from-Equilibrium Spin Transport in Heisenberg Quantum Magnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2206550988",
+   "year": 2015,
+   "cited_by_count": 217,
+   "title": "Microscopic Observation of Pauli Blocking in Degenerate Fermionic Lattice Gases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2759285439",
+   "year": 2017,
+   "cited_by_count": 213,
+   "title": "Revealing hidden antiferromagnetic correlations in doped Hubbard chains via string correlators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070324034",
+   "year": 2007,
+   "cited_by_count": 203,
+   "title": "State Preparation and Dynamics of Ultracold Atoms in Higher Lattice Orbitals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W941912815",
+   "year": 2013,
+   "cited_by_count": 203,
+   "title": "Measurement of hard double-parton interactions inW(→ℓν) + 2-jet events at $\\sqrt{s}\\,=7$ TeV with the ATLAS detector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039343366",
+   "year": 2010,
+   "cited_by_count": 199,
+   "title": "Suppression of the critical temperature for superfluidity near the Mott transition",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061924600",
+   "year": 2006,
+   "cited_by_count": 198,
+   "title": "Formation of Spatial Shell Structure in the Superfluid to Mott Insulator Transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159305099",
+   "year": 2006,
+   "cited_by_count": 196,
+   "title": "Precision measurement of spin-dependent interaction strengths for spin-1 and spin-287Rb atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093070978",
+   "year": 2015,
+   "cited_by_count": 193,
+   "title": "Designing Frustrated Quantum Magnets with Laser-Dressed Rydberg Atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074755585",
+   "year": 2015,
+   "cited_by_count": 189,
+   "title": "Emergence of coherence and the dynamics of quantum phase transitions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023286545",
+   "year": 2005,
+   "cited_by_count": 183,
+   "title": "Phase Coherence of an Atomic Mott Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2395701151",
+   "year": 2016,
+   "cited_by_count": 176,
+   "title": "Bloch state tomography using Wilson lines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2192398735",
+   "year": 2015,
+   "cited_by_count": 167,
+   "title": "Observation of an Orbital Interaction-Induced Feshbach Resonance in Yb 173",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103931066",
+   "year": 2015,
+   "cited_by_count": 167,
+   "title": "Direct probing of the Mott crossover in the SU($N$) Fermi-Hubbard model",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2022785655",
+   "year": 2011,
+   "cited_by_count": 164,
+   "title": "Controlling Correlated Tunneling and Superexchange Interactions with ac-Driven Optical Lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070872932",
+   "year": 2009,
+   "cited_by_count": 158,
+   "title": "Role of Interactions in Rb87−K40 Bose-Fermi Mixtures in a 3D Optical Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2135119531",
+   "year": 2013,
+   "cited_by_count": 158,
+   "title": "Probing Real-Space and Time-Resolved Correlation Functions with Many-Body Ramsey Interferometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970856415",
+   "year": 2001,
+   "cited_by_count": 157,
+   "title": "Magnetic transport of trapped cold atoms over a large distance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045880931",
+   "year": 2005,
+   "cited_by_count": 157,
+   "title": "Coherent Collisional Spin Dynamics in Optical Lattices",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985994228",
+   "year": 2009,
+   "cited_by_count": 149,
+   "title": "Electromagnetically Induced Transparency and Light Storage in an Atomic Mott Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015239020",
+   "year": 2005,
+   "cited_by_count": 145,
+   "title": "Interference pattern and visibility of a Mott insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162294415",
+   "year": 2015,
+   "cited_by_count": 145,
+   "title": "Search for Higgs Boson Pair Production in the γγbb¯ Final State Using pp Collision Data at s=8 TeV from the ATLAS Detector",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

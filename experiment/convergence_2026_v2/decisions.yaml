@@ -1,0 +1,171 @@
+# Hand decisions for build_options_v2.py. Physics and chemistry are copied unchanged from
+# ../convergence_2026/decisions.yaml (drafted by Claude on 2026-10-05); the medicine section is new, drafted by Claude
+# on 2026-10-06 for the user to check. Every entry has its reason and is listed in results/review_<field>.md.
+#   attach:    a convergence person the committee did not name joins the committee option that holds `with`
+#              (and whose wording contains `discovery_has`, when given)
+#   groups:    convergence people who form one new option, with its discovery text
+#   discovery: discovery text for a person who forms a new option alone
+#   rename:    new wording for a committee option (by its committee rank), with the reason
+#   notes:     a flag added to the option of that person
+# Discovery texts written here are Claude's wording; where a prize citation exists it is followed and named.
+
+physics:
+  attach:
+    "John Preskill":
+      with: "Peter W. Shor"
+      discovery_has: "error correction"
+      reason: >-
+        shares the milestone "Quantum error correction / quantum algorithms" with Kitaev and Shor, who are both in the
+        committee's quantum error correction option (the milestone also names Cirac and Zoller, so the automatic rule
+        left him alone); his work on fault-tolerant thresholds belongs to that discovery
+    "Mikhail Lukin":
+      with: "Immanuel Bloch"
+      reason: quantum simulation with arrays of Rydberg atoms, the discovery of the committee's quantum simulation option
+    "Jian-Wei Pan":
+      with: "Charles H. Bennett"
+      reason: >-
+        experimental quantum communication (teleportation, entanglement distribution, satellite quantum key
+        distribution), part of the committee's quantum information option
+    "Andrea Alù": {with: "John B. Pendry", reason: "metamaterials (2026 Nobel Symposium on metamaterials)"}
+    "Nader Engheta": {with: "John B. Pendry", reason: "metamaterials (2026 Nobel Symposium on metamaterials)"}
+    "Ulf Leonhardt": {with: "John B. Pendry", reason: "metamaterials and transformation optics (2026 Nobel Symposium on metamaterials)"}
+    "Vladimir Shalaev": {with: "John B. Pendry", reason: "metamaterials (2026 Nobel Symposium on metamaterials)"}
+  groups:
+    - people: ["Mordehai Heiblum", "Jainendra K. Jain", "James P. Eisenstein"]
+      discovery: "for advancing the understanding of the surprising properties of two-dimensional electron systems in strong magnetic fields"
+      reason: >-
+        shared the 2025 Wolf Prize in Physics with this citation (wording kept); all three in the 2023 Nobel Symposium
+        on anyons and in Kalshi markets
+    - people: ["Simon White", "Carlos Frenk", "Marc Davis"]
+      discovery: "for numerical simulations that established the cold dark matter model of the formation of cosmic structure"
+      reason: >-
+        with George Efstathiou the authors of the 1985 cold-dark-matter simulations (Davis, Efstathiou, Frenk and
+        White); all three in the 2022 Nobel Symposium on dark matter and in Kalshi markets. Efstathiou is placed with
+        Bond below, as his convergence signals are the 2025 Shaw Prize for the cosmic microwave background
+    - people: ["John Richard Bond", "George Efstathiou"]
+      discovery: "for pioneering theoretical studies of fluctuations in the cosmic microwave background"
+      reason: shared the 2025 Shaw Prize in Astronomy "for their pioneering research in cosmology, in particular for their studies of fluctuations in the cosmic microwave background"
+    - people: ["Stanford Woosley", "Ken'ichi Nomoto"]
+      discovery: "for their studies of stellar explosions and the origin of the elements"
+      reason: shared the 2026 Shaw Prize in Astronomy with this citation (wording kept)
+    - people: ["Stephen R. Forrest", "Mark E. Thompson", "Chihaya Adachi"]
+      discovery: "for the development of highly efficient organic light-emitting diodes based on phosphorescent and thermally activated delayed fluorescence emitters"
+      reason: >-
+        all three named by Clarivate 2026 and listed under physics in the convergence file; phosphorescent OLEDs
+        (Forrest, Thompson) and thermally activated delayed fluorescence (Adachi). The chemistry committee has a
+        related option (efficient OLEDs: Tang, Van Slyke, Thompson, Adachi)
+    - people: ["Daniel Loss", "David DiVincenzo"]
+      discovery: "for the proposal of quantum computation with electron spins in semiconductor quantum dots"
+      reason: the 1998 Loss-DiVincenzo proposal; both in the 2026 Nobel Symposium on quantum computing and simulation
+    - people: ["Ingrid Daubechies", "Stéphane Mallat", "Yves Meyer"]
+      discovery: "for the development of wavelet theory and multiresolution signal analysis"
+      reason: all three have Kalshi physics markets; their shared contribution is wavelet theory (a mathematical discovery)
+    - people: ["David Charbonneau", "Sara Seager"]
+      discovery: "for the detection and theoretical study of the atmospheres of exoplanets through their transits"
+      reason: both have Kalshi physics markets; first detection of an exoplanet atmosphere (Charbonneau) and its theory (Seager)
+  discovery:
+    "Martin Rees":
+      discovery: "for fundamental contributions to high-energy astrophysics, galaxies and structure formation, and cosmology"
+      reason: the citation of his 2024 Wolf Prize in Physics (wording kept)
+    "Nicola A. Spaldin":
+      discovery: "for the theory of multiferroic materials, in which magnetic and ferroelectric order coexist"
+      reason: named by Clarivate 2026
+    "Qikun Xue":
+      discovery: "for the experimental discovery of the quantum anomalous Hall effect"
+      reason: named by Clarivate 2026
+    "Ewine van Dishoeck":
+      discovery: "for pioneering work in astrochemistry, tracing molecules from interstellar clouds to planet-forming disks"
+      reason: Kalshi physics market
+    "Yasunobu Nakamura":
+      discovery: "for the first coherent control of a superconducting quantum bit"
+      reason: 2026 Nobel Symposium on quantum computing and simulation
+  notes:
+    "Yasunobu Nakamura": >-
+      close to the 2025 physics prize ("for the discovery of macroscopic quantum mechanical tunnelling and energy
+      quantisation in an electric circuit")
+    "Ingrid Daubechies": wavelet theory is mathematics; the convergence file lists the three under physics because of Kalshi markets
+
+chemistry:
+  attach:
+    "Jay R. Winkler":
+      with: "Harry B. Gray"
+      reason: >-
+        Gray and Winkler's joint work on electron tunnelling in proteins; both named by Clarivate 2026 and in the 2022
+        Nobel Symposium on bio-inorganic chemistry
+    "Jacob Sagiv":
+      with: "George M. Whitesides"
+      discovery_has: "self-assembled"
+      reason: Sagiv's early work on self-assembled monolayers; named by Clarivate 2026 with Allara and Nuzzo, who are in this option
+  rename:
+    18:
+      discovery: "for pioneering work on electron transfer in proteins"
+      reason: the committee wording ("for his pioneering work ...") names one person; with Winkler attached the option can show two
+  discovery:
+    "David R. Liu":
+      discovery: "for the development of base editing and prime editing for precise genome editing"
+      reason: named by Clarivate 2026, Kalshi, the 2026 Franklin Medal and the milestone "CRISPR base and prime editing"
+    "Kevan Shokat":
+      discovery: "for chemical-genetic methods to study protein kinases and the discovery of covalent inhibitors of oncogenic KRAS"
+      reason: one insider_x post (2023) and one web source
+    "Chi-Huey Wong":
+      discovery: "for the development of programmable and chemoenzymatic synthesis of complex carbohydrates and glycoproteins"
+      reason: Kalshi chemistry market and one web source
+  notes:
+    "David R. Liu": builds on CRISPR-Cas9 genome editing (Nobel Prize in Chemistry 2020)
+  deceased:        # living check 2026-10-05 (Wikidata, confirmed on Wikipedia); not shown, next living person by weight shown instead
+    "Axel D. Becke": "died 2025-10-23 in Halifax (Wikidata Q96596, source IAQMS past members; Wikipedia)"
+    "Pierre Chambon": "died 2026-05-05 in Strasbourg (Wikidata Q1388486; Wikipedia, L'Alsace obituary of 7 May 2026)"
+
+medicine:          # drafted 2026-10-06 (Claude) for v2; every convergence person with >= 2 evidence families that the
+                   # committee did not name is placed here; people with one family cannot form an option anyway
+  attach:
+    "Michael Moskowitz":
+      with: "Peter J. Goadsby"
+      discovery_has: "calcitonin"
+      reason: >-
+        trigeminovascular basis of migraine and the role of CGRP; his 2021 Brain Prize (per the convergence file) is
+        the field of the committee's CGRP option with Olesen, Edvinsson and Goadsby
+    "Clifford B. Saper":
+      with: "Masashi Yanagisawa"
+      discovery_has: "orexin"
+      reason: >-
+        co-author with Yanagisawa of the 1999 orexin-knockout narcolepsy paper (Chemelli et al., Cell); his signals
+        (2022 neuropeptide Nobel Symposium, KI lecture) concern hypothalamic sleep-wake circuits, the committee's orexin
+        option
+  groups:
+    - people: ["James G. Fujimoto", "David Huang", "Eric A. Swanson"]
+      discovery: "for the invention of optical coherence tomography"
+      reason: all three named by Clarivate 2026 and by the same web sources (S01, S08); the inventors of OCT
+    - people: ["Michael J. Welsh", "Paul A. Negulescu"]
+      discovery: "for the development of CFTR modulator therapy that corrects the molecular defect in cystic fibrosis"
+      reason: >-
+        both have the 2025 Gairdner and Lasker awards and the milestone "CFTR modulators (cystic fibrosis)" in the
+        convergence file; a different discovery from the committee's option on the cystic fibrosis gene
+    - people: ["Adrian Bird", "Huda Zoghbi"]
+      discovery: "for the discovery of MeCP2 and its role in Rett syndrome"
+      reason: both have the 2026 Louisa Gross Horwitz Prize and the 2020 Brain Prize in the convergence file
+    - people: ["Carl-Henrik Heldin", "Kohei Miyazono"]
+      discovery: "for discoveries of the receptors and intracellular signalling of the TGF-beta family"
+      reason: both in the 2024 Nobel Symposium dossier on the TGF-beta family
+  discovery:
+    "Eric Olson":
+      discovery: "for discoveries of the transcriptional and microprotein mechanisms that control heart and muscle development"
+      reason: 2025 Louisa Gross Horwitz Prize, KI lecture and the 2026 Nobel Symposium dossier on microproteins
+    "Timothy A. Springer":
+      discovery: "for the discovery of integrins and the molecular mechanisms of leukocyte adhesion"
+      reason: named by Clarivate 2026, Kalshi medicine market and one web source
+    "Matthias Mann":
+      discovery: "for the development of mass-spectrometry-based proteomics"
+      reason: 2026 Gairdner International Award and KI lectures
+    "Michelle Monje":
+      discovery: "for discoveries of how neuronal activity regulates myelination and drives the growth of brain cancers"
+      reason: one insider_x post (2025), KI lecture and the 2025 Brain Prize in the convergence file
+    "Pamela J. Bjorkman":
+      discovery: "for determining the structure of the MHC class I molecule and how it presents peptide antigens"
+      reason: 2025 Wolf Prize and a KI lecture in the convergence file
+    "Ronald M. Evans":
+      discovery: "for the discovery of the nuclear hormone receptor superfamily"
+      reason: one insider_x post (2025) and a KI lecture; Pierre Chambon, the other usual name, died on 2026-05-05
+    "Max Dale Cooper":
+      discovery: "for the discovery of B cells as a separate lineage of adaptive immunity"
+      reason: Kalshi medicine market and one web source

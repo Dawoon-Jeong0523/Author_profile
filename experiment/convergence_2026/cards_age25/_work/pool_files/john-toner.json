@@ -1,0 +1,654 @@
+{
+ "person": "John Toner",
+ "profile": "A5091365982",
+ "ids": [
+  "A5091365982"
+ ],
+ "options": [
+  "for the formulation of the hydrodynamic theories of active matter and flocking — John Toner, Sriram Ramaswamy, Yuhai Tu"
+ ],
+ "birth_year": 1955,
+ "cutoff_year": 1980,
+ "works": [
+  {
+   "paper_id": "W2060203271",
+   "year": 1998,
+   "cited_by_count": 1547,
+   "title": "Flocks, herds, and schools: A quantitative theory of flocking",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063134919",
+   "year": 1995,
+   "cited_by_count": 1174,
+   "title": "Long-Range Order in a Two-Dimensional Dynamical XY Model: How Birds Fly Together",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105218727",
+   "year": 2005,
+   "cited_by_count": 974,
+   "title": "Hydrodynamics and phases of flocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058291122",
+   "year": 1981,
+   "cited_by_count": 390,
+   "title": "Bond-orientational order, dislocation loops, and melting of solids and smectic- A liquid crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981683020",
+   "year": 1985,
+   "cited_by_count": 340,
+   "title": "Hydrodynamics of icosahedral quasicrystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059667163",
+   "year": 2003,
+   "cited_by_count": 304,
+   "title": "Active nematics on a substrate: Giant number fluctuations and long-time tails",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082355344",
+   "year": 2000,
+   "cited_by_count": 226,
+   "title": "Nonequilibrium Fluctuations, Traveling Waves, and Instabilities in Active Membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055840459",
+   "year": 1981,
+   "cited_by_count": 222,
+   "title": "Smectic, cholesteric, and Rayleigh-Benard order in two dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046213896",
+   "year": 2001,
+   "cited_by_count": 195,
+   "title": "Universality and Scaling in the Disordering of a Smectic Liquid Crystal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065559138",
+   "year": 2015,
+   "cited_by_count": 195,
+   "title": "Two-Dimensional Superfluidity of Exciton Polaritons Requires Strong Anisotropy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080520895",
+   "year": 1985,
+   "cited_by_count": 193,
+   "title": "Hydrodynamic Theory of the Glass Transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059987221",
+   "year": 1986,
+   "cited_by_count": 161,
+   "title": "Systematics of Disorder in Quasiperiodic Material",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972339765",
+   "year": 2012,
+   "cited_by_count": 140,
+   "title": "Reanalysis of the hydrodynamic theory of fluid, polar-ordered flocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011879793",
+   "year": 1992,
+   "cited_by_count": 139,
+   "title": "Kondo effect in a Luttinger liquid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088923717",
+   "year": 1998,
+   "cited_by_count": 138,
+   "title": "Sound Waves and the Absence of Galilean Invariance in Flocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010355097",
+   "year": 1992,
+   "cited_by_count": 134,
+   "title": "Observation of separate vortex-melting and vortex-glass transitions in defect-enhanced YBa2 Cu3 O7 single crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034937877",
+   "year": 1999,
+   "cited_by_count": 125,
+   "title": "Smectic liquid crystals in random environments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085521764",
+   "year": 1990,
+   "cited_by_count": 111,
+   "title": "Super-roughening: A new phase transition on the surfaces of crystals with quenched bulk disorder",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992535022",
+   "year": 1999,
+   "cited_by_count": 109,
+   "title": "Sliding Phases in XY Models, Crystals, and Cationic Lipid-DNA Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002204256",
+   "year": 1993,
+   "cited_by_count": 98,
+   "title": "Topology and nematic ordering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073023433",
+   "year": 1983,
+   "cited_by_count": 95,
+   "title": "Breakdown of conventional hydrodynamics for smectic- A , hexatic- B , and cholesteric liquid crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004354527",
+   "year": 1982,
+   "cited_by_count": 91,
+   "title": "Renormalization-group treatment of the dislocation loop model of the smectic- A —nematic transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993640067",
+   "year": 1995,
+   "cited_by_count": 81,
+   "title": "A New Phase of Tethered Membranes: Tubules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986388854",
+   "year": 1999,
+   "cited_by_count": 78,
+   "title": "Coherent Soft-X-Ray Dynamic Light Scattering from Smectic- A Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154649024",
+   "year": 2012,
+   "cited_by_count": 78,
+   "title": "Birth, Death, and Flight: A Theory of Malthusian Flocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042482851",
+   "year": 1997,
+   "cited_by_count": 66,
+   "title": "Nematic–to–Smectic- A Transition in Aerogel",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975935076",
+   "year": 1986,
+   "cited_by_count": 65,
+   "title": "Dislocation motion in quasicrystals and implications for macroscopic properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2312252715",
+   "year": 1982,
+   "cited_by_count": 65,
+   "title": "Viscosities Diverge as 1ω in Smectic- A Liquid Crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2439408574",
+   "year": 2016,
+   "cited_by_count": 65,
+   "title": "Mapping two-dimensional polar active fluids to two-dimensional soap and one-dimensional sandblasting",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985579186",
+   "year": 1995,
+   "cited_by_count": 62,
+   "title": "Topology and nematic ordering. I. A gauge theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044836049",
+   "year": 2007,
+   "cited_by_count": 52,
+   "title": "Disordering to Order: de Vries Behavior from a Landau Theory for Smectic Phases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011477250",
+   "year": 1983,
+   "cited_by_count": 51,
+   "title": "Dislocation-Loop Theory of the Nematic-Smectic A -Smectic C Multicritical Point",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964973633",
+   "year": 2013,
+   "cited_by_count": 50,
+   "title": "Universality for Moving Stripes: A Hydrodynamic Theory of Polar Active Smectics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077362372",
+   "year": 2006,
+   "cited_by_count": 48,
+   "title": "Squeezing Superfluid from a Stone: Coupling Superfluidity and Elasticity in a Supersolid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2804793523",
+   "year": 2018,
+   "cited_by_count": 48,
+   "title": "Swarming in the Dirt: Ordered Flocks with Quenched Disorder",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1572451937",
+   "year": 2013,
+   "cited_by_count": 43,
+   "title": "Live Soap: Stability, Order, and Fluctuations in Apolar Active Smectics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094098365",
+   "year": 1998,
+   "cited_by_count": 43,
+   "title": "Elasticity, shape fluctuations, and phase transitions in the new tubule phase of anisotropic tethered membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001096169",
+   "year": 1987,
+   "cited_by_count": 41,
+   "title": "Dislocation-loop melting theory of phase diagrams with nematic regions surrounded by smectic regions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995350199",
+   "year": 2008,
+   "cited_by_count": 40,
+   "title": "Quenched Dislocation Enhanced Supersolid Ordering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086374113",
+   "year": 1983,
+   "cited_by_count": 40,
+   "title": "Bond-orientationally-ordered phases that scatter light strongly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115284176",
+   "year": 1998,
+   "cited_by_count": 36,
+   "title": "Dynamic correlation functions for finite and infinite smectic-Asystems: Theory and experiment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115367394",
+   "year": 1997,
+   "cited_by_count": 36,
+   "title": "Dirt Softens Soap: Anomalous Elasticity of Disordered Smectics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2804462713",
+   "year": 2018,
+   "cited_by_count": 36,
+   "title": "Hydrodynamic theory of flocking in the presence of quenched disorder",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972803120",
+   "year": 1991,
+   "cited_by_count": 35,
+   "title": "Glassy dynamics of two-dimensional vortex glasses, charge-density waves, and surfaces of disordered crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4241151339",
+   "year": 1990,
+   "cited_by_count": 35,
+   "title": "The Continuum of Long Term Care:",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024608653",
+   "year": 1991,
+   "cited_by_count": 33,
+   "title": "Dirt roughens real sandpiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050580069",
+   "year": 1991,
+   "cited_by_count": 32,
+   "title": "Orientational order in disordered superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2270413414",
+   "year": 2016,
+   "cited_by_count": 31,
+   "title": "Emergent smectic order in simple active particle models",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033772825",
+   "year": 1986,
+   "cited_by_count": 30,
+   "title": "Fractal Dimensions of Model Particle Packings Having Multiple Generations of Agglomerates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044821411",
+   "year": 1984,
+   "cited_by_count": 28,
+   "title": "Substrate-Induced Orientational Order in the Isotropic Phase of Liquid Crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058889272",
+   "year": 1999,
+   "cited_by_count": 27,
+   "title": "Two New Topologically Ordered Glass Phases of Smectics Confined in Anisotropic Random Media",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970980775",
+   "year": 1986,
+   "cited_by_count": 24,
+   "title": "Defect-mediated melting and new phases in three-dimensional systems with a single soft direction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978037942",
+   "year": 2001,
+   "cited_by_count": 24,
+   "title": "“Soft” Anharmonic Vortex Glass in Ferromagnetic Superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095473363",
+   "year": 1990,
+   "cited_by_count": 24,
+   "title": "New phase of matter in lamellar phases of tethered, crystalline membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980957251",
+   "year": 1999,
+   "cited_by_count": 22,
+   "title": "Nonequilibrium noise and instabilities in membranes with active pumps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037944555",
+   "year": 1990,
+   "cited_by_count": 22,
+   "title": "Growth and kinetic roughening of quasicrystals and other incommensurate systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050570941",
+   "year": 1989,
+   "cited_by_count": 21,
+   "title": "Elastic Anisotropies and Long-Ranged Interactions in Solid Membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2996833505",
+   "year": 2020,
+   "cited_by_count": 21,
+   "title": "Moving, Reproducing, and Dying Beyond Flatland: Malthusian Flocks in Dimensions d>2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989709723",
+   "year": 1986,
+   "cited_by_count": 20,
+   "title": "Commensurate and Incommensurate Vortices in Two-Dimensional XY Models",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2437624358",
+   "year": 2016,
+   "cited_by_count": 20,
+   "title": "Following fluctuating signs: Anomalous active superdiffusion of swimmers in anisotropic media",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965106050",
+   "year": 2010,
+   "cited_by_count": 18,
+   "title": "Anomalously Elastic Intermediate Phase in Randomly Layered Superfluids, Superconductors, and Planar Magnets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023289580",
+   "year": 1995,
+   "cited_by_count": 18,
+   "title": "Topology and nematic ordering. II. Observable critical behavior",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033005120",
+   "year": 2005,
+   "cited_by_count": 18,
+   "title": "Floating phase in a dissipative Josephson junction array",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056812986",
+   "year": 2009,
+   "cited_by_count": 18,
+   "title": "Skyrmion versus vortex flux lattices in p -wave superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014270521",
+   "year": 2000,
+   "cited_by_count": 17,
+   "title": "A Discotic Disguised as a Smectic: A Hybrid Columnar Bragg Glass",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029667637",
+   "year": 2006,
+   "cited_by_count": 17,
+   "title": "Nature and boundary of the floating phase in a dissipative Josephson junction array",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2803334841",
+   "year": 2018,
+   "cited_by_count": 17,
+   "title": "Long-time anomalous swimmer diffusion in smectic liquid crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3015061662",
+   "year": 2020,
+   "cited_by_count": 17,
+   "title": "Universality class for a nonequilibrium state of matter: A d=4−ε expansion study of Malthusian flocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036722164",
+   "year": 1998,
+   "cited_by_count": 16,
+   "title": "Transversely Driven Charge-Density Waves and Striped Phases of High- Tc Superconductors: The Current-Effect Transistor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072285173",
+   "year": 1988,
+   "cited_by_count": 16,
+   "title": "Static and dynamic properties of incommensurate smectic- A IC liquid crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026734785",
+   "year": 1982,
+   "cited_by_count": 14,
+   "title": "Dynamics of 2D anisotropic solids, smectics and nematics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070585186",
+   "year": 2007,
+   "cited_by_count": 13,
+   "title": "Elasticity and Melting of Skyrmion Flux Lattices in p -Wave Superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997179112",
+   "year": 2004,
+   "cited_by_count": 12,
+   "title": "Spontaneous Flux Lattices in Ferromagnetic Spin-Triplet Superconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073828916",
+   "year": 1991,
+   "cited_by_count": 12,
+   "title": "Elasticity and the Landau-Peierls instability in the smectic twist-grain-boundary phase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068095365",
+   "year": 1991,
+   "cited_by_count": 11,
+   "title": "Simple model of kinetic roughening of quasicrystalline surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001681660",
+   "year": 1983,
+   "cited_by_count": 10,
+   "title": "Breakdown of conventional hydrodynamics in three-dimensional systems with long-ranged two-dimensional translational order",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4236659527",
+   "year": 1991,
+   "cited_by_count": 10,
+   "title": "Toner replies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4256197600",
+   "year": 1992,
+   "cited_by_count": 10,
+   "title": "Toner replies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024682215",
+   "year": 1992,
+   "cited_by_count": 9,
+   "title": "Breakdown of elasticity theory in nematic polymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049670197",
+   "year": 1995,
+   "cited_by_count": 9,
+   "title": "Anomalous Elasticity of Polymer Cholesterics",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

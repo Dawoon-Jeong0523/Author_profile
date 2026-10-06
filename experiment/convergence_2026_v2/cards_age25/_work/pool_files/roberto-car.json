@@ -1,0 +1,656 @@
+{
+ "person": "Roberto Car",
+ "profile": "A5007841515",
+ "ids": [
+  "A5007841515",
+  "A5108128658"
+ ],
+ "options": [
+  "for the development of ab initio molecular dynamics — Michele Parrinello, Roberto Car",
+  "for the development of ab initio molecular dynamics — Roberto Car, Michele Parrinello"
+ ],
+ "birth_year": 1947,
+ "cutoff_year": 1972,
+ "works": [
+  {
+   "paper_id": "W2120145199",
+   "year": 2009,
+   "cited_by_count": 27771,
+   "title": "QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046001409",
+   "year": 1985,
+   "cited_by_count": 10541,
+   "title": "Unified Approach for Molecular Dynamics and Density-Functional Theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042454875",
+   "year": 2007,
+   "cited_by_count": 4384,
+   "title": "Raman Spectra of Graphite Oxide and Functionalized Graphene Sheets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3101095095",
+   "year": 2017,
+   "cited_by_count": 3700,
+   "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2065062234",
+   "year": 2007,
+   "cited_by_count": 3522,
+   "title": "Single Sheet Functionalized Graphene by Oxidation and Thermal Expansion of Graphite",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2132384935",
+   "year": 2006,
+   "cited_by_count": 3427,
+   "title": "Functionalized Single Graphene Sheets Derived from Splitting Graphite Oxide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2742127985",
+   "year": 2018,
+   "cited_by_count": 1987,
+   "title": "Deep Potential Molecular Dynamics: A Scalable Model with the Accuracy of Quantum Mechanics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020072134",
+   "year": 2012,
+   "cited_by_count": 1470,
+   "title": "Accurate and Efficient Method for Many-Body van der Waals Interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039626632",
+   "year": 1993,
+   "cited_by_count": 1424,
+   "title": "Car-Parrinello molecular dynamics with Vanderbilt ultrasoft pseudopotentials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007473024",
+   "year": 2002,
+   "cited_by_count": 712,
+   "title": "Theory of Quantum Annealing of an Ising Spin Glass",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971346858",
+   "year": 1993,
+   "cited_by_count": 601,
+   "title": "‘‘Ab initio’’ liquid water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2482115826",
+   "year": 2016,
+   "cited_by_count": 591,
+   "title": "Report on the sixth blind test of organic crystal structure prediction methods",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171700698",
+   "year": 2006,
+   "cited_by_count": 584,
+   "title": "Oxygen-Driven Unzipping of Graphitic Materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2316373089",
+   "year": 1991,
+   "cited_by_count": 535,
+   "title": "Implementation of ultrasoft pseudopotentials in ab initio molecular dynamics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038995122",
+   "year": 2014,
+   "cited_by_count": 514,
+   "title": "Metastable liquid–liquid transition in a molecular model of water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2760917849",
+   "year": 2017,
+   "cited_by_count": 469,
+   "title": "Ab initio theory and modeling of water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006339331",
+   "year": 2008,
+   "cited_by_count": 454,
+   "title": "Nuclear Quantum Effects in Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033429577",
+   "year": 1993,
+   "cited_by_count": 453,
+   "title": "Orbital formulation for electronic-structure calculations with linear system-size scaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084429590",
+   "year": 1989,
+   "cited_by_count": 416,
+   "title": "Conjugate gradient minimization of the energy functional: A new method for electronic structure calculation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038496227",
+   "year": 1998,
+   "cited_by_count": 405,
+   "title": "Identification of Raman Defect Lines as Signatures of Ring Structures in Vitreous Silica",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035023553",
+   "year": 1999,
+   "cited_by_count": 402,
+   "title": "Two-Dimensional Self-Assembly of Supramolecular Clusters and Chains",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024206386",
+   "year": 2001,
+   "cited_by_count": 393,
+   "title": "First Solvation Shell of the Cu(II) Aqua Ion: Evidence for Fivefold Coordination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023456054",
+   "year": 1988,
+   "cited_by_count": 386,
+   "title": "Structural, Dymanical, and Electronic Properties of Amorphous Silicon: Anab initioMolecular-Dynamics Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153356031",
+   "year": 2004,
+   "cited_by_count": 376,
+   "title": "The role of vacancy defects and holes in the fracture of carbon nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978805405",
+   "year": 1985,
+   "cited_by_count": 367,
+   "title": "Electronic and structural properties of sodium clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035925487",
+   "year": 1991,
+   "cited_by_count": 364,
+   "title": "Nitrogen and potentialn-type dopants in diamond",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018649001",
+   "year": 1997,
+   "cited_by_count": 359,
+   "title": "Electronic Structure and Localized States at Carbon Nanotube Tips",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017471394",
+   "year": 1992,
+   "cited_by_count": 357,
+   "title": "Ab initiomolecular dynamics ford-electron systems: Liquid copper at 1500 K",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997163121",
+   "year": 1998,
+   "cited_by_count": 344,
+   "title": "Fully Unconstrained Approach to Noncollinear Magnetism: Application to Small Fe Clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967945586",
+   "year": 1984,
+   "cited_by_count": 331,
+   "title": "Microscopic Theory of Atomic Diffusion Mechanisms in Silicon",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3126533621",
+   "year": 2021,
+   "cited_by_count": 325,
+   "title": "Phase Diagram of a Deep Potential Water Model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972749229",
+   "year": 1989,
+   "cited_by_count": 319,
+   "title": "Structural and Electronic Properties of Amorphous Carbon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005069114",
+   "year": 2014,
+   "cited_by_count": 317,
+   "title": "The individual and collective effects of exact exchange and dispersion interactions on the ab initio structure of liquid water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077001482",
+   "year": 1988,
+   "cited_by_count": 302,
+   "title": "Equilibrium Structures and Finite Temperature Properties of Silicon Microclusters fromab initioMolecular-Dynamics Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093388038",
+   "year": 1991,
+   "cited_by_count": 289,
+   "title": "Binding and diffusion of a Si adatom on the Si(100) surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067825331",
+   "year": 1989,
+   "cited_by_count": 288,
+   "title": "A Novel Technique for the Simulation of Interacting Fermion Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030400802",
+   "year": 1995,
+   "cited_by_count": 282,
+   "title": "Structural and Electronic Properties of Liquid and Amorphous Si O2 : AnAb InitioMolecular Dynamics Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999162961",
+   "year": 1993,
+   "cited_by_count": 274,
+   "title": "First-principles calculations of self-diffusion constants in silicon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3104742625",
+   "year": 2018,
+   "cited_by_count": 274,
+   "title": "Hydroxide diffuses slower than hydronium in water because its solvated structure inhibits correlated proton transfer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972038331",
+   "year": 2003,
+   "cited_by_count": 269,
+   "title": "Oxygen adsorption on graphite and nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986076990",
+   "year": 1996,
+   "cited_by_count": 265,
+   "title": "Generalized-gradient approximations to density-functional theory: A comparative study for atoms and solids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067855671",
+   "year": 1990,
+   "cited_by_count": 265,
+   "title": "Ab initio calculation of properties of carbon in the amorphous and liquid states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986235469",
+   "year": 1995,
+   "cited_by_count": 262,
+   "title": "Ab Initio Molecular Dynamics Study of First-Order Phase Transitions: Melting of Silicon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4233877244",
+   "year": 1985,
+   "cited_by_count": 252,
+   "title": "Electronic and structural properties of sodium clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1517527671",
+   "year": 2015,
+   "cited_by_count": 250,
+   "title": "Three-dimensional Dirac semimetals: Design principles and predictions of new materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1738704394",
+   "year": 1998,
+   "cited_by_count": 247,
+   "title": "Interface structure between silicon and its oxide by first-principles molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028735061",
+   "year": 1989,
+   "cited_by_count": 247,
+   "title": "Bonding and disorder in liquid silicon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1746811145",
+   "year": 1997,
+   "cited_by_count": 245,
+   "title": "Theory of composite BxCyNz nanotube heterojunctions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016426910",
+   "year": 2008,
+   "cited_by_count": 245,
+   "title": "Why Are Water−Hydrophobic Interfaces Charged?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3004021778",
+   "year": 2020,
+   "cited_by_count": 243,
+   "title": "Free energy of proton transfer at the water–TiO 2 interface from ab initio deep potential molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073740521",
+   "year": 1988,
+   "cited_by_count": 232,
+   "title": "Structure of sulfur clusters using simulated annealing: S2 to S13",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103939989",
+   "year": 1997,
+   "cited_by_count": 231,
+   "title": "Microscopic Growth Mechanisms for Carbon Nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104016561",
+   "year": 2005,
+   "cited_by_count": 227,
+   "title": "Carbon Phase Diagram from Ab Initio Molecular Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024600256",
+   "year": 1991,
+   "cited_by_count": 224,
+   "title": "Amorphous silicon studied by ab initio molecular dynamics: Preparation, structure, and properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071342387",
+   "year": 1996,
+   "cited_by_count": 221,
+   "title": "Theory of Si 2pcore-level shifts at the Si(001)- SiO2 interface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111849568",
+   "year": 2011,
+   "cited_by_count": 219,
+   "title": "Hydrogen Bonds and van der Waals Forces in Ice at Ambient and High Pressures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3132277775",
+   "year": 2020,
+   "cited_by_count": 218,
+   "title": "Pushing the Limit of Molecular Dynamics with Ab Initio Accuracy to 100 Million Atoms with Machine Learning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963373387",
+   "year": 2018,
+   "cited_by_count": 217,
+   "title": "End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054601240",
+   "year": 1991,
+   "cited_by_count": 213,
+   "title": "Structural, bonding, dynamical, and electronic properties of liquid silicon: Anab initiomolecular-dynamics study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030823655",
+   "year": 1997,
+   "cited_by_count": 211,
+   "title": "Structure and Hyperfine Parameters of E1′ Centers in α -Quartz and in Vitreous SiO2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171805228",
+   "year": 2008,
+   "cited_by_count": 207,
+   "title": "Bending Properties of Single Functionalized Graphene Sheets Probed by Atomic Force Microscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2985776732",
+   "year": 2020,
+   "cited_by_count": 207,
+   "title": "86 PFLOPS Deep Potential Molecular Dynamics simulation of 100 million atoms with ab initio accuracy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050265267",
+   "year": 1981,
+   "cited_by_count": 202,
+   "title": "Variational spherical model of small metallic particles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981972790",
+   "year": 1993,
+   "cited_by_count": 195,
+   "title": "Structures of small water clusters using gradient-corrected density functional theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W43109728",
+   "year": 2009,
+   "cited_by_count": 195,
+   "title": "Order- N implementation of exact exchange in extended insulating systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025103199",
+   "year": 1995,
+   "cited_by_count": 194,
+   "title": "Model of vitreous SiO 2 generated by an ab initio molecular-dynamics quench from the melt",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057817013",
+   "year": 1992,
+   "cited_by_count": 191,
+   "title": "Ab initiostudies on high pressure phases of ice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995492694",
+   "year": 1983,
+   "cited_by_count": 190,
+   "title": "Electronic properties of alkali trimers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3091427520",
+   "year": 2020,
+   "cited_by_count": 189,
+   "title": "Signatures of a liquid–liquid transition in an ab initio deep neural network model for water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982449519",
+   "year": 1995,
+   "cited_by_count": 187,
+   "title": "Si 2p Core-Level Shifts at the Si(001)-Si O2 Interface: A First-Principles Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006019045",
+   "year": 1987,
+   "cited_by_count": 180,
+   "title": "Localization, hopping, and diffusion of electrons in molten salts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123083227",
+   "year": 1994,
+   "cited_by_count": 179,
+   "title": "Acceleration schemes forab initiomolecular-dynamics simulations and electronic-structure calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2510900394",
+   "year": 2015,
+   "cited_by_count": 176,
+   "title": "Combined Effects of Functional Groups, Lattice Defects, and Edges in the Infrared Spectra of Graphene Oxide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037506949",
+   "year": 1987,
+   "cited_by_count": 175,
+   "title": "The structure of selenium clusters — Se3 TO Se8",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136598943",
+   "year": 1997,
+   "cited_by_count": 175,
+   "title": "Nitrogen Incorporation at Si ( 001 ) − SiO 2 Interfaces: Relation between N 1 s Core-Level Shifts and Microscopic Structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049791136",
+   "year": 1993,
+   "cited_by_count": 172,
+   "title": "Ab initiostudies on the structural and dynamical properties of ice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968499186",
+   "year": 1990,
+   "cited_by_count": 171,
+   "title": "Structural, electronic, and vibrational properties of Si(111)-2×1 fromab initiomolecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041539742",
+   "year": 2007,
+   "cited_by_count": 171,
+   "title": "Dipolar Correlations and the Dielectric Permittivity of Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089864574",
+   "year": 1993,
+   "cited_by_count": 171,
+   "title": "Adsorption of Al on Si(100): A surface polymerization reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164396248",
+   "year": 2004,
+   "cited_by_count": 169,
+   "title": "Oxygen Diffusion in Yttria‐Stabilized Zirconia: A New Simulation Model",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

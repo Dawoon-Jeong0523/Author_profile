@@ -1,0 +1,148 @@
+Bonnie L. Bassler:
+  picks:
+  - patent_id: '6720415'
+    reason: Earliest-filed (1999) quorum-sensing patent, covering the AI-2 autoinducer pathway and LuxS synthase used by bacteria for interspecies chemical signalling.
+  - patent_id: '6559176'
+    reason: Founding 2001 filing on AI-2 signalling compounds and their use to regulate bacterial growth and virulence, the most cited patent in the family.
+  - patent_id: '8535689'
+    reason: Claims the identification of the Vibrio cholerae autoinducer CAI-1, a second chemical signal discovered in her quorum-sensing work.
+  n_related: 27
+  note: 'Almost the whole list is quorum-sensing work (autoinducers, receptor antagonists and agonists, Qrr small RNAs). The two 1995-96 Johns Hopkins chitin-catabolism patents date from her PhD and are unrelated to quorum sensing, but they are not a different inventor.'
+Clifford P. Brangwynne:
+  picks:
+  - patent_id: '10538756'
+    reason: Disordered-protein seeds that nucleate molecular clustering, a direct use of intrinsically disordered region driven phase separation into condensates.
+  - patent_id: '10533167'
+    reason: Optogenetic tool (optoDroplet type) for rapid reversible light-induced protein clustering into condensates, the earliest filing of that title.
+  n_related: 4
+  note: 'Only four patents, all filed 2017 or later; they are condensate-engineering tools that build on the discovery, and no patent claims the discovery itself. The 2019 filings are continuations of the two picked patents.'
+Daniel G. Nocera:
+  picks:
+  - patent_id: '8361288'
+    reason: Cobalt-phosphate type water-oxidation catalyst and electrodes for water electrolysis, the main applied output of his proton-coupled electron transfer catalysis work.
+  - patent_id: '6863781'
+    reason: Photocatalysis with two-electron mixed-valence complexes, his multielectron photochemistry for solar fuel production from HX.
+  - patent_id: '10597681'
+    reason: Carbon fixation system (bionic leaf) that couples water-splitting catalysis to microbial CO2 reduction, a later application of the same energy-conversion programme.
+  n_related: 4
+  note: 'PCET is a theory, so no patent can claim it directly; only the catalysis and solar-fuel patents reflect its applications. The Michigan State combustion-control patent and the MIT nanocrystal, sensor and laser patents are other work, likely collaborations by the same person (his MSU and MIT years), with no clear sign of a namesake.'
+David R. Liu:
+  picks:
+  - patent_id: '9840699'
+    reason: Founding 2014 filing on nucleic acid editing with Cas9 fused to a deaminase domain, the basis of cytosine base editing.
+  - patent_id: '10167457'
+    reason: Claims the nucleobase editors themselves (BE3 and BE4 type cytosine base editors with uracil glycosylase inhibitor).
+  - patent_id: '10113163'
+    reason: Founding patent of adenine base editors (ABE) built from an evolved TadA adenosine deaminase fused to Cas9.
+  n_related: 8
+  note: 'Base editing is well represented (9068179, 9840699, 11053481, 10167457, 10113163, 10947530, and likely the CCR5 editing patent), but prime editing patents were granted after 2021 and are absent. The Scripps unnatural amino acid and orthogonal tRNA patents come from his PhD work with Schultz, so they are the same person, not a namesake.'
+Donald A. Tomalia:
+  picks:
+  - patent_id: '4507466'
+    reason: Founding 1983 Dow patent on dense star (starburst PAMAM) polymers with core, branches and terminal groups, the first dendrimer composition.
+  - patent_id: '4558120'
+    reason: Companion 1983 filing on the dense star polymer itself, part of the original starburst dendrimer patent set.
+  - patent_id: '4568737'
+    reason: 1984 patent that claims dense star polymers and introduces the dendrimer term, extending the founding work.
+  n_related: 40
+  note: 'Most patents are dendrimer compositions, conjugates and applications (Dow, Dendritech, Dendritic Nanotechnologies, Michigan). The two plastic beverage cup patents (Packaging Resources and Huhtamaki, 1999-2000) are clearly a different inventor with the same name. The 1970s Dow oxazoline and surfactant patents are his earlier Dow work.'
+Galen D. Stucky:
+  picks:
+  - patent_id: '6592764'
+    reason: Block copolymer templating of mesostructured inorganic oxides (SBA-15 type), the core Stucky contribution to ordered mesoporous materials.
+  - patent_id: '5364797'
+    reason: Earliest (1993) Mobil filing in the list on the M41S mesoporous crystalline material, here used in a sensor device.
+  - patent_id: '6541539'
+    reason: Hierarchically ordered porous oxides that combine mesoporous ordering with larger-scale templating, an early extension of the materials.
+  n_related: 14
+  note: 'The mesoporous work is clearly present (M41S, SBA-15, continuations 7176245 and 7763665, hierarchical and mesocellular foams); the top-cited 8202549 applies mesocellular foams to hemostasis. The GRT Inc. alkane-conversion patents (a company he co-founded) and the 1990 E. Khashoggi cement-barrier patent are other technologies but plausibly the same person.'
+Jason W. Chin:
+  picks:
+  - patent_id: '7045337'
+    reason: Founding 2002 patent on in vivo site-specific incorporation of unnatural amino acids with orthogonal tRNA and synthetase pairs.
+  - patent_id: '7083970'
+    reason: Founding 2002 method for producing the orthogonal tRNA and aminoacyl-tRNA synthetase pairs that expand the genetic code.
+  - patent_id: '7618775'
+    reason: Earliest filing (2004) of the Expanding the eukaryotic genetic code family, extending unnatural amino acid incorporation to yeast and other eukaryotes.
+  n_related: 32
+  note: 'Nearly all patents concern genetic code expansion (Scripps, then MRC on orthogonal ribosomes, eRF1 mutants and norbornene labelling). The two Yale miniature-protein patents date from his PhD with Schepartz and are not a namesake.'
+Jens K. Nørskov:
+  picks:
+  - patent_id: '7790776'
+    reason: Hydrogenation catalyst for carbon oxides from the Haldor Topsoe and DTU programme of computationally screened alloy catalysts.
+  - patent_id: '6663998'
+    reason: Fuel cell anode catalyst materials selected with surface-science theory, an early patent from his DFT-guided catalyst design.
+  - patent_id: '9312545'
+    reason: Platinum and palladium alloy fuel cell electrodes identified by DFT screening of oxygen-reduction activity.
+  n_related: 4
+  note: 'The theoretical methods themselves are not patented; only a few patents (catalysts designed with theory, plus the 2017 Li-mediated ammonia synthesis) reflect the discovery indirectly. The Amminex ammonia-storage patents are a separate line of work, not a namesake.'
+John R. Yates III:
+  picks:
+  - patent_id: '5538897'
+    reason: Founding 1994 patent on matching peptide tandem mass spectra to sequence databases (the SEQUEST approach) for protein identification.
+  - patent_id: '6017693'
+    reason: 1996 extension of mass-spectrometry database identification to nucleotides, amino acids and carbohydrates.
+  - patent_id: '6969757'
+    reason: Differential isotope labelling for quantitative mass-spectrometry analysis of complex protein mixtures.
+  n_related: 5
+  note: 'The core proteomics patents are present (SEQUEST, quantitative labelling, plus a PARC spectrum-quality patent). The two plasminogen receptor patents (assignee Lindsey Miles) are Scripps biology collaborations rather than proteomics methods; no sign of a namesake.'
+Karen L. Wooley:
+  picks:
+  - patent_id: '6383500'
+    reason: Founding 1997 patent on shell crosslinked particles (SCK nanoparticles) from amphiphilic copolymers for pharmaceutical delivery.
+  - patent_id: '8354093'
+    reason: SCK nanoparticle conjugates with peptide nucleic acids for targeted mRNA delivery in cancer diagnosis and therapy.
+  - patent_id: '9545447'
+    reason: Polymer-drug systems from her Texas A&M degradable polymer platform for drug delivery.
+  n_related: 6
+  note: 'The SCK delivery work is present, but many later patents are lithography, antifouling and degradable-materials work (Rohm and Haas, Conopco, Texas A&M). The 1995 unassigned dendritic macromolecules patent likely comes from her Frechet-era dendrimer work; no sign of a namesake.'
+Matthias Mann:
+  picks:
+  - patent_id: '5130538'
+    reason: Electrospray production of multiply charged ions and molecular-weight determination from them, the Fenn and Mann electrospray foundation for protein mass spectrometry.
+  - patent_id: '5608217'
+    reason: Nanoelectrospray method for mass spectrometric analysis, the Wilm and Mann low-flow ion source central to proteomics.
+  - patent_id: '5504329'
+    reason: Companion 1995 nanoelectrospray patent on ionizing molecules by electrospraying from fine capillaries.
+  n_related: 10
+  note: 'The list reflects the discovery well (electrospray and nanospray, quantitation standards, PASEF ion-mobility acquisition, sample-preparation vessel). The RGM antibody and Helicobacter vaccine patents are biology collaborations where he likely did the protein identification; no sign of a namesake.'
+Peter G. Schultz:
+  picks:
+  - patent_id: '7045337'
+    reason: Founding 2002 patent on in vivo site-specific incorporation of unnatural amino acids with orthogonal tRNA and synthetase pairs.
+  - patent_id: '7083970'
+    reason: Founding 2002 method for producing orthogonal tRNA and aminoacyl-tRNA synthetase pairs, the core tool of genetic code expansion.
+  - patent_id: '7618775'
+    reason: Earliest filing (2004) of the Expanding the eukaryotic genetic code family, extending the method to eukaryotic cells.
+  n_related: 85
+  note: 'Genetic code expansion dominates the list (about 85 patents incl. glycoprotein synthesis and many specific amino acids), alongside his combinatorial materials, catalytic antibody, kinase inhibitor and stem-cell work. The 1975 German patent on measuring defects in sealings (Firma Up Geratebau) is clearly a different inventor with the same name.'
+Stephen L. Buchwald:
+  picks:
+  - patent_id: '5576460'
+    reason: Founding 1994 patent on palladium-catalyzed preparation of arylamines from aryl halides, the original Buchwald amination.
+  - patent_id: '5847166'
+    reason: Founding 1996 patent on palladium-catalyzed synthesis of aryl ethers, extending the coupling to carbon-oxygen bonds.
+  - patent_id: '6395916'
+    reason: Earliest filing (1998) of the dialkylbiaryl phosphine ligand family that made palladium carbon-heteroatom couplings general.
+  n_related: 30
+  note: 'The list reflects the discovery strongly; about 8 of the related patents are copper-catalyzed carbon-heteroatom couplings rather than palladium. The Collegium Pharmaceutical opioid and milnacipran patents and the Whitehead drug-derivative patents are unrelated pharmaceutical work, plausibly consulting or collaborations rather than a namesake.'
+Stuart L. Schreiber:
+  picks:
+  - patent_id: '5834266'
+    reason: Earliest (1994) chemical inducer of dimerization patent, using a small molecule to bring proteins together, the induced-proximity idea behind degraders.
+  - patent_id: '5869337'
+    reason: Founding 1995 patent on small-molecule induced dimerization to regulate targeted genes and other biological events.
+  - patent_id: '6984635'
+    reason: Dimerizing agents and their production, the synthetic induced-proximity molecules of the same programme.
+  n_related: 18
+  note: 'No patent claims ubiquitin-ligase redirecting degraders; the discovery shows up only indirectly through the induced-proximity (CID) family, while the lactacystin, HDAC and protein degradation disorders patents concern proteasome or HDAC inhibition. The early Harvard amine oxidation and Yale periplanone patents are his own student and early-career work, not a namesake.'
+Vladimir P. Torchilin:
+  picks:
+  - patent_id: '5746998'
+    reason: Targeted polymeric carriers (amphiphilic chelating co-polymers with targeting ligands), the most cited of his targeted polymer delivery patents.
+  - patent_id: '5534241'
+    reason: Earliest (1993) amphipathic polychelating polymers that anchor in liposomes and micelles to carry payloads to targets.
+  - patent_id: '7279326'
+    reason: Composition for delivering a mitochondrial genome into cells, covering the gene-delivery side of his carrier work.
+  n_related: 11
+  note: 'The patents reflect targeted polymeric and lipid carriers only partly; his main PEG-liposome and micelle work is not here. The later assignee Northwestern University is probably a mis-coding of Northeastern University (his institution), and the 1978-85 Soviet Cardiology Center enzyme patents are his early work, so no clear namesake.'

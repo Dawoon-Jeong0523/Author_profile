@@ -1,0 +1,76 @@
+Anthony A. Hyman:
+  picks: []
+  n_related: 0
+  note: 'None of the five patents concern phase separation or biomolecular condensates; they cover RNAi-derived cell-division genes (Cenix Bioscience, which Hyman co-founded) and glycolic acid uses from Max Planck Dresden. The list looks consistent with Hyman, with no sign of a different inventor.'
+Craig M. Crews:
+  picks:
+  - patent_id: '7041298'
+    reason: Founding PROTAC patent (Caltech, filed 2001) claiming chimeric molecules that link a target-binding ligand to an E3 ubiquitin ligase recognition motif so the target is ubiquitinated and degraded.
+  - patent_id: '10730862'
+    reason: Yale 2013 filing for all-small-molecule PROTACs that recruit an E3 ubiquitin ligase (VHL ligands) to degrade target proteins, the drug-like form of the discovery.
+  - patent_id: '10730870'
+    reason: Arvinas 2016 platform patent on bifunctional compounds that recruit an E3 ubiquitin ligase for enhanced degradation of targeted proteins.
+  n_related: 16
+  note: 'Most of the list is targeted protein degradation (PROTACs plus a hydrophobic-tagging line that induces degradation without recruiting a specific ligase); 7208157 is a same-title continuation of 7041298. The Enzyme inhibition / Compounds for enzyme inhibition patents (epoxomicin-derived proteasome inhibitors, Proteolix/Onyx) are Crews''s own work on a different discovery, with no sign of a different inventor.'
+Hagan Bayley:
+  picks:
+  - patent_id: '6824659'
+    reason: Engineered (designed) alpha-hemolysin protein pores used as single-molecule biosensor elements, the base technology of nanopore analysis.
+  - patent_id: '6426231'
+    reason: Earliest (1999) patent on analyte sensing through a protein pore fitted with a non-covalent adapter (cyclodextrin), the stochastic single-molecule sensing method.
+  - patent_id: '8105846'
+    reason: Methods using adapter-equipped pores to identify individual nucleotides, the basis of exonuclease nanopore DNA sequencing (covers the sequencing option).
+  n_related: 10
+  note: 'Pore and stochastic-sensing patents make up most of the list, and 8785211 and 6927070 are later same-title filings. No Oxford Nanopore Technologies-assigned patents appear, so the later commercial nanopore-sequencing patents seem to be missing. The molluscan ligament (abductin) and cyclic oligosaccharide patents are off-topic but match Bayley''s own earlier and later work, so there is no clear sign of a different inventor.'
+Hao Yan:
+  picks:
+  - patent_id: '7612184'
+    reason: NYU 2003 patent from the Seeman lab period on a DNA nanomechanical device controlled by hybridization topology, an early programmable self-assembled DNA nanostructure.
+  - patent_id: '8685894'
+    reason: Self-assembled DNA tile nanoarrays with modifications, used as programmable addressable scaffolds (ASU, filed 2007).
+  - patent_id: '10189874'
+    reason: DNA gridiron, a new DNA origami architecture that builds 2D and 3D gridiron lattices from a scaffold strand and staples.
+  n_related: 11
+  note: 'Most ASU patents are DNA nanostructure / DNA origami work and its applications (aptamer nanostructures, origami for kidney injury, single-cell readout). The CdTe/CdS/ZnS nanocrystal (9202867) and quantum dot rods/wires/sheets (9732273) patents, both assigned to THE ARIZONA BOARD OF REGENTS without the ASU wording, are unrelated nanocrystal chemistry and may belong to a different Hao Yan.'
+Jay R. Winkler:
+  picks:
+  - patent_id: '7105310'
+    reason: Sensitizer-linked substrates (ruthenium-diimine wires) that bind heme enzymes such as P450, a spin-off of the Gray-Winkler photo-triggered electron-transfer methodology rather than a patent on long-range electron transfer itself.
+  n_related: 1
+  note: 'Only two patents and neither claims the discovery itself. 7105310 is an application tied to the electron-transfer probe chemistry, and the LED photoelectrochemical screener (8911603) comes from solar-fuels work, both consistent with Winkler at Caltech.'
+JoAnne Stubbe:
+  picks:
+  - patent_id: '8673591'
+    reason: Site-specific genetic incorporation of 3-aminotyrosine into ribonucleotide reductase to trap and probe the long-range tyrosyl radical transfer pathway.
+  n_related: 1
+  note: 'Only one patent (Scripps, with the Schultz unnatural amino acid method). It directly serves the RNR radical-mechanism work. No sign of a different inventor.'
+Robert S. Langer:
+  picks:
+  - patent_id: '4164560'
+    reason: Founding Langer-Folkman patent (filed 1977) on polymer systems for sustained controlled release of macromolecules, the origin of polymer-based controlled drug delivery.
+  - patent_id: '5543158'
+    reason: Biodegradable injectable PEG-coated polymeric nanoparticles (long-circulating stealth nanoparticles), the founding polymeric nanoparticle drug-delivery patent.
+  - patent_id: '6998115'
+    reason: Biodegradable poly(beta-amino esters), cationic polymers that condense DNA into nanoparticles, the earliest Langer patent on nanoparticle nucleic-acid delivery.
+  n_related: 160
+  note: 'Roughly 160 of about 560 patents are polymer controlled release, micro/nanoparticles and lipid/lipidoid nucleic-acid carriers, and the rest is tissue engineering, microchips, transdermal and other work. The many Invention Science Fund / Searete / Elwha patents are Intellectual Ventures filings that do list Langer. The Imec vzw semiconductor patents (III-V on Si, strained group IV channels, nano-ridge transistor) and the National Tsing Hua University detection devices look like a different Robert Langer.'
+Tuomo Suntola:
+  picks:
+  - patent_id: '4058430'
+    reason: The original atomic layer epitaxy patent (filed 1975) claiming compound thin-film growth by alternating self-limiting surface reactions of separate reactants.
+  - patent_id: '4413022'
+    reason: 1979 method patent for growing compound thin films by alternating reactant pulses separated by inert-gas purging, the flow-type ALD process used ever since.
+  - patent_id: '4389973'
+    reason: 1981 apparatus patent for the ALE/ALD reactor that carries out the sequential-pulse growth.
+  n_related: 12
+  note: 'The list is coherent. It has the core ALE/ALD method and equipment patents (Lohja, Mikrokemia, ASM) plus ALD-made catalysts, and the electroluminescent display patents apply ALE films. The Vaisala humidity sensor and Lohja color display are Suntola''s own non-ALD work, so there is no sign of a different inventor.'
+William M. Shih:
+  picks:
+  - patent_id: '7951596'
+    reason: Earliest Shih patent (filed 2007) on self-assembled DNA-origami nanotubes that form liquid crystals for NMR of membrane proteins.
+  - patent_id: '10604543'
+    reason: Methods for self-assembly of nucleic acid nanostructures, claiming the programmable DNA nanostructure assembly itself.
+  - patent_id: '10024796'
+    reason: DNA nanostructure barcode probes, geometrically encoded fluorescent barcodes self-assembled from DNA origami (filed 2011).
+  n_related: 8
+  note: 'All patents are DNA nanostructure work or its uses (lipid-coated origami, nucleic acid calipers, nanotube liquid crystals), and 9371552 is a later filing in the 7951596 family. The Harvard / Dana-Farber / Children''s assignees fit Shih, so there is no sign of a different inventor.'

@@ -1,0 +1,654 @@
+{
+ "person": "Daniel Branton",
+ "profile": "A5030369201",
+ "ids": [
+  "A5030369201"
+ ],
+ "options": [
+  "for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids — Hagan Bayley, David W. Deamer, Daniel Branton"
+ ],
+ "birth_year": 1932,
+ "cutoff_year": 1957,
+ "works": [
+  {
+   "paper_id": "W2127407003",
+   "year": 1996,
+   "cited_by_count": 3264,
+   "title": "Characterization of individual polynucleotide molecules using a membrane channel",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025583382",
+   "year": 2008,
+   "cited_by_count": 2483,
+   "title": "The potential and challenges of nanopore sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095898308",
+   "year": 2001,
+   "cited_by_count": 1646,
+   "title": "Ion-beam sculpting at nanometre length scales",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167381746",
+   "year": 2010,
+   "cited_by_count": 1399,
+   "title": "Graphene as a subnanometre trans-electrode membrane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346680365",
+   "year": 2016,
+   "cited_by_count": 1245,
+   "title": "Three decades of nanopore sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082075636",
+   "year": 1975,
+   "cited_by_count": 1140,
+   "title": "Freeze-Etching Nomenclature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125021618",
+   "year": 1999,
+   "cited_by_count": 937,
+   "title": "Microsecond Time-Scale Discrimination Among Polycytidylic Acid, Polyadenylic Acid, and Polyuridylic Acid as Homopolymers or as Segments Within Single RNA Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971212710",
+   "year": 2000,
+   "cited_by_count": 920,
+   "title": "Rapid nanopore discrimination between single polynucleotide molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027009369",
+   "year": 2001,
+   "cited_by_count": 872,
+   "title": "Voltage-Driven DNA Translocations through a Nanopore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996144512",
+   "year": 1966,
+   "cited_by_count": 744,
+   "title": "Fracture faces of frozen membranes.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019675508",
+   "year": 1981,
+   "cited_by_count": 605,
+   "title": "Interaction of cytoskeletal proteins on the human erythrocyte membrane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114378202",
+   "year": 1970,
+   "cited_by_count": 569,
+   "title": "MEMBRANE SPLITTING IN FREEZE-ETCHING",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1492741817",
+   "year": 1979,
+   "cited_by_count": 541,
+   "title": "The molecular structure of human erythrocyte spectrin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118579429",
+   "year": 2002,
+   "cited_by_count": 496,
+   "title": "Characterization of Nucleic Acids by Nanopore Analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070616723",
+   "year": 1981,
+   "cited_by_count": 420,
+   "title": "Assembly units of clathrin coats",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023519337",
+   "year": 1980,
+   "cited_by_count": 419,
+   "title": "Rotary shadowing of extended molecules dried from glycerol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114393696",
+   "year": 2004,
+   "cited_by_count": 410,
+   "title": "Atomic Layer Deposition to Fine-Tune the Surface Properties and Diameters of Fabricated Nanopores",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057576679",
+   "year": 1987,
+   "cited_by_count": 403,
+   "title": "Copper staining: A five-minute protein stain for sodium dodecyl sulfate-polyacrylamide gels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965782093",
+   "year": 1985,
+   "cited_by_count": 398,
+   "title": "Visualization of the protein associations in the erythrocyte membrane skeleton.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139446350",
+   "year": 2004,
+   "cited_by_count": 377,
+   "title": "Probing Single DNA Molecule Transport Using Fabricated Nanopores",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111400509",
+   "year": 2002,
+   "cited_by_count": 376,
+   "title": "Single molecule measurements of DNA transport through a nanopore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060061784",
+   "year": 1994,
+   "cited_by_count": 366,
+   "title": "Cloning and characterization of hdlg: the human homologue of the Drosophila discs large tumor suppressor binds to protein 4.1.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067966249",
+   "year": 1974,
+   "cited_by_count": 343,
+   "title": "INTRAMEMBRANE PARTICLE AGGREGATION IN ERYTHROCYTE GHOSTS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119805163",
+   "year": 1993,
+   "cited_by_count": 343,
+   "title": "Crystal Structure of the Repetitive Segments of Spectrin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041929512",
+   "year": 1986,
+   "cited_by_count": 307,
+   "title": "The Molecular Basis of Erythrocyte Shape",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027999032",
+   "year": 1976,
+   "cited_by_count": 306,
+   "title": "Intramembrane particle aggregation in erythrocyte ghosts. II. The influence of spectrin aggregation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073975746",
+   "year": 2003,
+   "cited_by_count": 303,
+   "title": "Unzipping Kinetics of Double-Stranded DNA in a Nanopore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010621566",
+   "year": 1979,
+   "cited_by_count": 284,
+   "title": "Purification of two spectrin-binding proteins: biochemical and electron microscopic evidence for site-specific reassociation between spectrin and bands 2.1 and 4.1.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005910022",
+   "year": 1983,
+   "cited_by_count": 283,
+   "title": "Clathrin-coated vesicles contain an ATP-dependent proton pump.",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1485258003",
+   "year": 1977,
+   "cited_by_count": 278,
+   "title": "Selective association of spectrin with the cytoplasmic surface of human erythrocyte plasma membranes. Quantitative determination with purified (32P)spectrin.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014361368",
+   "year": 2013,
+   "cited_by_count": 264,
+   "title": "Molecule-hugging graphene nanopores",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975792321",
+   "year": 1970,
+   "cited_by_count": 261,
+   "title": "Lamellar and hexagonal lipid phases visualized by freeze-etching",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4231319972",
+   "year": 1969,
+   "cited_by_count": 261,
+   "title": "Membrane Structure",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1547860251",
+   "year": 1980,
+   "cited_by_count": 234,
+   "title": "Associations of erythrocyte membrane proteins. Binding of purified bands 2.1 and 4.1 to spectrin.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995478079",
+   "year": 1971,
+   "cited_by_count": 234,
+   "title": "Freeze-etching studies of membrane structure",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986294784",
+   "year": 1971,
+   "cited_by_count": 222,
+   "title": "Localization of A Antigen Sites on Human Erythrocyte Ghosts",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091828932",
+   "year": 2000,
+   "cited_by_count": 206,
+   "title": "Characterization of PDZ-binding kinase, a mitotic kinase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1605206902",
+   "year": 1980,
+   "cited_by_count": 198,
+   "title": "Reassociation of ankyrin with band 3 in erythrocyte membranes and in lipid vesicles.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088034755",
+   "year": 1995,
+   "cited_by_count": 197,
+   "title": "Identification of the Protein 4.1 Binding Interface on Glycophorin C and p55, a Homologue of the Drosophila discs-large Tumor Suppressor Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1683309299",
+   "year": 2010,
+   "cited_by_count": 195,
+   "title": "Climate Change and the Integrity of Science",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998137801",
+   "year": 1967,
+   "cited_by_count": 190,
+   "title": "Subunits in chloroplast lamellae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089433759",
+   "year": 1977,
+   "cited_by_count": 189,
+   "title": "Plasma Membrane: Rapid Isolation and Exposure of the Cytoplasmic Surface by Use of Positively Charged Beads",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029289609",
+   "year": 1967,
+   "cited_by_count": 180,
+   "title": "Fracture Planes in an Ice-Bilayer Model Membrane System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158168989",
+   "year": 1992,
+   "cited_by_count": 178,
+   "title": "Conformation and elasticity of the isolated red blood cell membrane skeleton",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053469492",
+   "year": 1981,
+   "cited_by_count": 170,
+   "title": "The binding of clathrin triskelions to membranes from coated vesicles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1496975176",
+   "year": 1994,
+   "cited_by_count": 168,
+   "title": "In vitro binding studies suggest a membrane-associated complex between erythroid p55, protein 4.1, and glycophorin C.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059109756",
+   "year": 1976,
+   "cited_by_count": 168,
+   "title": "Reconstitution of intramembrane particles in recombinants of erythrocyte protein band 3 and lipid: effects of spectrin-actin association.",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062174340",
+   "year": 1970,
+   "cited_by_count": 158,
+   "title": "The Septate Junction: A Structural Basis for Intercellular Coupling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062059177",
+   "year": 1989,
+   "cited_by_count": 149,
+   "title": "Sequence similarity of the amino-terminal domain of Drosophila beta spectrin to alpha actinin and dystrophin.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1581960434",
+   "year": 1979,
+   "cited_by_count": 148,
+   "title": "Identification by peptide analysis of the spectrin-binding protein in human erythrocytes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976269413",
+   "year": 1993,
+   "cited_by_count": 145,
+   "title": "Cell shape and interaction defects in alpha-spectrin mutants of Drosophila melanogaster.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019114596",
+   "year": 1976,
+   "cited_by_count": 145,
+   "title": "Isolation of Vacuoles from Root Storage Tissue of Beta vulgaris L.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051525148",
+   "year": 1977,
+   "cited_by_count": 143,
+   "title": "Lateral mobility of human erythrocyte integral membrane proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965162652",
+   "year": 1967,
+   "cited_by_count": 141,
+   "title": "Fracture faces of frozen myelin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080916235",
+   "year": 1968,
+   "cited_by_count": 139,
+   "title": "Fracture faces in frozen outer segments from the guinea pig retina",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992295993",
+   "year": 1973,
+   "cited_by_count": 124,
+   "title": "Lipid- and temperature-dependent structural changes in Acholeplasma laidlawii cell membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062995166",
+   "year": 1964,
+   "cited_by_count": 124,
+   "title": "Fine structure in freeze-etched allium cepa L. root tips",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141761297",
+   "year": 1977,
+   "cited_by_count": 122,
+   "title": "Membrane isolation on polylysine-coated beads. Plasma membrane from HeLa cells.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970334428",
+   "year": 1977,
+   "cited_by_count": 121,
+   "title": "Rotary replication for freeze-etching.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152331062",
+   "year": 1996,
+   "cited_by_count": 119,
+   "title": "Two independent domains of hDlg are sufficient for subcellular targeting: the PDZ1-2 conformational unit and an alternatively spliced domain.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112494447",
+   "year": 1987,
+   "cited_by_count": 118,
+   "title": "Drosophila spectrin. II. Conserved features of the alpha-subunit are revealed by analysis of cDNA clones and fusion proteins.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106467103",
+   "year": 1987,
+   "cited_by_count": 116,
+   "title": "Drosophilia spectrin. I. Characterization of the purified protein.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1599507177",
+   "year": 1986,
+   "cited_by_count": 112,
+   "title": "Clathrin-coated vesicles contain two protein kinase activities. Phosphorylation of clathrin beta-light chain by casein kinase II.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068657939",
+   "year": 1983,
+   "cited_by_count": 111,
+   "title": "Fusion of coated vesicles with lysosomes: Measurement with a fluorescence assay",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048281901",
+   "year": 1989,
+   "cited_by_count": 110,
+   "title": "Drosophila spectrin: the membrane skeleton during embryogenesis.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015447969",
+   "year": 2007,
+   "cited_by_count": 109,
+   "title": "DNA conformation and base number simultaneously determined in a nanopore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088681574",
+   "year": 1985,
+   "cited_by_count": 107,
+   "title": "Partial purification and characterization of an actin-bundling protein, band 4.9, from human erythrocytes.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980926522",
+   "year": 1970,
+   "cited_by_count": 105,
+   "title": "Membrane Structure: Spin Labeling and Freeze Etching of Mycoplasma laidlawii",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065668492",
+   "year": 1981,
+   "cited_by_count": 99,
+   "title": "A membrane cytoskeleton from Dictyostelium discoideum. I. Identification and partial characterization of an actin-binding activity.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996271823",
+   "year": 1970,
+   "cited_by_count": 97,
+   "title": "Organization of mitochondrial structure as revealed by freeze-etching",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156756814",
+   "year": 1978,
+   "cited_by_count": 97,
+   "title": "Appearance and distribution of surface proteins of the human erythrocyte membrane. An electron microscope and immunochemical labeling study.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1873456082",
+   "year": 1969,
+   "cited_by_count": 95,
+   "title": "Changes in the Plasma Membrane of Escherichia coli During Magnesium Starvation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1928474359",
+   "year": 1997,
+   "cited_by_count": 95,
+   "title": "α-Spectrin is required for ovarian follicle monolayer integrity in Drosophila melanogaster",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123740027",
+   "year": 1989,
+   "cited_by_count": 95,
+   "title": "The complete sequence of Drosophila alpha-spectrin: conservation of structural domains between alpha-spectrins and alpha-actinin.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151021506",
+   "year": 2009,
+   "cited_by_count": 95,
+   "title": "Base dependent DNA–carbon nanotube interactions: activation enthalpies and assembly–disassembly control",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983247408",
+   "year": 1991,
+   "cited_by_count": 89,
+   "title": "Phasing the conformational unit of spectrin.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093480101",
+   "year": 1988,
+   "cited_by_count": 88,
+   "title": "Abolition of actin-bundling by phosphorylation of human erythrocyte protein 4.9",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161230079",
+   "year": 1980,
+   "cited_by_count": 85,
+   "title": "Structural comparison of several actin-binding macromolecules.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024717166",
+   "year": 1984,
+   "cited_by_count": 80,
+   "title": "Identification of coated vesicles in Saccharomyces cerevisiae.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033208581",
+   "year": 1996,
+   "cited_by_count": 78,
+   "title": "Spectrin: on the path from structure to function",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

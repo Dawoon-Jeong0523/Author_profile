@@ -1,0 +1,430 @@
+{
+ "person": "Patrick A. Lee",
+ "birth_year": 1946,
+ "cutoff_year": 1971,
+ "options": [
+  "for theoretical discoveries of quantum spin liquids and exactly solvable models of topological order — Alexei Y. Kitaev, Patrick A. Lee"
+ ],
+ "works": [
+  {
+   "paper_id": "W2067988494",
+   "year": 1985,
+   "cited_by_count": 5940,
+   "C_5_pctl": 1.0,
+   "title": "Disordered electronic systems"
+  },
+  {
+   "paper_id": "W1978621658",
+   "year": 1988,
+   "cited_by_count": 984,
+   "C_5_pctl": 0.98,
+   "title": "On-Site Coulomb Repulsion and Resonant Tunneling"
+  },
+  {
+   "paper_id": "W2008833186",
+   "year": 1993,
+   "cited_by_count": 908,
+   "C_5_pctl": 1.0,
+   "title": "Low-temperature transport through a quantum dot: The Anderson model out of equilibrium"
+  },
+  {
+   "paper_id": "W2009649577",
+   "year": 1991,
+   "cited_by_count": 674,
+   "C_5_pctl": 1.0,
+   "title": "Transport through a strongly interacting electron system: Theory of periodic conductance oscillations"
+  },
+  {
+   "paper_id": "W2031165376",
+   "year": 1993,
+   "cited_by_count": 572,
+   "C_5_pctl": 1.0,
+   "title": "Localized states in ad-wave superconductor"
+  },
+  {
+   "paper_id": "W2010469581",
+   "year": 1996,
+   "cited_by_count": 531,
+   "C_5_pctl": 1.0,
+   "title": "Theory of Underdoped Cuprates"
+  },
+  {
+   "paper_id": "W2030126423",
+   "year": 2006,
+   "cited_by_count": 499,
+   "C_5_pctl": 1.0,
+   "title": "Spin-Filtered Edge States and Quantum Hall Effect in Graphene"
+  },
+  {
+   "paper_id": "W1487179853",
+   "year": 2012,
+   "cited_by_count": 465,
+   "C_5_pctl": 1.0,
+   "title": "Zero-Bias Peaks in the Tunneling Conductance of Spin-Orbit-Coupled Superconducting Wires with and without Majorana End-States"
+  },
+  {
+   "paper_id": "W3106107777",
+   "year": 2020,
+   "cited_by_count": 390,
+   "C_5_pctl": 1.0,
+   "title": "The Physics of Pair-Density Waves: Cuprate Superconductors and Beyond"
+  },
+  {
+   "paper_id": "W2037922003",
+   "year": 2010,
+   "cited_by_count": 320,
+   "C_5_pctl": 1.0,
+   "title": "Multichannel Generalization of Kitaev’s Majorana End States and a Practical Route to Realize Them in Thin Films"
+  },
+  {
+   "paper_id": "W2876380218",
+   "year": 2019,
+   "cited_by_count": 310,
+   "C_5_pctl": 1.0,
+   "title": "Three-dimensional quantum Hall effect and metal–insulator transition in ZrTe5"
+  },
+  {
+   "paper_id": "W2494393056",
+   "year": 2017,
+   "cited_by_count": 309,
+   "C_5_pctl": 1.0,
+   "title": "Photocurrents in Weyl semimetals"
+  },
+  {
+   "paper_id": "W2087215359",
+   "year": 1989,
+   "cited_by_count": 303,
+   "C_5_pctl": 1.0,
+   "title": "Gauge field, Aharonov-Bohm flux, and high- T c superconductivity"
+  },
+  {
+   "paper_id": "W4233025301",
+   "year": 1985,
+   "cited_by_count": 294,
+   "C_5_pctl": 0.98,
+   "title": "Localized superconductors"
+  },
+  {
+   "paper_id": "W2044999400",
+   "year": 2000,
+   "cited_by_count": 289,
+   "C_5_pctl": 1.0,
+   "title": "Impurity-induced quasiparticle transport and universal-limit Wiedemann-Franz violation ind-wave superconductors"
+  },
+  {
+   "paper_id": "W2041098189",
+   "year": 1997,
+   "cited_by_count": 287,
+   "C_5_pctl": 1.0,
+   "title": "Unusual Superconducting State of Underdoped Cuprates"
+  },
+  {
+   "paper_id": "W2105507800",
+   "year": 2007,
+   "cited_by_count": 276,
+   "C_5_pctl": 1.0,
+   "title": "Dissipative Quantum Hall Effect in Graphene near the Dirac Point"
+  },
+  {
+   "paper_id": "W1884856051",
+   "year": 2012,
+   "cited_by_count": 218,
+   "C_5_pctl": 0.99,
+   "title": "Superconducting and Ferromagnetic Phases in SrTiO3/LaAlO3 Oxide Interface Structures: Possibility of Finite Momentum Pairing"
+  },
+  {
+   "paper_id": "W1982461158",
+   "year": 2008,
+   "cited_by_count": 203,
+   "C_5_pctl": 0.99,
+   "title": "Spin-triplet p -wave pairing in a three-orbital model for iron pnictide superconductors"
+  },
+  {
+   "paper_id": "W2083234906",
+   "year": 1994,
+   "cited_by_count": 200,
+   "C_5_pctl": 0.97,
+   "title": "Gauge-invariant response functions of fermions coupled to a gauge field"
+  },
+  {
+   "paper_id": "W2081573406",
+   "year": 2011,
+   "cited_by_count": 197,
+   "C_5_pctl": 1.0,
+   "title": "Engineering a p + ip superconductor: Comparison of topological insulator and Rashba spin-orbit-coupled materials"
+  },
+  {
+   "paper_id": "W2040817866",
+   "year": 1999,
+   "cited_by_count": 164,
+   "C_5_pctl": 0.99,
+   "title": "Theory of Spin Excitations in Undoped and Underdoped Cuprates"
+  },
+  {
+   "paper_id": "W2098548120",
+   "year": 2004,
+   "cited_by_count": 162,
+   "C_5_pctl": 1.0,
+   "title": "Doped t−J model on a triangular lattice: Possible application to NaxCoO2⋅yH2O and Na1−xTiO2"
+  },
+  {
+   "paper_id": "W1971640360",
+   "year": 1972,
+   "cited_by_count": 160,
+   "C_5_pctl": 0.95,
+   "title": "Effective Dimensionality Change of Fluctuations in Superconductors in a Magnetic Field"
+  },
+  {
+   "paper_id": "W2063918586",
+   "year": 1997,
+   "cited_by_count": 155,
+   "C_5_pctl": 1.0,
+   "title": "Scaling of the Quasiparticle Spectrum for d -wave Superconductors"
+  },
+  {
+   "paper_id": "W2018723681",
+   "year": 2003,
+   "cited_by_count": 153,
+   "C_5_pctl": 0.99,
+   "title": "S=12 chains and spin-Peierls transition in TiOCl"
+  },
+  {
+   "paper_id": "W2057903566",
+   "year": 1978,
+   "cited_by_count": 149,
+   "C_5_pctl": 0.97,
+   "title": "Pinning and conductivity of two-dimensional charge-density waves in magnetic fields"
+  },
+  {
+   "paper_id": "W2984638831",
+   "year": 2020,
+   "cited_by_count": 145,
+   "C_5_pctl": 1.0,
+   "title": "Signature of a pair of Majorana zero modes in superconducting gold surface states"
+  },
+  {
+   "paper_id": "W2082147703",
+   "year": 2011,
+   "cited_by_count": 140,
+   "C_5_pctl": 1.0,
+   "title": "Majorana end states in multiband microstructures with Rashba spin-orbit coupling"
+  },
+  {
+   "paper_id": "W2064760234",
+   "year": 1988,
+   "cited_by_count": 136,
+   "C_5_pctl": 0.97,
+   "title": "Disordered Electronic Systems"
+  },
+  {
+   "paper_id": "W2041907831",
+   "year": 1996,
+   "cited_by_count": 127,
+   "C_5_pctl": 0.99,
+   "title": "Design of a Random Quantum Spin Chain Paramagnet: Sr 3 CuPt 0.5 Ir 0.5 O 6"
+  },
+  {
+   "paper_id": "W2345528503",
+   "year": 2016,
+   "cited_by_count": 127,
+   "C_5_pctl": 0.99,
+   "title": "Superconductivity at very low density: The case of strontium titanate"
+  },
+  {
+   "paper_id": "W2028791602",
+   "year": 1979,
+   "cited_by_count": 121,
+   "C_5_pctl": 1.0,
+   "title": "Real-Space Scaling Studies of Localization"
+  },
+  {
+   "paper_id": "W2023262730",
+   "year": 2000,
+   "cited_by_count": 117,
+   "C_5_pctl": 0.99,
+   "title": "Staggered-Vorticity Correlations in a Lightly Doped t−J Model: A Variational Approach"
+  },
+  {
+   "paper_id": "W2400432131",
+   "year": 2016,
+   "cited_by_count": 109,
+   "C_5_pctl": 0.99,
+   "title": "Type-II Weyl cone transitions in driven semimetals"
+  },
+  {
+   "paper_id": "W2734812193",
+   "year": 2017,
+   "cited_by_count": 107,
+   "C_5_pctl": 0.99,
+   "title": "Superconductivity in three-dimensional spin-orbit coupled semimetals"
+  },
+  {
+   "paper_id": "W2022367007",
+   "year": 1992,
+   "cited_by_count": 107,
+   "C_5_pctl": 0.99,
+   "title": "Many-body coherence effects in conduction through a quantum dot in the fractional quantum Hall regime"
+  },
+  {
+   "paper_id": "W1987899800",
+   "year": 2010,
+   "cited_by_count": 99,
+   "C_5_pctl": 0.98,
+   "title": "Weak Mott insulators on the triangular lattice: Possibility of a gapless nematic quantum spin liquid"
+  },
+  {
+   "paper_id": "W2081725050",
+   "year": 2008,
+   "cited_by_count": 95,
+   "C_5_pctl": 0.98,
+   "title": "Na 4 Ir 3 O 8 as a 3D Spin Liquid with Fermionic Spinons"
+  },
+  {
+   "paper_id": "W2065452758",
+   "year": 1978,
+   "cited_by_count": 92,
+   "C_5_pctl": 0.96,
+   "title": "Tunneling of solitons and charge-density waves through impurities"
+  },
+  {
+   "paper_id": "W2170604222",
+   "year": 2015,
+   "cited_by_count": 89,
+   "C_5_pctl": 0.99,
+   "title": "Linear magnetoresistance in metals: Guiding center diffusion in a smooth random potential"
+  },
+  {
+   "paper_id": "W1505546568",
+   "year": 2012,
+   "cited_by_count": 89,
+   "C_5_pctl": 0.98,
+   "title": "Topological superconductivity and Majorana fermions in metallic surface states"
+  },
+  {
+   "paper_id": "W1980201030",
+   "year": 2001,
+   "cited_by_count": 89,
+   "C_5_pctl": 0.97,
+   "title": "Renormalized mean-field theory of neutron scattering in cuprate superconductors"
+  },
+  {
+   "paper_id": "W2048556304",
+   "year": 2005,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.99,
+   "title": "Electron Correlation and Fermi Surface Topology of NaxCoO2"
+  },
+  {
+   "paper_id": "W1810444101",
+   "year": 2007,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.97,
+   "title": "Randomness-Induced XY Ordering in a Graphene Quantum Hall Ferromagnet"
+  },
+  {
+   "paper_id": "W1973971037",
+   "year": 2013,
+   "cited_by_count": 85,
+   "C_5_pctl": 0.99,
+   "title": "Majorana flat bands and unidirectional Majorana edge states in gapless topological superconductors"
+  },
+  {
+   "paper_id": "W1610443639",
+   "year": 2011,
+   "cited_by_count": 80,
+   "C_5_pctl": 0.99,
+   "title": "Robustness of Majorana fermion induced fractional Josephson effect in multichannel superconducting wires"
+  },
+  {
+   "paper_id": "W1988564177",
+   "year": 1993,
+   "cited_by_count": 80,
+   "C_5_pctl": 0.98,
+   "title": "Transport properties between quantum Hall plateaus"
+  },
+  {
+   "paper_id": "W2040667857",
+   "year": 2007,
+   "cited_by_count": 79,
+   "C_5_pctl": 0.95,
+   "title": "Charge and spin transport at the quantum Hall edge of graphene"
+  },
+  {
+   "paper_id": "W2005039047",
+   "year": 1995,
+   "cited_by_count": 79,
+   "C_5_pctl": 0.92,
+   "title": "Quantum Boltzmann equation of composite fermions interacting with a gauge field"
+  },
+  {
+   "paper_id": "W2025330284",
+   "year": 1999,
+   "cited_by_count": 78,
+   "C_5_pctl": 0.98,
+   "title": "Pseudogaps in underdoped cuprates"
+  },
+  {
+   "paper_id": "W1994396529",
+   "year": 2001,
+   "cited_by_count": 68,
+   "C_5_pctl": 0.98,
+   "title": "Vortex structure in underdoped cuprates"
+  },
+  {
+   "paper_id": "W2756511104",
+   "year": 2018,
+   "cited_by_count": 67,
+   "C_5_pctl": 0.98,
+   "title": "Quasi-one-dimensional quantum anomalous Hall systems as new platforms for scalable topological quantum computation"
+  },
+  {
+   "paper_id": "W2007146696",
+   "year": 1983,
+   "cited_by_count": 62,
+   "C_5_pctl": 0.99,
+   "title": "Scaling Theory of Interacting Disordered Fermions"
+  },
+  {
+   "paper_id": "W2048579837",
+   "year": 2007,
+   "cited_by_count": 61,
+   "C_5_pctl": 0.81,
+   "title": "Transport properties of a spinon Fermi surface coupled to a U(1) gauge field"
+  },
+  {
+   "paper_id": "W1545858892",
+   "year": 2007,
+   "cited_by_count": 60,
+   "C_5_pctl": 0.89,
+   "title": "Power-Law Conductivity inside the Mott Gap: Application to κ−(BEDT−TTF)2Cu2(CN)3"
+  },
+  {
+   "paper_id": "W2035454727",
+   "year": 2004,
+   "cited_by_count": 58,
+   "C_5_pctl": 0.95,
+   "title": "Field-Induced Antiferromagnetism in the Kondo Insulator"
+  },
+  {
+   "paper_id": "W1989005352",
+   "year": 1997,
+   "cited_by_count": 58,
+   "C_5_pctl": 0.89,
+   "title": "Massless Dirac Fermions, Gauge Fields, and Underdoped Cuprates"
+  },
+  {
+   "paper_id": "W2088052552",
+   "year": 1986,
+   "cited_by_count": 56,
+   "C_5_pctl": 0.97,
+   "title": "Universal conductance fluctuations in disordered metals"
+  },
+  {
+   "paper_id": "W2072488280",
+   "year": 1972,
+   "cited_by_count": 54,
+   "C_5_pctl": 0.96,
+   "title": "Pair Propagator Approach to Fluctuation-Induced Diamagnetism in Superconductors-Effects of Impurities"
+  }
+ ]
+}

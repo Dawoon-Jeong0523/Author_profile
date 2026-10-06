@@ -1,0 +1,455 @@
+{
+ "person": "Tuomo Suntola",
+ "profile": "A5001030475",
+ "ids": [
+  "A5001030475"
+ ],
+ "options": [
+  "for the development of atomic layer deposition — Tuomo Suntola",
+  "for the development of atomic layer deposition — Tuomo Suntola, Markku Leskelä, Mikko Ritala"
+ ],
+ "birth_year": 1943,
+ "cutoff_year": 1968,
+ "works": [
+  {
+   "paper_id": "W2030668500",
+   "year": 1989,
+   "cited_by_count": 1377,
+   "title": "Atomic Layer Epitaxy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013697109",
+   "year": 1994,
+   "cited_by_count": 183,
+   "title": "Atomic layer epitaxy growth of doped zinc oxide thin films from organometals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048379006",
+   "year": 1980,
+   "cited_by_count": 138,
+   "title": "A study of ZnTe films grown on glass substrates using an atomic layer evaporation method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981371883",
+   "year": 1996,
+   "cited_by_count": 113,
+   "title": "Surface chemistry of materials deposition at atomic layer level",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963585580",
+   "year": 1992,
+   "cited_by_count": 104,
+   "title": "Atomic layer growth of TiO2 on silica",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034620502",
+   "year": 1994,
+   "cited_by_count": 101,
+   "title": "Preparation of Ni/Al2O3 catalysts from vapor phase by atomic layer epitaxy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087702453",
+   "year": 1981,
+   "cited_by_count": 99,
+   "title": "Characterization of surface exchange reactions used to grow compound films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987391825",
+   "year": 1996,
+   "cited_by_count": 78,
+   "title": "Initial Activity of Reduced Chromia/Alumina Catalyst inn-Butane Dehydrogenation Monitored by On-Line FT–IR Gas Analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040307233",
+   "year": 1994,
+   "cited_by_count": 72,
+   "title": "Chemisorption of chromium acetylacetonate on porous high surface area silica",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994978717",
+   "year": 1996,
+   "cited_by_count": 65,
+   "title": "Surface reactions in Al2O3 growth from trimethylaluminium and water by atomic layer epitaxy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021407627",
+   "year": 1993,
+   "cited_by_count": 64,
+   "title": "Analytical and chemical techniques in the study of surface species in atomic layer epitaxy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W195332198",
+   "year": 1997,
+   "cited_by_count": 63,
+   "title": "Advanced Materials Processing by Adsorption Control",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029202770",
+   "year": 1997,
+   "cited_by_count": 43,
+   "title": "Processing of catalysts by atomic layer epitaxy: modification of supports",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036203320",
+   "year": 1994,
+   "cited_by_count": 39,
+   "title": "Surface coverage of ALE precursors on oxides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984569970",
+   "year": 1972,
+   "cited_by_count": 37,
+   "title": "High field effects in chalcogenide thin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039203793",
+   "year": 1997,
+   "cited_by_count": 25,
+   "title": "Growth mechanisms of mixed oxides on alumina",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2549100130",
+   "year": 2012,
+   "cited_by_count": 22,
+   "title": "The Big Puzzle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2275510463",
+   "year": 1993,
+   "cited_by_count": 21,
+   "title": "CdTe Thin-Film Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048216538",
+   "year": 1971,
+   "cited_by_count": 20,
+   "title": "On the mechanism of switching effects in chalcogenide thin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985051861",
+   "year": 1969,
+   "cited_by_count": 18,
+   "title": "Direct-Current Measurement of the Hall Effect in Trigonal Selenium Single Crystal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1553763165",
+   "year": 2021,
+   "cited_by_count": 17,
+   "title": "Energy End-Use Technologies for the 21st Century",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012975410",
+   "year": 1992,
+   "cited_by_count": 16,
+   "title": "ALE-CdS/CdTe-PV-CELLS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045048953",
+   "year": 1993,
+   "cited_by_count": 13,
+   "title": "Cost-effective processing by atomic layer epitaxy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003548025",
+   "year": 1972,
+   "cited_by_count": 6,
+   "title": "Frequency-dependent conductivity and capacitance in chalcogenide thin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2181326063",
+   "year": 2002,
+   "cited_by_count": 6,
+   "title": "Dynamic space converts relativity into absolute time and dis- tance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1513339867",
+   "year": 2014,
+   "cited_by_count": 5,
+   "title": "The Dynamic Universe – Space as a Spherically Closed Energy System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968115130",
+   "year": 1976,
+   "cited_by_count": 5,
+   "title": "Amorphous thin film active elements in switching devices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022539092",
+   "year": 2005,
+   "cited_by_count": 5,
+   "title": "Photon: the minimum dose of electromagnetic radiation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3014625779",
+   "year": 2020,
+   "cited_by_count": 5,
+   "title": "Unification of theories requires a postulate basis in common",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4206298076",
+   "year": 2021,
+   "cited_by_count": 4,
+   "title": "In a holistic perspective, time is absolute and relativity a direct consequence of the conservation of total energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011989216",
+   "year": 1972,
+   "cited_by_count": 3,
+   "title": "Differential capacitance of chalcogenide thin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026941137",
+   "year": 2005,
+   "cited_by_count": 3,
+   "title": "Observations support spherically closed dynamic space without dark energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018289392",
+   "year": 1986,
+   "cited_by_count": 2,
+   "title": "Comment on “Molecular Layer Epitaxy” [J. Electrochem. Soc., 132, 1197]",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136806123",
+   "year": 2006,
+   "cited_by_count": 2,
+   "title": "Back to the Basis — Observations Support Spherically Closed Dynamic Space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1891359169",
+   "year": 2014,
+   "cited_by_count": 1,
+   "title": "Fundamental Concepts − from Force to Energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2186149867",
+   "year": 2007,
+   "cited_by_count": 1,
+   "title": "Introduction to Zero-energy Space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2341211555",
+   "year": 2006,
+   "cited_by_count": 1,
+   "title": "Relativity defines the locally available share of total energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2408624255",
+   "year": 2007,
+   "cited_by_count": 1,
+   "title": "Zero-energy space cancels the need for dark energy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2591179211",
+   "year": 2016,
+   "cited_by_count": 1,
+   "title": "SCIENTIFIC MODELS AND A COMPREHENSIVE PICTURE OF REALITY",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2988444324",
+   "year": 2004,
+   "cited_by_count": 1,
+   "title": "Mass balance of natural and anthropogenic carbon dioxide flows",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W170845450",
+   "year": 1971,
+   "cited_by_count": 0,
+   "title": "REACTOR IRRADIATION OF CHALCOGENIDE THRESHOLD SWITCHES.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058187058",
+   "year": 1973,
+   "cited_by_count": 0,
+   "title": "The effect of reactor irradiation on the dielectric loss peaks of Nylon and Mylar",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118862233",
+   "year": 2003,
+   "cited_by_count": 0,
+   "title": "Thin film EL-displays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151834516",
+   "year": 2001,
+   "cited_by_count": 0,
+   "title": "Celestial Mechanics in Spherical Space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152468103",
+   "year": 2002,
+   "cited_by_count": 0,
+   "title": "Progress in inexpensive a-Si:H/a-Si:H tandem module technology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2172210277",
+   "year": 1974,
+   "cited_by_count": 0,
+   "title": "A study of dielectric properties of untreated, heat-treated, and irradiated amorphous germanium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2181909195",
+   "year": 2009,
+   "cited_by_count": 0,
+   "title": "Global relativity establishes absolute time and a universal frame of reference",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2182634501",
+   "year": 2008,
+   "cited_by_count": 0,
+   "title": "Introduction to the Dynamic Universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2184115569",
+   "year": 2008,
+   "cited_by_count": 0,
+   "title": "Zero-energy balance restores absolute time and space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2186501998",
+   "year": 2001,
+   "cited_by_count": 0,
+   "title": "New cosmology model shows relativity in universal time and distant observations in Euclidean geometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2188008350",
+   "year": 2008,
+   "cited_by_count": 0,
+   "title": "From local to global relativity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2587712348",
+   "year": 2014,
+   "cited_by_count": 0,
+   "title": "SCIENTIFIC MODELS AND A COMPREHENSIVE PICTURE OF REALITY. La Nuova Critica. Volume 63-64. Publication year is officially set on 2014, but the issue was released on 2016. The general editor of the journal is Arturo Carsetti.",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2950263797",
+   "year": 1996,
+   "cited_by_count": 0,
+   "title": "ChemInform Abstract: The Utilization of Saturated Gas‐Solid Reactions in the Preparation of Heterogeneous Catalysts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3197875636",
+   "year": 2021,
+   "cited_by_count": 0,
+   "title": "An observer-oriented theory with distorted time, or a system-oriented theory with universal time.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4405188398",
+   "year": 2019,
+   "cited_by_count": 0,
+   "title": "Unification of theories requires a postulate basis in common",
+   "metrics": false,
+   "in_profile": true
+  }
+ ]
+}

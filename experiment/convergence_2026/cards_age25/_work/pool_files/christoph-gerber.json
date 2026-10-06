@@ -1,0 +1,655 @@
+{
+ "person": "Christoph Gerber",
+ "profile": "A5004070941",
+ "ids": [
+  "A5111547447",
+  "A5004070941"
+ ],
+ "options": [
+  "for the invention of atomic force microscopy — Christoph Gerber, Gerd Binnig"
+ ],
+ "birth_year": 1942,
+ "cutoff_year": 1967,
+ "works": [
+  {
+   "paper_id": "W3150248096",
+   "year": 1986,
+   "cited_by_count": 14769,
+   "title": "Atomic Force Microscope",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2110167104",
+   "year": 1982,
+   "cited_by_count": 4762,
+   "title": "Surface Studies by Scanning Tunneling Microscopy",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2067326868",
+   "year": 1983,
+   "cited_by_count": 1926,
+   "title": "7 × 7 Reconstruction on Si(111) Resolved in Real Space",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1983684958",
+   "year": 1982,
+   "cited_by_count": 1833,
+   "title": "Tunneling through a controllable vacuum gap",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2030552522",
+   "year": 2000,
+   "cited_by_count": 1651,
+   "title": "Translating Biomolecular Recognition into Nanomechanics",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2091201490",
+   "year": 2000,
+   "cited_by_count": 1126,
+   "title": "Reproducible switching effect in thin oxide films for memory applications",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2604286980",
+   "year": 2017,
+   "cited_by_count": 891,
+   "title": "Imaging modes of atomic force microscopy for application in molecular and cell biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2899513440",
+   "year": 2018,
+   "cited_by_count": 767,
+   "title": "Atomic force microscopy-based mechanobiology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117228527",
+   "year": 2002,
+   "cited_by_count": 598,
+   "title": "Multiple label-free biodetection and quantitative DNA-binding assays on a nanomechanical cantilever array",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003988271",
+   "year": 1987,
+   "cited_by_count": 558,
+   "title": "Atomic Resolution with Atomic Force Microscope",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2091723149",
+   "year": 1997,
+   "cited_by_count": 533,
+   "title": "Surface Stress in the Self-Assembly of Alkanethiols on Gold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051844407",
+   "year": 2001,
+   "cited_by_count": 532,
+   "title": "Current-driven insulator–conductor transition and nonvolatile memory in chromium-doped SrTiO3 single crystals",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2054996105",
+   "year": 1994,
+   "cited_by_count": 472,
+   "title": "Observation of a chemical reaction using a micromechanical sensor",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1968416806",
+   "year": 2001,
+   "cited_by_count": 453,
+   "title": "A chemical sensor based on a microfabricated cantilever array with simultaneous resonance-frequency and bending readout",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1970097944",
+   "year": 1991,
+   "cited_by_count": 414,
+   "title": "Screw dislocations in high-Tc films",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2099582861",
+   "year": 2002,
+   "cited_by_count": 409,
+   "title": "Label-free protein assay based on a nanomechanical cantilever array",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W4233837859",
+   "year": 1983,
+   "cited_by_count": 353,
+   "title": "(111) facets as the origin of reconstructed Au(110) surfaces",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2148648899",
+   "year": 2000,
+   "cited_by_count": 349,
+   "title": "A cantilever array-based artificial nose",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1977356477",
+   "year": 1994,
+   "cited_by_count": 327,
+   "title": "Photothermal spectroscopy with femtojoule sensitivity using a micromechanical device",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2055959755",
+   "year": 2006,
+   "cited_by_count": 321,
+   "title": "How the doors to the nanoworld were opened",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3142639090",
+   "year": 2021,
+   "cited_by_count": 316,
+   "title": "Scanning probe microscopy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086422007",
+   "year": 1986,
+   "cited_by_count": 309,
+   "title": "Energy-Dependent State-Density Corrugation of a Graphite Surface as Seen by Scanning Tunneling Microscopy",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2120342500",
+   "year": 1996,
+   "cited_by_count": 309,
+   "title": "Golden interfaces: The Surface of Self‐Assembled Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109362544",
+   "year": 2006,
+   "cited_by_count": 303,
+   "title": "Rapid and label-free nanomechanical detection of biomarker transcripts in human RNA",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2052513028",
+   "year": 1999,
+   "cited_by_count": 288,
+   "title": "An artificial nose based on a micromechanical cantilever array",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2029556014",
+   "year": 1984,
+   "cited_by_count": 283,
+   "title": "Real-space observation of the reconstruction of Au(100)",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2026001058",
+   "year": 1986,
+   "cited_by_count": 280,
+   "title": "Scanning tunneling microscope combined with a scanning electron microscope",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2126924184",
+   "year": 2005,
+   "cited_by_count": 277,
+   "title": "A label-free immunosensor array using single-chain antibody fragments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010667775",
+   "year": 1994,
+   "cited_by_count": 270,
+   "title": "A femtojoule calorimeter using micromechanical sensors",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2087092966",
+   "year": 1994,
+   "cited_by_count": 263,
+   "title": "Thermal Stability of Self-Assembled Monolayers",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1977816804",
+   "year": 1994,
+   "cited_by_count": 253,
+   "title": "Real-Space Observation of Nanoscale Molecular Domains in Self-Assembled Monolayers",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1964026251",
+   "year": 1989,
+   "cited_by_count": 237,
+   "title": "Smectic Liquid Crystal Monolayers on Graphite Observed by Scanning Tunneling Microscopy",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2072563371",
+   "year": 2004,
+   "cited_by_count": 231,
+   "title": "Rapid functionalization of cantilever array sensors by inkjet printing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140127367",
+   "year": 1998,
+   "cited_by_count": 228,
+   "title": "A chemical sensor based on a micromechanical cantilever array for the identification of gases and vapors",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2118679632",
+   "year": 2009,
+   "cited_by_count": 224,
+   "title": "Quantitative time-resolved measurement of membrane protein–ligand interactions using microcantilever array sensors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076042467",
+   "year": 2005,
+   "cited_by_count": 223,
+   "title": "Cantilever array sensors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2613888280",
+   "year": 2017,
+   "cited_by_count": 211,
+   "title": "Atomic force microscopy-based characterization and design of biointerfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044556925",
+   "year": 1985,
+   "cited_by_count": 208,
+   "title": "Determination of surface topography of biological specimens at high resolution by scanning tunnelling microscopy",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1972869328",
+   "year": 2008,
+   "cited_by_count": 184,
+   "title": "Bimaterial Microcantilevers as a Hybrid Sensing Platform",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987808018",
+   "year": 1996,
+   "cited_by_count": 177,
+   "title": "Generation of Magnetic Flux by Single Grain Boundaries of YBa2Cu3O7−x",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1991658825",
+   "year": 2004,
+   "cited_by_count": 167,
+   "title": "Temperature dependence of the force sensitivity of silicon cantilevers",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2135232292",
+   "year": 2005,
+   "cited_by_count": 167,
+   "title": "Micromechanical mass sensors for biomolecular detection in a physiological environment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093271245",
+   "year": 1997,
+   "cited_by_count": 165,
+   "title": "Micromechanics: A toolbox for femtoscale science: “Towards a laboratory on a tip”",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2033246491",
+   "year": 1996,
+   "cited_by_count": 164,
+   "title": "Immobilization of Antibodies on a Photoactive Self-Assembled Monolayer on Gold",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2046281071",
+   "year": 1994,
+   "cited_by_count": 162,
+   "title": "Dielectric properties of sputtered SrTiO3 films",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2072544488",
+   "year": 1996,
+   "cited_by_count": 161,
+   "title": "Thermal analysis using a micromechanical calorimeter",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2080524394",
+   "year": 1987,
+   "cited_by_count": 161,
+   "title": "Images of a lipid bilayer at molecular resolution by scanning tunneling microscopy.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035460874",
+   "year": 1998,
+   "cited_by_count": 155,
+   "title": "Sequential position readout from arrays of micromechanical cantilever sensors",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1992322870",
+   "year": 1992,
+   "cited_by_count": 154,
+   "title": "Screw dislocation mediated growth of sputtered and laser-ablated YBa2Cu3O7-? films",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2047397440",
+   "year": 2000,
+   "cited_by_count": 154,
+   "title": "Low Temperature Scanning Force Microscopy of the Si(111)−(7×7) Surface",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2056628858",
+   "year": 2010,
+   "cited_by_count": 149,
+   "title": "The layer 0 inner silicon detector of the D0 experiment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057800132",
+   "year": 2013,
+   "cited_by_count": 145,
+   "title": "Direct detection of a BRAF mutation in total RNA from melanoma cells using cantilever arrays",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2313083097",
+   "year": 1995,
+   "cited_by_count": 139,
+   "title": "End-Group-Dominated Molecular Order in Self-Assembled Monolayers",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1222897373",
+   "year": 1994,
+   "cited_by_count": 135,
+   "title": "Ductal adenocarcinoma arising in a heterotopic pancreas situated in a hiatal hernia.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158785989",
+   "year": 2007,
+   "cited_by_count": 135,
+   "title": "Higher modes of vibration increase mass sensitivity in nanomechanical microcantilevers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066976976",
+   "year": 2012,
+   "cited_by_count": 131,
+   "title": "State-Dependent Spike and Local Field Synchronization between Motor Cortex and Substantia Nigra in Hemiparkinsonian Rats",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095293979",
+   "year": 2002,
+   "cited_by_count": 130,
+   "title": "Nanomechanics from atomic resolution to molecular recognition based on atomic force microscopy technology",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2057524231",
+   "year": 1984,
+   "cited_by_count": 128,
+   "title": "Real-Space Observation of the 2×1 Structure of Chemisorbed Oxygen on Ni(110) by Scanning Tunneling Microscopy",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2765972933",
+   "year": 2017,
+   "cited_by_count": 119,
+   "title": "Inertial picobalance reveals fast mass fluctuations in mammalian cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063920716",
+   "year": 2000,
+   "cited_by_count": 116,
+   "title": "Stress at the Solid−Liquid Interface of Self-Assembled Monolayers on Gold Investigated with a Nanomechanical Sensor",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2134893770",
+   "year": 1992,
+   "cited_by_count": 115,
+   "title": "Correlation betweenJ c and screw dislocation density in sputtered YBa2Cu3O7-? films",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W4233584056",
+   "year": 1998,
+   "cited_by_count": 111,
+   "title": "Micromechanical thermogravimetry",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1986150388",
+   "year": 2008,
+   "cited_by_count": 106,
+   "title": "Resonating modes of vibrating microcantilevers in liquid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161751617",
+   "year": 2006,
+   "cited_by_count": 105,
+   "title": "Investigating the Molecular Mechanisms of In-Plane Mechanochemistry on Cantilever Arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078871549",
+   "year": 2004,
+   "cited_by_count": 104,
+   "title": "Observation of Individual Molecules Trapped on a Nanostructured Insulator",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2104609401",
+   "year": 2005,
+   "cited_by_count": 104,
+   "title": "Label free analysis of transcription factors using microcantilever arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083027811",
+   "year": 1993,
+   "cited_by_count": 101,
+   "title": "Large electric field effects in YBa2Cu3O7−δ films containing weak links",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2115979089",
+   "year": 2007,
+   "cited_by_count": 97,
+   "title": "Capacitive micromachined ultrasonic transducers for chemical detection in nitrogen",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2059067714",
+   "year": 1995,
+   "cited_by_count": 96,
+   "title": "Recognition of Individual Tail Groups in Self-Assembled Monolayers",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2105286779",
+   "year": 2015,
+   "cited_by_count": 94,
+   "title": "Mechanical control of mitotic progression in single animal cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041435632",
+   "year": 1994,
+   "cited_by_count": 91,
+   "title": "Domain and Molecular Superlattice Structure of Dodecanethiol Self-Assembled on Au(111)",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2335480768",
+   "year": 1996,
+   "cited_by_count": 89,
+   "title": "Atomic resolution in dynamic force microscopy across steps on Si(1 1 1)7×7",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2052796253",
+   "year": 1994,
+   "cited_by_count": 88,
+   "title": "Block-by-block deposition: A new growth method for complex oxide thin films",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053414539",
+   "year": 1977,
+   "cited_by_count": 88,
+   "title": "Bicritical and Tetracritical Behavior of GdAl O3",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2162477248",
+   "year": 1998,
+   "cited_by_count": 86,
+   "title": "Surface stress in the self-assembly of alkanethiols on gold probed .by a force microscopy technique",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975267443",
+   "year": 1988,
+   "cited_by_count": 83,
+   "title": "An ultrahigh vacuum scanning tunneling microscope with interchangeable samples and tips",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2057909519",
+   "year": 2004,
+   "cited_by_count": 83,
+   "title": "Inkjet Deposition of Alkanethiolate Monolayers and DNA Oligonucleotides on Gold: Evaluation of Spot Uniformity by Wet Etching",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016870976",
+   "year": 1987,
+   "cited_by_count": 82,
+   "title": "Atomic resolution with atomic force microscope",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2044265274",
+   "year": 1991,
+   "cited_by_count": 79,
+   "title": "A low-temperature atomic force/scanning tunneling microscope for ultrahigh vacuum",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1976172293",
+   "year": 2012,
+   "cited_by_count": 77,
+   "title": "Optimization of DNA Hybridization Efficiency by pH-Driven Nanomechanical Bending",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

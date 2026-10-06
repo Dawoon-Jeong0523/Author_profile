@@ -1,0 +1,430 @@
+{
+ "person": "Alfred Y. Cho",
+ "birth_year": 1937,
+ "cutoff_year": 1962,
+ "options": [
+  "for the invention of the quantum cascade laser — Federico Capasso, Alfred Y. Cho, Jérôme Faist"
+ ],
+ "works": [
+  {
+   "paper_id": "W4213168521",
+   "year": 1994,
+   "cited_by_count": 4380,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Cascade Laser"
+  },
+  {
+   "paper_id": "W2086670842",
+   "year": 1998,
+   "cited_by_count": 715,
+   "C_5_pctl": 1.0,
+   "title": "High-Power Directional Emission from Microlasers with Chaotic Resonators"
+  },
+  {
+   "paper_id": "W1995133826",
+   "year": 2001,
+   "cited_by_count": 659,
+   "C_5_pctl": 1.0,
+   "title": "Recent progress in quantum cascade lasers and applications"
+  },
+  {
+   "paper_id": "W2026572776",
+   "year": 1996,
+   "cited_by_count": 403,
+   "C_5_pctl": 1.0,
+   "title": "High power mid-infrared (λ∼5 μm) quantum cascade lasers operating above room temperature"
+  },
+  {
+   "paper_id": "W2079654046",
+   "year": 1997,
+   "cited_by_count": 353,
+   "C_5_pctl": 1.0,
+   "title": "Distributed feedback quantum cascade lasers"
+  },
+  {
+   "paper_id": "W2045657318",
+   "year": 1992,
+   "cited_by_count": 323,
+   "C_5_pctl": 0.99,
+   "title": "Observation of an electronic bound state above a potential well"
+  },
+  {
+   "paper_id": "W1982089000",
+   "year": 1998,
+   "cited_by_count": 299,
+   "C_5_pctl": 1.0,
+   "title": "Short wavelength (λ∼3.4 μm) quantum cascade laser based on strained compensated InGaAs/AlInAs"
+  },
+  {
+   "paper_id": "W2047273150",
+   "year": 2007,
+   "cited_by_count": 299,
+   "C_5_pctl": 0.99,
+   "title": "Terahertz quantum-cascade-laser source based on intracavity difference-frequency generation"
+  },
+  {
+   "paper_id": "W1982429312",
+   "year": 2003,
+   "cited_by_count": 285,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Cascade Surface-Emitting Photonic Crystal Laser"
+  },
+  {
+   "paper_id": "W2074542813",
+   "year": 1986,
+   "cited_by_count": 276,
+   "C_5_pctl": 1.0,
+   "title": "Sequential resonant tunneling through a multiquantum well superlattice"
+  },
+  {
+   "paper_id": "W2064342585",
+   "year": 2002,
+   "cited_by_count": 256,
+   "C_5_pctl": 0.99,
+   "title": "Ultra-broadband semiconductor laser"
+  },
+  {
+   "paper_id": "W2056523645",
+   "year": 2000,
+   "cited_by_count": 252,
+   "C_5_pctl": 1.0,
+   "title": "Intersubband absorption at λ∼1.55 μm in well- and modulation-doped GaN/AlGaN multiple quantum wells with superlattice barriers"
+  },
+  {
+   "paper_id": "W2039272928",
+   "year": 2002,
+   "cited_by_count": 198,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Cascade Lasers"
+  },
+  {
+   "paper_id": "W2062517610",
+   "year": 1992,
+   "cited_by_count": 198,
+   "C_5_pctl": 0.99,
+   "title": "Giant, triply resonant, third-order nonlinear susceptibility χ3ω(3) in coupled quantum wells"
+  },
+  {
+   "paper_id": "W2061265139",
+   "year": 1995,
+   "cited_by_count": 192,
+   "C_5_pctl": 1.0,
+   "title": "Vertical transition quantum cascade laser with Bragg confined excited state"
+  },
+  {
+   "paper_id": "W2015300034",
+   "year": 1997,
+   "cited_by_count": 180,
+   "C_5_pctl": 1.0,
+   "title": "High-Power Infrared (8-Micrometer Wavelength) Superlattice Lasers"
+  },
+  {
+   "paper_id": "W1963752206",
+   "year": 2001,
+   "cited_by_count": 180,
+   "C_5_pctl": 0.99,
+   "title": "Far-infrared surface-plasmon quantum-cascade lasers at 21.5 μm and 24 μm wavelengths"
+  },
+  {
+   "paper_id": "W2159604489",
+   "year": 2000,
+   "cited_by_count": 166,
+   "C_5_pctl": 0.99,
+   "title": "Self-Mode-Locking of Quantum Cascade Lasers with Giant Ultrafast Optical Nonlinearities"
+  },
+  {
+   "paper_id": "W1974121286",
+   "year": 2001,
+   "cited_by_count": 161,
+   "C_5_pctl": 0.98,
+   "title": "Cavity ringdown spectroscopic detection of nitric oxide with a continuous-wave quantum-cascade laser"
+  },
+  {
+   "paper_id": "W2075282890",
+   "year": 1995,
+   "cited_by_count": 160,
+   "C_5_pctl": 0.99,
+   "title": "Continuous wave operation of a vertical transition quantum cascade laser above T=80 K"
+  },
+  {
+   "paper_id": "W2057587260",
+   "year": 1998,
+   "cited_by_count": 154,
+   "C_5_pctl": 1.0,
+   "title": "High performance interminiband quantum cascade lasers with graded superlattices"
+  },
+  {
+   "paper_id": "W1999227801",
+   "year": 1990,
+   "cited_by_count": 154,
+   "C_5_pctl": 0.99,
+   "title": "Scattering-controlled transmission resonances and negative differential conductance by field-induced localization in superlattices"
+  },
+  {
+   "paper_id": "W1986303055",
+   "year": 1998,
+   "cited_by_count": 149,
+   "C_5_pctl": 0.99,
+   "title": "Long-wavelength (? ? 8–115??µm) semiconductor lasers with waveguides based on surface plasmons"
+  },
+  {
+   "paper_id": "W1970079649",
+   "year": 1985,
+   "cited_by_count": 145,
+   "C_5_pctl": 0.99,
+   "title": "Effective mass filtering: Giant quantum amplification of the photocurrent in a semiconductor superlattice"
+  },
+  {
+   "paper_id": "W2089120441",
+   "year": 2001,
+   "cited_by_count": 140,
+   "C_5_pctl": 0.91,
+   "title": "High-frequency modulation without the relaxation oscillation resonance in quantum cascade lasers"
+  },
+  {
+   "paper_id": "W2093990713",
+   "year": 1995,
+   "cited_by_count": 136,
+   "C_5_pctl": 0.99,
+   "title": "Quantum cascade laser with plasmon-enhanced waveguide operating at 8.4 μm wavelength"
+  },
+  {
+   "paper_id": "W1966979969",
+   "year": 1985,
+   "cited_by_count": 130,
+   "C_5_pctl": 0.99,
+   "title": "Doping interface dipoles: Tunable heterojunction barrier heights and band-edge discontinuities by molecular beam epitaxy"
+  },
+  {
+   "paper_id": "W2051264525",
+   "year": 2000,
+   "cited_by_count": 127,
+   "C_5_pctl": 0.99,
+   "title": "Single-mode surface-plasmon laser"
+  },
+  {
+   "paper_id": "W1973653789",
+   "year": 2005,
+   "cited_by_count": 124,
+   "C_5_pctl": 0.98,
+   "title": "Raman injection laser"
+  },
+  {
+   "paper_id": "W2004944259",
+   "year": 1996,
+   "cited_by_count": 123,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Cascade Lasers without Intersubband Population Inversion"
+  },
+  {
+   "paper_id": "W2055157057",
+   "year": 1999,
+   "cited_by_count": 123,
+   "C_5_pctl": 0.99,
+   "title": "Kilohertz linewidth from frequency-stabilized mid-infrared quantum cascade lasers"
+  },
+  {
+   "paper_id": "W2024628072",
+   "year": 2002,
+   "cited_by_count": 122,
+   "C_5_pctl": 0.9,
+   "title": "Quantum cascade lasers with double metal-semiconductor waveguide resonators"
+  },
+  {
+   "paper_id": "W2024722325",
+   "year": 1998,
+   "cited_by_count": 121,
+   "C_5_pctl": 0.99,
+   "title": "Continuous-wave and high-power pulsed operation of index-coupled distributed feedback quantum cascade laser at λ≈8.5 μm"
+  },
+  {
+   "paper_id": "W1990156066",
+   "year": 2000,
+   "cited_by_count": 116,
+   "C_5_pctl": 0.99,
+   "title": "Intersubband absorption in GaN/AlGaN multiple quantum wells in the wavelength range of λ∼1.75–4.2 μm"
+  },
+  {
+   "paper_id": "W2025013016",
+   "year": 1993,
+   "cited_by_count": 114,
+   "C_5_pctl": 0.99,
+   "title": "Measurement of the intersubband scattering rate in semiconductor quantum wells by excited state differential absorption spectroscopy"
+  },
+  {
+   "paper_id": "W1615782180",
+   "year": 2001,
+   "cited_by_count": 113,
+   "C_5_pctl": 0.99,
+   "title": "Intersubband absorption in degenerately doped GaN/AlxGa1−xN coupled double quantum wells"
+  },
+  {
+   "paper_id": "W43558867",
+   "year": 1998,
+   "cited_by_count": 111,
+   "C_5_pctl": 0.99,
+   "title": "High-power λ≈8 μm quantum cascade lasers with near optimum performance"
+  },
+  {
+   "paper_id": "W1975803268",
+   "year": 2003,
+   "cited_by_count": 111,
+   "C_5_pctl": 0.98,
+   "title": "Resonant Second-Order Nonlinear Optical Processes in Quantum Cascade Lasers"
+  },
+  {
+   "paper_id": "W2017527445",
+   "year": 1991,
+   "cited_by_count": 110,
+   "C_5_pctl": 0.99,
+   "title": "Observation of large second order susceptibility via intersubband transitions at λ∼10 μm in asymmetric coupled AlInAs/GaInAs quantum wells"
+  },
+  {
+   "paper_id": "W2029283067",
+   "year": 2001,
+   "cited_by_count": 99,
+   "C_5_pctl": 0.98,
+   "title": "Quantum-cascade laser measurements of stratospheric methane and nitrous oxide"
+  },
+  {
+   "paper_id": "W1964051060",
+   "year": 1999,
+   "cited_by_count": 93,
+   "C_5_pctl": 0.99,
+   "title": "Long wavelength superlattice quantum cascade lasers at λ≃17 μm"
+  },
+  {
+   "paper_id": "W2001182447",
+   "year": 2001,
+   "cited_by_count": 91,
+   "C_5_pctl": 0.97,
+   "title": "Application of balanced detection to absorption measurements of trace gases with room-temperature, quasi-cw quantum-cascade lasers"
+  },
+  {
+   "paper_id": "W1971206545",
+   "year": 1996,
+   "cited_by_count": 91,
+   "C_5_pctl": 0.96,
+   "title": "Quantum cascade disk lasers"
+  },
+  {
+   "paper_id": "W2007417368",
+   "year": 1992,
+   "cited_by_count": 90,
+   "C_5_pctl": 0.99,
+   "title": "Resonant Stark tuning of second-order susceptibility in coupled quantum wells"
+  },
+  {
+   "paper_id": "W1999458145",
+   "year": 1994,
+   "cited_by_count": 90,
+   "C_5_pctl": 0.98,
+   "title": "Quantum cascade laser: Temperature dependence of the performance characteristics and high T0 operation"
+  },
+  {
+   "paper_id": "W1496736901",
+   "year": 1998,
+   "cited_by_count": 88,
+   "C_5_pctl": 0.97,
+   "title": "A multiwavelength semiconductor laser"
+  },
+  {
+   "paper_id": "W1993075174",
+   "year": 1996,
+   "cited_by_count": 85,
+   "C_5_pctl": 0.99,
+   "title": "Continuous wave operation of midinfrared (7.4–8.6 μm) quantum cascade lasers up to 110 K temperature"
+  },
+  {
+   "paper_id": "W1974933176",
+   "year": 2000,
+   "cited_by_count": 82,
+   "C_5_pctl": 0.96,
+   "title": "Effective utilization of quantum-cascade distributed-feedback lasers in absorption spectroscopy"
+  },
+  {
+   "paper_id": "W2060229302",
+   "year": 2000,
+   "cited_by_count": 80,
+   "C_5_pctl": 0.98,
+   "title": "Trace-gas detection in ambient air with a thermoelectrically cooled, pulsed quantum-cascade distributed feedback laser"
+  },
+  {
+   "paper_id": "W1966901594",
+   "year": 2002,
+   "cited_by_count": 75,
+   "C_5_pctl": 0.98,
+   "title": "Kolmogorov–Arnold–Moser transition and laser action on scar modes in semiconductor diode lasers with deformed resonators"
+  },
+  {
+   "paper_id": "W2091502044",
+   "year": 1992,
+   "cited_by_count": 74,
+   "C_5_pctl": 0.98,
+   "title": "Quantum wells with localized states at energies above the barrier height: A Fabry–Perot electron filter"
+  },
+  {
+   "paper_id": "W2034898764",
+   "year": 1999,
+   "cited_by_count": 67,
+   "C_5_pctl": 0.99,
+   "title": "High Performance Quantum Cascade Lasers"
+  },
+  {
+   "paper_id": "W2064999082",
+   "year": 2000,
+   "cited_by_count": 66,
+   "C_5_pctl": 0.98,
+   "title": "Single-mode tunable, pulsed, and continuous wave quantum-cascade distributed feedback lasers at λ≅4.6–4.7 μm"
+  },
+  {
+   "paper_id": "W2024718342",
+   "year": 1994,
+   "cited_by_count": 64,
+   "C_5_pctl": 0.98,
+   "title": "Mid-infrared field-tunable intersubband electroluminescence at room temperature by photon-assisted tunneling in coupled-quantum wells"
+  },
+  {
+   "paper_id": "W2008128928",
+   "year": 2001,
+   "cited_by_count": 64,
+   "C_5_pctl": 0.92,
+   "title": "Quantum cascade lasers with a heterogeneous cascade: Two-wavelength operation"
+  },
+  {
+   "paper_id": "W2029368063",
+   "year": 2002,
+   "cited_by_count": 63,
+   "C_5_pctl": 0.95,
+   "title": "Thermoelectrically cooled quantum-cascade-laser-based sensor for the continuous monitoring of ambient atmospheric carbon monoxide"
+  },
+  {
+   "paper_id": "W1966908875",
+   "year": 2002,
+   "cited_by_count": 63,
+   "C_5_pctl": 0.89,
+   "title": "Frequency stabilization of quantum-cascade lasers by use of optical cavities"
+  },
+  {
+   "paper_id": "W1988192303",
+   "year": 2001,
+   "cited_by_count": 60,
+   "C_5_pctl": 0.96,
+   "title": "Temperature profile of GaInAs/AlInAs/InP quantum cascade-laser facets measured by microprobe photoluminescence"
+  },
+  {
+   "paper_id": "W2031030061",
+   "year": 1994,
+   "cited_by_count": 60,
+   "C_5_pctl": 0.96,
+   "title": "Bandgap engineering of semiconductor heterostructures by molecular beam epitaxy: physics and applications"
+  },
+  {
+   "paper_id": "W2045263146",
+   "year": 1999,
+   "cited_by_count": 60,
+   "C_5_pctl": 0.93,
+   "title": "Bidirectional Semiconductor Laser"
+  }
+ ]
+}

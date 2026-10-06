@@ -1,0 +1,577 @@
+{
+ "person": "Wolfgang A. Herrmann",
+ "options": [
+  "for the isolation of stable carbenes and the development of N-heterocyclic carbenes as ligands in catalysis — Anthony J. Arduengo III, Guy Bertrand, Wolfgang A. Herrmann"
+ ],
+ "birth_year": 1948,
+ "patents": [
+  {
+   "patent_id": "6054482",
+   "title": "Lactam-free amino acids",
+   "filing_year": 1995,
+   "grant_year": 2000,
+   "assignee": "Godecke Aktiengesellschaft",
+   "cited_by_patents": 63
+  },
+  {
+   "patent_id": "7378528",
+   "title": "Alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands; use as highly active, selective catalysts for olefin metathesis",
+   "filing_year": 2007,
+   "grant_year": 2008,
+   "assignee": "EVONIK DEGUSSA GMBH",
+   "cited_by_patents": 63
+  },
+  {
+   "patent_id": "5455365",
+   "title": "Process for the preparation of an olefin polymer using metallocenes containing specifically substituted indenyl ligands",
+   "filing_year": 1993,
+   "grant_year": 1995,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 62
+  },
+  {
+   "patent_id": "5103030",
+   "title": "Process for the preparation of a chiral stereorigid metallocene",
+   "filing_year": 1991,
+   "grant_year": 1992,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 56
+  },
+  {
+   "patent_id": "6552139",
+   "title": "Process for preparing acyclic olefins using homobimetallic and heterobimetallic alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "Degussa AG",
+   "cited_by_patents": 56
+  },
+  {
+   "patent_id": "5869584",
+   "title": "Process for the preparation of an olefin polymer using metallocenes containing specifically substituted indenyl ligands",
+   "filing_year": 1995,
+   "grant_year": 1999,
+   "assignee": "Targor GmbH",
+   "cited_by_patents": 55
+  },
+  {
+   "patent_id": "5728839",
+   "title": "Metal complexes with heterocycles carbenes",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 53
+  },
+  {
+   "patent_id": "6635768",
+   "title": "Alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands; use as highly active, selective catalysts for olefin metathesis",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "Degussa AG",
+   "cited_by_patents": 52
+  },
+  {
+   "patent_id": "7652145",
+   "title": "Alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands; use as highly active, selective catalysts for olefin metathesis",
+   "filing_year": 2004,
+   "grant_year": 2010,
+   "assignee": "Degussa AG",
+   "cited_by_patents": 49
+  },
+  {
+   "patent_id": "5137918",
+   "title": "N-(2'-aminophenyl)-benzamide derivatives process for the preparation thereof and pharmaceutical compositions containing them",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "Goedecke GmbH",
+   "cited_by_patents": 40
+  },
+  {
+   "patent_id": "5347045",
+   "title": "Sulfonated 2,2'-bis (diphenylphosphinomethyl)-1,1'-binaphthalenes, process for their preparation and their use in a process for the hydroformylation of olefinically unsaturated compounds",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "7294717",
+   "title": "Alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands; use as highly active, selective catalysts for olefin metathesis",
+   "filing_year": 2003,
+   "grant_year": 2007,
+   "assignee": "Degussa AG",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "6787620",
+   "title": "Homobimetallic and heterobimetallic alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands",
+   "filing_year": 2003,
+   "grant_year": 2004,
+   "assignee": "Degussa AG",
+   "cited_by_patents": 32
+  },
+  {
+   "patent_id": "5504232",
+   "title": "Process for the preparation of an olefin polymer using specific metallocenes",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 27
+  },
+  {
+   "patent_id": "5068413",
+   "title": "Process for the preparation of cyclic amino acids and intermediates useful in the process",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "Godecke Aktiengesellschaft",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "6025496",
+   "title": "Process for preparing heterocyclic carbenes",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "Celanese GmbH",
+   "cited_by_patents": 24
+  },
+  {
+   "patent_id": "6005151",
+   "title": "Processs for preparing aromatic olefins using palladacycle catalysis",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "Aventis Holdings, Inc.",
+   "cited_by_patents": 22
+  },
+  {
+   "patent_id": "5268495",
+   "title": "Metallocenes having bicyclic cyclopentadiene derivatives as ligands, processes for their preparation and their use as catalysts",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "5763542",
+   "title": "Process for the preparation of an olefin polymer using specific metallocenes",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "Targor GmbH",
+   "cited_by_patents": 20
+  },
+  {
+   "patent_id": "5091567",
+   "title": "Process for the preparation of 1-aminomethyl-1-cyclohexaneacetic acid",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "Godecke Aktiengesellschaft",
+   "cited_by_patents": 19
+  },
+  {
+   "patent_id": "5312951",
+   "title": "3,4-dimethyl-2,5,6-tris(p-sulfonatophenyl)-1-phosphanorbornadiene, process for the preparation thereof and process for the hydroformylation of olefinnically unsaturated compounds",
+   "filing_year": 1993,
+   "grant_year": 1994,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5703269",
+   "title": "Process for preparing aromatic olefins",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "6087292",
+   "title": "Metallocene catalysts comprising indenyl ligands substituted with electronegative groups",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "Tangor GmbH",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "5155247",
+   "title": "Use of organorhenium compounds for the oxidation of multiple C--C-bonds, oxidation processes based theron and novel organorhenium compounds",
+   "filing_year": 1990,
+   "grant_year": 1992,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "5565398",
+   "title": "Sulfonated 2,2'-bis (Diphenylphosphinomethyl)-1,1'-binaphthalenes, process for their preparation and their use in a process for the hydroformylation of olefinically unsaturated compounds",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "5342985",
+   "title": "Organic derivatives of rhenium oxides and their preparation and use for the metathesis of olefins",
+   "filing_year": 1990,
+   "grant_year": 1994,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "5808122",
+   "title": "Organometallic compound",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 15
+  },
+  {
+   "patent_id": "5559277",
+   "title": "Process for preparing biphenyls using palladacycles as catalysts",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "5057618",
+   "title": "Complex compounds containing sulfonated phenyl phosphanes",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "5155274",
+   "title": "Complex compounds containing sulfonated phenyl phosphanes",
+   "filing_year": 1992,
+   "grant_year": 1992,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "5481045",
+   "title": "Sulfonated 2,2'-bis (diphenylphosphinomethyl)-1,1'-binaphthalenes, process for their preparation and their use in a process for the hydroformylation of olefinically unsaturated compounds",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "5223648",
+   "title": "Process for producing aldehydes",
+   "filing_year": 1992,
+   "grant_year": 1993,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "5663426",
+   "title": "Sulfonated phosphines, processes for their preparation, and use thereof as constituents of catalyst systems",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Hoechst Aktiengeschaft",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "5831128",
+   "title": "Synthesis of aromatic amines from chloroamatics",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "6040469",
+   "title": "Metallocene compound",
+   "filing_year": 1996,
+   "grant_year": 2000,
+   "assignee": "Targor GmbH",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "3966813",
+   "title": "Process for the preparation of 1-(m- and p-hydroxyphenyl)-2-aminoethanol",
+   "filing_year": 1972,
+   "grant_year": 1976,
+   "assignee": "WARNER-LAMBERT COMPANY LLC",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "5880302",
+   "title": "Organometallic compound",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "Targor GmbH",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5451698",
+   "title": "Process for the preparation of sulfonated arylphosphines",
+   "filing_year": 1994,
+   "grant_year": 1995,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 7
+  },
+  {
+   "patent_id": "6888002",
+   "title": "Transition metal complexes with diaminocarbene ligands and their use in reactions catalyzed by transition metals",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "Bayer Aktiengesellschaft",
+   "cited_by_patents": 6
+  },
+  {
+   "patent_id": "5041228",
+   "title": "Process for separating mixtures of substances contained in an aqueous or aqueous/organic solution",
+   "filing_year": 1989,
+   "grant_year": 1991,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5200380",
+   "title": "Process for producing aldehydes",
+   "filing_year": 1991,
+   "grant_year": 1993,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5780674",
+   "title": "Sulfonated phosphines, processes for their preparation, and use thereof as constituents of catalyst systems",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5831107",
+   "title": "Palladacycles and a process for their preparation",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "Aventis Research & Technology Deutschland",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "5037987",
+   "title": "Production of optical isomers of certain 1,6-naphthyridine-3-carboxylate derivatives",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "Goedecke GmbH",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "5969166",
+   "title": "Epoxides produced by the oxidation of olefins with air or oxygen",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "5698755",
+   "title": "Process for preparing aromatic olefins using palladacycle catalysis",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "5684181",
+   "title": "Process for the preparation of sulfonated arylphosphines",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "5705619",
+   "title": "Complexes of lanthanides with heterocyclic carbenes",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "8153810",
+   "title": "Alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands; use as highly active, selective catalysts for olefin metathesis",
+   "filing_year": 2011,
+   "grant_year": 2012,
+   "assignee": "EVONIK DEGUSSA GMBH",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "4255433",
+   "title": "(+)-(3-Methyl-4-oxo-5N-piperidinothiazolidin-2-ylidene)acetic acid esters, method of preparation and use",
+   "filing_year": 1980,
+   "grant_year": 1981,
+   "assignee": "Godecke Aktiengesellschaft",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "4649196",
+   "title": "Process for the manufacture of racemic (R,R; S,S) asocainol",
+   "filing_year": 1985,
+   "grant_year": 1987,
+   "assignee": "WARNER-LAMBERT COMPANY LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5039679",
+   "title": "Certain derivatives of 1,4-dihydro-5-isopropoxy-1,6-naphthyridine-3-carboxylic acid, pharmaceutical compositions containing them, and methods of using them",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "Goedecke GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5051522",
+   "title": "Complex compound of rhodium-containing sulfonated triphenylphosphane",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5466644",
+   "title": "Reactivation of water-soluble hydroformylation catalysts",
+   "filing_year": 1995,
+   "grant_year": 1995,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5616734",
+   "title": "Process for the catalytic oxidation of aromatic compounds",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5637762",
+   "title": "5H-phenyl-3,13-disulfonatodibenzo-phosphole and a process for its preparation",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5663451",
+   "title": "Process for preparing aldehydes",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5710292",
+   "title": "Process for the selective oxidation of aromatic compounds",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "5886240",
+   "title": "Process for preparing aromatic acetylenes using palladacycles as catalysts",
+   "filing_year": 1996,
+   "grant_year": 1999,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "6303828",
+   "title": "Process for selective catalytic oxidation of olefins to aldehydes, ketones with cleavage of C=C bonds",
+   "filing_year": 2000,
+   "grant_year": 2001,
+   "assignee": "Aventis Research & Technologies GmbH & Co.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "6365762",
+   "title": "Method for catalytic and selective oxidation of aromatic compounds",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "Aventis Research & Technologies GmbH & Co.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "4208526",
+   "title": "Process for the preparation of thiazolidin-4-one-acetic acid derivatives",
+   "filing_year": 1979,
+   "grant_year": 1980,
+   "assignee": "WARNER-LAMBERT COMPANY LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "4477661",
+   "title": "Process for the preparation of 4-hydroxy-3-(heterocyclocarbamoyl)-2H-1,2-benzothiazine-1,1-dioxides",
+   "filing_year": 1983,
+   "grant_year": 1984,
+   "assignee": "WARNER-LAMBERT COMPANY LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "4506071",
+   "title": "Process for preparing microcrystalline isoxicam",
+   "filing_year": 1984,
+   "grant_year": 1985,
+   "assignee": "WARNER-LAMBERT COMPANY LLC",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "4743686",
+   "title": "Process for the isomerization of asocainol",
+   "filing_year": 1986,
+   "grant_year": 1988,
+   "assignee": "Godecke Akt.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5329013",
+   "title": "Process for the preparation of tricyclo-[3.3.1.1.sup.3,7 ]dec-2-yl-[R-(R*,R*)]-3-(1H-indol-3-ylmethyl)-3-methyl-4,9-dioxo-7,11-di phenyl-10-oxa-2,5,8-triazaundecanate",
+   "filing_year": 1992,
+   "grant_year": 1994,
+   "assignee": "Godecke Aktiengesellschaft",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5693669",
+   "title": "Tilidine dihydrogen orthophosphate, method of preparing it and pharmaceutical preparation containing it",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "Godecke Aktiengesellschaft",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "5726333",
+   "title": "Organometallic compound",
+   "filing_year": 1995,
+   "grant_year": 1998,
+   "assignee": "Hoechst GmbH",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6180807",
+   "title": "Direct synthesis of organorhenium oxides from compounds containing rhenium",
+   "filing_year": 2000,
+   "grant_year": 2001,
+   "assignee": "Aventis Research & Technologies GmbH & Co.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6248913",
+   "title": "Catalysts for olefin selective epoxidation with atmospheric oxygen",
+   "filing_year": 2000,
+   "grant_year": 2001,
+   "assignee": "Aventis Research & Technologies GmbH & Co.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6326502",
+   "title": "Method for producing epoxides through olefin oxidation with air or oxygen",
+   "filing_year": 2000,
+   "grant_year": 2001,
+   "assignee": "Aventis Research & Technologies GmbH & Co.",
+   "cited_by_patents": 0
+  }
+ ]
+}

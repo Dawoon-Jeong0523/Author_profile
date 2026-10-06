@@ -1,0 +1,655 @@
+{
+ "person": "Bonnie L. Bassler",
+ "profile": "A5034726213",
+ "ids": [
+  "A5034726213"
+ ],
+ "options": [
+  "for their discoveries of chemical communication in bacteria — Bonnie L. Bassler, E. Peter Greenberg",
+  "for the discovery of bacterial quorum sensing as a chemical communication system — Bonnie L. Bassler, E. Peter Greenberg"
+ ],
+ "birth_year": 1962,
+ "cutoff_year": 1987,
+ "works": [
+  {
+   "paper_id": "W2126922170",
+   "year": 2001,
+   "cited_by_count": 4973,
+   "title": "Quorum Sensing in Bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131869707",
+   "year": 2005,
+   "cited_by_count": 4055,
+   "title": "QUORUM SENSING: Cell-to-Cell Communication in Bacteria",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2511941815",
+   "year": 2016,
+   "cited_by_count": 2090,
+   "title": "Quorum sensing signal–response systems in Gram-negative bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140405224",
+   "year": 2012,
+   "cited_by_count": 2005,
+   "title": "Bacterial Quorum Sensing: Its Role in Virulence and Possibilities for Its Control",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118521369",
+   "year": 2009,
+   "cited_by_count": 1624,
+   "title": "Bacterial Quorum-Sensing Network Architectures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994462493",
+   "year": 2002,
+   "cited_by_count": 1540,
+   "title": "Structural identification of a bacterial quorum-sensing signal containing boron",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2931314706",
+   "year": 2019,
+   "cited_by_count": 1202,
+   "title": "Bacterial quorum sensing in complex and dynamically changing environments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144640625",
+   "year": 2001,
+   "cited_by_count": 1047,
+   "title": "The LuxS family of bacterial autoinducers: biosynthesis of a novel quorum‐sensing signal molecule",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060779329",
+   "year": 1999,
+   "cited_by_count": 1007,
+   "title": "How bacteria talk to each other: regulation of gene expression by quorum sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991095439",
+   "year": 2004,
+   "cited_by_count": 978,
+   "title": "The Small RNA Chaperone Hfq and Multiple Small RNAs Control Quorum Sensing in Vibrio harveyi and Vibrio cholerae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996135784",
+   "year": 1999,
+   "cited_by_count": 963,
+   "title": "Quorum sensing in Escherichia coli , Salmonella typhimurium , and Vibrio harveyi : A new family of genes responsible for autoinducer production",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4246645615",
+   "year": 2006,
+   "cited_by_count": 961,
+   "title": "Bacterially Speaking",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988874714",
+   "year": 2006,
+   "cited_by_count": 951,
+   "title": "Bacterial Small-Molecule Signaling Pathways",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1927570869",
+   "year": 2003,
+   "cited_by_count": 876,
+   "title": "Quorum sensing controls biofilm formation in Vibrio cholerae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000106451",
+   "year": 2002,
+   "cited_by_count": 836,
+   "title": "Quorum-sensing regulators control virulence gene expression in Vibrio cholerae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993616876",
+   "year": 2003,
+   "cited_by_count": 756,
+   "title": "LuxS quorum sensing: more than just a numbers game",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167637231",
+   "year": 1993,
+   "cited_by_count": 750,
+   "title": "Intercellular signalling in Vibrio harveyi: sequence and function of genes regulating expression of luminescence",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115130110",
+   "year": 1997,
+   "cited_by_count": 745,
+   "title": "Cross-species induction of luminescence in the quorum-sensing bacterium Vibrio harveyi",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056932987",
+   "year": 2002,
+   "cited_by_count": 733,
+   "title": "Small Talk",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964466122",
+   "year": 2013,
+   "cited_by_count": 708,
+   "title": "A quorum-sensing inhibitor blocks Pseudomonas aeruginosa virulence and biofilm formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996872292",
+   "year": 1994,
+   "cited_by_count": 693,
+   "title": "Multiple signalling systems controlling expression of luminescence in Vibrio harveyi : sequence and function of genes encoding a second sensory pathway",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2958590276",
+   "year": 2019,
+   "cited_by_count": 684,
+   "title": "Surviving as a Community: Antibiotic Tolerance and Persistence in Bacterial Biofilms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016402044",
+   "year": 2002,
+   "cited_by_count": 672,
+   "title": "Parallel Quorum Sensing Systems Converge to Regulate Virulence in Vibrio cholerae",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103359264",
+   "year": 1998,
+   "cited_by_count": 628,
+   "title": "Quorum sensing in Escherichia coli and Salmonella typhimurium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000930830",
+   "year": 2003,
+   "cited_by_count": 601,
+   "title": "Interspecies communication in bacteria",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1531643733",
+   "year": 2015,
+   "cited_by_count": 600,
+   "title": "The Mechanical World of Bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052255348",
+   "year": 2004,
+   "cited_by_count": 576,
+   "title": "Salmonella typhimurium Recognizes a Chemically Distinct Form of the Bacterial Quorum-Sensing Signal AI-2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112846947",
+   "year": 2004,
+   "cited_by_count": 542,
+   "title": "Three Parallel Quorum-Sensing Systems Regulate Gene Expression in Vibrio harveyi",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142596421",
+   "year": 2003,
+   "cited_by_count": 536,
+   "title": "Chemical communication among bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016935145",
+   "year": 2007,
+   "cited_by_count": 463,
+   "title": "The major Vibrio cholerae autoinducer and its role in virulence factor production",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145166342",
+   "year": 2001,
+   "cited_by_count": 458,
+   "title": "The languages of bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115335630",
+   "year": 2004,
+   "cited_by_count": 446,
+   "title": "Regulation of Uptake and Processing of the Quorum-Sensing Autoinducer AI-2 in Escherichia coli",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131036374",
+   "year": 2008,
+   "cited_by_count": 428,
+   "title": "Quorum Sensing Controls Biofilm Formation in Vibrio cholerae through Modulation of Cyclic Di-GMP Levels and Repression of vpsT",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148097728",
+   "year": 2013,
+   "cited_by_count": 368,
+   "title": "Solutions to the Public Goods Dilemma in Bacterial Biofilms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115808190",
+   "year": 1999,
+   "cited_by_count": 367,
+   "title": "A genetic analysis of the function of LuxO, a two‐component response regulator involved in quorum sensing in Vibrio harveyi",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025248886",
+   "year": 2006,
+   "cited_by_count": 366,
+   "title": "Autoinducer 2: a concentration‐dependent signal for mutualistic bacterial biofilm growth",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006369634",
+   "year": 2013,
+   "cited_by_count": 353,
+   "title": "Biofilm streamers cause catastrophic disruption of flow with consequences for environmental and medical systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2904210096",
+   "year": 2018,
+   "cited_by_count": 348,
+   "title": "A Host-Produced Quorum-Sensing Autoinducer Controls a Phage Lysis-Lysogeny Decision",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1959548112",
+   "year": 2001,
+   "cited_by_count": 342,
+   "title": "The LuxS‐dependent autoinducer AI‐2 controls the expression of an ABC transporter that functions in AI‐2 uptake in Salmonella typhimurium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055873811",
+   "year": 2004,
+   "cited_by_count": 342,
+   "title": "Bacterial social engagements",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2555970702",
+   "year": 2016,
+   "cited_by_count": 338,
+   "title": "Quorum sensing controls the Pseudomonas aeruginosa CRISPR-Cas adaptive immune system",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118742923",
+   "year": 2004,
+   "cited_by_count": 326,
+   "title": "Quorum Sensing Regulates Type III Secretion inVibrio harveyiandVibrio parahaemolyticus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131123535",
+   "year": 2005,
+   "cited_by_count": 322,
+   "title": "CsrA and three redundant small RNAs regulate quorum sensing in Vibrio cholerae",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046327331",
+   "year": 2000,
+   "cited_by_count": 317,
+   "title": "Regulation of quorum sensing in Vibrio harveyi by LuxO and Sigma‐54",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1851276803",
+   "year": 2003,
+   "cited_by_count": 310,
+   "title": "Lsr‐mediated transport and processing of AI‐2 in Salmonella typhimurium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002276562",
+   "year": 2005,
+   "cited_by_count": 306,
+   "title": "Interference with AI-2-mediated bacterial cell–cell communication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126055663",
+   "year": 2003,
+   "cited_by_count": 301,
+   "title": "Vibrio harveyi quorum sensing: a coincidence detector for two autoinducers controls gene expression",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1977541245",
+   "year": 2011,
+   "cited_by_count": 298,
+   "title": "A Strategy for Antagonizing Quorum Sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2582365431",
+   "year": 2017,
+   "cited_by_count": 296,
+   "title": "Flavonoids Suppress Pseudomonas aeruginosa Virulence through Allosteric Inhibition of Quorum-sensing Receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149311070",
+   "year": 2011,
+   "cited_by_count": 290,
+   "title": "AphA and LuxR/HapR reciprocally control quorum sensing in vibrios",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992438921",
+   "year": 2006,
+   "cited_by_count": 286,
+   "title": "Ligand-Induced Asymmetry in Histidine Sensor Kinase Complex Regulates Quorum Sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097292981",
+   "year": 2007,
+   "cited_by_count": 256,
+   "title": "Multiple small RNAs act additively to integrate sensory information and control quorum sensing in Vibrio harveyi",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986134153",
+   "year": 2005,
+   "cited_by_count": 250,
+   "title": "Regulation of LuxPQ Receptor Activity by the Quorum-Sensing Signal Autoinducer-2",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115682970",
+   "year": 2006,
+   "cited_by_count": 250,
+   "title": "The Vibrio harveyi quorum-sensing system uses shared regulatory components to discriminate between multiple autoinducers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158792388",
+   "year": 1999,
+   "cited_by_count": 250,
+   "title": "Sequence and Function of LuxU: a Two-Component Phosphorelay Protein That Regulates Quorum Sensing in Vibrio harveyi",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992841053",
+   "year": 2015,
+   "cited_by_count": 226,
+   "title": "Differential RNA-seq of Vibrio cholerae identifies the VqmR small RNA as a regulator of biofilm formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992699035",
+   "year": 2015,
+   "cited_by_count": 219,
+   "title": "Extracellular matrix structure governs invasion resistance in bacterial biofilms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010215507",
+   "year": 2011,
+   "cited_by_count": 217,
+   "title": "A fitness trade-off between local competition and dispersal in Vibrio cholerae biofilms",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987516720",
+   "year": 2009,
+   "cited_by_count": 214,
+   "title": "A Quorum-Sensing Antagonist Targets Both Membrane-Bound and Cytoplasmic Receptors and Controls Bacterial Pathogenicity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2292028851",
+   "year": 2016,
+   "cited_by_count": 213,
+   "title": "Architectural transitions in Vibrio cholerae biofilms at single-cell resolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2599925393",
+   "year": 2017,
+   "cited_by_count": 211,
+   "title": "A Vibrio cholerae autoinducer–receptor pair that controls biofilm formation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2735053732",
+   "year": 2017,
+   "cited_by_count": 210,
+   "title": "The RhlR quorum-sensing receptor controls Pseudomonas aeruginosa pathogenesis and biofilm development independently of its canonical homoserine lactone autoinducer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986219050",
+   "year": 2014,
+   "cited_by_count": 202,
+   "title": "Adhesion as a weapon in microbial competition",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080655266",
+   "year": 2007,
+   "cited_by_count": 199,
+   "title": "Regulatory small RNAs circumvent the conventional quorum sensing pathway in pandemic Vibrio cholerae",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2523188958",
+   "year": 2016,
+   "cited_by_count": 199,
+   "title": "Local and global consequences of flow on bacterial quorum sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1535328119",
+   "year": 1987,
+   "cited_by_count": 196,
+   "title": "Purification and properties of a bacteriophage-induced endo-N-acetylneuraminidase specific for poly-alpha-2,8-sialosyl carbohydrate units.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108808336",
+   "year": 1999,
+   "cited_by_count": 194,
+   "title": "Regulation of autoinducer production in Salmonella typhimurium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116139815",
+   "year": 2009,
+   "cited_by_count": 191,
+   "title": "Information processing and signal integration in bacterial quorum sensing",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119406110",
+   "year": 2011,
+   "cited_by_count": 185,
+   "title": "Quorum Sensing in Chromobacterium violaceum: DNA Recognition and Gene Regulation by the CviR Receptor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2507231691",
+   "year": 2016,
+   "cited_by_count": 185,
+   "title": "Vibrio cholerae biofilm growth program and architecture revealed by single-cell live imaging",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2750504617",
+   "year": 2017,
+   "cited_by_count": 179,
+   "title": "Extracellular-matrix-mediated osmotic pressure drives Vibrio cholerae biofilm expansion and cheater exclusion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151305908",
+   "year": 2000,
+   "cited_by_count": 177,
+   "title": "A genetic analysis of the functions of LuxN: a two‐component hybrid sensor kinase that regulates quorum sensing in Vibrio harveyi",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100507403",
+   "year": 1991,
+   "cited_by_count": 172,
+   "title": "Chitin utilization by marine bacteria. Degradation and catabolism of chitin oligosaccharides by Vibrio furnissii.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151939606",
+   "year": 1994,
+   "cited_by_count": 172,
+   "title": "Sequence and function of LuxO, a negative regulator of luminescence in Vibrio harveyi",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3035011410",
+   "year": 2020,
+   "cited_by_count": 166,
+   "title": "Cell position fates and collective fountain flow in bacterial biofilms revealed by light-sheet microscopy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022959719",
+   "year": 2007,
+   "cited_by_count": 164,
+   "title": "Phosphorylation and Processing of the Quorum-Sensing Molecule Autoinducer-2 in Enteric Bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124152757",
+   "year": 2009,
+   "cited_by_count": 164,
+   "title": "Quantifying the Integration of Quorum-Sensing Signals with Single-Cell Resolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977448000",
+   "year": 2015,
+   "cited_by_count": 156,
+   "title": "A Qrr Noncoding RNA Deploys Four Different Regulatory Mechanisms to Optimize Quorum-Sensing Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2888195855",
+   "year": 2018,
+   "cited_by_count": 154,
+   "title": "SnapShot: Bacterial Quorum Sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2301415099",
+   "year": 2016,
+   "cited_by_count": 152,
+   "title": "A Host-Produced Autoinducer-2 Mimic Activates Bacterial Quorum Sensing",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

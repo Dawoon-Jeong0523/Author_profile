@@ -1,0 +1,738 @@
+{
+ "person": "David R. Liu",
+ "options": [
+  "for the development of base editing and prime editing for precise genome editing — David R. Liu",
+  "for the development of base editing and prime editing — David R. Liu"
+ ],
+ "birth_year": 1973,
+ "patents": [
+  {
+   "patent_id": "7045337",
+   "title": "In vivo incorporation of unnatural amino acids",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 293
+  },
+  {
+   "patent_id": "7083970",
+   "title": "Methods and compositions for the production of orthogonal tRNA-aminoacyl tRNA synthetase pairs",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 223
+  },
+  {
+   "patent_id": "9322037",
+   "title": "Cas9-FokI fusion proteins and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 150
+  },
+  {
+   "patent_id": "9068179",
+   "title": "Methods for correcting presenilin point mutations",
+   "filing_year": 2014,
+   "grant_year": 2015,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 108
+  },
+  {
+   "patent_id": "9840699",
+   "title": "Methods for nucleic acid editing",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 102
+  },
+  {
+   "patent_id": "9163284",
+   "title": "Methods for identifying a target site of a Cas9 nuclease",
+   "filing_year": 2014,
+   "grant_year": 2015,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 98
+  },
+  {
+   "patent_id": "10113163",
+   "title": "Adenosine nucleobase editors and uses thereof",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 94
+  },
+  {
+   "patent_id": "9388430",
+   "title": "Cas9-recombinase fusion proteins and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 89
+  },
+  {
+   "patent_id": "9526784",
+   "title": "Delivery system for functional nucleases",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 86
+  },
+  {
+   "patent_id": "9228207",
+   "title": "Switchable gRNAs comprising aptamers",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 84
+  },
+  {
+   "patent_id": "9737604",
+   "title": "Use of cationic lipids to deliver CAS9",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 81
+  },
+  {
+   "patent_id": "9340799",
+   "title": "MRNA-sensing switchable gRNAs",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 80
+  },
+  {
+   "patent_id": "9340800",
+   "title": "Extended DNA-sensing GRNAS",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 80
+  },
+  {
+   "patent_id": "9359599",
+   "title": "Engineered transcription activator-like effector (TALE) domains and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 79
+  },
+  {
+   "patent_id": "10077453",
+   "title": "CAS9 proteins including ligand-dependent inteins",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 76
+  },
+  {
+   "patent_id": "7070928",
+   "title": "Evolving new molecular function",
+   "filing_year": 2002,
+   "grant_year": 2006,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "9322006",
+   "title": "Evaluation and improvement of nuclease cleavage specificity",
+   "filing_year": 2014,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "7491494",
+   "title": "Evolving new molecular function",
+   "filing_year": 2003,
+   "grant_year": 2009,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 74
+  },
+  {
+   "patent_id": "9267127",
+   "title": "Evolution of bond-forming enzymes",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 72
+  },
+  {
+   "patent_id": "10227581",
+   "title": "Engineered transcription activator-like effector (TALE) domains and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 70
+  },
+  {
+   "patent_id": "10167457",
+   "title": "Nucleobase editors and uses thereof",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 69
+  },
+  {
+   "patent_id": "7771935",
+   "title": "Evolving new molecular function",
+   "filing_year": 2004,
+   "grant_year": 2010,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 69
+  },
+  {
+   "patent_id": "7223545",
+   "title": "Evolving new molecular function",
+   "filing_year": 2004,
+   "grant_year": 2007,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 68
+  },
+  {
+   "patent_id": "7442160",
+   "title": "Evolving new molecular function",
+   "filing_year": 2005,
+   "grant_year": 2008,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 66
+  },
+  {
+   "patent_id": "7557068",
+   "title": "Evolving new molecular function",
+   "filing_year": 2003,
+   "grant_year": 2009,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 66
+  },
+  {
+   "patent_id": "10597679",
+   "title": "Switchable Cas9 nucleases and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2020,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 64
+  },
+  {
+   "patent_id": "10682410",
+   "title": "Delivery system for functional nucleases",
+   "filing_year": 2014,
+   "grant_year": 2020,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 63
+  },
+  {
+   "patent_id": "9023594",
+   "title": "Continuous directed evolution of proteins and nucleic acids",
+   "filing_year": 2009,
+   "grant_year": 2015,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 63
+  },
+  {
+   "patent_id": "9394537",
+   "title": "Continuous directed evolution",
+   "filing_year": 2011,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 63
+  },
+  {
+   "patent_id": "9999671",
+   "title": "Delivery of negatively charged proteins using cationic lipids",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 61
+  },
+  {
+   "patent_id": "11053481",
+   "title": "Fusions of Cas9 domains and nucleic acid-editing domains",
+   "filing_year": 2014,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 59
+  },
+  {
+   "patent_id": "7998904",
+   "title": "Evolving new molecular function",
+   "filing_year": 2005,
+   "grant_year": 2011,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 59
+  },
+  {
+   "patent_id": "11124782",
+   "title": "Cas variants for gene editing",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 58
+  },
+  {
+   "patent_id": "9771574",
+   "title": "Apparatus for continuous directed evolution of proteins and nucleic acids",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 58
+  },
+  {
+   "patent_id": "10465176",
+   "title": "Cas variants for gene editing",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 57
+  },
+  {
+   "patent_id": "10336997",
+   "title": "Continuous directed evolution",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 56
+  },
+  {
+   "patent_id": "10392674",
+   "title": "Evolution of site-specific recombinases",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 56
+  },
+  {
+   "patent_id": "10612011",
+   "title": "Evolution of TALENs",
+   "filing_year": 2016,
+   "grant_year": 2020,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 55
+  },
+  {
+   "patent_id": "10179911",
+   "title": "Negative selection and stringency modulation in continuous evolution systems",
+   "filing_year": 2015,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 54
+  },
+  {
+   "patent_id": "10323236",
+   "title": "Evaluation and improvement of nuclease cleavage specificity",
+   "filing_year": 2012,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 53
+  },
+  {
+   "patent_id": "7354761",
+   "title": "Methods and composition for the production of orthogonal tRNA-aminoacyltRNA synthetase pairs",
+   "filing_year": 2005,
+   "grant_year": 2008,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 53
+  },
+  {
+   "patent_id": "7368275",
+   "title": "In vivo incorporation of unnatural amino acids",
+   "filing_year": 2005,
+   "grant_year": 2008,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 51
+  },
+  {
+   "patent_id": "10508298",
+   "title": "Methods for identifying a target site of a CAS9 nuclease",
+   "filing_year": 2015,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 50
+  },
+  {
+   "patent_id": "11046948",
+   "title": "Engineered transcription activator-like effector (TALE) domains and uses thereof",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 49
+  },
+  {
+   "patent_id": "10704062",
+   "title": "CAS9 proteins including ligand-dependent inteins",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 48
+  },
+  {
+   "patent_id": "10947530",
+   "title": "Adenosine nucleobase editors and uses thereof",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 48
+  },
+  {
+   "patent_id": "7541450",
+   "title": "Ligand-dependent protein splicing",
+   "filing_year": 2007,
+   "grant_year": 2009,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 48
+  },
+  {
+   "patent_id": "10053725",
+   "title": "In situ interaction determination",
+   "filing_year": 2014,
+   "grant_year": 2018,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "10745677",
+   "title": "Editing of CCR5 receptor gene to protect against HIV infection",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "10858639",
+   "title": "CAS9 variants and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2020,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "10912833",
+   "title": "Delivery of negatively charged proteins using cationic lipids",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "10011868",
+   "title": "Reactivity-dependent and interaction-dependent PCR",
+   "filing_year": 2015,
+   "grant_year": 2018,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 46
+  },
+  {
+   "patent_id": "7638300",
+   "title": "In vivo incorporation of unnatural amino acids",
+   "filing_year": 2006,
+   "grant_year": 2009,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 46
+  },
+  {
+   "patent_id": "9221886",
+   "title": "Supercharged proteins for cell penetration",
+   "filing_year": 2010,
+   "grant_year": 2015,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 45
+  },
+  {
+   "patent_id": "10954548",
+   "title": "Nuclease profiling system",
+   "filing_year": 2014,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 44
+  },
+  {
+   "patent_id": "8030074",
+   "title": "In vivo incorporation of unnatural amino acids",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 44
+  },
+  {
+   "patent_id": "9200045",
+   "title": "Small molecule-dependent inteins and uses thereof",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 44
+  },
+  {
+   "patent_id": "7476500",
+   "title": "In vivo selection system for enzyme activity",
+   "filing_year": 2002,
+   "grant_year": 2009,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 43
+  },
+  {
+   "patent_id": "8017323",
+   "title": "Free reactant use in nucleic acid-templated synthesis",
+   "filing_year": 2006,
+   "grant_year": 2011,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 40
+  },
+  {
+   "patent_id": "7192739",
+   "title": "Ligand-dependent protein splicing",
+   "filing_year": 2005,
+   "grant_year": 2007,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "7713721",
+   "title": "Methods and composition for the production of orthogonal tRNA-aminoacyltRNA synthetase pairs",
+   "filing_year": 2004,
+   "grant_year": 2010,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "8975232",
+   "title": "Macrocyclic kinase inhibitors and uses thereof",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "9150626",
+   "title": "Protein surface remodeling",
+   "filing_year": 2007,
+   "grant_year": 2015,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "9243038",
+   "title": "Macrocyclic insulin-degrading enzyme (IDE) inhibitors and uses thereof",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 39
+  },
+  {
+   "patent_id": "8114648",
+   "title": "In vivo incorporation of unnatural amino acids",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 38
+  },
+  {
+   "patent_id": "8183178",
+   "title": "Iterated branching reaction pathways via nucleic acid-mediated chemistry",
+   "filing_year": 2006,
+   "grant_year": 2012,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 38
+  },
+  {
+   "patent_id": "10583201",
+   "title": "Efficient delivery of therapeutic molecules in vitro and in vivo",
+   "filing_year": 2015,
+   "grant_year": 2020,
+   "assignee": "Massachusetts Eye and Ear Infirmary",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "8206914",
+   "title": "Evolving new molecular function",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "8691729",
+   "title": "Reaction discovery system",
+   "filing_year": 2008,
+   "grant_year": 2014,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 37
+  },
+  {
+   "patent_id": "7807408",
+   "title": "Directed evolution of proteins",
+   "filing_year": 2005,
+   "grant_year": 2010,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 36
+  },
+  {
+   "patent_id": "8017755",
+   "title": "RNA-based transcriptional regulators",
+   "filing_year": 2004,
+   "grant_year": 2011,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 36
+  },
+  {
+   "patent_id": "8183012",
+   "title": "Methods and composition for the production of orthogonal tRNA-aminoacyltRNA synthetase pairs",
+   "filing_year": 2004,
+   "grant_year": 2012,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 36
+  },
+  {
+   "patent_id": "9434774",
+   "title": "Protein surface remodeling",
+   "filing_year": 2011,
+   "grant_year": 2016,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 36
+  },
+  {
+   "patent_id": "7678554",
+   "title": "Nucleic acid shuffling",
+   "filing_year": 2002,
+   "grant_year": 2010,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "7851658",
+   "title": "Palladium-catalyzed carbon-carbon bond forming reactions",
+   "filing_year": 2005,
+   "grant_year": 2010,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "7915025",
+   "title": "In vivo incorporation of unnatural amino acids",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "8012739",
+   "title": "Methods and compositions for the production of orthogonal tRNA-aminoacyl-tRNA synthetase pairs",
+   "filing_year": 2007,
+   "grant_year": 2011,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "8173364",
+   "title": "Methods and composition for the production of orthogonal tRNA-aminoacyl tRNA synthetase pairs",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "8173392",
+   "title": "In vivo incorporation of unnatural amino acids",
+   "filing_year": 2007,
+   "grant_year": 2012,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "9163271",
+   "title": "Methods and compositions for the production of orthogonal tRNA-aminoacyl tRNA synthetase pairs",
+   "filing_year": 2012,
+   "grant_year": 2015,
+   "assignee": "The Scripps Research Institute",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "9610322",
+   "title": "Macrocyclic insulin-degrading enzyme (IDE) inhibitors and uses thereof",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "10202593",
+   "title": "Evolved sortases and uses thereof",
+   "filing_year": 2014,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 30
+  },
+  {
+   "patent_id": "10407474",
+   "title": "Protein surface remodeling",
+   "filing_year": 2016,
+   "grant_year": 2019,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 25
+  },
+  {
+   "patent_id": "10640767",
+   "title": "Assay for exo-site binding molecules",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 23
+  },
+  {
+   "patent_id": "9175340",
+   "title": "Reactivity-dependent and interaction-dependent PCR",
+   "filing_year": 2010,
+   "grant_year": 2015,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 18
+  },
+  {
+   "patent_id": "10920208",
+   "title": "Evolution of proteases",
+   "filing_year": 2015,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "11104967",
+   "title": "Evolution of site-specific recombinases",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 11
+  },
+  {
+   "patent_id": "11078469",
+   "title": "Evolution of TALENs",
+   "filing_year": 2020,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "11040976",
+   "title": "Substrate selective inhibitors of insulin-degrading enzyme (IDE) and uses thereof",
+   "filing_year": 2016,
+   "grant_year": 2021,
+   "assignee": "President and Fellows of Harvard College",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "10258697",
+   "title": "Efficient delivery of therapeutic molecules in vitro and in vivo",
+   "filing_year": 2015,
+   "grant_year": 2019,
+   "assignee": "Massachusetts Eye and Ear Infirmary",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "11071790",
+   "title": "Method for efficient delivery of therapeutic molecules in vitro and in vivo",
+   "filing_year": 2015,
+   "grant_year": 2021,
+   "assignee": "Massachusetts Eye and Ear Infirmary",
+   "cited_by_patents": 1
+  }
+ ]
+}

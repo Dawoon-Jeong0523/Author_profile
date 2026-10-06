@@ -1,0 +1,65 @@
+{
+ "person": "John R. Yates III",
+ "options": [
+  "for the development of mass-spectrometry-based proteomics — John R. Yates III, Matthias Mann, Ruedi Aebersold"
+ ],
+ "birth_year": 1958,
+ "patents": [
+  {
+   "patent_id": "5538897",
+   "title": "Use of mass spectrometry fragmentation patterns of peptides to identify amino acid sequences in databases",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "University of Washington",
+   "cited_by_patents": 174
+  },
+  {
+   "patent_id": "6017693",
+   "title": "Identification of nucleotides, amino acids, or carbohydrates by mass spectrometry",
+   "filing_year": 1996,
+   "grant_year": 2000,
+   "assignee": "University of Washington",
+   "cited_by_patents": 99
+  },
+  {
+   "patent_id": "7230235",
+   "title": "Automatic detection of quality spectra",
+   "filing_year": 2005,
+   "grant_year": 2007,
+   "assignee": "Palo Alto Research Center Incorporated",
+   "cited_by_patents": 10
+  },
+  {
+   "patent_id": "6969757",
+   "title": "Differential labeling for quantitative analysis of complex protein mixtures",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "Syngenta Participations AG",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "7166436",
+   "title": "Differential labeling for quantitative analysis of complex protein mixtures",
+   "filing_year": 2002,
+   "grant_year": 2007,
+   "assignee": "Syngenta Participations AG",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8314212",
+   "title": "Plasminogen receptor PLG-RKT and antibodies thereof",
+   "filing_year": 2009,
+   "grant_year": 2012,
+   "assignee": "Lindsey Miles",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "8680242",
+   "title": "Plasminogen receptor, polypeptides and antibodies thereof",
+   "filing_year": 2012,
+   "grant_year": 2014,
+   "assignee": "Lindsey Miles",
+   "cited_by_patents": 0
+  }
+ ]
+}

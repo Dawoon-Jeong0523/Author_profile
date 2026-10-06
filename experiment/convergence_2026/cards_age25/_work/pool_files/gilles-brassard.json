@@ -1,0 +1,655 @@
+{
+ "person": "Gilles Brassard",
+ "profile": "A5110284072",
+ "ids": [
+  "A5110284072",
+  "A5040617478"
+ ],
+ "options": [
+  "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms — Charles H. Bennett, Gilles Brassard, Peter W. Shor"
+ ],
+ "birth_year": 1955,
+ "cutoff_year": 1980,
+ "works": [
+  {
+   "paper_id": "W1978553093",
+   "year": 1993,
+   "cited_by_count": 13273,
+   "title": "Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015179126",
+   "year": 2014,
+   "cited_by_count": 3564,
+   "title": "Quantum cryptography: Public key distribution and coin tossing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062258079",
+   "year": 1996,
+   "cited_by_count": 2827,
+   "title": "Purification of Noisy Entanglement and Faithful Teleportation via Noisy Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997124098",
+   "year": 1992,
+   "cited_by_count": 2362,
+   "title": "Quantum cryptography without Bell’s theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4214950786",
+   "year": 1992,
+   "cited_by_count": 1558,
+   "title": "Experimental quantum cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006290558",
+   "year": 1997,
+   "cited_by_count": 1442,
+   "title": "Strengths and Weaknesses of Quantum Computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154300278",
+   "year": 1995,
+   "cited_by_count": 1379,
+   "title": "Generalized privacy amplification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1959936891",
+   "year": 2000,
+   "cited_by_count": 1162,
+   "title": "Limitations on Practical Quantum Cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151433956",
+   "year": 1988,
+   "cited_by_count": 959,
+   "title": "Minimum disclosure proofs of knowledge",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007661134",
+   "year": 1988,
+   "cited_by_count": 867,
+   "title": "Privacy Amplification by Public Discussion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3217033513",
+   "year": 2000,
+   "cited_by_count": 545,
+   "title": "Quantum Amplitude Amplification and Estimation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108732680",
+   "year": 2006,
+   "cited_by_count": 397,
+   "title": "Limit on Nonlocality in Any World in Which Communication Complexity Is Not Trivial",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4244685374",
+   "year": 1992,
+   "cited_by_count": 310,
+   "title": "Quantum Cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1525305151",
+   "year": 1993,
+   "cited_by_count": 273,
+   "title": "Teleporting an unknown quantum state via dual classical and EPR channels",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1942039577",
+   "year": 1997,
+   "cited_by_count": 262,
+   "title": "Purification of noisy entanglement and faithful teleportation via noisy channels (vol 76, pg 722, 1996)",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078345446",
+   "year": 1999,
+   "cited_by_count": 243,
+   "title": "Cost of Exactly Simulating Quantum Entanglement with Classical Communication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031056773",
+   "year": 2012,
+   "cited_by_count": 208,
+   "title": "Quantum speed-up for unsupervised learning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993646690",
+   "year": 1998,
+   "cited_by_count": 174,
+   "title": "Teleportation as a quantum computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079749988",
+   "year": 1989,
+   "cited_by_count": 165,
+   "title": "Experimental quantum cryptography: the dawn of a new era for quantum cryptography: the experimental prototype is working]",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153708829",
+   "year": 1986,
+   "cited_by_count": 154,
+   "title": "Information theoretic reductions among disclosure problems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154839628",
+   "year": 2002,
+   "cited_by_count": 152,
+   "title": "A quantum bit commitment scheme provably unbreakable by both parties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1793119275",
+   "year": 2003,
+   "cited_by_count": 134,
+   "title": "Quantum Communication Complexity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109371739",
+   "year": 1997,
+   "cited_by_count": 131,
+   "title": "Quantum cryptanalysis of hash and claw-free functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020915469",
+   "year": 2008,
+   "cited_by_count": 122,
+   "title": "Alambic: a privacy-preserving recommender system for electronic commerce",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2313440826",
+   "year": 2011,
+   "cited_by_count": 113,
+   "title": "WITHDRAWN: Quantum cryptography: Public key distribution and coin tossing",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032897227",
+   "year": 2004,
+   "cited_by_count": 106,
+   "title": "Quantum computing without entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099188893",
+   "year": 1986,
+   "cited_by_count": 106,
+   "title": "Non-transitive transfer of confidence: A perfect zero-knowledge interactive protocol for SAT and beyond",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147435884",
+   "year": 2007,
+   "cited_by_count": 104,
+   "title": "Quantum clustering algorithms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079429651",
+   "year": 1994,
+   "cited_by_count": 99,
+   "title": "Oracle Quantum Computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052187872",
+   "year": 1991,
+   "cited_by_count": 98,
+   "title": "Secure implementation of identification systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123789695",
+   "year": 1996,
+   "cited_by_count": 96,
+   "title": "Oblivious transfers and intersecting codes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079092820",
+   "year": 1997,
+   "cited_by_count": 93,
+   "title": "Searching a Quantum Phone Book",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156313614",
+   "year": 2003,
+   "cited_by_count": 74,
+   "title": "The quantum challenge to structural complexity theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042830710",
+   "year": 2005,
+   "cited_by_count": 68,
+   "title": "Is information the key?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985684781",
+   "year": 1997,
+   "cited_by_count": 64,
+   "title": "Purification of Noisy Entanglement and Faithful Teleportation via Noisy Channels[Phys. Rev. Lett. 76, 722 (1996)]",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033966971",
+   "year": 2003,
+   "cited_by_count": 60,
+   "title": "Oblivious Transfers and Privacy Amplification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2577451181",
+   "year": 1998,
+   "cited_by_count": 57,
+   "title": "Quantum computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031638352",
+   "year": 1991,
+   "cited_by_count": 56,
+   "title": "Constant-round perfect zero-knowledge computationally convincing protocols",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993066553",
+   "year": 1996,
+   "cited_by_count": 54,
+   "title": "25 years of quantum cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021276554",
+   "year": 2011,
+   "cited_by_count": 53,
+   "title": "Experimental loss-tolerant quantum coin flipping",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W147114273",
+   "year": 1997,
+   "cited_by_count": 51,
+   "title": "Fundamentos de algoritmia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088141763",
+   "year": 2003,
+   "cited_by_count": 51,
+   "title": "Multiuser quantum key distribution using wavelength division multiplexing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046221191",
+   "year": 2005,
+   "cited_by_count": 43,
+   "title": "A robust modeling and design approach for dynamically loaded and digitally linearized Doherty amplifiers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995724463",
+   "year": 2009,
+   "cited_by_count": 41,
+   "title": "Entanglement cost of nonlocal measurements",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090356336",
+   "year": 2006,
+   "cited_by_count": 40,
+   "title": "Privacy-preserving demographic filtering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3125254270",
+   "year": 2014,
+   "cited_by_count": 40,
+   "title": "Quantum Cryptography II: How to re-use a one-time pad safely even if P=NP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058177464",
+   "year": 1988,
+   "cited_by_count": 39,
+   "title": "The generation of random numbers that are probably prime",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125277560",
+   "year": 2008,
+   "cited_by_count": 39,
+   "title": "Experimental Demonstration of a Hybrid Privacy-Preserving Recommender System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1547393723",
+   "year": 2005,
+   "cited_by_count": 34,
+   "title": "Recasting Mermin's multi-player game into the framework of pseudo-telepathy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009562587",
+   "year": 1987,
+   "cited_by_count": 34,
+   "title": "Quantum public key distribution reinvented",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117481555",
+   "year": 2009,
+   "cited_by_count": 34,
+   "title": "Fair loss-tolerant quantum coin flipping",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063513145",
+   "year": 1994,
+   "cited_by_count": 31,
+   "title": "Reduction of Quantum Entropy by Reversible Extraction of Classical Information",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2294439931",
+   "year": 1983,
+   "cited_by_count": 31,
+   "title": "Relativized cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118909328",
+   "year": 2014,
+   "cited_by_count": 30,
+   "title": "Experimental heat-bath cooling of spins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1612232219",
+   "year": 1997,
+   "cited_by_count": 28,
+   "title": "A brief review on the impossibility of quantum bit commitment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028429158",
+   "year": 2008,
+   "cited_by_count": 25,
+   "title": "Quantum Merkle Puzzles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119321147",
+   "year": 2004,
+   "cited_by_count": 23,
+   "title": "Quantum communication complexity: a survey",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2601248643",
+   "year": 1997,
+   "cited_by_count": 23,
+   "title": "Strengths and Weaknesses of Quantum Computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084821384",
+   "year": 2004,
+   "cited_by_count": 21,
+   "title": "TelePOVM—A generalized quantum teleportation scheme",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986870665",
+   "year": 2014,
+   "cited_by_count": 20,
+   "title": "Prospects and limitations of algorithmic cooling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1906651570",
+   "year": 2005,
+   "cited_by_count": 19,
+   "title": "Oracle Quantum Computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966024510",
+   "year": 1989,
+   "cited_by_count": 17,
+   "title": "A generalization of Hellman's extension to Shannon's approach to cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062136577",
+   "year": 1994,
+   "cited_by_count": 17,
+   "title": "Quantum computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165832438",
+   "year": 2008,
+   "cited_by_count": 17,
+   "title": "New Time-Domain Voltage and Current Waveform Measurement Setup for Power Amplifier Characterization and Optimization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075092844",
+   "year": 2005,
+   "cited_by_count": 14,
+   "title": "Personal Knowledge Publishing: Fostering Interdisciplinary Communication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009785309",
+   "year": 2011,
+   "cited_by_count": 13,
+   "title": "The conundrum of secure positioning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038517502",
+   "year": 2014,
+   "cited_by_count": 13,
+   "title": "Noisy Interactive Quantum Communication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080123784",
+   "year": 1995,
+   "cited_by_count": 13,
+   "title": "Subquadratic zero-knowledge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140445848",
+   "year": 2002,
+   "cited_by_count": 12,
+   "title": "Subquadratic zero-knowledge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W162279519",
+   "year": 2004,
+   "cited_by_count": 11,
+   "title": "Entanglement and Wavelength Division Multiplexing for Quantum Cryptography Networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1886800124",
+   "year": 2002,
+   "cited_by_count": 11,
+   "title": "Quantum information theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3158391042",
+   "year": 2010,
+   "cited_by_count": 11,
+   "title": "Can Quantum-Mechanical Description of Physical Reality Be Considered Correct?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965379157",
+   "year": 2012,
+   "cited_by_count": 10,
+   "title": "Reconstructing Profiles from Information Disseminated on the Internet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079467789",
+   "year": 1988,
+   "cited_by_count": 10,
+   "title": "The generation of random permutations on the fly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146549790",
+   "year": 2002,
+   "cited_by_count": 9,
+   "title": "Thermal characterization of MESFETs using I-V pulsed and DC measurements",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2243611841",
+   "year": 2015,
+   "cited_by_count": 9,
+   "title": "Exact Classical Simulation of the Quantum-Mechanical GHZ Distribution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098873601",
+   "year": 2008,
+   "cited_by_count": 8,
+   "title": "Loss-Tolerant Quantum Coin Flipping",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011468192",
+   "year": 1981,
+   "cited_by_count": 7,
+   "title": "A time-luck tradeoff in relativized cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054902985",
+   "year": 2006,
+   "cited_by_count": 7,
+   "title": "CAN QUANTUM-MECHANICAL DESCRIPTION OF PHYSICAL REALITY BE CONSIDERED INCOMPLETE?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2744644870",
+   "year": 2017,
+   "cited_by_count": 7,
+   "title": "Kolmogorov amplification from Bell correlation",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

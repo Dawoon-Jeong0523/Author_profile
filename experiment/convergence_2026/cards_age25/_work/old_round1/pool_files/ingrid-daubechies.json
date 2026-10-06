@@ -1,0 +1,430 @@
+{
+ "person": "Ingrid Daubechies",
+ "birth_year": 1954,
+ "cutoff_year": 1979,
+ "options": [
+  "for the development of wavelet theory and multiresolution signal analysis — Yves Meyer, Stéphane Mallat, Ingrid Daubechies"
+ ],
+ "works": [
+  {
+   "paper_id": "W2098914003",
+   "year": 1988,
+   "cited_by_count": 8106,
+   "C_5_pctl": 1.0,
+   "title": "Orthonormal bases of compactly supported wavelets"
+  },
+  {
+   "paper_id": "W1996021349",
+   "year": 1990,
+   "cited_by_count": 6347,
+   "C_5_pctl": 1.0,
+   "title": "The wavelet transform, time-frequency localization and signal analysis"
+  },
+  {
+   "paper_id": "W2115706991",
+   "year": 2004,
+   "cited_by_count": 4825,
+   "C_5_pctl": 1.0,
+   "title": "An iterative thresholding algorithm for linear inverse problems with a sparsity constraint"
+  },
+  {
+   "paper_id": "W3005363104",
+   "year": 1992,
+   "cited_by_count": 2624,
+   "C_5_pctl": 1.0,
+   "title": "Biorthogonal bases of compactly supported wavelets"
+  },
+  {
+   "paper_id": "W2090218979",
+   "year": 2010,
+   "cited_by_count": 2334,
+   "C_5_pctl": 1.0,
+   "title": "Synchrosqueezed wavelet transforms: An empirical mode decomposition-like tool"
+  },
+  {
+   "paper_id": "W4251101141",
+   "year": 1998,
+   "cited_by_count": 1837,
+   "C_5_pctl": 1.0,
+   "title": "Factoring wavelet transforms into lifting steps"
+  },
+  {
+   "paper_id": "W2119883478",
+   "year": 2009,
+   "cited_by_count": 1292,
+   "C_5_pctl": 1.0,
+   "title": "Iteratively reweighted least squares minimization for sparse recovery"
+  },
+  {
+   "paper_id": "W1975358183",
+   "year": 1998,
+   "cited_by_count": 1082,
+   "C_5_pctl": 1.0,
+   "title": "Wavelet Transforms That Map Integers to Integers"
+  },
+  {
+   "paper_id": "W2021589053",
+   "year": 1993,
+   "cited_by_count": 1026,
+   "C_5_pctl": 1.0,
+   "title": "Wavelets on the Interval and Fast Wavelet Transforms"
+  },
+  {
+   "paper_id": "W2125555749",
+   "year": 2003,
+   "cited_by_count": 761,
+   "C_5_pctl": 1.0,
+   "title": "Framelets: MRA-based constructions of wavelet frames"
+  },
+  {
+   "paper_id": "W2123487365",
+   "year": 1988,
+   "cited_by_count": 635,
+   "C_5_pctl": 0.99,
+   "title": "Time-frequency localization operators: a geometric phase space approach"
+  },
+  {
+   "paper_id": "W2105630053",
+   "year": 2009,
+   "cited_by_count": 485,
+   "C_5_pctl": 0.99,
+   "title": "Sparse and stable Markowitz portfolios"
+  },
+  {
+   "paper_id": "W2030934791",
+   "year": 1992,
+   "cited_by_count": 435,
+   "C_5_pctl": 1.0,
+   "title": "Two-Scale Difference Equations II. Local Regularity, Infinite Products of Matrices and Fractals"
+  },
+  {
+   "paper_id": "W2140832824",
+   "year": 1993,
+   "cited_by_count": 397,
+   "C_5_pctl": 0.99,
+   "title": "Orthonormal Bases of Compactly Supported Wavelets II. Variations on a Theme"
+  },
+  {
+   "paper_id": "W2003989039",
+   "year": 1991,
+   "cited_by_count": 379,
+   "C_5_pctl": 1.0,
+   "title": "Two-Scale Difference Equations. I. Existence and Global Regularity of Solutions"
+  },
+  {
+   "paper_id": "W2103966928",
+   "year": 1992,
+   "cited_by_count": 354,
+   "C_5_pctl": 0.98,
+   "title": "Sets of matrices all infinite products of which converge"
+  },
+  {
+   "paper_id": "W2104291851",
+   "year": 2002,
+   "cited_by_count": 291,
+   "C_5_pctl": 1.0,
+   "title": "Lossless image compression using integer to integer wavelet transforms"
+  },
+  {
+   "paper_id": "W2108240927",
+   "year": 2008,
+   "cited_by_count": 281,
+   "C_5_pctl": 0.97,
+   "title": "Image processing for artist identification"
+  },
+  {
+   "paper_id": "W1973858921",
+   "year": 1993,
+   "cited_by_count": 258,
+   "C_5_pctl": 0.99,
+   "title": "Non-separable bidimensional wavelet bases"
+  },
+  {
+   "paper_id": "W2058408209",
+   "year": 2009,
+   "cited_by_count": 239,
+   "C_5_pctl": 1.0,
+   "title": "Independent component analysis for brain fMRI does not select for independence"
+  },
+  {
+   "paper_id": "W1993915146",
+   "year": 1991,
+   "cited_by_count": 237,
+   "C_5_pctl": 0.99,
+   "title": "A Simple Wilson Orthonormal Basis with Exponential Decay"
+  },
+  {
+   "paper_id": "W1672619609",
+   "year": 2016,
+   "cited_by_count": 190,
+   "C_5_pctl": 0.99,
+   "title": "ConceFT: concentration of frequency and time via a multitapered synchrosqueezed transform"
+  },
+  {
+   "paper_id": "W1989877067",
+   "year": 2003,
+   "cited_by_count": 189,
+   "C_5_pctl": 0.98,
+   "title": "Approximating a bandlimited function using very coarsely quantized data: A family of stable sigma-delta modulators of arbitrary order"
+  },
+  {
+   "paper_id": "W3160447895",
+   "year": 2021,
+   "cited_by_count": 179,
+   "C_5_pctl": 1.0,
+   "title": "Nonlinear Approximation and (Deep) $$\\mathrm {ReLU}$$ Networks"
+  },
+  {
+   "paper_id": "W2000771799",
+   "year": 2007,
+   "cited_by_count": 178,
+   "C_5_pctl": 0.99,
+   "title": "Tomographic inversion using ℓ1-norm regularization of wavelet coefficients"
+  },
+  {
+   "paper_id": "W2083205928",
+   "year": 2003,
+   "cited_by_count": 173,
+   "C_5_pctl": 0.97,
+   "title": "Harmonic Analysis of the space BV"
+  },
+  {
+   "paper_id": "W2047936535",
+   "year": 1988,
+   "cited_by_count": 169,
+   "C_5_pctl": 0.94,
+   "title": "Time-frequency localisation operators-a geometric phase space approach: II. The use of dilations"
+  },
+  {
+   "paper_id": "W2134753888",
+   "year": 2011,
+   "cited_by_count": 167,
+   "C_5_pctl": 0.99,
+   "title": "Algorithms to automatically quantify the geometric similarity of anatomical surfaces"
+  },
+  {
+   "paper_id": "W2073027160",
+   "year": 2011,
+   "cited_by_count": 167,
+   "C_5_pctl": 0.98,
+   "title": "Comparing Dirichlet normal surface energy of tooth crowns, a new technique of molar shape quantification for dietary inference, with previous methods in isolation and in combination"
+  },
+  {
+   "paper_id": "W2107829755",
+   "year": 2001,
+   "cited_by_count": 165,
+   "C_5_pctl": 0.99,
+   "title": "Tree Approximation and Optimal Encoding"
+  },
+  {
+   "paper_id": "W2045094421",
+   "year": 2005,
+   "cited_by_count": 162,
+   "C_5_pctl": 0.99,
+   "title": "Variational image restoration by means of wavelets: Simultaneous decomposition, deblurring, and denoising"
+  },
+  {
+   "paper_id": "W2133368951",
+   "year": 2014,
+   "cited_by_count": 161,
+   "C_5_pctl": 0.99,
+   "title": "A New Fully Automated Approach for Aligning and Comparing Shapes"
+  },
+  {
+   "paper_id": "W2320084686",
+   "year": 1993,
+   "cited_by_count": 158,
+   "C_5_pctl": 0.94,
+   "title": "Ten Lectures on Wavelets."
+  },
+  {
+   "paper_id": "W1592007248",
+   "year": 1992,
+   "cited_by_count": 154,
+   "C_5_pctl": 0.97,
+   "title": "A stability criterion for biorthogonal wavelet bases and their related subband coding scheme"
+  },
+  {
+   "paper_id": "W2049776646",
+   "year": 1983,
+   "cited_by_count": 144,
+   "C_5_pctl": 0.93,
+   "title": "An uncertainty principle for fermions with generalized kinetic energy"
+  },
+  {
+   "paper_id": "W2136109306",
+   "year": 2002,
+   "cited_by_count": 141,
+   "C_5_pctl": 0.98,
+   "title": "On the importance of combining wavelet-based nonlinear approximation with coding strategies"
+  },
+  {
+   "paper_id": "W2145003640",
+   "year": 2007,
+   "cited_by_count": 135,
+   "C_5_pctl": 0.99,
+   "title": "Iteratively solving linear inverse problems under general convex constraints"
+  },
+  {
+   "paper_id": "W2103195067",
+   "year": 1983,
+   "cited_by_count": 127,
+   "C_5_pctl": 0.97,
+   "title": "One-electron relativistic molecules with Coulomb interaction"
+  },
+  {
+   "paper_id": "W2004766860",
+   "year": 1997,
+   "cited_by_count": 121,
+   "C_5_pctl": 1.0,
+   "title": "Regularity of refinable function vectors"
+  },
+  {
+   "paper_id": "W2165038224",
+   "year": 1999,
+   "cited_by_count": 121,
+   "C_5_pctl": 0.99,
+   "title": "Wavelets on irregular point sets"
+  },
+  {
+   "paper_id": "W1984918318",
+   "year": 2011,
+   "cited_by_count": 121,
+   "C_5_pctl": 0.99,
+   "title": "ONE OR TWO FREQUENCIES? THE SYNCHROSQUEEZING ANSWERS"
+  },
+  {
+   "paper_id": "W2162455915",
+   "year": 2002,
+   "cited_by_count": 116,
+   "C_5_pctl": 0.95,
+   "title": "Image coding using vector quantization in the wavelet transform domain"
+  },
+  {
+   "paper_id": "W2168408847",
+   "year": 1988,
+   "cited_by_count": 114,
+   "C_5_pctl": 0.96,
+   "title": "Frames in the bargmann space of entire functions"
+  },
+  {
+   "paper_id": "W2046560352",
+   "year": 2010,
+   "cited_by_count": 109,
+   "C_5_pctl": 0.95,
+   "title": "Herpesviruses carrying a Brainbow cassette reveal replication and expression of limited numbers of incoming genomes"
+  },
+  {
+   "paper_id": "W2116751005",
+   "year": 1997,
+   "cited_by_count": 106,
+   "C_5_pctl": 0.98,
+   "title": "On the approximation power of convolution-based least squares versus interpolation"
+  },
+  {
+   "paper_id": "W2019113134",
+   "year": 1996,
+   "cited_by_count": 103,
+   "C_5_pctl": 0.99,
+   "title": "A new technique to estimate the regularity of refinable functions"
+  },
+  {
+   "paper_id": "W2153035839",
+   "year": 2011,
+   "cited_by_count": 103,
+   "C_5_pctl": 0.99,
+   "title": "Solving or resolving global tomographic models with spherical wavelets, and the scale and sparsity of seismic heterogeneity"
+  },
+  {
+   "paper_id": "W2030735335",
+   "year": 2012,
+   "cited_by_count": 96,
+   "C_5_pctl": 0.96,
+   "title": "Crack detection and inpainting for virtual restoration of paintings: The case of the Ghent Altarpiece"
+  },
+  {
+   "paper_id": "W2077031952",
+   "year": 2010,
+   "cited_by_count": 94,
+   "C_5_pctl": 0.99,
+   "title": "Symmetry factored embedding and distance"
+  },
+  {
+   "paper_id": "W2089416963",
+   "year": 1985,
+   "cited_by_count": 91,
+   "C_5_pctl": 0.92,
+   "title": "Quantum-mechanical path integrals with Wiener measure for all polynomial Hamiltonians. II"
+  },
+  {
+   "paper_id": "W1970957032",
+   "year": 1999,
+   "cited_by_count": 84,
+   "C_5_pctl": 0.98,
+   "title": "Regularity of Irregular Subdivision"
+  },
+  {
+   "paper_id": "W2074551095",
+   "year": 2011,
+   "cited_by_count": 82,
+   "C_5_pctl": 0.99,
+   "title": "Conformal Wasserstein distances: Comparing surfaces in polynomial time"
+  },
+  {
+   "paper_id": "W1976496742",
+   "year": 2014,
+   "cited_by_count": 82,
+   "C_5_pctl": 0.99,
+   "title": "A Bayesian Nonparametric Approach to Image Super-Resolution"
+  },
+  {
+   "paper_id": "W2047884866",
+   "year": 1993,
+   "cited_by_count": 82,
+   "C_5_pctl": 0.91,
+   "title": "On the Instability of Arbitrary Biorthogonal Wavelet Packets"
+  },
+  {
+   "paper_id": "W2043440570",
+   "year": 2004,
+   "cited_by_count": 74,
+   "C_5_pctl": 0.98,
+   "title": "Normal Multiresolution Approximation of Curves"
+  },
+  {
+   "paper_id": "W2076198220",
+   "year": 2002,
+   "cited_by_count": 72,
+   "C_5_pctl": 0.9,
+   "title": "The Canonical Dual Frame of a Wavelet Frame"
+  },
+  {
+   "paper_id": "W2008511147",
+   "year": 1984,
+   "cited_by_count": 72,
+   "C_5_pctl": 0.89,
+   "title": "Quantum Mechanical Path Integrals with Wiener Measures for all Polynomial Hamiltonians"
+  },
+  {
+   "paper_id": "W2146775659",
+   "year": 2008,
+   "cited_by_count": 68,
+   "C_5_pctl": 0.96,
+   "title": "Iteratively Re-weighted Least Squares minimization: Proof of faster than linear rate for sparse recovery"
+  },
+  {
+   "paper_id": "W1991143958",
+   "year": 2011,
+   "cited_by_count": 68,
+   "C_5_pctl": 0.96,
+   "title": "Capturing Ridge Functions in High Dimensions from Point Queries"
+  },
+  {
+   "paper_id": "W2164503390",
+   "year": 2009,
+   "cited_by_count": 68,
+   "C_5_pctl": 0.8,
+   "title": "Detection of forgery in paintings using supervised learning"
+  }
+ ]
+}

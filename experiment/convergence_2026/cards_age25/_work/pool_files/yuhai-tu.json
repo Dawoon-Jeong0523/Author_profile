@@ -1,0 +1,655 @@
+{
+ "person": "Yuhai Tu",
+ "profile": "A5101587306",
+ "ids": [
+  "A5101587306",
+  "A5101587305"
+ ],
+ "options": [
+  "for the formulation of the hydrodynamic theories of active matter and flocking — John Toner, Sriram Ramaswamy, Yuhai Tu"
+ ],
+ "birth_year": 1968,
+ "cutoff_year": 1993,
+ "works": [
+  {
+   "paper_id": "W2060203271",
+   "year": 1998,
+   "cited_by_count": 1547,
+   "title": "Flocks, herds, and schools: A quantitative theory of flocking",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063134919",
+   "year": 1995,
+   "cited_by_count": 1174,
+   "title": "Long-Range Order in a Two-Dimensional Dynamical XY Model: How Birds Fly Together",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105218727",
+   "year": 2005,
+   "cited_by_count": 974,
+   "title": "Hydrodynamics and phases of flocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115470184",
+   "year": 2012,
+   "cited_by_count": 763,
+   "title": "Mitochondrial dynamics regulates migration and invasion of breast cancer cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044977617",
+   "year": 2001,
+   "cited_by_count": 455,
+   "title": "Weighted Evolving Networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983388907",
+   "year": 2012,
+   "cited_by_count": 445,
+   "title": "The energy–speed–accuracy trade-off in sensory adaptation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089293352",
+   "year": 2003,
+   "cited_by_count": 355,
+   "title": "Moving and staying together without a leader",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992717202",
+   "year": 2008,
+   "cited_by_count": 288,
+   "title": "Modeling the chemotactic response of Escherichia coli to time-varying stimuli",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081486859",
+   "year": 2009,
+   "cited_by_count": 267,
+   "title": "Logarithmic Sensing in Escherichia coli Bacterial Chemotaxis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131591423",
+   "year": 2010,
+   "cited_by_count": 259,
+   "title": "A modular gradient‐sensing network for chemotaxis in Escherichia coli revealed by responses to time‐varying stimuli",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037888290",
+   "year": 2000,
+   "cited_by_count": 241,
+   "title": "Structure and Energetics of the Si- SiO2 Interface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167681720",
+   "year": 2003,
+   "cited_by_count": 216,
+   "title": "Identification of Hodgkin and Reed-Sternberg cell-specific genes by gene expression profiling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4241400564",
+   "year": 2003,
+   "cited_by_count": 200,
+   "title": "Identification of Hodgkin and Reed-Sternberg cell-specific genes by gene expression profiling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1516680908",
+   "year": 2000,
+   "cited_by_count": 189,
+   "title": "Analysis of gene expression microarrays for phenotype classification.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123834061",
+   "year": 2013,
+   "cited_by_count": 187,
+   "title": "Quantitative Modeling of Bacterial Chemotaxis: Signal Amplification and Accurate Adaptation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1916389823",
+   "year": 2015,
+   "cited_by_count": 176,
+   "title": "The free-energy cost of accurate biochemical oscillations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994031217",
+   "year": 2004,
+   "cited_by_count": 175,
+   "title": "Tracking CD40 signaling during germinal center development",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026474050",
+   "year": 2008,
+   "cited_by_count": 161,
+   "title": "The nonequilibrium mechanism for ultrasensitivity in a biological switch: Sensing by Maxwell's demons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077919298",
+   "year": 2005,
+   "cited_by_count": 159,
+   "title": "An allosteric model for heterogeneous receptor complexes: Understanding bacterial chemotaxis responses to multiple stimuli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974917583",
+   "year": 2009,
+   "cited_by_count": 141,
+   "title": "Upregulation of PIP3-dependent Rac exchanger 1 (P-Rex1) promotes prostate cancer metastasis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996933413",
+   "year": 2005,
+   "cited_by_count": 139,
+   "title": "How White Noise Generates Power-Law Switching in Bacterial Flagellar Motors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088923717",
+   "year": 1998,
+   "cited_by_count": 138,
+   "title": "Sound Waves and the Absence of Galilean Invariance in Flocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121150592",
+   "year": 2004,
+   "cited_by_count": 137,
+   "title": "Reconstructing biological networks using conditional correlation analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044151431",
+   "year": 2010,
+   "cited_by_count": 132,
+   "title": "Quantitative Modeling of Escherichia coli Chemotactic Motion in Environments Varying in Space and Time",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2336183819",
+   "year": 2003,
+   "cited_by_count": 130,
+   "title": "Identification of a global gene expression signature of B-chronic lymphocytic leukemia.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160756577",
+   "year": 1998,
+   "cited_by_count": 126,
+   "title": "Properties of a Continuous-Random-Network Model for Amorphous Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171936986",
+   "year": 2002,
+   "cited_by_count": 125,
+   "title": "Systematic Learning of Gene Functional Classes From DNA Array Expression Data by Using Multilayer Perceptrons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053262399",
+   "year": 2004,
+   "cited_by_count": 118,
+   "title": "Origin of Apparent Critical Thickness for Island Formation in Heteroepitaxy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071526531",
+   "year": 2003,
+   "cited_by_count": 115,
+   "title": "Quantitative modeling of sensitivity in bacterial chemotaxis: The role of coupling among different chemoreceptor species",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998749219",
+   "year": 2007,
+   "cited_by_count": 111,
+   "title": "Coarsening, Mixing, and Motion: The Complex Evolution of Epitaxial Islands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2592061190",
+   "year": 2017,
+   "cited_by_count": 90,
+   "title": "Bacterial flagella grow through an injection-diffusion mechanism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009818585",
+   "year": 2007,
+   "cited_by_count": 89,
+   "title": "Effects of Adaptation in Maintaining High Sensitivity over a Wide Range of Backgrounds for Escherichia coli Chemotaxis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094531244",
+   "year": 2001,
+   "cited_by_count": 88,
+   "title": "Active and passive particles: Modeling beads in a bacterial bath",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002708699",
+   "year": 1997,
+   "cited_by_count": 86,
+   "title": "Systems with Multiplicative Noise: Critical Behavior from KPZ Equation and Numerics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2983197965",
+   "year": 2019,
+   "cited_by_count": 84,
+   "title": "The energy cost and optimal design for synchronization of coupled molecular oscillators",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072557318",
+   "year": 1994,
+   "cited_by_count": 83,
+   "title": "Chaotic domains: A numerical investigation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2329248684",
+   "year": 2016,
+   "cited_by_count": 83,
+   "title": "Information processing in bacteria: memory, computation, and statistical physics: a key issues review",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972390297",
+   "year": 1996,
+   "cited_by_count": 77,
+   "title": "Phase Structure of Systems with Multiplicative Noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2257267783",
+   "year": 2016,
+   "cited_by_count": 76,
+   "title": "Distinct signaling of Drosophila chemoreceptors in olfactory sensory neurons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1596494561",
+   "year": 2009,
+   "cited_by_count": 74,
+   "title": "Spatiotemporal patterns of electrocorticographic very fast oscillations (>80 Hz) consistent with a network model based on electrical coupling between principal neurons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092748374",
+   "year": 2002,
+   "cited_by_count": 73,
+   "title": "Microscopic Dynamics of Silicon Oxidation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983921982",
+   "year": 2000,
+   "cited_by_count": 70,
+   "title": "How robust is the Internet?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2407381016",
+   "year": 1999,
+   "cited_by_count": 67,
+   "title": "The development of new antimalarial drugs: qinghaosu and dihydro-qinghaosu.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021313599",
+   "year": 2003,
+   "cited_by_count": 65,
+   "title": "Ising Model of Cardiac Thin Filament Activation with Nearest-Neighbor Cooperative Interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2774136235",
+   "year": 2017,
+   "cited_by_count": 64,
+   "title": "Adaptation in Living Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086714300",
+   "year": 2012,
+   "cited_by_count": 59,
+   "title": "Pathway-Based Mean-Field Model forEscherichia coliChemotaxis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3130584495",
+   "year": 2021,
+   "cited_by_count": 57,
+   "title": "The inverse variance–flatness relation in stochastic gradient descent is critical for finding flat minima",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1620837969",
+   "year": 2015,
+   "cited_by_count": 56,
+   "title": "Free Energy Cost of Reducing Noise while Maintaining a High Sensitivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107548729",
+   "year": 2004,
+   "cited_by_count": 55,
+   "title": "Effects of Receptor Interaction in Bacterial Chemotaxis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3165870816",
+   "year": 2021,
+   "cited_by_count": 54,
+   "title": "Finding gene network topologies for given biological function with recurrent neural network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026980331",
+   "year": 2012,
+   "cited_by_count": 52,
+   "title": "Frequency-DependentEscherichia coliChemotaxis Behavior",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064296949",
+   "year": 1997,
+   "cited_by_count": 52,
+   "title": "Survival probability and field theory in systems with absorbing states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096824766",
+   "year": 2013,
+   "cited_by_count": 51,
+   "title": "Discovery of novel chemoeffectors and rational design of Escherichia coli chemoreceptor specificity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083740272",
+   "year": 1995,
+   "cited_by_count": 50,
+   "title": "Defect Dynamics for Spiral Chaos in Rayleigh-Bénard Convection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2797370838",
+   "year": 2018,
+   "cited_by_count": 49,
+   "title": "Design principles for enhancing phase sensitivity and suppressing phase fluctuations simultaneously in biochemical oscillatory systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2804793523",
+   "year": 2018,
+   "cited_by_count": 48,
+   "title": "Swarming in the Dirt: Ordered Flocks with Quenched Disorder",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2101492440",
+   "year": 2011,
+   "cited_by_count": 47,
+   "title": "Adapt locally and act globally: strategy to maintain high chemoreceptor sensitivity in complex environments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2766367410",
+   "year": 2017,
+   "cited_by_count": 46,
+   "title": "Odor-evoked inhibition of olfactory sensory neurons drives olfactory perception in Drosophila",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992677509",
+   "year": 2015,
+   "cited_by_count": 45,
+   "title": "Both piston-like and rotational motions are present in bacterial chemoreceptor signaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993009534",
+   "year": 2009,
+   "cited_by_count": 45,
+   "title": "Dynamics of the bacterial flagellar motor with multiple stators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2537586925",
+   "year": 2016,
+   "cited_by_count": 44,
+   "title": "A framework towards understanding mesoscopic phenomena: Emergent unpredictability, symmetry breaking and dynamics across scales",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012450153",
+   "year": 1994,
+   "cited_by_count": 43,
+   "title": "Absence of Finite Upper Critical Dimension in the Spherical Kardar-Parisi-Zhang Model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106716466",
+   "year": 2004,
+   "cited_by_count": 42,
+   "title": "Genes@Work: an efficient algorithm for pattern discovery and multivariate feature selection in gene expression data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115678154",
+   "year": 2011,
+   "cited_by_count": 42,
+   "title": "Lateral density of receptor arrays in the membrane plane influences sensitivity of the E. coli chemotaxis response",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3147595620",
+   "year": 2021,
+   "cited_by_count": 41,
+   "title": "Mechanosensitive remodeling of the bacterial flagellar motor is independent of direction of rotation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989984268",
+   "year": 2014,
+   "cited_by_count": 39,
+   "title": "Behaviors and Strategies of Bacterial Navigation in Chemical and Nonchemical Gradients",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987537112",
+   "year": 2001,
+   "cited_by_count": 37,
+   "title": "Comment on “Particle Diffusion in a Quasi-Two-Dimensional Bacterial Bath”",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2804462713",
+   "year": 2018,
+   "cited_by_count": 36,
+   "title": "Hydrodynamic theory of flocking in the presence of quenched disorder",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2913190827",
+   "year": 2019,
+   "cited_by_count": 36,
+   "title": "Escape band in Escherichia coli chemotaxis in opposing attractant and nutrient gradients",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974622888",
+   "year": 1994,
+   "cited_by_count": 35,
+   "title": "Quantum Spherical Models for Dirty Phase Transitions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005650558",
+   "year": 2014,
+   "cited_by_count": 34,
+   "title": "Angle sensing in magnetotaxis of Magnetospirillum magneticum AMB-1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3043285179",
+   "year": 2021,
+   "cited_by_count": 31,
+   "title": "Inverse Power Law Scaling of Energy Dissipation Rate in Nonequilibrium Reaction Networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976446498",
+   "year": 2000,
+   "cited_by_count": 30,
+   "title": "Phases and phase transitions in flocking systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099712715",
+   "year": 2013,
+   "cited_by_count": 30,
+   "title": "The cost of sensitive response and accurate adaptation in networks with an incoherent type-1 feed-forward loop",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075222786",
+   "year": 2013,
+   "cited_by_count": 28,
+   "title": "Synaptic gating at axonal branches, and sharp‐wave ripples with replay: a simulation study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966359445",
+   "year": 2013,
+   "cited_by_count": 26,
+   "title": "Precision Sensing by Two Opposing Gradient Sensors: How Does Escherichia coli Find its Preferred pH Level?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071630536",
+   "year": 1994,
+   "cited_by_count": 26,
+   "title": "Passive scalar fluctuations with and without a mean gradient: A numerical study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2975650860",
+   "year": 2019,
+   "cited_by_count": 26,
+   "title": "Optimal compressed sensing strategies for an array of nonlinear olfactory receptor neurons with and without spontaneous activity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987708516",
+   "year": 1997,
+   "cited_by_count": 23,
+   "title": "Worm structure in the modified Swift-Hohenberg equation for electroconvection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033634248",
+   "year": 2012,
+   "cited_by_count": 23,
+   "title": "Shortest Loops are Pacemakers in Random Networks of Electrically Coupled Axons",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

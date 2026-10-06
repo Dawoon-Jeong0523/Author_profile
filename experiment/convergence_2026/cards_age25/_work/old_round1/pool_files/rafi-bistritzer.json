@@ -1,0 +1,73 @@
+{
+ "person": "Rafi Bistritzer",
+ "birth_year": 1974,
+ "cutoff_year": 1999,
+ "options": [
+  "for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene — Pablo Jarillo-Herrero, Allan H. MacDonald, Rafi Bistritzer"
+ ],
+ "works": [
+  {
+   "paper_id": "W2127169435",
+   "year": 2011,
+   "cited_by_count": 2907,
+   "C_5_pctl": 0.99,
+   "title": "Moiré bands in twisted double-layer graphene"
+  },
+  {
+   "paper_id": "W2122929259",
+   "year": 2008,
+   "cited_by_count": 349,
+   "C_5_pctl": 1.0,
+   "title": "Room-temperature superfluidity in graphene bilayers"
+  },
+  {
+   "paper_id": "W2133786853",
+   "year": 2009,
+   "cited_by_count": 292,
+   "C_5_pctl": 0.99,
+   "title": "Electronic Cooling in Graphene"
+  },
+  {
+   "paper_id": "W1991868441",
+   "year": 2011,
+   "cited_by_count": 213,
+   "C_5_pctl": 0.98,
+   "title": "Moiré butterflies in twisted bilayer graphene"
+  },
+  {
+   "paper_id": "W1982485248",
+   "year": 2010,
+   "cited_by_count": 204,
+   "C_5_pctl": 0.98,
+   "title": "Transport between twisted graphene layers"
+  },
+  {
+   "paper_id": "W2033763799",
+   "year": 2009,
+   "cited_by_count": 83,
+   "C_5_pctl": 0.93,
+   "title": "Hydrodynamic theory of transport in doped graphene"
+  },
+  {
+   "paper_id": "W2014097873",
+   "year": 2007,
+   "cited_by_count": 80,
+   "C_5_pctl": 0.98,
+   "title": "Intrinsic dephasing in one-dimensional ultracold atom interferometers"
+  },
+  {
+   "paper_id": "W2157170891",
+   "year": 2008,
+   "cited_by_count": 44,
+   "C_5_pctl": 0.92,
+   "title": "Influence of Disorder on Electron-Hole Pair Condensation in Graphene Bilayers"
+  },
+  {
+   "paper_id": "W1523483010",
+   "year": 2011,
+   "cited_by_count": 42,
+   "C_5_pctl": 0.93,
+   "title": "Electronic structure of doped d0 perovskite semiconductors"
+  }
+ ]
+}

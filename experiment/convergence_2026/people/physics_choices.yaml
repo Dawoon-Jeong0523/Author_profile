@@ -1,0 +1,38 @@
+# Identity decisions for people the name search could not resolve or resolved wrongly (2026-10-05, Claude; checked on
+# the OpenAlex API: ORCID, institution, most cited works). Read by cards_pipeline.py identity.
+Mordehai Heiblum:
+  author_id: A5008483233;A5041471545
+  reason: the automatic pick (A5041471545, 111 works, 1975-1985) is only the early record; A5008483233 "Moty Heiblum",
+    ORCID 0000-0002-9331-5022, Weizmann, "Direct observation of a fractional charge" (1997)
+Marc Davis:
+  author_id: A5108728467;A5108458048
+  reason: two Berkeley astronomy profiles (dust maps, elliptical galaxies; "M. Davis" with the 1985 cold-dark-matter
+    simulation paper); A5056366172 Marc Davis of the Berkeley information school is another person
+Patrick A. Lee:
+  author_id: A5062543156;A5026817577
+  reason: A5062543156 ORCID 0000-0001-7809-8157, MIT, "Disordered electronic systems"; plus the MIT fragment A5026817577;
+    the other candidates are namesakes
+Yves Meyer:
+  author_id: A5015773159
+  reason: '"Wavelets and Operators" (1989); A5088292184 is the plant biologist Yves Meyer'
+John Richard Bond:
+  author_id: A5032242568;A5107906417;A5108083658;A5052509782
+  reason: all four carry ORCID 0000-0003-2358-9949 (CITA, Toronto); A5032242568 has "The statistics of peaks of
+    Gaussian random fields" (1986)
+Martin Rees:
+  author_id: A5110092412
+  reason: the automatic pick (A5072424086, 2 works) is a namesake; A5110092412 Martin John Rees, 885 works, "Core
+    condensation in heavy halos" (1978)
+Yuhai Tu:
+  author_id: A5101587306;A5101587305
+  reason: the automatic pick (A5100652874 Yanjun Tu) is another person; A5101587306 (ORCID 0000-0002-4589-981X,
+    "Flocks, herds, and schools", 1998) and the IBM fragment A5101587305 (bacterial chemotaxis)
+Qikun Xue:
+  author_id: A5101862667;A5110614605;A5113763430;A5100558022;A5100835365
+  reason: the automatic pick (A5067550826, 8 works) is a fragment; A5101862667, A5113763430, A5100558022 and A5100835365
+    carry ORCID 0000-0002-4129-1284; A5110614605 holds "Experimental Observation of the Quantum Anomalous Hall Effect"
+    (2013)
+Denis J. Evans:
+  author_id: A5111702353
+  reason: the automatic pick (A5006439696) has no record on the API; A5111702353, 304 works, "Statistical Mechanics
+    of Nonequilibrium Liquids", "Probability of second law violations in shearing steady states" (1993)

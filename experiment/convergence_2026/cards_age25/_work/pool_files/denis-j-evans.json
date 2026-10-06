@@ -1,0 +1,654 @@
+{
+ "person": "Denis J. Evans",
+ "profile": "A5111702353",
+ "ids": [
+  "A5111702353"
+ ],
+ "options": [
+  "for the discovery of fluctuation theorems and exact nonequilibrium work relations that extend thermodynamics to small systems far from equilibrium — Christopher Jarzynski, Denis J. Evans, Gavin E. Crooks"
+ ],
+ "birth_year": 1951,
+ "cutoff_year": 1976,
+ "works": [
+  {
+   "paper_id": "W1988388205",
+   "year": 1993,
+   "cited_by_count": 1612,
+   "title": "Probability of second law violations in shearing steady states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012703902",
+   "year": 2002,
+   "cited_by_count": 911,
+   "title": "Experimental Demonstration of Violations of the Second Law of Thermodynamics for Small Systems and Short Time Scales",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134312352",
+   "year": 2002,
+   "cited_by_count": 870,
+   "title": "The Fluctuation Theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053423120",
+   "year": 1994,
+   "cited_by_count": 773,
+   "title": "Equilibrium microstates which generate second law violating steady states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975905515",
+   "year": 1984,
+   "cited_by_count": 644,
+   "title": "Non-Newtonian molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070664191",
+   "year": 1977,
+   "cited_by_count": 495,
+   "title": "Singularity free algorithm for molecular dynamics simulation of rigid polyatomics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023796365",
+   "year": 1989,
+   "cited_by_count": 442,
+   "title": "Direct entropy calculation from computer simulation of liquids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076172761",
+   "year": 1995,
+   "cited_by_count": 435,
+   "title": "Pressure tensor for inhomogeneous fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031702843",
+   "year": 1983,
+   "cited_by_count": 433,
+   "title": "Nonequilibrium molecular dynamics via Gauss's principle of least constraint",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981880184",
+   "year": 1977,
+   "cited_by_count": 420,
+   "title": "On the representatation of orientation space",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034314368",
+   "year": 1984,
+   "cited_by_count": 413,
+   "title": "Nonlinear-response theory for steady planar Couette flow",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065755862",
+   "year": 1982,
+   "cited_by_count": 385,
+   "title": "Homogeneous NEMD algorithm for thermal conductivity—Application of non-canonical linear response theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090615127",
+   "year": 1997,
+   "cited_by_count": 357,
+   "title": "Departure from Navier-Stokes hydrodynamics in confined liquids",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028986132",
+   "year": 1980,
+   "cited_by_count": 348,
+   "title": "Lennard-Jones triple-point bulk and shear viscosities. Green-Kubo theory, Hamiltonian mechanics, and nonequilibrium molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095972947",
+   "year": 2004,
+   "cited_by_count": 290,
+   "title": "Fluctuations and Irreversibility: An Experimental Demonstration of a Second-Law-Like Theorem Using a Colloidal Particle Held in an Optical Trap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095334433",
+   "year": 1986,
+   "cited_by_count": 270,
+   "title": "Constrained molecular dynamics: Simulations of liquid alkanes with a new algorithm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030908734",
+   "year": 1986,
+   "cited_by_count": 262,
+   "title": "Shear Thickening and Turbulence in Simple Fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999928247",
+   "year": 1994,
+   "cited_by_count": 248,
+   "title": "Comparison of constant pressure and constant volume nonequilibrium simulations of sheared model decane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012767850",
+   "year": 1990,
+   "cited_by_count": 219,
+   "title": "Viscosity of a simple fluid from its maximal Lyapunov exponents",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964725350",
+   "year": 1983,
+   "cited_by_count": 216,
+   "title": "The isothermal/isobaric molecular dynamics ensemble",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063503489",
+   "year": 2000,
+   "cited_by_count": 190,
+   "title": "Microscopic expressions for the thermodynamic temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057317960",
+   "year": 1983,
+   "cited_by_count": 188,
+   "title": "Isothermal-isobaric molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056403210",
+   "year": 1998,
+   "cited_by_count": 170,
+   "title": "Configurational temperature: Verification of Monte Carlo simulations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047547872",
+   "year": 1987,
+   "cited_by_count": 160,
+   "title": "Rheology of n -alkanes by nonequilibrium molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059742017",
+   "year": 1979,
+   "cited_by_count": 149,
+   "title": "The frequency dependent shear viscosity of methane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967065944",
+   "year": 1981,
+   "cited_by_count": 147,
+   "title": "Rheological properties of simple fluids by computer simulation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995680117",
+   "year": 1990,
+   "cited_by_count": 129,
+   "title": "Three-particle contribution to the configurational entropy of simple fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992037331",
+   "year": 1992,
+   "cited_by_count": 127,
+   "title": "Nonequilibrium molecular dynamics approaches to transport properties and non-Newtonian fluid rheology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048701520",
+   "year": 1986,
+   "cited_by_count": 121,
+   "title": "Heat and matter transport in binary liquid mixtures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968006911",
+   "year": 1984,
+   "cited_by_count": 111,
+   "title": "Non-Newtonian phenomena in simple fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039747569",
+   "year": 1985,
+   "cited_by_count": 108,
+   "title": "Isothermal response theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032832758",
+   "year": 1995,
+   "cited_by_count": 106,
+   "title": "Steady states, invariant measures, and response theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161584337",
+   "year": 1998,
+   "cited_by_count": 101,
+   "title": "Recent developments in non-Newtonian molecular dynamics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082806199",
+   "year": 1992,
+   "cited_by_count": 100,
+   "title": "Computer simulation study of the comparative rheology of branched and linear alkanes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139497544",
+   "year": 1999,
+   "cited_by_count": 100,
+   "title": "Fluctuation theorem for stochastic systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061097716",
+   "year": 2003,
+   "cited_by_count": 97,
+   "title": "A non-equilibrium free energy theorem for deterministic systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074847124",
+   "year": 2000,
+   "cited_by_count": 95,
+   "title": "Ensemble dependence of the transient fluctuation theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1653161756",
+   "year": 1978,
+   "cited_by_count": 94,
+   "title": "Transport properties of homonuclear diatomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990204968",
+   "year": 1987,
+   "cited_by_count": 94,
+   "title": "Application of transient correlation functions to shear flow far from equilibrium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134240321",
+   "year": 2005,
+   "cited_by_count": 93,
+   "title": "Experimental study of the fluctuation theorem in a nonequilibrium steady state",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044325340",
+   "year": 1997,
+   "cited_by_count": 92,
+   "title": "Temperature profile for Poiseuille flow",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078899441",
+   "year": 1995,
+   "cited_by_count": 91,
+   "title": "Heat flux vector in highly inhomogeneous nonequilibrium fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092989113",
+   "year": 1995,
+   "cited_by_count": 87,
+   "title": "Thermostats for molecular fluids undergoing shear flow: Application to liquid chlorine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008870306",
+   "year": 1993,
+   "cited_by_count": 86,
+   "title": "Statistical mechanics of viscous flow in nematic fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985894272",
+   "year": 1982,
+   "cited_by_count": 84,
+   "title": "A thermodynamics for a system under shear",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094687852",
+   "year": 1991,
+   "cited_by_count": 80,
+   "title": "The rheology of n alkanes: Decane and eicosane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139261578",
+   "year": 2005,
+   "cited_by_count": 80,
+   "title": "Application of the Gallavotti-Cohen fluctuation relation to thermostated steady states near equilibrium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087599919",
+   "year": 1980,
+   "cited_by_count": 79,
+   "title": "Enhancedt ?3/2 long-time tail for the stress-stress time correlation function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3012969688",
+   "year": 1993,
+   "cited_by_count": 79,
+   "title": "Probability of Second Law Violations in Shearing Steady States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976299125",
+   "year": 1995,
+   "cited_by_count": 77,
+   "title": "Computer simulation algorithms for molecules undergoing planar Couette flow: A nonequilibrium molecular dynamics study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003759326",
+   "year": 1992,
+   "cited_by_count": 77,
+   "title": "Isothermal shear-induced heat flow",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093022216",
+   "year": 1996,
+   "cited_by_count": 77,
+   "title": "Causality, response theory, and the second law of thermodynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071214505",
+   "year": 1990,
+   "cited_by_count": 75,
+   "title": "New algorithm for constrained molecular-dynamics simulation of liquid benzene and naphthalene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023557660",
+   "year": 1979,
+   "cited_by_count": 74,
+   "title": "The nonsymmetric pressure tensor in polyatomic fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4366075517",
+   "year": 1992,
+   "cited_by_count": 74,
+   "title": "Heat flow and mass diffusion in binary Lennard-Jones mixtures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012087426",
+   "year": 1997,
+   "cited_by_count": 72,
+   "title": "Poiseuille flow of molecular fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017502264",
+   "year": 1992,
+   "cited_by_count": 72,
+   "title": "Heat flow and mass diffusion in binary Lennard-Jones mixtures. II",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043909157",
+   "year": 1981,
+   "cited_by_count": 71,
+   "title": "Equilibrium fluctuation expressions for the wave-vector- and frequency-dependent shear viscosity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972926598",
+   "year": 2008,
+   "cited_by_count": 70,
+   "title": "On the fluctuation theorem for the dissipation function and its connection with response theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034798262",
+   "year": 1979,
+   "cited_by_count": 70,
+   "title": "Viscosity of a mixture of soft spheres",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009176958",
+   "year": 1981,
+   "cited_by_count": 69,
+   "title": "Non-equilibrium molecular dynamics study of the rheological properties of diatomic liquids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075132562",
+   "year": 1979,
+   "cited_by_count": 69,
+   "title": "Nonlinear viscous flow in the Lennard-Jones fluid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092701363",
+   "year": 1995,
+   "cited_by_count": 67,
+   "title": "The heat flux vector for highly inhomogeneous nonequilibrium fluids in very narrow pores",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142292375",
+   "year": 2001,
+   "cited_by_count": 66,
+   "title": "Comparison of thermostatting mechanisms in NVT and NPT simulations of decane under shear",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002514422",
+   "year": 2001,
+   "cited_by_count": 62,
+   "title": "Fluctuation theorem for Hamiltonian Systems: Le Chatelier’s principle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015641493",
+   "year": 1982,
+   "cited_by_count": 61,
+   "title": "Fluctuation expressions for fast thermal transport processes: Vortex viscosity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016669387",
+   "year": 1986,
+   "cited_by_count": 60,
+   "title": "Thermal conductivity of the Lennard-Jones fluid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989233249",
+   "year": 1994,
+   "cited_by_count": 59,
+   "title": "A Parallel Algorithm for Nonequilibrium Molecular Dynamics Simulation of Shear Flow on Distributed Memory Machines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092511879",
+   "year": 1992,
+   "cited_by_count": 59,
+   "title": "Conjugate-pairing rule and thermal-transport coefficients",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149666602",
+   "year": 2001,
+   "cited_by_count": 57,
+   "title": "A local fluctuation theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027981053",
+   "year": 2003,
+   "cited_by_count": 56,
+   "title": "Reexamination of string phase and shear thickening in simple fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094500046",
+   "year": 1983,
+   "cited_by_count": 55,
+   "title": "Molecular dynamics simulations of the rheological properties of simple fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019930213",
+   "year": 1995,
+   "cited_by_count": 53,
+   "title": "Transport coefficients of liquid butane near the boiling point by equilibrium molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114273237",
+   "year": 1999,
+   "cited_by_count": 53,
+   "title": "On the validity of Fourier's law in systems with spatially varying strain rates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008892190",
+   "year": 1993,
+   "cited_by_count": 52,
+   "title": "Equivalence of thermostatted nonlinear responses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3102616237",
+   "year": 2001,
+   "cited_by_count": 52,
+   "title": "The Fluctuation Theorem and Green-Kubo Relations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103267971",
+   "year": 2007,
+   "cited_by_count": 52,
+   "title": "The Steady State Fluctuation Relation for the Dissipation Function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965330026",
+   "year": 1980,
+   "cited_by_count": 51,
+   "title": "A thermodynamics of steady homogeneous shear flow",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034092645",
+   "year": 1988,
+   "cited_by_count": 51,
+   "title": "Transient-time-correlation functions and the rheology of fluids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042055477",
+   "year": 2004,
+   "cited_by_count": 51,
+   "title": "Independence of the transient fluctuation theorem to thermostatting details",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

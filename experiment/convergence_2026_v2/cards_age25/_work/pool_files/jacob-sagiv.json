@@ -1,0 +1,606 @@
+{
+ "person": "Jacob Sagiv",
+ "profile": "A5091813644",
+ "ids": [
+  "A5091813644"
+ ],
+ "options": [
+  "for the development of self-assembled monolayers — David L. Allara, Ralph G. Nuzzo, Jacob Sagiv"
+ ],
+ "birth_year": 1945,
+ "cutoff_year": 1970,
+ "works": [
+  {
+   "paper_id": "W2054836251",
+   "year": 1980,
+   "cited_by_count": 1483,
+   "title": "Organized monolayers by adsorption. 1. Formation and structure of oleophobic mixed monolayers on solid surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965894076",
+   "year": 1984,
+   "cited_by_count": 585,
+   "title": "On the formation and structure of self-assembling monolayers. I. A comparative atr-wettability study of Langmuir—Blodgett and adsorbed films on flat substrates and glass microbeads",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3005288200",
+   "year": 1983,
+   "cited_by_count": 364,
+   "title": "A new approach to construction of artificial monolayer assemblies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4232720407",
+   "year": 1988,
+   "cited_by_count": 341,
+   "title": "Ionic recognition and selective response in self-assembling monolayer membranes on electrodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W117489588",
+   "year": 1987,
+   "cited_by_count": 287,
+   "title": "Organized self-assembling monolayers on electrodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981588863",
+   "year": 1999,
+   "cited_by_count": 252,
+   "title": "Nanoelectrochemical Patterning of Monolayer Surfaces: Toward Spatially Defined Self-Assembly of Nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005522660",
+   "year": 2000,
+   "cited_by_count": 232,
+   "title": "“Constructive Nanolithography”: Inert Monolayers as Patternable Templates for In-Situ Nanofabrication of Metal-Semiconductor-Organic Surface Structures—A Generic Approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090593609",
+   "year": 1978,
+   "cited_by_count": 224,
+   "title": "Electrical conduction through adsorbed monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1491721980",
+   "year": 1984,
+   "cited_by_count": 204,
+   "title": "On the formation and structure of self-assembling monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091633490",
+   "year": 1985,
+   "cited_by_count": 189,
+   "title": "Transfer of structural information from Langmuir monolayers to three-dimensional growing crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024849741",
+   "year": 2000,
+   "cited_by_count": 185,
+   "title": "Constructive Nanolithography: Site-Defined Silver Self-Assembly on Nanoelectrochemically Patterned Monolayer Templates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118232258",
+   "year": 2004,
+   "cited_by_count": 183,
+   "title": "Planned Nanostructures of Colloidal Gold via Self-Assembly on Hierarchically Assembled Organic Bilayer Template Patterns with In-situ Generated Terminal Amino Functionality",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987656310",
+   "year": 2002,
+   "cited_by_count": 180,
+   "title": "Metal Nanoparticles, Nanowires, and Contact Electrodes Self-Assembled on Patterned Monolayer Templates—A Bottom-up Chemical Approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057291954",
+   "year": 1983,
+   "cited_by_count": 179,
+   "title": "Adsorbed monolayers versus Langmuir-Blodgett monolayers—Why and how? I: From monolayer to multilayer, by adsorption",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965734176",
+   "year": 1997,
+   "cited_by_count": 170,
+   "title": "Monolayer Damage in XPS Measurements As Evaluated by Independent Methods",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1601278949",
+   "year": 1986,
+   "cited_by_count": 169,
+   "title": "On the formation and structure of self-assembling monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006784062",
+   "year": 1985,
+   "cited_by_count": 168,
+   "title": "Coverage of Si substrates by self-assembling monolayers and multilayers as measured by IR, wettability and X-ray diffraction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169220211",
+   "year": 2002,
+   "cited_by_count": 166,
+   "title": "Template Guided Self-Assembly of [Au55] Clusters on Nanolithographically Defined Monolayer Patterns",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073353716",
+   "year": 1986,
+   "cited_by_count": 153,
+   "title": "Thermally induced disorder in organized organic monolayers on solid substrates",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010381255",
+   "year": 1989,
+   "cited_by_count": 139,
+   "title": "Stereochemical studies in crystal nucleation. Oriented crystal growth of glycine at interfaces covered with Langmuir and Langmuir-Blodgett films of resolved .alpha.-amino acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044896606",
+   "year": 1995,
+   "cited_by_count": 138,
+   "title": "Hydrogen-bonded multilayers of self-assembling silanes: structure elucidation by combined Fourier transform infra-red spectroscopy and X-ray scattering techniques",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084341384",
+   "year": 2003,
+   "cited_by_count": 127,
+   "title": "Constructive Microlithography: Electrochemical Printing of Monolayer Template Patterns Extends Constructive Nanolithography to the Micrometer−Millimeter Dimension Range",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091196761",
+   "year": 1996,
+   "cited_by_count": 123,
+   "title": "Self-replicating amphiphilic monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118444379",
+   "year": 2008,
+   "cited_by_count": 115,
+   "title": "Postassembly Chemical Modification of a Highly Ordered Organosilane Multilayer: New Insights into the Structure, Bonding, and Dynamics of Self-Assembling Silane Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036127575",
+   "year": 1983,
+   "cited_by_count": 107,
+   "title": "Adsorbed monolayers versus Langmuir-Blodgett monolayers—why and how? II: Characterization of built-up films constructed by stepwise adsorption of individual monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038726319",
+   "year": 1987,
+   "cited_by_count": 97,
+   "title": "Translational energy transfer from molecules and atoms to adsorbed organic monolayers of long-chain amphiphiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2622685014",
+   "year": 1988,
+   "cited_by_count": 91,
+   "title": "Self-assembling monolayers in the construction of planned supramolecular suctures and as modifiers of surface properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124644644",
+   "year": 1979,
+   "cited_by_count": 90,
+   "title": "Organized Monolayers by Adsorption. III. Irreversible Adsorption and Memory Effects in Skeletonized Silane Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009495958",
+   "year": 1987,
+   "cited_by_count": 88,
+   "title": "Penetration-controlled reactions in organized monolayer assemblies. 1. Aqueous permanganate interaction with monolayer and multilayer films of long-chain surfactants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036872446",
+   "year": 1986,
+   "cited_by_count": 86,
+   "title": "Langmuir Monolayers Designed for the Oriented Growth of Glycine and Sodium Chloride Crystals at Air/Water Interfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053583063",
+   "year": 2002,
+   "cited_by_count": 72,
+   "title": "X-ray, Micro-Raman, and Infrared Spectroscopy Structural Characterization of Self-Assembled Multilayer Silane Films with Variable Numbers of Stacked Layers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966536323",
+   "year": 1979,
+   "cited_by_count": 63,
+   "title": "Organized Monolayers by Adsorption. II. Molecular Orientation in Mixed Dye Monolayers Built on Anisotropic Polymeric Surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012345469",
+   "year": 1983,
+   "cited_by_count": 60,
+   "title": "ChemInform Abstract: A NEW APPROACH TO CONSTRUCTION OF ARTIFICIAL MONOLAYER ASSEMBLIES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3004633224",
+   "year": 1977,
+   "cited_by_count": 58,
+   "title": "Application of linear dichroism to the analysis of electronic absorption spectra of biphenyl, fluorene, 9,9'-spirobifluorene, and [6.6]vespirene. Interpretation of the circular dichroism spectrum of [6.6]vespirene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994557231",
+   "year": 1987,
+   "cited_by_count": 54,
+   "title": "Penetration-controlled reactions in organized monolayer assemblies. 2. Aqueous permanganate interaction with self-assembling monolayers of long-chain surfactants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001558690",
+   "year": 1998,
+   "cited_by_count": 53,
+   "title": "Specific Nonthermal Chemical Structural Transformation Induced by Microwaves in a Single Amphiphilic Bilayer Self-Assembled on Silicon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994263781",
+   "year": 1988,
+   "cited_by_count": 50,
+   "title": "A new class of stable head-to tail (Z-type) Langmuir Blodgett films. A second harmonic generation study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077701421",
+   "year": 1990,
+   "cited_by_count": 50,
+   "title": "A new series of amphiphilic molecules forming stable Z-type (polar) Langmuir-Blodgett films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033221367",
+   "year": 2007,
+   "cited_by_count": 49,
+   "title": "Wetting Driven Self-Assembly as a New Approach to Template-Guided Fabrication of Metal Nanopatterns",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058025506",
+   "year": 2008,
+   "cited_by_count": 49,
+   "title": "Contact Electrochemical Replication of Hydrophilic−Hydrophobic Monolayer Patterns",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076016908",
+   "year": 2015,
+   "cited_by_count": 37,
+   "title": "Single-layer ionic conduction on carboxyl-terminated silane monolayers patterned by constructive lithography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976566815",
+   "year": 1988,
+   "cited_by_count": 36,
+   "title": "Rotational and state-resolved translational distributions of NO scattered from organized amphiphilic monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057771332",
+   "year": 2006,
+   "cited_by_count": 34,
+   "title": "Transient Charge Accumulation in a Capacitive Self-Assembled Monolayer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088467020",
+   "year": 2009,
+   "cited_by_count": 34,
+   "title": "Patterned Organosilane Monolayers as Lyophobic−Lyophilic Guiding Templates in Surface Self-Assembly: Monolayer Self-Assembly versus Wetting-Driven Self-Assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976029516",
+   "year": 1998,
+   "cited_by_count": 31,
+   "title": "Targeted Self-Replication of Silane Multilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2988125269",
+   "year": 1989,
+   "cited_by_count": 28,
+   "title": "Selective action of artificial membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2322160206",
+   "year": 2011,
+   "cited_by_count": 22,
+   "title": "A Bipolar Electrochemical Approach to Constructive Lithography: Metal/Monolayer Patterns via Consecutive Site-Defined Oxidation and Reduction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998419312",
+   "year": 1972,
+   "cited_by_count": 21,
+   "title": "Linear dichroism. VI. Polarization of electronic transitions in isolated double bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1509946940",
+   "year": 1977,
+   "cited_by_count": 18,
+   "title": "Influence of substitution pattern on the benzenoid transitions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008215290",
+   "year": 1976,
+   "cited_by_count": 18,
+   "title": "Photochemistry of Oriented Molecule: The Photodimerization of Tetraphenylbutatriene Incorporated in Polyethylene and Nematic Matrices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091942554",
+   "year": 2006,
+   "cited_by_count": 18,
+   "title": "Contact Electrochemical Replication of Electrochemically Printed Monolayer Patterns",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988716471",
+   "year": 1977,
+   "cited_by_count": 13,
+   "title": "A tentative new approach to the optical activity of substituted benzene chromophore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034879126",
+   "year": 1974,
+   "cited_by_count": 13,
+   "title": "A novel and highly accurate technique for polarized light spectroscopy (the PNP method)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967214007",
+   "year": 2012,
+   "cited_by_count": 12,
+   "title": "Parallel- and serial-contact electrochemical metallization of monolayer nanopatterns: A versatile synthetic tool en route to bottom-up assembly of electric nanocircuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2516545055",
+   "year": 2016,
+   "cited_by_count": 9,
+   "title": "Site‐Targeted Interfacial Solid‐Phase Chemistry: Surface Functionalization of Organic Monolayers via Chemical Transformations Locally Induced at the Boundary between Two Solids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2971298972",
+   "year": 2019,
+   "cited_by_count": 9,
+   "title": "Advanced Nanopatterning Using Scanning Probe Technology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997725870",
+   "year": 1973,
+   "cited_by_count": 8,
+   "title": "Polarized spectroscopy with non-polarized light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037800359",
+   "year": 1972,
+   "cited_by_count": 8,
+   "title": "Linear and circular dichroic study of mono-olefins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037254810",
+   "year": 1977,
+   "cited_by_count": 7,
+   "title": "Interpretation of Polarized Absorption and Emission Spectra of Molecules Incorporated in Stretched Polymer Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965659332",
+   "year": 1983,
+   "cited_by_count": 6,
+   "title": "Planned Multilayer Assemblies by Adsorption",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983130983",
+   "year": 1975,
+   "cited_by_count": 4,
+   "title": "Polarization of electronic transitions in some alicyclic saturated ketones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076696561",
+   "year": 2011,
+   "cited_by_count": 4,
+   "title": "Self-assembly at solid surfaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080954473",
+   "year": 1978,
+   "cited_by_count": 4,
+   "title": "Adsorbed Monolayers. Molecular Organization and Electrical Properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2892134682",
+   "year": 2018,
+   "cited_by_count": 4,
+   "title": "Interfacial Electron Beam Lithography: Chemical Monolayer Nanopatterning via Electron-Beam-Induced Interfacial Solid-Phase Oxidation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966971936",
+   "year": 1973,
+   "cited_by_count": 3,
+   "title": "Use of linear dichroism for the establishment of rotameric conformations of acetyl substituted steroids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4210672758",
+   "year": 2000,
+   "cited_by_count": 2,
+   "title": "“Constructive Nanolithography”: Inert Monolayers as Patternable Templates for In-Situ Nanofabrication of Metal–Semiconductor–Organic Surface Structures—A Generic Approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4256707019",
+   "year": 1987,
+   "cited_by_count": 2,
+   "title": "Translational Energy Transfer from Molecules and Atoms to Adsorbed Organic Monolayers of Long-Chain Amphiphiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025583669",
+   "year": 1978,
+   "cited_by_count": 0,
+   "title": "Additions and Corrections - Application of Linear Dichroism to the Analysis of Electronic Absorption Spectra of Biphenyl, Fluorene, 9,9'-Spirobifluorene, and [6.6]Vespirene. Interpretation of the Circular Dichroism Spectrum of [6.6]Vespirene.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2312486359",
+   "year": 1972,
+   "cited_by_count": 0,
+   "title": "ChemInform Abstract: LINEARER DICHROISMUS 6. MITT. POLARISATION VON ELEKTRONENUEBERGAENGEN IN ISOLIERTEN DOPPELBINDUNGEN",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2950583600",
+   "year": 1978,
+   "cited_by_count": 0,
+   "title": "ChemInform Abstract: APPLICATION OF LINEAR DICHROISM TO THE ANALYSIS OF ELECTRONIC ABSORPTION SPECTRA OF BIPHENYL, FLUORENE, 9,9′‐SPIROBIFLUORENE, AND (6.6)VESPIRENE. INTERPRETATION OF THE CIRCULAR DICHROISM SPECTRUM OF (6.6)VESPIRENE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2953302177",
+   "year": 1988,
+   "cited_by_count": 0,
+   "title": "ChemInform Abstract: A New Class of Stable Head‐to‐Tail (Z‐Type) Langmuir Blodgett Films. A Second Harmonic Generation Study.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4231173549",
+   "year": 1998,
+   "cited_by_count": 0,
+   "title": "Targeted Self-Replication of Silane Multilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4235922329",
+   "year": 2016,
+   "cited_by_count": 0,
+   "title": "Site‐Targeted Interfacial Solid‐Phase Chemistry: Surface Functionalization of Organic Monolayers via Chemical Transformations Locally Induced at the Boundary between Two Solids",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4239151239",
+   "year": 1980,
+   "cited_by_count": 0,
+   "title": "ChemInform Abstract: ORGANIZED MONOLAYERS BY ADSORPTION. 1. FORMATION AND STRUCTURE OF OLEOPHOBIC MIXED MONOLAYERS ON SOLID SURFACES",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "person": "Mikko Ritala",
+ "options": [
+  "for the development of atomic layer deposition — Tuomo Suntola, Markku Leskelä, Mikko Ritala"
+ ],
+ "birth_year": 1968,
+ "patents": [
+  {
+   "patent_id": "10319588",
+   "title": "Method for depositing a metal chalcogenide on a substrate by cyclical deposition",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 378
+  },
+  {
+   "patent_id": "9223203",
+   "title": "Microcontact printed films as an activation layer for selective atomic layer deposition",
+   "filing_year": 2011,
+   "grant_year": 2015,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 306
+  },
+  {
+   "patent_id": "6416577",
+   "title": "Method for coating inner surfaces of equipment",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "ASM Microchemistry Ltd.",
+   "cited_by_patents": 263
+  },
+  {
+   "patent_id": "6632279",
+   "title": "Method for growing thin oxide films",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "ASM Microchemistry Oy",
+   "cited_by_patents": 260
+  },
+  {
+   "patent_id": "10731249",
+   "title": "Method of forming a transition metal containing film on a substrate by a cyclical deposition process, a method for supplying a transition metal halide compound to a reaction chamber, and related vapor deposition apparatus",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 258
+  },
+  {
+   "patent_id": "6706115",
+   "title": "Method for preparing metal nitride thin films",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 100
+  },
+  {
+   "patent_id": "6858546",
+   "title": "Method of depositing rare earth oxide thin films",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "ASM International",
+   "cited_by_patents": 88
+  },
+  {
+   "patent_id": "6824816",
+   "title": "Process for producing metal thin films by ALD",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 87
+  },
+  {
+   "patent_id": "7108747",
+   "title": "Method for growing oxide thin films containing barium and strontium",
+   "filing_year": 1999,
+   "grant_year": 2006,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 50
+  },
+  {
+   "patent_id": "7498272",
+   "title": "Method of depositing rare earth oxide thin films",
+   "filing_year": 2004,
+   "grant_year": 2009,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 47
+  },
+  {
+   "patent_id": "7220451",
+   "title": "Process for producing metal thin films by ALD",
+   "filing_year": 2004,
+   "grant_year": 2007,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 27
+  },
+  {
+   "patent_id": "9315896",
+   "title": "Synthesis and use of precursors for ALD of group VA element containing thin films",
+   "filing_year": 2010,
+   "grant_year": 2016,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "10358407",
+   "title": "Synthesis and use of precursors for vapor deposition of tungsten containing thin films",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "11047042",
+   "title": "Synthesis and use of precursors for ALD of molybdenum or tungsten containing thin films",
+   "filing_year": 2016,
+   "grant_year": 2021,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "10208379",
+   "title": "Synthesis and use of precursors for ALD of group VA element containing thin films",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "11014866",
+   "title": "Synthesis and use of precursors for vapor deposition of tungsten containing thin films",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "6932867",
+   "title": "Method for growing thin oxide films",
+   "filing_year": 2003,
+   "grant_year": 2005,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "9175390",
+   "title": "Synthesis and use of precursors for ALD of tellurium and selenium thin films",
+   "filing_year": 2009,
+   "grant_year": 2015,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "9382615",
+   "title": "Vapor deposition of LiF thin films",
+   "filing_year": 2013,
+   "grant_year": 2016,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 5
+  },
+  {
+   "patent_id": "10619242",
+   "title": "Atomic layer deposition of rhenium containing thin films",
+   "filing_year": 2017,
+   "grant_year": 2020,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "10308673",
+   "title": "Synthesis and use of precursors for ALD of tellurium and selenium thin films",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "8945675",
+   "title": "Methods for forming conductive titanium oxide thin films",
+   "filing_year": 2008,
+   "grant_year": 2015,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9169557",
+   "title": "Process for producing oxide films",
+   "filing_year": 2010,
+   "grant_year": 2015,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9646820",
+   "title": "Methods for forming conductive titanium oxide thin films",
+   "filing_year": 2014,
+   "grant_year": 2017,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "9677173",
+   "title": "Precursors and methods for atomic layer deposition of transition metal oxides",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "10145009",
+   "title": "Vapor deposition of thin films comprising gold",
+   "filing_year": 2017,
+   "grant_year": 2018,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "7377976",
+   "title": "Method for growing thin oxide films",
+   "filing_year": 2005,
+   "grant_year": 2008,
+   "assignee": "",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9783563",
+   "title": "Synthesis and use of precursors for ALD of tellurium and selenium thin films",
+   "filing_year": 2015,
+   "grant_year": 2017,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9828674",
+   "title": "Synthesis and use of precursors for ALD of group VA element containing thin films",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "9878516",
+   "title": "Metamaterial thin films",
+   "filing_year": 2013,
+   "grant_year": 2018,
+   "assignee": "The United States of America, as represented by the Secretary of the Navy",
+   "cited_by_patents": 2
+  },
+  {
+   "patent_id": "10344378",
+   "title": "Precursors and methods for atomic layer deposition of transition metal oxides",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10468261",
+   "title": "Methods for forming a metallic film on a substrate by cyclical deposition and related semiconductor device structures",
+   "filing_year": 2017,
+   "grant_year": 2019,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10941487",
+   "title": "Synthesis and use of precursors for ALD of group VA element containing thin films",
+   "filing_year": 2020,
+   "grant_year": 2021,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "11047046",
+   "title": "Vapor deposition of thin films comprising gold",
+   "filing_year": 2018,
+   "grant_year": 2021,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "11072622",
+   "title": "Synthesis and use of precursors for ALD of tellurium and selenium thin films",
+   "filing_year": 2019,
+   "grant_year": 2021,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7713584",
+   "title": "Process for producing oxide films",
+   "filing_year": 2005,
+   "grant_year": 2010,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8372483",
+   "title": "Methods for forming thin films comprising tellurium",
+   "filing_year": 2008,
+   "grant_year": 2013,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8685165",
+   "title": "Metal oxide films",
+   "filing_year": 2007,
+   "grant_year": 2014,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9365926",
+   "title": "Precursors and methods for atomic layer deposition of transition metal oxides",
+   "filing_year": 2015,
+   "grant_year": 2016,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "9394609",
+   "title": "Atomic layer deposition of aluminum fluoride thin films",
+   "filing_year": 2015,
+   "grant_year": 2016,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "10468262",
+   "title": "Methods for forming a metallic film on a substrate by a cyclical deposition and related semiconductor device structures",
+   "filing_year": 2019,
+   "grant_year": 2019,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10619244",
+   "title": "Synthesis and use of precursors for ALD of group VA element containing thin films",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10734223",
+   "title": "Method for depositing a metal chalcogenide on a substrate by cyclical deposition",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10741403",
+   "title": "Methods for forming a metallic film on a substrate by cyclical deposition and related semiconductor device structures",
+   "filing_year": 2019,
+   "grant_year": 2020,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "10847366",
+   "title": "Methods for depositing a transition metal chalcogenide film on a substrate by a cyclical deposition process",
+   "filing_year": 2018,
+   "grant_year": 2020,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "11155917",
+   "title": "Atomic layer deposition of rhenium containing thin films",
+   "filing_year": 2020,
+   "grant_year": 2021,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7618681",
+   "title": "Process for producing bismuth-containing oxide films",
+   "filing_year": 2003,
+   "grant_year": 2009,
+   "assignee": "ASM International N.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9315894",
+   "title": "Atomic layer deposition of metal phosphates and lithium silicates",
+   "filing_year": 2012,
+   "grant_year": 2016,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9765431",
+   "title": "Atomic layer deposition of metal phosphates and lithium silicates",
+   "filing_year": 2016,
+   "grant_year": 2017,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9909211",
+   "title": "Vapor deposition of LiF thin films",
+   "filing_year": 2016,
+   "grant_year": 2018,
+   "assignee": "ASM IP Holding B.V.",
+   "cited_by_patents": 0
+  }
+ ]
+}

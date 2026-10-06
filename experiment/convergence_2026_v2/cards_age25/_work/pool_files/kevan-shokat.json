@@ -1,0 +1,657 @@
+{
+ "person": "Kevan Shokat",
+ "profile": "A5079376363",
+ "ids": [
+  "A5079376363",
+  "A5113991044",
+  "A5109864298",
+  "A5027887291"
+ ],
+ "options": [
+  "for chemical-genetic methods to study protein kinases and the discovery of covalent inhibitors of oncogenic KRAS — Kevan Shokat"
+ ],
+ "birth_year": 1964,
+ "cutoff_year": 1989,
+ "works": [
+  {
+   "paper_id": "W3022285953",
+   "year": 2020,
+   "cited_by_count": 4733,
+   "title": "A SARS-CoV-2 protein interaction map reveals targets for drug repurposing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128339707",
+   "year": 2013,
+   "cited_by_count": 2604,
+   "title": "K-Ras(G12C) inhibitors allosterically control GTP affinity and effector interactions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004295816",
+   "year": 2010,
+   "cited_by_count": 1781,
+   "title": "RAF inhibitors transactivate RAF dimers and ERK signalling in cells with wild-type BRAF",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159466552",
+   "year": 2007,
+   "cited_by_count": 1397,
+   "title": "IRE1 Signaling Affects Cell Fate During the Unfolded Protein Response",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980396381",
+   "year": 2012,
+   "cited_by_count": 1329,
+   "title": "The translational landscape of mTOR signalling steers cancer initiation and metastasis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124593509",
+   "year": 2006,
+   "cited_by_count": 1137,
+   "title": "A Pharmacological Map of the PI3-K Family Defines a Role for p110α in Insulin Signaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3037945517",
+   "year": 2020,
+   "cited_by_count": 1109,
+   "title": "The Global Phosphorylation Landscape of SARS-CoV-2 Infection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035521247",
+   "year": 2009,
+   "cited_by_count": 1067,
+   "title": "Active-Site Inhibitors of mTOR Target Rapamycin-Resistant Outputs of mTORC1 and mTORC2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144640625",
+   "year": 2001,
+   "cited_by_count": 1047,
+   "title": "The LuxS family of bacterial autoinducers: biosynthesis of a novel quorum‐sensing signal molecule",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1520738779",
+   "year": 2000,
+   "cited_by_count": 1040,
+   "title": "A chemical switch for inhibitor-sensitive alleles of any protein kinase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017081079",
+   "year": 2007,
+   "cited_by_count": 967,
+   "title": "Escape from HER-family tyrosine kinase inhibitor therapy by the kinase-inactive HER3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083731894",
+   "year": 2003,
+   "cited_by_count": 888,
+   "title": "Targets of the cyclin-dependent kinase Cdk1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2692768525",
+   "year": 2017,
+   "cited_by_count": 868,
+   "title": "Drugging the 'undruggable' cancer targets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106030214",
+   "year": 2008,
+   "cited_by_count": 819,
+   "title": "T cell receptor signaling controls Foxp3 expression via PI3K, Akt, and mTOR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3093213262",
+   "year": 2020,
+   "cited_by_count": 789,
+   "title": "Comparative host-coronavirus protein interaction networks reveal pan-viral disease mechanisms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022609682",
+   "year": 2010,
+   "cited_by_count": 672,
+   "title": "Targeting the cancer kinome through polypharmacology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117022661",
+   "year": 2005,
+   "cited_by_count": 663,
+   "title": "Features of Selective Kinase Inhibitors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986290768",
+   "year": 2008,
+   "cited_by_count": 661,
+   "title": "The unfolded protein response signals through high-order assembly of Ire1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2501247313",
+   "year": 2016,
+   "cited_by_count": 616,
+   "title": "Direct small-molecule inhibitors of KRAS: from structural insights to mechanism-based design",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2612775630",
+   "year": 2017,
+   "cited_by_count": 609,
+   "title": "Discovery of nitrate–CPK–NLP signalling in central nutrient–growth networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109467838",
+   "year": 2006,
+   "cited_by_count": 582,
+   "title": "A dual PI3 kinase/mTOR inhibitor reveals emergent efficacy in glioma",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114869204",
+   "year": 2005,
+   "cited_by_count": 505,
+   "title": "Structural Bioinformatics-Based Design of Selective, Irreversible Kinase Inhibitors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4210384175",
+   "year": 2007,
+   "cited_by_count": 481,
+   "title": "The Site-Specific Installation of Methyl-Lysine Analogs into Recombinant Histones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988263223",
+   "year": 2010,
+   "cited_by_count": 471,
+   "title": "Rewiring of Genetic Networks in Response to DNA Damage",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2407198816",
+   "year": 2016,
+   "cited_by_count": 468,
+   "title": "Overcoming mTOR resistance mutations with a new-generation mTOR inhibitor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093431913",
+   "year": 2010,
+   "cited_by_count": 459,
+   "title": "Genetic Dissection of the Oncogenic mTOR Pathway Reveals Druggable Addiction to Translational Control via 4EBP-eIF4E",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103445331",
+   "year": 2008,
+   "cited_by_count": 435,
+   "title": "Targeted polypharmacology: discovery of dual inhibitors of tyrosine and phosphoinositide kinases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4200216147",
+   "year": 2021,
+   "cited_by_count": 417,
+   "title": "Evolution of enhanced innate immune evasion by SARS-CoV-2",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136133297",
+   "year": 1997,
+   "cited_by_count": 416,
+   "title": "Engineering unnatural nucleotide specificity for Rous sarcoma virus tyrosine kinase to uniquely label its direct substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2320548571",
+   "year": 2016,
+   "cited_by_count": 405,
+   "title": "N-Myc Drives Neuroendocrine Prostate Cancer Initiated from Human Prostate Epithelial Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142799999",
+   "year": 2009,
+   "cited_by_count": 391,
+   "title": "Basal Subtype and MAPK/ERK Kinase (MEK)-Phosphoinositide 3-Kinase Feedback Signaling Determine Susceptibility of Breast Cancer Cells to MEK Inhibition",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095962396",
+   "year": 2006,
+   "cited_by_count": 387,
+   "title": "Arabidopsis MAP kinase 4 regulates salicylic acid‐ and jasmonic acid/ethylene‐dependent responses via EDS1 and PAD4",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087887322",
+   "year": 2012,
+   "cited_by_count": 379,
+   "title": "Cyclin-dependent kinase control of the initiation-to-elongation switch of RNA polymerase II",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145442626",
+   "year": 2011,
+   "cited_by_count": 375,
+   "title": "The Evolution of Protein Kinase Inhibitors from Antagonists to Agonists of Cellular Signaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069679620",
+   "year": 1995,
+   "cited_by_count": 371,
+   "title": "Antigen-induced B-cell death and elimination during germinal-centre immune responses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3122927255",
+   "year": 2021,
+   "cited_by_count": 370,
+   "title": "Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984306206",
+   "year": 2009,
+   "cited_by_count": 356,
+   "title": "Arterial-Venous Segregation by Selective Cell Sprouting: An Alternative Mode of Blood Vessel Formation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972577475",
+   "year": 2012,
+   "cited_by_count": 343,
+   "title": "Chemical genetic discovery of targets and anti-targets for cancer polypharmacology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990023697",
+   "year": 2010,
+   "cited_by_count": 339,
+   "title": "Calcium-dependent protein kinase 1 is an essential regulator of exocytosis in Toxoplasma",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123603532",
+   "year": 2009,
+   "cited_by_count": 339,
+   "title": "TFIIH-Associated Cdk7 Kinase Functions in Phosphorylation of C-Terminal Domain Ser7 Residues, Promoter-Proximal Pausing, and Termination by RNA Polymerase II",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077029464",
+   "year": 2002,
+   "cited_by_count": 335,
+   "title": "A Chemical-Genetic Strategy Implicates Myosin-1c in Adaptation by Hair Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107104928",
+   "year": 1994,
+   "cited_by_count": 332,
+   "title": "Immunoglobulin signal transduction guides the specificity of B cell-T cell interactions and is blocked in tolerant self-reactive B cells.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107034836",
+   "year": 2006,
+   "cited_by_count": 325,
+   "title": "Chemical Genetic Analysis of the Time Course of Signal Transduction by JNK",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150078352",
+   "year": 2010,
+   "cited_by_count": 319,
+   "title": "Phosphoproteomic Analysis Reveals Interconnected System-Wide Responses to Perturbations of Kinases and Phosphatases in Yeast",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108357729",
+   "year": 2007,
+   "cited_by_count": 318,
+   "title": "A semisynthetic epitope for kinase substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127226545",
+   "year": 2007,
+   "cited_by_count": 310,
+   "title": "A surface on the androgen receptor that allosterically regulates coactivator binding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117629868",
+   "year": 2008,
+   "cited_by_count": 308,
+   "title": "Covalent capture of kinase-specific phosphopeptides reveals Cdk1-cyclin B substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151748280",
+   "year": 2013,
+   "cited_by_count": 306,
+   "title": "Myc and mTOR converge on a common node in protein synthesis control that confers synthetic lethality in Myc-driven cancers",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149624733",
+   "year": 2010,
+   "cited_by_count": 296,
+   "title": "Akt and Autophagy Cooperate to Promote Survival of Drug-Resistant Glioma",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118390137",
+   "year": 2003,
+   "cited_by_count": 295,
+   "title": "Control of landmark events in meiosis by the CDK Cdc28 and the meiosis-specific kinase Ime2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127355894",
+   "year": 2010,
+   "cited_by_count": 294,
+   "title": "The p110δ structure: mechanisms for selectivity and potency of new PI(3)K inhibitors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014557438",
+   "year": 2007,
+   "cited_by_count": 290,
+   "title": "Recognizing and exploiting differences between RNAi and small-molecule inhibitors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1546164714",
+   "year": 2001,
+   "cited_by_count": 288,
+   "title": "ERK phosphorylation drives cytoplasmic accumulation of hnRNP-K and inhibition of mRNA translation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055743739",
+   "year": 2005,
+   "cited_by_count": 288,
+   "title": "The Ipl1-Aurora protein kinase activates the spindle checkpoint by creating unattached kinetochores",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134831715",
+   "year": 2009,
+   "cited_by_count": 285,
+   "title": "Inhibitor hijacking of Akt activation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123777737",
+   "year": 2010,
+   "cited_by_count": 282,
+   "title": "Shaping Development of Autophagy Inhibitors with the Structure of the Lipid Kinase Vps34",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977702358",
+   "year": 2007,
+   "cited_by_count": 276,
+   "title": "Requirements for Cdk7 in the Assembly of Cdk1/Cyclin B and Activation of Cdk2 Revealed by Chemical Genetics in Human Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974771871",
+   "year": 2014,
+   "cited_by_count": 267,
+   "title": "Drugging MYCN through an Allosteric Transition in Aurora Kinase A",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044235925",
+   "year": 2013,
+   "cited_by_count": 264,
+   "title": "A Neo-Substrate that Amplifies Catalytic Activity of Parkinson’s-Disease-Related Kinase PINK1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102247469",
+   "year": 2009,
+   "cited_by_count": 263,
+   "title": "Functional Organization of the S. cerevisiae Phosphorylation Network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030690279",
+   "year": 2007,
+   "cited_by_count": 260,
+   "title": "Chemical genetics reveals the requirement for Polo-like kinase 1 activity in positioning RhoA and triggering cytokinesis in human cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054727624",
+   "year": 2013,
+   "cited_by_count": 258,
+   "title": "EGFR Phosphorylates Tumor-Derived EGFRvIII Driving STAT3/5 and Progression in Glioblastoma",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967913221",
+   "year": 2009,
+   "cited_by_count": 255,
+   "title": "Identifying genotype-dependent efficacy of single and combined PI3K- and MAPK-pathway inhibition in cancer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056924558",
+   "year": 2011,
+   "cited_by_count": 252,
+   "title": "A Raf-induced allosteric transition of KSR stimulates phosphorylation of MEK",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988908019",
+   "year": 1999,
+   "cited_by_count": 250,
+   "title": "Structural basis for selective inhibition of Src family kinases by PP1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1506178278",
+   "year": 2011,
+   "cited_by_count": 248,
+   "title": "Chemical Genetic Screen for AMPKα2 Substrates Uncovers a Network of Proteins Involved in Mitosis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2994783539",
+   "year": 2019,
+   "cited_by_count": 248,
+   "title": "p27 allosterically activates cyclin-dependent kinase 4 and antagonizes palbociclib inhibition",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093913323",
+   "year": 2007,
+   "cited_by_count": 247,
+   "title": "Chemical Genetics: Where Genetics and Pharmacology Meet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996031439",
+   "year": 2013,
+   "cited_by_count": 246,
+   "title": "Glucose Sensor O-GlcNAcylation Coordinates with Phosphorylation to Regulate Circadian Clock",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079055832",
+   "year": 2005,
+   "cited_by_count": 244,
+   "title": "A Chemical-Genetic Approach to Studying Neurotrophin Signaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969416320",
+   "year": 2014,
+   "cited_by_count": 240,
+   "title": "OCT1 is a high-capacity thiamine transporter that regulates hepatic steatosis and is a target of metformin",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051225819",
+   "year": 2003,
+   "cited_by_count": 238,
+   "title": "Phosphospecific proteolysis for mapping sites of protein phosphorylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089273088",
+   "year": 2003,
+   "cited_by_count": 236,
+   "title": "Bypassing a Kinase Activity with an ATP-Competitive Drug",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2917523920",
+   "year": 2019,
+   "cited_by_count": 236,
+   "title": "Chronic TGF-β exposure drives stabilized EMT, tumor stemness, and cancer drug resistance with vulnerability to bitopic mTOR inhibition",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974619322",
+   "year": 2001,
+   "cited_by_count": 235,
+   "title": "Magic bullets for protein kinases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031071878",
+   "year": 2009,
+   "cited_by_count": 232,
+   "title": "PIKfyve Regulation of Endosome‐Linked Pathways",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155813475",
+   "year": 2008,
+   "cited_by_count": 231,
+   "title": "The effect of H3K79 dimethylation and H4K20 trimethylation on nucleosome and chromatin structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162928287",
+   "year": 2012,
+   "cited_by_count": 229,
+   "title": "Hierarchical Modularity and the Evolution of Genetic Interactomes across Species",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967660686",
+   "year": 2005,
+   "cited_by_count": 227,
+   "title": "An Unbiased Cell Morphology–Based Screen for New, Biologically Active Small Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024090733",
+   "year": 1998,
+   "cited_by_count": 225,
+   "title": "Design of allele-specific inhibitors to probe protein kinase signaling",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

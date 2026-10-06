@@ -1,0 +1,654 @@
+{
+ "person": "John E. Bercaw",
+ "profile": "A5050693825",
+ "ids": [
+  "A5050693825"
+ ],
+ "options": [
+  "for the development of C–H bond activation and functionalization — Robert G. Bergman, John E. Bercaw"
+ ],
+ "birth_year": 1944,
+ "cutoff_year": 1969,
+ "works": [
+  {
+   "paper_id": "W1996273492",
+   "year": 2010,
+   "cited_by_count": 3788,
+   "title": "NMR Chemical Shifts of Trace Impurities: Common Laboratory Solvents, Organics, and Gases in Deuterated Solvents Relevant to the Organometallic Chemist",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005661768",
+   "year": 2002,
+   "cited_by_count": 2708,
+   "title": "Understanding and exploiting C–H bond activation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2246944211",
+   "year": 2013,
+   "cited_by_count": 2078,
+   "title": "Frontiers, Opportunities, and Challenges in Biochemical and Chemical Catalysis of CO 2 Fixation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108812250",
+   "year": 2001,
+   "cited_by_count": 1388,
+   "title": "Catalysis Research of Relevance to Carbon Management: Progress, Challenges, and Opportunities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088779491",
+   "year": 1987,
+   "cited_by_count": 796,
+   "title": ".sigma.-Bond metathesis for carbon-hydrogen bonds of hydrocarbons and Sc-R (R = H, alkyl, aryl) bonds of permethylscandocene derivatives. Evidence for noninvolvement of the .pi. system in electrophilic activation of aromatic and vinylic C-H bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980290845",
+   "year": 1998,
+   "cited_by_count": 565,
+   "title": "Homogeneous Oxidation of Alkanes by Electrophilic Late Transition Metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W274065896",
+   "year": 1990,
+   "cited_by_count": 537,
+   "title": "Scandium complex [{(.eta.5-C5Me4)Me2Si(.eta.1-NCMe3)}(PMe3)ScH]2: a unique example of a single-component .alpha.-olefin polymerization catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033341416",
+   "year": 1994,
+   "cited_by_count": 472,
+   "title": "Model Ziegler-Natta .alpha.-Olefin Polymerization Catalysts Derived from[{(.eta.5-C5Me4)SiMe2(.eta.1-NCMe3)}(PMe3)Sc(.mu.2-H)]2 and[{(.eta.5-C5Me4)SiMe2(.eta.1-NCMe3)}Sc(.mu.2-CH2CH2CH3)]2. Synthesis, Structures, and Kinetic and Equilibrium Investigations of the Catalytically Active Species in Solution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965484920",
+   "year": 1972,
+   "cited_by_count": 342,
+   "title": "Titanocene as an intermediate in reactions involving molecular hydrogen and nitrogen",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985857706",
+   "year": 1987,
+   "cited_by_count": 322,
+   "title": "Relative metal-hydrogen, -oxygen, -nitrogen, and -carbon bond strengths for organoruthenium and organoplatinum compounds; equilibrium studies of Cp*(PMe3)2RuX and (DPPE)MePtX systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082001426",
+   "year": 1978,
+   "cited_by_count": 317,
+   "title": "Reduction of carbon monoxide promoted by alkyl and hydride derivatives of permethylzirconocene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025191996",
+   "year": 1990,
+   "cited_by_count": 315,
+   "title": "Ethylene insertion and .beta.-hydrogen elimination for permethylscandocene alkyl complexes. A study of the chain propagation and termination steps in Ziegler-Natta polymerization of ethylene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971249591",
+   "year": 1980,
+   "cited_by_count": 302,
+   "title": "Mechanisms of carbon monoxide reduction with zirconium hydrides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978496396",
+   "year": 2004,
+   "cited_by_count": 298,
+   "title": "Mechanistic Studies of the Ethylene Trimerization Reaction with Chromium−Diphosphine Catalysts: Experimental Evidence for a Mechanism Involving Metallacyclic Intermediates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066671943",
+   "year": 1996,
+   "cited_by_count": 295,
+   "title": "Exploring the Mechanism of Aqueous C−H Activation by Pt(II) through Model Chemistry: Evidence for the Intermediacy of Alkylhydridoplatinum(IV) and Alkane σ-Adducts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051581031",
+   "year": 1990,
+   "cited_by_count": 261,
+   "title": "Coping With Extreme Lewis Acidity: Strategies for the Synthesis of Stable, Mononuclear Organometallic Derivatives of Scandium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162637930",
+   "year": 2002,
+   "cited_by_count": 252,
+   "title": "C−H Bond Activation by Cationic Platinum(II) Complexes: Ligand Electronic and Steric Effects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2320392526",
+   "year": 1974,
+   "cited_by_count": 238,
+   "title": "Bis(pentamethylcyclopentadienyl)titanium(II) and its complexes with molecular nitrogen",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050020713",
+   "year": 2000,
+   "cited_by_count": 231,
+   "title": "Mechanistic Investigation of Benzene C−H Activation at a Cationic Platinum(II) Center: Direct Observation of a Platinum(II) Benzene Adduct",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054801325",
+   "year": 1997,
+   "cited_by_count": 231,
+   "title": "C−H Activation at Cationic Platinum(II) Centers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070556015",
+   "year": 1990,
+   "cited_by_count": 231,
+   "title": ".alpha. Agostic assistance in Ziegler-Natta polymerization of olefins. Deuterium isotopic perturbation of stereochemistry indicating coordination of an .alpha. carbon-hydrogen bond in chain propagation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007141562",
+   "year": 1983,
+   "cited_by_count": 223,
+   "title": "Structure and reactivity of bis(pentamethylcyclopentadienyl)(ethylene)titanium(II), a simple olefin adduct of titanium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044225188",
+   "year": 1984,
+   "cited_by_count": 193,
+   "title": "Reactions of water and ammonia with bis(pentamethylcyclopentadienyl) complexes of zirconium and hafnium",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067117824",
+   "year": 1984,
+   "cited_by_count": 187,
+   "title": "Halide, hydride, and alkyl derivatives of (pentamethylcyclopentadienyl)bis(trimethylphosphine)ruthenium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078930137",
+   "year": 2007,
+   "cited_by_count": 180,
+   "title": "Mechanistic Studies of Olefin and Alkyne Trimerization with Chromium Catalysts: Deuterium Labeling and Studies of Regiochemistry Using a Model Chromacyclopentane Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026252627",
+   "year": 1985,
+   "cited_by_count": 172,
+   "title": "Titanacycles derived from reductive coupling of nitriles, alkynes, acetaldehyde, and carbon dioxide with bis(pentamethylcyclopentadienyl)(ethylene)titanium(II)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068369018",
+   "year": 2002,
+   "cited_by_count": 172,
+   "title": "The Electronic Influence of Ring Substituents and Ansa Bridges in Zirconocene Complexes as Probed by Infrared Spectroscopic, Electrochemical, and Computational Studies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2599921382",
+   "year": 2010,
+   "cited_by_count": 167,
+   "title": "Electronic Structures of PdII Dimers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048923733",
+   "year": 1986,
+   "cited_by_count": 164,
+   "title": "Reactions of alkyl and hydride derivatives of permethylscandocene and zirconocene with nitriles and amines. Catalytic hydrogenation of tert-butyl cyanide with permethylscandocene hydride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019132898",
+   "year": 1982,
+   "cited_by_count": 163,
+   "title": "A kinetic and mechanistic study of the thermolysis of bis(pentamethylcyclopentadienyl)dimethyltitanium(IV)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035419879",
+   "year": 1977,
+   "cited_by_count": 163,
+   "title": "A convenient synthesis of Alkyltetramethylcyclopentadienes and Phenyltetramethylcyclopentadiene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002096928",
+   "year": 2008,
+   "cited_by_count": 160,
+   "title": "Reductive Coupling of Carbon Monoxide in a Rhenium Carbonyl Complex with Pendant Lewis Acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985365002",
+   "year": 1982,
+   "cited_by_count": 159,
+   "title": "Alkyl and hydride derivatives of (pentamethylcyclopentadienyl)zirconium(IV)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066959885",
+   "year": 1987,
+   "cited_by_count": 159,
+   "title": "Alpha- and beta-migratory insertion and elimination processes for alkyl complexes of permethyl-scandocene and permethyltantalocene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974964116",
+   "year": 1986,
+   "cited_by_count": 158,
+   "title": ".beta.-Hydride elimination from methoxo vs. ethyl ligands: thermolysis of (DPPE)Pt(OCH3)2, (DPPE)Pt(CH2CH3)(OCH3) and (DPPE)Pt(CH2CH3)2",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096029918",
+   "year": 1984,
+   "cited_by_count": 158,
+   "title": "Some aspects of the chemistry of alkyl and hydride derivatives of permethylscandocene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104765562",
+   "year": 1992,
+   "cited_by_count": 155,
+   "title": "Iso-specific Ziegler-Natta polymerization of .alpha.-olefins with a single-component organoyttrium catalyst",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002115308",
+   "year": 2010,
+   "cited_by_count": 154,
+   "title": "Homogeneous syngas conversion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3005215469",
+   "year": 1977,
+   "cited_by_count": 154,
+   "title": "Parallel reaction pathways in the cobalt-catalyzed cyclotrimerization of acetylenes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034939592",
+   "year": 1988,
+   "cited_by_count": 151,
+   "title": "Carbon-carbon bond activation via .beta.-alkyl elimination. Reversible branching of 1,4-pentadienes catalyzed by scandocene hydride derivatives",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046789398",
+   "year": 1970,
+   "cited_by_count": 147,
+   "title": "Nature of so-called titanocene, (C10H10Ti)2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079288760",
+   "year": 1995,
+   "cited_by_count": 145,
+   "title": "CH activation by aqueous platinum complexes: A mechanistic study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082161789",
+   "year": 1985,
+   "cited_by_count": 145,
+   "title": "Kinetics and mechanism of the insertion of olefins into transition metal-hydride bonds",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987828043",
+   "year": 2002,
+   "cited_by_count": 144,
+   "title": "Structural and Mechanistic Investigations of the Oxidation of Dimethylplatinum(II) Complexes by Dioxygen",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3004718612",
+   "year": 1974,
+   "cited_by_count": 143,
+   "title": "Preparation of a dinitrogen complex of bis(pentamethylcyclopentadienyl)zirconium(II). Isolation and protonation leading to stoichiometric reduction of dinitrogen to hydrazine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2174426317",
+   "year": 2001,
+   "cited_by_count": 139,
+   "title": "Intramolecular alkene hydroaminations catalyzed by simple amido derivatives of the Group 3 metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W271241064",
+   "year": 1992,
+   "cited_by_count": 134,
+   "title": "Oxo-hydrido and imido-hydrido derivatives of permethyltantalocene. Structures of (.eta.5-C5Me5)2Ta(:O)H and (.eta.5-C5Me5)2Ta(:NC6H5)H: doubly or triply bonded tantalum oxo and imido ligands?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949108817",
+   "year": 1976,
+   "cited_by_count": 133,
+   "title": "Structure and magnetism of .mu.-dinitrogen-bis(bis(pentamethylcyclopentadienyl)titanium(II)), {(.eta.5-C5(CH3)5)2Ti}2N2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006327899",
+   "year": 1976,
+   "cited_by_count": 131,
+   "title": "Stoichiometric hydrogen reduction of carbon monoxide to methanol promoted by derivatives of bis(pentamethylcyclopentadienyl)zirconium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999901687",
+   "year": 1997,
+   "cited_by_count": 130,
+   "title": "Highly electron deficient group 3 organometallic complexes based on the 1,4,7-trimethyl-1,4,7-triazacyclononane ligand system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039971454",
+   "year": 2010,
+   "cited_by_count": 128,
+   "title": "Homogeneous CO Hydrogenation: Dihydrogen Activation Involves a Frustrated Lewis Pair Instead of a Platinum Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030972158",
+   "year": 1993,
+   "cited_by_count": 127,
+   "title": "Mechanism and stereochemistry for nucleophilic attack at carbon of platinum(IV) alkyls: model reactions for hydrocarbon oxidation with aqueous platinum chlorides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981726635",
+   "year": 1995,
+   "cited_by_count": 126,
+   "title": "Formation and Reductive Elimination of a Hydridoalkylplatinum(IV) Intermediate upon Protonolysis of an Alkylplatinum(II) Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054940179",
+   "year": 2006,
+   "cited_by_count": 126,
+   "title": "Nitrogen-Linked Diphosphine Ligands with Ethers Attached to Nitrogen for Chromium-Catalyzed Ethylene Tri- and Tetramerizations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088722109",
+   "year": 1986,
+   "cited_by_count": 126,
+   "title": "Hydrido methylidene, hydrido vinylidene, hydrido oxo, and hydrido formaldehyde derivatives of bis(pentamethylcyclopentadienyl)tantalum",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024691133",
+   "year": 1998,
+   "cited_by_count": 124,
+   "title": "Intramolecular and intermolecular C-H activation at a cationic PtII center",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040921452",
+   "year": 1983,
+   "cited_by_count": 122,
+   "title": "Hydrogen-transfer reactions which generate new imine, imido, and trimethylenemethane complexes of tantalum",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951597009",
+   "year": 1996,
+   "cited_by_count": 120,
+   "title": "Preparation and Structural Characterization of an Enantiomerically Pure, C2-Symmetric, Single-Component Ziegler−Natta α-Olefin Polymerization Catalyst",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005338501",
+   "year": 2004,
+   "cited_by_count": 118,
+   "title": "Pyridinium-DerivedN-Heterocyclic Carbene Complexes of Platinum: Synthesis, Structure and Ligand Substitution Kinetics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977428129",
+   "year": 1978,
+   "cited_by_count": 117,
+   "title": "Solution structure and dynamics of binuclear dinitrogen complexes of bis(pentamethylcyclopentadienyl)titanium(II) and bis(pentamethylcyclopentadienyl)zirconium(II)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982430855",
+   "year": 1994,
+   "cited_by_count": 117,
+   "title": "Competitive Chain Transfer by .beta.-Hydrogen and .beta.-Methyl Elimination for a Model Ziegler-Natta Olefin Polymerization System [Me2Si(.eta.5-C5Me4)2]Sc{CH2CH(CH3)2}(PMe3)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2317130903",
+   "year": 1998,
+   "cited_by_count": 116,
+   "title": "Mechanisms of Stereocontrol for Doubly Silylene-BridgedCs- andC1-Symmetric Zirconocene Catalysts for Propylene Polymerization. Synthesis and Molecular Structure of Li2[(1,2-Me2Si)2{C5H2-4-(1R,2S,5R-menthyl)}{C5H-3,5-(CHMe2)2)}]·3THF and [(1,2-Me2Si)2{η5-C5H2-4-(1R,2S,5R-menthyl)}{η5-C5H-3,5-(CHMe2)2}]ZrCl2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993491406",
+   "year": 1998,
+   "cited_by_count": 114,
+   "title": "Oxidation von Alkanen durch elektrophile späte Übergangsmetalle in homogener Lösung",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006175917",
+   "year": 1994,
+   "cited_by_count": 114,
+   "title": "Theoretical Studies of Ziegler-Natta Catalysis: Structural Variations and Tacticity Control",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024784916",
+   "year": 1976,
+   "cited_by_count": 113,
+   "title": "Structure of .mu.-dinitrogen-bis(bis(pentamethylcyclopentadienyl)dinitrogenzirconium(II)), {(.eta.5-C5(CH3)5)2ZrN2}2N2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3004934145",
+   "year": 1979,
+   "cited_by_count": 112,
+   "title": "Reduction of coordinated carbon monoxide to \"zirconoxy\" carbenes with permethylzirconocene dihydride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079084341",
+   "year": 1993,
+   "cited_by_count": 108,
+   "title": "Oxidation of hydrocarbons by aqueous platinum salts: mechanism and selectivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023103047",
+   "year": 1988,
+   "cited_by_count": 107,
+   "title": "Kinetics and mechanism of the insertion of olefins into niobium- and tantalum-hydride bonds: a study of the competition between steric and electronic effects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986375168",
+   "year": 1996,
+   "cited_by_count": 106,
+   "title": "A New Class of Zirconocene Catalysts for the Syndiospecific Polymerization of Propylene and Its Modification for Varying Polypropylene from Isotactic to Syndiotactic",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033012933",
+   "year": 1985,
+   "cited_by_count": 104,
+   "title": "Halide, hydride, alkyl, and dinitrogen complexes of bis(pentamethylcyclopentadienyl)hafnium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974846079",
+   "year": 1971,
+   "cited_by_count": 102,
+   "title": "Bis(pentamethylcyclopentadienyl)titanium(II). Isolation and reactions with hydrogen, nitrogen, and carbon monoxide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048965080",
+   "year": 2006,
+   "cited_by_count": 102,
+   "title": "A Chromium-Diphosphine System for Catalytic Ethylene Trimerization: Synthetic and Structural Studies of Chromium Complexes with a Nitrogen-Bridged Diphosphine Ligand withortho-Methoxyaryl Substituents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076388181",
+   "year": 1995,
+   "cited_by_count": 102,
+   "title": "19F NMR Spectra and Structures of Halogenated Porphyrins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090679681",
+   "year": 2010,
+   "cited_by_count": 101,
+   "title": "Dehydrogenation of amine–boranes with a frustrated Lewis pair",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970659055",
+   "year": 1987,
+   "cited_by_count": 99,
+   "title": "Intramolecular carbon-hydrogen bond activation of benzyl ligands by metalated cyclopentadienyl derivatives of permethylhafnocene. Molecular structure of (.eta.5-C5Me5)(.eta.5,.eta.1-C5Me4CH2)HfCH2C6H5 and the mechanism of rearrangement to its hafnabenzocyclobutene tautomer [cyclic] (.eta.5-C5Me5)2Hf(o-CH2C6H4)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066718193",
+   "year": 1969,
+   "cited_by_count": 99,
+   "title": "Di-.mu.-hydrido-bis(dicyclopentadienyltitanium(III)), a transition metal complex with a diborane-like double hydrogen bridge",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059420426",
+   "year": 2006,
+   "cited_by_count": 98,
+   "title": "Kinetics and Mechanism of Methane, Methanol, and Dimethyl Ether C−H Activation with Electrophilic Platinum Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012742825",
+   "year": 2010,
+   "cited_by_count": 97,
+   "title": "Homogeneous CO Hydrogenation: Ligand Effects on the Lewis Acid-Assisted Reductive Coupling of Carbon Monoxide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987757932",
+   "year": 2001,
+   "cited_by_count": 96,
+   "title": "Synthesis of Singly and Doubly Bridged ansa-Zirconocene Hydrides. Formation of an Unusual Mixed Valence Trimeric Hydride by Reaction of H2 with {(Me2Si)2(η5-C5H3)2}Zr(CH3)2 and Generation of a Dinitrogen Complex by Reaction of N2 with a Zirconocene Dihydride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990514468",
+   "year": 1998,
+   "cited_by_count": 96,
+   "title": "A Cationic Imido Complex of Permethyltantalocene: H2 and Carbon−Hydrogen Bond Activation, [2 + 2] Cycloaddition Reactions, and an Unusual Reaction with Carbon Dioxide That Affords Coordinated Isocyanate",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

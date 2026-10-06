@@ -1,0 +1,24 @@
+Generate the options yourself: exactly 30 options and no "Other" option.
+
+Each option is one discovery or invention, written as one line in the style of an official Nobel
+motivation ("for the development of ...", "for the discovery of ..."), followed by " — " and the
+people you expect to share the prize for it, most credited first:
+  <discovery> — <Name>[, <Name>[, <Name>]]
+
+Who to name
+- Name only as many people as you think the Nobel committee would actually choose: one, two or three.
+  Do not fill three places by default. Name a single person when one person is clearly central to
+  the discovery, two when two are.
+- Every person must be alive on 7 October 2026; the prize is not awarded posthumously. Check recent deaths.
+- Use full names as commonly published; no affiliations.
+
+Which discoveries
+- Choose the 30 discoveries you consider most likely to receive the 2026 Nobel Prize in Chemistry,
+  from any area of chemistry, including biochemistry, materials, theory and methods.
+- Leave out discoveries already rewarded by a Nobel Prize in any field, and narrow follow-ups of them.
+- Options must be mutually exclusive. Each discovery appears once. Do not list a broader and a
+  narrower version of the same work as separate options (for example a technology and one of its
+  components, or two generations of the same device); merge them into one option.
+- Name a person in two options only if they are central to two clearly distinct discoveries.
+
+Return only the 30 options in the format above, with no extra text.

@@ -1,0 +1,654 @@
+{
+ "person": "Pablo Jarillo-Herrero",
+ "profile": "A5058224422",
+ "ids": [
+  "A5058224422"
+ ],
+ "options": [
+  "for the theoretical prediction and experimental discovery of correlated insulator behavior and superconductivity in magic-angle twisted bilayer graphene — Pablo Jarillo-Herrero, Allan H. MacDonald, Rafi Bistritzer"
+ ],
+ "birth_year": 1976,
+ "cutoff_year": 2001,
+ "works": [
+  {
+   "paper_id": "W2793369479",
+   "year": 2018,
+   "cited_by_count": 7818,
+   "title": "Unconventional superconductivity in magic-angle graphene superlattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2606397457",
+   "year": 2017,
+   "cited_by_count": 5512,
+   "title": "Layer-dependent ferromagnetism in a van der Waals crystal down to the monolayer limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2787584289",
+   "year": 2018,
+   "cited_by_count": 4578,
+   "title": "Correlated insulator behaviour at half-filling in magic-angle graphene superlattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049632862",
+   "year": 2013,
+   "cited_by_count": 1641,
+   "title": "Massive Dirac Fermions and Hofstadter Butterfly in a van der Waals Heterostructure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093467103",
+   "year": 2014,
+   "cited_by_count": 1493,
+   "title": "Optoelectronic devices based on electrically tunable p–n diodes in a monolayer dichalcogenide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102220765",
+   "year": 2011,
+   "cited_by_count": 1292,
+   "title": "Scanning tunnelling microscopy and spectroscopy of ultra-flat graphene on hexagonal boron nitride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2788044113",
+   "year": 2018,
+   "cited_by_count": 1288,
+   "title": "Electrical control of 2D magnetism in bilayer CrI3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093596311",
+   "year": 2014,
+   "cited_by_count": 1268,
+   "title": "Tunable Phonon Polaritons in Atomically Thin van der Waals Crystals of Boron Nitride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2964187990",
+   "year": 2013,
+   "cited_by_count": 1207,
+   "title": "Observation of Floquet-Bloch States on the Surface of a Topological Insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988829538",
+   "year": 2007,
+   "cited_by_count": 1190,
+   "title": "Bipolar supercurrent in graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988262302",
+   "year": 2012,
+   "cited_by_count": 1132,
+   "title": "Emergence of superlattice Dirac points in graphene on hexagonal boron nitride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094523515",
+   "year": 2011,
+   "cited_by_count": 1038,
+   "title": "Hot Carrier–Assisted Intrinsic Photoresponse in Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2787257147",
+   "year": 2018,
+   "cited_by_count": 876,
+   "title": "Probing magnetism in 2D van der Waals crystalline insulators via electron tunneling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3127466677",
+   "year": 2021,
+   "cited_by_count": 817,
+   "title": "Tunable strongly coupled superconductivity in magic-angle twisted trilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2894482543",
+   "year": 2018,
+   "cited_by_count": 679,
+   "title": "Observation of the nonlinear Hall effect under time-reversal-symmetric conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1891506349",
+   "year": 2015,
+   "cited_by_count": 642,
+   "title": "Graphene on hexagonal boron nitride as a tunable hyperbolic metamaterial",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997490128",
+   "year": 2011,
+   "cited_by_count": 616,
+   "title": "Control over topological insulator photocurrents with light polarization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025413591",
+   "year": 2013,
+   "cited_by_count": 613,
+   "title": "Intrinsic Electronic Transport Properties of High-Quality Monolayer and Bilayer MoS 2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3133767177",
+   "year": 2021,
+   "cited_by_count": 571,
+   "title": "The marvels of moiré materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009924367",
+   "year": 2014,
+   "cited_by_count": 570,
+   "title": "Phosphorus joins the family",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152082800",
+   "year": 2012,
+   "cited_by_count": 531,
+   "title": "Understanding and controlling the substrate effect on graphene electron-transfer chemistry via reactivity imprint lithography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3184227177",
+   "year": 2021,
+   "cited_by_count": 530,
+   "title": "Fractional Chern insulators in magic-angle twisted bilayer graphene",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2910872414",
+   "year": 2020,
+   "cited_by_count": 515,
+   "title": "Strange Metal in Magic-Angle Graphene with near Planckian Dissipation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2132221775",
+   "year": 2009,
+   "cited_by_count": 509,
+   "title": "Anisotropic Etching and Nanoribbon Formation in Single-Layer Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123990918",
+   "year": 2007,
+   "cited_by_count": 463,
+   "title": "Electronic Transport and Quantum Hall Effect in Bipolar Graphene p−n−p Junctions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2913921060",
+   "year": 2019,
+   "cited_by_count": 462,
+   "title": "van der Waals heterostructures combining graphene and hexagonal boron nitride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1918899533",
+   "year": 2015,
+   "cited_by_count": 454,
+   "title": "Subdiffractional focusing and guiding of polaritonic rays in a natural hyperbolic material",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346887685",
+   "year": 2016,
+   "cited_by_count": 450,
+   "title": "A high-temperature ferromagnetic topological insulating phase by proximity coupling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2765729541",
+   "year": 2017,
+   "cited_by_count": 449,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3101433345",
+   "year": 2020,
+   "cited_by_count": 423,
+   "title": "Cascade of phase transitions and Dirac revivals in magic-angle graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2512054889",
+   "year": 2016,
+   "cited_by_count": 408,
+   "title": "Superlattice-Induced Insulating States and Valley-Protected Orbits in Twisted Bilayer Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2611491770",
+   "year": 2017,
+   "cited_by_count": 397,
+   "title": "Direct optical detection of Weyl fermion chirality in a topological semimetal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2885877244",
+   "year": 2018,
+   "cited_by_count": 396,
+   "title": "Valleytronics: Opportunities, Challenges, and Paths Forward",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2902369167",
+   "year": 2019,
+   "cited_by_count": 396,
+   "title": "Nearly flat Chern bands in moiré superlattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2892103024",
+   "year": 2018,
+   "cited_by_count": 393,
+   "title": "Electrically tunable low-density superconductivity in a monolayer topological insulator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2967788151",
+   "year": 2020,
+   "cited_by_count": 390,
+   "title": "Mapping the twist-angle disorder and Landau levels in magic-angle graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055176361",
+   "year": 2006,
+   "cited_by_count": 372,
+   "title": "Quantum supercurrent transistors in carbon nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018604772",
+   "year": 2005,
+   "cited_by_count": 370,
+   "title": "Orbital Kondo effect in carbon nanotubes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3087672733",
+   "year": 2020,
+   "cited_by_count": 370,
+   "title": "Emergent phenomena and proximity effects in two-dimensional magnets and heterostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3108890290",
+   "year": 2020,
+   "cited_by_count": 342,
+   "title": "Unconventional ferroelectricity in moiré heterostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127948864",
+   "year": 2011,
+   "cited_by_count": 324,
+   "title": "Electrically tunable surface-to-bulk coherent coupling in topological insulator thin films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993042145",
+   "year": 2013,
+   "cited_by_count": 318,
+   "title": "Exchange-Coupling-Induced Symmetry Breaking in Topological Insulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3023113415",
+   "year": 2020,
+   "cited_by_count": 307,
+   "title": "Configurable phonon polaritons in twisted α-MoO3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044849399",
+   "year": 2013,
+   "cited_by_count": 302,
+   "title": "Tunable symmetry breaking and helical edge transport in a graphene quantum spin Hall state",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119269698",
+   "year": 2010,
+   "cited_by_count": 290,
+   "title": "Surface State Transport and Ambipolar Electric Field Effect in Bi2Se3 Nanodevices",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W3186127064",
+   "year": 2021,
+   "cited_by_count": 283,
+   "title": "Pauli-limit violation and re-entrant superconductivity in moiré graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013002114",
+   "year": 2015,
+   "cited_by_count": 271,
+   "title": "Generation of photovoltage in graphene on a femtosecond timescale through efficient carrier heating",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1541064405",
+   "year": 2012,
+   "cited_by_count": 260,
+   "title": "Measurement of Intrinsic Dirac Fermion Cooling on the Surface of the Topological Insulator Bi 2 Se 3 Using Time-Resolved and Angle-Resolved Photoemission Spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091702926",
+   "year": 2011,
+   "cited_by_count": 258,
+   "title": "Quantum Hall effect and Landau-level crossing of Dirac fermions in trilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072692033",
+   "year": 2006,
+   "cited_by_count": 250,
+   "title": "Tunneling in Suspended Carbon Nanotubes Assisted by Longitudinal Phonons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3102699940",
+   "year": 2009,
+   "cited_by_count": 245,
+   "title": "Etching of Graphene Devices with a Helium Ion Beam",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2004133845",
+   "year": 2004,
+   "cited_by_count": 243,
+   "title": "Electron-hole symmetry in a semiconducting carbon nanotube quantum dot",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976946247",
+   "year": 2010,
+   "cited_by_count": 229,
+   "title": "Electronic Transport in Dual-Gated Bilayer Graphene at Large Displacement Fields",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2208811766",
+   "year": 2016,
+   "cited_by_count": 217,
+   "title": "Parallel Stitching of 2D Materials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098943754",
+   "year": 2020,
+   "cited_by_count": 217,
+   "title": "Light-induced charge density wave in LaTe3",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2807862208",
+   "year": 2018,
+   "cited_by_count": 205,
+   "title": "Pressure dependence of the magic twist angle in graphene superlattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3106469980",
+   "year": 2018,
+   "cited_by_count": 202,
+   "title": "Evidence for topological defects in a photoinduced phase transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163532395",
+   "year": 2013,
+   "cited_by_count": 193,
+   "title": "Electrically tunable transverse magnetic focusing in graphene",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3081810229",
+   "year": 2021,
+   "cited_by_count": 190,
+   "title": "Entropic evidence for a Pomeranchuk effect in magic-angle graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2914527349",
+   "year": 2019,
+   "cited_by_count": 183,
+   "title": "Gigahertz Frequency Antiferromagnetic Resonance and Strong Magnon-Magnon Coupling in the Layered Crystal CrCl 3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102987692",
+   "year": 2012,
+   "cited_by_count": 172,
+   "title": "Ferromagnetism in thin-film Cr-doped topological insulator Bi2Se3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050083701",
+   "year": 2007,
+   "cited_by_count": 169,
+   "title": "Electronic transport in locally gated graphene nanoconstrictions",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2891787756",
+   "year": 2018,
+   "cited_by_count": 167,
+   "title": "Coherent control of a hybrid superconducting circuit made with graphene-based van der Waals heterostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3104677930",
+   "year": 2012,
+   "cited_by_count": 158,
+   "title": "BN/Graphene/BN Transistors for RF Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2951512225",
+   "year": 2019,
+   "cited_by_count": 156,
+   "title": "Electronic Compressibility of Magic-Angle Graphene Superlattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2233883871",
+   "year": 2016,
+   "cited_by_count": 151,
+   "title": "Tuning ultrafast electron thermalization pathways in a van der Waals heterostructure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3204204837",
+   "year": 2021,
+   "cited_by_count": 150,
+   "title": "Unconventional sequence of correlated Chern insulators in magic-angle twisted bilayer graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129546353",
+   "year": 2012,
+   "cited_by_count": 148,
+   "title": "Quantum Hall Effect, Screening, and Layer-Polarized Insulating States in Twisted Bilayer Graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2625929060",
+   "year": 2017,
+   "cited_by_count": 145,
+   "title": "Observation of Exciton Redshift–Blueshift Crossover in Monolayer WS2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2315000923",
+   "year": 2015,
+   "cited_by_count": 136,
+   "title": "Electronic Transport of Encapsulated Graphene and WSe2 Devices Fabricated by Pick-up of Prepatterned hBN",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1753155952",
+   "year": 2015,
+   "cited_by_count": 129,
+   "title": "Spatially resolved edge currents and guided-wave electronic states in graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2765677521",
+   "year": 2018,
+   "cited_by_count": 127,
+   "title": "Enhanced superconductivity upon weakening of charge density wave transport in 2 H -TaS 2 in the two-dimensional limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3043342085",
+   "year": 2020,
+   "cited_by_count": 125,
+   "title": "Spontaneous gyrotropic electronic order in a transition-metal dichalcogenide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2408637530",
+   "year": 2016,
+   "cited_by_count": 114,
+   "title": "Direct measurement of proximity-induced magnetism at the interface between a topological insulator and a ferromagnet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2248391232",
+   "year": 2016,
+   "cited_by_count": 113,
+   "title": "Near-field photocurrent nanoscopy on bare and encapsulated graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2261399518",
+   "year": 2015,
+   "cited_by_count": 108,
+   "title": "Graphene-Based Thermopile for Thermal Imaging Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2965422516",
+   "year": 2019,
+   "cited_by_count": 106,
+   "title": "Phonon Polaritons in Monolayers of Hexagonal Boron Nitride",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2604831393",
+   "year": 2017,
+   "cited_by_count": 105,
+   "title": "Tunnelling spectroscopy of Andreev states in graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2586051388",
+   "year": 2017,
+   "cited_by_count": 104,
+   "title": "High temperature ferromagnetism in π-conjugated two-dimensional metal–organic frameworks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3034093793",
+   "year": 2020,
+   "cited_by_count": 104,
+   "title": "Deep‐Learning‐Enabled Fast Optical Identification and Characterization of 2D Materials",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

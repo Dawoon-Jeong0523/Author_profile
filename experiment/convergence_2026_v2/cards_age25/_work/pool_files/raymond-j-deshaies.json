@@ -1,0 +1,655 @@
+{
+ "person": "Raymond J. Deshaies",
+ "profile": "A5066867755",
+ "ids": [
+  "A5066867755"
+ ],
+ "options": [
+  "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies",
+  "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies, Stuart L. Schreiber"
+ ],
+ "birth_year": 1961,
+ "cutoff_year": 1986,
+ "works": [
+  {
+   "paper_id": "W2144114582",
+   "year": 2009,
+   "cited_by_count": 2602,
+   "title": "RING Domain E3 Ubiquitin Ligases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151683271",
+   "year": 2001,
+   "cited_by_count": 2283,
+   "title": "Protacs: Chimeric molecules that target proteins to the Skp1–Cullin–F box complex for ubiquitination and degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988031203",
+   "year": 2005,
+   "cited_by_count": 2094,
+   "title": "Function and regulation of cullin–RING ubiquitin ligases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005383788",
+   "year": 1988,
+   "cited_by_count": 1492,
+   "title": "A subfamily of stress proteins facilitates translocation of secretory and mitochondrial precursor polypeptides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039839254",
+   "year": 1996,
+   "cited_by_count": 1275,
+   "title": "How Proteolysis Drives the Cell Cycle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170634115",
+   "year": 1999,
+   "cited_by_count": 1242,
+   "title": "SCF and Cullin/RING H2-Based Ubiquitin Ligases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162223351",
+   "year": 2002,
+   "cited_by_count": 1024,
+   "title": "Role of Rpn11 Metalloprotease in Deubiquitination and Degradation by the 26 S Proteasome",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966034049",
+   "year": 1997,
+   "cited_by_count": 808,
+   "title": "A Complex of Cdc4p, Skp1p, and Cdc53p/Cullin Catalyzes Ubiquitination of the Phosphorylated CDK Inhibitor Sic1p",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2772508026",
+   "year": 2017,
+   "cited_by_count": 748,
+   "title": "Alcohol-abuse drug disulfiram targets cancer via p97 segregase adaptor NPL4",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008187459",
+   "year": 1999,
+   "cited_by_count": 715,
+   "title": "Exit from Mitosis Is Triggered by Tem1-Dependent Release of the Protein Phosphatase Cdc14 from Nucleolar RENT Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013057562",
+   "year": 2002,
+   "cited_by_count": 702,
+   "title": "Role of Predicted Metalloprotease Motif of Jab1/Csn5 in Cleavage of Nedd8 from Cul1",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003062513",
+   "year": 2001,
+   "cited_by_count": 687,
+   "title": "Promotion of NEDD8-CUL1 Conjugate Cleavage by COP9 Signalosome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105469941",
+   "year": 2000,
+   "cited_by_count": 540,
+   "title": "Proteasomal Proteomics: Identification of Nucleotide-sensitive Proteasome-interacting Proteins by Mass Spectrometric Analysis of Affinity-purified Proteasomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051641469",
+   "year": 2010,
+   "cited_by_count": 517,
+   "title": "Transcription Factor Nrf1 Mediates the Proteasome Recovery Pathway after Proteasome Inhibition in Mammalian Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053763318",
+   "year": 2001,
+   "cited_by_count": 468,
+   "title": "Interactions of the COP9 Signalosome with the E3 Ubiquitin Ligase SCF TIR1 in Mediating Auxin Response",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025031463",
+   "year": 2004,
+   "cited_by_count": 450,
+   "title": "Chemical Genetic Control of Protein Levels: Selective in Vivo Targeted Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075408326",
+   "year": 1997,
+   "cited_by_count": 449,
+   "title": "Phosphorylation of Sic1p by G 1 Cdk Required for Its Degradation and Entry into S Phase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058496850",
+   "year": 2004,
+   "cited_by_count": 446,
+   "title": "Multiubiquitin Chain Receptors Define a Layer of Substrate Selectivity in the Ubiquitin-Proteasome System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1541556706",
+   "year": 2003,
+   "cited_by_count": 417,
+   "title": "COP9 Signalosome",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156163052",
+   "year": 1987,
+   "cited_by_count": 415,
+   "title": "A yeast mutant defective at an early stage in import of secretory protein precursors into the endoplasmic reticulum.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128408334",
+   "year": 1999,
+   "cited_by_count": 406,
+   "title": "Cdc53/cullin and the essential Hrt1 RING-H2 subunit of SCF define a ubiquitin ligase module that activates the E2 enzyme Cdc34",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040798958",
+   "year": 2008,
+   "cited_by_count": 393,
+   "title": "Multimodal Activation of the Ubiquitin Ligase SCF by Nedd8 Conjugation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131441324",
+   "year": 2003,
+   "cited_by_count": 393,
+   "title": "Development of Protacs to Target Cancer-promoting Proteins for Ubiquitination and Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019790163",
+   "year": 1999,
+   "cited_by_count": 385,
+   "title": "Net1, a Sir2-Associated Nucleolar Protein Required for rDNA Silencing and Nucleolar Integrity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2259068415",
+   "year": 2016,
+   "cited_by_count": 373,
+   "title": "2.3 Å resolution cryo-EM structure of human p97 and mechanism of allosteric inhibition",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009781189",
+   "year": 2004,
+   "cited_by_count": 371,
+   "title": "Human De-Etiolated-1 Regulates c-Jun by Assembling a CUL4A Ubiquitin Ligase",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973463353",
+   "year": 1991,
+   "cited_by_count": 358,
+   "title": "Assembly of yeast Sec proteins involved in translocation into the endoplasmic reticulum into a membrane-bound multisubunit complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009168935",
+   "year": 1992,
+   "cited_by_count": 346,
+   "title": "Protein translocation mutants defective in the insertion of integral membrane proteins into the endoplasmic reticulum.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977502249",
+   "year": 2014,
+   "cited_by_count": 345,
+   "title": "Proteotoxic crisis, the ubiquitin-proteasome system, and cancer therapy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W159837698",
+   "year": 1993,
+   "cited_by_count": 339,
+   "title": "Properties of Saccharomyces cerevisiae wee1 and its differential regulation of p34CDC28 in response to G1 and G2 cyclins.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124761552",
+   "year": 1989,
+   "cited_by_count": 339,
+   "title": "Multiple genes are required for proper insertion of secretory proteins into the endoplasmic reticulum in yeast.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169281107",
+   "year": 2001,
+   "cited_by_count": 330,
+   "title": "SEL-10 Is an Inhibitor of Notch Signaling That Targets Notch for Ubiquitin-Mediated Protein Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991989590",
+   "year": 2011,
+   "cited_by_count": 319,
+   "title": "Reversible inhibitor of p97, DBeQ, impairs both ubiquitin-dependent and autophagic protein clearance pathways",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017764563",
+   "year": 2008,
+   "cited_by_count": 306,
+   "title": "UBXD7 Binds Multiple Ubiquitin Ligases and Implicates p97 in HIF1α Turnover",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2135776390",
+   "year": 2001,
+   "cited_by_count": 306,
+   "title": "Negative regulation of Gcn4 and Msn2 transcription factors by Srb10 cyclin-dependent kinase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036806530",
+   "year": 2005,
+   "cited_by_count": 302,
+   "title": "Mechanism of Lysine 48-Linked Ubiquitin-Chain Synthesis by the Cullin-RING Ubiquitin-Ligase Complex SCF-Cdc34",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3016659443",
+   "year": 2020,
+   "cited_by_count": 276,
+   "title": "Multispecific drugs herald a new era of biopharmaceutical innovation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116659929",
+   "year": 2001,
+   "cited_by_count": 274,
+   "title": "Skp1 forms multiple protein complexes, including RAVE, a regulator of V-ATPase assembly",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149650548",
+   "year": 2013,
+   "cited_by_count": 255,
+   "title": "Cand1 Promotes Assembly of New SCF Complexes through Dynamic Exchange of F Box Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088504425",
+   "year": 2003,
+   "cited_by_count": 249,
+   "title": "JAMM: A Metalloprotease-Like Zinc Site in the Proteasome and Signalosome",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044353042",
+   "year": 2013,
+   "cited_by_count": 241,
+   "title": "Cdc48/p97 promotes degradation of aberrant nascent polypeptides bound to the ribosome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039778506",
+   "year": 2009,
+   "cited_by_count": 227,
+   "title": "Detection of sequential polyubiquitylation on a millisecond timescale",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973346087",
+   "year": 2009,
+   "cited_by_count": 221,
+   "title": "Toll-like receptor 4 mediates synergism between alcohol and HCV in hepatic oncogenesis involving stem cell marker Nanog",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2511774689",
+   "year": 2016,
+   "cited_by_count": 220,
+   "title": "A conserved quality-control pathway that mediates degradation of unassembled ribosomal proteins",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1530194480",
+   "year": 1995,
+   "cited_by_count": 214,
+   "title": "Ubiquitination of the G1 cyclin Cln2p by a Cdc34p‐dependent pathway.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949636366",
+   "year": 2014,
+   "cited_by_count": 213,
+   "title": "p97-dependent retrotranslocation and proteolytic processing govern formation of active Nrf1 upon proteasome inhibition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043526119",
+   "year": 2008,
+   "cited_by_count": 201,
+   "title": "Targeting steroid hormone receptors for ubiquitination and degradation in breast and prostate cancer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155923159",
+   "year": 1999,
+   "cited_by_count": 201,
+   "title": "Components of an SCF ubiquitin ligase localize to the centrosome and regulate the centrosome duplication cycle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143375105",
+   "year": 2006,
+   "cited_by_count": 200,
+   "title": "Structural Organization of the 19S Proteasome Lid: Insights from MS of Intact Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032348256",
+   "year": 2009,
+   "cited_by_count": 199,
+   "title": "Rapid E2-E3 Assembly and Disassembly Enable Processive Ubiquitylation of Cullin-RING Ubiquitin Ligase Substrates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039526503",
+   "year": 1988,
+   "cited_by_count": 199,
+   "title": "SEC11 is required for signal peptide processing and yeast cell growth.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047350942",
+   "year": 2011,
+   "cited_by_count": 198,
+   "title": "Cdc48/p97 Mediates UV-Dependent Turnover of RNA Pol II",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100025072",
+   "year": 2001,
+   "cited_by_count": 197,
+   "title": "Protein kinase Cdc15 activates the Dbf2-Mob1 kinase complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2143156516",
+   "year": 2004,
+   "cited_by_count": 195,
+   "title": "Ubistatins Inhibit Proteasome-Dependent Degradation by Binding the Ubiquitin Chain",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2615692656",
+   "year": 2017,
+   "cited_by_count": 190,
+   "title": "Ubiquitin- and ATP-dependent unfoldase activity of P97/VCP•NPLOC4•UFD1L is enhanced by a mutation that causes multisystem proteinopathy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028380145",
+   "year": 2014,
+   "cited_by_count": 187,
+   "title": "Rsp5/Nedd4 is the main ubiquitin ligase that targets cytosolic misfolded proteins following heat stress",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127678330",
+   "year": 2001,
+   "cited_by_count": 187,
+   "title": "The Tem1 small GTPase controls actomyosin and septin dynamics during cytokinesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3004172643",
+   "year": 2020,
+   "cited_by_count": 187,
+   "title": "Harnessing the Power of Proteolysis for Targeted Protein Inactivation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991102201",
+   "year": 1989,
+   "cited_by_count": 185,
+   "title": "SEC62 encodes a putative membrane protein required for protein translocation into the yeast endoplasmic reticulum.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056362544",
+   "year": 2004,
+   "cited_by_count": 181,
+   "title": "Phosphorylation by Cyclin B-Cdk Underlies Release of Mitotic Exit Activator Cdc14 from the Nucleolus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970078607",
+   "year": 2005,
+   "cited_by_count": 179,
+   "title": "A putative stimulatory role for activator turnover in gene expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038834815",
+   "year": 2003,
+   "cited_by_count": 175,
+   "title": "Diverse roles for ubiquitin-dependent proteolysis in transcriptional activation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094001022",
+   "year": 2001,
+   "cited_by_count": 175,
+   "title": "Skp1p and the F-Box Protein Rcy1p Form a Non-SCF Complex Involved in Recycling of the SNARE Snc1p in Yeast",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2299508065",
+   "year": 2016,
+   "cited_by_count": 174,
+   "title": "Glutamine Triggers Acetylation-Dependent Degradation of Glutamine Synthetase via the Thalidomide Receptor Cereblon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1698064934",
+   "year": 2006,
+   "cited_by_count": 173,
+   "title": "Targeted silencing of Jab1/Csn5 in human cells downregulates SCF activity through reduction of F-box protein levels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002315746",
+   "year": 1997,
+   "cited_by_count": 171,
+   "title": "SIC1 is ubiquitinated in vitro by a pathway that requires CDC4, CDC34, and cyclin/CDK activities.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095300571",
+   "year": 2000,
+   "cited_by_count": 165,
+   "title": "A Multidimensional Electrospray MS-Based Approach to Phosphopeptide Mapping",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2797311248",
+   "year": 2018,
+   "cited_by_count": 161,
+   "title": "Vms1 and ANKZF1 peptidyl-tRNA hydrolases release nascent chains from stalled ribosomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105344995",
+   "year": 2015,
+   "cited_by_count": 158,
+   "title": "Prime time for PROTACs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2592937673",
+   "year": 2017,
+   "cited_by_count": 148,
+   "title": "Capzimin is a potent and specific inhibitor of proteasome isopeptidase Rpn11",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004552422",
+   "year": 2003,
+   "cited_by_count": 147,
+   "title": "Context of Multiubiquitin Chain Attachment Influences the Rate of Sic1 Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022258831",
+   "year": 2003,
+   "cited_by_count": 143,
+   "title": "Applicability of Tandem Affinity Purification MudPIT to Pathway Proteomics in Yeast",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985286323",
+   "year": 2013,
+   "cited_by_count": 142,
+   "title": "Structure–Activity Relationship Study Reveals ML240 and ML241 as Potent and Selective Inhibitors of p97 ATPase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2766427223",
+   "year": 2017,
+   "cited_by_count": 142,
+   "title": "Composition and Regulation of the Cellular Repertoire of SCF Ubiquitin Ligases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2472587950",
+   "year": 2016,
+   "cited_by_count": 141,
+   "title": "Ribosomal proteins produced in excess are degraded by the ubiquitin–proteasome system",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047603836",
+   "year": 1998,
+   "cited_by_count": 139,
+   "title": "Human CUL1 forms an evolutionarily conserved ubiquitin ligase complex (SCF) with SKP1 and an F-box protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054464331",
+   "year": 2001,
+   "cited_by_count": 137,
+   "title": "Multisite Phosphorylation and the Countdown to S Phase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077528809",
+   "year": 2001,
+   "cited_by_count": 136,
+   "title": "Net1 Stimulates RNA Polymerase I Transcription and Regulates Nucleolar Structure Independently of Controlling Mitotic Exit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966216571",
+   "year": 1988,
+   "cited_by_count": 134,
+   "title": "The role of stress proteins in membrane biogenesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995369191",
+   "year": 1995,
+   "cited_by_count": 133,
+   "title": "Cdc37 is required for association of the protein kinase Cdc28 with G1 and mitotic cyclins.",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

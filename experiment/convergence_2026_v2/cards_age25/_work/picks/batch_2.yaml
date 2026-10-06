@@ -1,0 +1,252 @@
+Chi-Huey Wong:
+  picks:
+  - paper_id: W4254774664
+    year: 1999
+    title: 'Programmable One-Pot Oligosaccharide Synthesis'
+    metrics: true
+    in_profile: true
+    reason: 'Original report of the reactivity-based programmable one-pot oligosaccharide synthesis (Optimer) that defines his programmable approach.'
+  - paper_id: W1965741502
+    year: 1994
+    title: 'Solid-Phase Chemical-Enzymic Synthesis of Glycopeptides and Oligosaccharides'
+    metrics: true
+    in_profile: true
+    reason: 'Key original paper combining chemical and enzymatic (glycosyltransferase) steps to build glycopeptides and oligosaccharides.'
+  - paper_id: W1980867764
+    year: 2001
+    title: 'Toward Automated Synthesis of Oligosaccharides and Glycoproteins'
+    metrics: true
+    in_profile: true
+    reason: 'Science synthesis of his programmable and chemoenzymatic strategies extended to glycoproteins, matching both halves of the option.'
+  n_related: 22
+  note: 'Expected early chemoenzymatic originals such as Wong et al. 1982 J Org Chem (N-acetyllactosamine with in situ UDP-sugar regeneration) and Ichikawa et al. 1992 JACS (enzymatic sialyl Lewis x synthesis) are not in the list. ''The Catalytic Asymmetric Aldol Reaction'' (2000) and ''Die katalysierte asymmetrische Aldolreaktion'' (2000) are English/German duplicates of one Angewandte review. Many top records (HIV broadly neutralizing antibodies, NKT-cell glycolipids, influenza) are genuine glycan-array collaborations, not a namesake.'
+
+Dennis Lo Yuk-Ming:
+  picks:
+  - paper_id: W2100977485
+    year: 1997
+    title: 'Presence of fetal DNA in maternal plasma and serum'
+    metrics: true
+    in_profile: true
+    reason: 'The Lancet paper that first reported cell-free fetal DNA in maternal plasma, the founding discovery.'
+  - paper_id: W2115865929
+    year: 1998
+    title: 'Quantitative Analysis of Fetal DNA in Maternal Plasma and Serum: Implications for Noninvasive Prenatal Diagnosis'
+    metrics: true
+    in_profile: true
+    reason: 'Quantified fetal DNA concentrations in maternal plasma, establishing feasibility for noninvasive prenatal diagnosis.'
+  - paper_id: W2156283009
+    year: 2008
+    title: 'Noninvasive prenatal diagnosis of fetal chromosomal aneuploidy by massively parallel genomic sequencing of DNA in maternal plasma'
+    metrics: true
+    in_profile: true
+    reason: 'Introduced massively parallel sequencing of maternal plasma DNA to detect trisomy 21, the basis of clinical NIPT.'
+  n_related: 38
+  note: 'Lo et al. 1989 Lancet (prenatal sex determination by PCR on maternal peripheral blood) is not in the list. The EBV-DNA nasopharyngeal carcinoma, SARS and cancer liquid-biopsy records are genuine Lo work on other plasma nucleic acid applications, not a namesake.'
+
+Eric N. Jacobsen:
+  picks:
+  - paper_id: W2084699035
+    year: 1990
+    title: 'Enantioselective epoxidation of unfunctionalized olefins catalyzed by salen manganese complexes'
+    metrics: true
+    in_profile: true
+    reason: 'First report of enantioselective epoxidation of unfunctionalized olefins with chiral (salen)Mn catalysts.'
+  - paper_id: W2078324730
+    year: 1991
+    title: 'Highly enantioselective epoxidation catalysts derived from 1,2-diaminocyclohexane'
+    metrics: false
+    in_profile: true
+    reason: 'Introduced the diaminocyclohexane-derived (salen)Mn catalyst (Jacobsen catalyst) giving high enantioselectivity.'
+  - paper_id: W2128259531
+    year: 1991
+    title: 'Asymmetric olefin epoxidation with sodium hypochlorite catalyzed by easily prepared chiral manganese(III) salen complexes'
+    metrics: true
+    in_profile: true
+    reason: 'Established the practical bleach-based Jacobsen epoxidation protocol with easily prepared salen catalysts.'
+  n_related: 12
+  note: 'No expected landmark missing. The 1988-89 asymmetric dihydroxylation papers are genuine Sharpless-postdoc work unrelated to salen epoxidation, and the later (salen)Co/Cr epoxide ring-opening and HKR papers (e.g. 1997 Science) are related extensions not chosen. No sign of a namesake.'
+
+Hagan Bayley:
+  picks:
+  - paper_id: W1606920356
+    year: 2001
+    title: 'Sequence-specific detection of individual DNA strands using engineered nanopores'
+    metrics: true
+    in_profile: true
+    reason: 'First sequence-specific detection of single DNA strands with an engineered alpha-hemolysin nanopore.'
+  - paper_id: W2108058966
+    year: 2009
+    title: 'Continuous base identification for single-molecule nanopore DNA sequencing'
+    metrics: false
+    in_profile: true
+    reason: 'Demonstrated continuous identification of all four nucleotides with an adapter-equipped protein pore, the landmark for nanopore sequencing.'
+  - paper_id: W2154224094
+    year: 2009
+    title: 'Single-nucleotide discrimination in immobilized DNA oligonucleotides with a biological nanopore'
+    metrics: true
+    in_profile: true
+    reason: 'Showed single-base discrimination within DNA strands in alpha-hemolysin, the basis of strand nanopore sequencing.'
+  n_related: 40
+  note: 'The second option (next-generation sequencing) refers to the Solexa/Illumina work of Balasubramanian and Klenerman; Bayley''s link is nanopore sequencing, so all picks are nanopore papers. Foundational works not chosen: the 1996 Science alpha-hemolysin heptamer structure and the 1999 Nature molecular-adapter stochastic sensing paper (both in the list). Early photoaffinity, bacteriorhodopsin and Aplysia/MAG records match his known pre-nanopore career, not a namesake.'
+
+James J. Collins:
+  picks:
+  - paper_id: W2134759932
+    year: 2000
+    title: 'Construction of a genetic toggle switch in Escherichia coli'
+    metrics: true
+    in_profile: true
+    reason: 'The founding synthetic gene circuit paper: a bistable toggle switch built from two mutually repressing genes.'
+  - paper_id: W2111870329
+    year: 2004
+    title: 'Programmable cells: Interfacing natural and engineered gene networks'
+    metrics: true
+    in_profile: true
+    reason: 'Coupled the synthetic toggle switch to native cellular signaling to program cell behavior.'
+  - paper_id: W2121987905
+    year: 2009
+    title: 'Synthetic Gene Networks That Count'
+    metrics: false
+    in_profile: true
+    reason: 'Built synthetic counter circuits, a key later demonstration of programmable gene-circuit logic.'
+  n_related: 22
+  note: '''A New Urban Ecology'' (2000, American Scientist) is by the ecologist James P. Collins, a namesake mixed into the record. W2109384743 (2012) has no title. Early stochastic resonance, posture and gait papers are genuine Collins biomedical-engineering work unrelated to gene circuits.'
+
+Kevan Shokat:
+  picks:
+  - paper_id: W2136133297
+    year: 1997
+    title: 'Engineering unnatural nucleotide specificity for Rous sarcoma virus tyrosine kinase to uniquely label its direct substrates'
+    metrics: true
+    in_profile: true
+    reason: 'First bump-hole engineering of a kinase to accept an unnatural ATP analog, launching his kinase chemical genetics.'
+  - paper_id: W1520738779
+    year: 2000
+    title: 'A chemical switch for inhibitor-sensitive alleles of any protein kinase'
+    metrics: true
+    in_profile: true
+    reason: 'Generalized analog-sensitive kinase alleles selectively inhibited by PP1 analogs, the defining chemical-genetic method.'
+  - paper_id: W2128339707
+    year: 2013
+    title: 'K-Ras(G12C) inhibitors allosterically control GTP affinity and effector interactions'
+    metrics: false
+    in_profile: true
+    reason: 'Discovery of covalent KRAS G12C inhibitors binding the switch-II pocket, the basis of sotorasib and adagrasib.'
+  n_related: 25
+  note: 'Later KRAS papers such as Patricelli et al. 2016 (ARS-853) and Janes et al. 2018 (ARS-1620) are not in the list. The 1994-95 B-cell tolerance records and the 2001 LuxS paper are genuine postdoc/collaborative work, not a namesake. W1988263223 also appears in Aebersold''s list as a shared multi-author paper.'
+
+Mitsuo Sawamoto:
+  picks:
+  - paper_id: W2088890545
+    year: 1995
+    title: 'Polymerization of Methyl Methacrylate with the Carbon Tetrachloride/Dichlorotris- (triphenylphosphine)ruthenium(II)/Methylaluminum Bis(2,6-di-tert-butylphenoxide) Initiating System: Possibility of Living Radical Polymerization'
+    metrics: true
+    in_profile: true
+    reason: 'The 1995 original report of ruthenium-catalyzed living radical polymerization, the Sawamoto counterpart of ATRP.'
+  - paper_id: W2020590927
+    year: 1996
+    title: 'Living Radical Polymerization of Methyl Methacrylate with Ruthenium Complex: Formation of Polymers with Controlled Molecular Weights and Very Narrow Distributions'
+    metrics: true
+    in_profile: true
+    reason: 'Established the controlled character of Ru-catalyzed radical polymerization with narrow molecular weight distributions.'
+  - paper_id: W2029958261
+    year: 1997
+    title: 'Iron(II) Chloride Complex for Living Radical Polymerization of Methyl Methacrylate'
+    metrics: true
+    in_profile: true
+    reason: 'Extended metal-catalyzed living radical polymerization to iron catalysts, broadening the method.'
+  n_related: 40
+  note: 'No expected landmark missing. Earlier living cationic polymerization papers (HI/I2 system from 1984) are a separate prior achievement, and the sequence-control and single-chain folding works are later outgrowths. No sign of a namesake.'
+
+Nam-Gyu Park:
+  picks:
+  - paper_id: W2169328609
+    year: 2012
+    title: 'Lead Iodide Perovskite Sensitized All-Solid-State Submicron Thin Film Mesoscopic Solar Cell with Efficiency Exceeding 9%'
+    metrics: false
+    in_profile: true
+    reason: 'First stable all-solid-state perovskite solar cell (9.7%), the breakthrough that launched the field.'
+  - paper_id: W2069492492
+    year: 2011
+    title: '6.5% efficient perovskite quantum-dot-sensitized solar cell'
+    metrics: true
+    in_profile: true
+    reason: 'Early liquid-junction perovskite quantum-dot sensitized cell that raised efficiency to 6.5%.'
+  - paper_id: W2197824282
+    year: 2015
+    title: 'Highly Reproducible Perovskite Solar Cells with Average Efficiency of 18.3% and Best Efficiency of 19.7% Fabricated via Lewis Base Adduct of Lead(II) Iodide'
+    metrics: true
+    in_profile: true
+    reason: 'Introduced the Lewis base adduct (DMSO) fabrication route that became a standard for high-efficiency perovskite cells.'
+  n_related: 55
+  note: 'No expected landmark missing. Dye-sensitized TiO2 cell, supercapacitor and polymer-electrolyte papers (1999-2010) are genuine work from his earlier career, not a namesake.'
+
+Raymond J. Deshaies:
+  picks:
+  - paper_id: W2151683271
+    year: 2001
+    title: 'Protacs: Chimeric molecules that target proteins to the Skp1–Cullin–F box complex for ubiquitination and degradation'
+    metrics: true
+    in_profile: true
+    reason: 'The founding PROTAC paper (with Crews) showing a chimeric molecule redirecting SCF to degrade a target protein.'
+  - paper_id: W2131441324
+    year: 2003
+    title: 'Development of Protacs to Target Cancer-promoting Proteins for Ubiquitination and Degradation'
+    metrics: true
+    in_profile: true
+    reason: 'Extended PROTACs to cancer-relevant targets such as estrogen and androgen receptors.'
+  - paper_id: W2025031463
+    year: 2004
+    title: 'Chemical Genetic Control of Protein Levels: Selective in Vivo Targeted Degradation'
+    metrics: true
+    in_profile: true
+    reason: 'First cell-permeable PROTAC achieving targeted degradation in living cells.'
+  n_related: 8
+  note: 'No expected landmark missing. Most records concern SCF/cullin-RING ligase biology, the proteasome and p97, which underpin but are distinct from the targeted degradation discovery; early Sec/ER translocation papers are his genuine graduate work. The 2009 TLR4/HCV oncogenesis record is off-topic, likely a collaboration rather than a namesake.'
+
+Robert S. Langer:
+  picks:
+  - paper_id: W2052580681
+    year: 1976
+    title: 'Polymers for the sustained release of proteins and other macromolecules'
+    metrics: true
+    in_profile: true
+    reason: 'The Langer-Folkman Nature paper showing sustained release of macromolecules from polymers, founding polymer-based controlled drug delivery.'
+  - paper_id: W2029749273
+    year: 1994
+    title: 'Biodegradable Long-Circulating Polymeric Nanospheres'
+    metrics: true
+    in_profile: true
+    reason: 'Introduced biodegradable PEG-coated long-circulating polymeric nanoparticles for systemic drug delivery.'
+  - paper_id: W2060221489
+    year: 2008
+    title: 'A combinatorial library of lipid-like materials for delivery of RNAi therapeutics'
+    metrics: true
+    in_profile: true
+    reason: 'Lipidoid combinatorial library establishing lipid nanoparticle delivery of siRNA, the nucleic-acid half of the option.'
+  n_related: 47
+  note: 'Expected early polyanhydride papers (Rosen/Leong and Langer, 1983-85) and the Gliadel clinical trial (Brem et al. 1995 Lancet) are not in the list. Tissue engineering, shape-memory polymer and stem-cell scaffold records are genuine Langer work in other areas, not a namesake.'
+
+Ruedi Aebersold:
+  picks:
+  - paper_id: W2111208057
+    year: 1999
+    title: 'Quantitative analysis of complex protein mixtures using isotope-coded affinity tags'
+    metrics: true
+    in_profile: true
+    reason: 'Introduced ICAT, the first general stable-isotope method for quantitative MS-based proteomics.'
+  - paper_id: W2112078820
+    year: 2002
+    title: 'Empirical Statistical Model To Estimate the Accuracy of Peptide Identifications Made by MS/MS and Database Search'
+    metrics: true
+    in_profile: true
+    reason: 'PeptideProphet, the statistical framework for validating MS/MS peptide identifications in shotgun proteomics.'
+  - paper_id: W2079843936
+    year: 2012
+    title: 'Targeted Data Extraction of the MS/MS Spectra Generated by Data-independent Acquisition: A New Concept for Consistent and Accurate Proteome Analysis'
+    metrics: true
+    in_profile: true
+    reason: 'SWATH-MS, the data-independent acquisition concept for reproducible proteome-wide quantification.'
+  n_related: 55
+  note: 'Early protein microsequencing/sample-preparation originals (e.g. Aebersold et al. 1987 PNAS, in situ digestion on nitrocellulose) are not in the list. Off-topic records such as the 1985 scrapie PrP, 1989 LIF and 1999 AIF papers reflect his protein-sequencing collaborations rather than a namesake. W1988263223 is shared with Shokat''s list (multi-author paper).'

@@ -1,0 +1,1227 @@
+{
+ "field": "chemistry",
+ "k": 30,
+ "convergence_weight": 1.0,
+ "committee_total_points": 45.0,
+ "convergence_point_per_approval": 0.387486,
+ "people_used": 80,
+ "rows_left_out_not_alive": [
+  "Akihiro Kojima",
+  "David Eisenberg",
+  "Hiram Levy II",
+  "Moser"
+ ],
+ "method": "The committee part is unchanged from ../preseen/committee.py: nominations from committee/<field>/ballots.jsonl with the\nhand corrections of committee/<field>/merges.yaml, joined into one option when they share a person, scored by Borda\npoints 5..1 per ballot with each model's points divided by its number of valid ballots. Nothing in ../preseen/ is\nwritten; the committee's candidates.json, clusters.json and review.md stay as they are.\n\nThe convergence file adds voters. Each evidence family (clarivate_2026, kalshi, high_ppv_prize, milestone_passed,\nswedish_proximity, symposium_dossier, web_2026, insider_x) is one approval vote for every person it names: 1 point,\nexcept kalshi, which gives the person's market price divided by the highest price in the field. Only rows with\nstatus \"alive\" are used. The approval points of a field are scaled so that their total equals --weight times the\ncommittee's total points, and each person's points go to the option that holds the person:\n\n- a person the committee named joins that option (same first initial + surname, middle initials kept apart as in\n  committee.py); a person in two options splits the points by their committee weight in each;\n- a person the committee did not name joins an option through decisions.yaml (attach), joins the other people of a\n  shared milestone, or forms a new option with the people listed with it in decisions.yaml (groups), else alone.\n\nAn option's score = committee points + the convergence points of the people shown (at most three living people,\nranked by committee weight + convergence points). The committee's top 12 options are kept even if they would fall\nbelow rank K (none does with the default settings; a flag says so if it happens). Writes results/options_<field>.json,\nresults/options_<field>.csv and results/review_<field>.md.",
+ "options": [
+  {
+   "rank": 1,
+   "option": "for the development of massively parallel sequencing-by-synthesis of DNA — Shankar Balasubramanian, David Klenerman, Pascal Mayer",
+   "discovery": "for the development of massively parallel sequencing-by-synthesis of DNA",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 13.6414,
+   "committee_points": 8.625,
+   "convergence_points": 5.0164,
+   "committee_rank": 2,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Shankar Balasubramanian",
+     "committee_weight": 8.625,
+     "convergence_points": 2.0474,
+     "convergence_families": {
+      "high_ppv_prize": 0.3613,
+      "kalshi": 0.2409,
+      "milestone_passed": 0.3613,
+      "swedish_proximity": 0.3613,
+      "symposium_dossier": 0.3613,
+      "web_2026": 0.3613
+     },
+     "attached": null
+    },
+    {
+     "name": "David Klenerman",
+     "committee_weight": 8.625,
+     "convergence_points": 1.8065,
+     "convergence_families": {
+      "high_ppv_prize": 0.3613,
+      "milestone_passed": 0.3613,
+      "swedish_proximity": 0.3613,
+      "symposium_dossier": 0.3613,
+      "web_2026": 0.3613
+     },
+     "attached": null
+    },
+    {
+     "name": "Pascal Mayer",
+     "committee_weight": 3.375,
+     "convergence_points": 1.1625,
+     "convergence_families": {
+      "high_ppv_prize": 0.3875,
+      "symposium_dossier": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "option": "for the development of controlled radical polymerization — Krzysztof Matyjaszewski, Mitsuo Sawamoto, Ezio Rizzardo",
+   "discovery": "for the development of controlled radical polymerization",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 9.09,
+   "committee_points": 8.625,
+   "convergence_points": 0.465,
+   "committee_rank": 1,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Krzysztof Matyjaszewski",
+     "committee_weight": 8.625,
+     "convergence_points": 0.465,
+     "convergence_families": {
+      "kalshi": 0.0775,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "Mitsuo Sawamoto",
+     "committee_weight": 8.625,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Ezio Rizzardo",
+     "committee_weight": 2.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Graeme Moad",
+     "committee_weight": 1.0,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "San H. Thang",
+     "committee_weight": 0.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "option": "for the discovery and development of solid-state perovskite solar cells — Henry J. Snaith, Tsutomu Miyasaka, Nam-Gyu Park",
+   "discovery": "for the discovery and development of solid-state perovskite solar cells",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 7.1052,
+   "committee_points": 4.25,
+   "convergence_points": 2.8552,
+   "committee_rank": 3,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Henry J. Snaith",
+     "committee_weight": 4.25,
+     "convergence_points": 1.0401,
+     "convergence_families": {
+      "milestone_passed": 0.3467,
+      "symposium_dossier": 0.3467,
+      "web_2026": 0.3467
+     },
+     "attached": null
+    },
+    {
+     "name": "Tsutomu Miyasaka",
+     "committee_weight": 4.25,
+     "convergence_points": 1.0401,
+     "convergence_families": {
+      "milestone_passed": 0.3467,
+      "symposium_dossier": 0.3467,
+      "web_2026": 0.3467
+     },
+     "attached": null
+    },
+    {
+     "name": "Nam-Gyu Park",
+     "committee_weight": 4.25,
+     "convergence_points": 0.775,
+     "convergence_families": {
+      "symposium_dossier": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 4,
+   "option": "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids — Pieter R. Cullis, Robert S. Langer, Kazunori Kataoka",
+   "discovery": "for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 3.5375,
+   "committee_points": 2.375,
+   "convergence_points": 1.1625,
+   "committee_rank": 6,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Pieter R. Cullis",
+     "committee_weight": 2.0,
+     "convergence_points": 1.1625,
+     "convergence_families": {
+      "milestone_passed": 0.3875,
+      "swedish_proximity": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "Robert S. Langer",
+     "committee_weight": 2.0,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Kazunori Kataoka",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "option": "for pioneering work on electron transfer in proteins — Harry B. Gray, Jay R. Winkler",
+   "discovery": "for pioneering work on electron transfer in proteins",
+   "discovery_source": "committee, wording edited in decisions.yaml (Claude)",
+   "score": 3.3157,
+   "committee_points": 0.5,
+   "convergence_points": 2.8157,
+   "committee_rank": 18,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Harry B. Gray",
+     "committee_weight": 0.5,
+     "convergence_points": 1.6533,
+     "convergence_families": {
+      "clarivate_2026": 0.3875,
+      "kalshi": 0.1033,
+      "swedish_proximity": 0.3875,
+      "symposium_dossier": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "Jay R. Winkler",
+     "committee_weight": 0.0,
+     "convergence_points": 1.1625,
+     "convergence_families": {
+      "clarivate_2026": 0.3875,
+      "symposium_dossier": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": "Gray and Winkler's joint work on electron tunnelling in proteins; both named by Clarivate 2026 and in the 2022 Nobel Symposium on bio-inorganic chemistry"
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": [
+    "committee wording \"for his pioneering work on electron transfer in proteins\" replaced: the committee wording (\"for his pioneering work ...\") names one person; with Winkler attached the option can show two"
+   ]
+  },
+  {
+   "rank": 6,
+   "option": "for the development of phosphoramidite chemistry for automated DNA synthesis — Marvin H. Caruthers, Serge L. Beaucage, Mark D. Matteucci",
+   "discovery": "for the development of phosphoramidite chemistry for automated DNA synthesis",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 3.25,
+   "committee_points": 3.25,
+   "convergence_points": 0.0,
+   "committee_rank": 4,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Marvin H. Caruthers",
+     "committee_weight": 3.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Serge L. Beaucage",
+     "committee_weight": 1.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Mark D. Matteucci",
+     "committee_weight": 0.625,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "option": "for the development of transition-metal-catalyzed C-H functionalization reactions — John F. Hartwig, Jin-Quan Yu, Robert G. Bergman",
+   "discovery": "for the development of transition-metal-catalyzed C-H functionalization reactions",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 3.2244,
+   "committee_points": 2.5,
+   "convergence_points": 0.7244,
+   "committee_rank": 5,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "John F. Hartwig",
+     "committee_weight": 2.5,
+     "convergence_points": 0.3369,
+     "convergence_families": {
+      "web_2026": 0.3369
+     },
+     "attached": null
+    },
+    {
+     "name": "Jin-Quan Yu",
+     "committee_weight": 2.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Robert G. Bergman",
+     "committee_weight": 1.625,
+     "convergence_points": 0.3875,
+     "convergence_families": {
+      "web_2026": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Melanie S. Sanford",
+     "committee_weight": 0.875,
+     "convergence_points": 0.3875,
+     "convergence_families": {
+      "web_2026": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "option": "for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids — Hagan Bayley, David W. Deamer, Daniel Branton",
+   "discovery": "for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 3.1749,
+   "committee_points": 1.625,
+   "convergence_points": 1.5499,
+   "committee_rank": 9,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Hagan Bayley",
+     "committee_weight": 1.625,
+     "convergence_points": 0.775,
+     "convergence_families": {
+      "symposium_dossier": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "David W. Deamer",
+     "committee_weight": 1.625,
+     "convergence_points": 0.3875,
+     "convergence_families": {
+      "symposium_dossier": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "Daniel Branton",
+     "committee_weight": 1.125,
+     "convergence_points": 0.3875,
+     "convergence_families": {
+      "symposium_dossier": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Mark Akeson",
+     "committee_weight": 0.5,
+     "convergence_points": 0.3875,
+     "convergence_families": {
+      "symposium_dossier": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "option": "for the development of self-assembled monolayers on solid surfaces — David L. Allara, Ralph G. Nuzzo, George M. Whitesides",
+   "discovery": "for the development of self-assembled monolayers on solid surfaces",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 2.9374,
+   "committee_points": 1.0,
+   "convergence_points": 1.9374,
+   "committee_rank": 13,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "David L. Allara",
+     "committee_weight": 0.5,
+     "convergence_points": 1.1625,
+     "convergence_families": {
+      "clarivate_2026": 0.3875,
+      "kalshi": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "Ralph G. Nuzzo",
+     "committee_weight": 0.625,
+     "convergence_points": 0.775,
+     "convergence_families": {
+      "clarivate_2026": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "George M. Whitesides",
+     "committee_weight": 1.0,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Jacob Sagiv",
+     "committee_weight": 0.0,
+     "convergence_points": 0.775,
+     "convergence_families": {
+      "clarivate_2026": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": "Sagiv's early work on self-assembled monolayers; named by Clarivate 2026 with Allara and Nuzzo, who are in this option"
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "option": "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies, Stuart L. Schreiber",
+   "discovery": "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 2.2625,
+   "committee_points": 1.875,
+   "convergence_points": 0.3875,
+   "committee_rank": 7,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Craig M. Crews",
+     "committee_weight": 1.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Raymond J. Deshaies",
+     "committee_weight": 1.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Stuart L. Schreiber",
+     "committee_weight": 0.625,
+     "convergence_points": 0.3875,
+     "convergence_families": {
+      "swedish_proximity": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Gerald R. Crabtree",
+     "committee_weight": 0.625,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Hiroshi Handa",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Alessio Ciulli",
+     "committee_weight": 0.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Kathleen M. Sakamoto",
+     "committee_weight": 0.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "shown people chosen by hand in the committee's merges.yaml"
+   ]
+  },
+  {
+   "rank": 11,
+   "option": "for the development of base editing and prime editing for precise genome editing — David R. Liu",
+   "discovery": "for the development of base editing and prime editing for precise genome editing",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 1.9374,
+   "committee_points": 0.0,
+   "convergence_points": 1.9374,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "David R. Liu",
+     "committee_weight": 0.0,
+     "convergence_points": 1.9374,
+     "convergence_families": {
+      "clarivate_2026": 0.3875,
+      "high_ppv_prize": 0.3875,
+      "kalshi": 0.3875,
+      "milestone_passed": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": "named by Clarivate 2026, Kalshi, the 2026 Franklin Medal and the milestone \"CRISPR base and prime editing\"",
+   "flags": [
+    "David R. Liu: builds on CRISPR-Cas9 genome editing (Nobel Prize in Chemistry 2020)"
+   ]
+  },
+  {
+   "rank": 12,
+   "option": "for the development of ab initio molecular dynamics — Michele Parrinello, Roberto Car",
+   "discovery": "for the development of ab initio molecular dynamics",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.8617,
+   "committee_points": 1.5,
+   "convergence_points": 0.3617,
+   "committee_rank": 10,
+   "n_models": 3,
+   "people": [
+    {
+     "name": "Michele Parrinello",
+     "committee_weight": 1.5,
+     "convergence_points": 0.3617,
+     "convergence_families": {
+      "kalshi": 0.3617
+     },
+     "attached": null
+    },
+    {
+     "name": "Roberto Car",
+     "committee_weight": 1.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "option": "for the discovery of molecular chaperones that assist protein folding in the cell — Arthur L. Horwich, F. Ulrich Hartl",
+   "discovery": "for the discovery of molecular chaperones that assist protein folding in the cell",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.75,
+   "committee_points": 1.75,
+   "convergence_points": 0.0,
+   "committee_rank": 8,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Arthur L. Horwich",
+     "committee_weight": 1.75,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "F. Ulrich Hartl",
+     "committee_weight": 1.75,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "option": "for the development of dye-sensitized and perovskite solar cells — Michael Grätzel, Henry J. Snaith, Tsutomu Miyasaka",
+   "discovery": "for the development of dye-sensitized and perovskite solar cells",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.3647,
+   "committee_points": 0.5,
+   "convergence_points": 0.8647,
+   "committee_rank": 17,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Michael Grätzel",
+     "committee_weight": 0.5,
+     "convergence_points": 0.62,
+     "convergence_families": {
+      "symposium_dossier": 0.31,
+      "web_2026": 0.31
+     },
+     "attached": null
+    },
+    {
+     "name": "Henry J. Snaith",
+     "committee_weight": 0.5,
+     "convergence_points": 0.1224,
+     "convergence_families": {
+      "milestone_passed": 0.0408,
+      "symposium_dossier": 0.0408,
+      "web_2026": 0.0408
+     },
+     "attached": null
+    },
+    {
+     "name": "Tsutomu Miyasaka",
+     "committee_weight": 0.5,
+     "convergence_points": 0.1224,
+     "convergence_families": {
+      "milestone_passed": 0.0408,
+      "symposium_dossier": 0.0408,
+      "web_2026": 0.0408
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "option": "for the development of efficient organic light-emitting diodes — Ching W. Tang, Steven A. Van Slyke, Mark E. Thompson",
+   "discovery": "for the development of efficient organic light-emitting diodes",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.125,
+   "committee_points": 1.125,
+   "convergence_points": 0.0,
+   "committee_rank": 11,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Ching W. Tang",
+     "committee_weight": 1.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Steven A. Van Slyke",
+     "committee_weight": 1.0,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Mark E. Thompson",
+     "committee_weight": 0.5,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Chihaya Adachi",
+     "committee_weight": 0.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "option": "for the development of DNA origami and programmable self-assembly of DNA nanostructures — Paul W. K. Rothemund, William M. Shih, Hao Yan",
+   "discovery": "for the development of DNA origami and programmable self-assembly of DNA nanostructures",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.125,
+   "committee_points": 1.125,
+   "convergence_points": 0.0,
+   "committee_rank": 12,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Paul W. K. Rothemund",
+     "committee_weight": 1.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "William M. Shih",
+     "committee_weight": 0.75,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Hao Yan",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Chad A. Mirkin",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Peng Yin",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "shown people chosen by hand in the committee's merges.yaml"
+   ]
+  },
+  {
+   "rank": 17,
+   "option": "for the development of palladium-catalyzed carbon-heteroatom bond formation — Stephen L. Buchwald, John F. Hartwig",
+   "discovery": "for the development of palladium-catalyzed carbon-heteroatom bond formation",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 1.123,
+   "committee_points": 0.375,
+   "convergence_points": 0.748,
+   "committee_rank": 19,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Stephen L. Buchwald",
+     "committee_weight": 0.375,
+     "convergence_points": 0.6975,
+     "convergence_families": {
+      "kalshi": 0.31,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "John F. Hartwig",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0505,
+     "convergence_families": {
+      "web_2026": 0.0505
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "option": "for the development of chemical methods for the synthesis and massively parallel sequencing of DNA — Shankar Balasubramanian, David Klenerman, Marvin H. Caruthers",
+   "discovery": "for the development of chemical methods for the synthesis and massively parallel sequencing of DNA",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.9043,
+   "committee_points": 0.625,
+   "convergence_points": 0.2793,
+   "committee_rank": 16,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Shankar Balasubramanian",
+     "committee_weight": 0.625,
+     "convergence_points": 0.1484,
+     "convergence_families": {
+      "high_ppv_prize": 0.0262,
+      "kalshi": 0.0175,
+      "milestone_passed": 0.0262,
+      "swedish_proximity": 0.0262,
+      "symposium_dossier": 0.0262,
+      "web_2026": 0.0262
+     },
+     "attached": null
+    },
+    {
+     "name": "David Klenerman",
+     "committee_weight": 0.625,
+     "convergence_points": 0.1309,
+     "convergence_families": {
+      "high_ppv_prize": 0.0262,
+      "milestone_passed": 0.0262,
+      "swedish_proximity": 0.0262,
+      "symposium_dossier": 0.0262,
+      "web_2026": 0.0262
+     },
+     "attached": null
+    },
+    {
+     "name": "Marvin H. Caruthers",
+     "committee_weight": 0.625,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 19,
+   "option": "for the development of accurate exchange-correlation functionals that made density functional theory the workhorse of computational chemistry — John P. Perdew",
+   "discovery": "for the development of accurate exchange-correlation functionals that made density functional theory the workhorse of computational chemistry",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.875,
+   "committee_points": 0.875,
+   "convergence_points": 0.0,
+   "committee_rank": 14,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "John P. Perdew",
+     "committee_weight": 0.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Axel D. Becke",
+     "committee_weight": 0.875,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Axel D. Becke: deceased (died 2025-10-23 in Halifax (Wikidata Q96596, source IAQMS past members; Wikipedia)); not shown"
+   ]
+  },
+  {
+   "rank": 20,
+   "option": "for chemical-genetic methods to study protein kinases and the discovery of covalent inhibitors of oncogenic KRAS — Kevan Shokat",
+   "discovery": "for chemical-genetic methods to study protein kinases and the discovery of covalent inhibitors of oncogenic KRAS",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.775,
+   "committee_points": 0.0,
+   "convergence_points": 0.775,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Kevan Shokat",
+     "committee_weight": 0.0,
+     "convergence_points": 0.775,
+     "convergence_families": {
+      "insider_x": 0.3875,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": "one insider_x post (2023) and one web source",
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "option": "for the expansion of the genetic code to incorporate unnatural amino acids into proteins — Peter G. Schultz, Jason W. Chin",
+   "discovery": "for the expansion of the genetic code to incorporate unnatural amino acids into proteins",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.7708,
+   "committee_points": 0.125,
+   "convergence_points": 0.6458,
+   "committee_rank": 26,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Peter G. Schultz",
+     "committee_weight": 0.125,
+     "convergence_points": 0.6458,
+     "convergence_families": {
+      "kalshi": 0.2583,
+      "swedish_proximity": 0.3875
+     },
+     "attached": null
+    },
+    {
+     "name": "Jason W. Chin",
+     "committee_weight": 0.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "option": "for the development of atomic layer deposition — Tuomo Suntola, Markku Leskelä, Mikko Ritala",
+   "discovery": "for the development of atomic layer deposition",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.625,
+   "committee_points": 0.625,
+   "convergence_points": 0.0,
+   "committee_rank": 15,
+   "n_models": 2,
+   "people": [
+    {
+     "name": "Tuomo Suntola",
+     "committee_weight": 0.625,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Markku Leskelä",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Mikko Ritala",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 23,
+   "option": "for the development of programmable and chemoenzymatic synthesis of complex carbohydrates and glycoproteins — Chi-Huey Wong",
+   "discovery": "for the development of programmable and chemoenzymatic synthesis of complex carbohydrates and glycoproteins",
+   "discovery_source": "decisions.yaml (Claude)",
+   "score": 0.62,
+   "committee_points": 0.0,
+   "convergence_points": 0.62,
+   "committee_rank": null,
+   "n_models": 0,
+   "people": [
+    {
+     "name": "Chi-Huey Wong",
+     "committee_weight": 0.0,
+     "convergence_points": 0.62,
+     "convergence_families": {
+      "kalshi": 0.2325,
+      "web_2026": 0.3875
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": "Kalshi chemistry market and one web source",
+   "flags": []
+  },
+  {
+   "rank": 24,
+   "option": "for the development of mass-spectrometry-based proteomics — John R. Yates III, Matthias Mann, Ruedi Aebersold",
+   "discovery": "for the development of mass-spectrometry-based proteomics",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.375,
+   "committee_points": 0.375,
+   "convergence_points": 0.0,
+   "committee_rank": 20,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "John R. Yates III",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Matthias Mann",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Ruedi Aebersold",
+     "committee_weight": 0.375,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 25,
+   "option": "for the invention of dye-sensitized solar cells — Michael Grätzel",
+   "discovery": "for the invention of dye-sensitized solar cells",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.28,
+   "committee_points": 0.125,
+   "convergence_points": 0.155,
+   "committee_rank": 27,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Michael Grätzel",
+     "committee_weight": 0.125,
+     "convergence_points": 0.155,
+     "convergence_families": {
+      "symposium_dossier": 0.0775,
+      "web_2026": 0.0775
+     },
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 26,
+   "option": "for the isolation of stable carbenes and the development of N-heterocyclic carbenes as ligands in catalysis — Anthony J. Arduengo III, Guy Bertrand, Wolfgang A. Herrmann",
+   "discovery": "for the isolation of stable carbenes and the development of N-heterocyclic carbenes as ligands in catalysis",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.25,
+   "committee_points": 0.25,
+   "convergence_points": 0.0,
+   "committee_rank": 21,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Anthony J. Arduengo III",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Guy Bertrand",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Wolfgang A. Herrmann",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 27,
+   "option": "for their discoveries of chemical communication in bacteria — Bonnie L. Bassler, E. Peter Greenberg",
+   "discovery": "for their discoveries of chemical communication in bacteria",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.25,
+   "committee_points": 0.25,
+   "convergence_points": 0.0,
+   "committee_rank": 22,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Bonnie L. Bassler",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "E. Peter Greenberg",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 28,
+   "option": "for the discovery and development of semiconductor photocatalysis for water splitting — Akira Fujishima, Kazunari Domen",
+   "discovery": "for the discovery and development of semiconductor photocatalysis for water splitting",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.25,
+   "committee_points": 0.25,
+   "convergence_points": 0.0,
+   "committee_rank": 23,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Akira Fujishima",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Kazunari Domen",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 29,
+   "option": "for foundational contributions to the theory and understanding of proton-coupled electron transfer — Sharon Hammes-Schiffer, Thomas J. Meyer",
+   "discovery": "for foundational contributions to the theory and understanding of proton-coupled electron transfer",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.25,
+   "committee_points": 0.25,
+   "convergence_points": 0.0,
+   "committee_rank": 24,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Sharon Hammes-Schiffer",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    },
+    {
+     "name": "Thomas J. Meyer",
+     "committee_weight": 0.25,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [],
+   "group_reason": null,
+   "flags": []
+  },
+  {
+   "rank": 30,
+   "option": "for the discovery of the nuclear receptor superfamily of ligand-regulated transcription factors — Ronald M. Evans",
+   "discovery": "for the discovery of the nuclear receptor superfamily of ligand-regulated transcription factors",
+   "discovery_source": "committee (LLM ballots)",
+   "score": 0.125,
+   "committee_points": 0.125,
+   "convergence_points": 0.0,
+   "committee_rank": 25,
+   "n_models": 1,
+   "people": [
+    {
+     "name": "Ronald M. Evans",
+     "committee_weight": 0.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "not_shown": [
+    {
+     "name": "Pierre Chambon",
+     "committee_weight": 0.125,
+     "convergence_points": 0.0,
+     "convergence_families": {},
+     "attached": null
+    }
+   ],
+   "group_reason": null,
+   "flags": [
+    "Pierre Chambon: deceased (died 2026-05-05 in Strasbourg (Wikidata Q1388486; Wikipedia, L'Alsace obituary of 7 May 2026)); not shown"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+# Wikidata living-check results that are wrong, with the evidence (cards_pipeline_v2.py check skips them)
+"Jonathan C. Cohen": >-
+  false match: Wikidata's first hit is a 1915-2003 orthopedic surgeon; the PCSK9 geneticist (UT Southwestern) is
+  living (checked 2026-10-01, ../preseen/LOG.md)

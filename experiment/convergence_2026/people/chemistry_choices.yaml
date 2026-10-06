@@ -1,0 +1,15 @@
+# Identity decisions for people the name search could not resolve or resolved wrongly (2026-10-05, Claude; checked on
+# the OpenAlex API: ORCID, institution, most cited works). Read by cards_pipeline.py identity.
+David R. Liu:
+  author_id: A5065535610
+  reason: ORCID 0000-0002-9943-7557, Broad Institute, "Programmable editing of a target base in genomic DNA"; A5100739514
+    "David Liu" (DAVID bioinformatics) is another person
+Pierre Chambon:
+  author_id: A5085761422
+  reason: 'ORCID 0000-0002-7861-6046, 835 works, "The nuclear receptor superfamily: the second decade"; the IGBMC
+    fragments mix in other people (one leads with a literary essay)'
+Wolfgang A. Herrmann:
+  author_id: A5114015620;A5110861100;A5015689654
+  reason: the automatic pick (A5114006185, 17 works) is a fragment; A5114015620 Wolfgang Anton Herrmann, 1,454 works,
+    "N-Heterocyclic Carbenes"; plus the "W.A. Herrmann" organometallic fragment and the homogeneous-catalysis handbook
+    record

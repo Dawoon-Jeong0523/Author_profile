@@ -1,0 +1,657 @@
+{
+ "person": "F. Ulrich Hartl",
+ "profile": "A5086048712",
+ "ids": [
+  "A5086048712",
+  "A5111580352",
+  "A5109893703",
+  "A5103518730"
+ ],
+ "options": [
+  "for the discovery of molecular chaperones that assist protein folding in the cell — Arthur L. Horwich, F. Ulrich Hartl"
+ ],
+ "birth_year": 1957,
+ "cutoff_year": 1982,
+ "works": [
+  {
+   "paper_id": "W2119999468",
+   "year": 1996,
+   "cited_by_count": 3572,
+   "title": "Molecular chaperones in cellular protein folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971108880",
+   "year": 2011,
+   "cited_by_count": 3430,
+   "title": "Molecular chaperones in protein folding and proteostasis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096966529",
+   "year": 2002,
+   "cited_by_count": 3344,
+   "title": "Molecular Chaperones in the Cytosol: from Nascent Chain to Folded Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2913940235",
+   "year": 2019,
+   "cited_by_count": 1751,
+   "title": "The proteostasis network and its decline in ageing",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2178113031",
+   "year": 1993,
+   "cited_by_count": 1599,
+   "title": "MOLECULAR CHAPERONE FUNCTIONS OF HEAT-SHOCK PROTEINS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2473711714",
+   "year": 2016,
+   "cited_by_count": 1551,
+   "title": "In vivo aspects of protein folding and quality control",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140197221",
+   "year": 2013,
+   "cited_by_count": 1531,
+   "title": "Molecular Chaperone Functions in Protein Folding and Proteostasis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139306838",
+   "year": 1997,
+   "cited_by_count": 1376,
+   "title": "Crystal Structure of an Hsp90–Geldanamycin Complex: Targeting of a Protein Chaperone by an Antitumor Agent",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1955276614",
+   "year": 2000,
+   "cited_by_count": 1180,
+   "title": "Structure of TPR Domain–Peptide Complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078010704",
+   "year": 2009,
+   "cited_by_count": 1152,
+   "title": "Converging concepts of protein folding in vitro and in vivo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079139546",
+   "year": 2004,
+   "cited_by_count": 1102,
+   "title": "Pathways of chaperone-mediated protein folding in the cytosol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072744250",
+   "year": 1992,
+   "cited_by_count": 963,
+   "title": "Successive action of DnaK, DnaJ and GroEL along the pathway of chaperone-mediated protein folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081422975",
+   "year": 1989,
+   "cited_by_count": 948,
+   "title": "Mitochondrial heat-shock protein hsp60 is essential for assembly of proteins imported into yeast mitochondria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067511286",
+   "year": 2003,
+   "cited_by_count": 893,
+   "title": "Molecular Chaperones Hsp90 and Hsp70 Deliver Preproteins to the Mitochondrial Import Receptor Tom70",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974347829",
+   "year": 1991,
+   "cited_by_count": 858,
+   "title": "Chaperonin-mediated protein folding at the surface of groEL through a 'molten globule'-like intermediate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097840941",
+   "year": 2001,
+   "cited_by_count": 819,
+   "title": "Hsp90",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2688325281",
+   "year": 1989,
+   "cited_by_count": 814,
+   "title": "Mitochondrial protein import",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767332403",
+   "year": 2017,
+   "cited_by_count": 778,
+   "title": "Pathways of cellular proteostasis in aging and disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134802476",
+   "year": 2011,
+   "cited_by_count": 700,
+   "title": "Amyloid-like Aggregates Sequester Numerous Metastable Proteins with Essential Cellular Functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062775685",
+   "year": 1989,
+   "cited_by_count": 675,
+   "title": "Protein folding in mitochondria requires complex formation with hsp60 and ATP hydrolysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073687064",
+   "year": 2000,
+   "cited_by_count": 669,
+   "title": "Hsp70 and Hsp40 chaperones can inhibit self-assembly of polyglutamine proteins into amyloid-like fibrils",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147289825",
+   "year": 2005,
+   "cited_by_count": 662,
+   "title": "Proteome-wide Analysis of Chaperonin-Dependent Protein Folding in Escherichia coli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089473305",
+   "year": 1994,
+   "cited_by_count": 653,
+   "title": "Folding of nascent polypeptide chains in a high molecular mass assembly with molecular chaperones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965754110",
+   "year": 2014,
+   "cited_by_count": 629,
+   "title": "Proteostasis impairment in protein-misfolding and -aggregation diseases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1541948779",
+   "year": 1993,
+   "cited_by_count": 605,
+   "title": "DnaK, DnaJ and GrpE form a cellular chaperone machinery capable of repairing heat‐induced protein damage.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033706352",
+   "year": 1998,
+   "cited_by_count": 597,
+   "title": "In Vivo Function of Hsp90 Is Dependent on ATP Binding and ATP Hydrolysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151893314",
+   "year": 2015,
+   "cited_by_count": 580,
+   "title": "Widespread Proteome Remodeling and Aggregation in Aging C. elegans",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992470956",
+   "year": 1990,
+   "cited_by_count": 561,
+   "title": "The binding cascade of SecB to SecA to SecYE mediates preprotein targeting to the E. coli plasma membrane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2956385297",
+   "year": 2019,
+   "cited_by_count": 546,
+   "title": "The nucleolus functions as a phase-separated protein quality control compartment",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2608970480",
+   "year": 2017,
+   "cited_by_count": 533,
+   "title": "Protein Misfolding Diseases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040795144",
+   "year": 1994,
+   "cited_by_count": 523,
+   "title": "The ATP hydrolysis-dependent reaction cycle of the Escherichia coli Hsp70 system DnaK, DnaJ, and GrpE.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094186182",
+   "year": 2009,
+   "cited_by_count": 509,
+   "title": "Protein quality control during aging involves recruitment of the macroautophagy pathway by BAG3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1533808701",
+   "year": 1999,
+   "cited_by_count": 502,
+   "title": "Identification of in vivo substrates of the chaperonin GroEL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065362324",
+   "year": 1994,
+   "cited_by_count": 498,
+   "title": "Molecular chaperones in cellular protein folding",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107334607",
+   "year": 1997,
+   "cited_by_count": 497,
+   "title": "Crystal Structure of the Nucleotide Exchange Factor GrpE Bound to the ATPase Domain of the Molecular Chaperone DnaK",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023759182",
+   "year": 1990,
+   "cited_by_count": 490,
+   "title": "Protein Sorting to Mitochondria: Evolutionary Conservations of Folding and Assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148192047",
+   "year": 2008,
+   "cited_by_count": 479,
+   "title": "Protein abundance profiling of the Escherichia coli cytosol",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073075045",
+   "year": 1991,
+   "cited_by_count": 461,
+   "title": "ΔμH+ and ATP function at different steps of the catalytic cycle of preprotein translocase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144795344",
+   "year": 2003,
+   "cited_by_count": 456,
+   "title": "Chaperones increase association of tau protein with microtubules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158291867",
+   "year": 1991,
+   "cited_by_count": 443,
+   "title": "THE ENZYMOLOGY OF PROTEIN TRANSLOCATION ACROSS THE Escherichia coli PLASMA MEMBRANE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055684980",
+   "year": 1995,
+   "cited_by_count": 438,
+   "title": "Hip, a novel cochaperone involved in the eukaryotic hsc70/hsp40 reaction cycle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115988944",
+   "year": 2001,
+   "cited_by_count": 429,
+   "title": "Structure of a Bag/Hsc70 Complex: Convergent Functional Evolution of Hsp70 Nucleotide Exchange Factors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162014027",
+   "year": 2004,
+   "cited_by_count": 424,
+   "title": "Cellular Toxicity of Polyglutamine Expansion Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042180447",
+   "year": 1999,
+   "cited_by_count": 423,
+   "title": "Polypeptide Flux through Bacterial Hsp70",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1559420025",
+   "year": 1992,
+   "cited_by_count": 416,
+   "title": "Chaperonin‐mediated protein folding: GroES binds to one end of the GroEL cylinder, which accommodates the protein substrate within its central cavity.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157013283",
+   "year": 2010,
+   "cited_by_count": 415,
+   "title": "Protein Folding in the Cytoplasm and the Heat Shock Response",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1532878531",
+   "year": 1992,
+   "cited_by_count": 413,
+   "title": "Function in protein folding of TRiC, a cytosolic ring complex containing TCP‐1 and structurally related subunits.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999938778",
+   "year": 1996,
+   "cited_by_count": 407,
+   "title": "Pharmacologic shifting of a balance between protein refolding and degradation mediated by Hsp90",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1854687733",
+   "year": 1997,
+   "cited_by_count": 406,
+   "title": "Recombination of protein domains facilitated by co-translational folding in eukaryotes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089990328",
+   "year": 1994,
+   "cited_by_count": 401,
+   "title": "Molecular chaperones in protein folding: the art of avoiding sticky situations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2787027993",
+   "year": 2018,
+   "cited_by_count": 400,
+   "title": "In Situ Structure of Neuronal C9orf72 Poly-GA Aggregates Reveals Proteasome Recruitment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2751898404",
+   "year": 2017,
+   "cited_by_count": 397,
+   "title": "In Situ Architecture and Cellular Interactions of PolyQ Inclusions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2214850930",
+   "year": 2015,
+   "cited_by_count": 394,
+   "title": "The GroEL–GroES Chaperonin Machine: A Nano-Cage for Protein Folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2219462594",
+   "year": 2015,
+   "cited_by_count": 394,
+   "title": "Cytoplasmic protein aggregates interfere with nucleocytoplasmic transport of protein and RNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067310224",
+   "year": 1988,
+   "cited_by_count": 391,
+   "title": "Mitochondrial protein import: Identification of processing peptidase and of PEP, a processing enhancing protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047477750",
+   "year": 2006,
+   "cited_by_count": 390,
+   "title": "Molecular chaperones of the Hsp110 family act as nucleotide exchange factors of Hsp70s",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107755102",
+   "year": 2012,
+   "cited_by_count": 387,
+   "title": "Structural Probing of a Protein Phosphatase 2A Network by Chemical Cross-Linking and Mass Spectrometry",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109350663",
+   "year": 2013,
+   "cited_by_count": 379,
+   "title": "PolyQ Proteins Interfere with Nuclear Degradation of Cytosolic Proteins by Sequestering the Sis1p Chaperone",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2172170548",
+   "year": 2012,
+   "cited_by_count": 379,
+   "title": "DnaK Functions as a Central Hub in the E. coli Chaperone Network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017886114",
+   "year": 1996,
+   "cited_by_count": 375,
+   "title": "Protein folding in the central cavity of the GroEL–GroES chaperonin complex",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067494371",
+   "year": 2003,
+   "cited_by_count": 370,
+   "title": "More than folding: localized functions of cytosolic chaperones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090084038",
+   "year": 2002,
+   "cited_by_count": 354,
+   "title": "CD40, an extracellular receptor for binding and uptake of Hsp70–peptide complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035247586",
+   "year": 1999,
+   "cited_by_count": 353,
+   "title": "Principles of protein folding in the cellular environment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098665638",
+   "year": 1997,
+   "cited_by_count": 349,
+   "title": "In Vivo Observation of Polypeptide Flux through the Bacterial Chaperonin System",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047519073",
+   "year": 1991,
+   "cited_by_count": 337,
+   "title": "A molecular chaperone from a thermophilic archaebacterium is related to the eukaryotic protein t-complex polypeptide-1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025356047",
+   "year": 2005,
+   "cited_by_count": 336,
+   "title": "Protein Synthesis upon Acute Nutrient Restriction Relies on Proteasome Function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074850155",
+   "year": 1986,
+   "cited_by_count": 336,
+   "title": "Transport into mitochondria and intramitochondrial sorting of the Fe/S protein of ubiquinol-cytochrome c reductase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062404215",
+   "year": 2000,
+   "cited_by_count": 330,
+   "title": "Structure of the Molecular Chaperone Prefoldin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972980743",
+   "year": 1996,
+   "cited_by_count": 325,
+   "title": "Regulation of the Heat-shock Protein 70 Reaction Cycle by the Mammalian DnaJ Homolog, Hsp40",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118639179",
+   "year": 2006,
+   "cited_by_count": 312,
+   "title": "A Balance of Protein Synthesis and Proteasome-Dependent Degradation Determines the Maintenance of LTP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2178910979",
+   "year": 1992,
+   "cited_by_count": 309,
+   "title": "Protein Folding in the Cell: The Role of Molecular Chaperones Hsp70 and Hsp60",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W70515239",
+   "year": 1996,
+   "cited_by_count": 306,
+   "title": "A zinc finger‐like domain of the molecular chaperone DnaJ is involved in binding to denatured protein substrates.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107370157",
+   "year": 2006,
+   "cited_by_count": 303,
+   "title": "Structural Features of the GroEL-GroES Nano-Cage Required for Rapid Folding of Encapsulated Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085046609",
+   "year": 1992,
+   "cited_by_count": 302,
+   "title": "Prevention of Protein Denaturation Under Heat Stress by the Chaperonin Hsp60",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016135054",
+   "year": 2001,
+   "cited_by_count": 299,
+   "title": "Dual Function of Protein Confinement in Chaperonin-Assisted Protein Folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985408089",
+   "year": 2012,
+   "cited_by_count": 296,
+   "title": "The Molecular Architecture of the Eukaryotic Chaperonin TRiC/CCT",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970108896",
+   "year": 2004,
+   "cited_by_count": 293,
+   "title": "Roles of molecular chaperones in protein misfolding diseases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018641097",
+   "year": 1995,
+   "cited_by_count": 288,
+   "title": "Molecular chaperones in cellular protein folding",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011358070",
+   "year": 2006,
+   "cited_by_count": 281,
+   "title": "Chaperonin TRiC Promotes the Assembly of polyQ Expansion Proteins into Nontoxic Oligomers",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165922683",
+   "year": 1987,
+   "cited_by_count": 277,
+   "title": "Successive translocation into and out of the mitochondrial matrix: Targeting of proteins to the intermembrane space by a bipartite signal peptide",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

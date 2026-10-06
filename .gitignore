@@ -34,3 +34,13 @@ experiment/preseen/dryrun_fast.py
 experiment/preseen/people/*dryrun_fast*
 experiment/preseen/cards*/_titles_cache.json
 experiment/**/*.original.md
+experiment/preseen_main_no_other/preseen_exp/
+experiment/preseen_main_no_other/submit_after_profile.out
+experiment/preseen_30_no_other/preseen_exp/
+experiment/preseen_30_no_other/submit_after_profiles.out
+
+# all Preseen experiment folders: client state (question and task ids), run logs, OpenAlex API / title caches
+experiment/**/preseen_exp/
+experiment/**/*.out
+experiment/**/_titles_cache.json
+experiment/**/_work/api/

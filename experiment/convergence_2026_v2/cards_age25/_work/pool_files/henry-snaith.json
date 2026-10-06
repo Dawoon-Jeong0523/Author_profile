@@ -1,0 +1,654 @@
+{
+ "person": "Henry Snaith",
+ "profile": "A5081428881",
+ "ids": [
+  "A5081428881"
+ ],
+ "options": [
+  "for the development of perovskite solar cells — Tsutomu Miyasaka, Nam-Gyu Park, Henry Snaith"
+ ],
+ "birth_year": 1978,
+ "cutoff_year": 2003,
+ "works": [
+  {
+   "paper_id": "W1965464747",
+   "year": 2012,
+   "cited_by_count": 10402,
+   "title": "Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073726416",
+   "year": 2013,
+   "cited_by_count": 10030,
+   "title": "Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144574847",
+   "year": 2013,
+   "cited_by_count": 7784,
+   "title": "Efficient planar heterojunction perovskite solar cells by vapour deposition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999717631",
+   "year": 2014,
+   "cited_by_count": 7015,
+   "title": "The emergence of perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062571793",
+   "year": 2014,
+   "cited_by_count": 4271,
+   "title": "Bright light-emitting diodes based on organometal halide perovskite",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125469086",
+   "year": 2014,
+   "cited_by_count": 3960,
+   "title": "Formamidinium lead trihalide: a broadly tunable perovskite for efficient planar heterojunction solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1553661931",
+   "year": 2015,
+   "cited_by_count": 3172,
+   "title": "Metal-halide perovskites for photovoltaic and light-emitting devices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160785667",
+   "year": 2013,
+   "cited_by_count": 3153,
+   "title": "High Charge Carrier Mobilities and Lifetimes in Organolead Trihalide Perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2234054032",
+   "year": 2016,
+   "cited_by_count": 2933,
+   "title": "A mixed-cation lead mixed-halide perovskite absorber for tandem solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019162166",
+   "year": 2013,
+   "cited_by_count": 2876,
+   "title": "Perovskites: The Emergence of a New Era for Low-Cost, High-Efficiency Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136291721",
+   "year": 2014,
+   "cited_by_count": 2584,
+   "title": "Lead-free organic–inorganic tin halide perovskites for photovoltaic applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100716359",
+   "year": 2014,
+   "cited_by_count": 2421,
+   "title": "Anomalous Hysteresis in Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065204918",
+   "year": 2015,
+   "cited_by_count": 2123,
+   "title": "Impact of microstructure on local carrier lifetime in perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1696825759",
+   "year": 2015,
+   "cited_by_count": 1973,
+   "title": "Direct measurement of the exciton binding energy and effective masses for charge carriers in organic–inorganic tri-halide perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091471276",
+   "year": 2013,
+   "cited_by_count": 1940,
+   "title": "Morphological Control for High Performance, Solution‐Processed Planar Heterojunction Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022879044",
+   "year": 2013,
+   "cited_by_count": 1807,
+   "title": "Overcoming ultraviolet light instability of sensitized TiO2 with meso-superstructured organometal tri-halide perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1946383872",
+   "year": 2015,
+   "cited_by_count": 1765,
+   "title": "Inorganic caesium lead iodide perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035920177",
+   "year": 2013,
+   "cited_by_count": 1707,
+   "title": "Efficient organometal trihalide perovskite planar-heterojunction solar cells on flexible polymer substrates",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105759630",
+   "year": 2014,
+   "cited_by_count": 1705,
+   "title": "Excitons versus free charges in organo-lead tri-halide perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062002268",
+   "year": 2014,
+   "cited_by_count": 1699,
+   "title": "High Photoluminescence Efficiency and Optically Pumped Lasing in Solution-Processed Mixed Halide Perovskite Semiconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991889838",
+   "year": 2014,
+   "cited_by_count": 1641,
+   "title": "Enhanced Photoluminescence and Solar Cell Performance via Lewis Base Passivation of Organic–Inorganic Lead Halide Perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066938000",
+   "year": 2013,
+   "cited_by_count": 1641,
+   "title": "Low-temperature processed meso-superstructured to thin-film perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2265691491",
+   "year": 2016,
+   "cited_by_count": 1521,
+   "title": "Bandgap‐Tunable Cesium Lead Halide Perovskites with High Thermal Stability for Efficient Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3002058265",
+   "year": 2020,
+   "cited_by_count": 1514,
+   "title": "Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2588813628",
+   "year": 2017,
+   "cited_by_count": 1479,
+   "title": "23.6%-efficient monolithic perovskite/silicon tandem solar cells with improved stability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2811284615",
+   "year": 2018,
+   "cited_by_count": 1467,
+   "title": "Enhanced photovoltage for inverted planar heterojunction perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2512549170",
+   "year": 2016,
+   "cited_by_count": 1432,
+   "title": "Perovskite-perovskite tandem photovoltaics with optimized band gaps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2962424236",
+   "year": 2019,
+   "cited_by_count": 1420,
+   "title": "Planar perovskite solar cells with long-term stability using ionic liquid additives",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2746521678",
+   "year": 2017,
+   "cited_by_count": 1369,
+   "title": "Efficient ambient-air-stable solar cells with 2D–3D heterostructured butylammonium-caesium-formamidinium lead halide perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963479887",
+   "year": 2012,
+   "cited_by_count": 1287,
+   "title": "The renaissance of dye-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136672396",
+   "year": 2015,
+   "cited_by_count": 1238,
+   "title": "Stability of Metal Halide Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2395081394",
+   "year": 2016,
+   "cited_by_count": 1238,
+   "title": "Electron–phonon coupling in hybrid lead halide perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2318514767",
+   "year": 2014,
+   "cited_by_count": 1179,
+   "title": "Carbon Nanotube/Polymer Composites as a Highly Stable Hole Collection Layer in Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2317884741",
+   "year": 2014,
+   "cited_by_count": 1151,
+   "title": "Recombination Kinetics in Organic-Inorganic Perovskites: Excitons, Free Charge, and Subgap States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2925297077",
+   "year": 2019,
+   "cited_by_count": 1083,
+   "title": "Photovoltaic solar cell technologies: analysing the state of the art",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051702275",
+   "year": 2013,
+   "cited_by_count": 1060,
+   "title": "Low-Temperature Processed Electron Collection Layers of Graphene/TiO2 Nanocomposites in Thin Film Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2556028206",
+   "year": 2017,
+   "cited_by_count": 1047,
+   "title": "Cs2InAgCl6: A New Lead-Free Halide Double Perovskite with Direct Band Gap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2556342416",
+   "year": 2016,
+   "cited_by_count": 1044,
+   "title": "Toward Lead-Free Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346195049",
+   "year": 2016,
+   "cited_by_count": 1031,
+   "title": "Metal halide perovskites for energy applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2299559653",
+   "year": 2016,
+   "cited_by_count": 1017,
+   "title": "Lead-Free Halide Double Perovskites via Heterovalent Substitution of Noble Metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013152100",
+   "year": 2014,
+   "cited_by_count": 1012,
+   "title": "Steric engineering of metal-halide perovskites with tunable optical band gaps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2407336804",
+   "year": 2016,
+   "cited_by_count": 1000,
+   "title": "Photo-induced halide redistribution in organic–inorganic perovskite films",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1821790061",
+   "year": 2015,
+   "cited_by_count": 920,
+   "title": "Temperature‐Dependent Charge‐Carrier Dynamics in CH 3 NH 3 PbI 3 Perovskite Thin Films",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064457780",
+   "year": 2015,
+   "cited_by_count": 919,
+   "title": "Ultrasmooth organic–inorganic perovskite thin-film formation and crystallization for efficient planar heterojunction solar cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2798854189",
+   "year": 2018,
+   "cited_by_count": 859,
+   "title": "High-efficiency perovskite–polymer bulk heterostructure light-emitting diodes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000607922",
+   "year": 2013,
+   "cited_by_count": 803,
+   "title": "Mesoporous TiO2 single crystals delivering enhanced mobility and optoelectronic device performance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3134158070",
+   "year": 2021,
+   "cited_by_count": 781,
+   "title": "Ligand-engineered bandgap stability in mixed-halide perovskite LEDs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165904200",
+   "year": 2011,
+   "cited_by_count": 774,
+   "title": "Electron Mobility and Injection Dynamics in Mesoporous ZnO, SnO 2 , and TiO 2 Films Used in Dye-Sensitized Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2801228296",
+   "year": 2018,
+   "cited_by_count": 757,
+   "title": "Present status and future prospects of perovskite photovoltaics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048126895",
+   "year": 2014,
+   "cited_by_count": 750,
+   "title": "Supramolecular Halogen Bond Passivation of Organic–Inorganic Halide Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2265329223",
+   "year": 2015,
+   "cited_by_count": 734,
+   "title": "Enhanced optoelectronic quality of perovskite thin films with hypophosphorous acid for planar heterojunction solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2232208415",
+   "year": 2016,
+   "cited_by_count": 729,
+   "title": "Determination of the exciton binding energy and effective masses for methylammonium and formamidinium lead tri-halide perovskite semiconductors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2307860721",
+   "year": 2016,
+   "cited_by_count": 694,
+   "title": "Photon recycling in lead iodide perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2325797939",
+   "year": 2014,
+   "cited_by_count": 677,
+   "title": "Heterojunction Modification for Highly Efficient Organic–Inorganic Perovskite Solar Cells",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2473855123",
+   "year": 2016,
+   "cited_by_count": 677,
+   "title": "Band Gaps of the Lead-Free Halide Double Perovskites Cs 2 BiAgCl 6 and Cs 2 BiAgBr 6 from Theory and Experiment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767546280",
+   "year": 2017,
+   "cited_by_count": 675,
+   "title": "A generic interface to reduce the efficiency-stability-cost gap of perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2233070813",
+   "year": 2015,
+   "cited_by_count": 664,
+   "title": "Modeling Anomalous Hysteresis in Perovskite Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044423188",
+   "year": 2013,
+   "cited_by_count": 653,
+   "title": "The Raman Spectrum of the CH 3 NH 3 PbI 3 Hybrid Perovskite: Interplay of Theory and Experiment",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147269441",
+   "year": 2012,
+   "cited_by_count": 650,
+   "title": "Lithium salts as “redox active” p-type dopants for organic semiconductors and their impact in solid-state dye-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3038218674",
+   "year": 2020,
+   "cited_by_count": 648,
+   "title": "A piperidinium salt stabilizes efficient metal-halide perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019862669",
+   "year": 2013,
+   "cited_by_count": 629,
+   "title": "High-Performance Perovskite-Polymer Hybrid Solar Cells via Electronic Coupling with Fullerene Monolayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170444980",
+   "year": 2007,
+   "cited_by_count": 612,
+   "title": "Advances in Liquid‐Electrolyte and Solid‐State Dye‐Sensitized Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3135038253",
+   "year": 2021,
+   "cited_by_count": 608,
+   "title": "Revealing Charge Carrier Mobility and Defect Densities in Metal Halide Perovskites via Space-Charge-Limited Current Measurements",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2225539228",
+   "year": 2016,
+   "cited_by_count": 597,
+   "title": "Enhanced UV-light stability of planar heterojunction perovskite solar cells with caesium bromide interface modification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041438187",
+   "year": 2014,
+   "cited_by_count": 581,
+   "title": "Sub-150 °C processed meso-superstructured perovskite solar cells with enhanced efficiency",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994012531",
+   "year": 2013,
+   "cited_by_count": 580,
+   "title": "Enhancement of Perovskite-Based Solar Cells Employing Core–Shell Metal Nanoparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2562697310",
+   "year": 2016,
+   "cited_by_count": 579,
+   "title": "Photovoltaic mixed-cation lead mixed-halide perovskites: links between crystallinity, photo-stability and electronic properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2809524788",
+   "year": 2018,
+   "cited_by_count": 571,
+   "title": "Cubic or Orthorhombic? Revealing the Crystal Structure of Metastable Black-Phase CsPbI 3 by Theory and Experiment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014004250",
+   "year": 2010,
+   "cited_by_count": 570,
+   "title": "Plasmonic Dye-Sensitized Solar Cells Using Core−Shell Metal−Insulator Nanoparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2409321964",
+   "year": 2015,
+   "cited_by_count": 553,
+   "title": "The Importance of Moisture in Hybrid Lead Halide Perovskite Thin Film Fabrication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076531623",
+   "year": 2010,
+   "cited_by_count": 526,
+   "title": "SnO2-Based Dye-Sensitized Hybrid Solar Cells Exhibiting Near Unity Absorbed Photon-to-Electron Conversion Efficiency",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973118584",
+   "year": 2009,
+   "cited_by_count": 506,
+   "title": "Estimating the Maximum Attainable Efficiency in Dye‐Sensitized Solar Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2507869474",
+   "year": 2016,
+   "cited_by_count": 506,
+   "title": "Carrier trapping and recombination: the role of defect physics in enhancing the open circuit voltage of metal halide perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2524488697",
+   "year": 2016,
+   "cited_by_count": 504,
+   "title": "Charge-Carrier Dynamics in 2D Hybrid Metal–Halide Perovskites",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144251237",
+   "year": 2015,
+   "cited_by_count": 503,
+   "title": "Structural and optical properties of methylammonium lead iodide across the tetragonal to cubic phase transition: implications for perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965004244",
+   "year": 2014,
+   "cited_by_count": 502,
+   "title": "Optical properties and limiting photocurrent of thin-film perovskite solar cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2769254440",
+   "year": 2017,
+   "cited_by_count": 501,
+   "title": "Metal halide perovskite tandem and multiple-junction photovoltaics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145815074",
+   "year": 2008,
+   "cited_by_count": 484,
+   "title": "A Bicontinuous Double Gyroid Hybrid Solar Cell",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023630586",
+   "year": 2014,
+   "cited_by_count": 465,
+   "title": "Charge-carrier dynamics in vapour-deposited films of the organolead halide perovskite CH 3 NH 3 PbI 3−x Cl x",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007967261",
+   "year": 2006,
+   "cited_by_count": 462,
+   "title": "Enhanced charge mobility in a molecular hole transporter via addition of redox inactive ionic dopant: Implication to dye-sensitized solar cells",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

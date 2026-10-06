@@ -1,0 +1,657 @@
+{
+ "person": "Matthias Mann",
+ "profile": "A5090940750",
+ "ids": [
+  "A5090940750",
+  "A5112018055",
+  "A5108985618",
+  "A5006865320"
+ ],
+ "options": [
+  "for the development of mass-spectrometry-based proteomics — John R. Yates III, Matthias Mann, Ruedi Aebersold"
+ ],
+ "birth_year": 1959,
+ "cutoff_year": 1984,
+ "works": [
+  {
+   "paper_id": "W2080752012",
+   "year": 2008,
+   "cited_by_count": 15197,
+   "title": "MaxQuant enables high peptide identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078594804",
+   "year": 1996,
+   "cited_by_count": 9012,
+   "title": "Mass Spectrometric Sequencing of Proteins from Silver-Stained Polyacrylamide Gels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037199116",
+   "year": 2009,
+   "cited_by_count": 8413,
+   "title": "Universal sample preparation method for proteome analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2463195069",
+   "year": 2016,
+   "cited_by_count": 8344,
+   "title": "The Perseus computational platform for comprehensive analysis of (prote)omics data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073292063",
+   "year": 1989,
+   "cited_by_count": 7473,
+   "title": "Electrospray Ionization for Mass Spectrometry of Large Biomolecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023096047",
+   "year": 2003,
+   "cited_by_count": 6790,
+   "title": "Mass spectrometry-based proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036321220",
+   "year": 2011,
+   "cited_by_count": 5723,
+   "title": "Andromeda: A Peptide Search Engine Integrated into the MaxQuant Environment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140946052",
+   "year": 2002,
+   "cited_by_count": 5561,
+   "title": "Stable Isotope Labeling by Amino Acids in Cell Culture, SILAC, as a Simple and Accurate Approach to Expression Proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170776626",
+   "year": 2014,
+   "cited_by_count": 5260,
+   "title": "Accurate Proteome-wide Label-free Quantification by Delayed Normalization and Maximal Peptide Ratio Extraction, Termed MaxLFQ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986656413",
+   "year": 2007,
+   "cited_by_count": 5033,
+   "title": "Protocol for micro-purification, enrichment, pre-fractionation and storage of peptides for proteomics using StageTips",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991366673",
+   "year": 2006,
+   "cited_by_count": 4998,
+   "title": "In-gel digestion for mass spectrometric characterization of proteins and proteomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009826707",
+   "year": 2009,
+   "cited_by_count": 4104,
+   "title": "Lysine Acetylation Targets Protein Complexes and Co-Regulates Major Cellular Functions",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104726963",
+   "year": 2006,
+   "cited_by_count": 3597,
+   "title": "Global, In Vivo, and Site-Specific Phosphorylation Dynamics in Signaling Networks",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037036397",
+   "year": 2002,
+   "cited_by_count": 3586,
+   "title": "Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094334993",
+   "year": 1996,
+   "cited_by_count": 3047,
+   "title": "FLICE, A Novel FADD-Homologous ICE/CED-3–like Protease, Is Recruited to the CD95 (Fas/APO-1) Death-Inducing Signaling Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003236418",
+   "year": 2002,
+   "cited_by_count": 2725,
+   "title": "Stop and Go Extraction Tips for Matrix-Assisted Laser Desorption/Ionization, Nanoelectrospray, and LC/MS Sample Pretreatment in Proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1575542444",
+   "year": 1999,
+   "cited_by_count": 2695,
+   "title": "A generic protein purification method for protein complex characterization and proteome exploration",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097463865",
+   "year": 2000,
+   "cited_by_count": 2357,
+   "title": "Proteomics to study genes and genomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2519691041",
+   "year": 2016,
+   "cited_by_count": 2175,
+   "title": "Mass-spectrometric exploration of proteome structure and function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079056345",
+   "year": 2003,
+   "cited_by_count": 2100,
+   "title": "Proteomic analysis of post-translational modifications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148490163",
+   "year": 2005,
+   "cited_by_count": 2071,
+   "title": "Exponentially Modified Protein Abundance Index (emPAI) for Estimation of Absolute Protein Amount in Proteomics by the Number of Sequenced Peptides per Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159979956",
+   "year": 1997,
+   "cited_by_count": 2039,
+   "title": "IKK-1 and IKK-2: Cytokine-Activated IκB Kinases Essential for NF-κB Activation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031884770",
+   "year": 1996,
+   "cited_by_count": 1839,
+   "title": "Analytical Properties of the Nanoelectrospray Ion Source",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972399884",
+   "year": 2014,
+   "cited_by_count": 1797,
+   "title": "Minimal, encapsulated proteomic-sample processing applied to copy-number estimation in eukaryotic cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966809971",
+   "year": 1996,
+   "cited_by_count": 1674,
+   "title": "Femtomole sequencing of proteins from polyacrylamide gels by nano-electrospray mass spectrometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2530067632",
+   "year": 2016,
+   "cited_by_count": 1584,
+   "title": "L-Arginine Modulates T Cell Metabolism and Enhances Survival and Anti-tumor Activity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975558168",
+   "year": 2005,
+   "cited_by_count": 1553,
+   "title": "Mass spectrometry–based proteomics turns quantitative",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036940947",
+   "year": 1990,
+   "cited_by_count": 1541,
+   "title": "Electrospray ionization–principles and practice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134749398",
+   "year": 2005,
+   "cited_by_count": 1527,
+   "title": "Parts per Million Mass Accuracy on an Orbitrap Mass Spectrometer via Lock Mass Injection into a C-trap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140638448",
+   "year": 2010,
+   "cited_by_count": 1499,
+   "title": "Quantitative Phosphoproteomics Reveals Widespread Full Phosphorylation Site Occupancy During Mitosis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058135122",
+   "year": 1994,
+   "cited_by_count": 1469,
+   "title": "Error-Tolerant Identification of Peptides in Sequence Databases by Peptide Sequence Tags",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126024920",
+   "year": 1996,
+   "cited_by_count": 1429,
+   "title": "Linking genome and proteome by mass spectrometry: Large-scale identification of yeast proteins from two dimensional gels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1838945435",
+   "year": 2015,
+   "cited_by_count": 1355,
+   "title": "A Human Interactome in Three Quantitative Dimensions Organized by Stoichiometries and Abundances",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162681116",
+   "year": 2003,
+   "cited_by_count": 1307,
+   "title": "Proteomic characterization of the human centrosome by protein correlation profiling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064437293",
+   "year": 2014,
+   "cited_by_count": 1282,
+   "title": "The growing landscape of lysine acetylation links metabolism and cell signalling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141036148",
+   "year": 2004,
+   "cited_by_count": 1278,
+   "title": "Trypsin Cleaves Exclusively C-terminal to Arginine and Lysine Residues",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004561527",
+   "year": 1997,
+   "cited_by_count": 1257,
+   "title": "Reverse Transcriptase Motifs in the Catalytic Subunit of Telomerase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161574105",
+   "year": 2001,
+   "cited_by_count": 1217,
+   "title": "Analysis of Proteins and Proteomes by Mass Spectrometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083309296",
+   "year": 2005,
+   "cited_by_count": 1137,
+   "title": "Nucleolar proteome dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091375086",
+   "year": 2004,
+   "cited_by_count": 1137,
+   "title": "The abc's (and xyz's) of peptide sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2511152819",
+   "year": 2016,
+   "cited_by_count": 1116,
+   "title": "Circular non-coding RNA ANRIL modulates ribosomal RNA maturation and atherosclerosis in humans",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038766179",
+   "year": 2002,
+   "cited_by_count": 1067,
+   "title": "miRNPs: a novel class of ribonucleoproteins containing numerous microRNAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085700440",
+   "year": 1995,
+   "cited_by_count": 1033,
+   "title": "Glucosylation of Rho proteins by Clostridium difficile toxin B",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2253950023",
+   "year": 2016,
+   "cited_by_count": 1029,
+   "title": "Phosphoproteomics reveals that Parkinson's disease kinase LRRK2 regulates a subset of Rab GTPases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107578201",
+   "year": 2011,
+   "cited_by_count": 1021,
+   "title": "Deep proteome and transcriptome mapping of a human cancer cell line",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134762011",
+   "year": 2002,
+   "cited_by_count": 1010,
+   "title": "Directed Proteomic Analysis of the Human Nucleolus",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996310767",
+   "year": 2014,
+   "cited_by_count": 1002,
+   "title": "Ultradeep Human Phosphoproteome Reveals a Distinct Regulatory Nature of Tyr and Ser/Thr-Based Signaling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965942536",
+   "year": 2003,
+   "cited_by_count": 998,
+   "title": "From genomics to proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078598194",
+   "year": 2007,
+   "cited_by_count": 995,
+   "title": "Higher-energy C-trap dissociation for peptide modification analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2759363431",
+   "year": 2017,
+   "cited_by_count": 985,
+   "title": "Revisiting biomarker discovery by plasma proteomics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111922856",
+   "year": 2005,
+   "cited_by_count": 969,
+   "title": "Specificity in Toll-like receptor signalling through distinct effector functions of TRAF3 and TRAF6",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973753936",
+   "year": 1994,
+   "cited_by_count": 963,
+   "title": "Electrospray and Taylor-Cone theory, Dole's beam of macromolecules at last?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952907530",
+   "year": 2018,
+   "cited_by_count": 959,
+   "title": "Online Parallel Accumulation–Serial Fragmentation (PASEF) with a Novel Trapped Ion Mobility Mass Spectrometer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2793216206",
+   "year": 2006,
+   "cited_by_count": 949,
+   "title": "Functional and quantitative proteomics using SILAC",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044386270",
+   "year": 1997,
+   "cited_by_count": 944,
+   "title": "The Exosome: A Conserved Eukaryotic RNA Processing Complex Containing Multiple 3′→5′ Exoribonucleases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119376397",
+   "year": 1993,
+   "cited_by_count": 934,
+   "title": "Use of mass spectrometric molecular weight information to identify proteins in sequence databases",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117506397",
+   "year": 2002,
+   "cited_by_count": 921,
+   "title": "Large-Scale Proteomic Analysis of the Human Spliceosome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045868744",
+   "year": 2010,
+   "cited_by_count": 898,
+   "title": "Precision Mapping of an In Vivo N-Glycoproteome Reveals Rigid Topological and Sequence Constraints",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165923048",
+   "year": 2002,
+   "cited_by_count": 897,
+   "title": "Analysis of protein phosphorylation using mass spectrometry: deciphering the phosphoproteome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992848590",
+   "year": 2006,
+   "cited_by_count": 893,
+   "title": "A practical recipe for stable isotope labeling by amino acids in cell culture (SILAC)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968403457",
+   "year": 2008,
+   "cited_by_count": 889,
+   "title": "Comprehensive mass-spectrometry-based proteome quantification of haploid versus diploid yeast",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082516237",
+   "year": 2003,
+   "cited_by_count": 883,
+   "title": "Integrated Analysis of Protein Composition, Tissue Diversity, and Gene Regulation in Mouse Mitochondria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134095164",
+   "year": 2011,
+   "cited_by_count": 883,
+   "title": "A Proteome-wide, Quantitative Survey of In Vivo Ubiquitylation Sites Reveals Widespread Regulatory Roles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167315449",
+   "year": 2007,
+   "cited_by_count": 877,
+   "title": "Selective Anchoring of TFIID to Nucleosomes by Trimethylation of Histone H3 Lysine 4",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152432732",
+   "year": 2001,
+   "cited_by_count": 863,
+   "title": "AU Binding Proteins Recruit the Exosome to Degrade ARE-Containing mRNAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3108232640",
+   "year": 2020,
+   "cited_by_count": 857,
+   "title": "diaPASEF: parallel accumulation–serial fragmentation combined with data-independent acquisition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089472706",
+   "year": 2002,
+   "cited_by_count": 830,
+   "title": "Mechanism of regulation of WAVE1-induced actin nucleation by Rac1 and Nck",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122925019",
+   "year": 2003,
+   "cited_by_count": 830,
+   "title": "Unbiased quantitative proteomics of lipid rafts reveals high specificity for signaling factors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151619201",
+   "year": 2012,
+   "cited_by_count": 820,
+   "title": "Comparative Proteomic Analysis of Eleven Common Cell Lines Reveals Ubiquitous but Varying Expression of Most Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124081847",
+   "year": 2011,
+   "cited_by_count": 815,
+   "title": "Mass Spectrometry-based Proteomics Using Q Exactive, a High-performance Benchtop Quadrupole Orbitrap Mass Spectrometer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1955394435",
+   "year": 2015,
+   "cited_by_count": 810,
+   "title": "Cell type– and brain region–resolved mouse brain proteome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996868531",
+   "year": 2010,
+   "cited_by_count": 798,
+   "title": "Quantitative Interaction Proteomics and Genome-wide Profiling of Epigenetic Histone Marks and Their Readers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974667981",
+   "year": 2009,
+   "cited_by_count": 778,
+   "title": "A practical guide to the MaxQuant computational platform for SILAC-based quantitative proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124008135",
+   "year": 2002,
+   "cited_by_count": 765,
+   "title": "Axin-mediated CKI phosphorylation of β-catenin at Ser 45: a molecular switch for the Wnt pathway",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128987420",
+   "year": 2005,
+   "cited_by_count": 762,
+   "title": "Quantitative Phosphoproteomics Applied to the Yeast Pheromone Signaling Pathway",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113153354",
+   "year": 2007,
+   "cited_by_count": 752,
+   "title": "The minimum information about a proteomics experiment (MIAPE)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125947965",
+   "year": 2005,
+   "cited_by_count": 752,
+   "title": "Phosphotyrosine interactome of the ErbB‐receptor kinase family",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2302629258",
+   "year": 2016,
+   "cited_by_count": 736,
+   "title": "Plasma Proteome Profiling to Assess Human Health and Disease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152983548",
+   "year": 2014,
+   "cited_by_count": 706,
+   "title": "A “Proteomic Ruler” for Protein Copy Number and Concentration Estimation without Spike-in Standards",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073371472",
+   "year": 2011,
+   "cited_by_count": 695,
+   "title": "More than 100,000 Detectable Peptide Species Elute in Single Shotgun Proteomics Runs but the Majority is Inaccessible to Data-Dependent LC−MS/MS",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "person": "Alan H. Guth",
+ "birth_year": 1947,
+ "cutoff_year": 1972,
+ "options": [
+  "for the theoretical formulation of cosmic inflation and the prediction of the quantum origin of cosmological structure — Alan H. Guth, Andrei Linde, Viatcheslav Mukhanov"
+ ],
+ "works": [
+  {
+   "paper_id": "W2134251287",
+   "year": 1981,
+   "cited_by_count": 9403,
+   "C_5_pctl": 1.0,
+   "title": "Inflationary universe: A possible solution to the horizon and flatness problems"
+  },
+  {
+   "paper_id": "W2164459358",
+   "year": 1982,
+   "cited_by_count": 2276,
+   "C_5_pctl": 1.0,
+   "title": "Fluctuations in the New Inflationary Universe"
+  },
+  {
+   "paper_id": "W2069871288",
+   "year": 1983,
+   "cited_by_count": 550,
+   "C_5_pctl": 0.99,
+   "title": "Could the universe have recovered from a slow first-order phase transition?"
+  },
+  {
+   "paper_id": "W2173216839",
+   "year": 1985,
+   "cited_by_count": 438,
+   "C_5_pctl": 0.99,
+   "title": "Quantum mechanics of the scalar field in the new inflationary universe"
+  },
+  {
+   "paper_id": "W2074968615",
+   "year": 1987,
+   "cited_by_count": 392,
+   "C_5_pctl": 0.99,
+   "title": "Dynamics of false-vacuum bubbles"
+  },
+  {
+   "paper_id": "W2055148549",
+   "year": 1980,
+   "cited_by_count": 309,
+   "C_5_pctl": 1.0,
+   "title": "Phase Transitions and Magnetic Monopole Production in the Very Early Universe"
+  },
+  {
+   "paper_id": "W1974361786",
+   "year": 2000,
+   "cited_by_count": 288,
+   "C_5_pctl": 0.99,
+   "title": "Inflation and eternal inflation"
+  },
+  {
+   "paper_id": "W2119197867",
+   "year": 1981,
+   "cited_by_count": 272,
+   "C_5_pctl": 0.99,
+   "title": "Cosmological consequences of a first-order phase transition in the S U 5 grand unified model"
+  },
+  {
+   "paper_id": "W1782545642",
+   "year": 2015,
+   "cited_by_count": 270,
+   "C_5_pctl": 1.0,
+   "title": "Do dark matter axions form a condensate with long-range correlation?"
+  },
+  {
+   "paper_id": "W3003752728",
+   "year": 1998,
+   "cited_by_count": 209,
+   "C_5_pctl": 0.92,
+   "title": "The Inflationary Universe: The Quest for a New Theory of Cosmic Origins."
+  },
+  {
+   "paper_id": "W2095201280",
+   "year": 1987,
+   "cited_by_count": 204,
+   "C_5_pctl": 0.96,
+   "title": "An obstacle to creating a universe in the laboratory"
+  },
+  {
+   "paper_id": "W2143087105",
+   "year": 1980,
+   "cited_by_count": 199,
+   "C_5_pctl": 0.99,
+   "title": "Existence proof of a nonconfining phase in four-dimensional U(1) lattice gauge theory"
+  },
+  {
+   "paper_id": "W2582286644",
+   "year": 2017,
+   "cited_by_count": 195,
+   "C_5_pctl": 1.0,
+   "title": "Cosmic Bell Test: Measurement Settings from Milky Way Stars"
+  },
+  {
+   "paper_id": "W2885514042",
+   "year": 2018,
+   "cited_by_count": 184,
+   "C_5_pctl": 1.0,
+   "title": "Cosmic Bell Test Using Random Measurement Settings from High-Redshift Quasars"
+  },
+  {
+   "paper_id": "W2115991454",
+   "year": 2014,
+   "cited_by_count": 181,
+   "C_5_pctl": 1.0,
+   "title": "Inflationary paradigm after Planck 2013"
+  },
+  {
+   "paper_id": "W2804270774",
+   "year": 2018,
+   "cited_by_count": 161,
+   "C_5_pctl": 1.0,
+   "title": "QCD axion window and low-scale inflation"
+  },
+  {
+   "paper_id": "W1996591999",
+   "year": 1980,
+   "cited_by_count": 125,
+   "C_5_pctl": 0.99,
+   "title": "Dual variables for lattice gauge theories and the phase structure of Z(N) systems"
+  },
+  {
+   "paper_id": "W2022203910",
+   "year": 1991,
+   "cited_by_count": 124,
+   "C_5_pctl": 0.98,
+   "title": "Quantum creation of topological defects during inflation"
+  },
+  {
+   "paper_id": "W2109592201",
+   "year": 2008,
+   "cited_by_count": 104,
+   "C_5_pctl": 0.99,
+   "title": "Predicting the cosmological constant with the scale-factor cutoff measure"
+  },
+  {
+   "paper_id": "W2528526411",
+   "year": 1977,
+   "cited_by_count": 102,
+   "C_5_pctl": 0.97,
+   "title": "Pseudoparticle parameters for arbitrary gauge groups"
+  },
+  {
+   "paper_id": "W2161912148",
+   "year": 1991,
+   "cited_by_count": 102,
+   "C_5_pctl": 0.96,
+   "title": "Constraints on the scalar-field potential in inflationary models"
+  },
+  {
+   "paper_id": "W2592355872",
+   "year": 2007,
+   "cited_by_count": 99,
+   "C_5_pctl": 0.97,
+   "title": "Constraining torsion with Gravity Probe B"
+  },
+  {
+   "paper_id": "W4234464502",
+   "year": 1980,
+   "cited_by_count": 94,
+   "C_5_pctl": 0.98,
+   "title": "Phase Transitions and Magnetic Monopole Production in the Very Early Universe"
+  },
+  {
+   "paper_id": "W2102601727",
+   "year": 1980,
+   "cited_by_count": 91,
+   "C_5_pctl": 0.99,
+   "title": "Cosmological Lower Bound on the Higgs-Boson Mass"
+  },
+  {
+   "paper_id": "W2079595676",
+   "year": 1976,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.97,
+   "title": "Nonexistence of spherically symmetric monopoles with multiple magnetic charge"
+  },
+  {
+   "paper_id": "W2114642719",
+   "year": 2007,
+   "cited_by_count": 78,
+   "C_5_pctl": 0.99,
+   "title": "Eternal inflation, bubble collisions, and the persistence of memory"
+  },
+  {
+   "paper_id": "W2772307891",
+   "year": 2018,
+   "cited_by_count": 61,
+   "C_5_pctl": 0.99,
+   "title": "Relativistic corrections to nonrelativistic effective field theories"
+  },
+  {
+   "paper_id": "W1832214832",
+   "year": 2012,
+   "cited_by_count": 61,
+   "C_5_pctl": 0.98,
+   "title": "What can the observation of nonzero curvature tell us?"
+  },
+  {
+   "paper_id": "W3037689451",
+   "year": 2001,
+   "cited_by_count": 60,
+   "C_5_pctl": 0.88,
+   "title": "Eternal Inflation"
+  },
+  {
+   "paper_id": "W2078730307",
+   "year": 1994,
+   "cited_by_count": 56,
+   "C_5_pctl": 0.9,
+   "title": "Energy-momentum restrictions on the creation of Gott time machines"
+  },
+  {
+   "paper_id": "W2064618604",
+   "year": 1992,
+   "cited_by_count": 48,
+   "C_5_pctl": 0.98,
+   "title": "An obstacle to building a time machine"
+  },
+  {
+   "paper_id": "W2889859890",
+   "year": 2019,
+   "cited_by_count": 39,
+   "C_5_pctl": 0.97,
+   "title": "Relaxed Bell inequalities with arbitrary measurement dependence for each observer"
+  },
+  {
+   "paper_id": "W2017082989",
+   "year": 1976,
+   "cited_by_count": 37,
+   "C_5_pctl": 0.94,
+   "title": "Canonical formalism for gauge theories with application to monopole"
+  },
+  {
+   "paper_id": "W2039660482",
+   "year": 1997,
+   "cited_by_count": 35,
+   "C_5_pctl": 0.69,
+   "title": "The Inflationary Universe: The Quest for a New Theory of Cosmic Origins"
+  },
+  {
+   "paper_id": "W2005485168",
+   "year": 1992,
+   "cited_by_count": 33,
+   "C_5_pctl": 0.97,
+   "title": "Density fluctuations in extended inflation"
+  },
+  {
+   "paper_id": "W4244410522",
+   "year": 1993,
+   "cited_by_count": 32,
+   "C_5_pctl": 0.86,
+   "title": "Inflation."
+  },
+  {
+   "paper_id": "W1650585867",
+   "year": 1999,
+   "cited_by_count": 22,
+   "C_5_pctl": 0.95,
+   "title": "Day-night and energy dependence of MSW solar neutrinos for maximal mixing"
+  },
+  {
+   "paper_id": "W1999867033",
+   "year": 1976,
+   "cited_by_count": 22,
+   "C_5_pctl": 0.94,
+   "title": "Large- Q2 behavior of the pion electromagnetic form factor"
+  },
+  {
+   "paper_id": "W2025671751",
+   "year": 1975,
+   "cited_by_count": 14,
+   "C_5_pctl": 0.88,
+   "title": "Short-distance behavior of the Bethe-Salpeter wave function in the ladder model"
+  },
+  {
+   "paper_id": "W2028932538",
+   "year": 1986,
+   "cited_by_count": 14,
+   "C_5_pctl": 0.83,
+   "title": "Inflation and shadow matter"
+  },
+  {
+   "paper_id": "W2027985243",
+   "year": 1983,
+   "cited_by_count": 14,
+   "C_5_pctl": 0.77,
+   "title": "The impossibility of a bouncing universe"
+  },
+  {
+   "paper_id": "W1978413992",
+   "year": 1982,
+   "cited_by_count": 13,
+   "C_5_pctl": 0.78,
+   "title": "Phase transitions in the embryo Universe"
+  },
+  {
+   "paper_id": "W2078084237",
+   "year": 1974,
+   "cited_by_count": 13,
+   "C_5_pctl": 0.76,
+   "title": "A relativistic quark model for mesons based on numerical solutions of the Bethe-Salpeter equation"
+  },
+  {
+   "paper_id": "W1992646330",
+   "year": 1991,
+   "cited_by_count": 9,
+   "C_5_pctl": 0.82,
+   "title": "Can a man-made Universe be created by quantum tunneling without an initial singularity?"
+  },
+  {
+   "paper_id": "W2025208809",
+   "year": 1990,
+   "cited_by_count": 9,
+   "C_5_pctl": 0.78,
+   "title": "Dynamics of thick domain walls in an inhomogeneous inflationary model"
+  },
+  {
+   "paper_id": "W206194515",
+   "year": 2000,
+   "cited_by_count": 9,
+   "C_5_pctl": 0.72,
+   "title": "In#ation and eternal in#ation q"
+  },
+  {
+   "paper_id": "W1981213129",
+   "year": 1976,
+   "cited_by_count": 8,
+   "C_5_pctl": 0.79,
+   "title": "Light-cone behavior of the pion Bethe-Salpeter wave function in the ladder model"
+  },
+  {
+   "paper_id": "W2465220327",
+   "year": 2002,
+   "cited_by_count": 7,
+   "C_5_pctl": null,
+   "title": "Die Geburt des Kosmos aus dem Nichts"
+  },
+  {
+   "paper_id": "W3094868962",
+   "year": 1992,
+   "cited_by_count": 7,
+   "C_5_pctl": null,
+   "title": "An Obstacle to Building a Time Machine"
+  },
+  {
+   "paper_id": "W2030301201",
+   "year": 1978,
+   "cited_by_count": 6,
+   "C_5_pctl": 0.73,
+   "title": "Note on the Atiyah-Singer index theorem"
+  },
+  {
+   "paper_id": "W2132260674",
+   "year": 1984,
+   "cited_by_count": 5,
+   "C_5_pctl": 0.73,
+   "title": "The New Inflationary Universea"
+  },
+  {
+   "paper_id": "W1675395032",
+   "year": 1983,
+   "cited_by_count": 5,
+   "C_5_pctl": 0.41,
+   "title": "PHASE TRANSITIONS IN THE VERY EARLY UNIVERSE"
+  },
+  {
+   "paper_id": "W1964768211",
+   "year": 1984,
+   "cited_by_count": 3,
+   "C_5_pctl": 0.77,
+   "title": "One objective for physicists"
+  },
+  {
+   "paper_id": "W3021175884",
+   "year": 1983,
+   "cited_by_count": 3,
+   "C_5_pctl": 0.74,
+   "title": "Speculations on the Origin of the Matter, Energy, and Entropy of the Universe"
+  },
+  {
+   "paper_id": "W2338636323",
+   "year": 1982,
+   "cited_by_count": 3,
+   "C_5_pctl": 0.51,
+   "title": "10 to the -35 seconds after the big bang"
+  },
+  {
+   "paper_id": "W139675252",
+   "year": 2015,
+   "cited_by_count": 1,
+   "C_5_pctl": 0.41,
+   "title": "Inflationary Cosmology: Is Our Universe Part of a Multiverse?"
+  },
+  {
+   "paper_id": "W92643388",
+   "year": 1999,
+   "cited_by_count": 1,
+   "C_5_pctl": 0.4,
+   "title": "El universo inflacionario: la búsqueda de una nueva teoría sobre los orígenes del cosmos"
+  },
+  {
+   "paper_id": "W2595282776",
+   "year": 2003,
+   "cited_by_count": 1,
+   "C_5_pctl": 0.35,
+   "title": "Time Since the Beginning"
+  },
+  {
+   "paper_id": "W3182560584",
+   "year": 1997,
+   "cited_by_count": 1,
+   "C_5_pctl": 0.33,
+   "title": "Thesis: Inflation Provides a Compelling Explanation for why the Universe is so Large, so Flat, and so Old, as Well as a (almost) Predictive Theory of Density Perturbations"
+  },
+  {
+   "paper_id": "W1668173827",
+   "year": 1986,
+   "cited_by_count": 1,
+   "C_5_pctl": 0.32,
+   "title": "The behavior of the Higgs field in the new inflationary universe"
+  }
+ ]
+}

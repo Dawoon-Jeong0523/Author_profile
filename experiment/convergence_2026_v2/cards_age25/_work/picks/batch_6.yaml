@@ -1,0 +1,305 @@
+Bonnie L. Bassler:
+  picks:
+  - paper_id: W1996872292
+    year: 1994
+    title: 'Multiple signalling systems controlling expression of luminescence in Vibrio harveyi : sequence and function of
+      genes encoding a second sensory pathway'
+    metrics: true
+    in_profile: true
+    reason: Identifies the second (AI-2) signalling pathway in Vibrio harveyi, the starting point of her discovery of a second,
+      interspecies autoinducer system.
+  - paper_id: W1996135784
+    year: 1999
+    title: 'Quorum sensing in Escherichia coli , Salmonella typhimurium , and Vibrio harveyi : A new family of genes responsible
+      for autoinducer production'
+    metrics: true
+    in_profile: true
+    reason: Discovers the luxS gene family that makes AI-2 across many bacterial species, establishing a widespread chemical
+      language between bacteria.
+  - paper_id: W1994462493
+    year: 2002
+    title: Structural identification of a bacterial quorum-sensing signal containing boron
+    metrics: true
+    in_profile: true
+    reason: Solves the chemical structure of the interspecies signal AI-2 as a boron-containing furanosyl borate diester bound
+      to its receptor LuxP.
+  n_related: 58
+  note: none missing; the first V. harveyi signalling paper (1993) and the cross-species induction paper (1997) are also present.
+    The 1987 neuraminidase and 1991 chitin papers are from her graduate training, and the later biofilm-mechanics papers are
+    genuine collaborations, not a namesake.
+Daniel Branton:
+  picks:
+  - paper_id: W2127407003
+    year: 1996
+    title: Characterization of individual polynucleotide molecules using a membrane channel
+    metrics: true
+    in_profile: true
+    reason: The founding demonstration that single DNA and RNA strands can be driven through an alpha-hemolysin pore and detected
+      by ionic current blockades.
+  - paper_id: W2125021618
+    year: 1999
+    title: Microsecond Time-Scale Discrimination Among Polycytidylic Acid, Polyadenylic Acid, and Polyuridylic Acid as Homopolymers
+      or as Segments Within Single RNA Molecules
+    metrics: true
+    in_profile: true
+    reason: First evidence that a nanopore can distinguish nucleotide composition, even for segments within one RNA molecule,
+      the key step toward nanopore sequencing.
+  - paper_id: W2095898308
+    year: 2001
+    title: Ion-beam sculpting at nanometre length scales
+    metrics: true
+    in_profile: true
+    reason: Introduces fabricated solid-state nanopores and uses them to detect single DNA molecules, extending the method
+      beyond biological pores.
+  n_related: 15
+  note: none missing; Meller et al. 2000 and the 2008 Nature Biotechnology perspective are also present. The freeze-etching,
+    spectrin and clathrin papers are his genuine earlier membrane-biology career, not a namesake.
+George M. Whitesides:
+  picks:
+  - paper_id: W2056648038
+    year: 1989
+    title: Formation of monolayer films by the spontaneous assembly of organic thiols from solution onto gold
+    metrics: true
+    in_profile: true
+    reason: The landmark JACS paper (with Nuzzo) establishing alkanethiol-on-gold self-assembled monolayers as a general,
+      well-characterized system.
+  - paper_id: W2092967305
+    year: 1988
+    title: 'Structures of self-assembled monolayer films of organosulfur compounds adsorbed on gold single crystals: electron
+      diffraction studies'
+    metrics: true
+    in_profile: true
+    reason: Early structural study showing the ordered lattice of thiol and sulfide monolayers on gold.
+  - paper_id: W2185386454
+    year: 1991
+    title: Comparison of the structures and wetting properties of self-assembled monolayers of n-alkanethiols on the coinage
+      metal surfaces, copper, silver, and gold
+    metrics: true
+    in_profile: true
+    reason: Joint paper with Allara and Nuzzo extending and comparing SAM structure across coinage metals.
+  n_related: 20
+  note: Expected but not in the list are Bain and Whitesides 1988 Science (Molecular-level control over surface order in self-assembled
+    monolayer films of thiols on gold) and Bain and Whitesides 1989 Angewandte (Modeling organic surfaces with self-assembled
+    monolayers). The two 1998 Soft Lithography records are most likely the separate Angewandte and Annual Review papers, not
+    duplicates; the large microfluidics and soft-robotics output is genuinely his.
+Jean M. J. Fréchet:
+  picks:
+  - paper_id: W2010542051
+    year: 1990
+    title: Preparation of polymers with controlled molecular architecture. A new convergent approach to dendritic macromolecules
+    metrics: true
+    in_profile: true
+    reason: The Hawker and Fréchet JACS paper introducing the convergent synthesis of dendrimers, the defining contribution.
+  - paper_id: W2113085342
+    year: 1990
+    title: A new convergent approach to monodisperse dendritic macromolecules
+    metrics: true
+    in_profile: true
+    reason: The companion first communication of the convergent route to monodisperse dendritic macromolecules.
+  - paper_id: W1974872221
+    year: 1991
+    title: One-step synthesis of hyperbranched dendritic polyesters
+    metrics: true
+    in_profile: true
+    reason: Extends dendritic polymers to one-step hyperbranched polymers, opening the second main branch of the field.
+  n_related: 35
+  note: none missing. Porous monoliths, organic photovoltaics and acetal drug-delivery papers are his genuine other research
+    lines, not a namesake.
+JoAnne Stubbe:
+  picks:
+  - paper_id: W2050088367
+    year: 1996
+    title: Thiyl Radicals in Ribonucleotide Reductases
+    metrics: true
+    in_profile: true
+    reason: Science paper giving direct spectroscopic evidence for the cysteine thiyl radical she had proposed as the initiator
+      of nucleotide reduction.
+  - paper_id: W2045296571
+    year: 1991
+    title: Novel diferric radical intermediate responsible for tyrosyl radical formation in assembly of the cofactor of ribonucleotide
+      reductase
+    metrics: false
+    in_profile: false
+    reason: Discovers intermediate X, the species that generates the essential tyrosyl radical in class I RNR.
+  - paper_id: W2002551641
+    year: 2003
+    title: 'Radical Initiation in the Class I Ribonucleotide Reductase: Long-Range Proton-Coupled Electron Transfer?'
+    metrics: true
+    in_profile: true
+    reason: Defines the model of long-range proton-coupled radical transfer across the RNR subunits, central to her radical
+      mechanism.
+  n_related: 50
+  note: Her early mechanistic papers (e.g. Stubbe and Ackles 1980 JBC on 3-prime C-H bond cleavage) are not in the list; the
+    1989 Annual Review that proposed protein-radical catalysis is present but flagged not in profile. Bleomycin, PHA synthase
+    and purine biosynthesis papers are her genuine other research lines, not a namesake.
+Kazunari Domen:
+  picks:
+  - paper_id: W2031793983
+    year: 1980
+    title: Photocatalytic decomposition of water vapour on an NiO–SrTiO 3 catalyst
+    metrics: true
+    in_profile: true
+    reason: First report of overall water splitting into H2 and O2 on a powder photocatalyst (NiO-loaded SrTiO3).
+  - paper_id: W1986145408
+    year: 2005
+    title: GaN:ZnO Solid Solution as a Photocatalyst for Visible-Light-Driven Overall Water Splitting
+    metrics: true
+    in_profile: true
+    reason: First visible-light overall water splitting on a non-oxide (oxynitride solid solution) photocatalyst.
+  - paper_id: W3030793002
+    year: 2020
+    title: Photocatalytic water splitting with a quantum efficiency of almost unity
+    metrics: true
+    in_profile: true
+    reason: Shows near-unity quantum efficiency for overall water splitting on Al-doped SrTiO3, the culmination of the approach.
+  n_related: 60
+  note: none missing; the 2006 Nature GaN:ZnO paper and the 2021 100-m2 solar hydrogen panel paper are also present. Solid-acid
+    carbon, SFG spectroscopy and CeO2 adsorption papers are his genuine side lines, not a namesake.
+Marvin H. Caruthers:
+  picks:
+  - paper_id: W2089617243
+    year: 1981
+    title: Deoxynucleoside phosphoramidites—A new class of key intermediates for deoxypolynucleotide synthesis
+    metrics: true
+    in_profile: true
+    reason: The Beaucage and Caruthers paper introducing nucleoside phosphoramidites, the chemistry behind all automated DNA
+      synthesis.
+  - paper_id: W2005815600
+    year: 1980
+    title: The synthesis of oligodeoxyprimidines on a polymer support
+    metrics: true
+    in_profile: true
+    reason: Matteucci and Caruthers solid-phase phosphite-triester synthesis that set up the phosphoramidite method.
+  - paper_id: W1966347067
+    year: 1983
+    title: An investigation of several deoxynucleoside phosphoramidites useful for synthesizing deoxyoligonucleotides
+    metrics: true
+    in_profile: true
+    reason: Introduces the stable dialkylamino phosphoramidites that made the reagents practical for machines.
+  n_related: 35
+  note: Matteucci and Caruthers 1981 JACS (Synthesis of deoxyoligonucleotides on a polymer support) is not in the list. No
+    work relates to massively parallel sequencing, which belongs to Balasubramanian and Klenerman. The 1970/1972 tRNA gene
+    synthesis papers (Khorana postdoc), RNA duplex thermodynamics and lac operator papers are genuine collaborations, not
+    a namesake.
+Steven A. Van Slyke:
+  picks:
+  - paper_id: W2077188122
+    year: 1987
+    title: Organic electroluminescent diodes
+    metrics: true
+    in_profile: true
+    reason: The Tang and VanSlyke paper reporting the first efficient low-voltage two-layer OLED.
+  - paper_id: W2061352573
+    year: 1989
+    title: Electroluminescence of doped organic thin films
+    metrics: true
+    in_profile: true
+    reason: Introduces guest-host dye doping, which raised OLED efficiency and allowed colour tuning.
+  - paper_id: W2003284638
+    year: 1996
+    title: Organic electroluminescent devices with improved stability
+    metrics: true
+    in_profile: true
+    reason: Adds the CuPc hole-injection layer that gave OLEDs the long lifetime needed for products.
+  n_related: 15
+  note: none missing. Duplicate records of 1998 Fluorescent dopants in organic electroluminescent devices (W2019738724, W3179997411).
+    The same record also appears under the name variant Steven Van Slyke.
+Steven Van Slyke:
+  picks:
+  - paper_id: W2077188122
+    year: 1987
+    title: Organic electroluminescent diodes
+    metrics: true
+    in_profile: true
+    reason: The Tang and VanSlyke paper reporting the first efficient low-voltage two-layer OLED, the invention itself.
+  - paper_id: W2061352573
+    year: 1989
+    title: Electroluminescence of doped organic thin films
+    metrics: true
+    in_profile: true
+    reason: Introduces guest-host dye doping, which raised OLED efficiency and allowed colour tuning.
+  - paper_id: W2003284638
+    year: 1996
+    title: Organic electroluminescent devices with improved stability
+    metrics: true
+    in_profile: true
+    reason: Adds the CuPc hole-injection layer that gave OLEDs the long lifetime needed for products.
+  n_related: 15
+  note: none missing. Duplicate records of 1998 Fluorescent dopants in organic electroluminescent devices (W2019738724, W3179997411).
+    Same profile as Steven A. Van Slyke (name variant).
+Tao Zhang:
+  picks:
+  - paper_id: W2134716155
+    year: 2011
+    title: Single-atom catalysis of CO oxidation using Pt1/FeOx
+    metrics: true
+    in_profile: true
+    reason: The Qiao et al. Nature Chemistry paper that coined single-atom catalysis and showed isolated Pt atoms on FeOx
+      are active.
+  - paper_id: W2314274336
+    year: 2013
+    title: Remarkable Performance of Ir 1 /FeO x Single-Atom Catalyst in Water Gas Shift Reaction
+    metrics: false
+    in_profile: true
+    reason: Early original showing single Ir atoms dominate activity in the water gas shift reaction.
+  - paper_id: W2014824706
+    year: 2014
+    title: FeOx-supported platinum single-atom and pseudo-single-atom catalysts for chemoselective hydrogenation of functionalized
+      nitroarenes
+    metrics: true
+    in_profile: true
+    reason: Extends single-atom catalysis to chemoselective hydrogenation, showing its selectivity advantage.
+  n_related: 38
+  note: none missing; the 2013 Accounts review and 2018 Nature Reviews Chemistry review are also present. Cellulose-to-ethylene-glycol
+    papers are his genuine other line; the 2018 quantum-dot ORR/OER nanocomposite paper may be a namesake.
+William L. Jorgensen:
+  picks:
+  - paper_id: W1976499671
+    year: 1983
+    title: Comparison of simple potential functions for simulating liquid water
+    metrics: true
+    in_profile: true
+    reason: Introduces the TIP3P and TIP4P water models that underpin simulations of molecules in solution.
+  - paper_id: W2041189078
+    year: 1988
+    title: The OPLS [optimized potentials for liquid simulations] potential functions for proteins, energy minimizations for
+      crystals of cyclic peptides and crambin
+    metrics: true
+    in_profile: true
+    reason: The original OPLS force field paper, the basis of his solution-phase modelling framework.
+  - paper_id: W2092956715
+    year: 1985
+    title: Monte Carlo simulation of differences in free energies of hydration
+    metrics: true
+    in_profile: true
+    reason: First free-energy perturbation calculation of relative hydration free energies, the method later used for molecular
+      design.
+  n_related: 72
+  note: none missing; OPLS-AA (1996), the 1981 TIPS paper and later FEP-guided drug design papers are also present.
+Wolfgang A. Herrmann:
+  picks:
+  - paper_id: W2119688276
+    year: 1995
+    title: Metal Complexes of N‐Heterocyclic Carbenes—A New Structural Principle for Catalysts in Homogeneous Catalysis
+    metrics: true
+    in_profile: true
+    reason: First use of N-heterocyclic carbene metal complexes as homogeneous catalysts (Pd-NHC Heck reaction), the founding
+      paper of NHC catalysis.
+  - paper_id: W2101647682
+    year: 1996
+    title: 'N‐Heterocyclic Carbenes: Generation under Mild Conditions and Formation of Group 8–10 Transition Metal Complexes
+      Relevant to Catalysis'
+    metrics: true
+    in_profile: true
+    reason: Establishes general routes to NHC complexes of catalytically relevant late transition metals.
+  - paper_id: W2951987601
+    year: 1998
+    title: A Novel Class of Ruthenium Catalysts for Olefin Metathesis
+    metrics: false
+    in_profile: true
+    reason: First NHC-ligated ruthenium olefin metathesis catalysts, the forerunner of second-generation Grubbs catalysts.
+  n_related: 34
+  note: Several German-language Angewandte twins duplicate English records (1995 Metallkomplexe heterocyclischer Carbene,
+    1997 N-Heterocyclische Carbene, 2002 N-Heterocyclische Carbene ein neues Konzept, 1999 Hochaktive Rutheniumkatalysatoren,
+    plus non-NHC twins from 1982, 1993, 1995 and 2011). Isolation of stable carbenes (Arduengo 1991) is not his work; methyltrioxorhenium
+    and palladacycle papers are his genuine other lines, not a namesake.

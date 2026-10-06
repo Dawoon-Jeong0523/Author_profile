@@ -1,0 +1,654 @@
+{
+ "person": "Martin Rees",
+ "profile": "A5110092412",
+ "ids": [
+  "A5110092412"
+ ],
+ "options": [
+  "for fundamental contributions to high-energy astrophysics, galaxies and structure formation, and cosmology — Martin Rees"
+ ],
+ "birth_year": 1942,
+ "cutoff_year": 1967,
+ "works": [
+  {
+   "paper_id": "W2194080530",
+   "year": 2004,
+   "cited_by_count": 3910,
+   "title": "The Swift Gamma‐Ray Burst Mission",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999367759",
+   "year": 1978,
+   "cited_by_count": 3581,
+   "title": "Core condensation in heavy halos: a two-stage theory for galaxy formation and clustering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995061453",
+   "year": 1980,
+   "cited_by_count": 1768,
+   "title": "Massive black hole binaries in active galactic nuclei",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084178876",
+   "year": 1984,
+   "cited_by_count": 1625,
+   "title": "Formation of galaxies and large-scale structure with cold dark matter",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028998331",
+   "year": 1984,
+   "cited_by_count": 1605,
+   "title": "Theory of extragalactic radio sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009530585",
+   "year": 1988,
+   "cited_by_count": 1584,
+   "title": "Tidal disruption of stars by black holes of 106–108 solar masses in nearby galaxies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151133271",
+   "year": 1984,
+   "cited_by_count": 1467,
+   "title": "Black Hole Models for Active Galactic Nuclei",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043384049",
+   "year": 1989,
+   "cited_by_count": 1355,
+   "title": "X-ray fluorescence from the inner disc in Cygnus X-1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038367995",
+   "year": 1994,
+   "cited_by_count": 1157,
+   "title": "Comptonization of diffuse ambient radiation by a relativistic jet: The source of gamma rays from blazars?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050170524",
+   "year": 1997,
+   "cited_by_count": 1081,
+   "title": "Optical and Long‐Wavelength Afterglow from Gamma‐Ray Bursts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144890838",
+   "year": 2001,
+   "cited_by_count": 873,
+   "title": "Massive Black Holes as Population III Remnants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2315647678",
+   "year": 1977,
+   "cited_by_count": 860,
+   "title": "Cooling, dynamics and fragmentation of massive gas clouds: clues to the masses and radii of galaxies and clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050755767",
+   "year": 1992,
+   "cited_by_count": 828,
+   "title": "Relativistic fireballs: energy conversion and time-scales",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026821040",
+   "year": 1997,
+   "cited_by_count": 796,
+   "title": "How Small Were the First Cosmological Objects?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073510197",
+   "year": 2006,
+   "cited_by_count": 774,
+   "title": "Formation of supermassive black holes by direct collapse in pre-galactic haloes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022083816",
+   "year": 1982,
+   "cited_by_count": 758,
+   "title": "Ion-supported tori and the origin of radio jets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020174624",
+   "year": 1974,
+   "cited_by_count": 739,
+   "title": "A 'Twin-Exhaust' Model for Double Radio Sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1591764244",
+   "year": 1997,
+   "cited_by_count": 733,
+   "title": "21 Centimeter Tomography of the Intergalactic Medium at High Redshift",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161641687",
+   "year": 1991,
+   "cited_by_count": 642,
+   "title": "Dynamical effects of the cosmological constant",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045197195",
+   "year": 1993,
+   "cited_by_count": 558,
+   "title": "Relativistic fireballs and their impact on external matter - Models for cosmological gamma-ray bursts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051546173",
+   "year": 1974,
+   "cited_by_count": 549,
+   "title": "The Origin of the Magnetic Field and Relativistic Particles in the Crab Nebula",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080998747",
+   "year": 1976,
+   "cited_by_count": 484,
+   "title": "Effects of Massive Central Black Holes on Dense Stellar Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011022699",
+   "year": 1975,
+   "cited_by_count": 446,
+   "title": "Tidal Capture Formation of Binary Systems and X-ray Sources in Globular Clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039069973",
+   "year": 2000,
+   "cited_by_count": 436,
+   "title": "Steep Slopes and Preferred Breaks in Gamma‐Ray Burst Spectra: The Role of Photospheres and Comptonization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005379655",
+   "year": 1979,
+   "cited_by_count": 425,
+   "title": "The anthropic principle and the structure of the physical world",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093316516",
+   "year": 1993,
+   "cited_by_count": 406,
+   "title": "The formation of nuclei in newly formed galaxies and the evolution of the quasar population",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042725851",
+   "year": 2002,
+   "cited_by_count": 405,
+   "title": "Afterglow light curves, viewing angle and the jet structure of -ray bursts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148549056",
+   "year": 1997,
+   "cited_by_count": 400,
+   "title": "Shocked by GRB 970228: the afterglow of a cosmological fireball",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017232919",
+   "year": 1968,
+   "cited_by_count": 385,
+   "title": "Large-scale Density Inhomogeneities in the Universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978483279",
+   "year": 2006,
+   "cited_by_count": 381,
+   "title": "Dimensionless constants, cosmology, and other dark matters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999798892",
+   "year": 1997,
+   "cited_by_count": 371,
+   "title": "Poynting Jets from Black Holes and Cosmological Gamma-Ray Bursts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986124953",
+   "year": 1998,
+   "cited_by_count": 343,
+   "title": "Viewing Angle and Environment Effects in Gamma‐Ray Bursts: Sources of Afterglow Diversity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978186191",
+   "year": 2005,
+   "cited_by_count": 339,
+   "title": "Rapid Growth of High‐Redshift Black Holes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017452204",
+   "year": 2000,
+   "cited_by_count": 339,
+   "title": "The Radiative Feedback of the First Cosmological Objects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968695167",
+   "year": 1992,
+   "cited_by_count": 333,
+   "title": "On dwarf elliptical galaxies and the faint blue counts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3101667439",
+   "year": 1998,
+   "cited_by_count": 331,
+   "title": "Reionization of the Inhomogeneous Universe",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1984143651",
+   "year": 1985,
+   "cited_by_count": 327,
+   "title": "A theory for the origin of globular clusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094722018",
+   "year": 1971,
+   "cited_by_count": 301,
+   "title": "On Quasars, Dust and the Galactic Centre",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966307735",
+   "year": 2006,
+   "cited_by_count": 285,
+   "title": "The Observable Effects of a Photospheric Component on GRB and XRF Prompt Emission Spectrum",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123530147",
+   "year": 1978,
+   "cited_by_count": 285,
+   "title": "A qualitative study of cosmic fireballs and -ray bursts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4244539544",
+   "year": 1988,
+   "cited_by_count": 283,
+   "title": "Axion miniclusters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965992500",
+   "year": 1988,
+   "cited_by_count": 270,
+   "title": "'Cold' material in non-thermal sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005113599",
+   "year": 2002,
+   "cited_by_count": 267,
+   "title": "Events in the life of a cocoon surrounding a light, collapsar jet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990430728",
+   "year": 1986,
+   "cited_by_count": 264,
+   "title": "Pregalactic evolution in cosmologies with cold dark matter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076777184",
+   "year": 2004,
+   "cited_by_count": 263,
+   "title": "Early Reionization by Miniquasars",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993987715",
+   "year": 1999,
+   "cited_by_count": 261,
+   "title": "GRB 990123: reverse and internal shock flashes and late afterglow behaviour",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994998672",
+   "year": 1988,
+   "cited_by_count": 249,
+   "title": "High-redshift quasars in the Cold Dark Matter cosmogony",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030747485",
+   "year": 1983,
+   "cited_by_count": 247,
+   "title": "Spectral and variability constraints on compact sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040363577",
+   "year": 1976,
+   "cited_by_count": 244,
+   "title": "Opacity-Limited Hierarchical Fragmentation and the Masses of Protostars",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169060213",
+   "year": 1998,
+   "cited_by_count": 242,
+   "title": "Multiwavelength Afterglows in Gamma‐Ray Bursts: Refreshed Shock and Jet Effects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030033273",
+   "year": 2004,
+   "cited_by_count": 239,
+   "title": "Photoionization Feedback in Low‐Mass Galaxies at High Redshift",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070951122",
+   "year": 1986,
+   "cited_by_count": 238,
+   "title": "Lyman absorption lines in quasar spectra: evidence for gravitationally-confined gas in dark minihaloes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106190338",
+   "year": 1984,
+   "cited_by_count": 237,
+   "title": "Gravitational interactions of cosmic strings",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088216763",
+   "year": 2000,
+   "cited_by_count": 235,
+   "title": "Radio Signatures of H i at High Redshift: Mapping the End of the “Dark Ages”",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098465224",
+   "year": 1996,
+   "cited_by_count": 235,
+   "title": "Destruction of Molecular Hydrogen During Cosmological Reionization",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2913839665",
+   "year": 1986,
+   "cited_by_count": 234,
+   "title": "Active galactic nuclei",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965959280",
+   "year": 1971,
+   "cited_by_count": 232,
+   "title": "New Interpretation of Extragalactic Radio Sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044044935",
+   "year": 1993,
+   "cited_by_count": 230,
+   "title": "Gasdynamics of relativistically expanding gamma-ray burst sources - Kinematics, energetics, magnetic fields, and efficiency",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3106348847",
+   "year": 2000,
+   "cited_by_count": 229,
+   "title": "Early Metal Enrichment of the Intergalactic Medium by Pregalactic Outflows",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1969768463",
+   "year": 1994,
+   "cited_by_count": 226,
+   "title": "Spectral properties of blast-wave models of gamma-ray burst sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085610647",
+   "year": 1996,
+   "cited_by_count": 223,
+   "title": "The matter content of the jet in M87: evidence for an electron--positronjet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050277935",
+   "year": 1968,
+   "cited_by_count": 221,
+   "title": "Polarization and Spectrum of the Primeval Radiation in an Anisotropic Universe",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973783399",
+   "year": 1986,
+   "cited_by_count": 218,
+   "title": "A Simplified Lead Oxide Cadaver Injection Technique",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995289811",
+   "year": 1998,
+   "cited_by_count": 202,
+   "title": "High-redshift galaxies, their active nuclei and central black holes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998290692",
+   "year": 1967,
+   "cited_by_count": 201,
+   "title": "Studies in Radio Source Structure: I. A Relativistically Expanding Model for Variable Quasi-Stellar Radio Sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068431960",
+   "year": 1991,
+   "cited_by_count": 192,
+   "title": "Star-disc interactions near a massive black hole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079253595",
+   "year": 2006,
+   "cited_by_count": 192,
+   "title": "Quasars atz = 6: The Survival of the Fittest",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017024875",
+   "year": 1994,
+   "cited_by_count": 187,
+   "title": "Delayed GeV emission from cosmological gamma-ray bursts: impact of a relativistic wind on external matter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W196626767",
+   "year": 1972,
+   "cited_by_count": 186,
+   "title": "Accretion Disc Models for Compact X-Ray Sources",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042110438",
+   "year": 1993,
+   "cited_by_count": 184,
+   "title": "Gamma-Ray Bursts: Multiwaveband Spectral Predictions for Blast Wave Models",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048413233",
+   "year": 1978,
+   "cited_by_count": 180,
+   "title": "The M87 jet: internal shocks in a plasma beam?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033258958",
+   "year": 1978,
+   "cited_by_count": 179,
+   "title": "Extended and Compact Extragalactic Radio Sources: Interpretation and Theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2899338238",
+   "year": 2019,
+   "cited_by_count": 179,
+   "title": "Titans of the early Universe: The Prato statement on the origin of the first supermassive black holes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130992240",
+   "year": 1994,
+   "cited_by_count": 178,
+   "title": "Reionization and thermal evolution of a photoionized intergalactic medium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037989011",
+   "year": 1978,
+   "cited_by_count": 176,
+   "title": "The fate of dense stellar systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952195337",
+   "year": 1998,
+   "cited_by_count": 174,
+   "title": "High-redshift galaxies, their active nuclei and central black holes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080845713",
+   "year": 1989,
+   "cited_by_count": 164,
+   "title": "The radio/optical alignment of high-z radio galaxies: triggering of star formation in radio lobes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070750031",
+   "year": 1987,
+   "cited_by_count": 163,
+   "title": "Physical mechanisms for biased galaxy formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095305600",
+   "year": 1997,
+   "cited_by_count": 159,
+   "title": "Capture of stellar mass compact objects by massive black holes in galactic cusps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969052036",
+   "year": 1978,
+   "cited_by_count": 157,
+   "title": "Relativistic jets and beams in radio galaxies",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "person": "Simon White",
+ "birth_year": 1951,
+ "cutoff_year": 1976,
+ "options": [
+  "for numerical simulations that established the cold dark matter model of the formation of cosmic structure — Simon White, Carlos Frenk, Marc Davis"
+ ],
+ "works": [
+  {
+   "paper_id": "W1909359706",
+   "year": 2016,
+   "cited_by_count": 5230,
+   "C_5_pctl": 1.0,
+   "title": "Planck 2015 results"
+  },
+  {
+   "paper_id": "W2124199755",
+   "year": 2009,
+   "cited_by_count": 5088,
+   "C_5_pctl": 1.0,
+   "title": "THE SEVENTH DATA RELEASE OF THE SLOAN DIGITAL SKY SURVEY"
+  },
+  {
+   "paper_id": "W2141709306",
+   "year": 2005,
+   "cited_by_count": 4679,
+   "C_5_pctl": 1.0,
+   "title": "Simulations of the formation, evolution and clustering of galaxies and quasars"
+  },
+  {
+   "paper_id": "W2163212281",
+   "year": 2003,
+   "cited_by_count": 3724,
+   "C_5_pctl": 1.0,
+   "title": "The host galaxies of active galactic nuclei"
+  },
+  {
+   "paper_id": "W1999367759",
+   "year": 1978,
+   "cited_by_count": 3581,
+   "C_5_pctl": 0.98,
+   "title": "Core condensation in heavy halos: a two-stage theory for galaxy formation and clustering"
+  },
+  {
+   "paper_id": "W2067857092",
+   "year": 2004,
+   "cited_by_count": 3407,
+   "C_5_pctl": 1.0,
+   "title": "The Origin of the Mass‐Metallicity Relation: Insights from 53,000 Star‐forming Galaxies in the Sloan Digital Sky Survey"
+  },
+  {
+   "paper_id": "W2119131940",
+   "year": 2014,
+   "cited_by_count": 3399,
+   "C_5_pctl": 1.0,
+   "title": "The EAGLE project: simulating the evolution and assembly of galaxies and their environments"
+  },
+  {
+   "paper_id": "W2032469582",
+   "year": 1985,
+   "cited_by_count": 3125,
+   "C_5_pctl": 1.0,
+   "title": "The evolution of large-scale structure in a universe dominated by cold dark matter"
+  },
+  {
+   "paper_id": "W2166365370",
+   "year": 2004,
+   "cited_by_count": 3105,
+   "C_5_pctl": 1.0,
+   "title": "The physical properties of star-forming galaxies in the low-redshift Universe"
+  },
+  {
+   "paper_id": "W2109510044",
+   "year": 2002,
+   "cited_by_count": 2233,
+   "C_5_pctl": 1.0,
+   "title": "Sloan Digital Sky Survey: Early Data Release"
+  },
+  {
+   "paper_id": "W1964055719",
+   "year": 1991,
+   "cited_by_count": 2122,
+   "C_5_pctl": 0.98,
+   "title": "Galaxy formation through hierarchical clustering"
+  },
+  {
+   "paper_id": "W2102600871",
+   "year": 2011,
+   "cited_by_count": 2108,
+   "C_5_pctl": 1.0,
+   "title": "SDSS-III: MASSIVE SPECTROSCOPIC SURVEYS OF THE DISTANT UNIVERSE, THE MILKY WAY, AND EXTRA-SOLAR PLANETARY SYSTEMS"
+  },
+  {
+   "paper_id": "W2117363750",
+   "year": 2003,
+   "cited_by_count": 1922,
+   "C_5_pctl": 1.0,
+   "title": "Stable clustering, the halo model and non-linear cosmological power spectra"
+  },
+  {
+   "paper_id": "W2043685494",
+   "year": 1993,
+   "cited_by_count": 1726,
+   "C_5_pctl": 0.99,
+   "title": "The formation and evolution of galaxies within merging dark matter haloes*"
+  },
+  {
+   "paper_id": "W2101568531",
+   "year": 2001,
+   "cited_by_count": 1528,
+   "C_5_pctl": 1.0,
+   "title": "The mass function of dark matter haloes"
+  },
+  {
+   "paper_id": "W2115659244",
+   "year": 2008,
+   "cited_by_count": 1413,
+   "C_5_pctl": 1.0,
+   "title": "The Sixth Data Release of the Sloan Digital Sky Survey"
+  },
+  {
+   "paper_id": "W2015637674",
+   "year": 2015,
+   "cited_by_count": 1382,
+   "C_5_pctl": 1.0,
+   "title": "The EAGLE simulations of galaxy formation: calibration of subgrid physics and model variations"
+  },
+  {
+   "paper_id": "W2156905179",
+   "year": 2011,
+   "cited_by_count": 1374,
+   "C_5_pctl": 1.0,
+   "title": "THE EIGHTH DATA RELEASE OF THE SLOAN DIGITAL SKY SURVEY: FIRST DATA FROM SDSS-III"
+  },
+  {
+   "paper_id": "W2158622701",
+   "year": 2012,
+   "cited_by_count": 1359,
+   "C_5_pctl": 1.0,
+   "title": "Galactic star formation and accretion histories from matching galaxies to dark matter haloes"
+  },
+  {
+   "paper_id": "W2018388366",
+   "year": 2003,
+   "cited_by_count": 1251,
+   "C_5_pctl": 1.0,
+   "title": "The dependence of star formation history and internal structure on stellar mass for 10 5 low-redshift galaxies"
+  },
+  {
+   "paper_id": "W2160197565",
+   "year": 2011,
+   "cited_by_count": 1154,
+   "C_5_pctl": 1.0,
+   "title": "From dwarf spheroidals to cD galaxies: simulating the galaxy population in a ΛCDM cosmology"
+  },
+  {
+   "paper_id": "W2130908251",
+   "year": 2004,
+   "cited_by_count": 1083,
+   "C_5_pctl": 1.0,
+   "title": "The Second Data Release of the Sloan Digital Sky Survey"
+  },
+  {
+   "paper_id": "W2127193339",
+   "year": 2006,
+   "cited_by_count": 1061,
+   "C_5_pctl": 1.0,
+   "title": "The Fourth Data Release of the Sloan Digital Sky Survey"
+  },
+  {
+   "paper_id": "W2156048499",
+   "year": 2004,
+   "cited_by_count": 1012,
+   "C_5_pctl": 1.0,
+   "title": "The inner structure of ΛCDM haloes - III. Universality and asymptotic slopes"
+  },
+  {
+   "paper_id": "W2081198904",
+   "year": 2014,
+   "cited_by_count": 978,
+   "C_5_pctl": 1.0,
+   "title": "THE TENTH DATA RELEASE OF THE SLOAN DIGITAL SKY SURVEY: FIRST SPECTROSCOPIC DATA FROM THE SDSS-III APACHE POINT OBSERVATORY GALACTIC EVOLUTION EXPERIMENT"
+  },
+  {
+   "paper_id": "W2043137394",
+   "year": 2003,
+   "cited_by_count": 938,
+   "C_5_pctl": 1.0,
+   "title": "The inner structure of CDM haloes -- I. A numerical convergence study"
+  },
+  {
+   "paper_id": "W2150331774",
+   "year": 2003,
+   "cited_by_count": 896,
+   "C_5_pctl": 1.0,
+   "title": "The First Data Release of the Sloan Digital Sky Survey"
+  },
+  {
+   "paper_id": "W2140466930",
+   "year": 1993,
+   "cited_by_count": 831,
+   "C_5_pctl": 1.0,
+   "title": "The baryon content of galaxy clusters: a challenge to cosmological orthodoxy"
+  },
+  {
+   "paper_id": "W2103100915",
+   "year": 2009,
+   "cited_by_count": 786,
+   "C_5_pctl": 1.0,
+   "title": "The diversity and similarity of simulated cold dark matter haloes"
+  },
+  {
+   "paper_id": "W2081248194",
+   "year": 2004,
+   "cited_by_count": 785,
+   "C_5_pctl": 1.0,
+   "title": "Present‐Day Growth of Black Holes and Bulges: The Sloan Digital Sky Survey Perspective"
+  },
+  {
+   "paper_id": "W1968752888",
+   "year": 2007,
+   "cited_by_count": 730,
+   "C_5_pctl": 1.0,
+   "title": "The statistics of CDM halo concentrations"
+  },
+  {
+   "paper_id": "W2081879654",
+   "year": 2005,
+   "cited_by_count": 711,
+   "C_5_pctl": 1.0,
+   "title": "The host galaxies of radio-loud active galactic nuclei: mass dependences, gas cooling and active galactic nuclei feedback"
+  },
+  {
+   "paper_id": "W2120684453",
+   "year": 2005,
+   "cited_by_count": 700,
+   "C_5_pctl": 1.0,
+   "title": "The Third Data Release of the Sloan Digital Sky Survey"
+  },
+  {
+   "paper_id": "W2167888367",
+   "year": 2007,
+   "cited_by_count": 697,
+   "C_5_pctl": 1.0,
+   "title": "The Fifth Data Release of the Sloan Digital Sky Survey"
+  },
+  {
+   "paper_id": "W2057015950",
+   "year": 2006,
+   "cited_by_count": 694,
+   "C_5_pctl": 1.0,
+   "title": "The large-scale structure of the Universe"
+  },
+  {
+   "paper_id": "W2149969207",
+   "year": 2010,
+   "cited_by_count": 689,
+   "C_5_pctl": 1.0,
+   "title": "How do galaxies populate dark matter haloes?"
+  },
+  {
+   "paper_id": "W2166493535",
+   "year": 2015,
+   "cited_by_count": 636,
+   "C_5_pctl": 1.0,
+   "title": "Galaxy formation in the Planck cosmology – I. Matching the observed evolution of star formation rates, colours and stellar masses"
+  },
+  {
+   "paper_id": "W2058543060",
+   "year": 2004,
+   "cited_by_count": 614,
+   "C_5_pctl": 1.0,
+   "title": "The subhalo populations of ΛCDM dark haloes"
+  },
+  {
+   "paper_id": "W2110562740",
+   "year": 2016,
+   "cited_by_count": 573,
+   "C_5_pctl": 1.0,
+   "title": "The APOSTLE simulations: solutions to the Local Group's cosmic puzzles"
+  },
+  {
+   "paper_id": "W1765928510",
+   "year": 1999,
+   "cited_by_count": 538,
+   "C_5_pctl": 0.99,
+   "title": "Debris streams in the solar neighbourhood as relicts from the formation of the Milky Way"
+  },
+  {
+   "paper_id": "W2128816921",
+   "year": 2009,
+   "cited_by_count": 534,
+   "C_5_pctl": 1.0,
+   "title": "The Contribution of Health Literacy to Disparities in Self-Rated Health Status and Preventive Health Behaviors in Older Adults"
+  },
+  {
+   "paper_id": "W2528641579",
+   "year": 2017,
+   "cited_by_count": 531,
+   "C_5_pctl": 1.0,
+   "title": "The Auriga Project: the properties and formation mechanisms of disc galaxies across cosmic time"
+  },
+  {
+   "paper_id": "W1982197353",
+   "year": 1998,
+   "cited_by_count": 518,
+   "C_5_pctl": 1.0,
+   "title": "Evolution of Structure in Cold Dark Matter Universes"
+  },
+  {
+   "paper_id": "W1973787491",
+   "year": 1988,
+   "cited_by_count": 505,
+   "C_5_pctl": 0.98,
+   "title": "The formation of dark halos in a universe dominated by cold dark matter"
+  },
+  {
+   "paper_id": "W2074005806",
+   "year": 1993,
+   "cited_by_count": 483,
+   "C_5_pctl": 1.0,
+   "title": "The amplitude of mass fluctuations in the Universe"
+  },
+  {
+   "paper_id": "W2088761263",
+   "year": 2007,
+   "cited_by_count": 480,
+   "C_5_pctl": 1.0,
+   "title": "COSMOS: Hubble Space Telescope Observations"
+  },
+  {
+   "paper_id": "W2110563485",
+   "year": 2008,
+   "cited_by_count": 477,
+   "C_5_pctl": 1.0,
+   "title": "The redshift dependence of the structure of massive Λ cold dark matter haloes"
+  },
+  {
+   "paper_id": "W1967957775",
+   "year": 2011,
+   "cited_by_count": 460,
+   "C_5_pctl": 1.0,
+   "title": "SIMULATIONS ON A MOVING MESH: THE CLUSTERED FORMATION OF POPULATION III PROTOSTARS"
+  },
+  {
+   "paper_id": "W2162725047",
+   "year": 1999,
+   "cited_by_count": 447,
+   "C_5_pctl": 1.0,
+   "title": "The Santa Barbara Cluster Comparison Project: A Comparison of Cosmological Hydrodynamics Solutions"
+  },
+  {
+   "paper_id": "W2146651836",
+   "year": 2015,
+   "cited_by_count": 432,
+   "C_5_pctl": 1.0,
+   "title": "The unexpected diversity of dwarf galaxy rotation curves"
+  },
+  {
+   "paper_id": "W2162306826",
+   "year": 2012,
+   "cited_by_count": 430,
+   "C_5_pctl": 1.0,
+   "title": "The Aquila comparison project: the effects of feedback and numerical methods on simulations of galaxy formation"
+  },
+  {
+   "paper_id": "W2614409774",
+   "year": 2018,
+   "cited_by_count": 403,
+   "C_5_pctl": 1.0,
+   "title": "emerge – an empirical model for the formation of galaxies since z ∼ 10"
+  },
+  {
+   "paper_id": "W2164261957",
+   "year": 2012,
+   "cited_by_count": 384,
+   "C_5_pctl": 1.0,
+   "title": "The haloes of bright satellite galaxies in a warm dark matter universe"
+  },
+  {
+   "paper_id": "W2087986618",
+   "year": 1988,
+   "cited_by_count": 366,
+   "C_5_pctl": 0.93,
+   "title": "Gravitational clustering from scale-free initial conditions"
+  },
+  {
+   "paper_id": "W2125835283",
+   "year": 2006,
+   "cited_by_count": 354,
+   "C_5_pctl": 1.0,
+   "title": "Ages and metallicities of early-type galaxies in the Sloan Digital Sky Survey: new insight into the physical origin of the colour-magnitude and the Mg2-σV relations"
+  },
+  {
+   "paper_id": "W2132646102",
+   "year": 2004,
+   "cited_by_count": 351,
+   "C_5_pctl": 1.0,
+   "title": "Chemical enrichment of the intracluster and intergalactic medium in a hierarchical galaxy formation model"
+  },
+  {
+   "paper_id": "W1999114023",
+   "year": 1993,
+   "cited_by_count": 350,
+   "C_5_pctl": 0.97,
+   "title": "Simulations of dissipative galaxy formation in hierarchically clustering universes - I: Tests of the code"
+  },
+  {
+   "paper_id": "W2007325434",
+   "year": 1992,
+   "cited_by_count": 341,
+   "C_5_pctl": 1.0,
+   "title": "COBE background radiation anisotropies and large-scale structure in the Universe"
+  },
+  {
+   "paper_id": "W2012848549",
+   "year": 1993,
+   "cited_by_count": 341,
+   "C_5_pctl": 0.97,
+   "title": "Hierarchical galaxy formation - Overmerging and the formation of an X-ray cluster"
+  },
+  {
+   "paper_id": "W2167388685",
+   "year": 2012,
+   "cited_by_count": 314,
+   "C_5_pctl": 1.0,
+   "title": "Galaxy formation in WMAP1 and WMAP7 cosmologies"
+  }
+ ]
+}

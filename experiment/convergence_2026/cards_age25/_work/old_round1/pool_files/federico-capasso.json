@@ -1,0 +1,430 @@
+{
+ "person": "Federico Capasso",
+ "birth_year": 1949,
+ "cutoff_year": 1974,
+ "options": [
+  "for the invention of the quantum cascade laser — Federico Capasso, Alfred Y. Cho, Jérôme Faist"
+ ],
+ "works": [
+  {
+   "paper_id": "W2121607567",
+   "year": 2011,
+   "cited_by_count": 9519,
+   "C_5_pctl": 1.0,
+   "title": "Light Propagation with Phase Discontinuities: Generalized Laws of Reflection and Refraction"
+  },
+  {
+   "paper_id": "W2027029957",
+   "year": 2014,
+   "cited_by_count": 5552,
+   "C_5_pctl": 1.0,
+   "title": "Flat optics with designer metasurfaces"
+  },
+  {
+   "paper_id": "W4213168521",
+   "year": 1994,
+   "cited_by_count": 4380,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Cascade Laser"
+  },
+  {
+   "paper_id": "W2415475836",
+   "year": 2016,
+   "cited_by_count": 3179,
+   "C_5_pctl": 1.0,
+   "title": "Metalenses at visible wavelengths: Diffraction-limited focusing and subwavelength resolution imaging"
+  },
+  {
+   "paper_id": "W2010682338",
+   "year": 2012,
+   "cited_by_count": 1747,
+   "C_5_pctl": 1.0,
+   "title": "Aberration-Free Ultrathin Flat Lenses and Axicons at Telecom Wavelengths Based on Plasmonic Metasurfaces"
+  },
+  {
+   "paper_id": "W2780100310",
+   "year": 2017,
+   "cited_by_count": 1737,
+   "C_5_pctl": 1.0,
+   "title": "A broadband achromatic metalens for focusing and imaging in the visible"
+  },
+  {
+   "paper_id": "W2604162648",
+   "year": 2017,
+   "cited_by_count": 1625,
+   "C_5_pctl": 1.0,
+   "title": "Metasurface Polarization Optics: Independent Phase Control of Arbitrary Orthogonal States of Polarization"
+  },
+  {
+   "paper_id": "W2127902738",
+   "year": 2010,
+   "cited_by_count": 1459,
+   "C_5_pctl": 1.0,
+   "title": "Self-Assembled Plasmonic Nanoparticle Clusters"
+  },
+  {
+   "paper_id": "W2009901470",
+   "year": 2013,
+   "cited_by_count": 1219,
+   "C_5_pctl": 1.0,
+   "title": "Polarization-Controlled Tunable Directional Coupling of Surface Plasmon Polaritons"
+  },
+  {
+   "paper_id": "W2766309801",
+   "year": 2017,
+   "cited_by_count": 1186,
+   "C_5_pctl": 1.0,
+   "title": "Arbitrary spin-to–orbital angular momentum conversion of light"
+  },
+  {
+   "paper_id": "W2023525328",
+   "year": 2012,
+   "cited_by_count": 1181,
+   "C_5_pctl": 1.0,
+   "title": "A Broadband, Background-Free Quarter-Wave Plate Based on Plasmonic Metasurfaces"
+  },
+  {
+   "paper_id": "W2571907177",
+   "year": 2017,
+   "cited_by_count": 1142,
+   "C_5_pctl": 1.0,
+   "title": "Recent advances in planar optics: from plasmonic to dielectric metasurfaces"
+  },
+  {
+   "paper_id": "W2950224632",
+   "year": 2015,
+   "cited_by_count": 1060,
+   "C_5_pctl": 1.0,
+   "title": "Multiwavelength achromatic metasurfaces by dispersive phase compensation"
+  },
+  {
+   "paper_id": "W2136079458",
+   "year": 2012,
+   "cited_by_count": 1015,
+   "C_5_pctl": 1.0,
+   "title": "Nanometre optical coatings based on strong interference effects in highly absorbing media"
+  },
+  {
+   "paper_id": "W2763851777",
+   "year": 2017,
+   "cited_by_count": 970,
+   "C_5_pctl": 1.0,
+   "title": "Metalenses: Versatile multifunctional photonic components"
+  },
+  {
+   "paper_id": "W2954681175",
+   "year": 2019,
+   "cited_by_count": 883,
+   "C_5_pctl": 1.0,
+   "title": "Matrix Fourier optics enables a compact full-Stokes polarization camera"
+  },
+  {
+   "paper_id": "W2015229447",
+   "year": 2001,
+   "cited_by_count": 850,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Mechanical Actuation of Microelectromechanical Systems by the Casimir Force"
+  },
+  {
+   "paper_id": "W2331425463",
+   "year": 2014,
+   "cited_by_count": 798,
+   "C_5_pctl": 1.0,
+   "title": "Electrically Tunable Metasurface Perfect Absorbers for Ultrathin Mid-Infrared Optical Modulators"
+  },
+  {
+   "paper_id": "W2535756017",
+   "year": 2016,
+   "cited_by_count": 736,
+   "C_5_pctl": 1.0,
+   "title": "Polarization-Insensitive Metalenses at Visible Wavelengths"
+  },
+  {
+   "paper_id": "W3035837979",
+   "year": 2020,
+   "cited_by_count": 719,
+   "C_5_pctl": 1.0,
+   "title": "Flat optics with dispersion-engineered metasurfaces"
+  },
+  {
+   "paper_id": "W2086670842",
+   "year": 1998,
+   "cited_by_count": 715,
+   "C_5_pctl": 1.0,
+   "title": "High-Power Directional Emission from Microlasers with Chaotic Resonators"
+  },
+  {
+   "paper_id": "W2095460322",
+   "year": 1986,
+   "cited_by_count": 691,
+   "C_5_pctl": 1.0,
+   "title": "Resonant tunneling through double barriers, perpendicular quantum transport phenomena in superlattices, and their device applications"
+  },
+  {
+   "paper_id": "W1995133826",
+   "year": 2001,
+   "cited_by_count": 659,
+   "C_5_pctl": 1.0,
+   "title": "Recent progress in quantum cascade lasers and applications"
+  },
+  {
+   "paper_id": "W2582178220",
+   "year": 2017,
+   "cited_by_count": 637,
+   "C_5_pctl": 1.0,
+   "title": "Achromatic Metalens over 60 nm Bandwidth in the Visible and Metalens with Reverse Chromatic Dispersion"
+  },
+  {
+   "paper_id": "W2030139266",
+   "year": 2010,
+   "cited_by_count": 625,
+   "C_5_pctl": 1.0,
+   "title": "Fano Resonances in Plasmonic Nanoclusters: Geometrical and Chemical Tunability"
+  },
+  {
+   "paper_id": "W2029311212",
+   "year": 2012,
+   "cited_by_count": 614,
+   "C_5_pctl": 1.0,
+   "title": "Ultra-thin perfect absorber employing a tunable phase change material"
+  },
+  {
+   "paper_id": "W2055853020",
+   "year": 2013,
+   "cited_by_count": 588,
+   "C_5_pctl": 1.0,
+   "title": "Broad Electrical Tuning of Graphene-Loaded Plasmonic Antennas"
+  },
+  {
+   "paper_id": "W2293149760",
+   "year": 2016,
+   "cited_by_count": 546,
+   "C_5_pctl": 1.0,
+   "title": "Broadband high-efficiency dielectric metasurfaces for the visible spectrum"
+  },
+  {
+   "paper_id": "W2015842902",
+   "year": 2012,
+   "cited_by_count": 541,
+   "C_5_pctl": 1.0,
+   "title": "Out-of-Plane Reflection and Refraction of Light by Anisotropic Optical Antenna Metasurfaces with Phase Discontinuities"
+  },
+  {
+   "paper_id": "W1980753517",
+   "year": 2006,
+   "cited_by_count": 538,
+   "C_5_pctl": 1.0,
+   "title": "Broadband ZnO Single-Nanowire Light-Emitting Diode"
+  },
+  {
+   "paper_id": "W2088747967",
+   "year": 2012,
+   "cited_by_count": 519,
+   "C_5_pctl": 1.0,
+   "title": "Ultra-thin plasmonic optical vortex plate based on phase discontinuities"
+  },
+  {
+   "paper_id": "W2037116307",
+   "year": 2010,
+   "cited_by_count": 517,
+   "C_5_pctl": 1.0,
+   "title": "Quantum cascade lasers in chemical physics"
+  },
+  {
+   "paper_id": "W2413787499",
+   "year": 2016,
+   "cited_by_count": 496,
+   "C_5_pctl": 1.0,
+   "title": "Multispectral Chiral Imaging with a Metalens"
+  },
+  {
+   "paper_id": "W2897217753",
+   "year": 2019,
+   "cited_by_count": 486,
+   "C_5_pctl": 1.0,
+   "title": "A broadband achromatic polarization-insensitive metalens consisting of anisotropic nanostructures"
+  },
+  {
+   "paper_id": "W2153806977",
+   "year": 2011,
+   "cited_by_count": 456,
+   "C_5_pctl": 1.0,
+   "title": "The Casimir effect in microstructured geometries"
+  },
+  {
+   "paper_id": "W2079718877",
+   "year": 1987,
+   "cited_by_count": 455,
+   "C_5_pctl": 0.98,
+   "title": "Band-Gap Engineering: From Physics and Materials to New Semiconductor Devices"
+  },
+  {
+   "paper_id": "W2730413913",
+   "year": 2017,
+   "cited_by_count": 452,
+   "C_5_pctl": 1.0,
+   "title": "Meta-Lens Doublet in the Visible Region"
+  },
+  {
+   "paper_id": "W2282920859",
+   "year": 2015,
+   "cited_by_count": 446,
+   "C_5_pctl": 1.0,
+   "title": "Achromatic Metasurface Lens at Telecommunication Wavelengths"
+  },
+  {
+   "paper_id": "W3121919855",
+   "year": 2021,
+   "cited_by_count": 406,
+   "C_5_pctl": 1.0,
+   "title": "Metasurface optics for on-demand polarization transformations along the optical path"
+  },
+  {
+   "paper_id": "W2026572776",
+   "year": 1996,
+   "cited_by_count": 403,
+   "C_5_pctl": 1.0,
+   "title": "High power mid-infrared (λ∼5 μm) quantum cascade lasers operating above room temperature"
+  },
+  {
+   "paper_id": "W2009063780",
+   "year": 2006,
+   "cited_by_count": 393,
+   "C_5_pctl": 1.0,
+   "title": "Plasmonic laser antenna"
+  },
+  {
+   "paper_id": "W2883697371",
+   "year": 2018,
+   "cited_by_count": 390,
+   "C_5_pctl": 1.0,
+   "title": "Nano-optic endoscope for high-resolution optical coherence tomography in vivo"
+  },
+  {
+   "paper_id": "W3018753049",
+   "year": 2020,
+   "cited_by_count": 385,
+   "C_5_pctl": 1.0,
+   "title": "High-purity orbital angular momentum states from a visible metasurface laser"
+  },
+  {
+   "paper_id": "W2093188166",
+   "year": 2005,
+   "cited_by_count": 383,
+   "C_5_pctl": 1.0,
+   "title": "Evanescent-wave bonding between optical waveguides"
+  },
+  {
+   "paper_id": "W2041679626",
+   "year": 2010,
+   "cited_by_count": 369,
+   "C_5_pctl": 1.0,
+   "title": "Fano-like Interference in Self-Assembled Plasmonic Quadrumer Clusters"
+  },
+  {
+   "paper_id": "W2790197317",
+   "year": 2018,
+   "cited_by_count": 365,
+   "C_5_pctl": 1.0,
+   "title": "Adaptive metalenses with simultaneous electrical control of focal length, astigmatism, and shift"
+  },
+  {
+   "paper_id": "W1537616836",
+   "year": 1997,
+   "cited_by_count": 360,
+   "C_5_pctl": 0.99,
+   "title": "Controlling the sign of quantum interference by tunnelling from quantum wells"
+  },
+  {
+   "paper_id": "W2079654046",
+   "year": 1997,
+   "cited_by_count": 353,
+   "C_5_pctl": 1.0,
+   "title": "Distributed feedback quantum cascade lasers"
+  },
+  {
+   "paper_id": "W1981289394",
+   "year": 2013,
+   "cited_by_count": 347,
+   "C_5_pctl": 1.0,
+   "title": "Flat Optics: Controlling Wavefronts With Optical Antenna Metasurfaces"
+  },
+  {
+   "paper_id": "W2791405330",
+   "year": 2017,
+   "cited_by_count": 347,
+   "C_5_pctl": 0.99,
+   "title": "Giant intrinsic chiro-optical activity in planar dielectric nanostructures"
+  },
+  {
+   "paper_id": "W1977169897",
+   "year": 1985,
+   "cited_by_count": 337,
+   "C_5_pctl": 1.0,
+   "title": "Resonant tunneling transistor with quantum well base and high-energy injection: A new negative differential resistance device"
+  },
+  {
+   "paper_id": "W2145070943",
+   "year": 2015,
+   "cited_by_count": 336,
+   "C_5_pctl": 1.0,
+   "title": "Holographic optical metasurfaces: a review of current progress"
+  },
+  {
+   "paper_id": "W2045657318",
+   "year": 1992,
+   "cited_by_count": 323,
+   "C_5_pctl": 0.99,
+   "title": "Observation of an electronic bound state above a potential well"
+  },
+  {
+   "paper_id": "W1966154276",
+   "year": 1994,
+   "cited_by_count": 317,
+   "C_5_pctl": 0.98,
+   "title": "Nonparabolicity and a sum rule associated with bound-to-bound and bound-to-continuum intersubband transitions in quantum wells"
+  },
+  {
+   "paper_id": "W2006391046",
+   "year": 2008,
+   "cited_by_count": 314,
+   "C_5_pctl": 1.0,
+   "title": "Optical Properties of Rotationally Twinned InP Nanowire Heterostructures"
+  },
+  {
+   "paper_id": "W2616585596",
+   "year": 2016,
+   "cited_by_count": 309,
+   "C_5_pctl": 0.99,
+   "title": "Generation of wavelength-independent subwavelength Bessel beams using metasurfaces"
+  },
+  {
+   "paper_id": "W2162637781",
+   "year": 2010,
+   "cited_by_count": 307,
+   "C_5_pctl": 1.0,
+   "title": "Designer spoof surface plasmon structures collimate terahertz laser beams"
+  },
+  {
+   "paper_id": "W2021633356",
+   "year": 1982,
+   "cited_by_count": 305,
+   "C_5_pctl": 1.0,
+   "title": "Enhancement of electron impact ionization in a superlattice: A new avalanche photodiode with a large ionization rate ratio"
+  },
+  {
+   "paper_id": "W2018456247",
+   "year": 2002,
+   "cited_by_count": 304,
+   "C_5_pctl": 0.99,
+   "title": "Quantum cascade lasers: ultrahigh-speed operation, optical wireless communication, narrow linewidth, and far-infrared emission"
+  },
+  {
+   "paper_id": "W2103937508",
+   "year": 2012,
+   "cited_by_count": 302,
+   "C_5_pctl": 1.0,
+   "title": "Holographic detection of the orbital angular momentum of light with plasmonic photodiodes"
+  }
+ ]
+}

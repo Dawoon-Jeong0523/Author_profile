@@ -1,0 +1,654 @@
+{
+ "person": "William M. Shih",
+ "profile": "A5015398607",
+ "ids": [
+  "A5015398607"
+ ],
+ "options": [
+  "for the development of DNA origami and programmable self-assembly of DNA nanostructures — Paul W. K. Rothemund, William M. Shih, Hao Yan"
+ ],
+ "birth_year": 1972,
+ "cutoff_year": 1997,
+ "works": [
+  {
+   "paper_id": "W1975679096",
+   "year": 2009,
+   "cited_by_count": 2533,
+   "title": "Self-assembly of DNA into nanoscale three-dimensional shapes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099737063",
+   "year": 2009,
+   "cited_by_count": 1375,
+   "title": "Folding DNA into Twisted and Curved Nanoscale Shapes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158346543",
+   "year": 2012,
+   "cited_by_count": 1282,
+   "title": "Three-Dimensional Structures Self-Assembled from DNA Bricks",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077850544",
+   "year": 2011,
+   "cited_by_count": 1275,
+   "title": "Challenges and opportunities for structural DNA nanotechnology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129096474",
+   "year": 2009,
+   "cited_by_count": 1240,
+   "title": "Rapid prototyping of 3D DNA-origami shapes with caDNAno",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995143570",
+   "year": 2014,
+   "cited_by_count": 1237,
+   "title": "Multiplexed 3D cellular super-resolution imaging with DNA-PAINT and Exchange-PAINT",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085523918",
+   "year": 2004,
+   "cited_by_count": 975,
+   "title": "A 1.7-kilobase single-stranded DNA that folds into a nanoscale octahedron",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964535590",
+   "year": 2014,
+   "cited_by_count": 503,
+   "title": "Virus-Inspired Membrane Encapsulation of DNA Nanostructures To Achieve In Vivo Stability",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002749442",
+   "year": 2007,
+   "cited_by_count": 486,
+   "title": "DNA-nanotube-induced alignment of membrane proteins for NMR structure determination",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2618072306",
+   "year": 2017,
+   "cited_by_count": 484,
+   "title": "Oligolysine-based coating protects DNA nanostructures from low-salt denaturation and nuclease degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963489221",
+   "year": 2012,
+   "cited_by_count": 441,
+   "title": "Tug-of-War in Motor Protein Ensembles Revealed with a Programmable DNA Origami Scaffold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014845274",
+   "year": 2009,
+   "cited_by_count": 414,
+   "title": "Multilayer DNA Origami Packed on a Square Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096973725",
+   "year": 2015,
+   "cited_by_count": 402,
+   "title": "Single-molecule super-resolution imaging of chromosomes and in situ haplotype visualization using Oligopaint FISH probes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034471432",
+   "year": 2011,
+   "cited_by_count": 379,
+   "title": "Mitochondrial uncoupling protein 2 structure determined by NMR molecular fragment searching",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004899704",
+   "year": 2014,
+   "cited_by_count": 377,
+   "title": "Addressing the Instability of DNA Nanostructures in Tissue Culture",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966848207",
+   "year": 2010,
+   "cited_by_count": 373,
+   "title": "Self-assembly of three-dimensional prestressed tensegrity structures from DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2329213810",
+   "year": 2016,
+   "cited_by_count": 353,
+   "title": "Using DNA to program the self-assembly of colloidal nanoparticles and microparticles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052275870",
+   "year": 2012,
+   "cited_by_count": 293,
+   "title": "Submicrometre geometrically encoded fluorescent barcodes self-assembled from DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1515870710",
+   "year": 2015,
+   "cited_by_count": 273,
+   "title": "Prescribed nanoparticle cluster architectures and low-dimensional arrays built using octahedral DNA origami frames",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2310696333",
+   "year": 2016,
+   "cited_by_count": 264,
+   "title": "Self-assembly of size-controlled liposomes on DNA nanotemplates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2803080671",
+   "year": 2018,
+   "cited_by_count": 246,
+   "title": "Modulation of the Cellular Uptake of DNA Origami through Control over Mass and Shape",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2404474364",
+   "year": 2016,
+   "cited_by_count": 216,
+   "title": "Programming Self-Assembly of DNA Origami Honeycomb Two-Dimensional Lattices and Plasmonic Metamaterials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019366726",
+   "year": 2014,
+   "cited_by_count": 207,
+   "title": "DNA brick crystals with prescribed depths",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153138268",
+   "year": 2012,
+   "cited_by_count": 205,
+   "title": "Dynein achieves processive motion using both stochastic and coordinated stepping",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3016014942",
+   "year": 2020,
+   "cited_by_count": 204,
+   "title": "15.5 A 28nm 64Kb 6T SRAM Computing-in-Memory Macro with 8b MAC Operation for AI Edge Chips",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2237063712",
+   "year": 2015,
+   "cited_by_count": 200,
+   "title": "Routing of individual polymers in designed patterns",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980231010",
+   "year": 2012,
+   "cited_by_count": 171,
+   "title": "Purification of DNA-origami nanostructures by rate-zonal centrifugation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150710897",
+   "year": 2015,
+   "cited_by_count": 171,
+   "title": "Membrane-Assisted Growth of DNA Origami Nanostructure Arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975382743",
+   "year": 2001,
+   "cited_by_count": 167,
+   "title": "Sen Virus Infection and Its Relationship to Transfusion–Associated Hepatitis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2300063668",
+   "year": 2016,
+   "cited_by_count": 160,
+   "title": "Regulation at a distance of biomolecular interactions using a DNA origami nanoactuator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3026491932",
+   "year": 2020,
+   "cited_by_count": 154,
+   "title": "Precise pitch-scaling of carbon nanotube arrays within three-dimensional DNA nanotrenches",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170146581",
+   "year": 2000,
+   "cited_by_count": 147,
+   "title": "A FRET-Based Sensor Reveals Large ATP Hydrolysis–Induced Conformational Changes and Three Distinct States of the Molecular Motor Myosin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006362835",
+   "year": 2013,
+   "cited_by_count": 146,
+   "title": "Enzymatic production of 'monoclonal stoichiometric' single-stranded DNA oligonucleotides",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3003185225",
+   "year": 2020,
+   "cited_by_count": 146,
+   "title": "Glutaraldehyde Cross-Linking of Oligolysines Coating DNA Origami Greatly Reduces Susceptibility to Nuclease Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979489963",
+   "year": 2011,
+   "cited_by_count": 137,
+   "title": "Multilayer DNA Origami Packed on Hexagonal and Hybrid Lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005897645",
+   "year": 2008,
+   "cited_by_count": 135,
+   "title": "Isothermal Assembly of DNA Origami Structures Using Denaturing Agents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2802661634",
+   "year": 2018,
+   "cited_by_count": 134,
+   "title": "Exploring the speed limit of toehold exchange with a cartwheeling DNA acrobat",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042042512",
+   "year": 2010,
+   "cited_by_count": 132,
+   "title": "Knitting complex weaves with DNA origami",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115394560",
+   "year": 2012,
+   "cited_by_count": 130,
+   "title": "Two design strategies for enhancement of multilayer–DNA-origami folding: underwinding for specific intercalator rescue and staple-break positioning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3159353913",
+   "year": 2021,
+   "cited_by_count": 125,
+   "title": "A Local Computing Cell and 6T SRAM-Based Computing-in-Memory Macro With 8-b MAC Operation for Edge AI Chips",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107885325",
+   "year": 2013,
+   "cited_by_count": 119,
+   "title": "Rigid DNA Beams for High‐Resolution Single‐Molecule Mechanics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006391873",
+   "year": 2009,
+   "cited_by_count": 113,
+   "title": "Folding DNA Origami from a Double-Stranded Source of Scaffold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2223802624",
+   "year": 2015,
+   "cited_by_count": 101,
+   "title": "Scalable amplification of strand subsets from chip-synthesized oligonucleotide libraries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2563367271",
+   "year": 2016,
+   "cited_by_count": 97,
+   "title": "A programmable DNA origami nanospring that reveals force-induced adjacent binding of myosin VI heads",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987701110",
+   "year": 2011,
+   "cited_by_count": 94,
+   "title": "Recovery of intact DNA nanostructures after agarose gel–based separation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2290620539",
+   "year": 2016,
+   "cited_by_count": 93,
+   "title": "A Programmable DNA Origami Platform to Organize SNAREs for Membrane Fusion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2886667901",
+   "year": 2018,
+   "cited_by_count": 76,
+   "title": "DNA-Corralled Nanodiscs for the Structural and Functional Characterization of Membrane Proteins and Viral Entry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3100906359",
+   "year": 2020,
+   "cited_by_count": 61,
+   "title": "Complex multicomponent patterns rendered on a 3D DNA-barrel pegboard",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007991496",
+   "year": 2013,
+   "cited_by_count": 60,
+   "title": "DNA nanotubes for NMR structure determination of membrane proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3207304493",
+   "year": 2021,
+   "cited_by_count": 48,
+   "title": "Single-molecule mechanical fingerprinting with DNA nanoswitch calipers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145375806",
+   "year": 2014,
+   "cited_by_count": 45,
+   "title": "DNA Origami Structures Directly Assembled from Intact Bacteriophages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2999677165",
+   "year": 2020,
+   "cited_by_count": 45,
+   "title": "Extrusion of RNA from a DNA-Origami-Based Nanofactory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3137604671",
+   "year": 2021,
+   "cited_by_count": 45,
+   "title": "Robust nucleation control via crisscross polymerization of highly coordinated DNA slats",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1728059589",
+   "year": 2015,
+   "cited_by_count": 39,
+   "title": "Alginate and DNA Gels Are Suitable Delivery Systems for Diabetic Wound Healing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062466924",
+   "year": 2002,
+   "cited_by_count": 39,
+   "title": "SEN virus: Response to interferon alfa and influence on the severity and treatment response of coexistent hepatitis C",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2773165190",
+   "year": 2017,
+   "cited_by_count": 39,
+   "title": "Selective Nascent Polymer Catch‐and‐Release Enables Scalable Isolation of Multi‐Kilobase Single‐Stranded DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2984023638",
+   "year": 2019,
+   "cited_by_count": 38,
+   "title": "Rapid in vitro production of single-stranded DNA",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007515512",
+   "year": 2013,
+   "cited_by_count": 37,
+   "title": "Disruption of Helix-Capping Residues 671 and 674 Reveals a Role in HIV-1 Entry for a Specialized Hinge Segment of the Membrane Proximal External Region of gp41",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2911618051",
+   "year": 2010,
+   "cited_by_count": 35,
+   "title": "Self-Assembly of DNA into Nanoscale Three-Dimensional Shapes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3035031076",
+   "year": 2020,
+   "cited_by_count": 32,
+   "title": "Large Nanodiscs: A Potential Game Changer in Structural Biology of Membrane Protein Complexes and Virus Entry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2154152228",
+   "year": 2001,
+   "cited_by_count": 31,
+   "title": "The Myosin Relay Helix to Converter Interface Remains Intact throughout the Actomyosin ATPase Cycle",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2766796724",
+   "year": 2017,
+   "cited_by_count": 25,
+   "title": "Single-Molecule Clocks Controlled by Serial Chemical Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2977867927",
+   "year": 2019,
+   "cited_by_count": 23,
+   "title": "Thermal cycling of DNA devices via associative strand displacement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4247355777",
+   "year": 2013,
+   "cited_by_count": 22,
+   "title": "Rigid DNA Beams for High‐Resolution Single‐Molecule Mechanics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050278417",
+   "year": 2008,
+   "cited_by_count": 20,
+   "title": "Dynamic DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2262347979",
+   "year": 2015,
+   "cited_by_count": 20,
+   "title": "Controlled Co-reconstitution of Multiple Membrane Proteins in Lipid Bilayer Nanodiscs Using DNA as a Scaffold",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2899488847",
+   "year": 2018,
+   "cited_by_count": 17,
+   "title": "Force Spectroscopy and Beyond: Innovations and Opportunities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2978022844",
+   "year": 2019,
+   "cited_by_count": 15,
+   "title": "In Vitro Transcriptional Regulation via Nucleic-Acid-Based Transcription Factors",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3041512257",
+   "year": 2020,
+   "cited_by_count": 15,
+   "title": "A smart polymer for sequence-selective binding, pulldown, and release of DNA targets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006439572",
+   "year": 2015,
+   "cited_by_count": 11,
+   "title": "Exploiting weak interactions in DNA self-assembly",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1532924274",
+   "year": 2006,
+   "cited_by_count": 9,
+   "title": "Sciatic neuropathy following endovascular treatment of a limb vascular malformation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2547618437",
+   "year": 2016,
+   "cited_by_count": 6,
+   "title": "Lipid Membrane Encapsulation of a 3D DNA Nano Octahedron",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991590948",
+   "year": 2012,
+   "cited_by_count": 2,
+   "title": "Coordination of Individual and Ensemble Dynein Motors Studied using Tools from DNA Nanotechnology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4210392527",
+   "year": 2017,
+   "cited_by_count": 2,
+   "title": "Selective Nascent Polymer Catch‐and‐Release Enables Scalable Isolation of Multi‐Kilobase Single‐Stranded DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2583135152",
+   "year": 2017,
+   "cited_by_count": 1,
+   "title": "Covalently Circularized Nanodiscs : EM and NMR Applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966920075",
+   "year": 2009,
+   "cited_by_count": 0,
+   "title": "Towards Custom-topology Tracks For Probing Myosin Motor Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002678665",
+   "year": 2014,
+   "cited_by_count": 0,
+   "title": "Designing of Self-Assembled Biomolecular System and the Detection at the Single Molecule Resolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013067860",
+   "year": 2009,
+   "cited_by_count": 0,
+   "title": "Rigid Linear Nano-Actuator Self-Assembled from DNA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076413617",
+   "year": 2009,
+   "cited_by_count": 0,
+   "title": "Design and self-assembly of DNA into nanoscale 3D shapes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2240327103",
+   "year": 2015,
+   "cited_by_count": 0,
+   "title": "Use DNA origami as a scaffold for self-assembly of optical metamolecules",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "person": "David W. Deamer",
+ "profile": "A5004480690",
+ "ids": [
+  "A5004480690"
+ ],
+ "options": [
+  "for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids — Hagan Bayley, David W. Deamer, Daniel Branton"
+ ],
+ "birth_year": 1939,
+ "cutoff_year": 1964,
+ "works": [
+  {
+   "paper_id": "W2127407003",
+   "year": 1996,
+   "cited_by_count": 3264,
+   "title": "Characterization of individual polynucleotide molecules using a membrane channel",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025583382",
+   "year": 2008,
+   "cited_by_count": 2483,
+   "title": "The potential and challenges of nanopore sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346680365",
+   "year": 2016,
+   "cited_by_count": 1245,
+   "title": "Three decades of nanopore sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2125021618",
+   "year": 1999,
+   "cited_by_count": 937,
+   "title": "Microsecond Time-Scale Discrimination Among Polycytidylic Acid, Polyadenylic Acid, and Polyuridylic Acid as Homopolymers or as Segments Within Single RNA Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026889256",
+   "year": 1997,
+   "cited_by_count": 641,
+   "title": "Two mechanisms of permeation of small neutral molecules and hydrated ions across phospholipid bilayers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1495374002",
+   "year": 2001,
+   "cited_by_count": 596,
+   "title": "The Lipid World",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073934614",
+   "year": 1978,
+   "cited_by_count": 578,
+   "title": "Liposomes from ionic, single-chain amphiphiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019036104",
+   "year": 1996,
+   "cited_by_count": 566,
+   "title": "Permeation of protons, potassium ions, and small polar molecules through phospholipid bilayers as a function of membrane thickness",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048679742",
+   "year": 1976,
+   "cited_by_count": 513,
+   "title": "Large volume liposomes by an ether vaporization method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2996553307",
+   "year": 2019,
+   "cited_by_count": 506,
+   "title": "The Hot Spring Hypothesis for an Origin of Life",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118579429",
+   "year": 2002,
+   "cited_by_count": 496,
+   "title": "Characterization of Nucleic Acids by Nanopore Analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1481296411",
+   "year": 2001,
+   "cited_by_count": 418,
+   "title": "Rapid discrimination among individual DNA hairpin molecules at single-nucleotide resolution using an ion channel",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082731642",
+   "year": 2004,
+   "cited_by_count": 384,
+   "title": "Transitions from Nonliving to Living Matter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037257326",
+   "year": 2000,
+   "cited_by_count": 374,
+   "title": "Nanopores and nucleic acids: prospects for ultrarapid sequencing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076968073",
+   "year": 2002,
+   "cited_by_count": 343,
+   "title": "Self-assembled vesicles of monocarboxylic acids and alcohols: conditions for stability and for the encapsulation of biopolymers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985309426",
+   "year": 1986,
+   "cited_by_count": 326,
+   "title": "Permeability of lipid bilayers to water and ionic solutes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994097939",
+   "year": 2002,
+   "cited_by_count": 309,
+   "title": "Membrane self‐assembly processes: Steps toward the first cellular life",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993942594",
+   "year": 2015,
+   "cited_by_count": 300,
+   "title": "Coupled Phases and Combinatorial Selection in Fluctuating Hydrothermal Pools: A Scenario to Guide Experimental Approaches to the Origin of Cellular Life",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970618289",
+   "year": 2002,
+   "cited_by_count": 286,
+   "title": "Artificial cells: prospects for biotechnology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2573268563",
+   "year": 2017,
+   "cited_by_count": 279,
+   "title": "The Role of Lipid Membranes in Life’s Origin",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2179913100",
+   "year": 2002,
+   "cited_by_count": 272,
+   "title": "Influence of Ionic Inorganic Solutes on Self-Assembly and Polymerization Processes Related to Early Forms of Life: Implications for a Prebiotic Aqueous Medium",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969617129",
+   "year": 2007,
+   "cited_by_count": 271,
+   "title": "Lipid-assisted Synthesis of RNA-like Polymers from Mononucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998228944",
+   "year": 2002,
+   "cited_by_count": 270,
+   "title": "The First Cell Membranes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980793691",
+   "year": 2003,
+   "cited_by_count": 269,
+   "title": "The NASA Astrobiology Roadmap",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998528497",
+   "year": 1985,
+   "cited_by_count": 268,
+   "title": "Boundary structures are formed by organic components of the Murchison carbonaceous chondrite",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122439022",
+   "year": 1997,
+   "cited_by_count": 268,
+   "title": "The first living systems: a bioenergetic perspective",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039467756",
+   "year": 1972,
+   "cited_by_count": 265,
+   "title": "The response of fluorescent amines to pH gradients across liposome membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018664170",
+   "year": 1989,
+   "cited_by_count": 263,
+   "title": "Amphiphilic components of the murchison carbonaceous chondrite: Surface properties and membrane formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975792321",
+   "year": 1970,
+   "cited_by_count": 261,
+   "title": "Lamellar and hexagonal lipid phases visualized by freeze-etching",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051529731",
+   "year": 1977,
+   "cited_by_count": 252,
+   "title": "Synthesis of phospholipids and membranes in prebiotic conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972332876",
+   "year": 2001,
+   "cited_by_count": 239,
+   "title": "Self-assembling amphiphilic molecules: Synthesis in simulated interstellar/precometary ices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979109821",
+   "year": 1988,
+   "cited_by_count": 239,
+   "title": "The chemical logic of a minimum protocell",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094391023",
+   "year": 1986,
+   "cited_by_count": 236,
+   "title": "Oxidative stress impairs the function of sarcoplasmic reticulum by oxidation of sulfhydryl groups in the Ca2+-ATPase",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082722544",
+   "year": 1973,
+   "cited_by_count": 224,
+   "title": "Effect of Antioxidants and Nutrients on Lipid Peroxidation Fluorescent Products and Aging Parameters in the Mouse",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3022027747",
+   "year": 1976,
+   "cited_by_count": 202,
+   "title": "Large volume liposomes by an ether vaporization method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994660369",
+   "year": 2007,
+   "cited_by_count": 199,
+   "title": "Sequence-specific detection of individual DNA polymerase complexes in real time using a nanopore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978228499",
+   "year": 1994,
+   "cited_by_count": 194,
+   "title": "Production of RNA by a polymerase protein encapsulated within phospholipid vesicles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106537880",
+   "year": 1969,
+   "cited_by_count": 193,
+   "title": "ULTRASTRUCTURE OF SARCOPLASMIC RETICULUM PREPARATIONS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029289609",
+   "year": 1967,
+   "cited_by_count": 180,
+   "title": "Fracture Planes in an Ice-Bilayer Model Membrane System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2139026718",
+   "year": 1980,
+   "cited_by_count": 177,
+   "title": "Net proton-hydroxyl permeability of large unilamellar liposomes measured by an acid-base titration technique.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976275264",
+   "year": 2010,
+   "cited_by_count": 166,
+   "title": "Replication of individual DNA molecules under electronic control using a protein nanopore",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981885237",
+   "year": 1992,
+   "cited_by_count": 165,
+   "title": "Permeability of lipid bilayers to amino acids and phosphate",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2164375854",
+   "year": 2010,
+   "cited_by_count": 162,
+   "title": "Bioenergetics and Life's Origins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2490072086",
+   "year": 2016,
+   "cited_by_count": 160,
+   "title": "Dry/Wet Cycling and the Thermodynamics and Kinetics of Prebiotic Polymer Synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990942508",
+   "year": 2003,
+   "cited_by_count": 159,
+   "title": "Eutectic Phase Polymerization of Activated Ribonucleotide Mixtures Yields Quasi-Equimolar Incorporation of Purine and Pyrimidine Nucleobases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067748616",
+   "year": 1989,
+   "cited_by_count": 156,
+   "title": "Proton flux mechanisms in model and biological membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W87930704",
+   "year": 1987,
+   "cited_by_count": 154,
+   "title": "Proton permeation of lipid bilayers",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4248364267",
+   "year": 1997,
+   "cited_by_count": 151,
+   "title": "The first living systems: a bioenergetic perspective.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2049681664",
+   "year": 1982,
+   "cited_by_count": 142,
+   "title": "Encapsulation of macromolecules by lipid vesicles under simulated prebiotic conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998553158",
+   "year": 1991,
+   "cited_by_count": 139,
+   "title": "Proton conductance by the gramicidin water wire. Model for proton conductance in the F1F0 ATPases?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147720362",
+   "year": 2005,
+   "cited_by_count": 139,
+   "title": "A giant step towards artificial life?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993692047",
+   "year": 1998,
+   "cited_by_count": 131,
+   "title": "Permeation of Halide Anions through Phospholipid Bilayers Occurs by the Solubility-Diffusion Mechanism",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046558616",
+   "year": 2001,
+   "cited_by_count": 131,
+   "title": "Eutectic Phases in Ice Facilitate Nonenzymatic Nucleic Acid Synthesis",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034773569",
+   "year": 1976,
+   "cited_by_count": 130,
+   "title": "Catecholamine uptake and concentration by liposomes maintaining pH gradients",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124706240",
+   "year": 2006,
+   "cited_by_count": 130,
+   "title": "Self-assembly processes in the prebiotic environment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003871791",
+   "year": 1985,
+   "cited_by_count": 125,
+   "title": "A novel method for encapsulation of macromolecules in liposomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024536641",
+   "year": 2009,
+   "cited_by_count": 124,
+   "title": "Chemical Evolution of Amphiphiles: Glycerol Monoacyl Derivatives Stabilize Plausible Prebiotic Membranes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1522155566",
+   "year": 2014,
+   "cited_by_count": 120,
+   "title": "Lipids as Universal Biomarkers of Extraterrestrial Life",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005614142",
+   "year": 1983,
+   "cited_by_count": 120,
+   "title": "Proton-hydroxide permeability of liposomes.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040578005",
+   "year": 2007,
+   "cited_by_count": 120,
+   "title": "Planar optofluidic chip for single particle detection, manipulation, and analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092682227",
+   "year": 2014,
+   "cited_by_count": 120,
+   "title": "Salt-Promoted Synthesis of RNA-like Molecules in Simulated Hydrothermal Conditions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098449980",
+   "year": 2013,
+   "cited_by_count": 120,
+   "title": "Nucleobases bind to and stabilize aggregates of a prebiotic amphiphile, providing a viable mechanism for the emergence of protocells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148799176",
+   "year": 2010,
+   "cited_by_count": 119,
+   "title": "From “Banghasomes” to liposomes: A memoir of Alec Bangham, 1921–2010",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965269151",
+   "year": 1980,
+   "cited_by_count": 115,
+   "title": "Measurement of net proton-hydroxyl permeability of large unilamellar liposomes with the fluorescent pH probe, 9-aminoacridine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2979458459",
+   "year": 2019,
+   "cited_by_count": 115,
+   "title": "Hydrothermal Chemistry and the Origin of Cellular Life",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970116834",
+   "year": 1996,
+   "cited_by_count": 110,
+   "title": "Electrical double layers at the oil/water interface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006477302",
+   "year": 1966,
+   "cited_by_count": 109,
+   "title": "Surface Area of Human Erythrocyte Lipids: Reinvestigation of Experiments on Plasma Membrane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092905820",
+   "year": 1980,
+   "cited_by_count": 107,
+   "title": "Role of lipids in prebiotic structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018631209",
+   "year": 1978,
+   "cited_by_count": 106,
+   "title": "PREPARATION AND PROPERTIES OF ETHER‐INJECTION LIPOSOMES *",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971264940",
+   "year": 2006,
+   "cited_by_count": 103,
+   "title": "Single-molecule detection sensitivity using planar integrated optics on a chip",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029383562",
+   "year": 2004,
+   "cited_by_count": 103,
+   "title": "Integrated optical waveguides with liquid cores",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1483651803",
+   "year": 1973,
+   "cited_by_count": 101,
+   "title": "Isolation and Characterization of a Lysolecithin-Adenosine Triphosphatase Complex from Lobster Muscle Microsomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058474241",
+   "year": 2009,
+   "cited_by_count": 101,
+   "title": "Self-assembly and function of primitive cell membranes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092943460",
+   "year": 2008,
+   "cited_by_count": 99,
+   "title": "Stability of Model Membranes in Extreme Environments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090823375",
+   "year": 1967,
+   "cited_by_count": 97,
+   "title": "Mechanisms of light-induced structural changes in chloroplasts I. Light-scattering increments and ultrastructural changes mediated by proton transport",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040825054",
+   "year": 2014,
+   "cited_by_count": 96,
+   "title": "Generation of Oligonucleotides Under Hydrothermal Conditions by Non-enzymatic Polymerization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2129982963",
+   "year": 2003,
+   "cited_by_count": 96,
+   "title": "Highly Accurate Classification of Watson-Crick Basepairs on Termini of Single DNA Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986822426",
+   "year": 1967,
+   "cited_by_count": 94,
+   "title": "Mechanisms of light-induced structural change in chloroplasts II. The role of ion movements in volume changes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029006988",
+   "year": 1985,
+   "cited_by_count": 94,
+   "title": "pH-Dependent fusion of liposomes using titratable polycations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018860292",
+   "year": 1986,
+   "cited_by_count": 93,
+   "title": "Role of amphiphilic compounds in the evolution of membrane structure on the early earth",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

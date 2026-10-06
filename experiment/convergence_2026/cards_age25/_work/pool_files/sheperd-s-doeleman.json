@@ -1,0 +1,654 @@
+{
+ "person": "Sheperd S. Doeleman",
+ "profile": "A5023737919",
+ "ids": [
+  "A5023737919"
+ ],
+ "options": [
+  "for the observation of the shadow of a black hole by event-horizon-scale radio interferometry — Heino Falcke, Sheperd S. Doeleman, Katherine L. Bouman"
+ ],
+ "birth_year": 1967,
+ "cutoff_year": 1992,
+ "works": [
+  {
+   "paper_id": "W2936349953",
+   "year": 2019,
+   "cited_by_count": 3885,
+   "title": "First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2936095933",
+   "year": 2019,
+   "cited_by_count": 1525,
+   "title": "First M87 Event Horizon Telescope Results. VI. The Shadow and Mass of the Central Black Hole",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2937056002",
+   "year": 2019,
+   "cited_by_count": 1501,
+   "title": "First M87 Event Horizon Telescope Results. IV. Imaging the Central Supermassive Black Hole",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2938000962",
+   "year": 2019,
+   "cited_by_count": 1361,
+   "title": "First M87 Event Horizon Telescope Results. V. Physical Origin of the Asymmetric Ring",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2939024351",
+   "year": 2019,
+   "cited_by_count": 1027,
+   "title": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2939038312",
+   "year": 2019,
+   "cited_by_count": 840,
+   "title": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035538351",
+   "year": 2008,
+   "cited_by_count": 802,
+   "title": "Event-horizon-scale structure in the supermassive black hole candidate at the Galactic Centre",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3137038733",
+   "year": 2021,
+   "cited_by_count": 603,
+   "title": "First M87 Event Horizon Telescope Results. VIII. Magnetic Field Structure near The Event Horizon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3139022070",
+   "year": 2021,
+   "cited_by_count": 457,
+   "title": "First M87 Event Horizon Telescope Results. VII. Polarization of the Ring",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042039095",
+   "year": 2012,
+   "cited_by_count": 403,
+   "title": "Jet-Launching Structure Resolved Near the Supermassive Black Hole in M87",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170481857",
+   "year": 2009,
+   "cited_by_count": 369,
+   "title": "The Murchison Widefield Array: Design Overview",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2937696600",
+   "year": 2019,
+   "cited_by_count": 307,
+   "title": "The Event Horizon General Relativistic Magnetohydrodynamic Code Comparison Project",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3161957533",
+   "year": 2021,
+   "cited_by_count": 294,
+   "title": "Constraints on black-hole charges with the 2017 EHT observations of M87*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2400200941",
+   "year": 2016,
+   "cited_by_count": 230,
+   "title": "HIGH-RESOLUTION LINEAR POLARIMETRIC IMAGING FOR THE EVENT HORIZON TELESCOPE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2181359111",
+   "year": 2015,
+   "cited_by_count": 209,
+   "title": "Resolved magnetic-field structure and variability near the event horizon of Sagittarius A*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2195797723",
+   "year": 2016,
+   "cited_by_count": 170,
+   "title": "Testing General Relativity with the Shadow Size of Sgr A*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2594279543",
+   "year": 2017,
+   "cited_by_count": 160,
+   "title": "Imaging the Schwarzschild-radius-scale Structure of M87 with the Event Horizon Telescope Using Sparse Modeling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165875176",
+   "year": 2009,
+   "cited_by_count": 154,
+   "title": "DETECTING FLARING STRUCTURES IN SAGITTARIUS A* WITH HIGH-FREQUENCY VLBI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098945879",
+   "year": 2010,
+   "cited_by_count": 152,
+   "title": "1.3 mm WAVELENGTH VLBI OF SAGITTARIUS A*: DETECTION OF TIME-VARIABLE EMISSION ON EVENT HORIZON SCALES",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2050637585",
+   "year": 2009,
+   "cited_by_count": 129,
+   "title": "ESTIMATING THE PARAMETERS OF SAGITTARIUS A*'s ACCRETION FLOW VIA MILLIMETER VLBI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1852220742",
+   "year": 2015,
+   "cited_by_count": 117,
+   "title": "230 GHz VLBI OBSERVATIONS OF M87: EVENT‐HORIZON‐SCALE STRUCTURE DURING AN ENHANCED VERY‐HIGH‐ENERGY $\\gamma $‐RAY STATE IN 2012",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2909133871",
+   "year": 2019,
+   "cited_by_count": 115,
+   "title": "The Size, Shape, and Scattering of Sagittarius A* at 86 GHz: First VLBI with ALMA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2596169338",
+   "year": 2017,
+   "cited_by_count": 104,
+   "title": "Superresolution Full-polarimetric Imaging for Radio Interferometry with Sparse Modeling",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3104283018",
+   "year": 2013,
+   "cited_by_count": 101,
+   "title": "IMAGING THE SUPERMASSIVE BLACK HOLE SHADOW AND JET BASE OF M87 WITH THE EVENT HORIZON TELESCOPE",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W3015473161",
+   "year": 2020,
+   "cited_by_count": 97,
+   "title": "Event Horizon Telescope imaging of the archetypal blazar 3C 279 at an extreme 20 microarcsecond resolution",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149053837",
+   "year": 2015,
+   "cited_by_count": 96,
+   "title": "THE EVENT HORIZON OF M87",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1998995113",
+   "year": 1994,
+   "cited_by_count": 94,
+   "title": "Small-scale structure and position of Sagittarius A(*) from VLBI at 3 millimeter wavelength",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3105763367",
+   "year": 2010,
+   "cited_by_count": 91,
+   "title": "EVIDENCE FOR LOW BLACK HOLE SPIN AND PHYSICALLY MOTIVATED ACCRETION MODELS FROM MILLIMETER-VLBI OBSERVATIONS OF SAGITTARIUS A*",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W3157063504",
+   "year": 2021,
+   "cited_by_count": 89,
+   "title": "The Polarized Image of a Synchrotron-emitting Ring of Gas Orbiting a Black Hole",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2804413181",
+   "year": 2018,
+   "cited_by_count": 86,
+   "title": "Detection of Intrinsic Source Structure at ∼3 Schwarzschild Radii with Millimeter-VLBI Observations of SAGITTARIUS A*",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1765032695",
+   "year": 2001,
+   "cited_by_count": 83,
+   "title": "Structure of Sagittarius A* at 86 GH[CLC]z[/CLC] using VLBI Closure Quantities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2294490809",
+   "year": 2017,
+   "cited_by_count": 83,
+   "title": "Probing the Magnetic Field Structure in on Black Hole Horizon Scales with Polarized Radiative Transfer Simulations",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2281136567",
+   "year": 2016,
+   "cited_by_count": 81,
+   "title": "PERSISTENT ASYMMETRIC STRUCTURE OF SAGITTARIUS A* ON EVENT HORIZON SCALES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971853617",
+   "year": 2014,
+   "cited_by_count": 80,
+   "title": "IMAGING AN EVENT HORIZON: MITIGATION OF SCATTERING TOWARD SAGITTARIUS A*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3041989541",
+   "year": 2020,
+   "cited_by_count": 78,
+   "title": "THEMIS: A Parameter Estimation Framework for the Event Horizon Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3044868348",
+   "year": 2020,
+   "cited_by_count": 77,
+   "title": "Verification of Radiative Transfer Schemes for the EHT",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2896222618",
+   "year": 2018,
+   "cited_by_count": 76,
+   "title": "ALMA Polarimetry of Sgr A*: Probing the Accretion Flow from the Event Horizon to the Bondi Radius",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2513345541",
+   "year": 2016,
+   "cited_by_count": 73,
+   "title": "Testing General Relativity with Accretion-Flow Imaging of Sgr A*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767534525",
+   "year": 2017,
+   "cited_by_count": 70,
+   "title": "Dynamical Imaging with Interferometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058565854",
+   "year": 2014,
+   "cited_by_count": 68,
+   "title": "EVENT HORIZON TELESCOPE EVIDENCE FOR ALIGNMENT OF THE BLACK HOLE IN THE CENTER OF THE MILKY WAY WITH THE INNER STELLAR DISK",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2769966843",
+   "year": 2017,
+   "cited_by_count": 66,
+   "title": "The ALMA Phasing System: A Beamforming Capability for Ultra-high-resolution Science at (Sub)Millimeter Wavelengths",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2002338173",
+   "year": 1995,
+   "cited_by_count": 64,
+   "title": "Fringe detection methods for very long baseline arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4200022354",
+   "year": 2021,
+   "cited_by_count": 62,
+   "title": "Toward Determining the Number of Observable Supermassive Black Hole Shadows",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103261082",
+   "year": 2018,
+   "cited_by_count": 58,
+   "title": "The ALMA Phasing System: A Beamforming Capability for Ultra-high-resolution Science at (Sub)Millimeter Wavelengths",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2115644051",
+   "year": 2007,
+   "cited_by_count": 56,
+   "title": "Field Deployment of Prototype Antenna Tiles for the Mileura Widefield Array Low Frequency Demonstrator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969941231",
+   "year": 2007,
+   "cited_by_count": 51,
+   "title": "Stirring the Embers: High‐Sensitivity VLBI Observations of GRB 030329",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157255350",
+   "year": 2014,
+   "cited_by_count": 51,
+   "title": "Greenland telescope project: Direct confirmation of black hole with sub‐millimeter VLBI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2162431009",
+   "year": 2011,
+   "cited_by_count": 51,
+   "title": "CONSTRAINING THE STRUCTURE OF SAGITTARIUS A*'s ACCRETION FLOW WITH MILLIMETER VERY LONG BASELINE INTERFEROMETRY CLOSURE PHASES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2340397145",
+   "year": 2014,
+   "cited_by_count": 50,
+   "title": "PROBING THE PARSEC-SCALE ACCRETION FLOW OF 3C 84 WITH MILLIMETER WAVELENGTH POLARIMETRY",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2950594173",
+   "year": 2019,
+   "cited_by_count": 49,
+   "title": "Metrics and Motivations for Earth–Space VLBI: Time-resolving Sgr A* with the Event Horizon Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3100616474",
+   "year": 2019,
+   "cited_by_count": 47,
+   "title": "EHT-HOPS pipeline for millimeter VLBI data reduction",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2142889681",
+   "year": 2009,
+   "cited_by_count": 45,
+   "title": "DETECTING CHANGING POLARIZATION STRUCTURES IN SAGITTARIUS A* WITH HIGH FREQUENCY VLBI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098438575",
+   "year": 2017,
+   "cited_by_count": 43,
+   "title": "IMAGING AN EVENT HORIZON: MITIGATION OF SOURCE VARIABILITY OF SAGITTARIUS A*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1963704295",
+   "year": 2011,
+   "cited_by_count": 39,
+   "title": "Adapting a Cryogenic Sapphire Oscillator for Very Long Baseline Interferometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987953174",
+   "year": 2003,
+   "cited_by_count": 39,
+   "title": "R Cassiopeiae: Relative Strengths of SiO Masers at 43 and 86 GHz",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138090905",
+   "year": 2013,
+   "cited_by_count": 38,
+   "title": "FINE-SCALE STRUCTURE OF THE QUASAR 3C 279 MEASURED WITH 1.3 mm VERY LONG BASELINE INTERFEROMETRY",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3104256499",
+   "year": 2015,
+   "cited_by_count": 38,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2804564056",
+   "year": 2018,
+   "cited_by_count": 36,
+   "title": "Reconstructing Video of Time-Varying Sources From Radio Interferometric Measurements",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2328619392",
+   "year": 2015,
+   "cited_by_count": 35,
+   "title": "R2DBE: A Wideband Digital Backend for the Event Horizon Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065104492",
+   "year": 2009,
+   "cited_by_count": 34,
+   "title": "USING MILLIMETER VLBI TO CONSTRAIN RIAF MODELS OF SAGITTARIUS A*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1890331383",
+   "year": 1999,
+   "cited_by_count": 31,
+   "title": "A Molecular Outflow Traced by S[CLC]i[/CLC]O Masers in Orion KL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2744067488",
+   "year": 2017,
+   "cited_by_count": 31,
+   "title": "Quantifying Intrinsic Variability of Sagittarius A Using Closure Phase Measurements of the Event Horizon Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997902577",
+   "year": 2013,
+   "cited_by_count": 29,
+   "title": "Demonstration of a 16 Gbps Station-1Broadband-RF VLBI System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054900768",
+   "year": 1998,
+   "cited_by_count": 27,
+   "title": "A 3 Millimeter VLBI Continuum Source Survey",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2759996759",
+   "year": 2017,
+   "cited_by_count": 27,
+   "title": "Seeing the unseeable",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2489420845",
+   "year": 2016,
+   "cited_by_count": 26,
+   "title": "Asymmetric structure in Sgr A* at 3 mm from closure phase measurements with VLBA, GBT and LMT",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979051150",
+   "year": 1998,
+   "cited_by_count": 25,
+   "title": "VLBI Imaging of the 86 GHz SiO Maser Emission in the Circumstellar Envelope of VX Sagittarii",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142456261",
+   "year": 2012,
+   "cited_by_count": 19,
+   "title": "RESOLVING THE INNER JET STRUCTURE OF 1924-292 WITH THE EVENT HORIZON TELESCOPE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3121511533",
+   "year": 2014,
+   "cited_by_count": 19,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1603553724",
+   "year": 2001,
+   "cited_by_count": 13,
+   "title": "Coordinated Millimeter VLBI Array Observations of R Cassiopeiae: 86 GH[CLC]z[/CLC] S[CLC]i[/CLC]O Masers and Envelope Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2743307499",
+   "year": 2017,
+   "cited_by_count": 13,
+   "title": "Time Domain Filtering of Resolved Images of Sgr A∗",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972239426",
+   "year": 2009,
+   "cited_by_count": 12,
+   "title": "HIGH FREQUENCY VERY LONG BASELINE INTERFEROMETRY: FREQUENCY STANDARDS AND IMAGING AN EVENT HORIZON",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963076714",
+   "year": 2018,
+   "cited_by_count": 12,
+   "title": "A VLBI receiving system for the South Pole Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141852208",
+   "year": 2009,
+   "cited_by_count": 11,
+   "title": "Observing a black hole event horizon: (sub)millimeter VLBI of Sgr A*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2856257860",
+   "year": 2018,
+   "cited_by_count": 9,
+   "title": "The Greenland telescope: Thule operations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963734928",
+   "year": 2018,
+   "cited_by_count": 9,
+   "title": "Electronics instrumentation for the Greenland telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3021674546",
+   "year": 2015,
+   "cited_by_count": 9,
+   "title": "Testing General Relativity with the Shadow Size of Sgr A*",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2472457518",
+   "year": 2016,
+   "cited_by_count": 8,
+   "title": "Observing---and Imaging---Active Galactic Nuclei with the Event Horizon Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2999856884",
+   "year": 2020,
+   "cited_by_count": 7,
+   "title": "Studying Black Holes on Horizon Scales with VLBI Ground Arrays",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2902233683",
+   "year": 2016,
+   "cited_by_count": 6,
+   "title": "Zooming towards the Event Horizon - mm-VLBI today and tomorrow",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

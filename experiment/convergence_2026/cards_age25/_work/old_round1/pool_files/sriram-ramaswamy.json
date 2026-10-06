@@ -1,0 +1,416 @@
+{
+ "person": "Sriram Ramaswamy",
+ "birth_year": 1957,
+ "cutoff_year": 1982,
+ "options": [
+  "for the formulation of the hydrodynamic theories of active matter and flocking — John Toner, Sriram Ramaswamy, Yuhai Tu"
+ ],
+ "works": [
+  {
+   "paper_id": "W2074574519",
+   "year": 2013,
+   "cited_by_count": 3897,
+   "C_5_pctl": 1.0,
+   "title": "Hydrodynamics of soft active matter"
+  },
+  {
+   "paper_id": "W2105218727",
+   "year": 2005,
+   "cited_by_count": 974,
+   "C_5_pctl": 1.0,
+   "title": "Hydrodynamics and phases of flocks"
+  },
+  {
+   "paper_id": "W2055276703",
+   "year": 2007,
+   "cited_by_count": 789,
+   "C_5_pctl": 1.0,
+   "title": "Long-Lived Giant Number Fluctuations in a Swarming Granular Nematic"
+  },
+  {
+   "paper_id": "W2068587972",
+   "year": 2004,
+   "cited_by_count": 517,
+   "C_5_pctl": 0.98,
+   "title": "Rheology of Active-Particle Suspensions"
+  },
+  {
+   "paper_id": "W2040798093",
+   "year": 1985,
+   "cited_by_count": 464,
+   "C_5_pctl": 1.0,
+   "title": "Elasticity and Dislocations in Pentagonal and Icosahedral Quasicrystals"
+  },
+  {
+   "paper_id": "W2041882805",
+   "year": 2002,
+   "cited_by_count": 381,
+   "C_5_pctl": 0.99,
+   "title": "Anomalous Heat Conduction in One-Dimensional Momentum-Conserving Systems"
+  },
+  {
+   "paper_id": "W1981683020",
+   "year": 1985,
+   "cited_by_count": 340,
+   "C_5_pctl": 0.99,
+   "title": "Hydrodynamics of icosahedral quasicrystals"
+  },
+  {
+   "paper_id": "W4231976181",
+   "year": 2017,
+   "cited_by_count": 333,
+   "C_5_pctl": 1.0,
+   "title": "Active matter"
+  },
+  {
+   "paper_id": "W2059667163",
+   "year": 2003,
+   "cited_by_count": 304,
+   "C_5_pctl": 0.95,
+   "title": "Active nematics on a substrate: Giant number fluctuations and long-time tails"
+  },
+  {
+   "paper_id": "W1984966278",
+   "year": 2014,
+   "cited_by_count": 282,
+   "C_5_pctl": 1.0,
+   "title": "Flocking at a distance in active granular matter"
+  },
+  {
+   "paper_id": "W1998368798",
+   "year": 2014,
+   "cited_by_count": 273,
+   "C_5_pctl": 1.0,
+   "title": "Clusters, asters, and collective oscillations in chemotactic colloids"
+  },
+  {
+   "paper_id": "W2082355344",
+   "year": 2000,
+   "cited_by_count": 226,
+   "C_5_pctl": 0.93,
+   "title": "Nonequilibrium Fluctuations, Traveling Waves, and Instabilities in Active Membranes"
+  },
+  {
+   "paper_id": "W2080520895",
+   "year": 1985,
+   "cited_by_count": 193,
+   "C_5_pctl": 1.0,
+   "title": "Hydrodynamic Theory of the Glass Transition"
+  },
+  {
+   "paper_id": "W2019931764",
+   "year": 1991,
+   "cited_by_count": 184,
+   "C_5_pctl": 0.98,
+   "title": "Is There a Growing Correlation Length near the Glass Transition?"
+  },
+  {
+   "paper_id": "W2001626540",
+   "year": 2001,
+   "cited_by_count": 170,
+   "C_5_pctl": 0.93,
+   "title": "Active membrane fluctuations studied by micropipet aspiration"
+  },
+  {
+   "paper_id": "W2028585948",
+   "year": 1996,
+   "cited_by_count": 161,
+   "C_5_pctl": 0.96,
+   "title": "Power-Law Forces Between Particles in a Nematic"
+  },
+  {
+   "paper_id": "W2037884656",
+   "year": 1996,
+   "cited_by_count": 139,
+   "C_5_pctl": 0.95,
+   "title": "Anomalous Viscous Loss in Emulsions"
+  },
+  {
+   "paper_id": "W1966758385",
+   "year": 2001,
+   "cited_by_count": 127,
+   "C_5_pctl": 0.97,
+   "title": "Issues in the statistical mechanics of steady sedimentation"
+  },
+  {
+   "paper_id": "W2798033522",
+   "year": 2018,
+   "cited_by_count": 111,
+   "C_5_pctl": 0.99,
+   "title": "Defect Unbinding in Active Nematics"
+  },
+  {
+   "paper_id": "W2051802511",
+   "year": 1997,
+   "cited_by_count": 99,
+   "C_5_pctl": 0.98,
+   "title": "Are Steadily Moving Crystals Unstable?"
+  },
+  {
+   "paper_id": "W2073023433",
+   "year": 1983,
+   "cited_by_count": 95,
+   "C_5_pctl": 0.98,
+   "title": "Breakdown of conventional hydrodynamics for smectic- A , hexatic- B , and cholesteric liquid crystals"
+  },
+  {
+   "paper_id": "W1968683855",
+   "year": 2006,
+   "cited_by_count": 87,
+   "C_5_pctl": 0.94,
+   "title": "Active Nematics Are Intrinsically Phase Separated"
+  },
+  {
+   "paper_id": "W2049002929",
+   "year": 2004,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.88,
+   "title": "Flow-induced voltage and current generation in carbon nanotubes"
+  },
+  {
+   "paper_id": "W1970554649",
+   "year": 2011,
+   "cited_by_count": 76,
+   "C_5_pctl": 0.98,
+   "title": "Symmetry Properties of the Large-Deviation Function of the Velocity of a Self-Propelled Polar Particle"
+  },
+  {
+   "paper_id": "W1995834283",
+   "year": 1998,
+   "cited_by_count": 74,
+   "C_5_pctl": 0.95,
+   "title": "Screened and Unscreened Phases in Sedimenting Suspensions"
+  },
+  {
+   "paper_id": "W1988307812",
+   "year": 2007,
+   "cited_by_count": 74,
+   "C_5_pctl": 0.94,
+   "title": "Active-filament hydrodynamics: instabilities, boundary conditions and rheology"
+  },
+  {
+   "paper_id": "W1969798262",
+   "year": 2009,
+   "cited_by_count": 71,
+   "C_5_pctl": 0.88,
+   "title": "Universality class of the reversible-irreversible transition in sheared suspensions"
+  },
+  {
+   "paper_id": "W2889484744",
+   "year": 2018,
+   "cited_by_count": 70,
+   "C_5_pctl": 0.99,
+   "title": "Origins and diagnostics of the nonequilibrium character of active systems"
+  },
+  {
+   "paper_id": "W4239165577",
+   "year": 2014,
+   "cited_by_count": 67,
+   "C_5_pctl": 0.94,
+   "title": "Actomyosin contractility rotates the cell nucleus"
+  },
+  {
+   "paper_id": "W2345363985",
+   "year": 2020,
+   "cited_by_count": 66,
+   "C_5_pctl": 0.99,
+   "title": "Nonmutual torques and the unimportance of motility for long-range order in two-dimensional flocks"
+  },
+  {
+   "paper_id": "W2312252715",
+   "year": 1982,
+   "cited_by_count": 65,
+   "C_5_pctl": 0.98,
+   "title": "Viscosities Diverge as 1ω in Smectic- A Liquid Crystals"
+  },
+  {
+   "paper_id": "W1975935076",
+   "year": 1986,
+   "cited_by_count": 65,
+   "C_5_pctl": 0.94,
+   "title": "Dislocation motion in quasicrystals and implications for macroscopic properties"
+  },
+  {
+   "paper_id": "W2165657636",
+   "year": 2012,
+   "cited_by_count": 64,
+   "C_5_pctl": 0.95,
+   "title": "A drop of active matter"
+  },
+  {
+   "paper_id": "W2808531995",
+   "year": 2018,
+   "cited_by_count": 63,
+   "C_5_pctl": 0.99,
+   "title": "A nonequilibrium force can stabilize 2D active nematics"
+  },
+  {
+   "paper_id": "W2042240946",
+   "year": 2009,
+   "cited_by_count": 62,
+   "C_5_pctl": 0.96,
+   "title": "Instabilities and Waves in Thin Films of Living Fluids"
+  },
+  {
+   "paper_id": "W2325426184",
+   "year": 2019,
+   "cited_by_count": 59,
+   "C_5_pctl": 0.98,
+   "title": "Trapping and sorting active particles: Motility-induced condensation and smectic defects"
+  },
+  {
+   "paper_id": "W2016617811",
+   "year": 2004,
+   "cited_by_count": 59,
+   "C_5_pctl": 0.96,
+   "title": "Spatiotemporal Rheochaos in Nematic Hydrodynamics"
+  },
+  {
+   "paper_id": "W2061654019",
+   "year": 2000,
+   "cited_by_count": 58,
+   "C_5_pctl": 0.97,
+   "title": "Strong phase separation in a model of sedimenting lattices"
+  },
+  {
+   "paper_id": "W2144379864",
+   "year": 1999,
+   "cited_by_count": 58,
+   "C_5_pctl": 0.83,
+   "title": "Structure and rheology of the defect-gel states of pure and particle-dispersed lyotropic lamellar phases"
+  },
+  {
+   "paper_id": "W2020177565",
+   "year": 2013,
+   "cited_by_count": 56,
+   "C_5_pctl": 0.92,
+   "title": "The actin cortex as an active wetting layer"
+  },
+  {
+   "paper_id": "W1985564584",
+   "year": 2002,
+   "cited_by_count": 56,
+   "C_5_pctl": 0.9,
+   "title": "Statistical hydrodynamics of ordered suspensions of self-propelled particles: waves, giant number fluctuations and instabilities"
+  },
+  {
+   "paper_id": "W3037207724",
+   "year": 2014,
+   "cited_by_count": 55,
+   "C_5_pctl": 0.9,
+   "title": "Activating Membranes"
+  },
+  {
+   "paper_id": "W4255290239",
+   "year": 2019,
+   "cited_by_count": 48,
+   "C_5_pctl": 0.96,
+   "title": "Active fluids"
+  },
+  {
+   "paper_id": "W2001424374",
+   "year": 1994,
+   "cited_by_count": 47,
+   "C_5_pctl": 0.96,
+   "title": "Universal self-diffusion and subdiffusion in colloids at freezing"
+  },
+  {
+   "paper_id": "W2017965051",
+   "year": 2006,
+   "cited_by_count": 47,
+   "C_5_pctl": 0.94,
+   "title": "Do Current-Density Nonlinearities Cut Off the Glass Transition?"
+  },
+  {
+   "paper_id": "W1965819751",
+   "year": 2015,
+   "cited_by_count": 45,
+   "C_5_pctl": 0.97,
+   "title": "Active Viscoelastic Matter: From Bacterial Drag Reduction to Turbulent Solids"
+  },
+  {
+   "paper_id": "W1572451937",
+   "year": 2013,
+   "cited_by_count": 43,
+   "C_5_pctl": 0.96,
+   "title": "Live Soap: Stability, Order, and Fluctuations in Apolar Active Smectics"
+  },
+  {
+   "paper_id": "W2903544272",
+   "year": 2019,
+   "cited_by_count": 41,
+   "C_5_pctl": 0.97,
+   "title": "Oriented Active Solids"
+  },
+  {
+   "paper_id": "W1994138874",
+   "year": 2005,
+   "cited_by_count": 41,
+   "C_5_pctl": 0.94,
+   "title": "Routes to spatiotemporal chaos in the rheology of nematogenic fluids"
+  },
+  {
+   "paper_id": "W2043229082",
+   "year": 2014,
+   "cited_by_count": 41,
+   "C_5_pctl": 0.92,
+   "title": "Universal power law in crossover from integrability to quantum chaos"
+  },
+  {
+   "paper_id": "W2884488267",
+   "year": 2013,
+   "cited_by_count": 41,
+   "C_5_pctl": 0.91,
+   "title": "Acto-Myosin Contractility Rotates the Cell Nucleus"
+  },
+  {
+   "paper_id": "W1972244344",
+   "year": 1982,
+   "cited_by_count": 41,
+   "C_5_pctl": 0.74,
+   "title": "Linear and nonlinear hydrodynamics of low-friction adsorbed systems"
+  },
+  {
+   "paper_id": "W2121525325",
+   "year": 2009,
+   "cited_by_count": 38,
+   "C_5_pctl": 0.95,
+   "title": "Buckling, stiffening, and negative dissipation in the dynamics of a biopolymer in an active medium"
+  },
+  {
+   "paper_id": "W2766023531",
+   "year": 2018,
+   "cited_by_count": 36,
+   "C_5_pctl": 0.98,
+   "title": "Low-noise phase of a two-dimensional active nematic system"
+  },
+  {
+   "paper_id": "W2942908628",
+   "year": 2019,
+   "cited_by_count": 36,
+   "C_5_pctl": 0.92,
+   "title": "Inferring critical thresholds of ecosystem transitions from spatial data"
+  },
+  {
+   "paper_id": "W2907967967",
+   "year": 2020,
+   "cited_by_count": 35,
+   "C_5_pctl": 0.97,
+   "title": "Swimmer Suspensions on Substrates: Anomalous Stability and Long-Range Order"
+  },
+  {
+   "paper_id": "W2063646036",
+   "year": 2010,
+   "cited_by_count": 34,
+   "C_5_pctl": 0.9,
+   "title": "A dynamic renormalization group study of active nematics"
+  },
+  {
+   "paper_id": "W2021060668",
+   "year": 1992,
+   "cited_by_count": 33,
+   "C_5_pctl": 0.75,
+   "title": "Shear-induced collapse of the dilute lamellar phase"
+  }
+ ]
+}

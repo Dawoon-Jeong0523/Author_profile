@@ -1,0 +1,656 @@
+{
+ "person": "Jérôme Faist",
+ "profile": "A5036468741",
+ "ids": [
+  "A5036468741",
+  "A5105356310",
+  "A5109604475"
+ ],
+ "options": [
+  "for the invention of the quantum cascade laser — Federico Capasso, Alfred Y. Cho, Jérôme Faist"
+ ],
+ "birth_year": 1962,
+ "cutoff_year": 1987,
+ "works": [
+  {
+   "paper_id": "W4213168521",
+   "year": 1994,
+   "cited_by_count": 4380,
+   "title": "Quantum Cascade Laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063197949",
+   "year": 2015,
+   "cited_by_count": 1265,
+   "title": "Lasing in direct-bandgap GeSn alloy grown on Si",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2016419714",
+   "year": 2012,
+   "cited_by_count": 804,
+   "title": "Mid-infrared frequency comb based on a quantum cascade laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050209179",
+   "year": 2002,
+   "cited_by_count": 770,
+   "title": "Continuous Wave Operation of a Mid-Infrared Semiconductor Laser at Room Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086670842",
+   "year": 1998,
+   "cited_by_count": 715,
+   "title": "High-Power Directional Emission from Microlasers with Chaotic Resonators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084802573",
+   "year": 2012,
+   "cited_by_count": 557,
+   "title": "Ultrastrong Coupling of the Cyclotron Transition of a 2D Electron Gas to a THz Metamaterial",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044928546",
+   "year": 2014,
+   "cited_by_count": 500,
+   "title": "Dual-comb spectroscopy based on quantum-cascade-laser frequency combs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093130747",
+   "year": 2013,
+   "cited_by_count": 408,
+   "title": "Analysis of enhanced light emission from highly strained germanium microbridges",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026572776",
+   "year": 1996,
+   "cited_by_count": 403,
+   "title": "High power mid-infrared (λ∼5 μm) quantum cascade lasers operating above room temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1537616836",
+   "year": 1997,
+   "cited_by_count": 360,
+   "title": "Controlling the sign of quantum interference by tunnelling from quantum wells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079654046",
+   "year": 1997,
+   "cited_by_count": 353,
+   "title": "Distributed feedback quantum cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971841407",
+   "year": 2007,
+   "cited_by_count": 323,
+   "title": "Quantum cascade lasers operating from 1.2to1.6THz",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045657318",
+   "year": 1992,
+   "cited_by_count": 323,
+   "title": "Observation of an electronic bound state above a potential well",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966154276",
+   "year": 1994,
+   "cited_by_count": 317,
+   "title": "Nonparabolicity and a sum rule associated with bound-to-bound and bound-to-continuum intersubband transitions in quantum wells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982089000",
+   "year": 1998,
+   "cited_by_count": 299,
+   "title": "Short wavelength (λ∼3.4 μm) quantum cascade laser based on strained compensated InGaAs/AlInAs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070614519",
+   "year": 2000,
+   "cited_by_count": 289,
+   "title": "Intersubband Electroluminescence from Silicon-Based Quantum Cascade Structures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103018737",
+   "year": 2020,
+   "cited_by_count": 279,
+   "title": "Engineering quantum materials with chiral optical cavities",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035082440",
+   "year": 2008,
+   "cited_by_count": 276,
+   "title": "THz and sub‐THz quantum cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008672346",
+   "year": 2014,
+   "cited_by_count": 272,
+   "title": "Octave-spanning semiconductor laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029827932",
+   "year": 1998,
+   "cited_by_count": 272,
+   "title": "Sensitive absorption spectroscopy with a room-temperature distributed-feedback quantum-cascade laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157823938",
+   "year": 1998,
+   "cited_by_count": 266,
+   "title": "Resonant tunneling in quantum cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2789887799",
+   "year": 2018,
+   "cited_by_count": 262,
+   "title": "Room-temperature nine-µm-wavelength photodetectors and GHz-frequency heterodyne receivers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003005214",
+   "year": 2001,
+   "cited_by_count": 249,
+   "title": "Quantum-cascade lasers based on a bound-to-continuum transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094661606",
+   "year": 2006,
+   "cited_by_count": 246,
+   "title": "Gain without inversion in semiconductor nanostructures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069653153",
+   "year": 2009,
+   "cited_by_count": 229,
+   "title": "External cavity quantum cascade laser tunable from 7.6 to 11.4 μm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1658198555",
+   "year": 2015,
+   "cited_by_count": 228,
+   "title": "Highly tunable hybrid metamaterials employing split-ring resonators strongly coupled to graphene surface plasmons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021905427",
+   "year": 2005,
+   "cited_by_count": 225,
+   "title": "Widely tunable mode-hop free external cavity quantum cascade laser for high resolution spectroscopic applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977762417",
+   "year": 2010,
+   "cited_by_count": 224,
+   "title": "External cavity quantum cascade laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2964096491",
+   "year": 2016,
+   "cited_by_count": 224,
+   "title": "Quantum Cascade Laser Frequency Combs",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089518818",
+   "year": 2008,
+   "cited_by_count": 223,
+   "title": "Room temperature terahertz quantum cascade laser source based on intracavity difference-frequency generation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018939087",
+   "year": 2003,
+   "cited_by_count": 221,
+   "title": "Far-infrared (λ≃87 μm) bound-to-continuum quantum-cascade lasers operating up to 90 K",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2953571638",
+   "year": 2019,
+   "cited_by_count": 217,
+   "title": "Thermoelectrically cooled THz quantum cascade laser operating up to 210 K",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074473575",
+   "year": 2004,
+   "cited_by_count": 216,
+   "title": "Terahertz range quantum well infrared photodetector",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984538226",
+   "year": 2005,
+   "cited_by_count": 215,
+   "title": "ac Stark Splitting and Quantum Interference with Intersubband Transitions in Quantum Wells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993919667",
+   "year": 2009,
+   "cited_by_count": 214,
+   "title": "Low-divergence single-mode terahertz quantum cascade laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015004645",
+   "year": 2009,
+   "cited_by_count": 213,
+   "title": "Quantum Cascade Detectors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168562295",
+   "year": 2008,
+   "cited_by_count": 211,
+   "title": "Multimode regimes in quantum cascade lasers: From coherent instabilities to spatial hole burning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036594716",
+   "year": 2008,
+   "cited_by_count": 209,
+   "title": "Widely tunable mode-hop free external cavity quantum cascade lasers for high resolution spectroscopy and chemical sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045021766",
+   "year": 2007,
+   "cited_by_count": 206,
+   "title": "Widely tunable single-mode quantum cascade laser source for mid-infrared spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992966138",
+   "year": 2002,
+   "cited_by_count": 204,
+   "title": "Low-threshold terahertz quantum-cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061265139",
+   "year": 1995,
+   "cited_by_count": 192,
+   "title": "Vertical transition quantum cascade laser with Bragg confined excited state",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041343077",
+   "year": 2012,
+   "cited_by_count": 187,
+   "title": "Ultrastrong Coupling Regime and Plasmon Polaritons in Parabolic Semiconductor Quantum Wells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015300034",
+   "year": 1997,
+   "cited_by_count": 180,
+   "title": "High-Power Infrared (8-Micrometer Wavelength) Superlattice Lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006612560",
+   "year": 2009,
+   "cited_by_count": 179,
+   "title": "Bound-to-continuum terahertz quantum cascade laser with a single-quantum-well phonon extraction/injection stage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084596115",
+   "year": 2010,
+   "cited_by_count": 178,
+   "title": "Polarization-entangled photons produced with high-symmetry site-controlled quantum dots",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2896281004",
+   "year": 2018,
+   "cited_by_count": 177,
+   "title": "Magneto-transport controlled by Landau polariton states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048463654",
+   "year": 2014,
+   "cited_by_count": 174,
+   "title": "Ultrastrong coupling in the near field of complementary split-ring resonators",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2329575252",
+   "year": 2013,
+   "cited_by_count": 173,
+   "title": "Low-Bias Active Control of Terahertz Waves by Coupling Large-Area CVD Graphene to a Terahertz Metamaterial",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024508861",
+   "year": 2001,
+   "cited_by_count": 168,
+   "title": "High-temperature operation of distributed feedback quantum-cascade lasers at 5.3 μm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075282890",
+   "year": 1995,
+   "cited_by_count": 160,
+   "title": "Continuous wave operation of a vertical transition quantum cascade laser above T=80 K",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2797024272",
+   "year": 2018,
+   "cited_by_count": 156,
+   "title": "Evidence of linear chirp in mid-infrared quantum cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2886689760",
+   "year": 2018,
+   "cited_by_count": 156,
+   "title": "Single-Shot Sub-microsecond Mid-infrared Spectroscopy on Protein Reactions with Quantum Cascade Laser Frequency Combs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056232013",
+   "year": 2014,
+   "cited_by_count": 155,
+   "title": "Coherent frequency combs produced by self frequency modulation in quantum cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083879290",
+   "year": 2004,
+   "cited_by_count": 155,
+   "title": "Broadband tuning of external cavity bound-to-continuum quantum-cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975025295",
+   "year": 2010,
+   "cited_by_count": 154,
+   "title": "Microcavity Laser Oscillating in a Circuit-Based Resonator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031769222",
+   "year": 2006,
+   "cited_by_count": 152,
+   "title": "Biomedical terahertz imaging with a quantum cascade laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3015151553",
+   "year": 2020,
+   "cited_by_count": 151,
+   "title": "Quantum Electrodynamic Control of Matter: Cavity-Enhanced Ferroelectric Phase Transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086487758",
+   "year": 2012,
+   "cited_by_count": 150,
+   "title": "Top-down fabricated silicon nanowires under tensile elastic strain up to 4.5%",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986303055",
+   "year": 1998,
+   "cited_by_count": 149,
+   "title": "Long-wavelength (? ? 8–115??µm) semiconductor lasers with waveguides based on surface plasmons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003177880",
+   "year": 1998,
+   "cited_by_count": 148,
+   "title": "Far-infrared (λ=88 μm) electroluminescence in a quantum cascade structure",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2970231538",
+   "year": 2019,
+   "cited_by_count": 147,
+   "title": "GeSn Lasers Covering a Wide Wavelength Range Thanks to Uniaxial Tensile Strain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015424565",
+   "year": 2006,
+   "cited_by_count": 145,
+   "title": "External cavity quantum-cascade laser tunable from 8.2to10.4μm using a gain element with a heterogeneous cascade",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043427117",
+   "year": 2004,
+   "cited_by_count": 145,
+   "title": "Imaging with a Terahertz quantum cascade laser",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971924024",
+   "year": 2007,
+   "cited_by_count": 144,
+   "title": "Coherent instabilities in a semiconductor laser with fast gain recovery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136190249",
+   "year": 2010,
+   "cited_by_count": 140,
+   "title": "A density matrix model of transport and radiation in quantum cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160219699",
+   "year": 2010,
+   "cited_by_count": 140,
+   "title": "Terahertz emission from lateral photo-Dember currents",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063227873",
+   "year": 2002,
+   "cited_by_count": 139,
+   "title": "Quantum-cascade-laser structures as photodetectors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093990713",
+   "year": 1995,
+   "cited_by_count": 136,
+   "title": "Quantum cascade laser with plasmon-enhanced waveguide operating at 8.4 μm wavelength",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2992673092",
+   "year": 2019,
+   "cited_by_count": 133,
+   "title": "Compact and ultra-efficient broadband plasmonic terahertz field detector",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2095284768",
+   "year": 2004,
+   "cited_by_count": 130,
+   "title": "Linewidth and tuning characteristics of terahertz quantum cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119514815",
+   "year": 2008,
+   "cited_by_count": 130,
+   "title": "Vertically emitting microdisk lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102108926",
+   "year": 2007,
+   "cited_by_count": 128,
+   "title": "Wallplug efficiency of quantum cascade lasers: Critical parameters and fundamental limits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2591578646",
+   "year": 2017,
+   "cited_by_count": 127,
+   "title": "Electrically controlled terahertz magneto-optical phenomena in continuous and patterned graphene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949507940",
+   "year": 2019,
+   "cited_by_count": 127,
+   "title": "Lasing in strained germanium microbridges",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979783332",
+   "year": 1999,
+   "cited_by_count": 126,
+   "title": "Low-loss Al-free waveguides for unipolar semiconductor lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033515093",
+   "year": 2005,
+   "cited_by_count": 125,
+   "title": "Sub-ppbv nitric oxide concentration measurements using cw thermoelectrically cooled quantum cascade laser-based integrated cavity output spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2890146628",
+   "year": 2019,
+   "cited_by_count": 125,
+   "title": "Electric field correlation measurements on the electromagnetic vacuum state",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004944259",
+   "year": 1996,
+   "cited_by_count": 123,
+   "title": "Quantum Cascade Lasers without Intersubband Population Inversion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140805082",
+   "year": 1998,
+   "cited_by_count": 123,
+   "title": "High-power continuous-wave quantum cascade lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989090235",
+   "year": 2005,
+   "cited_by_count": 122,
+   "title": "Room-temperature, continuous-wave, single-mode quantum-cascade lasers at λ≃5.4μm",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

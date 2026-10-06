@@ -1,0 +1,382 @@
+{
+ "person": "Alexei Y. Kitaev",
+ "birth_year": 1963,
+ "cutoff_year": 1988,
+ "options": [
+  "for the discovery of quantum error correction and fault-tolerant quantum computation — John Preskill, Peter W. Shor, Alexei Y. Kitaev",
+  "for theoretical discoveries of quantum spin liquids and exactly solvable models of topological order — Alexei Y. Kitaev, Patrick A. Lee"
+ ],
+ "works": [
+  {
+   "paper_id": "W2135273380",
+   "year": 2003,
+   "cited_by_count": 6971,
+   "C_5_pctl": 1.0,
+   "title": "Fault-tolerant quantum computation by anyons"
+  },
+  {
+   "paper_id": "W2141708961",
+   "year": 2006,
+   "cited_by_count": 5102,
+   "C_5_pctl": 1.0,
+   "title": "Anyons in an exactly solved model and beyond"
+  },
+  {
+   "paper_id": "W1990516747",
+   "year": 2003,
+   "cited_by_count": 2704,
+   "C_5_pctl": 1.0,
+   "title": "Entanglement in Quantum Critical Phenomena"
+  },
+  {
+   "paper_id": "W2046439097",
+   "year": 2006,
+   "cited_by_count": 2363,
+   "C_5_pctl": 1.0,
+   "title": "Topological Entanglement Entropy"
+  },
+  {
+   "paper_id": "W1984125696",
+   "year": 2001,
+   "cited_by_count": 1406,
+   "C_5_pctl": 0.99,
+   "title": "Encoding a qubit in an oscillator"
+  },
+  {
+   "paper_id": "W2079294297",
+   "year": 2005,
+   "cited_by_count": 1401,
+   "C_5_pctl": 0.99,
+   "title": "Universal quantum computation with ideal Clifford gates and noisy ancillas"
+  },
+  {
+   "paper_id": "W2159566537",
+   "year": 1997,
+   "cited_by_count": 1369,
+   "C_5_pctl": 1.0,
+   "title": "Quantum computations: algorithms and error correction"
+  },
+  {
+   "paper_id": "W2027003240",
+   "year": 2002,
+   "cited_by_count": 1003,
+   "C_5_pctl": 0.96,
+   "title": "Fermionic Quantum Computation"
+  },
+  {
+   "paper_id": "W2037034135",
+   "year": 2011,
+   "cited_by_count": 850,
+   "C_5_pctl": 1.0,
+   "title": "Topological phases of fermions in one dimension"
+  },
+  {
+   "paper_id": "W2949110438",
+   "year": 2002,
+   "cited_by_count": 631,
+   "C_5_pctl": 0.98,
+   "title": "Topological quantum computation"
+  },
+  {
+   "paper_id": "W2111640030",
+   "year": 2010,
+   "cited_by_count": 561,
+   "C_5_pctl": 1.0,
+   "title": "Effects of interactions on the topological classification of free fermion systems"
+  },
+  {
+   "paper_id": "W3098077061",
+   "year": 2016,
+   "cited_by_count": 462,
+   "C_5_pctl": 1.0,
+   "title": "2 Models for gapped boundaries and domain walls"
+  },
+  {
+   "paper_id": "W2028406173",
+   "year": 1998,
+   "cited_by_count": 391,
+   "C_5_pctl": 0.99,
+   "title": "Quantum circuits with mixed states"
+  },
+  {
+   "paper_id": "W2151642301",
+   "year": 2007,
+   "cited_by_count": 376,
+   "C_5_pctl": 0.99,
+   "title": "Interacting Anyons in Topological Quantum Liquids: The Golden Chain"
+  },
+  {
+   "paper_id": "W3178633198",
+   "year": 2021,
+   "cited_by_count": 372,
+   "C_5_pctl": 1.0,
+   "title": "Exponential suppression of bit or phase errors with cyclic error correction"
+  },
+  {
+   "paper_id": "W3216628913",
+   "year": 2021,
+   "cited_by_count": 315,
+   "C_5_pctl": 1.0,
+   "title": "Time-crystalline eigenstate order on a quantum processor"
+  },
+  {
+   "paper_id": "W3210539808",
+   "year": 2021,
+   "cited_by_count": 274,
+   "C_5_pctl": 1.0,
+   "title": "Information scrambling in quantum circuits"
+  },
+  {
+   "paper_id": "W2167050139",
+   "year": 2002,
+   "cited_by_count": 253,
+   "C_5_pctl": 0.98,
+   "title": "Simulation of Topological Field Theories¶by Quantum Computers"
+  },
+  {
+   "paper_id": "W1989538270",
+   "year": 2006,
+   "cited_by_count": 233,
+   "C_5_pctl": 0.99,
+   "title": "Fault-Tolerant Quantum Computation with Long-Range Correlated Noise"
+  },
+  {
+   "paper_id": "W1989051052",
+   "year": 2000,
+   "cited_by_count": 220,
+   "C_5_pctl": 0.98,
+   "title": "Parallelization, amplification, and exponential time simulation of quantum interactive proof systems"
+  },
+  {
+   "paper_id": "W1967722604",
+   "year": 2013,
+   "cited_by_count": 198,
+   "C_5_pctl": 0.97,
+   "title": "Protected gates for superconducting qubits"
+  },
+  {
+   "paper_id": "W2026034750",
+   "year": 2010,
+   "cited_by_count": 192,
+   "C_5_pctl": 0.98,
+   "title": "Topological multicritical point in the phase diagram of the toric code model and three-dimensional lattice gauge Higgs model"
+  },
+  {
+   "paper_id": "W2140587459",
+   "year": 2004,
+   "cited_by_count": 154,
+   "C_5_pctl": 0.97,
+   "title": "Superselection rules and quantum protocols"
+  },
+  {
+   "paper_id": "W2165522136",
+   "year": 2012,
+   "cited_by_count": 115,
+   "C_5_pctl": 0.98,
+   "title": "Quantum Superinductor with Tunable Nonlinearity"
+  },
+  {
+   "paper_id": "W2091564498",
+   "year": 1993,
+   "cited_by_count": 108,
+   "C_5_pctl": 0.96,
+   "title": "Correlations in the actions of periodic orbits derived from quantum chaos"
+  },
+  {
+   "paper_id": "W2775563604",
+   "year": 2018,
+   "cited_by_count": 107,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Algorithm for Spectral Measurement with a Lower Gate Count"
+  },
+  {
+   "paper_id": "W1964069259",
+   "year": 2006,
+   "cited_by_count": 90,
+   "C_5_pctl": 0.98,
+   "title": "Detecting Non-Abelian Statistics with an Electronic Mach-Zehnder Interferometer"
+  },
+  {
+   "paper_id": "W2032543341",
+   "year": 2007,
+   "cited_by_count": 78,
+   "C_5_pctl": 0.98,
+   "title": "Shot noise in an anyonic Mach-Zehnder interferometer"
+  },
+  {
+   "paper_id": "W2902020670",
+   "year": 2019,
+   "cited_by_count": 72,
+   "C_5_pctl": 0.99,
+   "title": "On the relation between the magnitude and exponent of OTOCs"
+  },
+  {
+   "paper_id": "W2117732191",
+   "year": 2009,
+   "cited_by_count": 69,
+   "C_5_pctl": 0.98,
+   "title": "Topology-driven quantum phase transitions in time-reversal-invariant anyonic quantum liquids"
+  },
+  {
+   "paper_id": "W2060301675",
+   "year": 2014,
+   "cited_by_count": 63,
+   "C_5_pctl": 0.97,
+   "title": "A quantum algorithm for computing the unit group of an arbitrary degree number field"
+  },
+  {
+   "paper_id": "W2169737994",
+   "year": 2002,
+   "cited_by_count": 47,
+   "C_5_pctl": 0.94,
+   "title": "Measurability of Wilson loop operators"
+  },
+  {
+   "paper_id": "W1558578758",
+   "year": 2011,
+   "cited_by_count": 46,
+   "C_5_pctl": 0.97,
+   "title": "Power-Law Spin Correlations in a Perturbed Spin Model on a Honeycomb Lattice"
+  },
+  {
+   "paper_id": "W2153862666",
+   "year": 1999,
+   "cited_by_count": 42,
+   "C_5_pctl": 0.88,
+   "title": "Fredholm determinants for hyperbolic diffeomorphisms of finite smoothness"
+  },
+  {
+   "paper_id": "W3037098614",
+   "year": 2020,
+   "cited_by_count": 21,
+   "C_5_pctl": 0.94,
+   "title": "Perturbed Sachdev-Ye-Kitaev Model: A Polaron in the Hyperbolic Plane"
+  },
+  {
+   "paper_id": "W3148422733",
+   "year": 2021,
+   "cited_by_count": 20,
+   "C_5_pctl": 0.97,
+   "title": "Realizing topologically ordered states on a quantum processor"
+  },
+  {
+   "paper_id": "W3105250380",
+   "year": 2021,
+   "cited_by_count": 15,
+   "C_5_pctl": 0.95,
+   "title": "Perturbative calculations of entanglement entropy"
+  },
+  {
+   "paper_id": "W2168797721",
+   "year": 2012,
+   "cited_by_count": 13,
+   "C_5_pctl": 0.92,
+   "title": "Dissipationless dynamics of randomly coupled spins at high temperatures"
+  },
+  {
+   "paper_id": "W2136041314",
+   "year": 2012,
+   "cited_by_count": 12,
+   "C_5_pctl": 0.85,
+   "title": "Solutions to generalized Yang–Baxter equations via ribbon fusion categories"
+  },
+  {
+   "paper_id": "W2117843612",
+   "year": 2003,
+   "cited_by_count": 10,
+   "C_5_pctl": 0.56,
+   "title": "Diameters of Homogeneous Spaces"
+  },
+  {
+   "paper_id": "W2018763202",
+   "year": 2008,
+   "cited_by_count": 9,
+   "C_5_pctl": 0.86,
+   "title": "Quasiparticle Poisoning and Josephson Current Fluctuations Induced by Kondo Impurities"
+  },
+  {
+   "paper_id": "W3213451871",
+   "year": 1999,
+   "cited_by_count": 7,
+   "C_5_pctl": 0.56,
+   "title": "Fredholm determinants for hyperbolic diffeomorphisms of finite smoothness"
+  },
+  {
+   "paper_id": "W4210311038",
+   "year": 2003,
+   "cited_by_count": 7,
+   "C_5_pctl": 0.26,
+   "title": "Classical and Quantum Computation"
+  },
+  {
+   "paper_id": "W2966914667",
+   "year": 2004,
+   "cited_by_count": 6,
+   "C_5_pctl": 0.72,
+   "title": "Universal Quantum Computation Based on a Magic States Distillation"
+  },
+  {
+   "paper_id": "W2781287371",
+   "year": 2009,
+   "cited_by_count": 6,
+   "C_5_pctl": 0.39,
+   "title": null
+  },
+  {
+   "paper_id": "W2793525843",
+   "year": 2006,
+   "cited_by_count": 5,
+   "C_5_pctl": 0.94,
+   "title": "The Complexity of the Local Hamiltonian Problem"
+  },
+  {
+   "paper_id": "W4230289938",
+   "year": 2005,
+   "cited_by_count": 2,
+   "C_5_pctl": 0.26,
+   "title": "Universal manifold pairings and positivity"
+  },
+  {
+   "paper_id": "W2407289119",
+   "year": 2012,
+   "cited_by_count": 0,
+   "C_5_pctl": 0.4,
+   "title": null
+  },
+  {
+   "paper_id": "W3034924070",
+   "year": 1996,
+   "cited_by_count": 0,
+   "C_5_pctl": 0.33,
+   "title": "Information Transfer in the Lattice Gas on Random Lattices - J. Physique 1, 1123 (1991)"
+  },
+  {
+   "paper_id": "W2124841375",
+   "year": 1991,
+   "cited_by_count": 0,
+   "C_5_pctl": 0.31,
+   "title": "Information transfer in the lattice gas on random lattices"
+  },
+  {
+   "paper_id": "W2339930214",
+   "year": 2003,
+   "cited_by_count": 0,
+   "C_5_pctl": 0.26,
+   "title": "Topological quantum memory aÖ"
+  },
+  {
+   "paper_id": "W2116240513",
+   "year": 1991,
+   "cited_by_count": 0,
+   "C_5_pctl": 0.26,
+   "title": "Approximative evaluation of the height of the maximal upper zero of a monotone Boolean function"
+  },
+  {
+   "paper_id": "W3108643359",
+   "year": 1996,
+   "cited_by_count": 0,
+   "C_5_pctl": null,
+   "title": "Quantum calculations"
+  }
+ ]
+}

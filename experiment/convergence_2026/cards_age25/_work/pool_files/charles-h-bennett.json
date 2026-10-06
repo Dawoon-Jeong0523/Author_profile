@@ -1,0 +1,654 @@
+{
+ "person": "Charles H. Bennett",
+ "profile": "A5053166798",
+ "ids": [
+  "A5053166798"
+ ],
+ "options": [
+  "for foundational discoveries in quantum information science, including quantum cryptography and quantum algorithms — Charles H. Bennett, Gilles Brassard, Peter W. Shor"
+ ],
+ "birth_year": 1943,
+ "cutoff_year": 1968,
+ "works": [
+  {
+   "paper_id": "W1978553093",
+   "year": 1993,
+   "cited_by_count": 13273,
+   "title": "Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020725861",
+   "year": 1992,
+   "cited_by_count": 5354,
+   "title": "Communication via one- and two-particle operators on Einstein-Podolsky-Rosen states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060887031",
+   "year": 1996,
+   "cited_by_count": 5161,
+   "title": "Mixed-state entanglement and quantum error correction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102008187",
+   "year": 1995,
+   "cited_by_count": 4174,
+   "title": "Elementary gates for quantum computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015179126",
+   "year": 2014,
+   "cited_by_count": 3564,
+   "title": "Quantum cryptography: Public key distribution and coin tossing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1620538313",
+   "year": 2000,
+   "cited_by_count": 3155,
+   "title": "Quantum information and computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2033909248",
+   "year": 1996,
+   "cited_by_count": 3033,
+   "title": "Concentrating partial entanglement by local operations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006226307",
+   "year": 1992,
+   "cited_by_count": 2970,
+   "title": "Quantum cryptography using any two nonorthogonal states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062258079",
+   "year": 1996,
+   "cited_by_count": 2827,
+   "title": "Purification of Noisy Entanglement and Faithful Teleportation via Noisy Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140151763",
+   "year": 1976,
+   "cited_by_count": 2778,
+   "title": "Efficient estimation of free energy differences from Monte Carlo data",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997124098",
+   "year": 1992,
+   "cited_by_count": 2362,
+   "title": "Quantum cryptography without Bell’s theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149158279",
+   "year": 1982,
+   "cited_by_count": 1933,
+   "title": "The thermodynamics of computation—a review",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4214950786",
+   "year": 1992,
+   "cited_by_count": 1558,
+   "title": "Experimental quantum cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006290558",
+   "year": 1997,
+   "cited_by_count": 1442,
+   "title": "Strengths and Weaknesses of Quantum Computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974293884",
+   "year": 1999,
+   "cited_by_count": 1114,
+   "title": "Quantum nonlocality without entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007661134",
+   "year": 1988,
+   "cited_by_count": 867,
+   "title": "Privacy Amplification by Public Discussion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044859269",
+   "year": 2001,
+   "cited_by_count": 814,
+   "title": "Remote State Preparation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148576428",
+   "year": 1999,
+   "cited_by_count": 717,
+   "title": "Unextendible Product Bases and Bound Entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053861514",
+   "year": 1999,
+   "cited_by_count": 596,
+   "title": "Entanglement-Assisted Classical Capacity of Noisy Quantum Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087634531",
+   "year": 1995,
+   "cited_by_count": 581,
+   "title": "Quantum Information and Computation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2295278941",
+   "year": 1998,
+   "cited_by_count": 494,
+   "title": "Information distance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999333609",
+   "year": 2003,
+   "cited_by_count": 486,
+   "title": "Notes on Landauer's principle, reversible computation, and Maxwell's Demon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032795441",
+   "year": 2000,
+   "cited_by_count": 422,
+   "title": "Exact and asymptotic measures of multipartite pure-state entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015931928",
+   "year": 1985,
+   "cited_by_count": 407,
+   "title": "The Fundamental Physical Limits of Computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061073612",
+   "year": 1989,
+   "cited_by_count": 398,
+   "title": "Time/Space Trade-Offs for Reversible Computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062767125",
+   "year": 1981,
+   "cited_by_count": 379,
+   "title": "Relative to a Random Oracle A , ${\\bf P}^A \\ne {\\bf NP}^A \\ne \\text{co-}{\\bf NP}^A $ with Probability 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4292403337",
+   "year": 1998,
+   "cited_by_count": 359,
+   "title": "Quantum information theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984691108",
+   "year": 1997,
+   "cited_by_count": 341,
+   "title": "Capacities of Quantum Erasure Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4244685374",
+   "year": 1992,
+   "cited_by_count": 310,
+   "title": "Quantum Cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2047991033",
+   "year": 1987,
+   "cited_by_count": 296,
+   "title": "Demons, Engines and the Second Law",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4253477627",
+   "year": 1988,
+   "cited_by_count": 287,
+   "title": "Notes on the history of reversible computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071356525",
+   "year": 1999,
+   "cited_by_count": 248,
+   "title": "Explorations in Quantum Computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112450120",
+   "year": 2000,
+   "cited_by_count": 248,
+   "title": "Notes on the history of reversible computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103182327",
+   "year": 2014,
+   "cited_by_count": 219,
+   "title": "The Quantum Reverse Shannon Theorem and Resource Tradeoffs for Simulating Quantum Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038618968",
+   "year": 1985,
+   "cited_by_count": 162,
+   "title": "Role of Irreversibility in Stabilizing Complex and Nonergodic Behavior in Locally Interacting Discrete Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081723266",
+   "year": 1979,
+   "cited_by_count": 152,
+   "title": "Dissipation-error tradeoff in proofreading",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982032572",
+   "year": 1975,
+   "cited_by_count": 130,
+   "title": "Mass tensor molecular dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088930249",
+   "year": 2003,
+   "cited_by_count": 116,
+   "title": "Chain Letters and Evolutionary Histories",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2313440826",
+   "year": 2011,
+   "cited_by_count": 113,
+   "title": "WITHDRAWN: Quantum cryptography: Public key distribution and coin tossing",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978044300",
+   "year": 1986,
+   "cited_by_count": 96,
+   "title": "On the nature and origin of complexity in discrete, homogeneous, locally-interacting systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2147981560",
+   "year": 1992,
+   "cited_by_count": 90,
+   "title": "Quantum Cryptography: Uncertainty in the Service of Privacy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980107552",
+   "year": 2009,
+   "cited_by_count": 82,
+   "title": "Can Closed Timelike Curves or Nonlinear Quantum Mechanics Improve Quantum State Discrimination or Help Solve Hard Problems?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042500136",
+   "year": 2011,
+   "cited_by_count": 76,
+   "title": "Postulates for measures of genuine multipartite correlations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988096291",
+   "year": 1990,
+   "cited_by_count": 66,
+   "title": "Stability of temporally periodic states of classical many-body systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4249474134",
+   "year": 1998,
+   "cited_by_count": 65,
+   "title": "Quantum Information",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985684781",
+   "year": 1997,
+   "cited_by_count": 64,
+   "title": "Purification of Noisy Entanglement and Faithful Teleportation via Noisy Channels[Phys. Rev. Lett. 76, 722 (1996)]",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084159092",
+   "year": 1993,
+   "cited_by_count": 52,
+   "title": "Temporally periodic phases and kinetic roughening",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096694995",
+   "year": 1996,
+   "cited_by_count": 46,
+   "title": "Parity bit in quantum cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2118017150",
+   "year": 2014,
+   "cited_by_count": 45,
+   "title": "New insights on facultative parthenogenesis in pythons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037969833",
+   "year": 1991,
+   "cited_by_count": 44,
+   "title": "'Life' not critical?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3125254270",
+   "year": 2014,
+   "cited_by_count": 40,
+   "title": "Quantum Cryptography II: How to re-use a one-time pad safely even if P=NP",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1496835184",
+   "year": 2004,
+   "cited_by_count": 37,
+   "title": "Quantum Channel Capacities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1753743211",
+   "year": 2006,
+   "cited_by_count": 36,
+   "title": "Universal quantum data compression via nondestructive tomography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009562587",
+   "year": 1987,
+   "cited_by_count": 34,
+   "title": "Quantum public key distribution reinvented",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055845650",
+   "year": 1995,
+   "cited_by_count": 34,
+   "title": "Towards an engineering era?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000180194",
+   "year": 2006,
+   "cited_by_count": 33,
+   "title": "Inequalities and Separations Among Assisted Capacities of Quantum Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063513145",
+   "year": 1994,
+   "cited_by_count": 31,
+   "title": "Reduction of Quantum Entropy by Reversible Extraction of Classical Information",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089029326",
+   "year": 1984,
+   "cited_by_count": 30,
+   "title": "Thermodynamically Reversible Computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W108696250",
+   "year": 2003,
+   "cited_by_count": 29,
+   "title": "Quantum Information: Qubits and Quantum Error Correction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150889288",
+   "year": 2002,
+   "cited_by_count": 29,
+   "title": "Architectural design of a secure forensic state psychiatric hospital",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998290842",
+   "year": 1993,
+   "cited_by_count": 28,
+   "title": "Thermodynamics of computation and information distance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031148439",
+   "year": 1995,
+   "cited_by_count": 28,
+   "title": "Universal computation and physical dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2601248643",
+   "year": 1997,
+   "cited_by_count": 23,
+   "title": "Strengths and Weaknesses of Quantum Computing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W416028605",
+   "year": 2002,
+   "cited_by_count": 21,
+   "title": "The Great Britain Historical GIS: From maps to changing human geography.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1521970195",
+   "year": 1999,
+   "cited_by_count": 19,
+   "title": "Privacy in a Quantum World",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4240758712",
+   "year": 1990,
+   "cited_by_count": 16,
+   "title": "Undecidable dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077829918",
+   "year": 1994,
+   "cited_by_count": 15,
+   "title": "Night thoughts, dark sight",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1677311307",
+   "year": 2008,
+   "cited_by_count": 13,
+   "title": "The Second Law and Quantum Physics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986636728",
+   "year": 1975,
+   "cited_by_count": 13,
+   "title": "Molecular dynamics calculation of the isotope effect for vacancy diffusion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057671533",
+   "year": 1998,
+   "cited_by_count": 9,
+   "title": "Information physics in cartoons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079510167",
+   "year": 1968,
+   "cited_by_count": 8,
+   "title": "Persistence of vacancy motion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002986865",
+   "year": 1993,
+   "cited_by_count": 6,
+   "title": "Certainty from uncertainty",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2913951293",
+   "year": 2019,
+   "cited_by_count": 5,
+   "title": "Comment on ‘The Aestivation Hypothesis for Resolving Fermi’s Paradox’",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1556382979",
+   "year": 1999,
+   "cited_by_count": 2,
+   "title": "Rolf Landauer (1927-1999)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1857828700",
+   "year": 2005,
+   "cited_by_count": 2,
+   "title": "Logical Depth And Other Algorithmically Defined Properties Of Finite Objects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1898253391",
+   "year": 2004,
+   "cited_by_count": 2,
+   "title": "A resource-based view of quantum information",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085398177",
+   "year": 1990,
+   "cited_by_count": 2,
+   "title": "Dissipation, anisotropy, and the stabilization of computationally complex states of homogeneous media",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2955059144",
+   "year": 2004,
+   "cited_by_count": 2,
+   "title": "Current Literature 2002. I. New Writing: Poetry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1613664547",
+   "year": 2000,
+   "cited_by_count": 1,
+   "title": "Secrets, codes and decoders",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1663067630",
+   "year": 2006,
+   "cited_by_count": 1,
+   "title": "Publicity, Privacy, and Permanence of Information",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

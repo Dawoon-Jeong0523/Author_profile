@@ -1,0 +1,479 @@
+{
+ "person": "Alexei Y. Kitaev",
+ "profile": "A5027759442",
+ "ids": [
+  "A5027759442"
+ ],
+ "options": [
+  "for the discovery of quantum error correction and fault-tolerant quantum computation — John Preskill, Peter W. Shor, Alexei Y. Kitaev",
+  "for theoretical discoveries of quantum spin liquids and exactly solvable models of topological order — Alexei Y. Kitaev, Patrick A. Lee"
+ ],
+ "birth_year": 1963,
+ "cutoff_year": 1988,
+ "works": [
+  {
+   "paper_id": "W2135273380",
+   "year": 2003,
+   "cited_by_count": 6971,
+   "title": "Fault-tolerant quantum computation by anyons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141708961",
+   "year": 2006,
+   "cited_by_count": 5102,
+   "title": "Anyons in an exactly solved model and beyond",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990516747",
+   "year": 2003,
+   "cited_by_count": 2704,
+   "title": "Entanglement in Quantum Critical Phenomena",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046439097",
+   "year": 2006,
+   "cited_by_count": 2363,
+   "title": "Topological Entanglement Entropy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984125696",
+   "year": 2001,
+   "cited_by_count": 1406,
+   "title": "Encoding a qubit in an oscillator",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079294297",
+   "year": 2005,
+   "cited_by_count": 1401,
+   "title": "Universal quantum computation with ideal Clifford gates and noisy ancillas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159566537",
+   "year": 1997,
+   "cited_by_count": 1369,
+   "title": "Quantum computations: algorithms and error correction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027003240",
+   "year": 2002,
+   "cited_by_count": 1003,
+   "title": "Fermionic Quantum Computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037034135",
+   "year": 2011,
+   "cited_by_count": 850,
+   "title": "Topological phases of fermions in one dimension",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949110438",
+   "year": 2002,
+   "cited_by_count": 631,
+   "title": "Topological quantum computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111640030",
+   "year": 2010,
+   "cited_by_count": 561,
+   "title": "Effects of interactions on the topological classification of free fermion systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3098077061",
+   "year": 2016,
+   "cited_by_count": 462,
+   "title": "2 Models for gapped boundaries and domain walls",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028406173",
+   "year": 1998,
+   "cited_by_count": 391,
+   "title": "Quantum circuits with mixed states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151642301",
+   "year": 2007,
+   "cited_by_count": 376,
+   "title": "Interacting Anyons in Topological Quantum Liquids: The Golden Chain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3178633198",
+   "year": 2021,
+   "cited_by_count": 372,
+   "title": "Exponential suppression of bit or phase errors with cyclic error correction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989764915",
+   "year": 2006,
+   "cited_by_count": 357,
+   "title": "Detecting Non-Abelian Statistics in the ν=5/2 Fractional Quantum Hall State",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3216628913",
+   "year": 2021,
+   "cited_by_count": 315,
+   "title": "Time-crystalline eigenstate order on a quantum processor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3210539808",
+   "year": 2021,
+   "cited_by_count": 274,
+   "title": "Information scrambling in quantum circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167050139",
+   "year": 2002,
+   "cited_by_count": 253,
+   "title": "Simulation of Topological Field Theories¶by Quantum Computers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989538270",
+   "year": 2006,
+   "cited_by_count": 233,
+   "title": "Fault-Tolerant Quantum Computation with Long-Range Correlated Noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989051052",
+   "year": 2000,
+   "cited_by_count": 220,
+   "title": "Parallelization, amplification, and exponential time simulation of quantum interactive proof systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967722604",
+   "year": 2013,
+   "cited_by_count": 198,
+   "title": "Protected gates for superconducting qubits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026034750",
+   "year": 2010,
+   "cited_by_count": 192,
+   "title": "Topological multicritical point in the phase diagram of the toric code model and three-dimensional lattice gauge Higgs model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140587459",
+   "year": 2004,
+   "cited_by_count": 154,
+   "title": "Superselection rules and quantum protocols",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165522136",
+   "year": 2012,
+   "cited_by_count": 115,
+   "title": "Quantum Superinductor with Tunable Nonlinearity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091564498",
+   "year": 1993,
+   "cited_by_count": 108,
+   "title": "Correlations in the actions of periodic orbits derived from quantum chaos",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2775563604",
+   "year": 2018,
+   "cited_by_count": 107,
+   "title": "Quantum Algorithm for Spectral Measurement with a Lower Gate Count",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964069259",
+   "year": 2006,
+   "cited_by_count": 90,
+   "title": "Detecting Non-Abelian Statistics with an Electronic Mach-Zehnder Interferometer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032543341",
+   "year": 2007,
+   "cited_by_count": 78,
+   "title": "Shot noise in an anyonic Mach-Zehnder interferometer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2902020670",
+   "year": 2019,
+   "cited_by_count": 72,
+   "title": "On the relation between the magnitude and exponent of OTOCs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117732191",
+   "year": 2009,
+   "cited_by_count": 69,
+   "title": "Topology-driven quantum phase transitions in time-reversal-invariant anyonic quantum liquids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060301675",
+   "year": 2014,
+   "cited_by_count": 63,
+   "title": "A quantum algorithm for computing the unit group of an arbitrary degree number field",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W155452102",
+   "year": 2005,
+   "cited_by_count": 56,
+   "title": "Universal quantum computation with ideal Clifford gates and noisy ancillas (14 pages)",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169737994",
+   "year": 2002,
+   "cited_by_count": 47,
+   "title": "Measurability of Wilson loop operators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1558578758",
+   "year": 2011,
+   "cited_by_count": 46,
+   "title": "Power-Law Spin Correlations in a Perturbed Spin Model on a Honeycomb Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153862666",
+   "year": 1999,
+   "cited_by_count": 42,
+   "title": "Fredholm determinants for hyperbolic diffeomorphisms of finite smoothness",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3037098614",
+   "year": 2020,
+   "cited_by_count": 21,
+   "title": "Perturbed Sachdev-Ye-Kitaev Model: A Polaron in the Hyperbolic Plane",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3148422733",
+   "year": 2021,
+   "cited_by_count": 20,
+   "title": "Realizing topologically ordered states on a quantum processor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3104933715",
+   "year": 2005,
+   "cited_by_count": 19,
+   "title": "Universal Manifold Pairings and Positivity",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W3105250380",
+   "year": 2021,
+   "cited_by_count": 15,
+   "title": "Perturbative calculations of entanglement entropy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168797721",
+   "year": 2012,
+   "cited_by_count": 13,
+   "title": "Dissipationless dynamics of randomly coupled spins at high temperatures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136041314",
+   "year": 2012,
+   "cited_by_count": 12,
+   "title": "Solutions to generalized Yang–Baxter equations via ribbon fusion categories",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117843612",
+   "year": 2003,
+   "cited_by_count": 10,
+   "title": "Diameters of Homogeneous Spaces",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018763202",
+   "year": 2008,
+   "cited_by_count": 9,
+   "title": "Quasiparticle Poisoning and Josephson Current Fluctuations Induced by Kondo Impurities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3213451871",
+   "year": 1999,
+   "cited_by_count": 7,
+   "title": "Fredholm determinants for hyperbolic diffeomorphisms of finite smoothness",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4210311038",
+   "year": 2003,
+   "cited_by_count": 7,
+   "title": "Classical and Quantum Computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2781287371",
+   "year": 2009,
+   "cited_by_count": 6,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2966914667",
+   "year": 2004,
+   "cited_by_count": 6,
+   "title": "Universal Quantum Computation Based on a Magic States Distillation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1904662952",
+   "year": 2016,
+   "cited_by_count": 5,
+   "title": "Time reversal invariant gapped boundaries of the double semion state",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2793525843",
+   "year": 2006,
+   "cited_by_count": 5,
+   "title": "The Complexity of the Local Hamiltonian Problem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2483617079",
+   "year": 2002,
+   "cited_by_count": 4,
+   "title": "Correspondence between classical and quantum computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4230289938",
+   "year": 2005,
+   "cited_by_count": 2,
+   "title": "Universal manifold pairings and positivity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116240513",
+   "year": 1991,
+   "cited_by_count": 0,
+   "title": "Approximative evaluation of the height of the maximal upper zero of a monotone Boolean function",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124841375",
+   "year": 1991,
+   "cited_by_count": 0,
+   "title": "Information transfer in the lattice gas on random lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2339930214",
+   "year": 2003,
+   "cited_by_count": 0,
+   "title": "Topological quantum memory aÖ",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2407289119",
+   "year": 2012,
+   "cited_by_count": 0,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3034924070",
+   "year": 1996,
+   "cited_by_count": 0,
+   "title": "Information Transfer in the Lattice Gas on Random Lattices - J. Physique 1, 1123 (1991)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3108643359",
+   "year": 1996,
+   "cited_by_count": 0,
+   "title": "Quantum calculations",
+   "metrics": false,
+   "in_profile": true
+  }
+ ]
+}

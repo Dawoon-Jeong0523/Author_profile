@@ -1,0 +1,654 @@
+{
+ "person": "Mark D. Matteucci",
+ "profile": "A5111590685",
+ "ids": [
+  "A5111590685"
+ ],
+ "options": [
+  "for the development of phosphoramidite chemistry for automated DNA synthesis — Marvin H. Caruthers, Serge L. Beaucage, Mark D. Matteucci"
+ ],
+ "birth_year": 1955,
+ "cutoff_year": 1980,
+ "works": [
+  {
+   "paper_id": "W2054615424",
+   "year": 1981,
+   "cited_by_count": 873,
+   "title": "Synthesis of deoxyoligonucleotides on a polymer support",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970650788",
+   "year": 1993,
+   "cited_by_count": 567,
+   "title": "Current concepts in antisense drug design",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981481692",
+   "year": 1993,
+   "cited_by_count": 406,
+   "title": "Antisense Gene Inhibition by Oligonucleotides Containing C-5 Propyne Pyrimidines",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050289195",
+   "year": 1986,
+   "cited_by_count": 345,
+   "title": "Synthesis of DNA via deoxynudeoside H-phosphonate Intermediates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048119963",
+   "year": 1996,
+   "cited_by_count": 259,
+   "title": "A serum-resistant cytofectin for cellular delivery of antisense oligodeoxynucleotides and plasmid DNA.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054047850",
+   "year": 1996,
+   "cited_by_count": 247,
+   "title": "Nucleosides with a Twist. Can Fixed Forms of Sugar Ring Pucker Influence Biological Activity in Nucleosides and Oligonucleotides?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029206767",
+   "year": 2008,
+   "cited_by_count": 242,
+   "title": "Potent and Highly Selective Hypoxia-Activated Achiral Phosphoramidate Mustards as Anticancer Drugs",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2126669622",
+   "year": 2011,
+   "cited_by_count": 207,
+   "title": "Molecular and Cellular Pharmacology of the Hypoxia-Activated Prodrug TH-302",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104928951",
+   "year": 2011,
+   "cited_by_count": 197,
+   "title": "Selective Tumor Hypoxia Targeting by Hypoxia-Activated Prodrug TH-302 Inhibits Tumor Growth in Preclinical Models of Cancer",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044514494",
+   "year": 1986,
+   "cited_by_count": 184,
+   "title": "Nucleoside h-phosphonates: Valuable intermediates in the synthesis of deoxyoligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122042273",
+   "year": 1991,
+   "cited_by_count": 171,
+   "title": "Triple helix formation inhibits transcription elongation in vitro.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159869413",
+   "year": 1995,
+   "cited_by_count": 169,
+   "title": "An assessment of the antisense properties of RNase H-competent and steric-blocking oligomers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070908207",
+   "year": 1995,
+   "cited_by_count": 164,
+   "title": "Tricyclic 2'-Deoxycytidine Analogs: Syntheses and Incorporation into Oligodeoxynucleotides Which Have Enhanced Binding to Complementary RNA",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2066004189",
+   "year": 1998,
+   "cited_by_count": 135,
+   "title": "A Cytosine Analogue Capable of Clamp-Like Binding to a Guanine in Helical Nucleic Acids",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005815600",
+   "year": 1980,
+   "cited_by_count": 131,
+   "title": "The synthesis of oligodeoxyprimidines on a polymer support",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976506730",
+   "year": 1983,
+   "cited_by_count": 126,
+   "title": "Dialkylformamldines: depurination resistant N6-protecting group for deoxyadenosine",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092679887",
+   "year": 1996,
+   "cited_by_count": 119,
+   "title": "Potent and selective inhibition of gene expression by an antisense heptanucleotide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087565365",
+   "year": 2012,
+   "cited_by_count": 113,
+   "title": "TH-302, a hypoxia-activated prodrug with broad in vivo preclinical combination therapy efficacy: optimization of dosing regimens and schedules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079290391",
+   "year": 1983,
+   "cited_by_count": 110,
+   "title": "Targeted random mutagenesis: the use of ambiguously synthesized oligonucleotides to mutagenize sequences immediately 5‘ of an ATG initiation codon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091557759",
+   "year": 1988,
+   "cited_by_count": 110,
+   "title": "Phosphoramidate analogues of DNA: synthesis and thermal stability of heteroduplexes",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2952072088",
+   "year": 1994,
+   "cited_by_count": 110,
+   "title": "5-Heteroaryl-2'-deoxyuridine Analogs. Synthesis and Incorporation into High-Affinity Oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967169532",
+   "year": 1986,
+   "cited_by_count": 104,
+   "title": "Hybridization triggered cross-linking of deoxyoligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2081108249",
+   "year": 1993,
+   "cited_by_count": 101,
+   "title": "An anti-parallel triple helix motif with oligodeoxynucleotidescontaining 2'-deoxyguanosine and 7-deaza-2'-deoxy xanthosine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113911414",
+   "year": 1999,
+   "cited_by_count": 101,
+   "title": "A cytosine analog that confers enhanced potency to antisense oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976545417",
+   "year": 1995,
+   "cited_by_count": 96,
+   "title": "Site and Mechanism of Antisense Inhibition by C-5 Propyne Oligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2952949390",
+   "year": 1993,
+   "cited_by_count": 96,
+   "title": "Synthesis and binding properties of pyrimidine oligodeoxynucleoside analogs containing neutral phosphodiester replacements: the formacetal and 3'-thioformacetal internucleoside linkages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2312223326",
+   "year": 1983,
+   "cited_by_count": 88,
+   "title": "Chemical Synthesis and Biological Studies on Mutated Gene-control Regions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086779091",
+   "year": 1992,
+   "cited_by_count": 84,
+   "title": "Oligonucleotide-mediated triple helix formation using an N3-protonated deoxycytidine analog exhibiting pH-independent binding within the physiological range.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2412790211",
+   "year": 1996,
+   "cited_by_count": 82,
+   "title": "In pursuit of antisense.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074141363",
+   "year": 1983,
+   "cited_by_count": 81,
+   "title": "Substituted 5-phenyltetrazoles: improved activators of deoxynucleoside phosphoramidites in deoxyoligonucleotide synthesis.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978475962",
+   "year": 1990,
+   "cited_by_count": 75,
+   "title": "Deoxyoligonucleotide analogs based on formacetal linkages",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1990004106",
+   "year": 1996,
+   "cited_by_count": 75,
+   "title": "Protein Engineering Thrombin for Optimal Specificity and Potency of Anticoagulant Activity in Vivo",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987455836",
+   "year": 1980,
+   "cited_by_count": 74,
+   "title": "The use of zinc bromide for removal of dimethoxytrityl ethers from deoxynucleosides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002552731",
+   "year": 1997,
+   "cited_by_count": 59,
+   "title": "Antisense Gene Inhibition by C-5-Substituted Deoxyuridine-Containing Oligodeoxynucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1888931068",
+   "year": 1986,
+   "cited_by_count": 56,
+   "title": "Saccharomyces cerevisiae Secretes and Correctly Processes Human Interferon Hybrid Proteins Containing Yeast Invertase Signal Peptides",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2025964434",
+   "year": 1986,
+   "cited_by_count": 54,
+   "title": "Sequence-specific cross-linking of deoxyoligonucleotides via hybridization-triggered alkylation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1506566133",
+   "year": 1999,
+   "cited_by_count": 53,
+   "title": "Cellular penetration and antisense activity by a phenoxazine-substituted heptanucleotide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011832924",
+   "year": 2007,
+   "cited_by_count": 50,
+   "title": "Potent Antitubulin Tumor Cell Cytotoxins Based on 3-Aroyl Indazoles",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2067000257",
+   "year": 1991,
+   "cited_by_count": 49,
+   "title": "Deoxyoligonucleotides bearing neutral analogs of phosphodiester linkages recognize duplex DNA via triple-helix formation",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2022209895",
+   "year": 1991,
+   "cited_by_count": 46,
+   "title": "Specific, high-efficiency, triple-helix-mediated cross-linking to duplex DNA",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2089795125",
+   "year": 1997,
+   "cited_by_count": 45,
+   "title": "Sequence-Specific Targeting of Duplex DNA Using a Camptothecin-Triple Helix Forming Oligonucleotide Conjugate and Topoisomerase I",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1967944576",
+   "year": 1999,
+   "cited_by_count": 44,
+   "title": "Triplex Formation by Oligonucleotides Containing 5-(1-Propynyl)-2‘-deoxyuridine: Decreased Magnesium Dependence and Improved Intracellular Gene Targeting",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080987483",
+   "year": 1993,
+   "cited_by_count": 44,
+   "title": "Oligonucleotides containing a covalent conformationally restricted phosphodiester analog for high-affinity triple helix formation: the riboacetal internucleotide linkage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001304530",
+   "year": 1997,
+   "cited_by_count": 40,
+   "title": "Synthesis and hybridization study of a boranophosphate-linked oligothymidine deoxynucleotide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2105162278",
+   "year": 1995,
+   "cited_by_count": 38,
+   "title": "Inhibition of dengue virus by novel, modified antisense oligonucleotides",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2410059712",
+   "year": 1983,
+   "cited_by_count": 31,
+   "title": "Deoxyoligonucleotide synthesis via the phosphoramidite method.",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2000336614",
+   "year": 1996,
+   "cited_by_count": 30,
+   "title": "Structural modifications toward improved antisense oligonucleotides",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1990796371",
+   "year": 1996,
+   "cited_by_count": 29,
+   "title": "Hybridization properties of oligonucleotides bearing a tricyclic 2′-deoxycytidine analog based on a carbazole ring system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1984603007",
+   "year": 1989,
+   "cited_by_count": 28,
+   "title": "Synthesis of novel polycyclic nucleoside analogs, incorporation into oligodeoxynucleotides, and interaction with complementary sequences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064023432",
+   "year": 1994,
+   "cited_by_count": 28,
+   "title": "Development of Antisense Therapeutics: Implications for Cancer Gene Therapy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035396709",
+   "year": 2009,
+   "cited_by_count": 27,
+   "title": "Inhibition of Both Thioredoxin Reductase and Glutathione Reductase may Contribute to the Anticancer Mechanism of TH-302",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1226804075",
+   "year": 2015,
+   "cited_by_count": 26,
+   "title": "Combination treatment with hypoxia-activated prodrug evofosfamide (TH-302) and mTOR inhibitors results in enhanced antitumor efficacy in preclinical renal cell carcinoma models.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012904150",
+   "year": 1985,
+   "cited_by_count": 26,
+   "title": "1-Methyl-2-(2-hydroxyphenyl)imidazole: a catalytic phosphate protecting group in deoxyoligonucleotide synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022614469",
+   "year": 1996,
+   "cited_by_count": 26,
+   "title": "Synthesis and hybridization properties of an oligonucleotide analog containing a glucose-derived conformation-restricted ribose moiety and 2′, 5′ formacetal linkages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2325275602",
+   "year": 2016,
+   "cited_by_count": 26,
+   "title": "Comparison of hypoxia-activated prodrug evofosfamide (TH-302) and ifosfamide in preclinical non-small cell lung cancer models",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136391302",
+   "year": 2015,
+   "cited_by_count": 24,
+   "title": "Enhancement of hypoxia-activated prodrug TH-302 anti-tumor activity by Chk1 inhibition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968904517",
+   "year": 2011,
+   "cited_by_count": 22,
+   "title": "14-Aminocamptothecins: Their Synthesis, Preclinical Activity, and Potential Use for Cancer Treatment",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2044417155",
+   "year": 2011,
+   "cited_by_count": 21,
+   "title": "Pharmacokinetics of TH-302: a hypoxically activated prodrug of bromo-isophosphoramide mustard in mice, rats, dogs and monkeys",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2039607571",
+   "year": 1986,
+   "cited_by_count": 19,
+   "title": "Alkaline Phosphatase Fusions: A Tag to Identify Mutations that Result in Increased Expression of Secreted Human Growth Hormone from Escherichia coli",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1979601143",
+   "year": 1994,
+   "cited_by_count": 17,
+   "title": "Oligodeoxynucleotides containing 5-(1-propynyl)-2′-deoxyuridine formacetal and thioformacetal dimer synthons",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036222720",
+   "year": 1991,
+   "cited_by_count": 17,
+   "title": "Hybridization properties of deoxyoligonucleotides containing anthraquinone pseudonucleosides",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2949979855",
+   "year": 1999,
+   "cited_by_count": 17,
+   "title": "A novel thiol protecting group: A 2-thioquinoline sulfide as a masked sulfhydryl moiety",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988110059",
+   "year": 1987,
+   "cited_by_count": 16,
+   "title": "The Use of Nucleoside H-Phosphonates in the Synthesis of Deoxyoligonucleotides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997082925",
+   "year": 1987,
+   "cited_by_count": 16,
+   "title": "Synthesis and crosslinking properties of a deoxyoligonucleotide containing N6,N6-ethanodeoxyadenosine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971910272",
+   "year": 1994,
+   "cited_by_count": 15,
+   "title": "Synthesis of 6-amino-2′- -methylcytidine, a protonated cytidine analog for triple helix binding studies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2011884749",
+   "year": 1994,
+   "cited_by_count": 15,
+   "title": "Deoxyoligonucleotides containing 2′,5′ acetal linkages: Synthesis and hybridization properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098272169",
+   "year": 1997,
+   "cited_by_count": 14,
+   "title": "The synthesis and binding properties of oligonucleotide analogs containing diastereomerically pure conformationally restricted acetal linkages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070588515",
+   "year": 1999,
+   "cited_by_count": 13,
+   "title": "Synthesis of a tetracyclic 2′-deoxyadenosine analog",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061216242",
+   "year": 1999,
+   "cited_by_count": 12,
+   "title": "Synthesis of a N-acylsulfamide linked dinucleoside and its incorporation into an oligonucleotide",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949518966",
+   "year": 1994,
+   "cited_by_count": 12,
+   "title": "Oligodeoxynucleotides containing 3′-allylether, 3′-allylsulfide and their saturated derivatives as phosphate mimics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035234040",
+   "year": 2007,
+   "cited_by_count": 11,
+   "title": "ARC-111 inhibits hypoxia-mediated hypoxia-inducible factor-1α accumulation",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1996752788",
+   "year": 1998,
+   "cited_by_count": 10,
+   "title": "Synthesis and binding property of an oligonucleotide containing tetrafluorophenoxazine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048605050",
+   "year": 1999,
+   "cited_by_count": 9,
+   "title": "Synthesis and hybridization property of an oligonucleotide containing a 3′-thioformcetal linked pentathymidylate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023948509",
+   "year": 1987,
+   "cited_by_count": 8,
+   "title": "Cleavage of single stranded oligonucleotides byEcoRI restriction endonuclease",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040780168",
+   "year": 1994,
+   "cited_by_count": 8,
+   "title": "Preparation, characterization and binding properties of an oligodeoxynucleotide containig the 3′-ribothioformacetal phosphate analog",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053417483",
+   "year": 1991,
+   "cited_by_count": 8,
+   "title": "Hybridization Properties of a DeoxyoIigonucleotide Containing Four Formacetal Linkages",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2030792840",
+   "year": 1994,
+   "cited_by_count": 7,
+   "title": "ChemInform Abstract: 5‐Heteroaryl‐2′‐deoxyuridine Analogues. Synthesis and Incorporation into High‐Affinity Oligonucleotides.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142292357",
+   "year": 2011,
+   "cited_by_count": 7,
+   "title": "Metabolism, pharmacokinetics and excretion of a novel hypoxia activated cytotoxic prodrug, TH-302, in rats",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2950908755",
+   "year": 1995,
+   "cited_by_count": 6,
+   "title": "A mild method for the syntheses of 3′-thioformacetal dinucleotides: The development of diphenylphosphinate as a glycosyl donor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061854136",
+   "year": 1996,
+   "cited_by_count": 5,
+   "title": "The synthesis and hybridization properties of an oligonucleotide containing hexafluoroacetone ketal internucleotide linkages",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

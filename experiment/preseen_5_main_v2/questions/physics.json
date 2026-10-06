@@ -1,0 +1,16 @@
+{
+ "type": "multiple_choice",
+ "title": "Which discovery will the 2026 Nobel Prize in Physics be awarded for?",
+ "description": "The 2026 Nobel Prize in Physics is scheduled to be announced on Tuesday 6 October 2026. Each option names a discovery and the people most closely associated with it. The forecast is conditional on the prize going to one of the listed discoveries; there is no \"Other\" option.",
+ "resolution_criteria": "Resolves to the option whose discovery matches the discovery named in the official motivation of the 2026 Nobel Prize in Physics, as published at nobelprize.org. Options are matched by discovery; the people named in an option need not match the laureates exactly. If the prize is divided between two discoveries, only the discovery with the larger share counts; if the shares are equal, the discovery named first in the announcement counts. If more than one option matches, the option that names the awarded discovery most specifically counts. If no option matches that discovery, the question is annulled (the forecast is conditional on one of the listed discoveries).",
+ "options": [
+  "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices — Immanuel Bloch, J. Ignacio Cirac, Peter Zoller",
+  "for the discovery of quantum error correction and fault-tolerant quantum computation — John Preskill, Peter W. Shor, Alexei Y. Kitaev",
+  "for the theoretical prediction and experimental discovery of topological insulators and the quantum spin Hall effect — Eugene J. Mele, Charles L. Kane, Laurens W. Molenkamp",
+  "for the development of highly efficient organic light-emitting diodes based on phosphorescent and thermally activated delayed fluorescence emitters — Chihaya Adachi, Mark E. Thompson, Stephen R. Forrest",
+  "for pioneering theoretical studies of fluctuations in the cosmic microwave background — George Efstathiou, John Richard Bond"
+ ],
+ "options_are_mutually_exclusive": true,
+ "options_are_comprehensive": true,
+ "visibility": "private"
+}

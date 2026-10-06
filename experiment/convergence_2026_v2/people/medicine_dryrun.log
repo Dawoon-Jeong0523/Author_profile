@@ -1,0 +1,567 @@
+11:08:50 start (cards_pipeline_v2.py dryrun: profile_person.resolve on the authors subset)
+
+=== Jes Olesen
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5057969496         Jes Olesen 0000-0002-6712-2702         1068           92680 display               True snapshot Glostrup Hospital (DK); University of Copenhagen (DK); Copen
+    2 A5118899129         J B Olesen                None           41             316 display               True snapshot Gentofte Hospital (DK); Odense University Hospital (DK); Uni
+    3 A5034768041      Jes E. Olesen                None            1              32 display               True snapshot                         Technical University of Denmark (DK)
+    4 A5025722937      Jørgen Olesen 0000-0001-9582-7083          167            2926   alias               True snapshot University of Copenhagen (DK); Natural History Museum Aarhus
+    5 A5047935726 John Forbes Olesen 0000-0001-6695-7719          115            1717   alias               True snapshot                         Technical University of Denmark (DK)
+    6 A5042193369      Jesper Olesen                None            4             119   alias               True snapshot                                University of Copenhagen (DK)
+    7 A5103360753    Johannes Olesen                None            7             113   alias               True snapshot     Rigshospitalet (DK); Copenhagen University Hospital (DK)
+    8 A5032494512    Jesper H Olesen                None            1              55   alias               True snapshot                          University of Southern Denmark (DK)
+    9 A5042389261       J. K. Olesen                None           30             402 display              False snapshot                                                             
+   10 A5035408729          J. Olesen                None           12             283 display              False snapshot                    Agroécologie (FR); Aarhus University (DK)
+   11 A5067616287       J. B. Olesen                None            5              53 display              False snapshot                                                             
+   12 A5112859044         Jes Olesen                None            4              33 display              False snapshot                                          Rigshospitalet (DK)
+   13 A5112026080        J.R. Olesen                None            3              30 display              False snapshot                                                             
+   14 A5042254156        J-R. Olesen                None            2              26 display              False snapshot                                   Schlumberger (Norway) (NO)
+   15 A5078331529       J. F. Olesen                None            2              18 display              False snapshot                                                             
+query 'Jes Olesen': picked A5057969496 Jes Olesen [most cited (92,680 vs 316 citations)]; same-name fragments A5112859044
+
+=== Lars Edvinsson
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id        display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                       institutions
+    1 A5084413123      Lars Edvinsson 0000-0002-1805-1346         1206           51586 display               True snapshot               Lund University (SE)
+    2 A5108254857      Lars Edvinsson                None            2              71 display              False snapshot                                   
+    3 A5032717831         L Edvinsson                None            1              17 display              False snapshot                                   
+    4 A5029868813        L. Edvinsson                None            3              16 display              False snapshot                                   
+    5 A5042556805        L. Edvinsson                None            4               6 display              False snapshot                                   
+    6 A5027884187         L Edvinsson                None            1               0 display              False snapshot                                   
+    7 A5003562752        L. Edvinsson                None            1               0 display              False snapshot              Emory University (US)
+    8 A5105309634 Lars I.H. Edvinsson                None            1               0 display              False snapshot                Rigshospitalet (DK)
+    9 A5029686515         L EDVINSSON                None            1               0 display              False snapshot Futures Group (United States) (US)
+query 'Lars Edvinsson': picked A5084413123 Lars Edvinsson [only candidate at the given affiliation]
+
+=== Peter J. Goadsby
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5004525209 Peter J. Goadsby 0000-0003-3260-5904         1727           88460 display               True snapshot NIHR Wellcome Trust Southampton Clinical Research Facility (
+    2 A5109097676 Peter J. Goadsby                None           24            1261 display               True snapshot     King's College London (GB); King's College Hospital (GB)
+    3 A5110085700 Peter J. Goadsby                None           21             398 display               True snapshot King's College Hospital (GB); King's College London (GB); Un
+    4 A5113250944  Peter J Goadsby                None            1              25 display              False snapshot                                                             
+    5 A5062646572    P. J. Goadsby                None            1              13 display              False snapshot                                                             
+    6 A5051474219       P. Goadsby                None            1               3 display              False snapshot                                                             
+    7 A5028187276       P. Goadsby                None            1               3 display              False snapshot                                                             
+    8 A5076653299      P J GOADSBY                None            1               2 display              False snapshot                                                             
+    9 A5080911772       P. Goadsby                None            1               1 display              False snapshot                                                             
+   10 A5048327372        P Goadsby                None            1               0 display              False snapshot                                                             
+   11 A5008080146     P.J. Goadsby                None            1               0 display              False snapshot                                                             
+   12 A5022310128     P.J. Goadsby                None            1               0 display              False snapshot                                                             
+   13 A5089182562     P.J. Goadsby                None            2               0 display              False snapshot                             University of San Francisco (US)
+   14 A5011425584     P.J. Goadsby                None            1               0 display              False snapshot National Hospital for Neurology and Neurosurgery (GB); Unive
+   15 A5087065153    P. J. Goadsby                None            2               0 display              False snapshot University College London (GB); National Hospital for Neurol
+query 'Peter J. Goadsby': picked A5004525209 Peter J. Goadsby [most cited (88,460 vs 1,261 citations)]; same-name fragments A5109097676, A5110085700
+
+=== Zhijian J. Chen
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id         display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5000591490      Zhijian J. Chen 0000-0002-8475-8251          316           77546 display               True snapshot University of Pennsylvania (US); Southwestern Medical Center
+    2 A5100716613         Zhijian Chen 0000-0001-5207-4456           86            1680 display               True snapshot Jiangsu University (CN); Howard Hughes Medical Institute (US
+    3 A5019792225              Z. Chen                None           14             335 display               True snapshot Southwestern Medical Center (US); The University of Texas So
+    4 A5054742402               Z CHEN 0009-0002-2653-9285            6              65 display               True snapshot Southwestern Medical Center (?); Southwestern Medical Center
+    5 A5003629418              Z. Chen                None            4              25 display               True snapshot City of Hope (US); City Of Hope National Medical Center (US)
+    6 A5087948766 Zhijian ’James’ Chen                None            1               0 display               True snapshot The University of Texas Southwestern Medical Center (US); So
+    7 A5100457672             Zhe Chen 0000-0002-1668-4051          228            8045   alias               True snapshot Wuhan Union Hospital (CN); Second Affiliated Hospital of Soo
+    8 A5100457638             Zhe Chen 0000-0001-5059-5290          194            4329   alias               True snapshot The University of Texas Southwestern Medical Center (US); Qi
+    9 A5082618548         Zhongpu Chen 0000-0002-2123-3490           14              86   alias               True snapshot        Southwestern University of Finance and Economics (CN)
+   10 A5110684247          Zhiwei Chen                None            4              11   alias               True snapshot State Key Laboratory of Respiratory Disease (CN); Guangzhou 
+   11 A5035071106      Z. Jeffrey Chen 0000-0001-5006-8036          122           10878 display              False snapshot Sichuan Agricultural University (CN); Nanjing Agricultural U
+   12 A5063052509              Z. Chen                None            1            9596 display              False snapshot                        Institute of High Energy Physics (AT)
+   13 A5100716615         Zhijian Chen 0000-0002-1182-7340          309            9592 display              False snapshot Beijing University of Chemical Technology (CN); Tianjin Univ
+   14 A5107884446              Z. Chen 0009-0003-5735-8273          137            6736 display              False snapshot                                     Tsinghua University (CN)
+   15 A5100716620         Zhijian Chen 0000-0002-8823-6004          183            5908 display              False snapshot South China University of Technology (CN); Peking University
+query 'Zhijian J. Chen': picked A5000591490 Zhijian J. Chen [most cited (77,546 vs 1,680 citations)]
+
+=== Glen N. Barber
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id   display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5050436106 Glen N. Barber 0000-0002-4703-0931          296           36877 display               True snapshot The Ohio State University Comprehensive Cancer Center – Arth
+    2 A5106579103      G. Barber                None           62            3554 display              False snapshot                                                             
+    3 A5105935511      G. Barber                None           16            1015 display              False snapshot                                                             
+    4 A5008449195       G Barber                None            3             122 display              False snapshot                         Eastern Virginia Medical School (US)
+    5 A5013021773      G. Barber                None            6              81 display              False snapshot                          TRW Automotive (United States) (US)
+    6 A5027419987      G. Barber                None            2              56 display              False snapshot                                                             
+    7 A5104806778      G. Barber                None            1              35 display              False snapshot                                                             
+    8 A5049485670     G N Barber                None            1              23 display              False snapshot                                                             
+    9 A5061106799      G. Barber                None            1              15 display              False snapshot Louisiana Department of Natural Resources (US); Florida Depa
+   10 A5010315738      G. Barber                None            3              11 display              False snapshot                        Northrop Grumman (United States) (US)
+   11 A5070877345      G. Barber                None            1               7 display              False snapshot                                              Act Health (AU)
+   12 A5098119897       G BARBER                None            1               2 display              False snapshot                                                             
+   13 A5098144004      G. Barber                None            1               1 display              False snapshot                                                             
+   14 A5083951791      G. Barber                None            1               1 display              False snapshot                                                             
+   15 A5053952806      G. BARBER                None            1               0 display              False snapshot                                          Science Oxford (GB)
+query 'Glen N. Barber': picked A5050436106 Glen N. Barber [only candidate at the given affiliation]
+
+=== James G. Fujimoto
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id      display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                           institutions
+    1 A5019768182 James G. Fujimoto 0000-0002-0828-4357         1397           81878 display              False snapshot             Massachusetts Institute of Technology (US)
+    2 A5108392004 James G. Fujimoto                None            6            2672 display              False snapshot                                                       
+    3 A5109006743       J. Fujimoto                None          107            1875 display              False snapshot                                  Ehime University (JP)
+    4 A5113510988 James G. Fujimoto                None           11            1828 display              False snapshot             Massachusetts Institute of Technology (US)
+    5 A5084492312    J. G. Fujimoto                None            9            1641 display              False snapshot             Massachusetts Institute of Technology (US)
+    6 A5108454035 James G. Fujimoto                None            4            1403 display              False snapshot             Massachusetts Institute of Technology (US)
+    7 A5113193001        J Fujimoto                None           38            1141 display              False snapshot                                                       
+    8 A5013547716        J Fujimoto                None           12             274 display              False snapshot                                Tottori University (JP)
+    9 A5052509019    J. G. Fujimoto                None            3             247 display              False snapshot             Massachusetts Institute of Technology (US)
+   10 A5027855186       J. Fujimoto                None            9             240 display              False snapshot                                  Kyoto University (JP)
+   11 A5006993491       J. Fujimoto                None            4             124 display              False snapshot                             Japan Tobacco (Japan) (JP)
+   12 A5006188429        J Fujimoto                None            1              39 display              False snapshot                                                       
+   13 A5107823931       J. Fujimoto                None            1              39 display              False snapshot     High Energy Accelerator Research Organization (JP)
+   14 A5064262375       J. Fujimoto                None            2              31 display              False snapshot The University of Texas MD Anderson Cancer Center (US)
+   15 A5105753193       J. Fujimoto                None            3              20 display              False snapshot     High Energy Accelerator Research Organization (JP)
+query 'James G. Fujimoto': picked A5019768182 James G. Fujimoto [most cited (81,878 vs 2,672 citations)]
+
+=== David Huang
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5015766352      David Huang 0000-0003-2592-8393          694           26258 display               True snapshot New York University (US); Allogene Therapeutics (United Stat
+    2 A5026982111      David Huang 0000-0002-5569-6442          129           17706 display               True snapshot Oregon Health & Science University (US); Reproductive Scienc
+    3 A5016673974   David T. Huang 0000-0002-9165-7643          282            7670 display               True snapshot University of Rochester Medical Center (US); Library Network
+    4 A5110189557      David Huang                None            5             583 display               True snapshot                      Oregon Health & Science University (US)
+    5 A5108167298      David Huang                None            4             160 display               True snapshot                      Oregon Health & Science University (US)
+    6 A5108336978      David Huang                None            1               4 display               True snapshot                      Oregon Health & Science University (US)
+    7 A5040208750 David C.S. Huang 0000-0002-3101-4873          576           44986 display              False snapshot Lenox Hill Hospital (US); Walter and Eliza Hall Institute of
+    8 A5063674308   David T. Huang 0000-0001-7649-1633          217           10556 display              False snapshot Second Affiliated Hospital of Guangzhou Medical University (
+    9 A5005027485      David Huang 0000-0002-0658-8752          173            9859 display              False snapshot Purdue University West Lafayette (US); University of North C
+   10 A5007176007      D. Q. Huang 0000-0001-6619-6032          103            7257 display              False snapshot University of California System (US); University of Californ
+   11 A5039401499   David M. Huang 0000-0003-2048-4500          196            5150 display              False snapshot University of Finance and Economics (MN); Ningbo University 
+   12 A5079399296         D. Huang 0000-0001-8646-9712          177            4999 display              False snapshot                              National Taiwan University (TW)
+   13 A5016570350   David B. Huang 0000-0001-8228-7911          175            4510 display              False snapshot Rutgers New Jersey Medical School (?); Rutgers, The State Un
+   14 A5039510434         D. Huang 0000-0001-5672-4161          165            4296 display              False snapshot First Affiliated Hospital of GuangXi Medical University (CN)
+   15 A5033065374      D. J. Huang 0000-0003-4750-8453          172            3070 display              False snapshot University of North Carolina at Chapel Hill (US); National Y
+NOT RESOLVED: ambiguous: the two most cited candidates have 26,258 and 17,706 citations. Choose with --pick N (the rank above), --affiliation, --orcid or --author-id.
+
+=== Eric A. Swanson
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5110342593    Eric A. Swanson                None          221           28360 display              False snapshot                                                             
+    2 A5103037888       Eric Swanson 0000-0001-8454-1207          313            4980 display              False snapshot American Academy of Family Physicians (US); Swanson Center (
+    3 A5113573707    Eric A. Swanson                None            3            2127 display              False snapshot MIT Lincoln Laboratory (US); Massachusetts Institute of Tech
+    4 A5089016950       Eric Swanson 0000-0003-1337-4047           53             885 display              False snapshot                             Loyola Marymount University (US)
+    5 A5046679644       Eric Swanson 0000-0002-5872-0794           35             720 display              False snapshot                                                             
+    6 A5027308941       Eric Swanson 0000-0002-9909-0477            3             282 display              False snapshot                                                             
+    7 A5032157037         E. Swanson                None            3             131 display              False snapshot                                                             
+    8 A5022573301         E. Swanson                None            1              55 display              False snapshot                                                             
+    9 A5055839778      E. A. Swanson                None            2              45 display              False snapshot                                                             
+   10 A5037658822         E. Swanson                None            3              28 display              False snapshot                                                             
+   11 A5102452429       Eric Swanson                None            5              17 display              False snapshot                                                             
+   12 A5104453857          E Swanson                None            1              15 display              False snapshot                                                             
+   13 A5056855260 Eric W. A. Swanson                None            1               9 display              False snapshot                                   University of Calgary (CA)
+   14 A5052288504       Eric Swanson                None            2               9 display              False snapshot                                                             
+   15 A5009188024         E. Swanson                None            1               5 display              False snapshot                                  MIT Lincoln Laboratory (US)
+query 'Eric A. Swanson': picked A5110342593 Eric A. Swanson [most cited (28,360 vs 4,980 citations)]
+
+=== Robert A. Weinberg
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5012557712 Robert A. Weinberg 0000-0002-0895-3557          674          292242 display               True snapshot Whitehead Institute for Biomedical Research (US); Massachuse
+    2 A5111645267       R A Weinberg                None           44            3061 display               True snapshot             Whitehead Institute for Biomedical Research (US)
+    3 A5049895761      R.A. Weinberg                None            4             324 display               True snapshot Whitehead Institute for Biomedical Research (US); Massachuse
+    4 A5051628856       R A Weinberg                None            1               3 display               True snapshot Massachusetts Institute of Technology (US); Whitehead Instit
+    5 A5021769679 ROBERT A. WEINBERG                None            1               2 display               True snapshot             Whitehead Institute for Biomedical Research (US)
+    6 A5111501531       R A Weinberg                None            2            1138 display              False snapshot                                                             
+    7 A5111827734         R WEINBERG                None            7             656 display              False snapshot                                 Northwestern University (US)
+    8 A5077578894    Robert Weinberg                None          103             299 display              False snapshot                                University of Buckingham (GB)
+    9 A5066533564       R A Weinberg                None            5             251 display              False snapshot                                                             
+   10 A5031018510    Robert Weinberg                None            4             128 display              False snapshot                                                             
+   11 A5113770197         R Weinberg                None           13             101 display              False snapshot                                                             
+   12 A5082761779        R. Weinberg                None            6              39 display              False snapshot                                       Monash University (AU)
+   13 A5011161813         R Weinberg                None            5              36 display              False snapshot                                                             
+   14 A5059085015    Robert Weinberg                None            5              28 display              False snapshot                                                             
+   15 A5029012068       R A Weinberg                None            1              22 display              False snapshot                                                             
+query 'Robert A. Weinberg': picked A5012557712 Robert A. Weinberg [most cited (292,242 vs 3,061 citations)]
+
+=== Bert Vogelstein
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5072858943 Bert Vogelstein 0000-0003-0766-3854         1042          366210 display               True snapshot Johns Hopkins Hospital (US); Sidney Kimmel Cancer Center (US
+    2 A5111666714 Bert Vogelstein                None           17           12527 display               True snapshot Johns Hopkins University (US); Sidney Kimmel Comprehensive C
+    3 A5062987388    B Vogelstein                None           24           10159 display               True snapshot  Johns Hopkins University (US); University of Baltimore (US)
+    4 A5046239167    B Vogelstein                None            5             562 display              False snapshot                                                             
+    5 A5011814000    B Vogelstein                None            1               4 display              False snapshot                                                             
+    6 A5083421142   B. Vogelstein                None            2               3 display              False snapshot                                                             
+    7 A5061976253   B. Vogelstein                None            1               3 display              False snapshot                                                             
+    8 A5032365694   B. Vogelstein                None            4               1 display              False snapshot                         Howard Hughes Medical Institute (US)
+    9 A5009844089    B Vogelstein                None            1               1 display              False snapshot                                                             
+   10 A5115047264 Bert Vogelstein                None            1               0 display              False snapshot                                                             
+query 'Bert Vogelstein': picked A5072858943 Bert Vogelstein [most cited (366,210 vs 12,527 citations)]; same-name fragments A5111666714
+
+=== Adrian R. Krainer
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id      display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5113482239 Adrian R. Krainer                None          249           36454 display               True snapshot                           Cold Spring Harbor Laboratory (US)
+    2 A5077163665 Adrian R. Krainer 0000-0001-9024-9501           83            5921 display               True snapshot                           Cold Spring Harbor Laboratory (US)
+    3 A5122359008  Adrian R Krainer                None            1               0 display               True snapshot                           Cold Spring Harbor Laboratory (US)
+    4 A5047105351      A.R. Krainer                None            1               0 display               True snapshot                           Cold Spring Harbor Laboratory (US)
+    5 A5042487943       A R Krainer                None            2               1 display              False snapshot                                                             
+    6 A5121594267 Adrian R. Krainer                None            1               0 display              False snapshot                                                             
+    7 A5102507921 Adrian R. Krainer                None            2               0 display              False snapshot                                                             
+    8 A5031698727      A.R. Krainer                None            1               0 display              False snapshot Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico (I
+    9 A5096343843    Adrian Krainer                None            1               0 display              False snapshot                                                             
+   10 A5014397139        A. Krainer                None            1               0 display              False snapshot                                                             
+   11 A5108118318     A. M. Krainer                None            4            1420   alias              False snapshot              European Organization for Nuclear Research (CH)
+   12 A5110641830      Aleš Krainer                None           55             965   alias              False snapshot                                                             
+query 'Adrian R. Krainer': picked A5113482239 Adrian R. Krainer [most cited (36,454 vs 5,921 citations)]; same-name fragments A5077163665
+
+=== C. Frank Bennett
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id           display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5103489650 Clarence Frank Bennett                None            1             144 display               True snapshot                   Ionis Pharmaceuticals (United States) (US)
+    2 A5083296071       C. Frank Bennett 0000-0001-9887-6251          327           46028 display              False snapshot                           Pennsylvania State University (US)
+    3 A5024917812          Carol Bennett 0000-0002-3033-9860          120           15783 display              False snapshot                                                             
+    4 A5035846786    Christopher Bennett 0000-0003-3329-2567           18           14561 display              False snapshot     The University of Texas Southwestern Medical Center (US)
+    5 A5069720631          Cathy Bennett 0000-0002-9112-5698          189           12926 display              False snapshot La Trobe University (AU); University Hospitals of Cleveland 
+    6 A5043856073      Catherine Bennett 0000-0001-9581-1612          214            5772 display              False snapshot Weill Cornell Medicine (US); Oakland University (US); Center
+    7 A5021576499 Christopher F. Bennett 0000-0003-1927-0732           30            5074 display              False snapshot The University of Texas at El Paso (US); Harvard University 
+    8 A5083455510    Christopher Bennett 0000-0002-8467-6192        20608            3759 display              False snapshot                                              Met Office (GB)
+    9 A5109582568       Caroline Bennett                None           26            3381 display              False snapshot                                                             
+   10 A5111545913    Christopher Bennett                None           30            2484 display              False snapshot                                                             
+   11 A5079356351      Christine Bennett                None           33            2182 display              False snapshot                                                             
+   12 A5114145753       Carolyne Bennett                None           15            2077 display              False snapshot National Center on Birth Defects and Developmental Disabilit
+   13 A5052303407       Courtney Bennett 0000-0001-7186-1009          106            2030 display              False snapshot Lehigh Valley Hospital-Pocono (US); Mayo Clinic (US); Lehigh
+   14 A5028945213        Corbett Bennett 0009-0001-2847-7754           31            2028 display              False snapshot                                         Allen Institute (US)
+   15 A5021633819          Craig Bennett 0000-0002-1926-0449           54            1880 display              False snapshot University of Florida (US); LifeBridge Health (US); Sinai Ho
+query 'C. Frank Bennett': picked A5103489650 Clarence Frank Bennett [only candidate at the given affiliation]
+
+=== Jeffrey I. Gordon
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5063884903  Jeffrey I. Gordon 0000-0001-8304-3548          606          239503 display               True snapshot The Ohio State University (US); New School (US); Washington 
+    2 A5109961803  Jeffrey I. Gordon                None           13            1536 display               True snapshot                      Washington University in St. Louis (US)
+    3 A5121972918  Jeffrey I. Gordon                None            1               0 display               True snapshot                      Washington University in St. Louis (US)
+    4 A5033882651  Jeffrey M. Gordon 0000-0001-9180-5434          352            8950   alias               True snapshot Ben-Gurion University of the Negev (IL); University of Weste
+    5 A5102904935     J. Eric Gordon 0000-0002-4768-3721          130            5589   alias               True snapshot                           St. Louis Children's Hospital (US)
+    6 A5082088329 Jennifer L. Gordon                None            6             340   alias               True snapshot                      Washington University in St. Louis (US)
+    7 A5110138408       James Gordon                None           11             324   alias               True snapshot                      Washington University in St. Louis (US)
+    8 A5111758369          J. Gordon                None          166           57980 display              False snapshot                            Nova Southeastern University (US)
+    9 A5113744146           J Gordon                None           73            3325 display              False snapshot Hampshire Hospitals NHS Foundation Trust (GB); Royal Hampshi
+   10 A5107841314          J. Gordon                None           43            2789 display              False snapshot                               The Ohio State University (US)
+   11 A5108962741         J I Gordon                None           18            2018 display              False snapshot                                        Cleveland Clinic (US)
+   12 A5109910474           J Gordon                None          105            1427 display              False snapshot                                                             
+   13 A5112140782          J. Gordon                None           36            1215 display              False snapshot                                                             
+   14 A5113530904          J. Gordon                None           34            1058 display              False snapshot                                                             
+   15 A5068752344          J. Gordon 0000-0003-1610-7067           53             795 display              False snapshot                                                             
+query 'Jeffrey I. Gordon': picked A5063884903 Jeffrey I. Gordon [most cited (239,503 vs 1,536 citations)]; same-name fragments A5109961803
+
+=== Michael J. Welsh
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5037321572 Michael J. Welsh 0000-0002-1646-6206          666           71967 display               True snapshot Institute of Molecular Biology and Biophysics (RU); Howard H
+    2 A5077354550         M. Welsh                None            1              24 display               True snapshot                                   Iowa State University (US)
+    3 A5053898303    Michael Welsh 0000-0002-5467-9755          292            8481 display              False snapshot Science for Life Laboratory (SE); Uppsala University (SE); D
+    4 A5111445921    Michael Welsh                None           71            2140 display              False snapshot                                Longmont United Hospital (US)
+    5 A5049402093         M. Welsh                None            4             196 display              False snapshot                                               ActionAid (US)
+    6 A5046027002        M J Welsh                None            3             176 display              False snapshot                                University of Pittsburgh (US)
+    7 A5064301192         M. Welsh                None            3             107 display              False snapshot                                                             
+    8 A5055533047         M. Welsh                None            4             101 display              False snapshot                              Queen's University Belfast (GB)
+    9 A5016505593   M. J. M. Welsh 0000-0002-6601-5905            7              80 display              False snapshot                                  RWTH Aachen University (DE)
+   10 A5087233596          M WELSH                None            1              58 display              False snapshot                        University of Michigan–Ann Arbor (US)
+   11 A5107540739      M. J. Welsh                None            1              44 display              False snapshot                                                             
+   12 A5086914837      M. J. Welsh                None            8              23 display              False snapshot                                        Miami University (US)
+   13 A5049822380         M. Welsh                None            3              15 display              False snapshot                          University of Colorado Boulder (US)
+   14 A5108436350    Michael Welsh                None            2              11 display              False snapshot                                                             
+   15 A5078327738         M. Welsh                None            1               9 display              False snapshot  University of Technology (RU); Loughborough University (GB)
+query 'Michael J. Welsh': picked A5037321572 Michael J. Welsh [most cited (71,967 vs 24 citations)]
+
+=== Paul A. Negulescu
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id      display_name orcid  works_count  cited_by_count   match  affiliation_match   source                                institutions
+    1 A5109316639 Paul A. Negulescu  None           55            6721 display               True snapshot Vertex Pharmaceuticals (United States) (US)
+query 'Paul A. Negulescu': picked A5109316639 Paul A. Negulescu [only candidate at the given affiliation]
+
+=== Adrian Bird
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id   display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5052906260    Adrian Bird 0000-0002-8600-0372          316           81655 display               True snapshot University of Edinburgh (GB); Institute of Cell Biology (UA)
+    2 A5051780855        A. Bird                None            1               5 display               True snapshot                                 University of Edinburgh (GB)
+    3 A5060745325     A. J. Bird 0000-0002-6888-8937          419            6178 display              False snapshot                                                             
+    4 A5110603690 A. Graham Bird                None           67            2137 display              False snapshot                                UK Health Security Agency (?)
+    5 A5113478086      A.C. Bird                None           99            1459 display              False snapshot                               University College London (GB)
+    6 A5042579126       A G Bird 0000-0001-8422-6274           49            1185 display              False snapshot                                                             
+    7 A5111932028      A.C. Bird                None           33            1130 display              False snapshot                                                             
+    8 A5048813002     A. R. Bird 0000-0003-0233-2159           56             772 display              False snapshot                                                             
+    9 A5110567652       A G Bird                None           21             559 display              False snapshot University College London (GB); University College London Ho
+   10 A5109929476     A. E. Bird                None           20             372 display              False snapshot                                     Kutztown University (US)
+   11 A5065325663        A. Bird                None           13             230 display              False snapshot                                        Queen's Hospital (GB)
+   12 A5055980885      A.V. Bird                None           16             184 display              False snapshot                                                             
+   13 A5012805621     A. C. Bird                None           12             154 display              False snapshot                                  Department of Forestry (MW)
+   14 A5012358405     A. D. Bird                None            2             123 display              False snapshot                                        Waikato Hospital (NZ)
+   15 A5110083678        A. Bird                None            4             103 display              False snapshot                   American Physical Therapy Association (US)
+query 'Adrian Bird': picked A5052906260 Adrian Bird [most cited (81,655 vs 5 citations)]
+
+=== Huda Zoghbi
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id   display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5020701219 Huda Y. Zoghbi 0000-0002-0700-3349          562           72349 display               True snapshot Texas Children's Hospital (US); Baylor College of Medicine (
+    2 A5087095784      H. Zoghbi                None            1               0 display               True snapshot                              Baylor College of Medicine (US)
+    3 A5023287898   H. Y. Zoghbi                None            1              26 display              False snapshot                                                             
+    4 A5005848529    H El-Zoghbi                None            1               3 display              False snapshot                                                             
+    5 A5121490578    Huda Zoghbi                None            1               0 display              False snapshot                                                             
+    6 A5040394219      H. Zoghbi                None            1               0 display              False snapshot                                                             
+query 'Huda Zoghbi': picked A5020701219 Huda Y. Zoghbi [most cited (72,349 vs 0 citations)]
+
+=== Carl-Henrik Heldin
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id        display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5084535456  Carl‐Henrik Heldin 0000-0002-9508-896X          650           76035 display               True snapshot    Science for Life Laboratory (SE); Uppsala University (SE)
+    2 A5109846436  Carl‐Henrik Heldin                None           36            6703 display               True snapshot                                      Uppsala University (SE)
+    3 A5109933759  Carl-Henrik Heldin                None            8             981 display               True snapshot    Uppsala University (SE); Science for Life Laboratory (SE)
+    4 A5103528609          C-H Heldin                None           11             636 display               True snapshot Science for Life Laboratory (SE); Uppsala University (SE); L
+    5 A5109972201          C H Heldin                None           29            3509 display              False snapshot                                  Ludwig Cancer Research (SE)
+    6 A5111508691            C HELDIN                None            5            1123 display              False snapshot                                                             
+    7 A5110276852  Carl Henrik Heldin                None            8             579 display              False snapshot                                  Ludwig Cancer Research (SE)
+    8 A5109923315  Carl-Henrik Heldin                None            2             394 display              False snapshot                                  Ludwig Cancer Research (SE)
+    9 A5109974232      Carl H. Heldin                None            1             140 display              False snapshot                                  Ludwig Cancer Research (BE)
+   10 A5110133105 CARL-HENDRIK HELDIN                None            1              39 display              False snapshot     Ludwig Cancer Research (BE); Ludwig Cancer Research (SE)
+   11 A5111240754  Carl-Henrik Heldin                None            1               6 display              False snapshot                                                             
+   12 A5107797152  Carl Henrik-Heldin                None            1               0 display              False snapshot                                                             
+   13 A5036680261  Carl-Heldin Heldin                None            1               0 display              False snapshot                                                             
+   14 A5098293835           C. Heldin                None            1               0 display              False snapshot                               Eli Lilly (United States) (US)
+   15 A5032040489       C. -H. Heldin                None            1               0 display              False snapshot                                                             
+query 'Carl-Henrik Heldin': picked A5084535456 Carl‐Henrik Heldin [most cited (76,035 vs 6,703 citations)]; same-name fragments A5109846436, A5109933759
+
+=== Kohei Miyazono
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id      display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5051009186    Kohei Miyazono 0000-0001-7341-0172          709           69642 display              False snapshot RIKEN Center for Integrative Medical Sciences (JP); Kyushu U
+    2 A5110117005    Kohei Miyazono                None            9             763 display              False snapshot Japanese Foundation For Cancer Research (JP); The University
+    3 A5107405423    Kohei Miyazono                None            2              19 display              False snapshot                                 The University of Tokyo (JP)
+    4 A5109158940    KOHEI MIYAZONO                None            1              19 display              False snapshot                                 The University of Tokyo (JP)
+    5 A5033113625        K MIYAZONO                None            1               6 display              False snapshot                                                             
+    6 A5036679192       K. Miyazono                None            1               4 display              False snapshot                                                             
+    7 A5043958648       K. Miyazono                None            1               2 display              False snapshot                                                             
+    8 A5018812830    Kohei MIYAZONO                None            2               0 display              False snapshot                                                             
+    9 A5096867693       K. Miyazono                None            1               0 display              False snapshot                                                             
+   10 A5108167075 Ken‐ichi Miyazono 0000-0002-9354-2604          151            3339   alias              False snapshot         Kyushu University (JP); The University of Tokyo (JP)
+   11 A5021790758 Kazuhiro Miyazono                None            8               3   alias              False snapshot                                                             
+   12 A5032919763   Kazuki Miyazono                None           27               2   alias              False snapshot                                                             
+   13 A5073154912 Kazunori MIYAZONO                None            5               2   alias              False snapshot                                 Osaka Dental University (JP)
+query 'Kohei Miyazono': picked A5051009186 Kohei Miyazono [most cited (69,642 vs 763 citations)]
+
+=== Francis S. Collins
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5068242165 Francis S. Collins 0000-0002-1023-7410          828          180387 display               True snapshot National Institutes of Health (US); National Human Genome Re
+    2 A5111808639 Francis S. Collins                None           41           44515 display               True snapshot National Institutes of Health (US); National Human Genome Re
+    3 A5106733134 Francis S. Collins                None           56           10154 display               True snapshot National Institutes of Health (US); University of North Caro
+    4 A5107233165 Francis S. Collins                None           32            1910 display               True snapshot National Institutes of Health (US); National Human Genome Re
+    5 A5041838264    Francis Collins                None            6             221 display               True snapshot                           National Institutes of Health (US)
+    6 A5077294667        F S Collins                None            1              20 display               True snapshot National Institutes of Health (US); National Human Genome Re
+    7 A5106408454 Francis S. Collins                None            3            6366 display              False snapshot                National Human Genome Research Institute (US)
+    8 A5113638606 Francis S. Collins                None           17            2003 display              False snapshot                                                             
+    9 A5061273007        F S Collins                None           19            1055 display              False snapshot                                                             
+   10 A5103745489 Francis S. Collins                None           21             510 display              False snapshot                                                             
+   11 A5062499052       F.S. Collins                None            5             261 display              False snapshot                                                             
+   12 A5077628801          F Collins                None            4             215 display              False snapshot   Johns Hopkins Medicine (US); Johns Hopkins University (US)
+   13 A5112283049         F. Collins                None            4              86 display              False snapshot                                                             
+   14 A5076125651      F. S. Collins                None            1              37 display              False snapshot                                                             
+   15 A5053936308      F. S. Collins                None            1              35 display              False snapshot                National Human Genome Research Institute (US)
+query 'Francis S. Collins': picked A5068242165 Francis S. Collins [most cited (180,387 vs 44,515 citations)]; same-name fragments A5111808639, A5106733134, A5107233165, A5106408454
+
+=== Lap-Chee Tsui
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5111461700    Lap-Chee Tsui  None           30           17950 display               True snapshot University of Hong Kong (HK); Hospital for Sick Children (CA
+    2 A5096919099    Lap-Chee Tsui  None            9            1547 display               True snapshot  University of Toronto (CA); Hospital for Sick Children (CA)
+    3 A5111980287         L‐C Tsui  None           20             557 display               True snapshot Chinese University of Hong Kong (CN); Hospital for Sick Chil
+    4 A5113717446 Lap-Chee P. Tsui  None            1              14 display               True snapshot  Hospital for Sick Children (CA); University of Toronto (CA)
+    5 A5070173111       L.‐C. Tsui  None            1               0 display               True snapshot University of Toronto (CA); None (?); Hospital for Sick Chil
+    6 A5113604189    Lap‐Chee Tsui  None          175           16732 display              False snapshot                                                             
+    7 A5111425466    Lap Chee Tsui  None           33           11950 display              False snapshot                                                             
+    8 A5113581974       L.‐C. Tsui  None           71            3554 display              False snapshot University of Hong Kong (HK); Chinese University of Hong Kon
+    9 A5111796983       L.-C. Tsui  None           59            3369 display              False snapshot                                 University of Hong Kong (HK)
+   10 A5111989604       L.-C. Tsui  None           27            2393 display              False snapshot                                                             
+   11 A5043377206       L.-C. Tsui  None            1              87 display              False snapshot                                                             
+   12 A5052875290        L-C. Tsui  None            6              41 display              False snapshot University of Hong Kong (HK); University of Hong Kong - Shen
+   13 A5064619608       L.-C. Tsui  None            4               7 display              False snapshot                                                             
+   14 A5091278237           L TSUI  None            1               3 display              False snapshot                                                             
+   15 A5116879440    Lap-chee Tsui  None            1               0 display              False snapshot                                                             
+query 'Lap-Chee Tsui': picked A5111461700 Lap-Chee Tsui [most cited (17,950 vs 1,547 citations)]; same-name fragments A5096919099
+
+=== John R. Riordan
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5108426897 John R. Riordan                None          218           29220 display               True snapshot             University of North Carolina at Chapel Hill (US)
+    2 A5049914629    John Riordan 0000-0002-0957-652X          101            5186 display              False snapshot                                   Mater Health Services (AU)
+    3 A5108662603    J.R. Riordan                None           80            4742 display              False snapshot                                                             
+    4 A5035654884    J.R. Riordan                None           14            1691 display              False snapshot                                                             
+    5 A5037554345      J. Riordan                None            1            1021 display              False snapshot                                                             
+    6 A5082592304      J. Riordan                None            1             950 display              False snapshot                                                             
+    7 A5006957524      J. Riordan                None            1             460 display              False snapshot                                Harvard University Press (US)
+    8 A5069418203    John Riordan 0000-0002-7627-2083           57             323 display              False snapshot                                     Wellington Hospital (NZ)
+    9 A5045548484    John Riordan                None           17             147 display              False snapshot                                                             
+   10 A5083550644      J. Riordan 0000-0002-8793-8792           10              91 display              False snapshot Bar-Ilan University (IL); University of California, Santa Ba
+   11 A5043561032    J.R. Riordan                None            2              30 display              False snapshot                                                             
+   12 A5086917087      J. Riordan                None            1              22 display              False snapshot                                                             
+   13 A5084363381   J. R. Riordan                None            1              16 display              False snapshot                                                             
+   14 A5006056170       J Riordan                None            2              13 display              False snapshot                                                             
+   15 A5069831013      J. Riordan                None            1               9 display              False snapshot                                                             
+query 'John R. Riordan': picked A5108426897 John R. Riordan [only candidate at the given affiliation]
+
+=== Douglas R. Lowy
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id    display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5086620768 Douglas R. Lowy 0000-0003-0635-219X          558           49778 display               True snapshot Office of the Director (US); National Cancer Institute (MY);
+    2 A5112342498        D R Lowy                None           18            1953 display               True snapshot                               National Cancer Institute (US)
+    3 A5022749209        D R Lowy                None            1              18 display               True snapshot                                   Danish Cancer Society (DK)
+    4 A5111785787   Douglas Lowy†                None            1               9 display               True snapshot                               National Cancer Institute (US)
+    5 A5057488565         D. Lowy                None            1              86 display              False snapshot                                                             
+    6 A5026141248        D R Lowy                None            2              45 display              False snapshot                                                             
+    7 A5008499869       D.R. Lowy                None            1              15 display              False snapshot                                 Pediatrics and Genetics (US)
+    8 A5066009974      D. R. Lowy                None            1               5 display              False snapshot                                                             
+    9 A5034566052        D R Lowy                None            1               1 display              False snapshot                                                             
+   10 A5061741953         D. Lowy                None            1               0 display              False snapshot                                                             
+   11 A5006506763  Daniel A. Löwy 0000-0003-2210-6757          111            3790   alias              False snapshot National Research, Development and Innovation Office (HU); O
+query 'Douglas R. Lowy': picked A5086620768 Douglas R. Lowy [most cited (49,778 vs 1,953 citations)]
+
+=== Ian H. Frazer
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5048082417    Ian H. Frazer 0000-0002-8002-4680          508           16466 display               True snapshot Translational Research Institute (AU); Diamant (Germany) (DE
+    2 A5012349513        I. Frazer                None            1               0 display               True snapshot                                University of Queensland (AU)
+    3 A5037717265       Ian Frazer                None           15              57 display              False snapshot                                                             
+    4 A5046219374       Ian Frazer                None            4              13 display              False snapshot                                                             
+    5 A5067669891         I Frazer                None            1               2 display              False snapshot                                                             
+    6 A5099557764       Ian Frazer                None            1               2 display              False snapshot                                                             
+    7 A5090182205        I. Frazer                None            1               0 display              False snapshot                                                             
+    8 A5065199564 I. Heinis Frazer                None            1               0 display              False snapshot                                                             
+    9 A5093895138       Ian Frazer                None            1               0 display              False snapshot                                                             
+   10 A5099559030       Ian Frazer                None            1               0 display              False snapshot                                                             
+query 'Ian H. Frazer': picked A5048082417 Ian H. Frazer [most cited (16,466 vs 0 citations)]
+
+=== John T. Schiller
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5075430537 John T. Schiller 0000-0001-7308-950X          462           37791 display               True snapshot National Cancer Institute (US); National Institutes of Healt
+    2 A5113553636 John T. Schiller                None            5             409 display               True snapshot                              Center for Cancer Research (US)
+    3 A5111525065 John T. Schiller                None            4             348 display               True snapshot National Institutes of Health (US); National Cancer Institut
+    4 A5034709381     J T Schiller                None            1              18 display               True snapshot                               National Cancer Institute (US)
+    5 A5034839669      J. Schiller                None            1               2 display               True snapshot Northwestern University (US); Dana-Farber Cancer Institute (
+    6 A5109742334    John Schiller                None            1               0 display               True snapshot        Foundation for the National Institutes of Health (US)
+    7 A5112646900      J. Schiller                None           16            1179 display              False snapshot             United States Air Force Research Laboratory (US)
+    8 A5110013792       J Schiller                None           14             952 display              False snapshot                                                             
+    9 A5071305323    John Schiller                None           42             673 display              False snapshot                                                             
+   10 A5091847427       J Schiller                None           53             306 display              False snapshot                                                             
+   11 A5018529864      J. Schiller                None            2             106 display              False snapshot                                                             
+   12 A5111863379      J. Schiller                None           16              92 display              False snapshot                                                             
+   13 A5028337662       J Schiller                None            1              11 display              False snapshot                                      Leipzig University (DE)
+   14 A5036127642      J. Schiller                None            1               3 display              False snapshot                        Medizinische Hochschule Hannover (DE)
+   15 A5042499915      J. Schiller                None            2               3 display              False snapshot                                                             
+query 'John T. Schiller': picked A5075430537 John T. Schiller [most cited (37,791 vs 409 citations)]; same-name fragments A5113553636, A5111525065
+
+=== Eric Olson
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5084182062 Eric N. Olson 0000-0003-1151-8262          978          170324 display               True snapshot The University of Texas Southwestern Medical Center (US); Ba
+    2 A5090174401  Eric N Olson                None            1               0 display               True snapshot The University of Texas Southwestern Medical Center (US); St
+    3 A5014457914      E. Olson                None            1               0 display               True snapshot     The University of Texas Southwestern Medical Center (US)
+    4 A5076875133    Erin Olson                None           13             149   alias               True snapshot The University of Texas Southwestern Medical Center (US); So
+    5 A5073593571 Eric J. Olson                None          281           18173 display              False snapshot     Mayo Clinic (US); Atrium Health Wake Forest Baptist (US)
+    6 A5108356877 Eric R. Olson 0000-0001-6258-1275           80            7600 display              False snapshot                                  Wake Forest University (US)
+    7 A5088859622 Eric M. Olson                None           73            6525 display              False snapshot                                                             
+    8 A5085006811   E. J. Olson                None           79            6392 display              False snapshot                                                             
+    9 A5079239156 Eric C. Olson 0000-0002-1545-6532           69            5583 display              False snapshot Wake Forest University (US); Vanderbilt University Medical C
+   10 A5103591236   E. B. Olson                None           82            3298 display              False snapshot                                                             
+   11 A5048878440 Eric T. Olson                None          113            2667 display              False snapshot                                                             
+   12 A5109847432   E. A. Olson                None           65            1993 display              False snapshot Urbana University (US); University of Illinois Urbana-Champa
+   13 A5065162560   E. C. Olson                None          153            1473 display              False snapshot                                                             
+   14 A5082524044    Eric Olson 0000-0002-4527-1723           43            1184 display              False snapshot                               Michigan State University (US)
+   15 A5109886125 Eric A. Olson                None           22             896 display              False snapshot                                                             
+query 'Eric Olson': picked A5084182062 Eric N. Olson [most cited (170,324 vs 0 citations)]
+
+=== Timothy A. Springer
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id        display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5003615852 Timothy A. Springer 0000-0001-6627-2904          732          109878 display               True snapshot     Harvard University (US); Boston Children's Hospital (US)
+    2 A5110122894 Timothy A. Springer                None            3            2781 display               True snapshot     Harvard University (US); Boston Children's Hospital (US)
+    3 A5059984475       T.A. Springer                None            1              28 display               True snapshot                                      Harvard University (US)
+    4 A5113763192         TA Springer                None           15            1605   alias               True snapshot                                      Harvard University (US)
+    5 A5113573585 Timothy A. Springer                None            7            7351 display              False snapshot                                                             
+    6 A5111384180         T. Springer                None          111            6483 display              False snapshot                                                             
+    7 A5109890865      T. A. Springer                None          150            6357 display              False snapshot                              Southern Oregon University (US)
+    8 A5112346971         T. Springer                None          191            3074 display              False snapshot                                Forschungszentrum Jülich (DE)
+    9 A5077231663         T. Springer                None           10              85 display              False snapshot                                                             
+   10 A5035505660         T. Springer                None            1              69 display              False snapshot                                                             
+   11 A5027859782      T. A. Springer                None            1              55 display              False snapshot                                                             
+   12 A5065552381        T A Springer                None            3              33 display              False snapshot                                                             
+   13 A5014541329        T A Springer                None            3              32 display              False snapshot                                                             
+   14 A5042197394         T. Springer                None            6              29 display              False snapshot Klinik und Poliklinik für Psychotherapie und Psychosomatik (
+   15 A5072906627      T. A. Springer                None            1              25 display              False snapshot                                                             
+query 'Timothy A. Springer': picked A5003615852 Timothy A. Springer [most cited (109,878 vs 2,781 citations)]; same-name fragments A5110122894
+
+=== Michelle Monje
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id              display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5022800990            Michelle Monje 0000-0002-3547-237X          472           37625 display               True snapshot California Institute for Regenerative Medicine (US); Palo Al
+    2 A5121298175            Michelle Monje                None            2               0 display               True snapshot Howard Hughes Medical Institute (US); Stanford University (U
+    3 A5113928999              M. -C. Monje                None           26             127 display              False snapshot Institut National Polytechnique de Toulouse (FR); Université
+    4 A5110592997 M. Teresa Rodríguez Monje                None            4             118 display              False snapshot                                   Madrid Health Service (ES)
+    5 A5052980381                   M Monjé                None           13              24 display              False snapshot            Complexo Hospitalario Universitario A Coruña (ES)
+    6 A5113833835                 M-C Monje                None            1              18 display              False snapshot Laboratoire de Génie Chimique (FR); Université Toulouse III 
+    7 A5083713199             M. Romo Monje                None            6              15 display              False snapshot University Hospital Complex Of Vigo (ES); Complexo Hospitala
+    8 A5062283328             M. Romo Monje                None            2              14 display              False snapshot                                                             
+    9 A5029059272       M. J. Armenta-Monje                None            1              11 display              False snapshot                        Autonomous University of Sinaloa (MX)
+   10 A5110334175                  M. Monje                None            3               7 display              False snapshot                                                             
+   11 A5084396588                  M. Monje                None            4               4 display              False snapshot               Hospital General Nuestra Señora del Prado (ES)
+   12 A5009588589                  M. Monje                None            1               1 display              False snapshot     Hospital Universitari de Girona Doctor Josep Trueta (ES)
+   13 A5006120408                   M Monje                None            1               1 display              False snapshot                                                             
+   14 A5065900962                  M. Monjé                None            1               1 display              False snapshot                           Clinical Research Center Kiel (DE)
+   15 A5018978931                  M. Monjé                None            1               0 display              False snapshot                                                             
+query 'Michelle Monje': picked A5022800990 Michelle Monje [most cited (37,625 vs 0 citations)]; same-name fragments A5121298175
+
+=== Pamela J. Bjorkman
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id       display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5068857084 Pamela J. Björkman 0000-0002-2277-3990          513           53933 display              False snapshot University of Nottingham (GB); None (?); California Institut
+    2 A5010119836        P. Bjorkman                None            1              21 display              False snapshot                                                             
+    3 A5062216738        P. Björkman                None            1              11 display              False snapshot                                                             
+    4 A5020202514      P.J. Bjorkman                None            1               0 display              False snapshot                                                             
+    5 A5055756722      P.J. Bjorkman                None            1               0 display              False snapshot                                                             
+    6 A5013167706      P.J. Bjorkman                None            1               0 display              False snapshot                                                             
+    7 A5036491379        P. Bjorkman                None            1               0 display              False snapshot                                                             
+    8 A5039648644       Per Björkman 0000-0002-3697-9375          107            2240   alias              False snapshot         Lund University (SE); Skåne University Hospital (SE)
+    9 A5021949297   Patrick Björkman 0000-0001-6117-8361           33             393   alias              False snapshot Uppsala University (SE); University of Helsinki (FI); The Un
+query 'Pamela J. Bjorkman': picked A5068857084 Pamela J. Björkman [most cited (53,933 vs 21 citations)]
+
+=== Arnold J. Levine
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id     display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5089778846 Arnold J. Levine 0000-0002-1871-6387          646          130456 display               True snapshot University of Chicago (US); Institute for Advanced Study (US
+    2 A5110268724 Arnold J. Levine                None            7            2941 display               True snapshot                            Institute for Advanced Study (US)
+    3 A5110398704        AJ Levine                None            6             216   alias               True snapshot Rutgers, The State University of New Jersey (US); Center for
+    4 A5107881126        A. Levine                None          261           24413 display              False snapshot                                                             
+    5 A5073725126        A. Levine                None           53            9728 display              False snapshot                         University of Wisconsin–Madison (US)
+    6 A5107881814        A. Levine                None           76            3646 display              False snapshot                         University of Wisconsin–Madison (US)
+    7 A5113700662         A Levine                None           55            3636 display              False snapshot Evidation Health (United States) (US); Hitachi (Sweden) (SE)
+    8 A5110482421       A J Levine                None           21            3446 display              False snapshot                                                             
+    9 A5062649267        A. Levine                None           27            3443 display              False snapshot                         University of Wisconsin–Madison (US)
+   10 A5065131115        A. Levine                None           28            1780 display              False snapshot                         University of Wisconsin–Madison (US)
+   11 A5110042264   A. Joan Levine                None           32            1720 display              False snapshot                                                             
+   12 A5101768644        A. Levine 0000-0002-5094-9535           12            1641 display              False snapshot                                                     None (?)
+   13 A5105210089        A. Levine                None           11             820 display              False snapshot                         University of Wisconsin–Madison (US)
+   14 A5105624682        A. Levine                None           10             768 display              False snapshot                                                             
+   15 A5111570560        A. Levine                None           14             694 display              False snapshot                   Massachusetts Institute of Technology (US)
+query 'Arnold J. Levine': picked A5089778846 Arnold J. Levine [most cited (130,456 vs 2,941 citations)]; same-name fragments A5110268724
+
+=== David P. Lane
+OpenAlex author search not reachable (HTTPError): snapshot candidates only
+ rank   author_id  display_name               orcid  works_count  cited_by_count   match  affiliation_match   source                                                 institutions
+    1 A5019407635 David P. Lane 0000-0003-0551-3545          958           78541 display               True snapshot Karolinska Institutet (SE); Houston Fertility Institute (US)
+    2 A5112380551  David P Lane                None            1               0 display               True snapshot Karolinska Institutet (SE); Science for Life Laboratory (SE)
+    3 A5070623592    David Lane 0000-0002-8656-4725          154           30956 display              False snapshot                                                             
+    4 A5103152784    David Lane 0000-0003-1891-7872          238            1984 display              False snapshot                        Emmanuel College - Massachusetts (US)
+    5 A5111366356    David Lane                None           87            1449 display              False snapshot                                         Rice University (US)
+    6 A5113669284    David Lane                None           43             912 display              False snapshot    AdventHealth Orlando (US); AdventHealth East Orlando (US)
+    7 A5002782769       D. Lane                None            6             536 display              False snapshot                           St. Francis Xavier University (CA)
+    8 A5106720601        D Lane                None            6             484 display              False snapshot Aalborg University (DK); Liverpool Heart and Chest Hospital 
+    9 A5113654571       D. Lane                None           13             474 display              False snapshot                                                             
+   10 A5103411393    David Lane                None           11             462 display              False snapshot  Laboratoire de Microbiologie et Génétique Moléculaires (FR)
+   11 A5047680526    David Lane                None            8             192 display              False snapshot                                  University of Virginia (US)
+   12 A5081389706    David Lane 0000-0002-4763-7258           16             121 display              False snapshot                                      Cornell University (US)
+   13 A5013817152    David Lane                None            7             102 display              False snapshot                                                             
+   14 A5109886948       D. Lane                None            5              94 display              False snapshot                    Woods Hole Oceanographic Institution (US)
+   15 A5110809098       D. Lane                None            3              83 display              False snapshot                                      Uppsala University (SE)
+query 'David P. Lane': picked A5019407635 David P. Lane [most cited (78,541 vs 0 citations)]

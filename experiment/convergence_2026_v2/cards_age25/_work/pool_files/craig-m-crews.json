@@ -1,0 +1,655 @@
+{
+ "person": "Craig M. Crews",
+ "profile": "A5016866989",
+ "ids": [
+  "A5016866989"
+ ],
+ "options": [
+  "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies",
+  "for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases — Craig M. Crews, Raymond J. Deshaies, Stuart L. Schreiber"
+ ],
+ "birth_year": 1964,
+ "cutoff_year": 1989,
+ "works": [
+  {
+   "paper_id": "W2151683271",
+   "year": 2001,
+   "cited_by_count": 2283,
+   "title": "Protacs: Chimeric molecules that target proteins to the Skp1–Cullin–F box complex for ubiquitination and degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2553908226",
+   "year": 2016,
+   "cited_by_count": 1336,
+   "title": "Induced protein degradation: an emerging drug discovery paradigm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1512690422",
+   "year": 2015,
+   "cited_by_count": 1235,
+   "title": "Catalytic in vivo protein knockdown by small-molecule PROTACs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1488181101",
+   "year": 2015,
+   "cited_by_count": 1091,
+   "title": "Hijacking the E3 Ubiquitin Ligase Cereblon to Efficiently Target BRD4",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3000673710",
+   "year": 2020,
+   "cited_by_count": 1085,
+   "title": "Proteolysis-Targeting Chimeras as Therapeutics and Tools for Biological Discovery",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992494265",
+   "year": 1992,
+   "cited_by_count": 928,
+   "title": "The Primary Structure of MEK, a Protein Kinase that Phosphorylates the ERK Gene Product",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159831275",
+   "year": 1999,
+   "cited_by_count": 927,
+   "title": "Epoxomicin, a potent and selective proteasome inhibitor, exhibits in vivo antiinflammatory activity",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2982554531",
+   "year": 2019,
+   "cited_by_count": 860,
+   "title": "Targeted protein degradation: expanding the toolbox",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767856718",
+   "year": 2017,
+   "cited_by_count": 857,
+   "title": "Lessons in PROTAC Design from Selective Degradation with a Promiscuous Warhead",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2409568753",
+   "year": 2016,
+   "cited_by_count": 795,
+   "title": "PROTAC-induced BET protein degradation as a therapy for castration-resistant prostate cancer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2912114516",
+   "year": 2019,
+   "cited_by_count": 723,
+   "title": "PROteolysis TArgeting Chimeras (PROTACs) — Past, present and future",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146907709",
+   "year": 2007,
+   "cited_by_count": 640,
+   "title": "Molecular Understanding and Modern Application of Traditional Medicines: Triumphs and Trials",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2767251210",
+   "year": 2017,
+   "cited_by_count": 631,
+   "title": "The Advantages of Targeted Protein Degradation Over Inhibition: An RTK Case Study",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107257265",
+   "year": 1997,
+   "cited_by_count": 622,
+   "title": "The anti-angiogenic agent fumagillin covalently binds and inhibits the methionine aminopeptidase, MetAP-2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2237051895",
+   "year": 2016,
+   "cited_by_count": 615,
+   "title": "Small‐Molecule PROTACS: New Approaches to Protein Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2176682109",
+   "year": 2015,
+   "cited_by_count": 600,
+   "title": "Modular PROTAC Design for the Degradation of Oncogenic BCR‐ABL",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2589026097",
+   "year": 2017,
+   "cited_by_count": 592,
+   "title": "Targeted protein degradation by PROTACs",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083469632",
+   "year": 2008,
+   "cited_by_count": 569,
+   "title": "Targeted intracellular protein degradation induced by a small molecule: En route to chemical proteomics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2936661052",
+   "year": 2019,
+   "cited_by_count": 560,
+   "title": "Targeted protein degradation: elements of PROTAC design",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994344724",
+   "year": 2012,
+   "cited_by_count": 535,
+   "title": "Targeting the von Hippel–Lindau E3 Ubiquitin Ligase Using Small Molecules To Disrupt the VHL/HIF-1α Interaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2909353434",
+   "year": 2019,
+   "cited_by_count": 534,
+   "title": "Differential PROTAC substrate specificity dictated by orientation of recruited E3 ligase",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149609961",
+   "year": 2001,
+   "cited_by_count": 518,
+   "title": "The anti-inflammatory natural product parthenolide from the medicinal herb Feverfew directly binds to and inhibits IκB kinase",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025031463",
+   "year": 2004,
+   "cited_by_count": 450,
+   "title": "Chemical Genetic Control of Protein Levels: Selective in Vivo Targeted Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2292464399",
+   "year": 2015,
+   "cited_by_count": 448,
+   "title": "HaloPROTACS: Use of Small Molecule PROTACs to Induce Degradation of HaloTag Fusion Proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3040830058",
+   "year": 2020,
+   "cited_by_count": 437,
+   "title": "Targeted Degradation of Oncogenic KRAS G12C by VHL-Recruiting PROTACs",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085785716",
+   "year": 1998,
+   "cited_by_count": 436,
+   "title": "Structure of Human Methionine Aminopeptidase-2 Complexed with Fumagillin",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978726512",
+   "year": 2001,
+   "cited_by_count": 433,
+   "title": "The ubiquitin‐proteasome pathway and proteasome inhibitors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998084304",
+   "year": 1993,
+   "cited_by_count": 428,
+   "title": "Extracellular signals and reversible protein phosphorylation: What to Mek of it all",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3049656208",
+   "year": 2020,
+   "cited_by_count": 426,
+   "title": "PROTACs: An Emerging Therapeutic Modality in Precision Medicine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982166691",
+   "year": 2011,
+   "cited_by_count": 398,
+   "title": "Small-molecule hydrophobic tagging–induced degradation of HaloTag fusion proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131441324",
+   "year": 2003,
+   "cited_by_count": 393,
+   "title": "Development of Protacs to Target Cancer-promoting Proteins for Ubiquitination and Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2704517448",
+   "year": 2017,
+   "cited_by_count": 390,
+   "title": "Targeted Protein Degradation: from Chemical Biology to Drug Discovery",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2805296794",
+   "year": 2018,
+   "cited_by_count": 358,
+   "title": "Targeting the C481S Ibrutinib-Resistance Mutation in Bruton’s Tyrosine Kinase Using PROTAC-Mediated Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2898621430",
+   "year": 2018,
+   "cited_by_count": 350,
+   "title": "MDM2-Recruiting PROTAC Offers Superior, Synergistic Antiproliferative Activity via Simultaneous Degradation of BRD4 and Stabilization of p53",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2883077013",
+   "year": 2018,
+   "cited_by_count": 334,
+   "title": "Androgen receptor degradation by the proteolysis-targeting chimera ARCC-4 outperforms enzalutamide in cellular models of prostate cancer drug resistance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108595411",
+   "year": 2003,
+   "cited_by_count": 333,
+   "title": "Selective inhibitors of the osteoblast proteasome stimulate bone formation in vivo and in vitro",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4235721540",
+   "year": 2000,
+   "cited_by_count": 295,
+   "title": "Crystal Structure of Epoxomicin:20S Proteasome Reveals a Molecular Basis for Selectivity of α‘,β‘-Epoxyketone Proteasome Inhibitors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2743800043",
+   "year": 2017,
+   "cited_by_count": 278,
+   "title": "Small-Molecule Modulation of Protein Homeostasis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003632864",
+   "year": 2012,
+   "cited_by_count": 275,
+   "title": "Small‐Molecule Inhibitors of the Interaction between the E3 Ligase VHL and HIF1α",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2974217727",
+   "year": 2019,
+   "cited_by_count": 272,
+   "title": "Reversible Spatiotemporal Control of Induced Protein Degradation by Bistable PhotoPROTACs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2901669535",
+   "year": 2018,
+   "cited_by_count": 270,
+   "title": "Addressing Kinase-Independent Functions of Fak via PROTAC-Mediated Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2596306432",
+   "year": 2017,
+   "cited_by_count": 261,
+   "title": "Waste disposal—An attractive strategy for cancer therapy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998357223",
+   "year": 2011,
+   "cited_by_count": 254,
+   "title": "A genetic interaction network of five genes for human polycystic kidney and liver diseases defines polycystin-1 as the central determinant of cyst formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1874095272",
+   "year": 1993,
+   "cited_by_count": 251,
+   "title": "Reconstitution of the Raf-1-MEK-ERK signal transduction pathway in vitro.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2735419424",
+   "year": 2017,
+   "cited_by_count": 244,
+   "title": "Identification and Characterization of Von Hippel-Lindau-Recruiting Proteolysis Targeting Chimeras (PROTACs) of TANK-Binding Kinase 1",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077339073",
+   "year": 1992,
+   "cited_by_count": 237,
+   "title": "Purification of a murine protein-tyrosine/threonine kinase that phosphorylates and activates the Erk-1 gene product: relationship to the fission yeast byr1 gene product.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2102570939",
+   "year": 2007,
+   "cited_by_count": 237,
+   "title": "Triptolide is a traditional Chinese medicine-derived inhibitor of polycystic kidney disease",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3153520238",
+   "year": 2021,
+   "cited_by_count": 232,
+   "title": "Major advances in targeted protein degradation: PROTACs, LYTACs, and MADTACs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3161698207",
+   "year": 2021,
+   "cited_by_count": 230,
+   "title": "Targeted protein degradation: A promise for undruggable proteins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2956604676",
+   "year": 2019,
+   "cited_by_count": 225,
+   "title": "Targeting BCR-ABL1 in Chronic Myeloid Leukemia by PROTAC-Mediated Targeted Protein Degradation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2593430295",
+   "year": 2017,
+   "cited_by_count": 214,
+   "title": "Proteolysis-Targeting Chimeras: Induced Protein Degradation as a Therapeutic Strategy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066875565",
+   "year": 1999,
+   "cited_by_count": 205,
+   "title": "Total synthesis of the-potent proteasome inhibitor epoxomicin: a useful tool for understanding proteasome biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117170436",
+   "year": 2015,
+   "cited_by_count": 202,
+   "title": "Small‐Molecule‐Mediated Degradation of the Androgen Receptor through Hydrophobic Tagging",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043526119",
+   "year": 2008,
+   "cited_by_count": 201,
+   "title": "Targeting steroid hormone receptors for ubiquitination and degradation in breast and prostate cancer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2921193449",
+   "year": 2019,
+   "cited_by_count": 197,
+   "title": "ARV-110: An oral androgen receptor PROTAC degrader for prostate cancer.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3138842056",
+   "year": 2021,
+   "cited_by_count": 197,
+   "title": "Proteolysis targeting chimeras (PROTACs) come of age: entering the third decade of targeted protein degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3198775252",
+   "year": 2021,
+   "cited_by_count": 196,
+   "title": "Recent Developments in PROTAC‐Mediated Protein Degradation: From Bench to Clinic",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998944024",
+   "year": 2014,
+   "cited_by_count": 194,
+   "title": "Pharmacological targeting of the pseudokinase Her3",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2530302741",
+   "year": 2016,
+   "cited_by_count": 191,
+   "title": "Targeted Protein Degradation by Small Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065136554",
+   "year": 2012,
+   "cited_by_count": 190,
+   "title": "Dissecting Fragment-Based Lead Discovery at the von Hippel-Lindau Protein:Hypoxia Inducible Factor 1α Protein-Protein Interface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137755780",
+   "year": 2007,
+   "cited_by_count": 181,
+   "title": "Molecular and Cellular Basis of Regeneration and Tissue Repair",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2563465351",
+   "year": 2017,
+   "cited_by_count": 179,
+   "title": "Novel BET protein proteolysis-targeting chimera exerts superior lethal activity than bromodomain inhibitor (BETi) against post-myeloproliferative neoplasm secondary (s) AML cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1657713219",
+   "year": 1989,
+   "cited_by_count": 171,
+   "title": "Sequence and expression of chicken and mouse rsk: homologs of Xenopus laevis ribosomal S6 kinase.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163553489",
+   "year": 2013,
+   "cited_by_count": 171,
+   "title": "From epoxomicin to carfilzomib: chemistry, biology, and medical outcomes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982810302",
+   "year": 2013,
+   "cited_by_count": 169,
+   "title": "Posttranslational protein knockdown coupled to receptor tyrosine kinase activation with phosphoPROTACs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2740493003",
+   "year": 2017,
+   "cited_by_count": 169,
+   "title": "Assessing Different E3 Ligases for Small Molecule Induced Protein Ubiquitination and Degradation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2900888512",
+   "year": 2018,
+   "cited_by_count": 167,
+   "title": "Enhancing Antiproliferative Activity and Selectivity of a FLT-3 Inhibitor by Proteolysis Targeting Chimera Conversion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048127269",
+   "year": 1992,
+   "cited_by_count": 166,
+   "title": "Interleukin 2 stimulation of p70 S6 kinase activity is inhibited by the immunosuppressant rapamycin.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2732893177",
+   "year": 2017,
+   "cited_by_count": 165,
+   "title": "BET protein proteolysis targeting chimera (PROTAC) exerts potent lethal activity against mantle cell lymphoma cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3144996175",
+   "year": 2021,
+   "cited_by_count": 162,
+   "title": "Targeted degradation of transcription factors by TRAFTACs: TRAnscription Factor TArgeting Chimeras",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990350046",
+   "year": 2008,
+   "cited_by_count": 160,
+   "title": "Design and Applications of Bifunctional Small Molecules: Why Two Heads Are Better Than One",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1894416004",
+   "year": 1999,
+   "cited_by_count": 156,
+   "title": "Eponemycin exerts its antitumor effect through the inhibition of proteasome function.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054746486",
+   "year": 2014,
+   "cited_by_count": 155,
+   "title": "Small‐Molecule Control of Intracellular Protein Levels through Modulation of the Ubiquitin Proteasome System",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002660438",
+   "year": 2004,
+   "cited_by_count": 153,
+   "title": "Total Synthesis of TMC-95A and -B via a New Reaction Leading to Z-Enamides. Some Preliminary Findings as to SAR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996091402",
+   "year": 1999,
+   "cited_by_count": 152,
+   "title": "Towards subunit-specific proteasome inhibitors: synthesis and evaluation of peptide α', β'-epoxyketones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074440680",
+   "year": 2010,
+   "cited_by_count": 150,
+   "title": "Targeting the Undruggable Proteome: The Small Molecules of My Dreams",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1514008151",
+   "year": 1994,
+   "cited_by_count": 140,
+   "title": "GTP-dependent binding of the antiproliferative agent didemnin to elongation factor 1 alpha.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122394289",
+   "year": 1992,
+   "cited_by_count": 132,
+   "title": "Erks: their fifteen minutes has arrived.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2744284720",
+   "year": 2017,
+   "cited_by_count": 131,
+   "title": "The Proteasome in Modern Drug Discovery: Second Life of a Highly Valuable Drug Target",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3127094302",
+   "year": 2021,
+   "cited_by_count": 127,
+   "title": "Mutant-selective degradation by BRAF-targeting PROTACs",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

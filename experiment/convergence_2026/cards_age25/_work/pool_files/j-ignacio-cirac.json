@@ -1,0 +1,654 @@
+{
+ "person": "J. Ignacio Cirac",
+ "profile": "A5083228566",
+ "ids": [
+  "A5083228566"
+ ],
+ "options": [
+  "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices — Immanuel Bloch, J. Ignacio Cirac, Peter Zoller"
+ ],
+ "birth_year": 1965,
+ "cutoff_year": 1990,
+ "works": [
+  {
+   "paper_id": "W2067763535",
+   "year": 1995,
+   "cited_by_count": 3640,
+   "title": "Quantum Computations with Cold Trapped Ions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035413341",
+   "year": 1998,
+   "cited_by_count": 3559,
+   "title": "Cold Bosonic Atoms in Optical Lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2133157165",
+   "year": 2001,
+   "cited_by_count": 3502,
+   "title": "Long-distance quantum communication with atomic ensembles and linear optics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974928788",
+   "year": 2000,
+   "cited_by_count": 3310,
+   "title": "Three qubits can be entangled in two inequivalent ways",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092105345",
+   "year": 1998,
+   "cited_by_count": 3289,
+   "title": "Quantum Repeaters: The Role of Imperfect Local Operations in Quantum Communication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2923537029",
+   "year": 2019,
+   "cited_by_count": 2283,
+   "title": "Machine learning and the physical sciences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017077355",
+   "year": 1997,
+   "cited_by_count": 2145,
+   "title": "Quantum State Transfer and Entanglement Distribution among Distant Nodes in a Quantum Network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106725754",
+   "year": 2000,
+   "cited_by_count": 2012,
+   "title": "Inseparability Criterion for Continuous Variable Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096391265",
+   "year": 2008,
+   "cited_by_count": 1699,
+   "title": "Matrix product states, projected entangled pair states, and variational renormalization group methods for quantum spin systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2030096869",
+   "year": 2004,
+   "cited_by_count": 1596,
+   "title": "Tonks–Girardeau gas of ultracold atoms in an optical lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042458092",
+   "year": 2001,
+   "cited_by_count": 1575,
+   "title": "Dipole Blockade and Quantum Information Processing in Mesoscopic Atomic Ensembles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099265531",
+   "year": 2009,
+   "cited_by_count": 1521,
+   "title": "Quantum computation and quantum-state engineering driven by dissipation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014586701",
+   "year": 2000,
+   "cited_by_count": 1489,
+   "title": "Fast Quantum Gates for Neutral Atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1550516781",
+   "year": 2004,
+   "cited_by_count": 1069,
+   "title": "Matrix Product Density Operators: Simulation of Finite-Temperature and Dissipative Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2015876000",
+   "year": 1997,
+   "cited_by_count": 966,
+   "title": "Improvement of Frequency Standards with Quantum Entanglement",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1816400090",
+   "year": 2001,
+   "cited_by_count": 926,
+   "title": "Many-particle entanglement with Bose–Einstein condensates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044154164",
+   "year": 2012,
+   "cited_by_count": 895,
+   "title": "Goals and opportunities in quantum simulation",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1998198964",
+   "year": 2004,
+   "cited_by_count": 856,
+   "title": "Effective Quantum Spin Systems with Trapped Ions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2107641573",
+   "year": 2006,
+   "cited_by_count": 854,
+   "title": "Quantum teleportation between light and matter",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144733224",
+   "year": 2012,
+   "cited_by_count": 846,
+   "title": "Room-Temperature Quantum Bit Memory Exceeding One Second",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163142987",
+   "year": 2004,
+   "cited_by_count": 835,
+   "title": "Experimental demonstration of quantum memory for light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1974645033",
+   "year": 2011,
+   "cited_by_count": 808,
+   "title": "Time-Dependent Variational Principle for Quantum Lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1942206397",
+   "year": 2011,
+   "cited_by_count": 779,
+   "title": "Classifying quantum phases using matrix product states and projected entangled pair states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084336605",
+   "year": 1999,
+   "cited_by_count": 778,
+   "title": "Entanglement of Atoms via Cold Controlled Collisions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027926771",
+   "year": 1995,
+   "cited_by_count": 774,
+   "title": "Decoherence, Continuous Observation, and Quantum Computing: A Cavity QED Model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059023154",
+   "year": 2001,
+   "cited_by_count": 773,
+   "title": "Geometric Manipulation of Trapped Ions for Quantum Computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000446243",
+   "year": 1999,
+   "cited_by_count": 747,
+   "title": "Quantum repeaters based on entanglement purification",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077593662",
+   "year": 2011,
+   "cited_by_count": 735,
+   "title": "Majorana Fermions in Equilibrium and in Driven Cold-Atom Quantum Wires",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2092285095",
+   "year": 1996,
+   "cited_by_count": 729,
+   "title": "Quantum Reservoir Engineering with Laser Cooled Trapped Ions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4200400528",
+   "year": 2021,
+   "cited_by_count": 709,
+   "title": "Matrix product states and projected entangled pair states: Concepts, symmetries, theorems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066972040",
+   "year": 2006,
+   "cited_by_count": 705,
+   "title": "Matrix product states represent ground states faithfully",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014461107",
+   "year": 2008,
+   "cited_by_count": 698,
+   "title": "Area Laws in Quantum Systems: Mutual Information and Correlations",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167325579",
+   "year": 2008,
+   "cited_by_count": 693,
+   "title": "Classical Simulation of Infinite-Size Quantum Lattice Systems in Two Spatial Dimensions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965928854",
+   "year": 1997,
+   "cited_by_count": 667,
+   "title": "Complete Characterization of a Quantum Process: The Two-Bit Quantum Gate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063693490",
+   "year": 2000,
+   "cited_by_count": 666,
+   "title": "Optimization of entanglement witnesses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006763149",
+   "year": 2000,
+   "cited_by_count": 657,
+   "title": "Sonic Analog of Gravitational Black Holes in Bose-Einstein Condensates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982970299",
+   "year": 1999,
+   "cited_by_count": 621,
+   "title": "Distributed quantum computation over noisy channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1582766254",
+   "year": 2008,
+   "cited_by_count": 598,
+   "title": "Assessing Non-Markovian Quantum Dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1585991502",
+   "year": 2006,
+   "cited_by_count": 574,
+   "title": "Matrix Product State Representations",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1987390099",
+   "year": 1999,
+   "cited_by_count": 572,
+   "title": "Creation of entangled states of distant atoms by interference",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1973224679",
+   "year": 2004,
+   "cited_by_count": 569,
+   "title": "Density Matrix Renormalization Group and Periodic Boundary Conditions: A Quantum Information Perspective",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007145690",
+   "year": 2011,
+   "cited_by_count": 566,
+   "title": "Entanglement Generated by Dissipation and Steady State Entanglement of Two Macroscopic Objects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035298342",
+   "year": 2006,
+   "cited_by_count": 566,
+   "title": "Criticality, the Area Law, and the Computational Power of Projected Entangled Pair States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013276173",
+   "year": 2002,
+   "cited_by_count": 545,
+   "title": "Characterization of Gaussian operations and distillation of Gaussian states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2949757588",
+   "year": 2007,
+   "cited_by_count": 533,
+   "title": "Matrix product state representations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1540681610",
+   "year": 2000,
+   "cited_by_count": 510,
+   "title": "A scalable quantum computer with ions in an array of microtraps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3101721439",
+   "year": 2019,
+   "cited_by_count": 477,
+   "title": "Simulating lattice gauge theories within quantum technologies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050146474",
+   "year": 2004,
+   "cited_by_count": 465,
+   "title": "Entanglement versus Correlations in Spin Systems",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005980717",
+   "year": 2011,
+   "cited_by_count": 463,
+   "title": "Large Quantum Superpositions and Interference of Massive Nanometer-Sized Objects",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096289407",
+   "year": 2010,
+   "cited_by_count": 444,
+   "title": "Toward quantum superposition of living organisms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023777298",
+   "year": 1998,
+   "cited_by_count": 434,
+   "title": "Quantum superposition states of Bose-Einstein condensates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1991583534",
+   "year": 2002,
+   "cited_by_count": 433,
+   "title": "High-Temperature Superfluidity of Fermionic Atoms in Optical Lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024927943",
+   "year": 2008,
+   "cited_by_count": 427,
+   "title": "Strong Dissipation Inhibits Losses and Induces Correlations in Cold Molecular Gases",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1918709909",
+   "year": 2015,
+   "cited_by_count": 421,
+   "title": "Quantum simulations of lattice gauge theories using ultracold atoms in optical lattices",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2029289973",
+   "year": 2001,
+   "cited_by_count": 417,
+   "title": "Optimal creation of entanglement using a two-qubit gate",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970474373",
+   "year": 1996,
+   "cited_by_count": 411,
+   "title": "Low Energy Excitations of a Bose-Einstein Condensate: A Time-Dependent Variational Analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054381333",
+   "year": 2008,
+   "cited_by_count": 397,
+   "title": "Entropy Scaling and Simulability by Matrix Product States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035386001",
+   "year": 1997,
+   "cited_by_count": 388,
+   "title": "Dynamics of Bose-Einstein condensates: Variational solutions of the Gross-Pitaevskii equations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2006664108",
+   "year": 2001,
+   "cited_by_count": 386,
+   "title": "Quantum correlations in two-fermion systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2165008728",
+   "year": 2009,
+   "cited_by_count": 381,
+   "title": "Renormalization and tensor product states in spin chains and lattices",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2945721920",
+   "year": 2019,
+   "cited_by_count": 367,
+   "title": "The 2019 surface acoustic waves roadmap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2024420461",
+   "year": 2004,
+   "cited_by_count": 364,
+   "title": "Diverging Entanglement Length in Gapped Quantum Spin Systems",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014237348",
+   "year": 2010,
+   "cited_by_count": 356,
+   "title": "Matrix product operator representations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970399496",
+   "year": 2011,
+   "cited_by_count": 354,
+   "title": "Strong and Weak Thermalization of Infinite Nonintegrable Quantum Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979872943",
+   "year": 2009,
+   "cited_by_count": 347,
+   "title": "de Finetti Representation Theorem for Infinite-Dimensional Quantum Systems and Applications to Quantum Cryptography",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106502150",
+   "year": 2005,
+   "cited_by_count": 345,
+   "title": "Quantum information processing and communication",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086731084",
+   "year": 2005,
+   "cited_by_count": 330,
+   "title": "Sequential Generation of Entangled Multiqubit States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156825769",
+   "year": 2012,
+   "cited_by_count": 330,
+   "title": "Dissipative phase transition in a central spin system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967937588",
+   "year": 2015,
+   "cited_by_count": 328,
+   "title": "Subwavelength vacuum lattices and atom–atom interactions in two-dimensional photonic crystals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078330415",
+   "year": 2004,
+   "cited_by_count": 319,
+   "title": "Valence-bond states for quantum computation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040540537",
+   "year": 2003,
+   "cited_by_count": 314,
+   "title": "Entanglement of Formation for Symmetric Gaussian States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964713133",
+   "year": 2007,
+   "cited_by_count": 303,
+   "title": "Computational Complexity of Projected Entangled Pair States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045866309",
+   "year": 1992,
+   "cited_by_count": 298,
+   "title": "Laser cooling of trapped ions in a standing wave",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057574680",
+   "year": 2006,
+   "cited_by_count": 297,
+   "title": "Extremality of Gaussian Quantum States",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988562316",
+   "year": 2000,
+   "cited_by_count": 294,
+   "title": "Quantum Communication between Atomic Ensembles Using Coherent Light",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039528854",
+   "year": 2001,
+   "cited_by_count": 291,
+   "title": "Sonic black holes in dilute Bose-Einstein condensates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052344514",
+   "year": 2008,
+   "cited_by_count": 289,
+   "title": "Dividing Quantum Channels",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2052912259",
+   "year": 2000,
+   "cited_by_count": 289,
+   "title": "Classification of multiqubit mixed states: Separability and distillability properties",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2062476673",
+   "year": 2011,
+   "cited_by_count": 280,
+   "title": "Entanglement spectrum and boundary theories with projected entangled-pair states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045954942",
+   "year": 1999,
+   "cited_by_count": 276,
+   "title": "Separability and Distillability of Multiparticle Quantum Systems",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

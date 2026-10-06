@@ -1,0 +1,33 @@
+# Chi-Huey Wong
+
+Affiliation: Scripps Research Institute; Genomics Research Center, Academia Sinica.
+Listed under: option "for the development of programmable and chemoenzymatic synthesis of complex carbohydrates and glycoproteins — Chi-Huey Wong".
+Prior Nobel Prize: none.
+
+## Impact
+- Research works analysed: 900 (published 1976-2021).
+- Median impact percentile: 0.80 (higher than 28 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Works in the cohort top 10 %: 36 % (higher than 28 % of the 61 Chemistry laureates of 2000-2025 at prize time); top 1 %: 5 % (higher than 18 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+
+## Three defining works (most cited research works)
+1. "Broad neutralization coverage of HIV by multiple highly potent antibodies" (2011): impact percentile 1.00, disruption percentile 0.00, Foundation share 0.77, cited by 195 inventions and 1 book.
+2. "Recognition of bacterial glycosphingolipids by natural killer T cells" (2005): impact percentile 1.00, disruption percentile 0.00, Foundation share 0.60, cited by 29 inventions and 1 book.
+3. "Enzymes for chemical synthesis" (2001): impact percentile 1.00, disruption percentile 0.35, Foundation share 0.24, cited by 116 inventions and 10 books.
+
+## Patents tied to the discovery
+- About 45 of the person's 157 US utility patents (granted up to 2021) relate to the listed discovery; the 3 most tied to it:
+1. US 6,538,117 "Programmable one-pot oligosaccharide synthesis" (filed 2001, granted 2003; assignee The Scripps Research Institute): cited by 7 later US patents.
+2. US 5,278,299 "Method and composition for synthesizing sialylated glycosyl compounds" (filed 1991, granted 1994; assignee Scripps Clinic and Research Foundation): cited by 106 later US patents.
+3. US 5,369,017 "Process for solid phase glycopeptide synthesis" (filed 1994, granted 1994; assignee The Scripps Research Institute): cited by 90 later US patents.
+
+## Technological translation
+- Distinct citing inventions: 2,845 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Own US utility patents: 157 (higher than all 61 Chemistry laureates of 2000-2025 at prize time).
+
+## Textbook reach
+- Works cited by books: 565 (higher than 97 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+- Distinct citing books: 1,784 (higher than 87 % of the 61 Chemistry laureates of 2000-2025 at prize time).
+
+## Collaboration
+- Nobel laureate co-authors: Bengt I. Samuelsson (Medicine 1982; 9 shared works); K. Barry Sharpless (Chemistry 2001; 4 shared works); Bruce A. Beutler (Medicine 2011; 1 shared work); Frances H. Arnold (Chemistry 2018; 2 shared works).
+- People who are both co-authors and co-inventors: 174.

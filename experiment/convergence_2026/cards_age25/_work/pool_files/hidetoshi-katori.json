@@ -1,0 +1,654 @@
+{
+ "person": "Hidetoshi Katori",
+ "profile": "A5081417357",
+ "ids": [
+  "A5081417357"
+ ],
+ "options": [
+  "for the invention and development of optical lattice clocks, enabling time and frequency measurements at unprecedented precision — Jun Ye, Hidetoshi Katori"
+ ],
+ "birth_year": 1964,
+ "cutoff_year": 1989,
+ "works": [
+  {
+   "paper_id": "W2008960355",
+   "year": 2005,
+   "cited_by_count": 804,
+   "title": "An optical lattice clock",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043850228",
+   "year": 2015,
+   "cited_by_count": 603,
+   "title": "Cryogenic optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963885768",
+   "year": 2003,
+   "cited_by_count": 541,
+   "title": "Ultrastable Optical Clock with Neutral Atoms in an Engineered Light Shift Trap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3014491804",
+   "year": 2020,
+   "cited_by_count": 455,
+   "title": "Test of general relativity by a pair of transportable optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069914545",
+   "year": 2008,
+   "cited_by_count": 420,
+   "title": "Quantum State Engineering and Precision Metrology Using State-Insensitive Light Traps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995655737",
+   "year": 1999,
+   "cited_by_count": 352,
+   "title": "Magneto-Optical Trapping and Cooling of Strontium Atoms down to the Photon Recoil Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043307605",
+   "year": 2008,
+   "cited_by_count": 321,
+   "title": "New Limits on Coupling of Fundamental Constants to Gravity Using Sr87 Optical Lattice Clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980682680",
+   "year": 2011,
+   "cited_by_count": 265,
+   "title": "Optical lattice clocks and quantum metrology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076937669",
+   "year": 2011,
+   "cited_by_count": 241,
+   "title": "Colloquium : Physics of optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2507517442",
+   "year": 2016,
+   "cited_by_count": 234,
+   "title": "Geopotential measurements with synchronously linked optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2287800111",
+   "year": 2016,
+   "cited_by_count": 211,
+   "title": "Frequency ratio of Yb and Sr clocks with 5 × 10−17 uncertainty at 150 seconds averaging time",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027945449",
+   "year": 2008,
+   "cited_by_count": 173,
+   "title": "Trapping of Neutral Mercury Atoms and Prospects for Optical Lattice Clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054663485",
+   "year": 2003,
+   "cited_by_count": 170,
+   "title": "Recoil-Free Spectroscopy of Neutral Sr Atoms in the Lamb-Dicke Regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985370373",
+   "year": 2003,
+   "cited_by_count": 161,
+   "title": "Spectroscopy of the S01−P03 Clock Transition of Sr87 in an Optical Lattice",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965843696",
+   "year": 2011,
+   "cited_by_count": 155,
+   "title": "Frequency comparison of optical lattice clocks beyond the Dick limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065978466",
+   "year": 1999,
+   "cited_by_count": 152,
+   "title": "Optimal Design of Dipole Potentials for Efficient Loading of Sr Atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999658039",
+   "year": 2008,
+   "cited_by_count": 144,
+   "title": "Optical lattice clocks with non-interacting bosons and fermions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2020868219",
+   "year": 1997,
+   "cited_by_count": 142,
+   "title": "Anomalous Dynamics of a Single Ion in an Optical Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2066746329",
+   "year": 2003,
+   "cited_by_count": 126,
+   "title": "Recoil-Limited Laser Cooling of Sr87 Atoms near the Fermi Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070410132",
+   "year": 2006,
+   "cited_by_count": 124,
+   "title": "Improved Frequency Measurement of a One-Dimensional Optical Lattice Clock with a Spin-Polarized Fermionic87Sr Isotope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007132189",
+   "year": 2009,
+   "cited_by_count": 112,
+   "title": "Measuring the frequency of a Sr optical lattice clock using a 120 km coherent optical transfer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2907461682",
+   "year": 2018,
+   "cited_by_count": 104,
+   "title": "Operational Magic Intensity for Sr Optical Lattice Clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144073969",
+   "year": 2014,
+   "cited_by_count": 99,
+   "title": "Lamb-Dicke spectroscopy of atoms in a hollow-core photonic crystal fibre",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031301737",
+   "year": 2000,
+   "cited_by_count": 98,
+   "title": "Optical-dipole trapping of Sr atoms at a high phase-space density",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963666495",
+   "year": 2015,
+   "cited_by_count": 92,
+   "title": "Frequency Ratio of Hg 199 and Sr 87 Optical Lattice Clocks beyond the SI Limit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1783934567",
+   "year": 2015,
+   "cited_by_count": 81,
+   "title": "Frequency ratios of Sr, Yb, and Hg based optical lattice clocks and their applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2061473905",
+   "year": 2009,
+   "cited_by_count": 77,
+   "title": "Prospects for Optical Clocks with a Blue-Detuned Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971071591",
+   "year": 2004,
+   "cited_by_count": 74,
+   "title": "Lifetime Measurement of the P 2 3 Metastable State of Strontium Atoms",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036192507",
+   "year": 2010,
+   "cited_by_count": 74,
+   "title": "Three-dimensional optical lattice clock with bosonic Sr 88 atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046940028",
+   "year": 1993,
+   "cited_by_count": 74,
+   "title": "Lifetime measurement of the 1 s5 metastable state of argon and krypton with a magneto-optical trap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1018669596",
+   "year": 2015,
+   "cited_by_count": 71,
+   "title": "Strategies for reducing the light shift in atomic clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3171777338",
+   "year": 2021,
+   "cited_by_count": 70,
+   "title": "Transportable Strontium Optical Lattice Clocks Operated Outside Laboratory at the Level of 10 −18 Uncertainty",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070259849",
+   "year": 2006,
+   "cited_by_count": 67,
+   "title": "Photoassociation spectroscopy of Sr88 : Reconstruction of the wave function near the last node",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2972392830",
+   "year": 2019,
+   "cited_by_count": 63,
+   "title": "Narrow-line Cooling and Determination of the Magic Wavelength of Cd",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2032140453",
+   "year": 2009,
+   "cited_by_count": 58,
+   "title": "Magic Wavelength to Make Optical Lattice Clocks Insensitive to Atomic Motion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044236318",
+   "year": 1994,
+   "cited_by_count": 56,
+   "title": "Laser-Induced Ionizing Collisions of Ultracold Krypton Gas in the 1s5 Metastable State",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3005724858",
+   "year": 2020,
+   "cited_by_count": 51,
+   "title": "Optical frequency distribution using laser repeater stations with planar lightwave circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2433187163",
+   "year": 2015,
+   "cited_by_count": 47,
+   "title": "Optical clock sensitive to variations of the fine-structure constant based on the Ho14+ ion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2962710241",
+   "year": 2007,
+   "cited_by_count": 45,
+   "title": "Magic-wave-induced S01−P03 transition in even isotopes of alkaline-earth-metal-like atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2271355027",
+   "year": 2016,
+   "cited_by_count": 43,
+   "title": "Continuous-wave, single-frequency 229 nm laser source for laser cooling of cadmium atoms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026796022",
+   "year": 2006,
+   "cited_by_count": 36,
+   "title": "Polarisation and dispersion properties of light shifts in ultrastable optical frequency standards",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2317203023",
+   "year": 2013,
+   "cited_by_count": 32,
+   "title": "Multipole, nonlinear, and anharmonic uncertainties of clocks of Sr atoms in an optical lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3014859241",
+   "year": 2020,
+   "cited_by_count": 32,
+   "title": "Direct measurement of the frequency ratio for Hg and Yb optical lattice clocks and closure of the Hg/Yb/Sr loop",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2927748206",
+   "year": 2019,
+   "cited_by_count": 30,
+   "title": "Modeling light shifts in optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3174162694",
+   "year": 2021,
+   "cited_by_count": 30,
+   "title": "Longitudinal Ramsey spectroscopy of atoms for continuous operation of optical clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2043010486",
+   "year": 2014,
+   "cited_by_count": 29,
+   "title": "30-km-long optical fiber link at 1397 nm for frequency comparison between distant strontium optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2058865331",
+   "year": 1990,
+   "cited_by_count": 29,
+   "title": "Laser Cooling and Trapping of Argon and Krypton Using Diode Lasers",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019943919",
+   "year": 2004,
+   "cited_by_count": 28,
+   "title": "Narrow-line diode laser system for laser cooling of strontium atoms on the intercombination transition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3191841765",
+   "year": 2021,
+   "cited_by_count": 27,
+   "title": "Exploring potential applications of optical lattice clocks in a plate subduction zone",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1857848356",
+   "year": 2004,
+   "cited_by_count": 26,
+   "title": "Ultrastable Optical Clock with Neutral Atoms in an Engineered Light Shift Trap",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2343635694",
+   "year": 2016,
+   "cited_by_count": 26,
+   "title": "Higher-order effects on the precision of clocks of neutral atoms in optical lattices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1983533475",
+   "year": 2005,
+   "cited_by_count": 22,
+   "title": "Frequency measurement of a Sr lattice clock using an SI-second-referenced optical frequency comb linked by a global positioning system (GPS)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2990892806",
+   "year": 2019,
+   "cited_by_count": 20,
+   "title": "Direct determination of the energy of the first excited fine-structure level in Ba6+",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004213937",
+   "year": 2008,
+   "cited_by_count": 19,
+   "title": "Coherence of Spin-Polarized Fermions Interacting with a Clock Laser in a Stark-Shift-Free Optical Lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2070455991",
+   "year": 2006,
+   "cited_by_count": 19,
+   "title": "Electrodynamic Trapping of Spinless Neutral Atoms with an Atom Chip",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2604614990",
+   "year": 2017,
+   "cited_by_count": 17,
+   "title": "Visible spectra of highly charged holmium ions observed with a compact electron beam ion trap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979103044",
+   "year": 1995,
+   "cited_by_count": 14,
+   "title": "Quantum statistical effect on ionizing collisions of ultracold metastable Kr isotopes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963631143",
+   "year": 2019,
+   "cited_by_count": 14,
+   "title": "INO: Interplanetary network of optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3135456224",
+   "year": 2021,
+   "cited_by_count": 14,
+   "title": "Three-stage laser cooling of Sr atoms using the 5s5pP23 metastable state below Doppler temperatures",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2765601388",
+   "year": 2017,
+   "cited_by_count": 13,
+   "title": "Optically guided atom interferometer tuned to magic wavelength",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1523732738",
+   "year": 2001,
+   "cited_by_count": 12,
+   "title": "Laser cooling of strontium atoms toward quantum degeneracy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036618639",
+   "year": 2004,
+   "cited_by_count": 11,
+   "title": "Electric Manipulation of Spinless Neutral Atoms on a Surface",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091155685",
+   "year": 1998,
+   "cited_by_count": 8,
+   "title": "Diffusion of a single ion in a one-dimensional optical lattice",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987448617",
+   "year": 2008,
+   "cited_by_count": 6,
+   "title": "Optical Lattice Clocks with Non-Interacting Bosons and Fermions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2948651373",
+   "year": 2019,
+   "cited_by_count": 6,
+   "title": "626-nm single-frequency semiconductor laser system operated near room temperature for mW-level second-harmonic generation at 313 nm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2981724393",
+   "year": 2019,
+   "cited_by_count": 6,
+   "title": "Frequency measurement on the 5s5p P23−5s4d D33 transition of Sr88 atoms using the photon-momentum-transfer technique",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2697621843",
+   "year": 2005,
+   "cited_by_count": 5,
+   "title": "Optical lattice clock",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2915113152",
+   "year": 2019,
+   "cited_by_count": 5,
+   "title": "Direct Wavelength Measurement of the Visible M1 Transition in Ba7+ with a Novel Calibration Method",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2921392835",
+   "year": 2019,
+   "cited_by_count": 5,
+   "title": "High‐stability optical frequency transfer with all‐fiber architecture for optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044753701",
+   "year": 2010,
+   "cited_by_count": 4,
+   "title": "Frequency Metrology with Optical Lattice Clocks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136154863",
+   "year": 2007,
+   "cited_by_count": 4,
+   "title": "Present Status of the Development of the Yb Optical Lattice Clock at NMIJ/AIST",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2605113877",
+   "year": 2017,
+   "cited_by_count": 4,
+   "title": "Tricks for ticks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2854216989",
+   "year": 2018,
+   "cited_by_count": 4,
+   "title": "Decomposed description of Ramsey spectra under atomic interactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1581490666",
+   "year": 2005,
+   "cited_by_count": 2,
+   "title": "Engineering Stark Potentials for Precision Measurements: Optical Lattice Clock and Electrodynamic Surface Trap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023216053",
+   "year": 2011,
+   "cited_by_count": 2,
+   "title": "Optical lattice clocks and frequency comparison",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151998507",
+   "year": 2008,
+   "cited_by_count": 2,
+   "title": "Optical lattice clocks with non-interacting bosons and fermions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2541526146",
+   "year": 2005,
+   "cited_by_count": 2,
+   "title": "Laser cooling of strontium atoms towards the quantum degenerate regime",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968125283",
+   "year": 2002,
+   "cited_by_count": 1,
+   "title": "SIDEBAND COOLING AND SPECTROSCOPY OF STRONTIUM ATOMS IN THE LAMB-DICKE CONFINEMENT",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2028698171",
+   "year": 2011,
+   "cited_by_count": 1,
+   "title": "Optical direct comparison of87Sr optical lattice clocks using a >50 km telecommunication fiber link",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2067707897",
+   "year": 2013,
+   "cited_by_count": 1,
+   "title": "A 30-km-long optical fiber link for frequency comparison between distant strontium optical lattice clocks",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

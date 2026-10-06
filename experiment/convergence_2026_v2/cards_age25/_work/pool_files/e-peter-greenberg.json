@@ -1,0 +1,655 @@
+{
+ "person": "E. Peter Greenberg",
+ "profile": "A5084243657",
+ "ids": [
+  "A5084243657"
+ ],
+ "options": [
+  "for their discoveries of chemical communication in bacteria — Bonnie L. Bassler, E. Peter Greenberg",
+  "for the discovery of bacterial quorum sensing as a chemical communication system — Bonnie L. Bassler, E. Peter Greenberg"
+ ],
+ "birth_year": 1948,
+ "cutoff_year": 1973,
+ "works": [
+  {
+   "paper_id": "W2144440398",
+   "year": 1999,
+   "cited_by_count": 11797,
+   "title": "Bacterial Biofilms: A Common Cause of Persistent Infections",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079698171",
+   "year": 1998,
+   "cited_by_count": 3348,
+   "title": "The Involvement of Cell-to-Cell Signals in the Development of a Bacterial Biofilm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1943112463",
+   "year": 1994,
+   "cited_by_count": 2863,
+   "title": "Quorum sensing in bacteria: the LuxR-LuxI family of cell density-responsive transcriptional regulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1555657499",
+   "year": 2000,
+   "cited_by_count": 1500,
+   "title": "Quorum-sensing signals indicate that cystic fibrosis lungs are infected with bacterial biofilms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138776000",
+   "year": 2001,
+   "cited_by_count": 1369,
+   "title": "Regulation of Gene Expression by Cell-to-Cell Communication: Acyl-Homoserine Lactone Quorum Sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2770252239",
+   "year": 2017,
+   "cited_by_count": 1220,
+   "title": "Progress in and promise of bacterial quorum sensing research",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098626852",
+   "year": 1996,
+   "cited_by_count": 1205,
+   "title": "CENSUS AND CONSENSUS IN BACTERIAL ECOSYSTEMS: The LuxR-LuxI Family of Quorum-Sensing Transcriptional Regulators",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2055294982",
+   "year": 2001,
+   "cited_by_count": 1165,
+   "title": "Gene expression in Pseudomonas aeruginosa biofilms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155439177",
+   "year": 2004,
+   "cited_by_count": 1154,
+   "title": "Sociomicrobiology: the connections between quorum sensing and biofilms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137215017",
+   "year": 2003,
+   "cited_by_count": 1100,
+   "title": "Identification, Timing, and Signal Specificity of Pseudomonas aeruginosa Quorum-Controlled Genes: a Transcriptome Analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2064612941",
+   "year": 1999,
+   "cited_by_count": 1081,
+   "title": "Quinolone signaling in the cell-to-cell communication system of Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1502461125",
+   "year": 2002,
+   "cited_by_count": 1060,
+   "title": "Listening in on bacteria: acyl-homoserine lactone signalling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2134912543",
+   "year": 1996,
+   "cited_by_count": 1028,
+   "title": "Cystic Fibrosis Airway Epithelia Fail to Kill Bacteria Because of Abnormal Airway Surface Fluid",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970294462",
+   "year": 2002,
+   "cited_by_count": 1008,
+   "title": "A component of innate immunity prevents bacterial biofilm development",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977105094",
+   "year": 1994,
+   "cited_by_count": 981,
+   "title": "Structure of the autoinducer required for expression of Pseudomonas aeruginosa virulence genes.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074779228",
+   "year": 1995,
+   "cited_by_count": 782,
+   "title": "A second N-acylhomoserine lactone signal produced by Pseudomonas aeruginosa.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1635778238",
+   "year": 2005,
+   "cited_by_count": 768,
+   "title": "Iron and Pseudomonas aeruginosa biofilm formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2115130110",
+   "year": 1997,
+   "cited_by_count": 745,
+   "title": "Cross-species induction of luminescence in the quorum-sensing bacterium Vibrio harveyi",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087371604",
+   "year": 2006,
+   "cited_by_count": 664,
+   "title": "A network of networks: Quorum-sensing gene regulation in Pseudomonas aeruginosa",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150417163",
+   "year": 1999,
+   "cited_by_count": 656,
+   "title": "Identification of genes controlled by quorum sensing in Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2045154470",
+   "year": 2000,
+   "cited_by_count": 637,
+   "title": "Acyl-homoserine lactone quorum sensing in Gram-negative bacteria: A signaling mechanism involved in associations with higher organisms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002317558",
+   "year": 1999,
+   "cited_by_count": 585,
+   "title": "Acyl homoserine-lactone quorum-sensing signal generation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001760607",
+   "year": 2004,
+   "cited_by_count": 581,
+   "title": "Quorum Sensing in Staphylococcus aureus Biofilms",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2136538608",
+   "year": 1998,
+   "cited_by_count": 572,
+   "title": "Production of β-defensins by human airway epithelia",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166134293",
+   "year": 2013,
+   "cited_by_count": 559,
+   "title": "Acyl-Homoserine Lactone Quorum Sensing: From Evolution to Application",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1632889752",
+   "year": 1985,
+   "cited_by_count": 553,
+   "title": "Diffusion of autoinducer is involved in regulation of the Vibrio fischeri luminescence system",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005237666",
+   "year": 2006,
+   "cited_by_count": 547,
+   "title": "The superficial life of microbes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113490404",
+   "year": 2000,
+   "cited_by_count": 497,
+   "title": "Metabolism of Acyl-Homoserine Lactone Quorum-Sensing Signals by Variovorax paradoxus",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2101161397",
+   "year": 2006,
+   "cited_by_count": 458,
+   "title": "Chelator-Induced Dispersal and Killing of Pseudomonas aeruginosa Cells in a Biofilm",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019899139",
+   "year": 2001,
+   "cited_by_count": 436,
+   "title": "QscR, a modulator of quorum-sensing signal synthesis and virulence in Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031284066",
+   "year": 2008,
+   "cited_by_count": 400,
+   "title": "A new class of homoserine lactone quorum-sensing signals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094277842",
+   "year": 1996,
+   "cited_by_count": 377,
+   "title": "Generation of cell-to-cell signals in quorum sensing: acyl homoserine lactone synthase activity of a purified Vibrio fischeri LuxI protein.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1548309673",
+   "year": 2003,
+   "cited_by_count": 373,
+   "title": "The Pseudomonas aeruginosa RpoS regulon and its relationship to quorum sensing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096283909",
+   "year": 2000,
+   "cited_by_count": 365,
+   "title": "Bactericidal Activity of Mammalian Cathelicidin-Derived Peptides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1979888857",
+   "year": 2012,
+   "cited_by_count": 360,
+   "title": "Bacterial Quorum Sensing and Metabolic Incentives to Cooperate",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142736798",
+   "year": 2005,
+   "cited_by_count": 360,
+   "title": "Complete genome sequence of Vibrio fischeri : A symbiotic bacterium with pathogenic congeners",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160959934",
+   "year": 1999,
+   "cited_by_count": 358,
+   "title": "Quorum Sensing in Burkholderia cepacia : Identification of the LuxRI Homologs CepRI",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039582130",
+   "year": 1979,
+   "cited_by_count": 356,
+   "title": "Induction of luciferase synthesis in Beneckea harveyi by other marine bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169314851",
+   "year": 2004,
+   "cited_by_count": 353,
+   "title": "Pseudomonas aeruginosa Biofilms Exposed to Imipenem Exhibit Changes in Global Gene Expression and β-Lactamase and Alginate Production",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2142195904",
+   "year": 2004,
+   "cited_by_count": 330,
+   "title": "Putative Exopolysaccharide Synthesis Genes Influence Pseudomonas aeruginosa Biofilm Development",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077818909",
+   "year": 1998,
+   "cited_by_count": 303,
+   "title": "Self perception in bacteria: quorum sensing with acylated homoserine lactones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1674929086",
+   "year": 2004,
+   "cited_by_count": 291,
+   "title": "Inactivation of a Pseudomonas aeruginosa quorum-sensing signal by human airway epithelia",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968549820",
+   "year": 2004,
+   "cited_by_count": 287,
+   "title": "Promoter specificity in Pseudomonas aeruginosa quorum sensing revealed by DNA binding of purified LasR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2529210292",
+   "year": 2016,
+   "cited_by_count": 286,
+   "title": "LasR Variant Cystic Fibrosis Isolates Reveal an Adaptable Quorum-Sensing Hierarchy in Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131417813",
+   "year": 2012,
+   "cited_by_count": 280,
+   "title": "The Single-Nucleotide Resolution Transcriptome of Pseudomonas aeruginosa Grown in Body Temperature",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2921190053",
+   "year": 2019,
+   "cited_by_count": 272,
+   "title": "Evolution of the Pseudomonas aeruginosa quorum-sensing hierarchy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1585864117",
+   "year": 1996,
+   "cited_by_count": 266,
+   "title": "Quorum sensing in Vibrio fischeri: probing autoinducer-LuxR interactions with autoinducer analogs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1970654416",
+   "year": 2008,
+   "cited_by_count": 260,
+   "title": "The potential of desferrioxamine-gallium as an anti- Pseudomonas therapeutic agent",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113773263",
+   "year": 2006,
+   "cited_by_count": 246,
+   "title": "Novel Pseudomonas aeruginosa Quorum-Sensing Inhibitors Identified in an Ultra-High-Throughput Screen",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170792798",
+   "year": 2005,
+   "cited_by_count": 243,
+   "title": "Activity of purified QscR, a Pseudomonas aeruginosa orphan quorum‐sensing transcription factor",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969638357",
+   "year": 1994,
+   "cited_by_count": 238,
+   "title": "Synergistic binding of the Vibrio fischeri LuxR transcriptional activator domain and RNA polymerase to the lux promoter region.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1969658400",
+   "year": 2008,
+   "cited_by_count": 235,
+   "title": "Genetic Determinants of Self Identity and Social Recognition in Bacteria",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977809773",
+   "year": 2015,
+   "cited_by_count": 233,
+   "title": "Quorum sensing and policing of Pseudomonas aeruginosa social cheaters",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150093407",
+   "year": 2000,
+   "cited_by_count": 233,
+   "title": "Regulation of Quorum Sensing by RpoS in Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2099793371",
+   "year": 2003,
+   "cited_by_count": 228,
+   "title": "The Vibrio fischeri quorum‐sensing systems ain and lux sequentially induce luminescence gene expression and are important for persistence in the squid host",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127539199",
+   "year": 2009,
+   "cited_by_count": 227,
+   "title": "Global position analysis of the Pseudomonas aeruginosa quorum‐sensing transcription factor LasR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2140059081",
+   "year": 2005,
+   "cited_by_count": 226,
+   "title": "Human and murine paraoxonase 1 are host modulators of Pseudomonas aeruginosa quorum-sensing",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145517314",
+   "year": 1999,
+   "cited_by_count": 217,
+   "title": "Activity of Abundant Antimicrobials of the Human Airway",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1904615796",
+   "year": 1997,
+   "cited_by_count": 216,
+   "title": "A quorum-sensing system in the free-living photosynthetic bacterium Rhodobacter sphaeroides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157927045",
+   "year": 2008,
+   "cited_by_count": 211,
+   "title": "The Influence of Iron on Pseudomonas aeruginosa Physiology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1849262014",
+   "year": 1995,
+   "cited_by_count": 207,
+   "title": "Evidence that the N-terminal region of the Vibrio fischeri LuxR protein constitutes an autoinducer-binding domain",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2112001696",
+   "year": 1999,
+   "cited_by_count": 197,
+   "title": "Quorum sensing in Vibrio fischeri : elements of the luxI promoter",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155733918",
+   "year": 2004,
+   "cited_by_count": 197,
+   "title": "Reversible Acyl-Homoserine Lactone Binding to Purified Vibrio fischeri LuxR Protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2089481955",
+   "year": 1991,
+   "cited_by_count": 196,
+   "title": "The C-terminal region of the Vibrio fischeri LuxR protein contains an inducer-independent lux gene activating domain.",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130126200",
+   "year": 2006,
+   "cited_by_count": 192,
+   "title": "A Distinct QscR Regulon in the Pseudomonas aeruginosa Quorum-Sensing Circuit",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121360410",
+   "year": 1997,
+   "cited_by_count": 188,
+   "title": "Quorum sensing in Vibrio fischeri: essential elements for activation of the luminescence genes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2119000192",
+   "year": 2007,
+   "cited_by_count": 187,
+   "title": "Influence of Quorum Sensing and Iron on Twitching Motility and Biofilm Formation in Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999073796",
+   "year": 2007,
+   "cited_by_count": 180,
+   "title": "Early activation of quorum sensing in Pseudomonas aeruginosa reveals the architecture of a complex regulon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2097754038",
+   "year": 2004,
+   "cited_by_count": 178,
+   "title": "Timing and Localization of Rhamnolipid Synthesis Gene Expression in Pseudomonas aeruginosa Biofilms",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1853571779",
+   "year": 2006,
+   "cited_by_count": 174,
+   "title": "Hfq‐dependent alterations of the transcriptome profile and effects on quorum sensing in Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1681269431",
+   "year": 1996,
+   "cited_by_count": 162,
+   "title": "Cell-to-cell signaling in the symbiotic nitrogen-fixing bacterium Rhizobium leguminosarum: autoinduction of a stationary phase and rhizosphere-expressed genes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1954615263",
+   "year": 1999,
+   "cited_by_count": 161,
+   "title": "Quorum Sensing: the Explanation of a Curious Phenomenon Reveals a Common Characteristic of Bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106859951",
+   "year": 2010,
+   "cited_by_count": 159,
+   "title": "Increase in Rhamnolipid Synthesis under Iron-Limiting Conditions Influences Surface Motility and Biofilm Formation in Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1934507893",
+   "year": 1994,
+   "cited_by_count": 152,
+   "title": "Interchangeability and specificity of components from the quorum-sensing regulatory systems of Vibrio fischeri and Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120961145",
+   "year": 2001,
+   "cited_by_count": 152,
+   "title": "Promoter Specificity Elements in Pseudomonas aeruginosa Quorum-Sensing-Controlled Genes",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1778959493",
+   "year": 1996,
+   "cited_by_count": 146,
+   "title": "Quorum sensing in Vibrio fischeri: evidence that S-adenosylmethionine is the amino acid substrate for autoinducer synthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1529940414",
+   "year": 2007,
+   "cited_by_count": 143,
+   "title": "RsaL provides quorum sensing homeostasis and functions as a global regulator of gene expression in Pseudomonas aeruginosa",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1866752002",
+   "year": 1992,
+   "cited_by_count": 142,
+   "title": "Genetic dissection of DNA binding and luminescence gene activation by the Vibrio fischeri LuxR protein",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149213807",
+   "year": 2009,
+   "cited_by_count": 138,
+   "title": "Quorum-Sensing Control of Antibiotic Synthesis in Burkholderia thailandensis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171614985",
+   "year": 2007,
+   "cited_by_count": 135,
+   "title": "Vibrio parahaemolyticusScrC Modulates Cyclic Dimeric GMP Regulation of Gene Expression Relevant to Growth on Surfaces",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

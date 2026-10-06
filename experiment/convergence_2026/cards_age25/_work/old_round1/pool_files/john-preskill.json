@@ -1,0 +1,430 @@
+{
+ "person": "John Preskill",
+ "birth_year": 1953,
+ "cutoff_year": 1978,
+ "options": [
+  "for the discovery of quantum error correction and fault-tolerant quantum computation — John Preskill, Peter W. Shor, Alexei Y. Kitaev"
+ ],
+ "works": [
+  {
+   "paper_id": "W2781738013",
+   "year": 2018,
+   "cited_by_count": 7393,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Computing in the NISQ era and beyond"
+  },
+  {
+   "paper_id": "W2007746935",
+   "year": 1983,
+   "cited_by_count": 3105,
+   "C_5_pctl": 1.0,
+   "title": "Cosmology of the invisible axion"
+  },
+  {
+   "paper_id": "W2071764857",
+   "year": 2000,
+   "cited_by_count": 2886,
+   "C_5_pctl": 1.0,
+   "title": "Simple Proof of Security of the BB84 Quantum Key Distribution Protocol"
+  },
+  {
+   "paper_id": "W2046439097",
+   "year": 2006,
+   "cited_by_count": 2363,
+   "C_5_pctl": 1.0,
+   "title": "Topological Entanglement Entropy"
+  },
+  {
+   "paper_id": "W1984125696",
+   "year": 2001,
+   "cited_by_count": 1406,
+   "C_5_pctl": 0.99,
+   "title": "Encoding a qubit in an oscillator"
+  },
+  {
+   "paper_id": "W2129872856",
+   "year": 2007,
+   "cited_by_count": 1283,
+   "C_5_pctl": 0.99,
+   "title": "Black holes as mirrors: quantum information in random subsystems"
+  },
+  {
+   "paper_id": "W1969329609",
+   "year": 1998,
+   "cited_by_count": 957,
+   "C_5_pctl": 1.0,
+   "title": "Reliable quantum computers"
+  },
+  {
+   "paper_id": "W3025452706",
+   "year": 1986,
+   "cited_by_count": 703,
+   "C_5_pctl": 1.0,
+   "title": "Vortices and monopoles."
+  },
+  {
+   "paper_id": "W1585033983",
+   "year": 2004,
+   "cited_by_count": 659,
+   "C_5_pctl": 1.0,
+   "title": "Security of quantum key distribution with imperfect devices"
+  },
+  {
+   "paper_id": "W1965011283",
+   "year": 1979,
+   "cited_by_count": 645,
+   "C_5_pctl": 1.0,
+   "title": "Cosmological Production of Superheavy Magnetic Monopoles"
+  },
+  {
+   "paper_id": "W1982899292",
+   "year": 2012,
+   "cited_by_count": 493,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Algorithms for Quantum Field Theories"
+  },
+  {
+   "paper_id": "W1988801946",
+   "year": 2001,
+   "cited_by_count": 489,
+   "C_5_pctl": 0.99,
+   "title": "Robustness of adiabatic quantum computation"
+  },
+  {
+   "paper_id": "W1874981471",
+   "year": 2006,
+   "cited_by_count": 393,
+   "C_5_pctl": 1.0,
+   "title": "Quantum accuracy threshold for concatenated distance-3 code"
+  },
+  {
+   "paper_id": "W4238337161",
+   "year": 1984,
+   "cited_by_count": 333,
+   "C_5_pctl": 0.99,
+   "title": "Magnetic Monopoles"
+  },
+  {
+   "paper_id": "W2107453273",
+   "year": 2003,
+   "cited_by_count": 316,
+   "C_5_pctl": 0.97,
+   "title": "Confinement-Higgs transition in a disordered gauge theory and the accuracy threshold for quantum memory"
+  },
+  {
+   "paper_id": "W3041649645",
+   "year": 2020,
+   "cited_by_count": 282,
+   "C_5_pctl": 1.0,
+   "title": "Mixed-State Entanglement from Local Randomized Measurements"
+  },
+  {
+   "paper_id": "W2049617419",
+   "year": 2001,
+   "cited_by_count": 264,
+   "C_5_pctl": 0.99,
+   "title": "Secure quantum key distribution using squeezed states"
+  },
+  {
+   "paper_id": "W2029345718",
+   "year": 1991,
+   "cited_by_count": 262,
+   "C_5_pctl": 0.99,
+   "title": "LIMITATIONS ON THE STATISTICAL DESCRIPTION OF BLACK HOLES"
+  },
+  {
+   "paper_id": "W2101903351",
+   "year": 1996,
+   "cited_by_count": 252,
+   "C_5_pctl": 0.99,
+   "title": "Efficient networks for quantum factoring"
+  },
+  {
+   "paper_id": "W1980406723",
+   "year": 1990,
+   "cited_by_count": 248,
+   "C_5_pctl": 0.99,
+   "title": "Local discrete symmetry and quantum-mechanical hair"
+  },
+  {
+   "paper_id": "W2136747138",
+   "year": 2004,
+   "cited_by_count": 247,
+   "C_5_pctl": 0.94,
+   "title": "Security of quantum key distribution with imperfect devices"
+  },
+  {
+   "paper_id": "W3119636101",
+   "year": 2021,
+   "cited_by_count": 237,
+   "C_5_pctl": 1.0,
+   "title": "Information-Theoretic Bounds on Quantum Advantage in Machine Learning"
+  },
+  {
+   "paper_id": "W2057070138",
+   "year": 1981,
+   "cited_by_count": 234,
+   "C_5_pctl": 1.0,
+   "title": "Subgroup alignment in hypercolor theories"
+  },
+  {
+   "paper_id": "W1989538270",
+   "year": 2006,
+   "cited_by_count": 233,
+   "C_5_pctl": 0.99,
+   "title": "Fault-Tolerant Quantum Computation with Long-Range Correlated Noise"
+  },
+  {
+   "paper_id": "W2092840968",
+   "year": 1994,
+   "cited_by_count": 218,
+   "C_5_pctl": 0.98,
+   "title": "Black hole thermodynamics and information loss in two dimensions"
+  },
+  {
+   "paper_id": "W2126603822",
+   "year": 2001,
+   "cited_by_count": 207,
+   "C_5_pctl": 0.97,
+   "title": "Causal and localizable quantum operations"
+  },
+  {
+   "paper_id": "W1967722604",
+   "year": 2013,
+   "cited_by_count": 198,
+   "C_5_pctl": 0.97,
+   "title": "Protected gates for superconducting qubits"
+  },
+  {
+   "paper_id": "W2016304634",
+   "year": 2008,
+   "cited_by_count": 186,
+   "C_5_pctl": 0.99,
+   "title": "Fault-tolerant quantum computation against biased noise"
+  },
+  {
+   "paper_id": "W3137962867",
+   "year": 2021,
+   "cited_by_count": 174,
+   "C_5_pctl": 1.0,
+   "title": "Efficient Estimation of Pauli Observables by Derandomization"
+  },
+  {
+   "paper_id": "W2106605539",
+   "year": 1991,
+   "cited_by_count": 173,
+   "C_5_pctl": 0.97,
+   "title": "Cosmology and broken discrete symmetry"
+  },
+  {
+   "paper_id": "W2142024874",
+   "year": 2000,
+   "cited_by_count": 173,
+   "C_5_pctl": 0.97,
+   "title": "Quantum information and precision measurement"
+  },
+  {
+   "paper_id": "W2163038783",
+   "year": 1991,
+   "cited_by_count": 172,
+   "C_5_pctl": 0.94,
+   "title": "Gauge anomalies in an effective field theory"
+  },
+  {
+   "paper_id": "W2013912549",
+   "year": 2003,
+   "cited_by_count": 164,
+   "C_5_pctl": 0.97,
+   "title": "Secure Quantum Key Distribution with an Uncharacterized Source"
+  },
+  {
+   "paper_id": "W2067487336",
+   "year": 1986,
+   "cited_by_count": 157,
+   "C_5_pctl": 0.91,
+   "title": "Chiral gauge theories on the lattice"
+  },
+  {
+   "paper_id": "W2140587459",
+   "year": 2004,
+   "cited_by_count": 154,
+   "C_5_pctl": 0.97,
+   "title": "Superselection rules and quantum protocols"
+  },
+  {
+   "paper_id": "W2987231025",
+   "year": 2020,
+   "cited_by_count": 141,
+   "C_5_pctl": 0.99,
+   "title": "Robust Encoding of a Qubit in a Molecule"
+  },
+  {
+   "paper_id": "W2147999436",
+   "year": 1982,
+   "cited_by_count": 137,
+   "C_5_pctl": 0.97,
+   "title": "Massless composites with massive constituents"
+  },
+  {
+   "paper_id": "W2164921316",
+   "year": 1998,
+   "cited_by_count": 128,
+   "C_5_pctl": 0.98,
+   "title": "Quantum computing: pro and con"
+  },
+  {
+   "paper_id": "W2150405922",
+   "year": 1993,
+   "cited_by_count": 127,
+   "C_5_pctl": 0.93,
+   "title": "Decay of metastable topological defects"
+  },
+  {
+   "paper_id": "W2085831178",
+   "year": 1999,
+   "cited_by_count": 126,
+   "C_5_pctl": 0.97,
+   "title": "Battling Decoherence: The Fault-Tolerant Quantum Computer"
+  },
+  {
+   "paper_id": "W2102312357",
+   "year": 2004,
+   "cited_by_count": 126,
+   "C_5_pctl": 0.93,
+   "title": "Lecture Notes for Physics 219: Quantum Computation"
+  },
+  {
+   "paper_id": "W2113146236",
+   "year": 2000,
+   "cited_by_count": 122,
+   "C_5_pctl": 0.98,
+   "title": "Quantum information and physics: Some future directions"
+  },
+  {
+   "paper_id": "W1701600206",
+   "year": 1992,
+   "cited_by_count": 116,
+   "C_5_pctl": 0.92,
+   "title": "Quantum field theory of non-abelian strings and vortices"
+  },
+  {
+   "paper_id": "W2952783763",
+   "year": 2014,
+   "cited_by_count": 115,
+   "C_5_pctl": 0.96,
+   "title": "Quantum computation of scattering in scalar quantum field theories"
+  },
+  {
+   "paper_id": "W2004787568",
+   "year": 2011,
+   "cited_by_count": 110,
+   "C_5_pctl": 0.99,
+   "title": "Combining dynamical decoupling with fault-tolerant quantum computation"
+  },
+  {
+   "paper_id": "W2104798297",
+   "year": 2007,
+   "cited_by_count": 110,
+   "C_5_pctl": 0.9,
+   "title": "Security of quantum key distribution using weak coherent states with nonrandom phases"
+  },
+  {
+   "paper_id": "W2996387336",
+   "year": 2021,
+   "cited_by_count": 105,
+   "C_5_pctl": 0.99,
+   "title": "Models of Quantum Complexity Growth"
+  },
+  {
+   "paper_id": "W2016188295",
+   "year": 2011,
+   "cited_by_count": 104,
+   "C_5_pctl": 0.99,
+   "title": "Interface between Topological and Superconducting Qubits"
+  },
+  {
+   "paper_id": "W2152338767",
+   "year": 2009,
+   "cited_by_count": 97,
+   "C_5_pctl": 0.95,
+   "title": "Fault-tolerant computing with biased-noise superconducting qubits: a case study"
+  },
+  {
+   "paper_id": "W1966867625",
+   "year": 1993,
+   "cited_by_count": 97,
+   "C_5_pctl": 0.91,
+   "title": "Non-Abelian vortices and non-Abelian statistics"
+  },
+  {
+   "paper_id": "W1992824287",
+   "year": 1982,
+   "cited_by_count": 90,
+   "C_5_pctl": 0.99,
+   "title": "Catalyzed nucleon decay in neutron stars"
+  },
+  {
+   "paper_id": "W1677920491",
+   "year": 2008,
+   "cited_by_count": 90,
+   "C_5_pctl": 0.98,
+   "title": "Accuracy threshold for postselected quantum computation"
+  },
+  {
+   "paper_id": "W2593024776",
+   "year": 2018,
+   "cited_by_count": 90,
+   "C_5_pctl": 0.98,
+   "title": "BQP-completeness of scattering in scalar quantum field theory"
+  },
+  {
+   "paper_id": "W2109143852",
+   "year": 1989,
+   "cited_by_count": 86,
+   "C_5_pctl": 0.98,
+   "title": "Wormholes in spacetime and the constants of nature"
+  },
+  {
+   "paper_id": "W2132615898",
+   "year": 2001,
+   "cited_by_count": 82,
+   "C_5_pctl": 0.92,
+   "title": "Achievable rates for the Gaussian quantum channel"
+  },
+  {
+   "paper_id": "W2901441600",
+   "year": 2019,
+   "cited_by_count": 81,
+   "C_5_pctl": 0.99,
+   "title": "Simulating quantum field theory with a quantum computer"
+  },
+  {
+   "paper_id": "W2119121379",
+   "year": 1992,
+   "cited_by_count": 79,
+   "C_5_pctl": 0.94,
+   "title": "Do Black Holes Destroy Information?"
+  },
+  {
+   "paper_id": "W2074627946",
+   "year": 2009,
+   "cited_by_count": 68,
+   "C_5_pctl": 0.96,
+   "title": "Fault-tolerant quantum computation versus Gaussian noise"
+  },
+  {
+   "paper_id": "W1967996742",
+   "year": 1991,
+   "cited_by_count": 66,
+   "C_5_pctl": 0.96,
+   "title": "Growing hair on black holes"
+  },
+  {
+   "paper_id": "W2059805358",
+   "year": 1992,
+   "cited_by_count": 66,
+   "C_5_pctl": 0.89,
+   "title": "Internal frame dragging and a global analog of the Aharonov-Bohm effect"
+  }
+ ]
+}

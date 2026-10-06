@@ -1,0 +1,655 @@
+{
+ "person": "Christopher Jarzynski",
+ "profile": "A5021706997",
+ "ids": [
+  "A5021706997",
+  "A5097264530"
+ ],
+ "options": [
+  "for the discovery of fluctuation theorems and exact nonequilibrium work relations that extend thermodynamics to small systems far from equilibrium — Christopher Jarzynski, Denis J. Evans, Gavin E. Crooks"
+ ],
+ "birth_year": 1965,
+ "cutoff_year": 1990,
+ "works": [
+  {
+   "paper_id": "W2149801992",
+   "year": 1997,
+   "cited_by_count": 5134,
+   "title": "Nonequilibrium Equality for Free Energy Differences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2040008731",
+   "year": 1997,
+   "cited_by_count": 1335,
+   "title": "Equilibrium free-energy differences from nonequilibrium measurements: A master-equation approach",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1975830725",
+   "year": 2005,
+   "cited_by_count": 1013,
+   "title": "Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128706048",
+   "year": 2011,
+   "cited_by_count": 993,
+   "title": "Equalities and Inequalities: Irreversibility and the Second Law of Thermodynamics at the Nanoscale",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1989195611",
+   "year": 2010,
+   "cited_by_count": 648,
+   "title": "Good Practices in Free-Energy Calculations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2123979061",
+   "year": 2004,
+   "cited_by_count": 347,
+   "title": "Classical and Quantum Fluctuation Theorems for Heat Exchange",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994516937",
+   "year": 2006,
+   "cited_by_count": 320,
+   "title": "Rare events and the convergence of exponentially averaged work values",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1636243797",
+   "year": 2000,
+   "cited_by_count": 313,
+   "title": "Hamiltonian Derivation of a Detailed Fluctuation Theorem",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1987256611",
+   "year": 2004,
+   "cited_by_count": 294,
+   "title": "Nonequilibrium work theorem for a system strongly coupled to a thermal environment",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2108184883",
+   "year": 2012,
+   "cited_by_count": 284,
+   "title": "Work and information processing in a solvable model of Maxwell’s demon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2026554739",
+   "year": 2014,
+   "cited_by_count": 263,
+   "title": "Classical and Quantum Shortcuts to Adiabaticity for Scale-Invariant Driving",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004388910",
+   "year": 2004,
+   "cited_by_count": 237,
+   "title": "Experimental test of Hatano and Sasa's nonequilibrium steady-state equality",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050042751",
+   "year": 2013,
+   "cited_by_count": 225,
+   "title": "Information Processing and the Second Law of Thermodynamics: An Inclusive, Hamiltonian Approach",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2114464239",
+   "year": 2006,
+   "cited_by_count": 203,
+   "title": "Path-integral analysis of fluctuation theorems for general Langevin processes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2157576622",
+   "year": 2008,
+   "cited_by_count": 195,
+   "title": "Nonequilibrium work relations: foundations and applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031155642",
+   "year": 2007,
+   "cited_by_count": 193,
+   "title": "Comparison of far-from-equilibrium work relations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060246281",
+   "year": 2013,
+   "cited_by_count": 150,
+   "title": "Generating shortcuts to adiabaticity in quantum and classical dynamics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001584038",
+   "year": 2009,
+   "cited_by_count": 145,
+   "title": "Dissipation and lag in irreversible processes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1965114392",
+   "year": 2013,
+   "cited_by_count": 143,
+   "title": "Maxwell’s Refrigerator: An Exactly Solvable Model",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2580612053",
+   "year": 2017,
+   "cited_by_count": 141,
+   "title": "Stochastic and Macroscopic Thermodynamics of Strongly Coupled Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3130072627",
+   "year": 2021,
+   "cited_by_count": 128,
+   "title": "Power-law behavior of transcription factor dynamics at the single-molecule level implies a continuum affinity model",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3105343730",
+   "year": 2012,
+   "cited_by_count": 127,
+   "title": "A “fast growth ” method of computing free energy differences",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994347785",
+   "year": 2002,
+   "cited_by_count": 125,
+   "title": "Quantum Chaotic Environments, the Butterfly Effect, and Decoherence",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090419142",
+   "year": 2008,
+   "cited_by_count": 116,
+   "title": "Directed Flow in Nonadiabatic Stochastic Pumps",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1595237125",
+   "year": 1999,
+   "cited_by_count": 112,
+   "title": "Microscopic Analysis of Clausius–Duhem Processes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044187049",
+   "year": 2008,
+   "cited_by_count": 108,
+   "title": "Escorted Free Energy Simulations: Improving Convergence by Reducing Dissipation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999279673",
+   "year": 2002,
+   "cited_by_count": 105,
+   "title": "Targeted free energy perturbation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2976736159",
+   "year": 2020,
+   "cited_by_count": 98,
+   "title": "Machine learning the thermodynamic arrow of time",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2010153651",
+   "year": 1999,
+   "cited_by_count": 93,
+   "title": "Feynman’s ratchet and pawl: An exactly solvable model",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972136161",
+   "year": 2007,
+   "cited_by_count": 83,
+   "title": "Fluctuation relations and coarse-graining",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2213240854",
+   "year": 2015,
+   "cited_by_count": 80,
+   "title": "Quantum-Classical Correspondence Principle for Work Distributions",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2000397007",
+   "year": 2007,
+   "cited_by_count": 73,
+   "title": "Work distribution for the adiabatic compression of a dilute and interacting classical gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2729362302",
+   "year": 2017,
+   "cited_by_count": 71,
+   "title": "Shortcuts to adiabaticity using flow fields",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2014403807",
+   "year": 2007,
+   "cited_by_count": 69,
+   "title": "Comparison of work fluctuation relations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2292392935",
+   "year": 2016,
+   "cited_by_count": 66,
+   "title": "Analysis of slow transitions between nonequilibrium steady states",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2744960158",
+   "year": 2017,
+   "cited_by_count": 65,
+   "title": "Verification of the quantum nonequilibrium work relation in the presence of decoherence",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027932902",
+   "year": 2014,
+   "cited_by_count": 64,
+   "title": "Engineering Maxwell’s demon",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2002764312",
+   "year": 2011,
+   "cited_by_count": 63,
+   "title": "Modeling Maxwell’s demon with a microcanonical Szilard engine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2778109668",
+   "year": 1995,
+   "cited_by_count": 63,
+   "title": "Evidence for the possible synthesis of element 110 produced by the Co59 +209 Bi reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967040255",
+   "year": 1995,
+   "cited_by_count": 59,
+   "title": "Thermalization of a Brownian Particle via Coupling to Low-Dimensional Chaos",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2025504753",
+   "year": 1993,
+   "cited_by_count": 59,
+   "title": "Energy diffusion in a chaotic adiabatic billiard gas",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1982276225",
+   "year": 2009,
+   "cited_by_count": 58,
+   "title": "Replica exchange with nonequilibrium switches",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2552412474",
+   "year": 2017,
+   "cited_by_count": 55,
+   "title": "Fast forward to the classical adiabatic invariant",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2896184958",
+   "year": 2019,
+   "cited_by_count": 54,
+   "title": "Optimal Probabilistic Work Extraction beyond the Free Energy Difference with a Single-Electron Device",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2087884383",
+   "year": 1995,
+   "cited_by_count": 51,
+   "title": "Evidence for the synthesis of 267110 produced by the 59Co+209Bi reaction",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2059673509",
+   "year": 2001,
+   "cited_by_count": 50,
+   "title": "How does a system respond when driven away from thermal equilibrium?",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2285588390",
+   "year": 2016,
+   "cited_by_count": 50,
+   "title": "Mimicking Nonequilibrium Steady States with Time-Periodic Driving",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2015495578",
+   "year": 2009,
+   "cited_by_count": 47,
+   "title": "Illustrative example of the relationship between dissipation and relative entropy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063092276",
+   "year": 2015,
+   "cited_by_count": 46,
+   "title": "Diverse phenomena, common themes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999656456",
+   "year": 2014,
+   "cited_by_count": 40,
+   "title": "Second laws for an information driven current through a spin valve",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2012555100",
+   "year": 2012,
+   "cited_by_count": 39,
+   "title": "Validity of nonequilibrium work relations for the rapidly expanding quantum piston",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2287686241",
+   "year": 2008,
+   "cited_by_count": 38,
+   "title": "Comment on “Failure of the Work-Hamiltonian Connection for Free-Energy Calculations”",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3204960911",
+   "year": 2020,
+   "cited_by_count": 37,
+   "title": "Understanding cytoskeletal avalanches using mechanical stability analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980939688",
+   "year": 2009,
+   "cited_by_count": 35,
+   "title": "Exact Formula for Currents in Strongly Pumped Diffusive Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1986062999",
+   "year": 1993,
+   "cited_by_count": 33,
+   "title": "Multiple-time-scale approach to ergodic adiabatic systems: Another look",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2768934056",
+   "year": 2018,
+   "cited_by_count": 33,
+   "title": "Experimental realization of Feynman’s ratchet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2019736916",
+   "year": 2011,
+   "cited_by_count": 32,
+   "title": "Escorted free energy simulations",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2549437237",
+   "year": 2016,
+   "cited_by_count": 32,
+   "title": "Heat dissipation and fluctuations in a driven quantum dot",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2402136347",
+   "year": 2016,
+   "cited_by_count": 30,
+   "title": "Number of trials required to estimate a free-energy difference, using fluctuation relations",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1966841772",
+   "year": 1992,
+   "cited_by_count": 29,
+   "title": "Diffusion equation for energy in ergodic adiabatic ensembles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057520559",
+   "year": 1993,
+   "cited_by_count": 29,
+   "title": "A universal asymptotic velocity distribution for independent particles in a time-dependent irregular container",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2937636152",
+   "year": 2019,
+   "cited_by_count": 28,
+   "title": "Quantifying dissipation in actomyosin networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2955370701",
+   "year": 2019,
+   "cited_by_count": 27,
+   "title": "Stochastic thermodynamics of self-oscillations: the electron shuttle",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035432735",
+   "year": 2008,
+   "cited_by_count": 26,
+   "title": "The thermodynamics of writing a random polymer",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2003896933",
+   "year": 2005,
+   "cited_by_count": 25,
+   "title": "Dynamical generalization of nonequilibrium work relation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056429519",
+   "year": 1995,
+   "cited_by_count": 25,
+   "title": "Geometric Phases and Anholonomy for a Class of Chaotic Classical Systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2507894777",
+   "year": 2016,
+   "cited_by_count": 25,
+   "title": "Classical and Quantum Shortcuts to Adiabaticity in a Tilted Piston",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072344018",
+   "year": 2006,
+   "cited_by_count": 23,
+   "title": "Work Fluctuation Theorems and Single-Molecule Biophysics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116386520",
+   "year": 2010,
+   "cited_by_count": 23,
+   "title": "Nonequilibrium thermodynamics at the microscale: Work relations and the second law",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2071500652",
+   "year": 2012,
+   "cited_by_count": 21,
+   "title": "Replica exchange with nonequilibrium switches: Enhancing equilibrium sampling by increasing replica overlap",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3135699848",
+   "year": 2021,
+   "cited_by_count": 20,
+   "title": "Energy diffusion and absorption in chaotic systems with rapid periodic driving",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2788219485",
+   "year": 2018,
+   "cited_by_count": 16,
+   "title": "Nonconservative Forces via Quantum Reservoir Engineering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3166606521",
+   "year": 2021,
+   "cited_by_count": 16,
+   "title": "Understanding cytoskeletal avalanches using mechanical stability analysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029682949",
+   "year": 1995,
+   "cited_by_count": 15,
+   "title": "Geometric Phase Effects for Wave-Packet Revivals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2238689217",
+   "year": 2016,
+   "cited_by_count": 15,
+   "title": "Nonperturbative embedding for highly nonlocal Hamiltonians",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035880609",
+   "year": 1997,
+   "cited_by_count": 14,
+   "title": "Berry’s conjecture and information theory",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2803204271",
+   "year": 2018,
+   "cited_by_count": 14,
+   "title": "Equilibrium free energies from non-equilibrium trajectories with relaxation fluctuation spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053184556",
+   "year": 2008,
+   "cited_by_count": 13,
+   "title": "Binless Estimation of the Potential of Mean Force",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2957492599",
+   "year": 2019,
+   "cited_by_count": 13,
+   "title": "Fluctuation relations and strong inequalities for thermally isolated systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3103185467",
+   "year": 2013,
+   "cited_by_count": 12,
+   "title": "Computing probabilities of very rare events for Langevin processes: a new method based on importance sampling",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

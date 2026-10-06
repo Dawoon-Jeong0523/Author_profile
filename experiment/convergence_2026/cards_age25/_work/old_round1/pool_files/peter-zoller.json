@@ -1,0 +1,430 @@
+{
+ "person": "Peter Zoller",
+ "birth_year": 1952,
+ "cutoff_year": 1977,
+ "options": [
+  "for theoretical proposals and experimental realizations of quantum simulators using ultracold atoms in optical lattices — Immanuel Bloch, J. Ignacio Cirac, Peter Zoller"
+ ],
+ "works": [
+  {
+   "paper_id": "W2067763535",
+   "year": 1995,
+   "cited_by_count": 3640,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Computations with Cold Trapped Ions"
+  },
+  {
+   "paper_id": "W2035413341",
+   "year": 1998,
+   "cited_by_count": 3559,
+   "C_5_pctl": 1.0,
+   "title": "Cold Bosonic Atoms in Optical Lattices"
+  },
+  {
+   "paper_id": "W2133157165",
+   "year": 2001,
+   "cited_by_count": 3502,
+   "C_5_pctl": 1.0,
+   "title": "Long-distance quantum communication with atomic ensembles and linear optics"
+  },
+  {
+   "paper_id": "W2092105345",
+   "year": 1998,
+   "cited_by_count": 3289,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Repeaters: The Role of Imperfect Local Operations in Quantum Communication"
+  },
+  {
+   "paper_id": "W2017077355",
+   "year": 1997,
+   "cited_by_count": 2145,
+   "C_5_pctl": 1.0,
+   "title": "Quantum State Transfer and Entanglement Distribution among Distant Nodes in a Quantum Network"
+  },
+  {
+   "paper_id": "W2106725754",
+   "year": 2000,
+   "cited_by_count": 2012,
+   "C_5_pctl": 1.0,
+   "title": "Inseparability Criterion for Continuous Variable Systems"
+  },
+  {
+   "paper_id": "W2042458092",
+   "year": 2001,
+   "cited_by_count": 1575,
+   "C_5_pctl": 1.0,
+   "title": "Dipole Blockade and Quantum Information Processing in Mesoscopic Atomic Ensembles"
+  },
+  {
+   "paper_id": "W2488446542",
+   "year": 2017,
+   "cited_by_count": 1493,
+   "C_5_pctl": 1.0,
+   "title": "Chiral quantum optics"
+  },
+  {
+   "paper_id": "W2014586701",
+   "year": 2000,
+   "cited_by_count": 1489,
+   "C_5_pctl": 1.0,
+   "title": "Fast Quantum Gates for Neutral Atoms"
+  },
+  {
+   "paper_id": "W2072296482",
+   "year": 2008,
+   "cited_by_count": 1223,
+   "C_5_pctl": 1.0,
+   "title": "Quantum states and phases in driven open quantum systems with cold atoms"
+  },
+  {
+   "paper_id": "W2058698962",
+   "year": 2011,
+   "cited_by_count": 1064,
+   "C_5_pctl": 1.0,
+   "title": "An open-system quantum simulator with trapped ions"
+  },
+  {
+   "paper_id": "W2045108970",
+   "year": 2006,
+   "cited_by_count": 1053,
+   "C_5_pctl": 1.0,
+   "title": "A toolbox for lattice-spin models with polar molecules"
+  },
+  {
+   "paper_id": "W1816400090",
+   "year": 2001,
+   "cited_by_count": 926,
+   "C_5_pctl": 1.0,
+   "title": "Many-particle entanglement with Bose–Einstein condensates"
+  },
+  {
+   "paper_id": "W1692771265",
+   "year": 2014,
+   "cited_by_count": 853,
+   "C_5_pctl": 1.0,
+   "title": "Quasiparticle engineering and entanglement propagation in a quantum many-body system"
+  },
+  {
+   "paper_id": "W2099277972",
+   "year": 2010,
+   "cited_by_count": 821,
+   "C_5_pctl": 1.0,
+   "title": "A Rydberg quantum simulator"
+  },
+  {
+   "paper_id": "W2394549188",
+   "year": 2016,
+   "cited_by_count": 782,
+   "C_5_pctl": 1.0,
+   "title": "Real-time dynamics of lattice gauge theories with a few-qubit quantum computer"
+  },
+  {
+   "paper_id": "W2084336605",
+   "year": 1999,
+   "cited_by_count": 778,
+   "C_5_pctl": 1.0,
+   "title": "Entanglement of Atoms via Cold Controlled Collisions"
+  },
+  {
+   "paper_id": "W2027926771",
+   "year": 1995,
+   "cited_by_count": 774,
+   "C_5_pctl": 1.0,
+   "title": "Decoherence, Continuous Observation, and Quantum Computing: A Cavity QED Model"
+  },
+  {
+   "paper_id": "W2059023154",
+   "year": 2001,
+   "cited_by_count": 773,
+   "C_5_pctl": 1.0,
+   "title": "Geometric Manipulation of Trapped Ions for Quantum Computation"
+  },
+  {
+   "paper_id": "W2000446243",
+   "year": 1999,
+   "cited_by_count": 747,
+   "C_5_pctl": 0.99,
+   "title": "Quantum repeaters based on entanglement purification"
+  },
+  {
+   "paper_id": "W2057368709",
+   "year": 2008,
+   "cited_by_count": 745,
+   "C_5_pctl": 1.0,
+   "title": "Preparation of entangled states by quantum Markov processes"
+  },
+  {
+   "paper_id": "W2077593662",
+   "year": 2011,
+   "cited_by_count": 735,
+   "C_5_pctl": 1.0,
+   "title": "Majorana Fermions in Equilibrium and in Driven Cold-Atom Quantum Wires"
+  },
+  {
+   "paper_id": "W2092285095",
+   "year": 1996,
+   "cited_by_count": 729,
+   "C_5_pctl": 0.99,
+   "title": "Quantum Reservoir Engineering with Laser Cooled Trapped Ions"
+  },
+  {
+   "paper_id": "W1739343289",
+   "year": 2015,
+   "cited_by_count": 708,
+   "C_5_pctl": 1.0,
+   "title": "Observation of chiral edge states with neutral fermions in synthetic Hall ribbons"
+  },
+  {
+   "paper_id": "W2470570791",
+   "year": 2016,
+   "cited_by_count": 673,
+   "C_5_pctl": 1.0,
+   "title": "Topological quantum matter with ultracold gases in optical lattices"
+  },
+  {
+   "paper_id": "W1965928854",
+   "year": 1997,
+   "cited_by_count": 667,
+   "C_5_pctl": 0.99,
+   "title": "Complete Characterization of a Quantum Process: The Two-Bit Quantum Gate"
+  },
+  {
+   "paper_id": "W2006763149",
+   "year": 2000,
+   "cited_by_count": 657,
+   "C_5_pctl": 0.99,
+   "title": "Sonic Analog of Gravitational Black Holes in Bose-Einstein Condensates"
+  },
+  {
+   "paper_id": "W2058324353",
+   "year": 1992,
+   "cited_by_count": 628,
+   "C_5_pctl": 1.0,
+   "title": "Monte Carlo simulation of the atomic master equation for spontaneous emission"
+  },
+  {
+   "paper_id": "W2089867976",
+   "year": 2011,
+   "cited_by_count": 611,
+   "C_5_pctl": 1.0,
+   "title": "Universal Digital Quantum Simulation with Trapped Ions"
+  },
+  {
+   "paper_id": "W2065222678",
+   "year": 2000,
+   "cited_by_count": 603,
+   "C_5_pctl": 1.0,
+   "title": "Bose-Einstein Condensation in Trapped Dipolar Gases"
+  },
+  {
+   "paper_id": "W2014009940",
+   "year": 2009,
+   "cited_by_count": 594,
+   "C_5_pctl": 1.0,
+   "title": "Cavity opto-mechanics using an optically levitated nanosphere"
+  },
+  {
+   "paper_id": "W2134786991",
+   "year": 2006,
+   "cited_by_count": 588,
+   "C_5_pctl": 1.0,
+   "title": "Repulsively bound atom pairs in an optical lattice"
+  },
+  {
+   "paper_id": "W1987390099",
+   "year": 1999,
+   "cited_by_count": 572,
+   "C_5_pctl": 0.99,
+   "title": "Creation of entangled states of distant atoms by interference"
+  },
+  {
+   "paper_id": "W3100448746",
+   "year": 2013,
+   "cited_by_count": 571,
+   "C_5_pctl": 1.0,
+   "title": "The cold atom Hubbard toolbox"
+  },
+  {
+   "paper_id": "W2807819165",
+   "year": 2019,
+   "cited_by_count": 557,
+   "C_5_pctl": 1.0,
+   "title": "Probing Rényi entanglement entropy via randomized measurements"
+  },
+  {
+   "paper_id": "W2890999059",
+   "year": 2019,
+   "cited_by_count": 512,
+   "C_5_pctl": 1.0,
+   "title": "Quantum Kibble–Zurek mechanism and critical dynamics on a programmable Rydberg simulator"
+  },
+  {
+   "paper_id": "W1540681610",
+   "year": 2000,
+   "cited_by_count": 510,
+   "C_5_pctl": 1.0,
+   "title": "A scalable quantum computer with ions in an array of microtraps"
+  },
+  {
+   "paper_id": "W2004199239",
+   "year": 2007,
+   "cited_by_count": 499,
+   "C_5_pctl": 1.0,
+   "title": "Strongly Correlated 2D Quantum Phases with Cold Polar Molecules: Controlling the Shape of the Interaction Potential"
+  },
+  {
+   "paper_id": "W3101721439",
+   "year": 2019,
+   "cited_by_count": 477,
+   "C_5_pctl": 1.0,
+   "title": "Simulating lattice gauge theories within quantum technologies"
+  },
+  {
+   "paper_id": "W2004759388",
+   "year": 1981,
+   "cited_by_count": 454,
+   "C_5_pctl": 1.0,
+   "title": "Reduced Quantum Fluctuations in Resonance Fluorescence"
+  },
+  {
+   "paper_id": "W2106155337",
+   "year": 2012,
+   "cited_by_count": 453,
+   "C_5_pctl": 1.0,
+   "title": "Optomechanical Quantum Information Processing with Photons and Phonons"
+  },
+  {
+   "paper_id": "W2023777298",
+   "year": 1998,
+   "cited_by_count": 434,
+   "C_5_pctl": 0.99,
+   "title": "Quantum superposition states of Bose-Einstein condensates"
+  },
+  {
+   "paper_id": "W1991583534",
+   "year": 2002,
+   "cited_by_count": 433,
+   "C_5_pctl": 1.0,
+   "title": "High-Temperature Superfluidity of Fermionic Atoms in Optical Lattices"
+  },
+  {
+   "paper_id": "W2008843935",
+   "year": 1992,
+   "cited_by_count": 426,
+   "C_5_pctl": 1.0,
+   "title": "Wave-function quantum stochastic differential equations and quantum-jump simulation methods"
+  },
+  {
+   "paper_id": "W2065682906",
+   "year": 2005,
+   "cited_by_count": 421,
+   "C_5_pctl": 1.0,
+   "title": "Fault-tolerant architecture for quantum computation using electrically controlled semiconductor spins"
+  },
+  {
+   "paper_id": "W2014791928",
+   "year": 2005,
+   "cited_by_count": 412,
+   "C_5_pctl": 1.0,
+   "title": "Cold Atoms in Non-Abelian Gauge Potentials: From the Hofstadter \"Moth\" to Lattice Gauge Theory"
+  },
+  {
+   "paper_id": "W2107065878",
+   "year": 2010,
+   "cited_by_count": 411,
+   "C_5_pctl": 1.0,
+   "title": "A quantum spin transducer based on nanoelectromechanical resonator arrays"
+  },
+  {
+   "paper_id": "W1970474373",
+   "year": 1996,
+   "cited_by_count": 411,
+   "C_5_pctl": 1.0,
+   "title": "Low Energy Excitations of a Bose-Einstein Condensate: A Time-Dependent Variational Analysis"
+  },
+  {
+   "paper_id": "W1982923890",
+   "year": 2006,
+   "cited_by_count": 404,
+   "C_5_pctl": 1.0,
+   "title": "A coherent all-electrical interface between polar molecules and mesoscopic superconducting resonators"
+  },
+  {
+   "paper_id": "W2086039575",
+   "year": 2006,
+   "cited_by_count": 401,
+   "C_5_pctl": 1.0,
+   "title": "Hybrid Quantum Processors: Molecular Ensembles as Quantum Memory for Solid State Circuits"
+  },
+  {
+   "paper_id": "W2043243214",
+   "year": 2012,
+   "cited_by_count": 396,
+   "C_5_pctl": 1.0,
+   "title": "Measuring Entanglement Growth in Quench Dynamics of Bosons in an Optical Lattice"
+  },
+  {
+   "paper_id": "W2072599212",
+   "year": 1993,
+   "cited_by_count": 390,
+   "C_5_pctl": 1.0,
+   "title": "Synthesis of arbitrary quantum states via adiabatic transfer of Zeeman coherence"
+  },
+  {
+   "paper_id": "W2035386001",
+   "year": 1997,
+   "cited_by_count": 388,
+   "C_5_pctl": 0.99,
+   "title": "Dynamics of Bose-Einstein condensates: Variational solutions of the Gross-Pitaevskii equations"
+  },
+  {
+   "paper_id": "W2072250917",
+   "year": 2014,
+   "cited_by_count": 364,
+   "C_5_pctl": 1.0,
+   "title": "Spectroscopic observation of SU( N )-symmetric interactions in Sr orbital magnetism"
+  },
+  {
+   "paper_id": "W2074230820",
+   "year": 2004,
+   "cited_by_count": 362,
+   "C_5_pctl": 0.99,
+   "title": "Laser Cooling of a Nanomechanical Resonator Mode to its Quantum Ground State"
+  },
+  {
+   "paper_id": "W2003686536",
+   "year": 1981,
+   "cited_by_count": 348,
+   "C_5_pctl": 1.0,
+   "title": "Autoionizing states in strong laser fields"
+  },
+  {
+   "paper_id": "W2027330396",
+   "year": 2012,
+   "cited_by_count": 346,
+   "C_5_pctl": 1.0,
+   "title": "Atomic Quantum Simulation of Dynamical Gauge Fields Coupled to Fermionic Matter: From String Breaking to Evolution after a Quench"
+  },
+  {
+   "paper_id": "W1996459947",
+   "year": 2010,
+   "cited_by_count": 337,
+   "C_5_pctl": 1.0,
+   "title": "Dynamical Phase Transitions and Instabilities in Open Atomic Many-Body Systems"
+  },
+  {
+   "paper_id": "W2763152578",
+   "year": 2016,
+   "cited_by_count": 336,
+   "C_5_pctl": 1.0,
+   "title": "Measuring multipartite entanglement through dynamic susceptibilities"
+  },
+  {
+   "paper_id": "W2071498489",
+   "year": 2015,
+   "cited_by_count": 328,
+   "C_5_pctl": 1.0,
+   "title": "Quantum optics of chiral spin networks"
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "person": "Makoto Fujita",
+ "profile": "A5019559729",
+ "ids": [
+  "A5019559729"
+ ],
+ "options": [
+  "for the development of coordination-driven molecular self-assembly — Makoto Fujita"
+ ],
+ "birth_year": 1957,
+ "cutoff_year": 1982,
+ "works": [
+  {
+   "paper_id": "W1966555774",
+   "year": 1994,
+   "cited_by_count": 2348,
+   "title": "Preparation, Clathration Ability, and Catalysis of a Two-Dimensional Square Network Material Composed of Cadmium(II) and 4,4'-Bipyridine",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031876508",
+   "year": 2005,
+   "cited_by_count": 1993,
+   "title": "Coordination Assemblies from a Pd(II)-Cornered Square Complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169594520",
+   "year": 2009,
+   "cited_by_count": 1891,
+   "title": "Functional Molecular Flasks: New Properties and Reactions within Discrete, Self‐Assembled Hosts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2161690712",
+   "year": 1998,
+   "cited_by_count": 1311,
+   "title": "Metal-directed self-assembly of two- and three-dimensional synthetic receptors",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2122508191",
+   "year": 2006,
+   "cited_by_count": 1268,
+   "title": "Diels-Alder in Aqueous Molecular Hosts: Unusual Regioselectivity and Efficient Catalysis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2027685691",
+   "year": 1995,
+   "cited_by_count": 1016,
+   "title": "Self-assembly of ten molecules into nanometre-sized organic host frameworks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078399627",
+   "year": 2013,
+   "cited_by_count": 852,
+   "title": "X-ray analysis on the nanogram to microgram scale using porous complexes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977961375",
+   "year": 2001,
+   "cited_by_count": 849,
+   "title": "Molecular paneling via coordination",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1971775718",
+   "year": 2010,
+   "cited_by_count": 821,
+   "title": "Self-Assembled M 24 L 48 Polyhedra and Their Sharp Structural Switch upon Subtle Ligand Variation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046994616",
+   "year": 1990,
+   "cited_by_count": 801,
+   "title": "Preparation of a macrocyclic polynuclear complex, [(en)Pd(4,4'-bpy)]4(NO3)8 (en = ethylenediamine, bpy = bipyridine), which recognizes an organic molecule in aqueous media",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2565825795",
+   "year": 2016,
+   "cited_by_count": 697,
+   "title": "Self-assembly of tetravalent Goldberg polyhedra from 144 small components",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2950533837",
+   "year": 1998,
+   "cited_by_count": 600,
+   "title": "Self-Assembly of [2]Catenanes Containing Metals in Their Backbones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2050564345",
+   "year": 2013,
+   "cited_by_count": 596,
+   "title": "Giant hollow MnL2n spherical complexes: structure, functionalisation and applications",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100300640",
+   "year": 2011,
+   "cited_by_count": 581,
+   "title": "Crystalline molecular flasks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084500890",
+   "year": 2009,
+   "cited_by_count": 489,
+   "title": "Funktionale molekulare Reaktionskolben: neuartige Eigenschaften und Reaktionen in diskreten, selbstorganisierten Wirtmolekülen",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1992184988",
+   "year": 1995,
+   "cited_by_count": 485,
+   "title": "Interpenetrating Molecular Ladders and Bricks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1544546998",
+   "year": 1999,
+   "cited_by_count": 459,
+   "title": "Spontaneous assembly of ten components into two interlocked, identical coordination cages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2001904302",
+   "year": 1994,
+   "cited_by_count": 453,
+   "title": "Quantitative self-assembly of a [2]catenane from two preformed molecular rings",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2073380218",
+   "year": 2002,
+   "cited_by_count": 446,
+   "title": "A Springlike 3D-Coordination Network That Shrinks or Swells in a Crystal-to-Crystal Manner upon Guest Removal or Readsorption",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2116244304",
+   "year": 2004,
+   "cited_by_count": 423,
+   "title": "Finite, Spherical Coordination Networks that Self‐Organize from 36 Small Components",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1515574670",
+   "year": 1999,
+   "cited_by_count": 417,
+   "title": "A nanometre-sized hexahedral coordination capsule assembled from 24 components",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034015984",
+   "year": 2009,
+   "cited_by_count": 386,
+   "title": "Engineering discrete stacks of aromatic molecules",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074944056",
+   "year": 1996,
+   "cited_by_count": 357,
+   "title": "On the structure of transition-metal-linked molecular squares",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036670935",
+   "year": 1995,
+   "cited_by_count": 351,
+   "title": "Guest-Induced Organization of a Three-Dimensional Palladium(II) Cagelike Complex. A Prototype for \"Induced-Fit\" Molecular Recognition",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109869487",
+   "year": 2002,
+   "cited_by_count": 341,
+   "title": "Cavity-Directed, Highly Stereoselective [2+2] Photodimerization of Olefins within Self-Assembled Coordination Cages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082355199",
+   "year": 2010,
+   "cited_by_count": 331,
+   "title": "Networked molecular cages as crystalline sponges for fullerenes and other guests",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2101491611",
+   "year": 2014,
+   "cited_by_count": 331,
+   "title": "Radical CH Functionalization of Heteroarenes under Electrochemical Control",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130893104",
+   "year": 2007,
+   "cited_by_count": 331,
+   "title": "Direct observation of crystalline-state guest exchange in coordination networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2171957747",
+   "year": 2000,
+   "cited_by_count": 326,
+   "title": "Open Square‐Grid Coordination Polymers of the Dimensions 20×20 Å: Remarkably Stable and Crystalline Solids Even after Guest Removal",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138885168",
+   "year": 2002,
+   "cited_by_count": 323,
+   "title": "Crystal-to-Crystal Sliding of 2D Coordination Layers Triggered by Guest Exchange",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2080794779",
+   "year": 1996,
+   "cited_by_count": 317,
+   "title": "Transition-metal-directed assembly of well-defined organic architectures possessing large voids: From macrocycles to [2] catenanes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2084317816",
+   "year": 2000,
+   "cited_by_count": 308,
+   "title": "Ship-in-a-Bottle Synthesis of Otherwise Labile Cyclic Trimers of Siloxanes in a Self-Assembled Coordination Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041471015",
+   "year": 2006,
+   "cited_by_count": 306,
+   "title": "Fluorous Nanodroplets Structurally Confined in an Organopalladium Sphere",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2471929598",
+   "year": 2016,
+   "cited_by_count": 303,
+   "title": "Self-Assembly of M 30 L 60 Icosidodecahedron",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151113522",
+   "year": 2000,
+   "cited_by_count": 299,
+   "title": "A Silver(I) Coordination Polymer Chain Containing Nanosized Tubes with Anionic and Solvent Molecule Guests",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2060912357",
+   "year": 2009,
+   "cited_by_count": 287,
+   "title": "X-ray observation of a transient hemiaminal trapped in a porous network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086329771",
+   "year": 2008,
+   "cited_by_count": 286,
+   "title": "Asymmetric [2 + 2] Olefin Cross Photoaddition in a Self-Assembled Host with Remote Chiral Auxiliaries",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2315207226",
+   "year": 2011,
+   "cited_by_count": 283,
+   "title": "Cage-Catalyzed Knoevenagel Condensation under Neutral Conditions in Water",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007482864",
+   "year": 2005,
+   "cited_by_count": 281,
+   "title": "Endohedral Clusterization of Ten Water Molecules into a “Molecular Ice” within the Hydrophobic Pocket of a Self-Assembled Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1980253931",
+   "year": 1999,
+   "cited_by_count": 280,
+   "title": "Quantitative Formation of Coordination Nanotubes Templated by Rodlike Guests",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098468605",
+   "year": 2005,
+   "cited_by_count": 273,
+   "title": "Discrete Stacking of Large Aromatic Molecules within Organic‐Pillared Coordination Cages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3016476799",
+   "year": 2020,
+   "cited_by_count": 260,
+   "title": "Enhanced reactivity of twisted amides inside a molecular cage",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978749918",
+   "year": 2002,
+   "cited_by_count": 259,
+   "title": "Self-Assembled M6L4-Type Coordination Nanocage with 2,2‘-Bipyridine Ancillary Ligands. Facile Crystallization and X-ray Analysis of Shape-Selective Enclathration of Neutral Guests in the Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2606723378",
+   "year": 2017,
+   "cited_by_count": 256,
+   "title": "Permeable Self-Assembled Molecular Containers for Catalyst Isolation Enabling Two-Step Cascade Reactions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093559586",
+   "year": 2007,
+   "cited_by_count": 255,
+   "title": "Unusual [2+4] and [2+2] Cycloadditions of Arenes in the Confined Cavity of Self-Assembled Cages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053785122",
+   "year": 1998,
+   "cited_by_count": 251,
+   "title": "Self-Assembly of Nanometer-Sized Macrotricyclic Complexes from Ten Small Component Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1964211955",
+   "year": 2012,
+   "cited_by_count": 245,
+   "title": "Protein encapsulation within synthetic molecular hosts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057093002",
+   "year": 2004,
+   "cited_by_count": 244,
+   "title": "Alkane Oxidation via Photochemical Excitation of a Self-Assembled Molecular Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976420309",
+   "year": 2010,
+   "cited_by_count": 235,
+   "title": "Naphthalene Diels−Alder in a Self-Assembled Molecular Flask",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2048907031",
+   "year": 2009,
+   "cited_by_count": 235,
+   "title": "Minimal nucleotide duplex formation in water through enclathration in self-assembled hosts",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124528111",
+   "year": 2015,
+   "cited_by_count": 230,
+   "title": "One‐Step Synthesis of [16]Helicene",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051178859",
+   "year": 1995,
+   "cited_by_count": 228,
+   "title": "A Molecular Lock",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2090616218",
+   "year": 2000,
+   "cited_by_count": 228,
+   "title": "Flexible Coordination Networks with Fluorinated Backbones. Remarkable Ability for Induced-Fit Enclathration of Organic Molecules",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993886608",
+   "year": 2003,
+   "cited_by_count": 225,
+   "title": "Cavity-Directed Synthesis within a Self-Assembled Coordination Cage: Highly Selective [2 + 2] Cross-Photodimerization of Olefins",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2023509619",
+   "year": 1993,
+   "cited_by_count": 221,
+   "title": "Palladium(II)-directed assembly of macrocyclic dinuclear complexes composed of (en)Pd2+ and bis(4-pyridyl)-substituted bidentate ligands. Remarkable ability for molecular recognition of electron-rich aromatic guests",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2310476870",
+   "year": 2016,
+   "cited_by_count": 218,
+   "title": "The crystalline sponge method updated",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078951908",
+   "year": 2005,
+   "cited_by_count": 215,
+   "title": "Room-Temperature and Solution-State Observation of the Mixed-Valence Cation Radical Dimer of Tetrathiafulvalene, [(TTF)2]+•, within a Self-Assembled Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093917635",
+   "year": 2000,
+   "cited_by_count": 215,
+   "title": "A Nanometer-Sized Metallosupramolecular Cube with Oh Symmetry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2113558742",
+   "year": 2003,
+   "cited_by_count": 215,
+   "title": "Multicomponent Assembly of a Pyrazine‐Pillared Coordination Cage That Selectively Binds Planar Guests by Intercalation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993275801",
+   "year": 2004,
+   "cited_by_count": 214,
+   "title": "Crystal-to-Crystal Guest Exchange of Large Organic Molecules within a 3D Coordination Network",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145121636",
+   "year": 2012,
+   "cited_by_count": 212,
+   "title": "An M18L24 stellated cuboctahedron through post-stellation of an M12L24 core",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2036156167",
+   "year": 2007,
+   "cited_by_count": 203,
+   "title": "Solvato‐Controlled Assembly of Pd 3 L 6 and Pd 4 L 8 Coordination “Boxes”",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2069740717",
+   "year": 2006,
+   "cited_by_count": 198,
+   "title": "Direct Crystallographic Observation of a Coordinatively Unsaturated Transition-Metal Complex in situ Generated within a Self-Assembled Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074815679",
+   "year": 2005,
+   "cited_by_count": 195,
+   "title": "24-Fold Endohedral Functionalization of a Self-Assembled M12L24 Coordination Nanoball",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2072167016",
+   "year": 1998,
+   "cited_by_count": 194,
+   "title": "A Thermally Switchable Molecular Lock. Guest-Templated Synthesis of a Kinetically Stable Nanosized Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2964188239",
+   "year": 2019,
+   "cited_by_count": 190,
+   "title": "Repeated evolution of cytochrome P450-mediated spiroketal steroid biosynthesis in plants",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2126595837",
+   "year": 2004,
+   "cited_by_count": 189,
+   "title": "Heterogeneous catalysis of a coordination network: cyanosilylation of imines catalyzed by a Cd( ii )-(4,4′-bipyridine) square grid complex",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2018700818",
+   "year": 1999,
+   "cited_by_count": 188,
+   "title": "“Ship-in-a-Bottle” Formation of Stable Hydrophobic Dimers of cis-Azobenzene and -Stilbene Derivatives in a Self-Assembled Coordination Nanocage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042794895",
+   "year": 2000,
+   "cited_by_count": 187,
+   "title": "Characterization of Self-Assembling Nano-Sized Structures by Means of Coldspray Ionization Mass Spectrometry",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2031772796",
+   "year": 2001,
+   "cited_by_count": 186,
+   "title": "Cavity-Directed Synthesis of Labile Silanol Oligomers within Self-Assembled Coordination Cages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2056190888",
+   "year": 1999,
+   "cited_by_count": 185,
+   "title": "Guest-Selected Formation of Pd(II)-Linked Cages from a Prototypical Dynamic Library",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2114711900",
+   "year": 2009,
+   "cited_by_count": 185,
+   "title": "Self-assembly of an M6L12 coordination cube",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2068474303",
+   "year": 2008,
+   "cited_by_count": 184,
+   "title": "Engineering Stacks of Aromatic Rings by the Interpenetration of Self-Assembled Coordination Cages",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1976219109",
+   "year": 1996,
+   "cited_by_count": 178,
+   "title": "Supramolecular Self-Assembly of Macrocycles, Catenanes, and Cages through Coordination of Pyridine-Based Ligands to Transition Metals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131924047",
+   "year": 2007,
+   "cited_by_count": 177,
+   "title": "Switching the Interior Hydrophobicity of a Self‐Assembled Spherical Complex through the Photoisomerization of Confined Azobenzene Chromophores",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2000513559",
+   "year": 2005,
+   "cited_by_count": 170,
+   "title": "Sequence-Selective Recognition of Peptides within the Single Binding Pocket of a Self-Assembled Coordination Cage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2053554479",
+   "year": 1988,
+   "cited_by_count": 169,
+   "title": "Fluoride ion-catalyzed reduction of aldehydes and ketones with hydrosilanes. Synthetic and mechanistic aspects and an application to the threo-directed reduction of .alpha.-substituted alkanones",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2065273366",
+   "year": 2001,
+   "cited_by_count": 169,
+   "title": "Dynamic Assembly of Coordination Boxes from (en)Pd(II) Unit and a Rectangular Panel-Like Ligand: NMR, CSI-MS, and X-ray Studies",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2323164237",
+   "year": 2016,
+   "cited_by_count": 169,
+   "title": "Astellifadiene: Structure Determination by NMR Spectroscopy and Crystalline Sponge Method, and Elucidation of its Biosynthesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2037626702",
+   "year": 2009,
+   "cited_by_count": 166,
+   "title": "Remarkable Stabilization of M12L24 Spherical Frameworks through the Cooperation of 48 Pd(II)−Pyridine Interactions",
+   "metrics": false,
+   "in_profile": true
+  }
+ ]
+}

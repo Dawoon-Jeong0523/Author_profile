@@ -1,0 +1,654 @@
+{
+ "person": "James J. Collins",
+ "profile": "A5065209470",
+ "ids": [
+  "A5065209470"
+ ],
+ "options": [
+  "for the development of synthetic gene circuits — James J. Collins, Michael Elowitz, Stanislas Leibler"
+ ],
+ "birth_year": 1965,
+ "cutoff_year": 1990,
+ "works": [
+  {
+   "paper_id": "W2134759932",
+   "year": 2000,
+   "cited_by_count": 4313,
+   "title": "Construction of a genetic toggle switch in Escherichia coli",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2606915822",
+   "year": 2017,
+   "cited_by_count": 4030,
+   "title": "Nucleic acid detection with CRISPR-Cas13a/C2c2",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2124428761",
+   "year": 1993,
+   "cited_by_count": 3338,
+   "title": "A practical method for calculating largest Lyapunov exponents from small data sets",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2117087393",
+   "year": 2007,
+   "cited_by_count": 2870,
+   "title": "A Common Mechanism of Cellular Death Induced by Bactericidal Antibiotics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2098597036",
+   "year": 2010,
+   "cited_by_count": 2685,
+   "title": "Highly Efficient Reprogramming to Pluripotency and Directed Differentiation of Human Cells with Synthetic Modified mRNA",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2785904295",
+   "year": 2018,
+   "cited_by_count": 2449,
+   "title": "Multiplexed and portable nucleic acid detection platform with Cas13, Cas12a, and Csm6",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3007309629",
+   "year": 2020,
+   "cited_by_count": 2428,
+   "title": "A Deep Learning Approach to Antibiotic Discovery",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091198609",
+   "year": 2005,
+   "cited_by_count": 2371,
+   "title": "Stochasticity in gene expression: from theories to phenotypes",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2128912763",
+   "year": 2010,
+   "cited_by_count": 2146,
+   "title": "How antibiotics kill bacteria: from targets to networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977099733",
+   "year": 2008,
+   "cited_by_count": 1876,
+   "title": "The Immunological Genome Project: networks of gene expression in immune cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109384743",
+   "year": 2012,
+   "cited_by_count": 1723,
+   "title": null,
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2077046573",
+   "year": 2003,
+   "cited_by_count": 1704,
+   "title": "Noise in eukaryotic gene expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2044525257",
+   "year": 2007,
+   "cited_by_count": 1588,
+   "title": "Large-Scale Mapping and Validation of Escherichia coli Transcriptional Regulation from a Compendium of Expression Profiles",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163173465",
+   "year": 2015,
+   "cited_by_count": 1569,
+   "title": "Highly efficient Cas9-mediated transcriptional programming",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2346028445",
+   "year": 2016,
+   "cited_by_count": 1407,
+   "title": "Rapid, Low-Cost Detection of Zika Virus Using Programmable Biomolecular Components",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2021099440",
+   "year": 2010,
+   "cited_by_count": 1362,
+   "title": "Synthetic biology: applications come of age",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2046105675",
+   "year": 1993,
+   "cited_by_count": 1179,
+   "title": "Open-loop and closed-loop control of posture: A random-walk analysis of center-of-pressure trajectories",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2940117744",
+   "year": 2019,
+   "cited_by_count": 1171,
+   "title": "Definitions and guidelines for research on antibiotic persistence",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2076372398",
+   "year": 2003,
+   "cited_by_count": 1127,
+   "title": "Inferring Genetic Networks and Identifying Compound Mode of Action via Expression Profiling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160803964",
+   "year": 2011,
+   "cited_by_count": 1094,
+   "title": "Cellular Decision Making and Biological Noise: From Microbes to Mammals",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3178418858",
+   "year": 2021,
+   "cited_by_count": 1085,
+   "title": "CRISPR-based diagnostics",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2007296377",
+   "year": 2011,
+   "cited_by_count": 988,
+   "title": "Metabolite-enabled eradication of bacterial persisters by aminoglycosides",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2039045853",
+   "year": 2014,
+   "cited_by_count": 985,
+   "title": "Antibiotics induce redox-related physiological alterations as part of their lethality",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2051695178",
+   "year": 2010,
+   "cited_by_count": 972,
+   "title": "Sublethal Antibiotic Treatment Leads to Multidrug Resistance via Radical-Induced Mutagenesis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2805310212",
+   "year": 2018,
+   "cited_by_count": 914,
+   "title": "Next-Generation Machine Learning for Biological Networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1994028898",
+   "year": 2014,
+   "cited_by_count": 897,
+   "title": "A brief history of synthetic biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2214747519",
+   "year": 2015,
+   "cited_by_count": 873,
+   "title": "Contributions of microbiome and mechanical deformation to intestinal bacterial overgrowth and inflammation in a human gut-on-a-chip",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155560009",
+   "year": 2007,
+   "cited_by_count": 854,
+   "title": "Dispersing biofilms with engineered enzymatic bacteriophage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1518907982",
+   "year": 2015,
+   "cited_by_count": 816,
+   "title": "Antibiotic efficacy is linked to bacterial cellular respiration",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017444605",
+   "year": 1995,
+   "cited_by_count": 811,
+   "title": "Stochastic resonance without tuning",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2120831623",
+   "year": 2014,
+   "cited_by_count": 799,
+   "title": "Toehold Switches: De-Novo-Designed Regulators of Gene Expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145789959",
+   "year": 2013,
+   "cited_by_count": 743,
+   "title": "Silver Enhances Antibiotic Activity Against Gram-Negative Bacteria",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2017862866",
+   "year": 2002,
+   "cited_by_count": 740,
+   "title": "Engineered gene circuits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4236366502",
+   "year": 2014,
+   "cited_by_count": 709,
+   "title": "Paper-Based Synthetic Gene Networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2078365477",
+   "year": 2014,
+   "cited_by_count": 644,
+   "title": "Antibiotics and the gut microbiota",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2800187318",
+   "year": 2018,
+   "cited_by_count": 643,
+   "title": "Universal Chimeric Antigen Receptors for Multiplexed and Logical Control of T Cell Responses",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127013070",
+   "year": 2006,
+   "cited_by_count": 637,
+   "title": "Phenotypic Consequences of Promoter-Mediated Transcriptional Noise",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1997253713",
+   "year": 1998,
+   "cited_by_count": 636,
+   "title": "Biomechanical gait alterations independent of speed in the healthy elderly: Evidence for specific limiting impairments",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2005327412",
+   "year": 2010,
+   "cited_by_count": 631,
+   "title": "Bacterial charity work leads to population-wide resistance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2029945156",
+   "year": 2014,
+   "cited_by_count": 630,
+   "title": "Syntrophic exchange in synthetic microbial communities",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2121987905",
+   "year": 2009,
+   "cited_by_count": 625,
+   "title": "Synthetic Gene Networks That Count",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1999716743",
+   "year": 2000,
+   "cited_by_count": 606,
+   "title": "Noise-based switches and amplifiers for gene expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2111870329",
+   "year": 2004,
+   "cited_by_count": 602,
+   "title": "Programmable cells: Interfacing natural and engineered gene networks",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1573602524",
+   "year": 2001,
+   "cited_by_count": 591,
+   "title": "Computational studies of gene regulatory networks: in numero molecular biology",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2082223061",
+   "year": 2011,
+   "cited_by_count": 586,
+   "title": "Donor cell type can influence the epigenome and differentiation potential of human induced pluripotent stem cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2141721599",
+   "year": 2003,
+   "cited_by_count": 575,
+   "title": "Aging, muscle activity, and balance control: physiologic changes associated with balance impairment",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2075171228",
+   "year": 2003,
+   "cited_by_count": 571,
+   "title": "Vibrating insoles and balance control in elderly people",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2155752821",
+   "year": 2004,
+   "cited_by_count": 560,
+   "title": "Engineered riboregulators enable post-transcriptional control of gene expression",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2954214838",
+   "year": 2019,
+   "cited_by_count": 558,
+   "title": "Bacterial Metabolism and Antibiotic Efficacy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2035145746",
+   "year": 2008,
+   "cited_by_count": 554,
+   "title": "Mistranslation of Membrane Proteins and Two-Component System Activation Trigger Antibiotic-Mediated Cell Death",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2013330518",
+   "year": 2009,
+   "cited_by_count": 541,
+   "title": "Engineered bacteriophage targeting gene networks as adjuvants for antibiotic therapy",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2137076924",
+   "year": 2013,
+   "cited_by_count": 535,
+   "title": "Bactericidal Antibiotics Induce Mitochondrial Dysfunction and Oxidative Damage in Mammalian Cells",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2166676212",
+   "year": 2014,
+   "cited_by_count": 533,
+   "title": "CellNet: Network Biology Applied to Stem Cell Engineering",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2400411104",
+   "year": 2016,
+   "cited_by_count": 533,
+   "title": "Comparison of Cas9 activators in multiple species",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2131781913",
+   "year": 2013,
+   "cited_by_count": 523,
+   "title": "Antibiotic treatment expands the resistance reservoir and ecological network of the phage metagenome",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1544022371",
+   "year": 2012,
+   "cited_by_count": 508,
+   "title": "Oxidation of the Guanine Nucleotide Pool Underlies Cell Death by Bactericidal Antibiotics",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2878721160",
+   "year": 2018,
+   "cited_by_count": 508,
+   "title": "An enhanced CRISPR repressor for targeted mammalian gene regulation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083694019",
+   "year": 1993,
+   "cited_by_count": 501,
+   "title": "Coupled nonlinear oscillators and the symmetries of animal gaits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1884241479",
+   "year": 2015,
+   "cited_by_count": 496,
+   "title": "Bactericidal Antibiotics Induce Toxic Metabolic Perturbations that Lead to Cellular Damage",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3175119564",
+   "year": 2021,
+   "cited_by_count": 495,
+   "title": "Wearable materials with embedded synthetic biology sensors for biomolecule detection",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1993474659",
+   "year": 1996,
+   "cited_by_count": 486,
+   "title": "Noise-enhanced tactile sensation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2146481325",
+   "year": 2007,
+   "cited_by_count": 479,
+   "title": "Gyrase inhibitors induce an oxidative damage cellular death pathway in Escherichia coli",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2038779898",
+   "year": 2009,
+   "cited_by_count": 473,
+   "title": "Role of reactive oxygen species in antibiotic action and resistance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138419639",
+   "year": 2013,
+   "cited_by_count": 473,
+   "title": "Microbial Persistence and the Road to Drug Resistance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2151151867",
+   "year": 2014,
+   "cited_by_count": 461,
+   "title": "Bone marrow–on–a–chip replicates hematopoietic niche physiology in vitro",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1978009694",
+   "year": 2013,
+   "cited_by_count": 459,
+   "title": "Potentiating antibacterial activity by predictably enhancing endogenous microbial ROS production",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995167938",
+   "year": 1995,
+   "cited_by_count": 456,
+   "title": "Aperiodic stochastic resonance in excitable systems",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985654700",
+   "year": 2003,
+   "cited_by_count": 451,
+   "title": "Prediction and measurement of an autoregulatory genetic module",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2130912501",
+   "year": 2009,
+   "cited_by_count": 451,
+   "title": "Diversity-based, model-guided construction of synthetic gene networks with predicted functions",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1972764318",
+   "year": 2003,
+   "cited_by_count": 444,
+   "title": "Reverse engineering gene networks: Integrating genetic perturbations with dynamical modeling",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2148575470",
+   "year": 2009,
+   "cited_by_count": 425,
+   "title": "MicroRNAs as modulators of smoking-induced gene expression changes in human airway epithelium",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2160237938",
+   "year": 2011,
+   "cited_by_count": 420,
+   "title": "Synthetic Biology Moving into the Clinic",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2009265628",
+   "year": 2012,
+   "cited_by_count": 406,
+   "title": "Signaling-mediated bacterial persister formation",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2138826821",
+   "year": 2012,
+   "cited_by_count": 402,
+   "title": "Antibiotic-Induced Bacterial Cell Death Exhibits Physiological and Biochemical Hallmarks of Apoptosis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2739451081",
+   "year": 2017,
+   "cited_by_count": 394,
+   "title": "Complex cellular logic computation using ribocomputing devices",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2091086093",
+   "year": 1999,
+   "cited_by_count": 393,
+   "title": "Symmetry in locomotor central pattern generators and animal gaits",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1968484714",
+   "year": 1994,
+   "cited_by_count": 392,
+   "title": "Random Walking during Quiet Standing",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2109132687",
+   "year": 1994,
+   "cited_by_count": 392,
+   "title": "Reconstruction expansion as a geometry-based framework for choosing proper delay times",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2419392757",
+   "year": 1996,
+   "cited_by_count": 391,
+   "title": "Noise-enhanced information transmission in rat SA1 cutaneous mechanoreceptors via aperiodic stochastic resonance",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2094306248",
+   "year": 2000,
+   "cited_by_count": 387,
+   "title": "A New Urban Ecology",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

@@ -1,0 +1,683 @@
+{
+ "person": "Ching W. Tang",
+ "options": [
+  "for the development of efficient organic light-emitting diodes — Ching W. Tang, Steven A. Van Slyke",
+  "for the development of efficient organic light-emitting diodes — Ching W. Tang, Steven A. Van Slyke, Mark E. Thompson",
+  "for the invention of organic light-emitting diodes — Ching W. Tang, Steven Van Slyke"
+ ],
+ "birth_year": 1947,
+ "patents": [
+  {
+   "patent_id": "4769292",
+   "title": "Electroluminescent device with modified thin film luminescent zone",
+   "filing_year": 1987,
+   "grant_year": 1988,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 2211
+  },
+  {
+   "patent_id": "5061569",
+   "title": "Electroluminescent device with organic electroluminescent medium",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 1229
+  },
+  {
+   "patent_id": "4539507",
+   "title": "Organic electroluminescent devices having improved power conversion efficiencies",
+   "filing_year": 1983,
+   "grant_year": 1985,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 833
+  },
+  {
+   "patent_id": "5684365",
+   "title": "TFT-el display panel using organic electroluminescent media",
+   "filing_year": 1994,
+   "grant_year": 1997,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 707
+  },
+  {
+   "patent_id": "4356429",
+   "title": "Organic electroluminescent cell",
+   "filing_year": 1980,
+   "grant_year": 1982,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 705
+  },
+  {
+   "patent_id": "4720432",
+   "title": "Electroluminescent device with organic luminescent medium",
+   "filing_year": 1987,
+   "grant_year": 1988,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 607
+  },
+  {
+   "patent_id": "4885211",
+   "title": "Electroluminescent device with improved cathode",
+   "filing_year": 1987,
+   "grant_year": 1989,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 537
+  },
+  {
+   "patent_id": "5550066",
+   "title": "Method of fabricating a TFT-EL pixel",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 491
+  },
+  {
+   "patent_id": "5294870",
+   "title": "Organic electroluminescent multicolor image display device",
+   "filing_year": 1991,
+   "grant_year": 1994,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 457
+  },
+  {
+   "patent_id": "5294869",
+   "title": "Organic electroluminescent multicolor image display device",
+   "filing_year": 1991,
+   "grant_year": 1994,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 320
+  },
+  {
+   "patent_id": "6465115",
+   "title": "Electroluminescent device with anthracene derivatives hole transport layer",
+   "filing_year": 1998,
+   "grant_year": 2002,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 260
+  },
+  {
+   "patent_id": "5645948",
+   "title": "Blue organic electroluminescent devices",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 241
+  },
+  {
+   "patent_id": "4950950",
+   "title": "Electroluminescent device with silazane-containing luminescent zone",
+   "filing_year": 1989,
+   "grant_year": 1990,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 237
+  },
+  {
+   "patent_id": "5059862",
+   "title": "Electroluminescent device with improved cathode",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 235
+  },
+  {
+   "patent_id": "6717358",
+   "title": "Cascaded organic electroluminescent devices with improved voltage stability",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 210
+  },
+  {
+   "patent_id": "5688551",
+   "title": "Method of forming an organic electroluminescent display panel",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 209
+  },
+  {
+   "patent_id": "5482896",
+   "title": "Light emitting device comprising an organic LED array on an ultra thin substrate and process for forming same",
+   "filing_year": 1993,
+   "grant_year": 1996,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 197
+  },
+  {
+   "patent_id": "5409783",
+   "title": "Red-emitting organic electroluminescent device",
+   "filing_year": 1994,
+   "grant_year": 1995,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 185
+  },
+  {
+   "patent_id": "6596415",
+   "title": "Electroluminescent device with polyphenyl hydrocarbon hole transport layer",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 182
+  },
+  {
+   "patent_id": "7064733",
+   "title": "Flat-panel display with luminance feedback",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 182
+  },
+  {
+   "patent_id": "5073446",
+   "title": "Organic electroluminescent device with stabilizing fused metal particle cathode",
+   "filing_year": 1990,
+   "grant_year": 1991,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 174
+  },
+  {
+   "patent_id": "5935721",
+   "title": "Organic electroluminescent elements for stable electroluminescent",
+   "filing_year": 1998,
+   "grant_year": 1999,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 163
+  },
+  {
+   "patent_id": "5276380",
+   "title": "Organic electroluminescent image display device",
+   "filing_year": 1991,
+   "grant_year": 1994,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 161
+  },
+  {
+   "patent_id": "5552678",
+   "title": "AC drive scheme for organic led",
+   "filing_year": 1994,
+   "grant_year": 1996,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 148
+  },
+  {
+   "patent_id": "5776622",
+   "title": "Bilayer eletron-injeting electrode for use in an electroluminescent device",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 139
+  },
+  {
+   "patent_id": "5937272",
+   "title": "Patterned organic layers in a full-color organic electroluminescent display array on a thin film transistor array substrate",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 136
+  },
+  {
+   "patent_id": "6965197",
+   "title": "Organic light-emitting device having enhanced light extraction efficiency",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 131
+  },
+  {
+   "patent_id": "5683823",
+   "title": "White light-emitting organic electroluminescent devices",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 128
+  },
+  {
+   "patent_id": "6872472",
+   "title": "Providing an organic electroluminescent device having stacked electroluminescent units",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 125
+  },
+  {
+   "patent_id": "6066357",
+   "title": "Methods of making a full-color organic light-emitting display",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 122
+  },
+  {
+   "patent_id": "5677572",
+   "title": "Bilayer electrode on a n-type semiconductor",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 111
+  },
+  {
+   "patent_id": "5593788",
+   "title": "Organic electroluminescent devices with high operational stability",
+   "filing_year": 1996,
+   "grant_year": 1997,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 110
+  },
+  {
+   "patent_id": "5935720",
+   "title": "Red organic electroluminescent devices",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 110
+  },
+  {
+   "patent_id": "5851709",
+   "title": "Method for selective transfer of a color organic layer",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 106
+  },
+  {
+   "patent_id": "6384529",
+   "title": "Full color active matrix organic electroluminescent display panel having an integrated shadow mask",
+   "filing_year": 1998,
+   "grant_year": 2002,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 105
+  },
+  {
+   "patent_id": "6020078",
+   "title": "Green organic electroluminescent devices",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 104
+  },
+  {
+   "patent_id": "5776623",
+   "title": "Transparent electron-injecting electrode for use in an electroluminescent device",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 97
+  },
+  {
+   "patent_id": "7037599",
+   "title": "Organic light emitting diodes for production of polarized light",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 90
+  },
+  {
+   "patent_id": "6172459",
+   "title": "Electron-injecting layer providing a modified interface between an organic light-emitting structure and a cathode buffer layer",
+   "filing_year": 1998,
+   "grant_year": 2001,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 89
+  },
+  {
+   "patent_id": "6361886",
+   "title": "Electroluminescent device with improved hole transport layer",
+   "filing_year": 1998,
+   "grant_year": 2002,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 82
+  },
+  {
+   "patent_id": "6128131",
+   "title": "Scaleable tiled flat-panel projection color display",
+   "filing_year": 1997,
+   "grant_year": 2000,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 81
+  },
+  {
+   "patent_id": "6936961",
+   "title": "Cascaded organic electroluminescent device having connecting units with N-type and P-type organic layers",
+   "filing_year": 2003,
+   "grant_year": 2005,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 78
+  },
+  {
+   "patent_id": "7273663",
+   "title": "White OLED having multiple white electroluminescence units",
+   "filing_year": 2004,
+   "grant_year": 2007,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 78
+  },
+  {
+   "patent_id": "5766779",
+   "title": "Electron transporting materials for organic electroluminescent devices",
+   "filing_year": 1996,
+   "grant_year": 1998,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 75
+  },
+  {
+   "patent_id": "5554450",
+   "title": "Organic electroluminescent devices with high thermal stability",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 74
+  },
+  {
+   "patent_id": "5530269",
+   "title": "Light emitting device comprising an organic led array on an ultra thin substrate",
+   "filing_year": 1995,
+   "grant_year": 1996,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 71
+  },
+  {
+   "patent_id": "6278236",
+   "title": "Organic electroluminescent devices with electron-injecting layer having aluminum and alkali halide",
+   "filing_year": 1999,
+   "grant_year": 2001,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 68
+  },
+  {
+   "patent_id": "5904961",
+   "title": "Method of depositing organic layers in organic light emitting devices",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 66
+  },
+  {
+   "patent_id": "6140763",
+   "title": "Interfacial electron-injecting layer formed from a doped cathode for organic light-emitting structure",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 65
+  },
+  {
+   "patent_id": "5608287",
+   "title": "Conductive electron injector for light-emitting diodes",
+   "filing_year": 1995,
+   "grant_year": 1997,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 58
+  },
+  {
+   "patent_id": "5756240",
+   "title": "Method of making color filter arrays by transferring colorant material",
+   "filing_year": 1997,
+   "grant_year": 1998,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 57
+  },
+  {
+   "patent_id": "6579629",
+   "title": "Cathode layer in organic light-emitting diode devices",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 51
+  },
+  {
+   "patent_id": "6048573",
+   "title": "Method of making an organic light-emitting device",
+   "filing_year": 1998,
+   "grant_year": 2000,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 43
+  },
+  {
+   "patent_id": "6570324",
+   "title": "Image display device with array of lens-lets",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 40
+  },
+  {
+   "patent_id": "4281053",
+   "title": "Multilayer organic photovoltaic elements",
+   "filing_year": 1980,
+   "grant_year": 1981,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "6348359",
+   "title": "Cathode contact structures in organic electroluminescent devices",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 35
+  },
+  {
+   "patent_id": "4164431",
+   "title": "Multilayer organic photovoltaic elements",
+   "filing_year": 1978,
+   "grant_year": 1979,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "6603150",
+   "title": "Organic light-emitting diode having an interface layer between the hole-transporting layer and the light-emitting layer",
+   "filing_year": 2001,
+   "grant_year": 2003,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "6610455",
+   "title": "Making electroluminscent display devices",
+   "filing_year": 2002,
+   "grant_year": 2003,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 33
+  },
+  {
+   "patent_id": "6475648",
+   "title": "Organic electroluminescent devices with improved stability and efficiency",
+   "filing_year": 2000,
+   "grant_year": 2002,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "7560862",
+   "title": "White OLEDs with a color-compensated electroluminescent unit",
+   "filing_year": 2004,
+   "grant_year": 2009,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 31
+  },
+  {
+   "patent_id": "4125414",
+   "title": "Organic photovoltaic elements",
+   "filing_year": 1978,
+   "grant_year": 1978,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 27
+  },
+  {
+   "patent_id": "6991859",
+   "title": "Cascaded organic electroluminescent devices",
+   "filing_year": 2003,
+   "grant_year": 2006,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 17
+  },
+  {
+   "patent_id": "7528545",
+   "title": "Color organic OLED device",
+   "filing_year": 2006,
+   "grant_year": 2009,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 16
+  },
+  {
+   "patent_id": "6794061",
+   "title": "Organic electroluminescent device having an adhesion-promoting layer for use with a magnesium cathode",
+   "filing_year": 2002,
+   "grant_year": 2004,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 14
+  },
+  {
+   "patent_id": "7030554",
+   "title": "Full-color organic display having improved blue emission",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 13
+  },
+  {
+   "patent_id": "6720090",
+   "title": "Organic light emitting diode devices with improved luminance efficiency",
+   "filing_year": 2001,
+   "grant_year": 2004,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "7126267",
+   "title": "Tandem OLED having stable intermediate connectors",
+   "filing_year": 2004,
+   "grant_year": 2006,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 12
+  },
+  {
+   "patent_id": "6890627",
+   "title": "Laser thermal transfer from a donor element containing a hole-transporting layer",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "9142779",
+   "title": "Patterning of OLED materials",
+   "filing_year": 2014,
+   "grant_year": 2015,
+   "assignee": "University of Rochester",
+   "cited_by_patents": 9
+  },
+  {
+   "patent_id": "6869699",
+   "title": "P-type materials and mixtures for electronic devices",
+   "filing_year": 2003,
+   "grant_year": 2005,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 8
+  },
+  {
+   "patent_id": "5900339",
+   "title": "Method of making color filter arrays by transferring colorant and lift-off",
+   "filing_year": 1997,
+   "grant_year": 1999,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "6849345",
+   "title": "Organic electroluminescent devices with high luminance",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "6939660",
+   "title": "Laser thermal transfer donor including a separate dopant layer",
+   "filing_year": 2002,
+   "grant_year": 2005,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 4
+  },
+  {
+   "patent_id": "4927726",
+   "title": "Photoreceptor with polynuclear bisoxazole or bisthizole",
+   "filing_year": 1988,
+   "grant_year": 1990,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "6641859",
+   "title": "Method of making an emissive layer for an organic light-emitting device",
+   "filing_year": 2000,
+   "grant_year": 2003,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "7532181",
+   "title": "Visible and invisible image display",
+   "filing_year": 2005,
+   "grant_year": 2009,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 3
+  },
+  {
+   "patent_id": "7169484",
+   "title": "Process for forming a composite including an aluminum trisquinoline complex",
+   "filing_year": 2004,
+   "grant_year": 2007,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "7799439",
+   "title": "Fluorocarbon electrode modification layer",
+   "filing_year": 2006,
+   "grant_year": 2010,
+   "assignee": "Global OLED Technology LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "8237157",
+   "title": "Fluorocarbon electrode modification layer",
+   "filing_year": 2010,
+   "grant_year": 2012,
+   "assignee": "Global OLED Technology LLC",
+   "cited_by_patents": 1
+  },
+  {
+   "patent_id": "6699595",
+   "title": "Electroluminescent device with polyphenyl hydrocarbon hole transport layer",
+   "filing_year": 2001,
+   "grant_year": 2004,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "6781149",
+   "title": "OLED device with a performance-enhancing layer",
+   "filing_year": 2003,
+   "grant_year": 2004,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "7368178",
+   "title": "Stable organic light-emitting devices using aminoanthracenes",
+   "filing_year": 2004,
+   "grant_year": 2008,
+   "assignee": "EASTMAN KODAK COMPANY",
+   "cited_by_patents": 0
+  },
+  {
+   "patent_id": "9385323",
+   "title": "Patterning of OLED materials",
+   "filing_year": 2015,
+   "grant_year": 2016,
+   "assignee": "University of Rochester",
+   "cited_by_patents": 0
+  }
+ ]
+}

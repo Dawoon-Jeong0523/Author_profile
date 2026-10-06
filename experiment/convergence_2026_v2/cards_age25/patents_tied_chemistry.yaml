@@ -1,0 +1,2207 @@
+# Patents tied to the discovery per chemistry person (patent_section.py apply reads this). Chosen 2026-10-06 by
+# LLM agents from all the person's US utility patents granted up to 2021 (cards_age25/_work/patent_pools/):
+# up to three patents most tied to the discovery of the person's option(s); n_related = how many relate.
+Akira Fujishima:
+  picks:
+  - patent_id: '6387844'
+    reason: Claims a titanium dioxide photocatalyst material itself, the semiconductor photocatalyst behind the Honda-Fujishima
+      effect, though not a water-splitting claim
+    title: Titanium dioxide photocatalyst
+    filing_year: 1998
+    grant_year: 2002
+    assignee: ''
+    cited_by_patents: 82
+  - patent_id: '5595813'
+    reason: Earliest-filed (1993) of his photocatalysis patents, claiming materials coated with a photocatalytically active
+      semiconductor metal oxide
+    title: Architectural material using metal oxide exhibiting photocatalytic activity
+    filing_year: 1993
+    grant_year: 1997
+    assignee: Takenaka Corporation
+    cited_by_patents: 113
+  - patent_id: '6013372'
+    reason: Founding and most-cited patent on photocatalytically induced superhydrophilicity of TiO2 surfaces, the main applied
+      outgrowth of his semiconductor photocatalysis work
+    title: Method for photocatalytically rendering a surface of a substrate superhydrophilic, a substrate with superhydrophilic
+      photocatalytic surface, and method of making thereof
+    filing_year: 1997
+    grant_year: 2000
+    assignee: TOTO LTD.
+    cited_by_patents: 238
+  n_related: 33
+  note: The related patents are 1990s-and-later TiO2 photocatalysis applications (self-cleaning, superhydrophilic, air purification);
+    none claims photoelectrochemical water splitting itself, which predates this list. The benzimidazole crystal and bFGF
+    patents (Takeda), the RF tuner/receiver patents (Sumitomo Electric, Panasonic) and the Fujitsu mobile-communication patents
+    clearly belong to other inventors named Akira Fujishima.
+Anthony A. Hyman:
+  picks: []
+  n_related: 0
+  note: None of the five patents concern phase separation or biomolecular condensates; they cover RNAi-derived cell-division
+    genes (Cenix Bioscience, which Hyman co-founded) and glycolic acid uses from Max Planck Dresden. The list looks consistent
+    with Hyman, with no sign of a different inventor.
+Anthony J. Arduengo III:
+  picks:
+  - patent_id: '5077414'
+    reason: 1990 DuPont filing on the synthesis of 1,3-disubstituted imidazolium salts, the direct precursors deprotonated
+      to give his stable N-heterocyclic carbenes
+    title: Preparation of 1,3-disubstituted imidazolium salts
+    filing_year: 1990
+    grant_year: 1991
+    assignee: E.I. DU PONT DE NEMOURS AND COMPANY
+    cited_by_patents: 50
+  - patent_id: '6177575'
+    reason: Process for making substituted imidazoles, the building blocks for the imidazolium and NHC precursors
+    title: Process for manufacture of imidazoles
+    filing_year: 1998
+    grant_year: 2001
+    assignee: E.I. DU PONT DE NEMOURS AND COMPANY
+    cited_by_patents: 15
+  - patent_id: '5104993'
+    reason: Earliest filing on 1,3-dialkylimidazole-2-thiones, built on the same imidazolium chemistry as the carbene work
+    title: 1,3-dialkylimidazole-2-thione catalysts and method of making same
+    filing_year: 1991
+    grant_year: 1992
+    assignee: E.I. DU PONT DE NEMOURS AND COMPANY
+    cited_by_patents: 9
+  n_related: 7
+  note: No patent claims the free stable carbene or NHC-metal catalysts; the related patents cover imidazolium salt, imidazole
+    and imidazole-2-thione chemistry. The other patents (borane curing agents, tin plating, polyimide film, enzymatic oxidation)
+    are DuPont chemistry consistent with his DuPont career, so there is no sign of a different inventor.
+Arthur L. Horwich:
+  picks:
+  - patent_id: '6214606'
+    reason: Earliest filing (1991) claiming yeast Hsp60, the mitochondrial chaperonin whose discovery showed that protein
+      folding in the cell is assisted by chaperones
+    title: Yeast heat shock protein 60 and analogs
+    filing_year: 1991
+    grant_year: 2001
+    assignee: ''
+    cited_by_patents: 0
+  - patent_id: '5428131'
+    reason: Uses archaebacterial chaperonins to stabilize and fold proteins, a direct application of the chaperonin mechanism
+      he uncovered
+    title: Archaebacterial chaperonin-mediated protein stabilization
+    filing_year: 1993
+    grant_year: 1995
+    assignee: Yale University
+    cited_by_patents: 3
+  - patent_id: '5776724'
+    reason: Claims chaperonin-mediated protein folding methods built on the GroEL/Hsp60 folding mechanism
+    title: Chaperonin-mediated protein folding
+    filing_year: 1995
+    grant_year: 1998
+    assignee: Yale University
+    cited_by_patents: 2
+  n_related: 3
+  note: All three patents are chaperonin patents from his Yale work; no sign of a same-name mix-in.
+Bill Morandi:
+  picks: []
+  n_related: 0
+  note: None of the four patents concerns skeletal editing; they cover Wacker-type alkene oxidation from his Caltech postdoc
+    and catalytic transfer hydrocyanation and cyanation from his Max Planck (Muelheim) group. No sign of a different inventor.
+Bonnie L. Bassler:
+  picks:
+  - patent_id: '6720415'
+    reason: Earliest-filed (1999) quorum-sensing patent, covering the AI-2 autoinducer pathway and LuxS synthase used by bacteria
+      for interspecies chemical signalling.
+    title: Compositions and methods for regulating bacterial pathogenesis
+    filing_year: 1999
+    grant_year: 2004
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 5
+  - patent_id: '6559176'
+    reason: Founding 2001 filing on AI-2 signalling compounds and their use to regulate bacterial growth and virulence, the
+      most cited patent in the family.
+    title: Compounds and methods for regulating bacterial growth and pathogenesis
+    filing_year: 2001
+    grant_year: 2003
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 38
+  - patent_id: '8535689'
+    reason: Claims the identification of the Vibrio cholerae autoinducer CAI-1, a second chemical signal discovered in her
+      quorum-sensing work.
+    title: Identification of bacterial autoinducer and use in treating bacterial pathogenicity
+    filing_year: 2008
+    grant_year: 2013
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 0
+  n_related: 27
+  note: Almost the whole list is quorum-sensing work (autoinducers, receptor antagonists and agonists, Qrr small RNAs). The
+    two 1995-96 Johns Hopkins chitin-catabolism patents date from her PhD and are unrelated to quorum sensing, but they are
+    not a different inventor.
+Charles T. Kresge:
+  picks:
+  - patent_id: '5102643'
+    reason: Founding 1990 Mobil composition-of-matter patent on the M41S (MCM-41) ordered mesoporous crystalline material
+      and its surfactant-templated synthesis
+    title: Composition of synthetic porous crystalline material, its synthesis
+    filing_year: 1990
+    grant_year: 1992
+    assignee: Mobil Oil Corporation
+    cited_by_patents: 182
+  - patent_id: '5098684'
+    reason: Founding 1990 patent claiming the synthetic mesoporous crystalline material with uniform, hexagonally arranged
+      large pores
+    title: Synthetic mesoporous crystaline material
+    filing_year: 1990
+    grant_year: 1992
+    assignee: Mobil Oil Corporation
+    cited_by_patents: 175
+  - patent_id: '5108725'
+    reason: 1990 companion patent claiming the surfactant-directed synthesis of the mesoporous crystalline material
+    title: Synthesis of mesoporous crystalline material
+    filing_year: 1990
+    grant_year: 1992
+    assignee: Mobil Oil Corporation
+    cited_by_patents: 62
+  n_related: 20
+  note: none (the other Mobil/ExxonMobil patents are zeolites such as MCM-22/36/56/68, pillared layered oxides and refining
+    catalysts from the same career)
+Chi-Huey Wong:
+  picks:
+  - patent_id: '6538117'
+    reason: Earliest filing of the programmable one-pot oligosaccharide synthesis (reactivity-based sequential glycosylation),
+      the core of the programmable-synthesis discovery
+    title: Programmable one-pot oligosaccharide synthesis
+    filing_year: 2001
+    grant_year: 2003
+    assignee: The Scripps Research Institute
+    cited_by_patents: 7
+  - patent_id: '5278299'
+    reason: Early (1991) chemoenzymatic synthesis of sialylated glycosyl compounds with in situ sugar-nucleotide regeneration,
+      founding his enzymatic oligosaccharide synthesis approach
+    title: Method and composition for synthesizing sialylated glycosyl compounds
+    filing_year: 1991
+    grant_year: 1994
+    assignee: Scripps Clinic and Research Foundation
+    cited_by_patents: 106
+  - patent_id: '5369017'
+    reason: Solid-phase chemoenzymatic glycopeptide synthesis, an early method for building glycoproteins and glycopeptides
+    title: Process for solid phase glycopeptide synthesis
+    filing_year: 1994
+    grant_year: 1994
+    assignee: The Scripps Research Institute
+    cited_by_patents: 90
+  n_related: 45
+  note: Patents clearly reflect the discovery, with many enzymatic/chemoenzymatic carbohydrate synthesis patents (Scripps,
+    Searle) and later glycoprotein, glycan-array and homogeneous-antibody-glycoform patents (Academia Sinica). Unrelated drug,
+    Reishi-polysaccharide and antiviral patents are his own broader work, not a different inventor.
+Ching W. Tang:
+  picks:
+  - patent_id: '4539507'
+    reason: The 1983 VanSlyke-Tang filing claiming the efficient multilayer organic electroluminescent device (hole-transport
+      plus luminescent electron-transport layers) that defined the modern OLED
+    title: Organic electroluminescent devices having improved power conversion efficiencies
+    filing_year: 1983
+    grant_year: 1985
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 833
+  - patent_id: '4356429'
+    reason: The earliest Tang filing (1980), an organic electroluminescent cell with separate hole-injecting and luminescent
+      organic layers, the direct precursor of the bilayer OLED
+    title: Organic electroluminescent cell
+    filing_year: 1980
+    grant_year: 1982
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 705
+  - patent_id: '4769292'
+    reason: The 1987 filing introducing a doped (host-guest) luminescent zone, the step that raised OLED efficiency and allowed
+      colour tuning
+    title: Electroluminescent device with modified thin film luminescent zone
+    filing_year: 1987
+    grant_year: 1988
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 2211
+  n_related: 75
+  note: The portfolio overwhelmingly reflects the discovery, with nearly every Kodak patent covering OLED devices, materials,
+    cathodes and displays. The few non-OLED patents (1978-1981 organic photovoltaic cells, a photoreceptor, colour-filter
+    and display-optics patents) fit Tang's own Kodak career rather than a different inventor.
+Clifford P. Brangwynne:
+  picks:
+  - patent_id: '10538756'
+    reason: Disordered-protein seeds that nucleate molecular clustering, a direct use of intrinsically disordered region driven
+      phase separation into condensates.
+    title: Disordered protein-based seeds for molecular clustering
+    filing_year: 2017
+    grant_year: 2020
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 1
+  - patent_id: '10533167'
+    reason: Optogenetic tool (optoDroplet type) for rapid reversible light-induced protein clustering into condensates, the
+      earliest filing of that title.
+    title: Optogenetic tool for rapid and reversible clustering of proteins
+    filing_year: 2017
+    grant_year: 2020
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 1
+  n_related: 4
+  note: Only four patents, all filed 2017 or later; they are condensate-engineering tools that build on the discovery, and
+    no patent claims the discovery itself. The 2019 filings are continuations of the two picked patents.
+Craig M. Crews:
+  picks:
+  - patent_id: '7041298'
+    reason: Founding PROTAC patent (Caltech, filed 2001) claiming chimeric molecules that link a target-binding ligand to
+      an E3 ubiquitin ligase recognition motif so the target is ubiquitinated and degraded.
+    title: Proteolysis targeting chimeric pharmaceutical
+    filing_year: 2001
+    grant_year: 2006
+    assignee: California Institute of Technology
+    cited_by_patents: 142
+  - patent_id: '10730862'
+    reason: Yale 2013 filing for all-small-molecule PROTACs that recruit an E3 ubiquitin ligase (VHL ligands) to degrade target
+      proteins, the drug-like form of the discovery.
+    title: Compounds and methods for the enhanced degradation of targeted proteins and other polypeptides by an E3 ubiquitin
+      ligase
+    filing_year: 2013
+    grant_year: 2020
+    assignee: Yale University
+    cited_by_patents: 8
+  - patent_id: '10730870'
+    reason: Arvinas 2016 platform patent on bifunctional compounds that recruit an E3 ubiquitin ligase for enhanced degradation
+      of targeted proteins.
+    title: Compounds and methods for the enhanced degradation of targeted proteins
+    filing_year: 2016
+    grant_year: 2020
+    assignee: Arvinas Operations, Inc.
+    cited_by_patents: 20
+  n_related: 16
+  note: Most of the list is targeted protein degradation (PROTACs plus a hydrophobic-tagging line that induces degradation
+    without recruiting a specific ligase); 7208157 is a same-title continuation of 7041298. The Enzyme inhibition / Compounds
+    for enzyme inhibition patents (epoxomicin-derived proteasome inhibitors, Proteolix/Onyx) are Crews's own work on a different
+    discovery, with no sign of a different inventor.
+Daniel Branton:
+  picks:
+  - patent_id: '5795782'
+    reason: Founding 1995 nanopore patent claiming characterization of individual polymer molecules (nucleic acids) as they
+      pass through a pore, the basis of nanopore sequencing
+    title: Characterization of individual polymer molecules based on monomer-interface interactions
+    filing_year: 1995
+    grant_year: 1998
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 430
+  - patent_id: '6627067'
+    reason: Molecular and atomic scale evaluation of biopolymers with solid-state nanopores and electrodes, extending nanopore
+      analysis toward sequencing
+    title: Molecular and atomic scale evaluation of biopolymers
+    filing_year: 2000
+    grant_year: 2003
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 341
+  - patent_id: '6464842'
+    reason: Ion-beam sculpting control of solid-state dimensional features, the method used to fabricate solid-state nanopores
+      for single-molecule analysis
+    title: Control of solid state dimensional features
+    filing_year: 2000
+    grant_year: 2002
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 111
+  n_related: 33
+  note: Patents strongly reflect the nanopore discovery; 6015714 and later same-title patents are continuations of 5795782.
+    The IBM patent 9864775 (Query strength indicator, 2015) is clearly a different Daniel Branton; the ice-lithography patents
+    are his own side work.
+Daniel G. Nocera:
+  picks:
+  - patent_id: '8361288'
+    reason: Cobalt-phosphate type water-oxidation catalyst and electrodes for water electrolysis, the main applied output
+      of his proton-coupled electron transfer catalysis work.
+    title: Compositions, electrodes, methods, and systems for water electrolysis and other electrochemical techniques
+    filing_year: 2010
+    grant_year: 2013
+    assignee: Sun Catalytix Corporation
+    cited_by_patents: 6
+  - patent_id: '6863781'
+    reason: Photocatalysis with two-electron mixed-valence complexes, his multielectron photochemistry for solar fuel production
+      from HX.
+    title: Process for photocatalysis and two-electron mixed-valence complexes
+    filing_year: 2002
+    grant_year: 2005
+    assignee: MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+    cited_by_patents: 38
+  - patent_id: '10597681'
+    reason: Carbon fixation system (bionic leaf) that couples water-splitting catalysis to microbial CO2 reduction, a later
+      application of the same energy-conversion programme.
+    title: Carbon fixation systems and methods
+    filing_year: 2016
+    grant_year: 2020
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 1
+  n_related: 4
+  note: PCET is a theory, so no patent can claim it directly; only the catalysis and solar-fuel patents reflect its applications.
+    The Michigan State combustion-control patent and the MIT nanocrystal, sensor and laser patents are other work, likely
+    collaborations by the same person (his MSU and MIT years), with no clear sign of a namesake.
+David Klenerman:
+  picks:
+  - patent_id: '6787308'
+    reason: Solexa founding patent on arrayed single biomolecules and their use in sequencing, the basis of massively parallel
+      sequencing-by-synthesis
+    title: Arrayed biomolecules and their use in sequencing
+    filing_year: 2001
+    grant_year: 2004
+    assignee: Solexa, Inc.
+    cited_by_patents: 933
+  n_related: 2
+  note: 7232656 is a continuation of 6787308 with the same title. The other patents (Akubio molecular-interaction sensing,
+    scanning ion conductance microscopy, Ionscope molecular arrays) are his other Cambridge/Imperial work, not a different
+    inventor.
+David L. Allara:
+  picks:
+  - patent_id: '4690715'
+    reason: The 1982 Bell Labs filing with Nuzzo on modifying metal surfaces with adsorbed organic monolayers, matching the
+      founding disulfide-on-gold self-assembled monolayer work
+    title: Modification of the properties of metals
+    filing_year: 1982
+    grant_year: 1987
+    assignee: American Telephone and Telegraph Company, AT&T Bell Laboratories
+    cited_by_patents: 70
+  n_related: 2
+  note: Only the 1982 Bell Labs patent is a SAM patent; the later molecular-computer and SERS-substrate patents involve molecular
+    films on metals but not SAM formation as such. The impact-deflecting textile patents (Block Textiles, Intelligent Textiles,
+    2005-2007) are unrelated technology and may belong to a different inventor.
+David R. Liu:
+  picks:
+  - patent_id: '9840699'
+    reason: Founding 2014 filing on nucleic acid editing with Cas9 fused to a deaminase domain, the basis of cytosine base
+      editing.
+    title: Methods for nucleic acid editing
+    filing_year: 2014
+    grant_year: 2017
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 102
+  - patent_id: '10167457'
+    reason: Claims the nucleobase editors themselves (BE3 and BE4 type cytosine base editors with uracil glycosylase inhibitor).
+    title: Nucleobase editors and uses thereof
+    filing_year: 2016
+    grant_year: 2019
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 69
+  - patent_id: '10113163'
+    reason: Founding patent of adenine base editors (ABE) built from an evolved TadA adenosine deaminase fused to Cas9.
+    title: Adenosine nucleobase editors and uses thereof
+    filing_year: 2017
+    grant_year: 2018
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 94
+  n_related: 8
+  note: Base editing is well represented (9068179, 9840699, 11053481, 10167457, 10113163, 10947530, and likely the CCR5 editing
+    patent), but prime editing patents were granted after 2021 and are absent. The Scripps unnatural amino acid and orthogonal
+    tRNA patents come from his PhD work with Schultz, so they are the same person, not a namesake.
+David W. Deamer:
+  picks:
+  - patent_id: '5795782'
+    reason: Founding 1995 Harvard patent claiming characterization of individual polymer molecules such as DNA as they pass
+      through a nanopore
+    title: Characterization of individual polymer molecules based on monomer-interface interactions
+    filing_year: 1995
+    grant_year: 1998
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 430
+  - patent_id: '6267872'
+    reason: Early UC patent on miniature supports for thin films holding single channels or nanopores, the device platform
+      for nanopore measurements
+    title: Miniature support for thin films containing single channels or nanopores and methods for using same
+    filing_year: 1999
+    grant_year: 2001
+    assignee: THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+    cited_by_patents: 121
+  - patent_id: '6428959'
+    reason: Early UC patent using nanopore current signatures to detect double-stranded nucleic acids, an early single-molecule
+      nucleic acid analysis method
+    title: Methods of determining the presence of double stranded nucleic acids in a sample
+    filing_year: 2000
+    grant_year: 2002
+    assignee: THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+    cited_by_patents: 116
+  n_related: 22
+  note: 6015714 and 7189503 are later filings with the same title as the founding patent. The 1987 stoop laborer body-support
+    patent and the Solid State Farms radio-frequency spectral analysis patent are unrelated to his work and may belong to
+    another inventor; the liposome and lipid-assisted synthesis patents fit his membrane and origin-of-life research.
+Dennis Lo Yuk-Ming:
+  picks:
+  - patent_id: '6258540'
+    reason: Founding 1999 patent on non-invasive prenatal diagnosis by detecting fetal DNA in maternal plasma or serum
+    title: Non-invasive prenatal diagnosis
+    filing_year: 1999
+    grant_year: 2001
+    assignee: Isis Innovation Limited
+    cited_by_patents: 504
+  - patent_id: '6927028'
+    reason: Early filing on detecting fetal (non-host) DNA in maternal plasma through epigenetic differences, a fetal-specific
+      marker approach
+    title: Non-invasive methods for detecting non-host DNA in a host using epigenetic differences between the host and non-host
+      DNA
+    filing_year: 2001
+    grant_year: 2005
+    assignee: The Chinese University of Hong Kong
+    cited_by_patents: 254
+  - patent_id: '8706422'
+    reason: 2008 filing on determining chromosomal sequence imbalance from maternal plasma DNA, the basis of counting-based
+      aneuploidy NIPT
+    title: Determining a nucleic acid sequence imbalance
+    filing_year: 2008
+    grant_year: 2014
+    assignee: The Chinese University of Hong Kong
+    cited_by_patents: 106
+  n_related: 42
+  note: The list clearly reflects the discovery, with many prenatal patents. About a third are cancer, transplant and other
+    liquid-biopsy uses of cell-free DNA by the same CUHK group; there is no sign of a different inventor.
+Donald A. Tomalia:
+  picks:
+  - patent_id: '4507466'
+    reason: Founding 1983 Dow patent on dense star (starburst PAMAM) polymers with core, branches and terminal groups, the
+      first dendrimer composition.
+    title: Dense star polymers having core, core branches, terminal groups
+    filing_year: 1983
+    grant_year: 1985
+    assignee: THE DOW CHEMICAL COMPANY
+    cited_by_patents: 291
+  - patent_id: '4558120'
+    reason: Companion 1983 filing on the dense star polymer itself, part of the original starburst dendrimer patent set.
+    title: Dense star polymer
+    filing_year: 1983
+    grant_year: 1985
+    assignee: THE DOW CHEMICAL COMPANY
+    cited_by_patents: 226
+  - patent_id: '4568737'
+    reason: 1984 patent that claims dense star polymers and introduces the dendrimer term, extending the founding work.
+    title: Dense star polymers and dendrimers
+    filing_year: 1984
+    grant_year: 1986
+    assignee: THE DOW CHEMICAL COMPANY
+    cited_by_patents: 258
+  n_related: 40
+  note: Most patents are dendrimer compositions, conjugates and applications (Dow, Dendritech, Dendritic Nanotechnologies,
+    Michigan). The two plastic beverage cup patents (Packaging Resources and Huhtamaki, 1999-2000) are clearly a different
+    inventor with the same name. The 1970s Dow oxazoline and surfactant patents are his earlier Dow work.
+E. Peter Greenberg:
+  picks:
+  - patent_id: '5591872'
+    reason: Founding 1993 patent claiming a bacterial acyl-homoserine lactone autoinducer molecule, the quorum-sensing signal
+      itself
+    title: Autoinducer molecule
+    filing_year: 1993
+    grant_year: 1997
+    assignee: University of Iowa Research Foundation
+    cited_by_patents: 25
+  - patent_id: '6855513'
+    reason: Patent on quorum-sensing signaling in bacteria, directly covering the cell-to-cell chemical communication system
+    title: Quorum sensing signaling in bacteria
+    filing_year: 2000
+    grant_year: 2005
+    assignee: University of Iowa Research Foundation
+    cited_by_patents: 9
+  - patent_id: '6723321'
+    reason: Covers compounds modulating autoinducer synthases, the enzymes that make the acyl-homoserine lactone signals
+    title: Autoinducer synthase modulating compounds and uses thereof
+    filing_year: 1999
+    grant_year: 2004
+    assignee: The Board of Trustees of the University of Illinois
+    cited_by_patents: 2
+  n_related: 6
+  note: none (6057288, 6936447 and 7442798 continue the autoinducer family; the biofilm-chelator, bactobolin and airway-bactericide
+    patents fit his later Iowa and Washington work)
+Eric N. Jacobsen:
+  picks:
+  - patent_id: '5637739'
+    reason: 1992 filing on chiral salen catalysts and the catalytic asymmetric epoxidation they catalyze
+    title: Chiral catalysts and catalytic epoxidation catalyzed thereby
+    filing_year: 1992
+    grant_year: 1997
+    assignee: Research Corporation Technologies, Inc.
+    cited_by_patents: 73
+  - patent_id: '5663393'
+    reason: Follow-on chiral catalyst and epoxidation patent that claims the salen-metal epoxidation system
+    title: Chiral catalysts and epoxidation reactions
+    filing_year: 1995
+    grant_year: 1997
+    assignee: Research Corporation Technologies, Inc.
+    cited_by_patents: 58
+  - patent_id: '5665890'
+    reason: Earliest filing on stereoselective epoxide ring-opening with chiral salen complexes, extending the salen epoxidation
+      chemistry
+    title: Stereoselective ring opening reactions
+    filing_year: 1995
+    grant_year: 1997
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 66
+  n_related: 10
+  note: Only two patents claim the epoxidation itself; most related ones cover salen-catalyzed epoxide ring-opening and hydrolytic
+    kinetic resolution. The cycloaddition, combinatorial-catalyst and amino-acid patents are his other Harvard work; there
+    is no sign of a different inventor.
+Ezio Rizzardo:
+  picks:
+  - patent_id: '7714075'
+    reason: Founding RAFT patent family (1997 filing) claiming polymerization with living characteristics using thiocarbonylthio
+      chain transfer agents
+    title: Polymerization with living characteristics
+    filing_year: 1997
+    grant_year: 2010
+    assignee: Commonwealth Scientific and Industrial Research Organisation
+    cited_by_patents: 23
+  - patent_id: '4581429'
+    reason: 1984 CSIRO patent claiming nitroxide-mediated polymerization with alkoxyamine initiators, the first controlled
+      radical polymerization method
+    title: Polymerization process and polymers produced thereby
+    filing_year: 1984
+    grant_year: 1986
+    assignee: Commonwealth Scientific and Industrial Research Organisation
+    cited_by_patents: 196
+  - patent_id: '6642318'
+    reason: RAFT patent extending living radical polymerization to dithiocarbamate and xanthate agents, the most cited of
+      his RAFT filings
+    title: Polymerization process with living characteristics and polymers made therefrom
+    filing_year: 2000
+    grant_year: 2003
+    assignee: E.I. DU PONT DE NEMOURS AND COMPANY
+    cited_by_patents: 75
+  n_related: 14
+  note: Patents strongly reflect controlled radical polymerization (NMP, RAFT and RAFT end-group chemistry), alongside earlier
+    addition-fragmentation and catalytic chain transfer work at CSIRO and DuPont. 7250479, 7666962 and 7662986 are continuations
+    of the RAFT family. No clear same-name mix-in.
+F. Ulrich Hartl:
+  picks:
+  - patent_id: '5776724'
+    reason: Claims chaperonin-mediated protein folding, the core GroEL-type chaperone mechanism of the discovery
+    title: Chaperonin-mediated protein folding
+    filing_year: 1995
+    grant_year: 1998
+    assignee: Yale University
+    cited_by_patents: 2
+  - patent_id: '5302518'
+    reason: Earliest filing (1992), on assisted biocatalytic refolding of denatured recombinant proteins, consistent with
+      chaperone-mediated folding
+    title: Process for the biocatalytic, correct chain folding of denatured recombinant fusion proteins
+    filing_year: 1992
+    grant_year: 1994
+    assignee: Hoechst GmbH
+    cited_by_patents: 8
+  - patent_id: '6663868'
+    reason: Earliest of the heat shock protein (chaperone) vaccine family, an application of chaperone-peptide binding rather
+      than the folding discovery itself
+    title: Heat shock protein-based vaccines and immunotherapies
+    filing_year: 1998
+    grant_year: 2003
+    assignee: Sloan-Kettering Institute for Cancer Research
+    cited_by_patents: 14
+  n_related: 12
+  note: Only two patents address chaperone-assisted folding directly; the rest are Sloan-Kettering heat-shock-protein vaccine
+    and therapy patents from his time there. No sign of a different inventor.
+Galen D. Stucky:
+  picks:
+  - patent_id: '6592764'
+    reason: Block copolymer templating of mesostructured inorganic oxides (SBA-15 type), the core Stucky contribution to ordered
+      mesoporous materials.
+    title: Block copolymer processing for mesostructured inorganic oxide materials
+    filing_year: 2000
+    grant_year: 2003
+    assignee: THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+    cited_by_patents: 131
+  - patent_id: '5364797'
+    reason: Earliest (1993) Mobil filing in the list on the M41S mesoporous crystalline material, here used in a sensor device.
+    title: Sensor device containing mesoporous crystalline material
+    filing_year: 1993
+    grant_year: 1994
+    assignee: Mobil Oil Corporation
+    cited_by_patents: 347
+  - patent_id: '6541539'
+    reason: Hierarchically ordered porous oxides that combine mesoporous ordering with larger-scale templating, an early extension
+      of the materials.
+    title: Hierarchically ordered porous oxides
+    filing_year: 1999
+    grant_year: 2003
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 52
+  n_related: 14
+  note: The mesoporous work is clearly present (M41S, SBA-15, continuations 7176245 and 7763665, hierarchical and mesocellular
+    foams); the top-cited 8202549 applies mesocellular foams to hemostasis. The GRT Inc. alkane-conversion patents (a company
+    he co-founded) and the 1990 E. Khashoggi cement-barrier patent are other technologies but plausibly the same person.
+George M. Whitesides:
+  picks:
+  - patent_id: '5512131'
+    reason: The 1993 microcontact printing patent, which patterns alkanethiol self-assembled monolayers on gold and is the
+      main patent built directly on the Whitesides SAM chemistry
+    title: Formation of microstamped patterns on surfaces and derivative articles
+    filing_year: 1993
+    grant_year: 1996
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 1040
+  - patent_id: '5620850'
+    reason: The 1994 filing claiming surfaces derivatized with self-assembled monolayers for molecular recognition, the core
+      SAM surface-chemistry patent
+    title: Molecular recognition at surfaces derivatized with self-assembled monolayers
+    filing_year: 1994
+    grant_year: 1997
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 329
+  - patent_id: '6518168'
+    reason: Covers SAM-directed patterning of surfaces, using monolayers as templates for selective deposition
+    title: Self-assembled monolayer directed patterning of surfaces
+    filing_year: 1998
+    grant_year: 2003
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 199
+  n_related: 25
+  note: No patent claims SAM formation itself; Whitesides patented downstream uses such as microcontact printing, SAM-based
+    biosurfaces and cell patterning. Most of the list is his other work (soft lithography, microfluidics, soft robots, IGEN
+    electrochemiluminescence labels, Geltex polymers, early MIT enzymatic synthesis); the Firmenich and Hoffmann-La Roche
+    synthesis patents look out of place but are not clearly a different person.
+Guy Bertrand:
+  picks:
+  - patent_id: '7312331'
+    reason: Founding patent on stable cyclic (alkyl)(amino)carbenes (CAACs) and their use as ligands for transition-metal
+      catalysts
+    title: Stable cyclic (alkyl)(amino) carbenes as ligands for transition metal catalysts
+    filing_year: 2006
+    grant_year: 2007
+    assignee: THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+    cited_by_patents: 10
+  - patent_id: '6492525'
+    reason: Earliest carbene filing (2001), claiming organometallic complexes of cationic heterocyclic carbenes for catalysis
+    title: Organometallic complexes comprising cationic heterocyclic carbenes
+    filing_year: 2001
+    grant_year: 2002
+    assignee: Rhodia Fiber & Resin Intermediates
+    cited_by_patents: 12
+  - patent_id: '9403781'
+    reason: Claims isolable crystalline 1,2,3-triazol-5-ylidenes, a new class of stable mesoionic carbenes
+    title: Crystalline 1H-1,2,3-triazol-5-ylidenes
+    filing_year: 2011
+    grant_year: 2016
+    assignee: THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+    cited_by_patents: 0
+  n_related: 6
+  note: none (the S.C.R.A.S. polymerization-catalyst, stannylene/germylene and phosphorus-ylide patents reflect his Toulouse
+    main-group and polymerization work rather than carbenes)
+Hagan Bayley:
+  picks:
+  - patent_id: '6824659'
+    reason: Engineered (designed) alpha-hemolysin protein pores used as single-molecule biosensor elements, the base technology
+      of nanopore analysis.
+    title: Designed protein pores as components for biosensors
+    filing_year: 2001
+    grant_year: 2004
+    assignee: University of Massachusetts
+    cited_by_patents: 127
+  - patent_id: '6426231'
+    reason: Earliest (1999) patent on analyte sensing through a protein pore fitted with a non-covalent adapter (cyclodextrin),
+      the stochastic single-molecule sensing method.
+    title: Analyte sensing mediated by adapter/carrier molecules
+    filing_year: 1999
+    grant_year: 2002
+    assignee: THE TEXAS A&M UNIVERSITY SYSTEM
+    cited_by_patents: 108
+  - patent_id: '8105846'
+    reason: Methods using adapter-equipped pores to identify individual nucleotides, the basis of exonuclease nanopore DNA
+      sequencing (covers the sequencing option).
+    title: Methods using pores
+    filing_year: 2006
+    grant_year: 2012
+    assignee: Isis Innovation Limited
+    cited_by_patents: 123
+  n_related: 10
+  note: Pore and stochastic-sensing patents make up most of the list, and 8785211 and 6927070 are later same-title filings.
+    No Oxford Nanopore Technologies-assigned patents appear, so the later commercial nanopore-sequencing patents seem to be
+    missing. The molluscan ligament (abductin) and cyclic oligosaccharide patents are off-topic but match Bayley's own earlier
+    and later work, so there is no clear sign of a different inventor.
+Hao Yan:
+  picks:
+  - patent_id: '7612184'
+    reason: NYU 2003 patent from the Seeman lab period on a DNA nanomechanical device controlled by hybridization topology,
+      an early programmable self-assembled DNA nanostructure.
+    title: Polynucleic acid nanomechanical device controlled by hybridization topology
+    filing_year: 2003
+    grant_year: 2009
+    assignee: New York University
+    cited_by_patents: 0
+  - patent_id: '8685894'
+    reason: Self-assembled DNA tile nanoarrays with modifications, used as programmable addressable scaffolds (ASU, filed
+      2007).
+    title: Modified nucleic acid nanoarrays and uses therefor
+    filing_year: 2007
+    grant_year: 2014
+    assignee: ARIZONA BOARD OF REGENTS, A BODY CORPORATE OF THE STATE OF ARIZONA ACTING FOR AND ON BEHALF OF ARIZONA STATE
+      UNIVERSITY
+    cited_by_patents: 13
+  - patent_id: '10189874'
+    reason: DNA gridiron, a new DNA origami architecture that builds 2D and 3D gridiron lattices from a scaffold strand and
+      staples.
+    title: DNA gridiron compositions and methods
+    filing_year: 2015
+    grant_year: 2019
+    assignee: ARIZONA BOARD OF REGENTS ON BEHALF OF ARIZONA STATE UNIVERSITY
+    cited_by_patents: 7
+  n_related: 11
+  note: Most ASU patents are DNA nanostructure / DNA origami work and its applications (aptamer nanostructures, origami for
+    kidney injury, single-cell readout). The CdTe/CdS/ZnS nanocrystal (9202867) and quantum dot rods/wires/sheets (9732273)
+    patents, both assigned to THE ARIZONA BOARD OF REGENTS without the ASU wording, are unrelated nanocrystal chemistry and
+    may belong to a different Hao Yan.
+Harry B. Gray:
+  picks:
+  - patent_id: '7105310'
+    reason: Sensitizer-linked substrates (photosensitizer wires bound to enzymes) that phototrigger and report electron transfer
+      in proteins, the closest patent to his protein electron-transfer work
+    title: Detection of biomolecules by sensitizer-linked substrates
+    filing_year: 2000
+    grant_year: 2006
+    assignee: California Institute of Technology
+    cited_by_patents: 17
+  n_related: 1
+  note: The long-range protein electron-transfer discovery is basic science and is barely reflected in patents; the rest are
+    inorganic photochemistry, catalysis, corroles, biosensors and solar-fuel electrodes. No clear same-name mix-in.
+Henry J. Snaith:
+  picks:
+  - patent_id: '11038132'
+    reason: Claims optoelectronic devices built on mixed-anion organometal halide perovskites, the core material of his 2012
+      solid-state perovskite solar cell
+    title: Optoelectronic devices with organometal perovskites with mixed anions
+    filing_year: 2013
+    grant_year: 2021
+    assignee: OXFORD UNIVERSITY INNOVATION LIMITED
+    cited_by_patents: 1
+  - patent_id: '10388897'
+    reason: Claims the perovskite device on a porous scaffold (meso-superstructured cell), a founding architecture of solid-state
+      perovskite solar cells
+    title: Optoelectronic device comprising porous scaffold material and perovskites
+    filing_year: 2013
+    grant_year: 2019
+    assignee: OXFORD UNIVERSITY INNOVATION LIMITED
+    cited_by_patents: 10
+  - patent_id: '9349971'
+    reason: 2010 solid-state sensitized heterojunction device, his solid-state dye-sensitized cell work that preceded and
+      led to the perovskite cells
+    title: Solid state heterojunction device
+    filing_year: 2010
+    grant_year: 2016
+    assignee: Isis Innovation Limited
+    cited_by_patents: 2
+  n_related: 14
+  note: Patents clearly reflect the perovskite discovery (2013 Oxford filings plus later process patents); 10069025 and 10079320
+    are sister 2013 perovskite device filings. No sign of a same-name mix-in.
+Henry Snaith:
+  picks:
+  - patent_id: '11038132'
+    reason: Claims optoelectronic devices with mixed-anion organometal halide perovskites, the core of his 2012 perovskite
+      solar cell
+    title: Optoelectronic devices with organometal perovskites with mixed anions
+    filing_year: 2013
+    grant_year: 2021
+    assignee: OXFORD UNIVERSITY INNOVATION LIMITED
+    cited_by_patents: 1
+  - patent_id: '10388897'
+    reason: Claims perovskite devices on a porous scaffold (the meso-superstructured perovskite solar cell)
+    title: Optoelectronic device comprising porous scaffold material and perovskites
+    filing_year: 2013
+    grant_year: 2019
+    assignee: OXFORD UNIVERSITY INNOVATION LIMITED
+    cited_by_patents: 10
+  - patent_id: '10079320'
+    reason: 2013 filing on optoelectronic devices with a perovskite layer (thin-film perovskite cell architecture)
+    title: Optoelectronic device comprising perovskites
+    filing_year: 2013
+    grant_year: 2018
+    assignee: OXFORD UNIVERSITY INNOVATION LIMITED
+    cited_by_patents: 6
+  n_related: 12
+  note: The list clearly reflects perovskite solar cells (2013-2017 filings). The earlier EPFL, Cambridge and Isis patents
+    (2007-2010) on charge transport, diodes and solid-state heterojunctions match his dye-cell and organic-electronics background,
+    so there is no sign of a different inventor.
+Jacob Sagiv:
+  picks:
+  - patent_id: '4539061'
+    reason: The 1983 filing on building films by stepwise chemisorption of individual silane monolayers, the founding patent
+      of the Sagiv self-assembled monolayers on solid surfaces
+    title: Process for the production of built-up films by the stepwise adsorption of individual monolayers
+    filing_year: 1983
+    grant_year: 1985
+    assignee: Yeda Research and Development Co. Ltd.
+    cited_by_patents: 212
+  - patent_id: '4964972'
+    reason: Applies self-assembling monolayer membranes on electrodes for ionic recognition, a direct extension of the SAM
+      discovery
+    title: Ionic recognition and selective response in self assembling monolayer membranes on electrodes
+    filing_year: 1989
+    grant_year: 1990
+    assignee: Yeda Research and Development Co. Ltd.
+    cited_by_patents: 45
+  - patent_id: '7374813'
+    reason: Constructive nanolithography, which patterns and builds on organosilane self-assembled monolayers
+    title: Constructive nanolithography
+    filing_year: 2001
+    grant_year: 2008
+    assignee: Yeda Research and Development Co. Ltd.
+    cited_by_patents: 2
+  n_related: 3
+  note: Three of the four patents are SAM patents and reflect the discovery well; no sign of a different inventor.
+James J. Collins:
+  picks:
+  - patent_id: '6841376'
+    reason: The bistable genetic toggle switch, the founding synthetic gene circuit (filed 2001 from the 2000 toggle-switch
+      work)
+    title: Bistable genetic toggle switch
+    filing_year: 2001
+    grant_year: 2005
+    assignee: Cellicon Technologies, Inc.
+    cited_by_patents: 3
+  - patent_id: '6737269'
+    reason: The 2001 multi-state genetic oscillator filing, an early engineered gene-network design from the same founding
+      period
+    title: Multi-state genetic oscillator
+    filing_year: 2001
+    grant_year: 2004
+    assignee: Trustees of Boston University
+    cited_by_patents: 3
+  - patent_id: '6828140'
+    reason: A 2001 Cellicon filing on an adjustable-threshold genetic switch, part of the original toggle-switch family of
+      synthetic circuits
+    title: Adjustable threshold switch
+    filing_year: 2001
+    grant_year: 2004
+    assignee: Cellicon Technologies, Inc.
+    cited_by_patents: 4
+  n_related: 17
+  note: About a third of the list is synthetic gene circuits (switches, oscillators, riboregulators, counters, converters,
+    sensors). The rest is Collins's own work on vibrating insoles and stochastic resonance, CRISPR diagnostics with the Broad
+    Institute and antibiotic potentiation, not a different inventor.
+Jason W. Chin:
+  picks:
+  - patent_id: '7045337'
+    reason: Founding 2002 patent on in vivo site-specific incorporation of unnatural amino acids with orthogonal tRNA and
+      synthetase pairs.
+    title: In vivo incorporation of unnatural amino acids
+    filing_year: 2002
+    grant_year: 2006
+    assignee: The Scripps Research Institute
+    cited_by_patents: 293
+  - patent_id: '7083970'
+    reason: Founding 2002 method for producing the orthogonal tRNA and aminoacyl-tRNA synthetase pairs that expand the genetic
+      code.
+    title: Methods and compositions for the production of orthogonal tRNA-aminoacyl tRNA synthetase pairs
+    filing_year: 2002
+    grant_year: 2006
+    assignee: The Scripps Research Institute
+    cited_by_patents: 223
+  - patent_id: '7618775'
+    reason: Earliest filing (2004) of the Expanding the eukaryotic genetic code family, extending unnatural amino acid incorporation
+      to yeast and other eukaryotes.
+    title: Expanding the eukaryotic genetic code
+    filing_year: 2004
+    grant_year: 2009
+    assignee: The Scripps Research Institute
+    cited_by_patents: 8
+  n_related: 32
+  note: Nearly all patents concern genetic code expansion (Scripps, then MRC on orthogonal ribosomes, eRF1 mutants and norbornene
+    labelling). The two Yale miniature-protein patents date from his PhD with Schepartz and are not a namesake.
+Jay R. Winkler:
+  picks:
+  - patent_id: '7105310'
+    reason: Sensitizer-linked substrates (ruthenium-diimine wires) that bind heme enzymes such as P450, a spin-off of the
+      Gray-Winkler photo-triggered electron-transfer methodology rather than a patent on long-range electron transfer itself.
+    title: Detection of biomolecules by sensitizer-linked substrates
+    filing_year: 2000
+    grant_year: 2006
+    assignee: California Institute of Technology
+    cited_by_patents: 17
+  n_related: 1
+  note: Only two patents and neither claims the discovery itself. 7105310 is an application tied to the electron-transfer
+    probe chemistry, and the LED photoelectrochemical screener (8911603) comes from solar-fuels work, both consistent with
+    Winkler at Caltech.
+Jean M. J. Fréchet:
+  picks:
+  - patent_id: '5041516'
+    reason: Founding 1989 Cornell patent on dendritic molecules and their convergent method of production
+    title: Dendritic molecules and method of production
+    filing_year: 1989
+    grant_year: 1991
+    assignee: Cornell Research Foundation, Inc.
+    cited_by_patents: 155
+  - patent_id: '6300424'
+    reason: Earliest hyperbranched-polymer filing (1993), claiming hyperbranched polyesters and polyamides as one-step dendritic
+      analogues
+    title: Hyperbranched polyesters and polyamides
+    filing_year: 1993
+    grant_year: 2001
+    assignee: Cornell Research Foundation, Inc.
+    cited_by_patents: 15
+  - patent_id: '5587441'
+    reason: Earliest filing (1994) of the hyperbranched polymers from AB monomers family, a one-pot route to dendritic-like
+      polymers
+    title: Hyperbranched polymers from AB monomers
+    filing_year: 1994
+    grant_year: 1996
+    assignee: Cornell Research Foundation, Inc.
+    cited_by_patents: 31
+  n_related: 12
+  note: Dendritic and hyperbranched patents are a minority in a broad portfolio (IBM chemically amplified photoresists, macroporous
+    polymer monoliths, Exxon polymer functionalization, Symyx, Unilever) that is consistent with his career; no clear sign
+    of another inventor.
+Jens K. Nørskov:
+  picks:
+  - patent_id: '7790776'
+    reason: Hydrogenation catalyst for carbon oxides from the Haldor Topsoe and DTU programme of computationally screened
+      alloy catalysts.
+    title: Process and catalyst for hydrogenation of carbon oxides
+    filing_year: 2006
+    grant_year: 2010
+    assignee: HALDOR TOPSØE A/S
+    cited_by_patents: 29
+  - patent_id: '6663998'
+    reason: Fuel cell anode catalyst materials selected with surface-science theory, an early patent from his DFT-guided catalyst
+      design.
+    title: Anode catalyst materials for use in fuel cells
+    filing_year: 2001
+    grant_year: 2003
+    assignee: Technical University of Denmark
+    cited_by_patents: 6
+  - patent_id: '9312545'
+    reason: Platinum and palladium alloy fuel cell electrodes identified by DFT screening of oxygen-reduction activity.
+    title: Platinum and palladium alloys suitable as fuel cell electrodes
+    filing_year: 2010
+    grant_year: 2016
+    assignee: Danmarks Tekniske Universitet
+    cited_by_patents: 0
+  n_related: 4
+  note: The theoretical methods themselves are not patented; only a few patents (catalysts designed with theory, plus the
+    2017 Li-mediated ammonia synthesis) reflect the discovery indirectly. The Amminex ammonia-storage patents are a separate
+    line of work, not a namesake.
+Jin-Quan Yu:
+  picks:
+  - patent_id: '10611723'
+    reason: Earliest listed filing, on ligand-enabled meta-C-H activation with a transient mediator, a Pd-catalyzed C-H functionalization
+      method
+    title: Ligand-enabled meta-C-H activation using a transient mediator
+    filing_year: 2016
+    grant_year: 2020
+    assignee: The Scripps Research Institute
+    cited_by_patents: 0
+  - patent_id: '11186563'
+    reason: Pd(II)-catalyzed enantioselective activation of beta-methylene C(sp3)-H bonds, central to his ligand-enabled C-H
+      activation work
+    title: Pd(II)-catalyzed enantioselective β-methylene C(sp3)—H bond activation
+    filing_year: 2017
+    grant_year: 2021
+    assignee: The Scripps Research Institute
+    cited_by_patents: 0
+  - patent_id: '10759743'
+    reason: Pd-catalyzed gamma-C(sp3)-H arylation of free amines, a directed C-H functionalization method
+    title: Pd-catalyzed γ-C(sp3)-H arylation / heteroarylation of free amines
+    filing_year: 2017
+    grant_year: 2020
+    assignee: The Scripps Research Institute
+    cited_by_patents: 0
+  n_related: 7
+  note: All Scripps patents are C-H functionalization, but all were filed in 2016 or later; none covers his earlier Pd(II)
+    C-H activation work. 10696617 (Asymchem, amide alcoholysis) is unrelated and may belong to a different inventor with the
+    same name.
+JoAnne Stubbe:
+  picks:
+  - patent_id: '8673591'
+    reason: Site-specific genetic incorporation of 3-aminotyrosine into ribonucleotide reductase to trap and probe the long-range
+      tyrosyl radical transfer pathway.
+    title: Genetic incorporation of 3-aminotyrosine into reductases
+    filing_year: 2008
+    grant_year: 2014
+    assignee: The Scripps Research Institute
+    cited_by_patents: 0
+  n_related: 1
+  note: Only one patent (Scripps, with the Schultz unnatural amino acid method). It directly serves the RNR radical-mechanism
+    work. No sign of a different inventor.
+John E. Bercaw:
+  picks:
+  - patent_id: '9676680'
+    reason: Only patent touching C-H activation, apparently coupling catalytic alkane transfer dehydrogenation with olefin
+      oligomerization (continued in 9944572)
+    title: Tandem transfer hydrogenation and oligomerization for hydrocarbon production
+    filing_year: 2014
+    grant_year: 2017
+    assignee: California Institute of Technology
+    cited_by_patents: 0
+  n_related: 2
+  note: His patents are mostly olefin-polymerization catalysts (metallocene and non-metallocene); his platinum (Shilov-type)
+    alkane C-H activation work is not patented in this list. No sign of a different inventor.
+John F. Hartwig:
+  picks:
+  - patent_id: '5817877'
+    reason: The earliest (1997) filing, claiming metal-catalyzed amination of aryl sulfonates to aryl amines, part of the
+      founding Pd-catalyzed C-N coupling work
+    title: Metal-catalyzed amination of organic sulfonates to organic amines
+    filing_year: 1997
+    grant_year: 1998
+    assignee: Yale University
+    cited_by_patents: 23
+  - patent_id: '5977361'
+    reason: The 1998 core patent on transition-metal-catalyzed preparation of N-aryl compounds from aryl halides, the Buchwald-Hartwig
+      amination itself
+    title: Transition metal-catalyzed process for preparing N-aryl compounds
+    filing_year: 1998
+    grant_year: 1999
+    assignee: Yale University
+    cited_by_patents: 16
+  - patent_id: '6451937'
+    reason: The 2000 filing on selective catalytic thermal functionalization of primary C-H bonds (alkane borylation), the
+      founding C-H functionalization patent
+    title: Selective, catalytic, thermal functionalization of primary C-H hydrocarbon bonds
+    filing_year: 2000
+    grant_year: 2002
+    assignee: SHELL OIL COMPANY
+    cited_by_patents: 5
+  n_related: 12
+  note: Both discoveries are represented, the C-N coupling family (Yale, 1997-2008) and C-H functionalization (borylation,
+    C-H fluorination, C-H silylation). The alpha-arylation and fluoroalkylation patents are his own related cross-coupling
+    work; no sign of a different inventor.
+John P. Perdew:
+  picks: []
+  n_related: 0
+  note: no US utility patents in the record
+John R. Yates III:
+  picks:
+  - patent_id: '5538897'
+    reason: Founding 1994 patent on matching peptide tandem mass spectra to sequence databases (the SEQUEST approach) for
+      protein identification.
+    title: Use of mass spectrometry fragmentation patterns of peptides to identify amino acid sequences in databases
+    filing_year: 1994
+    grant_year: 1996
+    assignee: University of Washington
+    cited_by_patents: 174
+  - patent_id: '6017693'
+    reason: 1996 extension of mass-spectrometry database identification to nucleotides, amino acids and carbohydrates.
+    title: Identification of nucleotides, amino acids, or carbohydrates by mass spectrometry
+    filing_year: 1996
+    grant_year: 2000
+    assignee: University of Washington
+    cited_by_patents: 99
+  - patent_id: '6969757'
+    reason: Differential isotope labelling for quantitative mass-spectrometry analysis of complex protein mixtures.
+    title: Differential labeling for quantitative analysis of complex protein mixtures
+    filing_year: 2002
+    grant_year: 2005
+    assignee: Syngenta Participations AG
+    cited_by_patents: 2
+  n_related: 5
+  note: The core proteomics patents are present (SEQUEST, quantitative labelling, plus a PARC spectrum-quality patent). The
+    two plasminogen receptor patents (assignee Lindsey Miles) are Scripps biology collaborations rather than proteomics methods;
+    no sign of a namesake.
+Karen L. Wooley:
+  picks:
+  - patent_id: '6383500'
+    reason: Founding 1997 patent on shell crosslinked particles (SCK nanoparticles) from amphiphilic copolymers for pharmaceutical
+      delivery.
+    title: Particles comprising amphiphilic copolymers, having a crosslinked shell domain and an interior core domain, useful
+      for pharmaceutical and other applications
+    filing_year: 1997
+    grant_year: 2002
+    assignee: Washington University
+    cited_by_patents: 144
+  - patent_id: '8354093'
+    reason: SCK nanoparticle conjugates with peptide nucleic acids for targeted mRNA delivery in cancer diagnosis and therapy.
+    title: Cell permeable nanoconjugates of shell-crosslinked knedel (SCK) and peptide nucleic acids (“PNAs”) with uniquely
+      expressed or over-expressed mRNA targeting sequences for early diagnosis and therapy of cancer
+    filing_year: 2005
+    grant_year: 2013
+    assignee: Washington University
+    cited_by_patents: 4
+  - patent_id: '9545447'
+    reason: Polymer-drug systems from her Texas A&M degradable polymer platform for drug delivery.
+    title: Polymer-drug systems
+    filing_year: 2013
+    grant_year: 2017
+    assignee: THE TEXAS A&M UNIVERSITY SYSTEM
+    cited_by_patents: 35
+  n_related: 6
+  note: The SCK delivery work is present, but many later patents are lithography, antifouling and degradable-materials work
+    (Rohm and Haas, Conopco, Texas A&M). The 1995 unassigned dendritic macromolecules patent likely comes from her Frechet-era
+    dendrimer work; no sign of a namesake.
+Kazunari Domen:
+  picks:
+  - patent_id: '6878666'
+    reason: Founding patent on visible-light-responsive metal oxynitride photocatalysts for overall water splitting
+    title: Photocatalyst made of metal oxynitride having responsibility of visible light
+    filing_year: 2001
+    grant_year: 2005
+    assignee: Japan Science and Technology Agency
+    cited_by_patents: 18
+  - patent_id: '6864211'
+    reason: Claims photocatalysts for decomposition of water by visible light, the core of his solar water-splitting program
+    title: Photocatalysts for decomposition of water by visible light
+    filing_year: 2001
+    grant_year: 2005
+    assignee: Japan Science and Technology Agency
+    cited_by_patents: 6
+  - patent_id: '6838413'
+    reason: Claims oxysulfide photocatalysts for water decomposition under visible light, a second new material class from
+      the same program
+    title: Oxysulfide photocatalyst for decomposition of water by visible light
+    filing_year: 2002
+    grant_year: 2005
+    assignee: Japan Science and Technology Agency
+    cited_by_patents: 5
+  n_related: 14
+  note: none (later FUJIFILM, Mitsubishi Chemical, Toyota and TOTO patents cover water-splitting electrodes and artificial-photosynthesis
+    panels for solar hydrogen; the mesoporous-oxide and carbon solid-acid patents are side lines of his Tokyo Tech group)
+Kazunori Kataoka:
+  picks:
+  - patent_id: '5412072'
+    reason: Earliest (1990) filing claiming water-soluble block-copolymer drug conjugates forming polymeric micelles, the
+      founding Kataoka micelle carrier
+    title: Water soluble high molecular weight polymerized drug preparation
+    filing_year: 1990
+    grant_year: 1995
+    assignee: Research Development Corporation of Japan
+    cited_by_patents: 67
+  - patent_id: '5449513'
+    reason: Claims polymeric micelles that physically entrap hydrophobic drugs in a block-copolymer core, the basis of his
+      micellar drug delivery systems
+    title: Physical trapping type polymeric micelle drug preparation
+    filing_year: 1993
+    grant_year: 1995
+    assignee: Research Development Corporation of Japan
+    cited_by_patents: 125
+  - patent_id: '7780957'
+    reason: Claims PEG-polycation block copolymers forming polyion complex micelles, his carrier platform for gene and nucleic-acid
+      delivery
+    title: Polyethylene glycol/polycation block copolymers
+    filing_year: 2004
+    grant_year: 2010
+    assignee: The University of Tokyo
+    cited_by_patents: 10
+  n_related: 55
+  note: Patents strongly reflect polymeric micelle drug and nucleic-acid delivery. The AIST/JNC stimuli-responsive polymer
+    and magnetic-particle patents (2000-2008) and the 1992 Kao cell-culture patent are in other technology and may belong
+    to a different Kazunori Kataoka.
+Kevan Shokat:
+  picks:
+  - patent_id: '6390821'
+    reason: Founding chemical-genetic patent on engineered (analog-sensitive) protein kinases that accept modified nucleotide
+      triphosphate substrates
+    title: Engineered protein kinases which can utilize modified nucleotide triphosphate substrates
+    filing_year: 1999
+    grant_year: 2002
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 91
+  - patent_id: '6383790'
+    reason: Claims high-affinity inhibitors designed for engineered kinases, the inhibitor half of the bump-and-hole method
+    title: High affinity protein kinase inhibitors
+    filing_year: 2000
+    grant_year: 2002
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 128
+  - patent_id: '10023588'
+    reason: Earliest filing (2015) of the UC cancer-treatment family that covers his covalent inhibitors of oncogenic KRAS
+      G12C
+    title: Compositions and methods for treating cancer
+    filing_year: 2015
+    grant_year: 2018
+    assignee: THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+    cited_by_patents: 27
+  n_related: 10
+  note: Both discoveries appear (Princeton-era engineered kinase patents; UC family 10023588/11008334/11136297, whose KRAS
+    link is inferred from title and timing); many other UC patents are kinase, PI3K and mTOR inhibitor applications. The Princeton
+    bacterial growth and pathogenesis patents (one assigned to University Technologies International) lie outside his kinase
+    work and may reflect a collaboration.
+Krzysztof Matyjaszewski:
+  picks:
+  - patent_id: '5763548'
+    reason: Original 1995 filing claiming the atom transfer radical polymerization (ATRP) process and the resulting (co)polymers
+    title: (Co)polymers and a novel polymerization process based on atom (or group) transfer radical polymerization
+    filing_year: 1995
+    grant_year: 1998
+    assignee: CARNEGIE MELLON UNIVERSITY
+    cited_by_patents: 290
+  - patent_id: '5807937'
+    reason: Companion 1995 filing on ATRP-based processes and the well-defined polymers they make
+    title: Processes based on atom (or group) transfer radical polymerization and novel (co) polymers having useful structures
+      and properties
+    filing_year: 1995
+    grant_year: 1998
+    assignee: CARNEGIE MELLON UNIVERSITY
+    cited_by_patents: 298
+  - patent_id: '5789487'
+    reason: 1996 filing extending ATRP to the preparation of new homo- and copolymers
+    title: Preparation of novel homo- and copolymers using atom transfer radical polymerization
+    filing_year: 1996
+    grant_year: 1998
+    assignee: CARNEGIE MELLON UNIVERSITY
+    cited_by_patents: 289
+  n_related: 56
+  note: The list clearly reflects ATRP and other controlled radical polymerization (including nitroxide-mediated). A few patents
+    (GE silanol condensation, plastic optical fibers, polyphosphazenes, Dow polymerization inhibitors) are outside CRP but
+    match his polymer-chemistry career; there is no sign of a different inventor.
+Makoto Fujita:
+  picks:
+  - patent_id: '8791261'
+    reason: Claims self-assembled polyhedral transition-metal complexes (M12L24-type spheres), the clearest patent on coordination-driven
+      self-assembled cages
+    title: Polyhedraltransition metal complex, transition metal complex containing ultrafine particles therein, and process
+      for producing same
+    filing_year: 2010
+    grant_year: 2014
+    assignee: Japan Science and Technology Agency
+    cited_by_patents: 0
+  - patent_id: '8530649'
+    reason: The 2007 filing on porous coordination polymer complexes assembled from metal ions and bridging ligands
+    title: Polymer complex
+    filing_year: 2007
+    grant_year: 2013
+    assignee: The University of Tokyo
+    cited_by_patents: 0
+  - patent_id: '10190952'
+    reason: The crystalline-sponge patent, using self-assembled porous metal-complex crystals to take up guests for structure
+      determination
+    title: Guest-compound-enveloping polymer-metal-complex crystal, method for producing same, method for preparing crystal
+      structure analysis sample, and method for determining molecular structure of organic compound
+    filing_year: 2013
+    grant_year: 2019
+    assignee: Japan Science and Technology Agency
+    cited_by_patents: 15
+  n_related: 10
+  note: No patent covers the founding 1990s self-assembly work; only the Tokyo/JST metal-complex patents (2007 onward) and
+    the 1988 Sagami Chemical patent belong to the chemist. The Sumitomo Electric disk-changer, Toyota engine-control and cylinder-liner,
+    and Central Motor Wheel aluminium-composite patents are clearly other inventors named Makoto Fujita, and the Toyota Central
+    R&D molecular-assembly patent is uncertain.
+Mark D. Matteucci:
+  picks:
+  - patent_id: '4458066'
+    reason: The 1981 Caruthers-Matteucci filing on solid-phase polynucleotide synthesis via phosphite-triester coupling, the
+      founding patent of automated DNA synthesis
+    title: Process for preparing polynucleotides
+    filing_year: 1981
+    grant_year: 1984
+    assignee: University Patents, Inc.
+    cited_by_patents: 1218
+  - patent_id: '4500707'
+    reason: Claims the protected nucleoside reagents used in that solid-phase process, the companion founding patent
+    title: Nucleosides useful in the preparation of polynucleotides
+    filing_year: 1982
+    grant_year: 1985
+    assignee: University Patents, Inc.
+    cited_by_patents: 607
+  n_related: 7
+  note: The two founding 1981-82 patents and their continuations (5132418, 5153319) carry the discovery; Genentech H-phosphonate
+    synthesis patents relate to oligonucleotide synthesis but not to phosphoramidites. The bulk of the list is later Gilead/Isis
+    antisense analogs and Threshold hypoxia-activated prodrugs, consistent with Matteucci's own career rather than a different
+    inventor.
+Mark E. Thompson:
+  picks:
+  - patent_id: '6303238'
+    reason: Founding 1997 patent on OLEDs doped with phosphorescent compounds (electrophosphorescence), which harvest triplet
+      excitons for high efficiency
+    title: OLEDs doped with phosphorescent compounds
+    filing_year: 1997
+    grant_year: 2001
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 1876
+  - patent_id: '6830828'
+    reason: Early patent on organometallic (cyclometallated iridium-type) complexes as phosphorescent emitters in OLEDs
+    title: Organometallic complexes as phosphorescent emitters in organic LEDs
+    filing_year: 2001
+    grant_year: 2004
+    assignee: The Trustees of Princeton University
+    cited_by_patents: 232
+  - patent_id: '6835469'
+    reason: Highly cited USC patent on phosphorescent compounds and devices built on them, extending efficient phosphorescent
+      emitters
+    title: Phosphorescent compounds and devices comprising the same
+    filing_year: 2001
+    grant_year: 2004
+    assignee: University of Southern California
+    cited_by_patents: 946
+  n_related: 140
+  note: The 19 DuPont herbicidal sulfonamide patents (1984-1989) belong to a different Mark E. Thompson. A few USC and Caltech
+    biomedical patents (scleral closure, reversible adhesives, methylated DNA detection, photoactivated neuron modulators)
+    are outside OLED work and may be collaborations; the organic photovoltaic patents are his own related work.
+Mark Levin:
+  picks: []
+  n_related: 0
+  note: no US utility patents in the record
+Markku Leskelä:
+  picks:
+  - patent_id: '7108747'
+    reason: Earliest ALD filing in the list (1999), atomic layer deposition of barium and strontium containing oxide thin
+      films
+    title: Method for growing oxide thin films containing barium and strontium
+    filing_year: 1999
+    grant_year: 2006
+    assignee: ASM International N.V.
+    cited_by_patents: 50
+  - patent_id: '6632279'
+    reason: Method for growing thin oxide films by ALD, a highly cited core oxide ALD chemistry patent from the Helsinki group
+    title: Method for growing thin oxide films
+    filing_year: 2000
+    grant_year: 2003
+    assignee: ASM Microchemistry Oy
+    cited_by_patents: 260
+  - patent_id: '6824816'
+    reason: Process for producing metal thin films by ALD, the noble-metal ALD chemistry contributed by Leskelä and Ritala
+    title: Process for producing metal thin films by ALD
+    filing_year: 2002
+    grant_year: 2004
+    assignee: ASM International N.V.
+    cited_by_patents: 87
+  n_related: 49
+  note: Most patents are ALD processes and precursors assigned to ASM. The paper and pulp patents (M-real, Metsa-Serla, 1997-2010)
+    almost certainly belong to a different Markku Leskelä; the metallocene and metathesis catalyst patents may be his own
+    early catalysis work.
+Marvin H. Caruthers:
+  picks:
+  - patent_id: '4415732'
+    reason: Founding 1981 patent on nucleoside phosphoramidite compounds, the reagents of automated DNA synthesis
+    title: Phosphoramidite compounds and processes
+    filing_year: 1981
+    grant_year: 1983
+    assignee: University Patents, Inc.
+    cited_by_patents: 714
+  - patent_id: '4458066'
+    reason: Founding 1981 patent on the solid-phase process for preparing polynucleotides from these reagents
+    title: Process for preparing polynucleotides
+    filing_year: 1981
+    grant_year: 1984
+    assignee: University Patents, Inc.
+    cited_by_patents: 1218
+  - patent_id: '4500707'
+    reason: Early filing on the nucleoside intermediates and supports used in phosphoramidite polynucleotide synthesis
+    title: Nucleosides useful in the preparation of polynucleotides
+    filing_year: 1982
+    grant_year: 1985
+    assignee: University Patents, Inc.
+    cited_by_patents: 607
+  n_related: 42
+  note: Almost all patents concern chemical oligonucleotide synthesis, including phosphoramidite, phosphorodithioate, RNA
+    protecting-group and Agilent array-synthesis chemistry. Only the hybrid interferon and catalytic antibody patents fall
+    outside it, and they look like his own work, not a different inventor.
+Matthias Mann:
+  picks:
+  - patent_id: '5130538'
+    reason: Electrospray production of multiply charged ions and molecular-weight determination from them, the Fenn and Mann
+      electrospray foundation for protein mass spectrometry.
+    title: Method of producing multiply charged ions and for determining molecular weights of molecules by use of the multiply
+      charged ions of molecules
+    filing_year: 1991
+    grant_year: 1992
+    assignee: John B. Fenn
+    cited_by_patents: 48
+  - patent_id: '5608217'
+    reason: Nanoelectrospray method for mass spectrometric analysis, the Wilm and Mann low-flow ion source central to proteomics.
+    title: Electrospraying method for mass spectrometric analysis
+    filing_year: 1995
+    grant_year: 1997
+    assignee: Bruker-Franzen Analytik GmbH
+    cited_by_patents: 105
+  - patent_id: '5504329'
+    reason: Companion 1995 nanoelectrospray patent on ionizing molecules by electrospraying from fine capillaries.
+    title: Method of ionizing atoms or molecules by electrospraying
+    filing_year: 1995
+    grant_year: 1996
+    assignee: Bruker-Franzen Analytik GmbH
+    cited_by_patents: 95
+  n_related: 10
+  note: The list reflects the discovery well (electrospray and nanospray, quantitation standards, PASEF ion-mobility acquisition,
+    sample-preparation vessel). The RGM antibody and Helicobacter vaccine patents are biology collaborations where he likely
+    did the protein identification; no sign of a namesake.
+Michael Elowitz:
+  picks:
+  - patent_id: '10527631'
+    reason: Caltech filing on programmable sensing and control through combinatorial molecular interactions, a synthetic circuit
+      design
+    title: Compositions and methods for programmable sensing and control through combinatorial molecular interactions
+    filing_year: 2017
+    grant_year: 2020
+    assignee: California Institute of Technology
+    cited_by_patents: 1
+  - patent_id: '10899823'
+    reason: Programmable protein circuits in living cells, a synthetic gene and protein circuit platform
+    title: Programmable protein circuits in living cells
+    filing_year: 2019
+    grant_year: 2021
+    assignee: California Institute of Technology
+    cited_by_patents: 3
+  n_related: 2
+  note: Both patents are recent (2017-2019 filings) synthetic-biology circuit patents. There is no patent on the original
+    repressilator-era gene circuits. No sign of name mixing.
+Michael Grätzel:
+  picks:
+  - patent_id: '4927721'
+    reason: Founding 1988 patent on the dye-sensitized photo-electrochemical cell with a sensitized titanium dioxide electrode
+    title: Photo-electrochemical cell
+    filing_year: 1988
+    grant_year: 1990
+    assignee: ''
+    cited_by_patents: 182
+  - patent_id: '5084365'
+    reason: 1990 patent on the nanocrystalline dye-sensitized photo-electrochemical cell and how to make it (the classic DSSC)
+    title: Photo-electrochemical cell and process of making same
+    filing_year: 1990
+    grant_year: 1992
+    assignee: ''
+    cited_by_patents: 96
+  - patent_id: '5441827'
+    reason: Early filing on a transparent regenerative dye-sensitized photoelectrochemical cell
+    title: Transparent regenerating photoelectrochemical cell
+    filing_year: 1993
+    grant_year: 1995
+    assignee: Asulab S.A.
+    cited_by_patents: 108
+  n_related: 12
+  note: The dye-sensitized cell is well covered (cells, ruthenium dyes, electrolytes, sealing), but no patent covers perovskite
+    solar cells, apart from a 2018 maximum-power-point-tracking device. Other groups (Engelhard water photolysis 1980-82,
+    Hahn-Meitner 1976, Asulab sensor, Geneva endosseous implants) look like his own wider career rather than a different inventor.
+Michael K. Rosen:
+  picks: []
+  n_related: 0
+  note: no US utility patents in the record
+Michele Parrinello:
+  picks: []
+  n_related: 0
+  note: Only one patent (IBM 1993, molecular recording medium), unrelated to ab initio molecular dynamics; it plausibly dates
+    from his IBM Zurich period, so no clear mix-in.
+Mikko Ritala:
+  picks:
+  - patent_id: '6632279'
+    reason: Early (2000) core ALD process patent for growing thin oxide films, highly cited
+    title: Method for growing thin oxide films
+    filing_year: 2000
+    grant_year: 2003
+    assignee: ASM Microchemistry Oy
+    cited_by_patents: 260
+  - patent_id: '7108747'
+    reason: Earliest filing (1999), an ALD process for barium- and strontium-containing oxide thin films
+    title: Method for growing oxide thin films containing barium and strontium
+    filing_year: 1999
+    grant_year: 2006
+    assignee: ASM International N.V.
+    cited_by_patents: 50
+  - patent_id: '6824816'
+    reason: Founding patent on ALD of metal (noble-metal) thin films, a key extension of ALD chemistry
+    title: Process for producing metal thin films by ALD
+    filing_year: 2002
+    grant_year: 2004
+    assignee: ASM International N.V.
+    cited_by_patents: 87
+  n_related: 49
+  note: ALD itself was patented by Suntola in the 1970s; these ASM patents are process and precursor developments. The 2013
+    US Navy metamaterial thin-film patent is outside the ASM ALD portfolio and may be a collaboration or another inventor.
+Mitsuo Sawamoto:
+  picks:
+  - patent_id: '7649079'
+    reason: Removal of metal catalyst residues in producing polymers, tied to transition-metal-catalyzed living radical polymerization
+    title: Method for removing metal and method for producing polymer
+    filing_year: 2005
+    grant_year: 2010
+    assignee: Nippon Soda Co., Ltd
+    cited_by_patents: 13
+  n_related: 1
+  note: His founding metal-catalyzed living radical polymerization work is barely reflected in patents. The 1986 and 1991
+    patents relate to living cationic polymerization (his earlier field), and the Zeon conjugated diene patents may involve
+    controlled polymerization but the titles do not show it.
+Nam-Gyu Park:
+  picks:
+  - patent_id: '10720282'
+    reason: Method of producing a mesoporous thin-film perovskite solar cell, the solid-state perovskite architecture he pioneered
+    title: Producing method of mesoporous thin film solar cell based on perovskite
+    filing_year: 2014
+    grant_year: 2020
+    assignee: RESEARCH & BUSINESS FOUNDATION SUNGKYUNKWAN UNIVERSITY
+    cited_by_patents: 0
+  - patent_id: '11192906'
+    reason: Lead halide Lewis-base adduct compound for perovskite films, his adduct approach to high-quality perovskite layers
+    title: Lead halide adduct compound and perovskite element using same
+    filing_year: 2016
+    grant_year: 2021
+    assignee: GLOBAL FRONTIER CENTER FOR MULTISCALE ENERGY SYSTEMS
+    cited_by_patents: 1
+  - patent_id: '10840028'
+    reason: Preparing large-area perovskite thin films, a later process patent for perovskite solar cells
+    title: Preparing method of large-area perovskite thin film
+    filing_year: 2019
+    grant_year: 2020
+    assignee: RESEARCH & BUSINESS FOUNDATION SUNGKYUNKWAN UNIVERSITY
+    cited_by_patents: 0
+  n_related: 3
+  note: Only three later perovskite patents; no founding 2012 patent appears. The nuclear fuel assembly patents (Korea Nuclear
+    Fuel, KEPCO Nuclear Fuel, 2008-2019) are clearly a different Nam-Gyu Park, while the dye-sensitized cell and lithium battery
+    patents fit his own career.
+Pascal Mayer:
+  picks:
+  - patent_id: '7115400'
+    reason: The 1999 founding filing on solid-phase bridge amplification of DNA into clusters and their sequencing, the basis
+      of Solexa/Illumina sequencing-by-synthesis
+    title: Methods of nucleic acid amplification and sequencing
+    filing_year: 1999
+    grant_year: 2006
+    assignee: Solexa, Inc.
+    cited_by_patents: 918
+  - patent_id: '7790418'
+    reason: The 2001 filing on isothermal amplification of nucleic acids on a solid support, the cluster-generation chemistry
+    title: Isothermal amplification of nucleic acids on a solid support
+    filing_year: 2001
+    grant_year: 2010
+    assignee: Illumina Cambridge Limited
+    cited_by_patents: 116
+  - patent_id: '7985565'
+    reason: The 2003 filing of the Method of nucleic acid amplification family, covering surface-bound amplification used
+      to form sequencing clusters
+    title: Method of nucleic acid amplification
+    filing_year: 2003
+    grant_year: 2011
+    assignee: Illumina, Inc.
+    cited_by_patents: 158
+  n_related: 12
+  note: The discovery is well reflected by the bridge-amplification families and their continuations. The electrophoretic
+    purification, ferrofluid separation and biofilm assay patents are other lines of work with no clear sign of a different
+    inventor.
+Paul W. K. Rothemund:
+  picks:
+  - patent_id: '7842793'
+    reason: The 2006 founding DNA origami patent, folding a long scaffold strand with short staple strands into programmed
+      nanostructures
+    title: Methods of making nucleic acid nanostructures
+    filing_year: 2006
+    grant_year: 2010
+    assignee: California Institute of Technology
+    cited_by_patents: 42
+  - patent_id: '9340416'
+    reason: Covers polynucleotide nanoassemblies and arrangements built by programmable DNA self-assembly
+    title: Polynucleotides and related nanoassemblies, structures, arrangements, methods and systems
+    filing_year: 2009
+    grant_year: 2016
+    assignee: California Institute of Technology
+    cited_by_patents: 19
+  - patent_id: '11125748'
+    reason: Placement of DNA origami on lithographically patterned substrates to organize single molecules, a direct application
+      of origami
+    title: Method for organizing individual molecules on a patterned substrate and structures assembled thereby
+    filing_year: 2018
+    grant_year: 2021
+    assignee: THE UNIVERSITY OF BRITISH COLUMBIA
+    cited_by_patents: 10
+  n_related: 5
+  note: All patents relate to programmable DNA self-assembly; 8501923 is a continuation of the founding origami patent and
+    5843661 is earlier DNA-computing work. No sign of a different inventor.
+Peter G. Schultz:
+  picks:
+  - patent_id: '7045337'
+    reason: Founding 2002 patent on in vivo site-specific incorporation of unnatural amino acids with orthogonal tRNA and
+      synthetase pairs.
+    title: In vivo incorporation of unnatural amino acids
+    filing_year: 2002
+    grant_year: 2006
+    assignee: The Scripps Research Institute
+    cited_by_patents: 293
+  - patent_id: '7083970'
+    reason: Founding 2002 method for producing orthogonal tRNA and aminoacyl-tRNA synthetase pairs, the core tool of genetic
+      code expansion.
+    title: Methods and compositions for the production of orthogonal tRNA-aminoacyl tRNA synthetase pairs
+    filing_year: 2002
+    grant_year: 2006
+    assignee: The Scripps Research Institute
+    cited_by_patents: 223
+  - patent_id: '7618775'
+    reason: Earliest filing (2004) of the Expanding the eukaryotic genetic code family, extending the method to eukaryotic
+      cells.
+    title: Expanding the eukaryotic genetic code
+    filing_year: 2004
+    grant_year: 2009
+    assignee: The Scripps Research Institute
+    cited_by_patents: 8
+  n_related: 85
+  note: Genetic code expansion dominates the list (about 85 patents incl. glycoprotein synthesis and many specific amino acids),
+    alongside his combinatorial materials, catalytic antibody, kinase inhibitor and stem-cell work. The 1975 German patent
+    on measuring defects in sealings (Firma Up Geratebau) is clearly a different inventor with the same name.
+Pieter R. Cullis:
+  picks:
+  - patent_id: '5077056'
+    reason: The 1988 filing on transmembrane pH-gradient loading of antineoplastic drugs into liposomes, the founding drug-delivery
+      lipid particle technology
+    title: Encapsulation of antineoplastic agents in liposomes
+    filing_year: 1988
+    grant_year: 1991
+    assignee: The Liposome Company, Inc.
+    cited_by_patents: 204
+  - patent_id: '5981501'
+    reason: The 1995 filing on encapsulating plasmid DNA in lipid bilayer particles, the earliest of the nucleic acid lipid
+      particle family
+    title: Methods for encapsulating plasmids in lipid bilayers
+    filing_year: 1995
+    grant_year: 1999
+    assignee: Inex Pharmaceuticals Corporation
+    cited_by_patents: 270
+  - patent_id: '6858225'
+    reason: Covers lipid-encapsulated nucleic acids made with ionizable cationic lipids, the formulation route that led to
+      clinical siRNA and mRNA lipid nanoparticles
+    title: Lipid-encapsulated polyanionic nucleic acid
+    filing_year: 2001
+    grant_year: 2005
+    assignee: Inex Pharmaceuticals Corporation
+    cited_by_patents: 188
+  n_related: 65
+  note: The portfolio reflects the discovery almost entirely (Liposome Company, Inex/Tekmira and UBC lipid-particle patents
+    for drugs and nucleic acids). No sign of a different inventor; the polymeric side of the option belongs to the other named
+    candidates.
+Ralph G. Nuzzo:
+  picks:
+  - patent_id: '4690715'
+    reason: The 1982 Bell Labs filing with Allara on modifying metal surfaces with adsorbed organic monolayers, the founding
+      patent of the organosulfur-on-gold SAM work
+    title: Modification of the properties of metals
+    filing_year: 1982
+    grant_year: 1987
+    assignee: American Telephone and Telegraph Company, AT&T Bell Laboratories
+    cited_by_patents: 70
+  - patent_id: '4579752'
+    reason: A 1984 Bell Labs filing on corrosion-protecting metal surfaces, apparently an application of the same surface-monolayer
+      chemistry
+    title: Enhanced corrosion resistance of metal surfaces
+    filing_year: 1984
+    grant_year: 1986
+    assignee: AT&T Bell Laboratories
+    cited_by_patents: 27
+  - patent_id: '6518168'
+    reason: Harvard patent on SAM-directed patterning of surfaces, using monolayers as templates for selective deposition
+    title: Self-assembled monolayer directed patterning of surfaces
+    filing_year: 1998
+    grant_year: 2003
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 199
+  n_related: 3
+  note: Only three patents relate to SAMs; the bulk of the list is the later Illinois transfer-printing and stretchable-electronics
+    work with Rogers, plus Bell Labs catalyst and CVD patents. All of it fits Nuzzo's career rather than a different inventor.
+Raymond J. Deshaies:
+  picks:
+  - patent_id: '7041298'
+    reason: Founding 2001 PROTAC patent claiming proteolysis targeting chimeras that recruit a ubiquitin ligase to a target
+      protein for degradation
+    title: Proteolysis targeting chimeric pharmaceutical
+    filing_year: 2001
+    grant_year: 2006
+    assignee: California Institute of Technology
+    cited_by_patents: 142
+  n_related: 1
+  note: The PROTAC patent is the founding patent of the discovery; the other patents cover ubiquitin-ligase and proteasome
+    biology (cullin assays, COP9, p97 and RPN11 inhibitors), and 6846663 and 7291494 on modifier proteins may be loosely related.
+    No sign of a same-name mix-in.
+Richmond Sarpong:
+  picks: []
+  n_related: 0
+  note: no US utility patents in the record
+Robert G. Bergman:
+  picks:
+  - patent_id: '4511745'
+    reason: Earliest filing (1984) claiming alkane functionalization via iridium C-H activation, built on his 1982 discovery
+      of intermolecular alkane C-H oxidative addition
+    title: Process for functionalizing alkanes
+    filing_year: 1984
+    grant_year: 1985
+    assignee: United States Department of Energy
+    cited_by_patents: 5
+  - patent_id: '4849534'
+    reason: Claims the hydridomethyl iridium complex formed by C-H activation of methane, a direct product of the C-H activation
+      discovery
+    title: Hydridomethyl iridium complex
+    filing_year: 1985
+    grant_year: 1989
+    assignee: ''
+    cited_by_patents: 2
+  - patent_id: '4746760'
+    reason: Companion 1985 process for functionalizing alkanes by C-H activation (Chevron), same discovery
+    title: Process for functionalizing alkanes
+    filing_year: 1985
+    grant_year: 1988
+    assignee: Chevron Research Company
+    cited_by_patents: 2
+  n_related: 3
+  note: The three C-H activation patents reflect the discovery. The two Scripps enediyne DNA-cleaving patents (1991-1993)
+    look like a different inventor or a linking error, since Bergman was not at Scripps.
+Robert S. Langer:
+  picks:
+  - patent_id: '4164560'
+    reason: Founding Langer-Folkman patent (filed 1977) on polymer systems for sustained controlled release of macromolecules,
+      the origin of polymer-based controlled drug delivery.
+    title: Systems for the controlled release of macromolecules
+    filing_year: 1977
+    grant_year: 1979
+    assignee: ''
+    cited_by_patents: 136
+  - patent_id: '5543158'
+    reason: Biodegradable injectable PEG-coated polymeric nanoparticles (long-circulating stealth nanoparticles), the founding
+      polymeric nanoparticle drug-delivery patent.
+    title: Biodegradable injectable nanoparticles
+    filing_year: 1993
+    grant_year: 1996
+    assignee: MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+    cited_by_patents: 696
+  - patent_id: '6998115'
+    reason: Biodegradable poly(beta-amino esters), cationic polymers that condense DNA into nanoparticles, the earliest Langer
+      patent on nanoparticle nucleic-acid delivery.
+    title: Biodegradable poly(β-amino esters) and uses thereof
+    filing_year: 2001
+    grant_year: 2006
+    assignee: MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+    cited_by_patents: 144
+  n_related: 160
+  note: Roughly 160 of about 560 patents are polymer controlled release, micro/nanoparticles and lipid/lipidoid nucleic-acid
+    carriers, and the rest is tissue engineering, microchips, transdermal and other work. The many Invention Science Fund
+    / Searete / Elwha patents are Intellectual Ventures filings that do list Langer. The Imec vzw semiconductor patents (III-V
+    on Si, strained group IV channels, nano-ridge transistor) and the National Tsing Hua University detection devices look
+    like a different Robert Langer.
+Roberto Car:
+  picks: []
+  n_related: 0
+  note: no US utility patents in the record
+Ronald M. Evans:
+  picks:
+  - patent_id: '5071773'
+    reason: 1987 filing on hormone receptor bioassays using cloned steroid receptors, the cotransfection assay underpinning
+      the receptor superfamily work
+    title: Hormone receptor-related bioassays
+    filing_year: 1987
+    grant_year: 1991
+    assignee: Salk Institute for Biological Studies
+    cited_by_patents: 232
+  - patent_id: '4981784'
+    reason: 1988 retinoic acid receptor patent; RAR was identified as a new member of the steroid/thyroid receptor superfamily
+    title: Retinoic acid receptor method
+    filing_year: 1988
+    grant_year: 1991
+    assignee: Salk Institute for Biological Studies
+    cited_by_patents: 225
+  - patent_id: '5217867'
+    reason: 1988 filing on identifying and characterizing new receptors of the superfamily by homology
+    title: 'Receptors: their identification, characterization, preparation and use'
+    filing_year: 1988
+    grant_year: 1993
+    assignee: Salk Institute for Biological Studies
+    cited_by_patents: 35
+  n_related: 110
+  note: Most patents are nuclear receptor work (GR, RAR, RXR, PPAR, FXR, SXR, co-repressors). Unrelated groups are the early
+    CGRP, inhibin and transgenic-animal patents and the later FGF1 metabolic patents, all from Salk and consistent with his
+    career, so there is no sign of a different inventor.
+Ruedi Aebersold:
+  picks:
+  - patent_id: '6629040'
+    reason: Founding ICAT patent on isotope-coded affinity tags for quantitative mass-spectrometry protein identification
+    title: Isotope distribution encoded tags for protein identification
+    filing_year: 2000
+    grant_year: 2003
+    assignee: University of Washington
+    cited_by_patents: 211
+  - patent_id: '7052915'
+    reason: Covers selective chemical labeling and isolation of phosphopeptides for mass-spectrometry proteome analysis
+    title: Selective labeling and isolation of phosphopeptides and applications to proteome analysis
+    filing_year: 2001
+    grant_year: 2006
+    assignee: University of Washington
+    cited_by_patents: 17
+  n_related: 2
+  note: The plastin isoform patents (1990-1991) come from his earlier protein-chemistry work, and the electroosmotic fluidic
+    device may relate to sample handling; no sign of a different inventor.
+Ryong Ryoo:
+  picks:
+  - patent_id: '5942208'
+    reason: 1997 filing claiming a mesoporous silica molecular sieve and its preparation
+    title: Mesoporous molecular sieve substance and method for preparing the same
+    filing_year: 1997
+    grant_year: 1999
+    assignee: Yukong Limited
+    cited_by_patents: 10
+  - patent_id: '5958368'
+    reason: 1997 filing on a noncrystalline mesoporous molecular sieve material and how to make it
+    title: Noncrystalline mesoporous molecular sieve substance and method for preparing the same
+    filing_year: 1997
+    grant_year: 1999
+    assignee: Yukong Limited
+    cited_by_patents: 21
+  - patent_id: '6585948'
+    reason: Founding patent on ordered mesoporous carbon (carbon molecular sieve with structural regularity) templated from
+      mesoporous silica
+    title: Carbon molecular sieve material with structural regularity, method for preparing the same and use thereof
+    filing_year: 2000
+    grant_year: 2003
+    assignee: Korea Advanced Institute of Science
+    cited_by_patents: 43
+  n_related: 5
+  note: All five patents relate to porous materials. Two (7785563, 7196122) list ETRI as assignee, which is unusual for him,
+    but their topics (mesoporous zeolites, nanoporous composites) match his work.
+Serge L. Beaucage:
+  picks:
+  - patent_id: '4415732'
+    reason: The 1981 Beaucage-Caruthers filing claiming nucleoside phosphoramidite compounds and processes for oligonucleotide
+      synthesis, the founding phosphoramidite patent
+    title: Phosphoramidite compounds and processes
+    filing_year: 1981
+    grant_year: 1983
+    assignee: University Patents, Inc.
+    cited_by_patents: 714
+  - patent_id: '4668777'
+    reason: Covers the phosphoramidite nucleoside compounds themselves, a direct founding-family patent
+    title: Phosphoramidite nucleoside compounds
+    filing_year: 1984
+    grant_year: 1987
+    assignee: University Patents, Inc.
+    cited_by_patents: 367
+  - patent_id: '4973679'
+    reason: Claims the oligonucleotide synthesis process using phosphoramidite intermediates
+    title: Process for oligonucleo tide synthesis using phosphormidite intermediates
+    filing_year: 1986
+    grant_year: 1990
+    assignee: University Patents, Inc.
+    cited_by_patents: 441
+  n_related: 11
+  note: Nearly all patents concern phosphoramidite or oligonucleotide synthesis chemistry (founding University Patents filings,
+    then HHS work on sulfurization and thermolabile protecting groups). The 2004 Rematek printed-circuit-board test fixture
+    is unrelated and almost certainly a different inventor.
+Shankar Balasubramanian:
+  picks:
+  - patent_id: '6833246'
+    reason: Founding Solexa patent on polynucleotide sequencing by synthesis with detection of incorporated labelled nucleotides
+    title: Polynucleotide sequencing
+    filing_year: 2002
+    grant_year: 2004
+    assignee: Solexa, Inc.
+    cited_by_patents: 917
+  - patent_id: '6787308'
+    reason: Founding Solexa patent on arrayed single-molecule biomolecules and their use in massively parallel sequencing
+    title: Arrayed biomolecules and their use in sequencing
+    filing_year: 2001
+    grant_year: 2004
+    assignee: Solexa, Inc.
+    cited_by_patents: 933
+  - patent_id: '7057026'
+    reason: Founding patent on labelled nucleotides with removable 3-prime blocking groups (reversible terminators), the chemistry
+      of Illumina SBS
+    title: Labelled nucleotides
+    filing_year: 2002
+    grant_year: 2006
+    assignee: Solexa, Inc.
+    cited_by_patents: 1016
+  n_related: 21
+  note: The UC nanomotor patents (9352963, 9868991, 9879310) and the Argonne hydrogen-production nanoparticle patent (10220378)
+    belong to a different Shankar Balasubramanian. The two Cambridge Epigenetix patents concern epigenetic base detection
+    rather than the sequencing discovery.
+Sharon Hammes-Schiffer:
+  picks: []
+  n_related: 0
+  note: no US utility patents in the record
+Stanislas Leibler:
+  picks: []
+  n_related: 0
+  note: Neither patent reflects synthetic gene circuits; both are Rockefeller holographic-microscope patents (the same family).
+    They are consistent with his Rockefeller affiliation, so there is no sign of a different inventor.
+Stephen L. Buchwald:
+  picks:
+  - patent_id: '5576460'
+    reason: Founding 1994 patent on palladium-catalyzed preparation of arylamines from aryl halides, the original Buchwald
+      amination.
+    title: Preparation of arylamines
+    filing_year: 1994
+    grant_year: 1996
+    assignee: MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+    cited_by_patents: 120
+  - patent_id: '5847166'
+    reason: Founding 1996 patent on palladium-catalyzed synthesis of aryl ethers, extending the coupling to carbon-oxygen
+      bonds.
+    title: Synthesis of aryl ethers
+    filing_year: 1996
+    grant_year: 1998
+    assignee: MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+    cited_by_patents: 83
+  - patent_id: '6395916'
+    reason: Earliest filing (1998) of the dialkylbiaryl phosphine ligand family that made palladium carbon-heteroatom couplings
+      general.
+    title: Ligands for metals and improved metal-catalyzed processes based thereon
+    filing_year: 1998
+    grant_year: 2002
+    assignee: MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+    cited_by_patents: 95
+  n_related: 30
+  note: The list reflects the discovery strongly; about 8 of the related patents are copper-catalyzed carbon-heteroatom couplings
+    rather than palladium. The Collegium Pharmaceutical opioid and milnacipran patents and the Whitehead drug-derivative patents
+    are unrelated pharmaceutical work, plausibly consulting or collaborations rather than a namesake.
+Steven A. Van Slyke:
+  picks:
+  - patent_id: '4539507'
+    reason: 1983 Kodak patent on thin-film organic electroluminescent devices with greatly improved power conversion efficiency,
+      the start of the efficient OLED
+    title: Organic electroluminescent devices having improved power conversion efficiencies
+    filing_year: 1983
+    grant_year: 1985
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 833
+  - patent_id: '4720432'
+    reason: 1987 patent on the multilayer organic electroluminescent device with separate hole-injecting/transporting and
+      emitting layers (Tang-Van Slyke OLED)
+    title: Electroluminescent device with organic luminescent medium
+    filing_year: 1987
+    grant_year: 1988
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 607
+  - patent_id: '4885211'
+    reason: 1987 patent on the low-work-function Mg-Ag cathode that made the efficient OLED practical
+    title: Electroluminescent device with improved cathode
+    filing_year: 1987
+    grant_year: 1989
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 537
+  n_related: 38
+  note: Every patent is OLED-related (Kodak and Global OLED). Later ones cover displays, microcavities and manufacturing.
+    No sign of name mixing.
+Steven Van Slyke:
+  picks:
+  - patent_id: '4539507'
+    reason: 1983 Van Slyke and Tang patent on organic electroluminescent devices with a hole-transport layer, the earliest
+      filing of the multilayer OLED
+    title: Organic electroluminescent devices having improved power conversion efficiencies
+    filing_year: 1983
+    grant_year: 1985
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 833
+  - patent_id: '4720432'
+    reason: Claims the electroluminescent device with an organic luminescent medium of separate hole-transport and emitting
+      layers, the Tang-Van Slyke bilayer OLED
+    title: Electroluminescent device with organic luminescent medium
+    filing_year: 1987
+    grant_year: 1988
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 607
+  - patent_id: '4885211'
+    reason: Claims the low-work-function Mg-Ag cathode that made the 1987 bilayer OLED efficient and stable
+    title: Electroluminescent device with improved cathode
+    filing_year: 1987
+    grant_year: 1989
+    assignee: EASTMAN KODAK COMPANY
+    cited_by_patents: 537
+  n_related: 38
+  note: All patents are Kodak (and Global OLED) OLED patents, so the list reflects the discovery throughout; no sign of a
+    same-name mix-in.
+Stuart L. Schreiber:
+  picks:
+  - patent_id: '5834266'
+    reason: Earliest (1994) chemical inducer of dimerization patent, using a small molecule to bring proteins together, the
+      induced-proximity idea behind degraders.
+    title: Regulated apoptosis
+    filing_year: 1994
+    grant_year: 1998
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 118
+  - patent_id: '5869337'
+    reason: Founding 1995 patent on small-molecule induced dimerization to regulate targeted genes and other biological events.
+    title: Regulated transcription of targeted genes and other biological events
+    filing_year: 1995
+    grant_year: 1999
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 118
+  - patent_id: '6984635'
+    reason: Dimerizing agents and their production, the synthetic induced-proximity molecules of the same programme.
+    title: Dimerizing agents, their production and use
+    filing_year: 1999
+    grant_year: 2006
+    assignee: Board of Trustees Leland Stanford Jr University
+    cited_by_patents: 26
+  n_related: 18
+  note: No patent claims ubiquitin-ligase redirecting degraders; the discovery shows up only indirectly through the induced-proximity
+    (CID) family, while the lactacystin, HDAC and protein degradation disorders patents concern proteasome or HDAC inhibition.
+    The early Harvard amine oxidation and Yale periplanone patents are his own student and early-career work, not a namesake.
+Tao Zhang:
+  picks:
+  - patent_id: '11105009'
+    reason: Only listed patent on single-atom catalysts (graphene inlaid with single metal atoms, Dalian Institute of Chemical
+      Physics)
+    title: Graphene material inlaid with single metal atoms and preparing method and application thereof
+    filing_year: 2017
+    grant_year: 2021
+    assignee: DALIAN INSTITUTE OF CHEMICAL PHYSICS, CHINESE ACADEMY OF SCIENCES
+    cited_by_patents: 1
+  n_related: 1
+  note: The list mixes several different Tao Zhangs (Jereh mobile power, Haier washing machines, BOE displays, pharma, optical
+    tables, remote sensing, HKUST positioning). The DICP tungsten-carbide cellulose-to-ethylene-glycol patents fit his catalysis
+    work but are not single-atom catalysis. No patent covers the founding Pt1/FeOx work.
+Thomas J. Meyer:
+  picks:
+  - patent_id: '8524903'
+    reason: Claims Ru and Os water-oxidation catalysts whose mechanism runs through proton-coupled electron transfer steps,
+      the closest link to the PCET work
+    title: Ruthenium or osmium complexes and their uses as catalysts for water oxidation
+    filing_year: 2010
+    grant_year: 2013
+    assignee: THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL
+    cited_by_patents: 2
+  n_related: 4
+  note: The discovery is theoretical and is only indirectly reflected, via water-oxidation and solar water-splitting patents
+    that rely on PCET. The 1995 HHS nitric-oxide sensor may belong to a different Thomas J. Meyer; the other patents (CO2-reduction
+    electrodes, tritium removal, quantum-dot catalyst activation) fit his career.
+Tsutomu Miyasaka:
+  picks: []
+  n_related: 0
+  note: No perovskite or dye-sensitized solar cell patent appears; the list is Fuji Photo Film era photographic, lithium-ion
+    battery and bacteriorhodopsin photoelectric work (assignee shown as Fujitsu, likely a matching error). The Suwa Seikosha
+    watch-case (1974-1978), Data Tec vehicle-motion and electric-automobile patents look like other inventors with the same
+    name.
+Tuomo Suntola:
+  picks:
+  - patent_id: '4058430'
+    reason: The original atomic layer epitaxy patent (filed 1975) claiming compound thin-film growth by alternating self-limiting
+      surface reactions of separate reactants.
+    title: Method for producing compound thin films
+    filing_year: 1975
+    grant_year: 1977
+    assignee: ''
+    cited_by_patents: 1225
+  - patent_id: '4413022'
+    reason: 1979 method patent for growing compound thin films by alternating reactant pulses separated by inert-gas purging,
+      the flow-type ALD process used ever since.
+    title: Method for performing growth of compound thin films
+    filing_year: 1979
+    grant_year: 1983
+    assignee: CANON KABUSHIKI KAISHA
+    cited_by_patents: 710
+  - patent_id: '4389973'
+    reason: 1981 apparatus patent for the ALE/ALD reactor that carries out the sequential-pulse growth.
+    title: Apparatus for performing growth of compound thin films
+    filing_year: 1981
+    grant_year: 1983
+    assignee: Oy Lohja AB
+    cited_by_patents: 875
+  n_related: 12
+  note: The list is coherent. It has the core ALE/ALD method and equipment patents (Lohja, Mikrokemia, ASM) plus ALD-made
+    catalysts, and the electroluminescent display patents apply ALE films. The Vaisala humidity sensor and Lohja color display
+    are Suntola's own non-ALD work, so there is no sign of a different inventor.
+Vladimir P. Torchilin:
+  picks:
+  - patent_id: '5746998'
+    reason: Targeted polymeric carriers (amphiphilic chelating co-polymers with targeting ligands), the most cited of his
+      targeted polymer delivery patents.
+    title: Targeted co-polymers for radiographic imaging
+    filing_year: 1996
+    grant_year: 1998
+    assignee: The General Hospital Corporation
+    cited_by_patents: 209
+  - patent_id: '5534241'
+    reason: Earliest (1993) amphipathic polychelating polymers that anchor in liposomes and micelles to carry payloads to
+      targets.
+    title: Amphipathic polychelating compounds and methods of use
+    filing_year: 1993
+    grant_year: 1996
+    assignee: ''
+    cited_by_patents: 69
+  - patent_id: '7279326'
+    reason: Composition for delivering a mitochondrial genome into cells, covering the gene-delivery side of his carrier work.
+    title: Composition for delivery of a mitochondrial genome to a cell
+    filing_year: 2002
+    grant_year: 2007
+    assignee: Northwestern University
+    cited_by_patents: 16
+  n_related: 11
+  note: The patents reflect targeted polymeric and lipid carriers only partly; his main PEG-liposome and micelle work is not
+    here. The later assignee Northwestern University is probably a mis-coding of Northeastern University (his institution),
+    and the 1978-85 Soviet Cardiology Center enzyme patents are his early work, so no clear namesake.
+William L. Jorgensen:
+  picks:
+  - patent_id: '8492415'
+    reason: Azole NNRTIs designed with his free-energy-perturbation and Monte Carlo guided lead optimization, an application
+      of his solution-phase design methods
+    title: Azoles and related derivatives as non-nucleoside reverse transcriptase inhibitors (NNRTIs) in antiviral therapy
+      (HIV)
+    filing_year: 2008
+    grant_year: 2013
+    assignee: Yale University
+    cited_by_patents: 1
+  - patent_id: '9643922'
+    reason: Earliest filing of the MIF modulator series, inhibitors found through his computational molecular design workflow
+    title: MIF modulators
+    filing_year: 2010
+    grant_year: 2017
+    assignee: Yale University
+    cited_by_patents: 36
+  - patent_id: '9487476'
+    reason: Catechol diether anti-HIV agents, the FEP-optimized picomolar NNRTI series that showcased computer-guided design
+    title: Catechol diethers as potent anti-HIV agents
+    filing_year: 2012
+    grant_year: 2016
+    assignee: Yale University
+    cited_by_patents: 0
+  n_related: 11
+  note: No patent claims the computational methods themselves (OPLS force fields, FEP/Monte Carlo); the patents are drug candidates
+    designed with those methods, so they are applications only. The 2013 Yale PROTAC patent 10730862 is collaborative work,
+    not a mix-in.
+William M. Shih:
+  picks:
+  - patent_id: '7951596'
+    reason: Earliest Shih patent (filed 2007) on self-assembled DNA-origami nanotubes that form liquid crystals for NMR of
+      membrane proteins.
+    title: Nucleic acid nanotube liquid crystals and use for NMR structure determination of membrane proteins
+    filing_year: 2007
+    grant_year: 2011
+    assignee: Dana-Farber Cancer Institute, Inc.
+    cited_by_patents: 2
+  - patent_id: '10604543'
+    reason: Methods for self-assembly of nucleic acid nanostructures, claiming the programmable DNA nanostructure assembly
+      itself.
+    title: Self-assembly of nucleic acid nanostructures
+    filing_year: 2013
+    grant_year: 2020
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 11
+  - patent_id: '10024796'
+    reason: DNA nanostructure barcode probes, geometrically encoded fluorescent barcodes self-assembled from DNA origami (filed
+      2011).
+    title: Nucleic acid nanostructure barcode probes
+    filing_year: 2011
+    grant_year: 2018
+    assignee: President and Fellows of Harvard College
+    cited_by_patents: 12
+  n_related: 8
+  note: All patents are DNA nanostructure work or its uses (lipid-coated origami, nucleic acid calipers, nanotube liquid crystals),
+    and 9371552 is a later filing in the 7951596 family. The Harvard / Dana-Farber / Children's assignees fit Shih, so there
+    is no sign of a different inventor.
+Wolfgang A. Herrmann:
+  picks:
+  - patent_id: '5728839'
+    reason: Founding 1995 patent claiming metal complexes of N-heterocyclic carbenes and their use as catalysts
+    title: Metal complexes with heterocycles carbenes
+    filing_year: 1995
+    grant_year: 1998
+    assignee: Hoechst GmbH
+    cited_by_patents: 53
+  - patent_id: '6635768'
+    reason: Earliest filing of the NHC-ruthenium alkylidene olefin metathesis catalysts, the key catalytic use of NHC ligands
+    title: Alkylidene complexes of ruthenium containing N-heterocyclic carbene ligands; use as highly active, selective catalysts
+      for olefin metathesis
+    filing_year: 2000
+    grant_year: 2003
+    assignee: Degussa AG
+    cited_by_patents: 52
+  - patent_id: '6025496'
+    reason: Process for preparing heterocyclic carbenes, the free NHC ligands used in his catalysts
+    title: Process for preparing heterocyclic carbenes
+    filing_year: 1998
+    grant_year: 2000
+    assignee: Celanese GmbH
+    cited_by_patents: 24
+  n_related: 11
+  note: NHC patents are present (Hoechst, Celanese, Degussa, Bayer); later same-title Degussa/Evonik metathesis patents are
+    continuations. The Goedecke and Warner-Lambert pharmaceutical process patents (1972-1995) almost certainly belong to a
+    different Wolfgang Herrmann.
+Zhenan Bao:
+  picks:
+  - patent_id: '6107117'
+    reason: 1996 Lucent filing on making organic thin-film transistors, an early base of her organic and flexible electronics
+    title: Method of making an organic thin film transistor
+    filing_year: 1996
+    grant_year: 2000
+    assignee: LUCENT TECHNOLOGIES INC.
+    cited_by_patents: 152
+  - patent_id: '9281415'
+    reason: 2011 Stanford filing on microstructured pressure-sensing devices, the first electronic-skin tactile sensor
+    title: Pressure sensing apparatuses and methods
+    filing_year: 2011
+    grant_year: 2016
+    assignee: The Board of Trustees of the Leland Stanford Junior University
+    cited_by_patents: 13
+  - patent_id: '9625330'
+    reason: Patent explicitly on multi-tactile sensitive electronic-skin (E-skin) pressure sensors
+    title: Methods and apparatus concerning multi-tactile sensitive (E-skin) pressure sensors
+    filing_year: 2015
+    grant_year: 2017
+    assignee: The Board of Trustees of the Leland Stanford Junior University
+    cited_by_patents: 19
+  n_related: 85
+  note: The list reflects both organic thin-film transistors (Lucent era) and e-skin, stretchable and self-healing electronics
+    (Stanford era). A few patents (microlens, CO2 sorbents, battery anodes, soft-lithography molds) are outside the topic
+    but match her career. Samsung Display and BASF co-assigned patents fit known collaborations, so there is no sign of a
+    different inventor.

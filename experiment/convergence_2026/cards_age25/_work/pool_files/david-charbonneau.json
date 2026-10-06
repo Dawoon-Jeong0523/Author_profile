@@ -1,0 +1,656 @@
+{
+ "person": "David Charbonneau",
+ "profile": "A5049263167",
+ "ids": [
+  "A5049263167",
+  "A5108107353",
+  "A5103548752"
+ ],
+ "options": [
+  "for the detection and theoretical study of the atmospheres of exoplanets through their transits — David Charbonneau, Sara Seager"
+ ],
+ "birth_year": 1974,
+ "cutoff_year": 1999,
+ "works": [
+  {
+   "paper_id": "W2070508637",
+   "year": 2010,
+   "cited_by_count": 3773,
+   "title": "Kepler Planet-Detection Mission: Introduction and First Results",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2761986865",
+   "year": 2014,
+   "cited_by_count": 3680,
+   "title": "Transiting Exoplanet Survey Satellite",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2096390283",
+   "year": 2002,
+   "cited_by_count": 1303,
+   "title": "Detection of an Extrasolar Planet Atmosphere",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1981043055",
+   "year": 2013,
+   "cited_by_count": 1148,
+   "title": "THE FALSE POSITIVE RATE OF KEPLER AND THE OCCURRENCE OF PLANETS",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2083250837",
+   "year": 2012,
+   "cited_by_count": 1118,
+   "title": "PLANET OCCURRENCE WITHIN 0.25 AU OF SOLAR-TYPE STARS FROM KEPLER",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2132117032",
+   "year": 2011,
+   "cited_by_count": 1028,
+   "title": "CHARACTERISTICS OF PLANETARY CANDIDATES OBSERVED BYKEPLER. II. ANALYSIS OF THE FIRST FOUR MONTHS OF DATA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2947592794",
+   "year": 2013,
+   "cited_by_count": 1025,
+   "title": "PLANETARY CANDIDATES OBSERVED BY KEPLER . III. ANALYSIS OF THE FIRST 16 MONTHS OF DATA",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2749229678",
+   "year": 2014,
+   "cited_by_count": 983,
+   "title": "Transiting Exoplanet Survey Satellite (TESS)",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2963604282",
+   "year": 2015,
+   "cited_by_count": 974,
+   "title": "THE OCCURRENCE OF POTENTIALLY HABITABLE PLANETS ORBITING M DWARFS ESTIMATED FROM THE FULL KEPLER DATASET AND AN EMPIRICAL MEASUREMENT OF THE DETECTION SENSITIVITY",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3105451511",
+   "year": 1999,
+   "cited_by_count": 911,
+   "title": "Detection of Planetary Transits Across a Sun-like Star",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2127054216",
+   "year": 2009,
+   "cited_by_count": 778,
+   "title": "A super-Earth transiting a nearby low-mass star",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2132768279",
+   "year": 2007,
+   "cited_by_count": 765,
+   "title": "A map of the day–night contrast of the extrasolar planet HD 189733b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2150632669",
+   "year": 2005,
+   "cited_by_count": 654,
+   "title": "Detection of Thermal Emission from an Extrasolar Planet",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2095900443",
+   "year": 2013,
+   "cited_by_count": 647,
+   "title": "THE OCCURRENCE RATE OF SMALL PLANETS AROUND SMALL STARS",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2020637107",
+   "year": 2011,
+   "cited_by_count": 636,
+   "title": "A closely packed system of low-mass, low-density planets transiting Kepler-11",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2008435425",
+   "year": 2009,
+   "cited_by_count": 630,
+   "title": "ATMOSPHERIC CIRCULATION OF HOT JUPITERS: COUPLED RADIATIVE-DYNAMICAL GENERAL CIRCULATION MODEL SIMULATIONS OF HD 189733b and HD 209458b",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2098846125",
+   "year": 2001,
+   "cited_by_count": 580,
+   "title": "Hubble Space TelescopeTime‐Series Photometry of the Transiting Planet of HD 209458",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1942108275",
+   "year": 2015,
+   "cited_by_count": 523,
+   "title": "THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2800908439",
+   "year": 2018,
+   "cited_by_count": 523,
+   "title": "A Framework for Prioritizing the TESS Planetary Candidates Most Amenable to Atmospheric Characterization",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1482800202",
+   "year": 2013,
+   "cited_by_count": 506,
+   "title": "INFRARED TRANSMISSION SPECTROSCOPY OF THE EXOPLANETS HD 209458b AND XO-1b USING THE WIDE FIELD CAMERA-3 ON THE HUBBLE SPACE TELESCOPE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2152443065",
+   "year": 2008,
+   "cited_by_count": 501,
+   "title": "Detection of atmospheric haze on an extrasolar planet: the 0.55-1.05 μm transmission spectrum of HD 189733b with the Hubble Space Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2547556251",
+   "year": 2014,
+   "cited_by_count": 491,
+   "title": "MASSES, RADII, AND ORBITS OF SMALL KEPLER PLANETS: THE TRANSITION FROM GASEOUS TO ROCKY PLANETS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2163704918",
+   "year": 2015,
+   "cited_by_count": 450,
+   "title": "A disintegrating minor planet transiting a white dwarf",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2085398929",
+   "year": 2008,
+   "cited_by_count": 442,
+   "title": "The 3.6–8.0 μm Broadband Emission Spectrum of HD 209458b: Evidence for an Atmospheric Temperature Inversion",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2104072923",
+   "year": 2011,
+   "cited_by_count": 437,
+   "title": "Hubble Space Telescope transmission spectroscopy of the exoplanet HD 189733b: high-altitude atmospheric haze in the optical and near-ultraviolet with STIS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2041932094",
+   "year": 2004,
+   "cited_by_count": 415,
+   "title": "TrES-1: The Transiting Planet of a Bright K0 V Star",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2088458301",
+   "year": 2010,
+   "cited_by_count": 404,
+   "title": "Kepler-9: A System of Multiple Planets Transiting a Sun-Like Star, Confirmed by Timing Variations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2022113292",
+   "year": 2008,
+   "cited_by_count": 387,
+   "title": "Design Considerations for a Ground-Based Transit Search for Habitable Planets Orbiting M Dwarfs",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2100326205",
+   "year": 2014,
+   "cited_by_count": 382,
+   "title": "A PRECISE WATER ABUNDANCE MEASUREMENT FOR THE HOT JUPITER WASP-43b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2110388077",
+   "year": 2012,
+   "cited_by_count": 360,
+   "title": "THE FLAT TRANSMISSION SPECTRUM OF THE SUPER-EARTH GJ1214b FROM WIDE FIELD CAMERA 3 ON THE HUBBLE SPACE TELESCOPE",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2097409226",
+   "year": 2011,
+   "cited_by_count": 356,
+   "title": "CHARACTERISTICS OFKEPLERPLANETARY CANDIDATES BASED ON THE FIRST DATA SET",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2605851178",
+   "year": 2017,
+   "cited_by_count": 354,
+   "title": "A temperate rocky super-Earth transiting a nearby cool star",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2145540891",
+   "year": 2005,
+   "cited_by_count": 336,
+   "title": "Measurement of Spin‐Orbit Alignment in an Extrasolar Planetary System",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2565396336",
+   "year": 2017,
+   "cited_by_count": 330,
+   "title": "THE Hα EMISSION OF NEARBY M DWARFS AND ITS RELATION TO STELLAR ROTATION",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1988611212",
+   "year": 2014,
+   "cited_by_count": 325,
+   "title": "Thermal structure of an exoplanet atmosphere from phase-resolved emission spectroscopy",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2034010023",
+   "year": 2010,
+   "cited_by_count": 325,
+   "title": "THE CLIMATE OF HD 189733b FROM FOURTEEN TRANSITS AND ECLIPSES MEASURED BYSPITZER",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2086348127",
+   "year": 2007,
+   "cited_by_count": 325,
+   "title": "Improving Stellar and Planetary Parameters of Transiting Planet Systems: The Case of TrES‐2",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2149974215",
+   "year": 2012,
+   "cited_by_count": 319,
+   "title": "3.6 AND 4.5 μm PHASE CURVES AND EVIDENCE FOR NON-EQUILIBRIUM CHEMISTRY IN THE ATMOSPHERE OF EXTRASOLAR PLANET HD 189733b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2054655173",
+   "year": 2008,
+   "cited_by_count": 302,
+   "title": "The Broadband Infrared Emission Spectrum of the Exoplanet HD 189733b",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W3171156384",
+   "year": 2021,
+   "cited_by_count": 299,
+   "title": "The TESS Objects of Interest Catalog from the TESS Prime Mission",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977101238",
+   "year": 2000,
+   "cited_by_count": 291,
+   "title": "The Spectroscopic Orbit of the Planetary Companion Transiting HD 209458",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1967787729",
+   "year": 2008,
+   "cited_by_count": 280,
+   "title": "Strong water absorption in the dayside emission spectrum of the planet HD 189733b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1618529732",
+   "year": 2000,
+   "cited_by_count": 267,
+   "title": "A Lack of Planets in 47 Tucanae from a [ITAL]Hubble Space Telescope[/ITAL] Search",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2156674428",
+   "year": 2007,
+   "cited_by_count": 264,
+   "title": "Using Stellar Limb‐Darkening to Refine the Properties of HD 209458b",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2097671484",
+   "year": 2010,
+   "cited_by_count": 261,
+   "title": "MODELINGKEPLERTRANSIT LIGHT CURVES AS FALSE POSITIVES: REJECTION OF BLEND SCENARIOS FOR KEPLER-9, AND VALIDATION OF KEPLER-9 d, A SUPER-EARTH-SIZE PLANET IN A MULTIPLE SYSTEM",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2042349447",
+   "year": 2007,
+   "cited_by_count": 256,
+   "title": "Theoretical Spectral Models of the Planet HD 209458b with a Thermal Inversion and Water Emission Bands",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2167538870",
+   "year": 2012,
+   "cited_by_count": 255,
+   "title": "Kepler-22b: A 2.4 EARTH-RADIUS PLANET IN THE HABITABLE ZONE OF A SUN-LIKE STAR",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1990599298",
+   "year": 2011,
+   "cited_by_count": 252,
+   "title": "ON THE ANGULAR MOMENTUM EVOLUTION OF FULLY CONVECTIVE STARS: ROTATION PERIODS FOR FIELD M-DWARFS FROM THE MEarth TRANSIT SURVEY",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2120663217",
+   "year": 2015,
+   "cited_by_count": 247,
+   "title": "A rocky planet transiting a nearby low-mass star",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2144702165",
+   "year": 2008,
+   "cited_by_count": 243,
+   "title": "MULTIWAVELENGTH CONSTRAINTS ON THE DAY-NIGHT CIRCULATION PATTERNS OF HD 189733b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1996667680",
+   "year": 2013,
+   "cited_by_count": 241,
+   "title": "Kepler-62: A Five-Planet System with Planets of 1.4 and 1.6 Earth Radii in the Habitable Zone",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2093541015",
+   "year": 2009,
+   "cited_by_count": 241,
+   "title": "Discovery and Characterization of Transiting Super Earths Using an All-Sky Transit Survey and Follow-up by theJames Webb Space Telescope",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2127724582",
+   "year": 2007,
+   "cited_by_count": 235,
+   "title": "Hubble Space Telescope time-series photometry of the planetary transit of HD 189733: no moon, no rings, starspots",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2159133042",
+   "year": 2013,
+   "cited_by_count": 228,
+   "title": "A sub-Mercury-sized exoplanet",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2101755019",
+   "year": 2006,
+   "cited_by_count": 223,
+   "title": "The Transit Light Curve Project. I. Four Consecutive Transits of the Exoplanet XO‐1b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2074581967",
+   "year": 2013,
+   "cited_by_count": 219,
+   "title": "An Earth-sized planet with an Earth-like density",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2057754948",
+   "year": 2009,
+   "cited_by_count": 217,
+   "title": "ALIEN MAPS OF AN OCEAN-BEARING WORLD",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2168442220",
+   "year": 2013,
+   "cited_by_count": 210,
+   "title": "NEAR-INFRARED METALLICITIES, RADIAL VELOCITIES, AND SPECTRAL TYPES FOR 447 NEARBY M DWARFS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3106177778",
+   "year": 2015,
+   "cited_by_count": 210,
+   "title": "The Rotation and Galactic Kinematics of Mid M Dwarfs in the Solar Neighborhood",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W1586511051",
+   "year": 2011,
+   "cited_by_count": 208,
+   "title": "Earth as an Extrasolar Planet: Earth Model Validation Using EPOXI Earth Observations",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2158067399",
+   "year": 2011,
+   "cited_by_count": 195,
+   "title": "KEPLER-18b, c, AND d: A SYSTEM OF THREE PLANETS CONFIRMED BY TRANSIT TIMING VARIATIONS, LIGHT CURVE VALIDATION, WARM-SPITZER PHOTOMETRY, AND RADIAL VELOCITY MEASUREMENTS",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2004802635",
+   "year": 2011,
+   "cited_by_count": 188,
+   "title": "THE HOT-JUPITER KEPLER-17b: DISCOVERY, OBLIQUITY FROM STROBOSCOPIC STARSPOTS, AND ATMOSPHERIC CHARACTERIZATION",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1995945864",
+   "year": 2011,
+   "cited_by_count": 187,
+   "title": "Two Earth-sized planets orbiting Kepler-20",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2153119923",
+   "year": 2012,
+   "cited_by_count": 185,
+   "title": "TRANSIT DETECTION IN THE MEarth SURVEY OF NEARBY M DWARFS: BRIDGING THE CLEAN-FIRST, SEARCH-LATER DIVIDE",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1977746057",
+   "year": 2007,
+   "cited_by_count": 184,
+   "title": "A Spitzer Spectrum of the Exoplanet HD 189733b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2083410621",
+   "year": 2013,
+   "cited_by_count": 182,
+   "title": "ORBITAL PHASE VARIATIONS OF THE ECCENTRIC GIANT PLANET HAT-P-2b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W3099400026",
+   "year": 2008,
+   "cited_by_count": 181,
+   "title": "The Broadband Infrared Emission Spectrum of the Exoplanet HD 189733b",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W2003955617",
+   "year": 1999,
+   "cited_by_count": 179,
+   "title": "An Upper Limit on the Reflected Light from the Planet Orbiting the Star τ Bootis",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2170001930",
+   "year": 2009,
+   "cited_by_count": 176,
+   "title": "ABSOLUTE PROPERTIES OF THE LOW-MASS ECLIPSING BINARY CM DRACONIS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1838917337",
+   "year": 2012,
+   "cited_by_count": 174,
+   "title": "Transit timing observations from Kepler - III. Confirmation of four multiple planet systems by a Fourier-domain study of anticorrelated transit timing variations",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1985272432",
+   "year": 2011,
+   "cited_by_count": 174,
+   "title": "OBSERVATIONAL EVIDENCE FOR A METAL-RICH ATMOSPHERE ON THE SUPER-EARTH GJ1214b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2169629803",
+   "year": 2014,
+   "cited_by_count": 172,
+   "title": "THE 4.5 μm FULL-ORBIT PHASE CURVE OF THE HOT JUPITER HD 209458b",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2103043337",
+   "year": 2007,
+   "cited_by_count": 166,
+   "title": "Hot nights on extrasolar planets: mid-infrared phase variations of hot Jupiters",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2079156450",
+   "year": 2011,
+   "cited_by_count": 151,
+   "title": "THE KEPLER-19 SYSTEM: A TRANSITING 2.2 R ⊕ PLANET AND A SECOND PLANET DETECTED VIA TRANSIT TIMING VARIATIONS",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2891724451",
+   "year": 2019,
+   "cited_by_count": 150,
+   "title": "TESS Discovery of an Ultra-short-period Planet around the Nearby M Dwarf LHS 3844",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W4294328540",
+   "year": 2015,
+   "cited_by_count": 148,
+   "title": "The HARPS-N Rocky Planet Search",
+   "metrics": false,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2063655843",
+   "year": 2011,
+   "cited_by_count": 141,
+   "title": "LSPM J1112+7626: DETECTION OF A 41 DAY M-DWARF ECLIPSING BINARY FROM THE MEARTH TRANSIT SURVEY",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W2106267954",
+   "year": 2011,
+   "cited_by_count": 140,
+   "title": "ASPITZERTRANSMISSION SPECTRUM FOR THE EXOPLANET GJ 436b, EVIDENCE FOR STELLAR VARIABILITY, AND CONSTRAINTS ON DAYSIDE FLUX VARIATIONS",
+   "metrics": false,
+   "in_profile": false
+  },
+  {
+   "paper_id": "W3109619762",
+   "year": 2020,
+   "cited_by_count": 137,
+   "title": "Vetting of 384 TESS Objects of Interest with TRICERATOPS and Statistical Validation of 12 Planet Candidates",
+   "metrics": true,
+   "in_profile": true
+  },
+  {
+   "paper_id": "W1495382397",
+   "year": 2009,
+   "cited_by_count": 135,
+   "title": "THE 8 μm PHASE VARIATION OF THE HOT SATURN HD 149026b",
+   "metrics": true,
+   "in_profile": true
+  }
+ ]
+}

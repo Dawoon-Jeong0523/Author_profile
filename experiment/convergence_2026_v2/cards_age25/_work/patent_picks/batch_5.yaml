@@ -1,0 +1,157 @@
+Arthur L. Horwich:
+  picks:
+  - patent_id: '6214606'
+    reason: Earliest filing (1991) claiming yeast Hsp60, the mitochondrial chaperonin whose discovery showed that protein folding in the cell is assisted by chaperones
+  - patent_id: '5428131'
+    reason: Uses archaebacterial chaperonins to stabilize and fold proteins, a direct application of the chaperonin mechanism he uncovered
+  - patent_id: '5776724'
+    reason: Claims chaperonin-mediated protein folding methods built on the GroEL/Hsp60 folding mechanism
+  n_related: 3
+  note: 'All three patents are chaperonin patents from his Yale work; no sign of a same-name mix-in.'
+
+Chi-Huey Wong:
+  picks:
+  - patent_id: '6538117'
+    reason: Earliest filing of the programmable one-pot oligosaccharide synthesis (reactivity-based sequential glycosylation), the core of the programmable-synthesis discovery
+  - patent_id: '5278299'
+    reason: Early (1991) chemoenzymatic synthesis of sialylated glycosyl compounds with in situ sugar-nucleotide regeneration, founding his enzymatic oligosaccharide synthesis approach
+  - patent_id: '5369017'
+    reason: Solid-phase chemoenzymatic glycopeptide synthesis, an early method for building glycoproteins and glycopeptides
+  n_related: 45
+  note: 'Patents clearly reflect the discovery, with many enzymatic/chemoenzymatic carbohydrate synthesis patents (Scripps, Searle) and later glycoprotein, glycan-array and homogeneous-antibody-glycoform patents (Academia Sinica). Unrelated drug, Reishi-polysaccharide and antiviral patents are his own broader work, not a different inventor.'
+
+Daniel Branton:
+  picks:
+  - patent_id: '5795782'
+    reason: Founding 1995 nanopore patent claiming characterization of individual polymer molecules (nucleic acids) as they pass through a pore, the basis of nanopore sequencing
+  - patent_id: '6627067'
+    reason: Molecular and atomic scale evaluation of biopolymers with solid-state nanopores and electrodes, extending nanopore analysis toward sequencing
+  - patent_id: '6464842'
+    reason: Ion-beam sculpting control of solid-state dimensional features, the method used to fabricate solid-state nanopores for single-molecule analysis
+  n_related: 33
+  note: 'Patents strongly reflect the nanopore discovery; 6015714 and later same-title patents are continuations of 5795782. The IBM patent 9864775 (Query strength indicator, 2015) is clearly a different Daniel Branton; the ice-lithography patents are his own side work.'
+
+Ezio Rizzardo:
+  picks:
+  - patent_id: '7714075'
+    reason: Founding RAFT patent family (1997 filing) claiming polymerization with living characteristics using thiocarbonylthio chain transfer agents
+  - patent_id: '4581429'
+    reason: 1984 CSIRO patent claiming nitroxide-mediated polymerization with alkoxyamine initiators, the first controlled radical polymerization method
+  - patent_id: '6642318'
+    reason: RAFT patent extending living radical polymerization to dithiocarbamate and xanthate agents, the most cited of his RAFT filings
+  n_related: 14
+  note: 'Patents strongly reflect controlled radical polymerization (NMP, RAFT and RAFT end-group chemistry), alongside earlier addition-fragmentation and catalytic chain transfer work at CSIRO and DuPont. 7250479, 7666962 and 7662986 are continuations of the RAFT family. No clear same-name mix-in.'
+
+Harry B. Gray:
+  picks:
+  - patent_id: '7105310'
+    reason: Sensitizer-linked substrates (photosensitizer wires bound to enzymes) that phototrigger and report electron transfer in proteins, the closest patent to his protein electron-transfer work
+  n_related: 1
+  note: 'The long-range protein electron-transfer discovery is basic science and is barely reflected in patents; the rest are inorganic photochemistry, catalysis, corroles, biosensors and solar-fuel electrodes. No clear same-name mix-in.'
+
+Henry J. Snaith:
+  picks:
+  - patent_id: '11038132'
+    reason: Claims optoelectronic devices built on mixed-anion organometal halide perovskites, the core material of his 2012 solid-state perovskite solar cell
+  - patent_id: '10388897'
+    reason: Claims the perovskite device on a porous scaffold (meso-superstructured cell), a founding architecture of solid-state perovskite solar cells
+  - patent_id: '9349971'
+    reason: 2010 solid-state sensitized heterojunction device, his solid-state dye-sensitized cell work that preceded and led to the perovskite cells
+  n_related: 14
+  note: 'Patents clearly reflect the perovskite discovery (2013 Oxford filings plus later process patents); 10069025 and 10079320 are sister 2013 perovskite device filings. No sign of a same-name mix-in.'
+
+Kazunori Kataoka:
+  picks:
+  - patent_id: '5412072'
+    reason: Earliest (1990) filing claiming water-soluble block-copolymer drug conjugates forming polymeric micelles, the founding Kataoka micelle carrier
+  - patent_id: '5449513'
+    reason: Claims polymeric micelles that physically entrap hydrophobic drugs in a block-copolymer core, the basis of his micellar drug delivery systems
+  - patent_id: '7780957'
+    reason: Claims PEG-polycation block copolymers forming polyion complex micelles, his carrier platform for gene and nucleic-acid delivery
+  n_related: 55
+  note: 'Patents strongly reflect polymeric micelle drug and nucleic-acid delivery. The AIST/JNC stimuli-responsive polymer and magnetic-particle patents (2000-2008) and the 1992 Kao cell-culture patent are in other technology and may belong to a different Kazunori Kataoka.'
+
+Markku Leskelä:
+  picks:
+  - patent_id: '7108747'
+    reason: Earliest ALD filing in the list (1999), atomic layer deposition of barium and strontium containing oxide thin films
+  - patent_id: '6632279'
+    reason: Method for growing thin oxide films by ALD, a highly cited core oxide ALD chemistry patent from the Helsinki group
+  - patent_id: '6824816'
+    reason: Process for producing metal thin films by ALD, the noble-metal ALD chemistry contributed by Leskelä and Ritala
+  n_related: 49
+  note: 'Most patents are ALD processes and precursors assigned to ASM. The paper and pulp patents (M-real, Metsa-Serla, 1997-2010) almost certainly belong to a different Markku Leskelä; the metallocene and metathesis catalyst patents may be his own early catalysis work.'
+
+Michele Parrinello:
+  picks: []
+  n_related: 0
+  note: 'Only one patent (IBM 1993, molecular recording medium), unrelated to ab initio molecular dynamics; it plausibly dates from his IBM Zurich period, so no clear mix-in.'
+
+Mitsuo Sawamoto:
+  picks:
+  - patent_id: '7649079'
+    reason: Removal of metal catalyst residues in producing polymers, tied to transition-metal-catalyzed living radical polymerization
+  n_related: 1
+  note: 'His founding metal-catalyzed living radical polymerization work is barely reflected in patents. The 1986 and 1991 patents relate to living cationic polymerization (his earlier field), and the Zeon conjugated diene patents may involve controlled polymerization but the titles do not show it.'
+
+Nam-Gyu Park:
+  picks:
+  - patent_id: '10720282'
+    reason: Method of producing a mesoporous thin-film perovskite solar cell, the solid-state perovskite architecture he pioneered
+  - patent_id: '11192906'
+    reason: Lead halide Lewis-base adduct compound for perovskite films, his adduct approach to high-quality perovskite layers
+  - patent_id: '10840028'
+    reason: Preparing large-area perovskite thin films, a later process patent for perovskite solar cells
+  n_related: 3
+  note: 'Only three later perovskite patents; no founding 2012 patent appears. The nuclear fuel assembly patents (Korea Nuclear Fuel, KEPCO Nuclear Fuel, 2008-2019) are clearly a different Nam-Gyu Park, while the dye-sensitized cell and lithium battery patents fit his own career.'
+
+Raymond J. Deshaies:
+  picks:
+  - patent_id: '7041298'
+    reason: Founding 2001 PROTAC patent claiming proteolysis targeting chimeras that recruit a ubiquitin ligase to a target protein for degradation
+  n_related: 1
+  note: 'The PROTAC patent is the founding patent of the discovery; the other patents cover ubiquitin-ligase and proteasome biology (cullin assays, COP9, p97 and RPN11 inhibitors), and 6846663 and 7291494 on modifier proteins may be loosely related. No sign of a same-name mix-in.'
+
+Robert G. Bergman:
+  picks:
+  - patent_id: '4511745'
+    reason: Earliest filing (1984) claiming alkane functionalization via iridium C-H activation, built on his 1982 discovery of intermolecular alkane C-H oxidative addition
+  - patent_id: '4849534'
+    reason: Claims the hydridomethyl iridium complex formed by C-H activation of methane, a direct product of the C-H activation discovery
+  - patent_id: '4746760'
+    reason: Companion 1985 process for functionalizing alkanes by C-H activation (Chevron), same discovery
+  n_related: 3
+  note: 'The three C-H activation patents reflect the discovery. The two Scripps enediyne DNA-cleaving patents (1991-1993) look like a different inventor or a linking error, since Bergman was not at Scripps.'
+
+Steven Van Slyke:
+  picks:
+  - patent_id: '4539507'
+    reason: 1983 Van Slyke and Tang patent on organic electroluminescent devices with a hole-transport layer, the earliest filing of the multilayer OLED
+  - patent_id: '4720432'
+    reason: Claims the electroluminescent device with an organic luminescent medium of separate hole-transport and emitting layers, the Tang-Van Slyke bilayer OLED
+  - patent_id: '4885211'
+    reason: Claims the low-work-function Mg-Ag cathode that made the 1987 bilayer OLED efficient and stable
+  n_related: 38
+  note: 'All patents are Kodak (and Global OLED) OLED patents, so the list reflects the discovery throughout; no sign of a same-name mix-in.'
+
+William L. Jorgensen:
+  picks:
+  - patent_id: '8492415'
+    reason: Azole NNRTIs designed with his free-energy-perturbation and Monte Carlo guided lead optimization, an application of his solution-phase design methods
+  - patent_id: '9643922'
+    reason: Earliest filing of the MIF modulator series, inhibitors found through his computational molecular design workflow
+  - patent_id: '9487476'
+    reason: Catechol diether anti-HIV agents, the FEP-optimized picomolar NNRTI series that showcased computer-guided design
+  n_related: 11
+  note: 'No patent claims the computational methods themselves (OPLS force fields, FEP/Monte Carlo); the patents are drug candidates designed with those methods, so they are applications only. The 2013 Yale PROTAC patent 10730862 is collaborative work, not a mix-in.'
+
+Wolfgang A. Herrmann:
+  picks:
+  - patent_id: '5728839'
+    reason: Founding 1995 patent claiming metal complexes of N-heterocyclic carbenes and their use as catalysts
+  - patent_id: '6635768'
+    reason: Earliest filing of the NHC-ruthenium alkylidene olefin metathesis catalysts, the key catalytic use of NHC ligands
+  - patent_id: '6025496'
+    reason: Process for preparing heterocyclic carbenes, the free NHC ligands used in his catalysts
+  n_related: 11
+  note: 'NHC patents are present (Hoechst, Celanese, Degussa, Bayer); later same-title Degussa/Evonik metathesis patents are continuations. The Goedecke and Warner-Lambert pharmaceutical process patents (1972-1995) almost certainly belong to a different Wolfgang Herrmann.'

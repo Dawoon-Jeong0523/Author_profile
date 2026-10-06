@@ -1,0 +1,23 @@
+# Hand choices for people/chemistry_identity.csv (cards_pipeline_v2.py identity), Claude 2026-10-06, for the user to check.
+# People of the Preseen-generated chemistry list (../preseen_generated30/); ids of the January 2026 OpenAlex snapshot.
+"Vladimir P. Torchilin":
+  author_id: "A5104363587;A5103237936;A5110159167;A5111825312;A5110106610;A5012114794;A5000348448"
+  reason: >-
+    one person split over seven records, all at Northeastern University / Boston University (the two largest have
+    268 and 363 works; "Valdimir" is a misspelling)
+"Donald A. Tomalia":
+  author_id: "A5076733597;A5103189710;A5070765115;A5057498967"
+  reason: >-
+    the dendrimer chemist split over several records (Nanosyn, Virginia Commonwealth University, University of
+    Pennsylvania); the two largest (245 and 100 works) and two small D. A. Tomalia records with works are merged
+Richmond Sarpong:
+  author_id: "A5043576784"
+  reason: >-
+    the UC Berkeley skeletal-editing chemist (ORCID 0000-0002-0028-6323, 461 works in the snapshot); Preseen named him
+    "Richard Sarpong", whose name search found an unrelated 3-work record
+"Dennis Lo Yuk-Ming":
+  author_id: "A5005665172;A5113593850;A5109967697;A5104145495;A5041908654"
+  reason: >-
+    Y. M. Dennis Lo of the Chinese University of Hong Kong (ORCID 0000-0001-8746-0293): the main record (459 works)
+    and four smaller "YM / Y. M. / Y-M. Dennis Lo" records at CUHK; the name search matched "D Ming" because of the
+    surname-last name order

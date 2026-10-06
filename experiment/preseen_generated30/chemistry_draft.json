@@ -1,0 +1,7 @@
+{
+  "type": "multiple_choice",
+  "description": "The 2026 Nobel Prize in Chemistry is scheduled to be announced on Wednesday 7 October 2026. Each option names one discovery and the living people most likely to share the prize for it. The forecast is conditional on the prize going to one of the listed discoveries; there is no \"Other\" option.",
+  "resolution_criteria": "Resolves to the option whose discovery matches the discovery named in the official motivation of the 2026 Nobel Prize in Chemistry, as published at nobelprize.org. Options are matched by discovery; the people named in an option need not match the laureates exactly. If the prize is divided between two discoveries, only the discovery with the larger share counts; if the shares are equal, the discovery named first in the announcement counts. If more than one option matches, the option that names the awarded discovery most specifically counts. If no option matches that discovery, the question is annulled.",
+  "options_are_mutually_exclusive": true,
+  "options_are_comprehensive": true
+}
