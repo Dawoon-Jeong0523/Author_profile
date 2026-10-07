@@ -24,9 +24,10 @@ probabilities with and without those cards. This README shows the forecasts for 
 ## 2026 results
 
 Probabilities are conditional on the prize going to one of the listed options (the 30-option questions have no
-"Other"); options are matched by their discovery, so the named people need not be the laureates. In each field the
-main result is **cards as the main evidence** (the profile cards are the main evidence of the forecast) and the
-**control** has no notes. The Medicine results
+"Other"); options are matched by their discovery, so the named people need not be the laureates. In Medicine and
+Physics the main result is **cards as the main evidence** (the profile cards are the main evidence of the forecast), in
+Chemistry **cards as one main source** (the profiles are one of the main sources, weighed comparably with prizes, news,
+predictions and the history of the prize); the **control** has no notes. The Medicine results
 are those of the public dashboard (https://dawoon-jeong0523.github.io/Author_profile/): four arms of one question,
 1–2 October. Forecast data: [`Data/Result/`](Data/Result/); figures:
 [`docs/nobel2026/make_figures.py`](docs/nobel2026/make_figures.py).
@@ -139,24 +140,26 @@ nominations of this discovery had named Halzen alone.
 
 ### Chemistry (announced 7 October)
 
-![2026 Chemistry: cards as the main evidence, top 5](docs/nobel2026/chemistry_2026_top5_main3.png)
+![2026 Chemistry: cards as one main source, top 5](Data/Result/Chemistry/chemistry_2026_top5_one_main_source.png)
 
-**Cards as the main evidence** (Preseen, 6 October, one run; [Preseen report](Data/Result/Chemistry/Treatment.pdf)): 30
-discoveries, profile cards with the patents tied to each discovery as the main evidence, every card measure treated
-as important. Proteomics leads with 8.9 %, then self-assembled monolayers (8.6 %), dye-sensitized solar cells (8.4 %),
-palladium-catalysed carbon–heteroatom coupling and nanopores (5.9 % each). The scores against the award will be added
-after the announcement.
+**Cards as one main source** (Preseen, 6 October, one run;
+[forecast table](Data/Result/nobel_chemistry_2026_one_main_source.csv)): 30 discoveries, profile cards with the
+patents tied to each discovery as one of the main sources, weighed comparably with prizes, news, predictions and the
+history of the prize; the same question, reference notes and cards as cards as the main evidence.
+Sequencing-by-synthesis leads with 12.5 %, then proteomics (11.1 %), self-assembled monolayers (8.8 %), genetic-code
+expansion (6.5 %) and base and prime editing (6.0 %). The scores against the award will be added after the
+announcement.
 
 **All Chemistry forecasts** (the same question, one run each, 6 October; all 30 options with their named people:
 [comparison](experiment/preseen_chem30_main/results/compare.md)):
 
-| Forecast | Notes | Top 3 | Rank correlation with cards as the main evidence | Preseen report | Top 5 |
+| Forecast | Notes | Top 3 | Rank correlation with cards as one main source | Preseen report | Top 5 |
 |---|---|---|---:|---|---|
-| **Cards as the main evidence** | profile cards with patents as the main evidence | **proteomics 8.9 %, self-assembled monolayers 8.6 %, dye-sensitized solar cells 8.4 %** | – | [PDF](Data/Result/Chemistry/Treatment.pdf) | [figure](docs/nobel2026/chemistry_2026_top5_main3.png) |
-| Cards as one main source | the same notes and cards; instruction: the profiles are one of the main sources, weighed comparably with prizes, news, predictions and the history of the prize | sequencing-by-synthesis 12.5 %, proteomics 11.1 %, self-assembled monolayers 8.8 % | 0.83 | – | [figure](docs/nobel2026/chemistry_2026_top5_one_main_source.png) |
-| Cards as context | the same notes and cards, no instruction | sequencing-by-synthesis 22.9 %, perovskite solar cells 8.1 %, controlled radical polymerization 6.2 % | 0.53 | – | [figure](docs/nobel2026/chemistry_2026_top5_cards_context.png) |
-| Demographic | the notes of cards as the main evidence + the demographics of past laureates | proteomics 8.8 %, self-assembled monolayers 6.5 %, dye-sensitized solar cells 6.2 % | 0.87 | [PDF](Data/Result/Chemistry/Demographic.pdf) | – |
-| Control | none | sequencing-by-synthesis 17.3 %, perovskite solar cells 7.9 %, controlled radical polymerization 6.2 % | 0.32 | [PDF](Data/Result/Chemistry/Control.pdf) | – |
+| **Cards as one main source** | profile cards with patents as one of the main sources, weighed comparably with prizes, news, predictions and the history of the prize | **sequencing-by-synthesis 12.5 %, proteomics 11.1 %, self-assembled monolayers 8.8 %** | – | – | [figure](docs/nobel2026/chemistry_2026_top5_one_main_source.png) |
+| Cards as the main evidence | the same notes and cards; instruction: the profiles are the main evidence, every card measure important, other information only a secondary adjustment | proteomics 8.9 %, self-assembled monolayers 8.6 %, dye-sensitized solar cells 8.4 % | 0.83 | [PDF](Data/Result/Chemistry/Treatment.pdf) | [figure](docs/nobel2026/chemistry_2026_top5_main3.png) |
+| Cards as context | the same notes and cards, no instruction | sequencing-by-synthesis 22.9 %, perovskite solar cells 8.1 %, controlled radical polymerization 6.2 % | 0.81 | – | [figure](docs/nobel2026/chemistry_2026_top5_cards_context.png) |
+| Demographic | the notes of cards as the main evidence + the demographics of past laureates | proteomics 8.8 %, self-assembled monolayers 6.5 %, dye-sensitized solar cells 6.2 % | 0.81 | [PDF](Data/Result/Chemistry/Demographic.pdf) | – |
+| Control | none | sequencing-by-synthesis 17.3 %, perovskite solar cells 7.9 %, controlled radical polymerization 6.2 % | 0.71 | [PDF](Data/Result/Chemistry/Control.pdf) | – |
 
 - **The more weight the cards get, the further the forecast moves from the control.** Rank correlation with the
   control: cards as context 0.88, cards as one main source 0.71, cards as the main evidence 0.32. Sequencing-by-synthesis
@@ -284,7 +287,7 @@ flowchart LR
 |---|---|---|---|
 | C1 committee, 12 + Other | 1 Oct | Virtual committee: specialty personas of the 2026 committees (Medicine 6, Physics 8, Chemistry 8), each run on Claude, GPT and Gemini, nominate up to five discoveries with one to three living people each. A model-balanced Borda count and a recorded merge review give 12 discoveries + "Other". **People**: every name in the merged nominations, ranked by summed Borda weight, top three shown. | Medicine and Physics, all four arms (1–2 Oct) |
 | C2 30 options, v1 lineups ([`convergence_2026/`](experiment/convergence_2026/README.md)) | 5 Oct | C1 plus person-level evidence as extra approval voters (Clarivate 2026, prediction markets, recent major prizes, milestones, Nobel symposia, web sources), scaled to the committee's total; an option the committee did not name needs two evidence families; hand-checked groupings in `decisions.yaml`. No "Other". **People**: top three living by committee weight + convergence points. | Physics 30-option runs (5 Oct); the discoveries of the Chemistry question |
-| C3 30 options, v2 lineups ([`convergence_2026_v2/`](experiment/convergence_2026_v2/README.md)) | 6 Oct | Same options as C2. **People**: the lineup one committee nomination actually wrote (the set of people of one nomination) with the highest mean person score, instead of filling three places with every name any nomination gave — Physics would have shown Halzen alone. Chemistry: 1-person options 6 → 10, 3-person 16 → 8. | Chemistry (cards as the main evidence, demographic, control) |
+| C3 30 options, v2 lineups ([`convergence_2026_v2/`](experiment/convergence_2026_v2/README.md)) | 6 Oct | Same options as C2. **People**: the lineup one committee nomination actually wrote (the set of people of one nomination) with the highest mean person score, instead of filling three places with every name any nomination gave — Physics would have shown Halzen alone. Chemistry: 1-person options 6 → 10, 3-person 16 → 8. | Chemistry, all five forecasts of 6 Oct (cards as one main source, cards as the main evidence, cards as context, demographic, control) |
 
 ### Prompts (notes the forecaster receives)
 
@@ -305,7 +308,8 @@ flowchart LR
 | K2 age-25 ([`cards_age25`](experiment/convergence_2026/README.md)) | 5 Oct (physics) | works and patents from the year the person turned 25 (removes namesakes' early papers merged into author records); the reference rebuilt the same way; the three **defining works chosen by an LLM review for relevance to the discovery** instead of the most cited; physics option blocks with anchor works, maturity and attribution confidence | window and defining works |
 | K3 patents tied to the discovery ([`patent_section.py`](experiment/convergence_2026_v2/README.md)) | 6 Oct (chemistry) | K1 + a section with up to three of the person's US patents most tied to the discovery (filing and grant year, assignee, later citing patents) and how many of the person's patents relate to it, chosen by an LLM from all the person's US utility patents granted up to 2021 | patent evidence added |
 
-The Chemistry runs used K1 + K3 cards (cards as the main evidence, demographic); the control had no cards.
+The Chemistry runs used K1 + K3 cards (cards as one main source, cards as the main evidence, cards as context,
+demographic); the control had no cards.
 
 ## Experiments
 
@@ -317,8 +321,8 @@ The Chemistry runs used K1 + K3 cards (cards as the main evidence, demographic);
 | [`experiment/convergence_2026/`](experiment/convergence_2026/README.md) | 5 Oct | 30-option lists (physics, chemistry), cards, age-25 physics cards |
 | `experiment/preseen_main_no_other/`, `preseen_30_no_other/`, `preseen_12_main_v2/`, `preseen_30_main_v2/`, `preseen_5_main_v2/` | 5 Oct | physics: 12, 30 and 5 options without "Other", main evidence and control |
 | [`experiment/convergence_2026_v2/`](experiment/convergence_2026_v2/README.md) | 6 Oct | v2 lineup rule, cards, patents tied to the discovery (chemistry) |
-| `experiment/preseen_chem30_main/` | 6 Oct | chemistry: cards as the main evidence (main result), cards as one main source, cards as context, demographic and control ([comparison](experiment/preseen_chem30_main/results/compare.md)) |
-| [`Data/Result/`](Data/Result/) | 2–6 Oct | Preseen reports (PDF) of the main-evidence and control forecasts, forecast tables behind the figures (Medicine: arm 4 of 2 October; Physics: 5 October; Chemistry: cards as the main evidence, 6 October) and the figure notebook |
+| `experiment/preseen_chem30_main/` | 6 Oct | chemistry: cards as one main source (main result), cards as the main evidence, cards as context, demographic and control ([comparison](experiment/preseen_chem30_main/results/compare.md)) |
+| [`Data/Result/`](Data/Result/) | 2–6 Oct | Preseen reports (PDF) of the main-evidence and control forecasts, forecast tables behind the figures (Medicine: arm 4 of 2 October; Physics: 5 October; Chemistry: cards as one main source, 6 October) and the figure notebook |
 | [`handoff/`](handoff/README.md) | 3 Oct | context and forecasts of the four conditions, kept apart, for Preseen |
 
 ## The data engine: research profiles of scientists
