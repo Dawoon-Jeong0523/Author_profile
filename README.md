@@ -25,19 +25,20 @@ probabilities with and without those cards. This README shows the forecasts for 
 
 Probabilities are conditional on the prize going to one of the listed options (the 30-option questions have no
 "Other"); options are matched by their discovery, so the named people need not be the laureates. In each field the
-**treatment** is the forecast with the profile cards as the main evidence and the **control** has no notes. The Medicine results
+main result is **cards as the main evidence** (the profile cards are the main evidence of the forecast) and the
+**control** has no notes. The Medicine results
 are those of the public dashboard (https://dawoon-jeong0523.github.io/Author_profile/): four arms of one question,
 1–2 October. Forecast data: [`Data/Result/`](Data/Result/); figures:
 [`docs/nobel2026/make_figures.py`](docs/nobel2026/make_figures.py).
 
 ### Physiology or Medicine (awarded 5 October)
 
-![2026 Medicine: treatment top 5 and the awarded discovery](docs/nobel2026/medicine_2026_top5_vs_award.png)
+![2026 Medicine: cards as the main evidence, top 5 and the awarded discovery](docs/nobel2026/medicine_2026_top5_vs_award.png)
 
 **Award:** Karl Deisseroth, Peter Hegemann and Georg Nagel, "for their discoveries concerning light-gated ion channels
 and optogenetics".
 
-**Treatment** (profile cards as the main evidence, 2 October; arm 4 of the
+**Cards as the main evidence** (2 October; arm 4 of the
 [public dashboard](https://dawoon-jeong0523.github.io/Author_profile/); [Preseen report](Data/Result/Medicine/Treatment.pdf)): optogenetics was the first of the 12 named
 discoveries with 7.9 % ("Other" 40.0 %), ahead of Wnt signalling and organoids (7.7 %), the breast- and
 ovarian-cancer susceptibility genes (6.4 %), leptin (6.2 %) and PCSK9 (5.7 %); the control favourite GLP-1 fell to
@@ -51,11 +52,11 @@ virtual committee only one optogenetics nomination named exactly Deisseroth, Heg
 | Control | 5 | 5.5 % | 6 | GLP-1, 20.3 % | 20.3 % | 31.0 % | 1.0× | – | |
 | Cards as context | 3 | 6.8 % | 3 | GLP-1, 19.6 % | 19.6 % | 30.4 % | 0.9× | 0.93 | |
 | Cards as one main source | 1 | 7.4 % | 4 | orexin, 11.7 % | 11.0 % | 34.0 % | 2.8× | 0.81 | |
-| **Treatment: cards as the main evidence** | 1 | **7.9 %** | **1** | **optogenetics**, 7.9 % | 3.0 % | 40.0 % | 6.2× | −0.03 | [PDF](Data/Result/Medicine/Treatment.pdf) |
+| **Cards as the main evidence** | 1 | **7.9 %** | **1** | **optogenetics**, 7.9 % | 3.0 % | 40.0 % | 6.2× | −0.03 | [PDF](Data/Result/Medicine/Treatment.pdf) |
 
 Distance: how far a run lands from the mean of the control runs, in units of a control run's own distance from the mean
 of the other control runs (0.75 percentage points per option in Medicine). The more weight the forecaster was told to
-give the cards, the higher the awarded discovery ranked — sixth without them, first in the treatment — while the award
+give the cards, the higher the awarded discovery ranked — sixth without them, first as the main evidence — while the award
 favourite GLP-1 fell from 20.3 % to 3.0 % and "Other" grew from 31 % to 40 %.
 
 **How each Medicine forecast was set up** (1–2 October):
@@ -74,7 +75,7 @@ favourite GLP-1 fell from 20.3 % to 3.0 % and "Other" grew from 31 % to 40 %.
   - Cards as one main source: the same cards and an instruction that the profiles are one of the main sources,
     weighed comparably with prizes, news, predictions and the history of the prize
     ([instruction](experiment/preseen_cards_balanced/instruction/00_instruction.md)).
-  - **Treatment**: the same cards and an instruction that the profiles are the main evidence for comparing the named
+  - **Cards as the main evidence**: the same cards and an instruction that the profiles are the main evidence for comparing the named
     options: judge "Other" as usual, divide the rest mainly by the measures and their reference lines, and use prizes,
     news, predictions and history only as a secondary adjustment
     ([instruction](experiment/preseen_cards_main/instruction/00_instruction.md),
@@ -82,12 +83,12 @@ favourite GLP-1 fell from 20.3 % to 3.0 % and "Other" grew from 31 % to 40 %.
 
 ### Physics (awarded 6 October)
 
-![2026 Physics: treatment top 5 and the awarded discovery](docs/nobel2026/physics_2026_top5_vs_award.png)
+![2026 Physics: cards as the main evidence, top 5 and the awarded discovery](docs/nobel2026/physics_2026_top5_vs_award.png)
 
 **Award:** Francis Halzen alone, "for decisive contributions to the IceCube Neutrino Observatory and the discovery of
 high-energy neutrinos of astrophysical origin".
 
-**Treatment** (Preseen, 5 October; 30 discoveries, profile cards as the main evidence;
+**Cards as the main evidence** (Preseen, 5 October; 30 discoveries;
 [Preseen report](Data/Result/Physics/Treatment.pdf)): ultracold-atom quantum
 simulation led with 8.7 %; neutrino astronomy was 14th with 3.5 %.
 
@@ -100,7 +101,7 @@ simulation led with 8.7 %; neutrino astronomy was 14th with 3.5 %.
 | | cards as one main source | 1 | 3.0 % | 9 | quantum simulation, 12.8 % | |
 | | cards as the main evidence | 1 | 2.1 % | 11 | quantum simulation, 13.3 % | |
 | 30 discoveries (5 Oct) | control | 1 | 3.1 % | 11 of 30 | optical lattice clocks, 13.7 % | [PDF](Data/Result/Physics/Control.pdf) |
-| | **treatment: cards as the main evidence** | 1 | 3.5 % | 14 | quantum simulation, 8.7 % | [PDF](Data/Result/Physics/Treatment.pdf) |
+| | **cards as the main evidence** | 1 | 3.5 % | 14 | quantum simulation, 8.7 % | [PDF](Data/Result/Physics/Treatment.pdf) |
 
 The forecasters discounted neutrino astronomy for collaboration-scale attribution (IceCube papers are signed by
 hundreds) and for the earlier neutrino prizes of 2002 and 2015. The committee answered the attribution question by giving
@@ -123,7 +124,7 @@ nominations of this discovery had named Halzen alone.
 - **Prompts.**
   - 12 + Other: the four prompts of Medicine (control, cards as context, one main source, main evidence).
   - 30 discoveries, control: the question only.
-  - **Treatment**, against the 2 October main-evidence note: the cards are grouped into one block per option with
+  - **Cards as the main evidence**, against the 2 October main-evidence note: the cards are grouped into one block per option with
     its anchor works, their maturity and an attribution-confidence line, built from age-25 cards (works and patents
     from age 25 on, defining works chosen for relevance to the discovery); explicit weighting (career impact and
     discovery-relevant works primary, textbook reach supporting, technological translation and collaboration minor);
@@ -138,33 +139,41 @@ nominations of this discovery had named Halzen alone.
 
 ### Chemistry (announced 7 October)
 
-![2026 Chemistry: treatment top 5](docs/nobel2026/chemistry_2026_top5_main3.png)
+![2026 Chemistry: cards as the main evidence, top 5](docs/nobel2026/chemistry_2026_top5_main3.png)
 
-**Treatment** (Preseen, 6 October, one run; [Preseen report](Data/Result/Chemistry/Treatment.pdf)): 30
+**Cards as the main evidence** (Preseen, 6 October, one run; [Preseen report](Data/Result/Chemistry/Treatment.pdf)): 30
 discoveries, profile cards with the patents tied to each discovery as the main evidence, every card measure treated
 as important. Proteomics leads with 8.9 %, then self-assembled monolayers (8.6 %), dye-sensitized solar cells (8.4 %),
 palladium-catalysed carbon–heteroatom coupling and nanopores (5.9 % each). The scores against the award will be added
 after the announcement.
 
-**All Chemistry forecasts** (the same question, one run each; all 30 options with their named people:
+**All Chemistry forecasts** (the same question, one run each, 6 October; all 30 options with their named people:
 [comparison](experiment/preseen_chem30_main/results/compare.md)):
 
-| Forecast | Notes | Top 3 | Rank correlation with the treatment | Preseen report |
-|---|---|---|---:|---|
-| **Treatment** | profile cards with patents as the main evidence | **proteomics 8.9 %, self-assembled monolayers 8.6 %, dye-sensitized solar cells 8.4 %** | – | [PDF](Data/Result/Chemistry/Treatment.pdf) |
-| Demographic | the treatment's notes + the demographics of past laureates | proteomics 8.8 %, self-assembled monolayers 6.5 %, dye-sensitized solar cells 6.2 % | 0.87 | [PDF](Data/Result/Chemistry/Demographic.pdf) |
-| Control | none | sequencing-by-synthesis 17.3 %, perovskite solar cells 7.9 %, controlled radical polymerization 6.2 % | 0.32 | [PDF](Data/Result/Chemistry/Control.pdf) |
+| Forecast | Notes | Top 3 | Rank correlation with cards as the main evidence | Preseen report | Top 5 |
+|---|---|---|---:|---|---|
+| **Cards as the main evidence** | profile cards with patents as the main evidence | **proteomics 8.9 %, self-assembled monolayers 8.6 %, dye-sensitized solar cells 8.4 %** | – | [PDF](Data/Result/Chemistry/Treatment.pdf) | [figure](docs/nobel2026/chemistry_2026_top5_main3.png) |
+| Cards as one main source | the same notes and cards; instruction: the profiles are one of the main sources, weighed comparably with prizes, news, predictions and the history of the prize | sequencing-by-synthesis 12.5 %, proteomics 11.1 %, self-assembled monolayers 8.8 % | 0.83 | – | [figure](docs/nobel2026/chemistry_2026_top5_one_main_source.png) |
+| Cards as context | the same notes and cards, no instruction | sequencing-by-synthesis 22.9 %, perovskite solar cells 8.1 %, controlled radical polymerization 6.2 % | 0.53 | – | [figure](docs/nobel2026/chemistry_2026_top5_cards_context.png) |
+| Demographic | the notes of cards as the main evidence + the demographics of past laureates | proteomics 8.8 %, self-assembled monolayers 6.5 %, dye-sensitized solar cells 6.2 % | 0.87 | [PDF](Data/Result/Chemistry/Demographic.pdf) | – |
+| Control | none | sequencing-by-synthesis 17.3 %, perovskite solar cells 7.9 %, controlled radical polymerization 6.2 % | 0.32 | [PDF](Data/Result/Chemistry/Control.pdf) | – |
 
+- **The more weight the cards get, the further the forecast moves from the control.** Rank correlation with the
+  control: cards as context 0.88, cards as one main source 0.71, cards as the main evidence 0.32. Sequencing-by-synthesis
+  goes from 17.3 % (control) to 22.9 % (context), 12.5 % (one main source) and 3.5 % (main evidence); proteomics from
+  2.8 % to 4.5 %, 11.1 % and 8.9 %. Given the cards without an instruction, the forecaster still leaned on prizes and
+  news; as one main source, it counted the Solexa patents on the cards against the inventors' median citation impact
+  and kept sequencing-by-synthesis first, just ahead of proteomics.
 - **Without notes the forecaster backs the prize favourite.** Sequencing-by-synthesis (Wolf, Gairdner and Princess of
-  Asturias awards) leads the control with 17.3 %; in the treatment it has 3.5 %. The forecaster counted the Solexa
+  Asturias awards) leads the control with 17.3 %; with the cards as the main evidence it has 3.5 %. The forecaster counted the Solexa
   patents on the cards as discovery evidence but discounted the option for maturity (realized 2005–2008) and for its
   inventors' median citation impact.
-- **Patents weigh on theory.** In the treatment the forecaster gave the patents tied to the discovery a weight of 0.15
+- **Patents weigh on theory.** With the cards as the main evidence the forecaster gave the patents tied to the discovery a weight of 0.15
   in its own scoring, so theoretical discoveries without patents scored low: DFT functionals and ab initio molecular
   dynamics 1.4 % each.
 - **The demographic notes barely mattered.** Allowed a factor of 0.5–2 per option, the forecaster used 0.94–1.10:
   0.94 for materials options after the materials prizes of 2023 and 2025, 1.08–1.10 for the two options that name a
-  woman, about 1.04 for most others. The demographic forecast and the treatment agree at a rank correlation of 0.87
+  woman, about 1.04 for most others. The demographic forecast and cards as the main evidence agree at a rank correlation of 0.87
   (0.73 points per option on average), about the run-to-run spread.
 
 **How each Chemistry forecast was set up** (6 October):
@@ -181,7 +190,7 @@ after the announcement.
   of the person's US patents most tied to the discovery, with assignee and later citing patents, and how many of the
   person's patents relate to it ([cards](experiment/preseen_chem30_main/cards/v2/),
   [how the patents were chosen](experiment/convergence_2026_v2/README.md#patents-tied-to-the-discovery-chemistry-cards)).
-- **Treatment prompt: what changed** from the Physics treatment:
+- **Cards as the main evidence, prompt: what changed** from the Physics forecast with the cards as the main evidence:
   - every card measure is important evidence, read against its reference line — none is called minor (Physics
     called technological translation and collaboration minor);
   - the patents tied to the discovery count as discovery evidence, like the defining works;
@@ -195,7 +204,7 @@ after the announcement.
   [timing base rate](experiment/preseen_chem30_main/instruction/00_3_timing_base_rate.md) ·
   [Medicine outcome](experiment/preseen_chem30_main/instruction/00_4_medicine_2026.md) ·
   [Physics outcome](experiment/preseen_chem30_main/instruction/00_5_physics_2026.md)
-- **Demographic prompt: what changed** from the treatment:
+- **Demographic prompt: what changed** from cards as the main evidence:
   - a reference note with the gender, country of birth, citizenship and country of work of the 2000–2025 Chemistry
     laureates, the area of chemistry of each prize, and the 2026 Physics and Medicine laureates;
   - an instruction to compare each option's people and area with that distribution and apply an explicit
@@ -204,18 +213,36 @@ after the announcement.
 
   Notes: [demographics](experiment/preseen_chem30_main/instruction_demo/00_6_demographics.md) ·
   [demographic instruction](experiment/preseen_chem30_main/instruction_demo/00_7_demographic_instruction.md) ·
-  [instruction](experiment/preseen_chem30_main/instruction_demo/00_1_instruction.md) · the other notes as in the treatment
+  [instruction](experiment/preseen_chem30_main/instruction_demo/00_1_instruction.md) · the other notes as in cards as the main evidence
+- **Cards as one main source, prompt: what changed** from the 2 October Medicine and Physics instruction of the same
+  name (the cards get weight comparable to the other main evidence, and prizes, news, predictions, the history of the
+  prize and knowledge of the field are used actively too):
+  - the reference lines are the 2000–2025 Chemistry laureates, and the measures listed include the patents tied to the
+    discovery and the disruption and Foundation values of the works, each read against its reference line;
+  - the timing base rate and the Medicine and Physics 2026 outcomes are named as part of the other evidence;
+  - no "Other": the 30 options sum to 1, with no uniform floor;
+  - as in cards as the main evidence, an option naming one person is not weaker for that alone, and a work or patent
+    counts only if it is relevant to the option's discovery.
+
+  The other notes and the 51 cards are those of cards as the main evidence, so the two forecasts differ only in the
+  instruction. Notes: [instruction](experiment/preseen_chem30_main/instruction_balanced/00_1_instruction.md) · the other notes as in cards as the
+  main evidence
+- **Cards as context, prompt: what changed** from cards as the main evidence: the instruction note is left out; the
+  definitions, the timing base rate, the Medicine and Physics outcomes and the 51 cards are the same, and nothing says
+  how to use the cards. Unlike the cards-as-context forecasts of 1 October (12 discoveries + "Other", definitions and
+  cards only, cards without patents), it has the reference notes and the patent section
+  ([notes](experiment/preseen_chem30_main/instruction_context/)).
 - **Control.** The question only.
 
 ## What we learned so far
 
-- **The context changes the forecast far more than the names on an option.** On the same 30 chemistry discoveries the
-  treatment and the control agree on the ranking with a rank correlation of 0.32; adding the demographics to the
-  treatment's notes keeps it at 0.87.
+- **The context changes the forecast far more than the names on an option.** On the same 30 chemistry discoveries
+  cards as the main evidence and the control agree on the ranking with a rank correlation of 0.32, cards as context
+  and the control at 0.88; adding the demographics to the main-evidence notes keeps it at 0.87 with them.
 - **Profile cards favour academically cited careers.** Under "cards as the main evidence" the forecaster ranks options
   by the career impact of the named people. That helped optogenetics (first in Medicine), but it pushes down
   inventions whose evidence sits in patents rather than papers: sequencing-by-synthesis fell from 17.3 % without context
-  to 3.5 % in the treatment, although its cards list the patents tied to the discovery and every card measure counted; with a
+  to 3.5 % with the cards as the main evidence, although its cards list the patents tied to the discovery and every card measure counted; with a
   fixed weight on patents, theoretical discoveries without patents fell too.
 - **Name the people the evidence supports, not three by default.** Physics went to one person; the committee had said
   so in half of its nominations.
@@ -257,17 +284,17 @@ flowchart LR
 |---|---|---|---|
 | C1 committee, 12 + Other | 1 Oct | Virtual committee: specialty personas of the 2026 committees (Medicine 6, Physics 8, Chemistry 8), each run on Claude, GPT and Gemini, nominate up to five discoveries with one to three living people each. A model-balanced Borda count and a recorded merge review give 12 discoveries + "Other". **People**: every name in the merged nominations, ranked by summed Borda weight, top three shown. | Medicine and Physics, all four arms (1–2 Oct) |
 | C2 30 options, v1 lineups ([`convergence_2026/`](experiment/convergence_2026/README.md)) | 5 Oct | C1 plus person-level evidence as extra approval voters (Clarivate 2026, prediction markets, recent major prizes, milestones, Nobel symposia, web sources), scaled to the committee's total; an option the committee did not name needs two evidence families; hand-checked groupings in `decisions.yaml`. No "Other". **People**: top three living by committee weight + convergence points. | Physics 30-option runs (5 Oct); the discoveries of the Chemistry question |
-| C3 30 options, v2 lineups ([`convergence_2026_v2/`](experiment/convergence_2026_v2/README.md)) | 6 Oct | Same options as C2. **People**: the lineup one committee nomination actually wrote (the set of people of one nomination) with the highest mean person score, instead of filling three places with every name any nomination gave — Physics would have shown Halzen alone. Chemistry: 1-person options 6 → 10, 3-person 16 → 8. | Chemistry (treatment, demographic, control) |
+| C3 30 options, v2 lineups ([`convergence_2026_v2/`](experiment/convergence_2026_v2/README.md)) | 6 Oct | Same options as C2. **People**: the lineup one committee nomination actually wrote (the set of people of one nomination) with the highest mean person score, instead of filling three places with every name any nomination gave — Physics would have shown Halzen alone. Chemistry: 1-person options 6 → 10, 3-person 16 → 8. | Chemistry (cards as the main evidence, demographic, control) |
 
 ### Prompts (notes the forecaster receives)
 
 | Version | Date | Notes (`assume_true` unless stated) | What changed |
 |---|---|---|---|
 | P0 control | 1–6 Oct | none | — |
-| P1 cards as context | 1 Oct | definitions + profile cards (`consider`), no instruction | cards added |
-| P2a one main source / P2b main evidence (Medicine treatment) | 2 Oct | P1 + an instruction: the cards are one of the main sources (P2a) or the main evidence, other information only a secondary adjustment (P2b) | how the cards are to be used |
-| P3 main evidence, physics 30 options (treatment) | 5 Oct | P2b revised into four notes: (1) judge each option by its named people and state the rule; career impact and discovery-relevant works primary, textbook reach supporting, **technological translation and collaboration minor**; attribution, sample-size and recency down-weighting only; timing prior once; the Medicine outcome only for calibration; other information as a factor of 0.5–2; no uniform floor; (2) age-25 card definitions; (3) Physics timing base rate; (4) Medicine 2026 outcome; plus age-25 option blocks (`consider`) | explicit weighting rules, timing prior, this year's earlier outcome ([final Physics forecast](#physics-awarded-6-october)) |
-| P4 main evidence, chemistry (treatment) | 6 Oct | (1) the P3 instruction for Chemistry with **no order of the measures**: all the information on the profiles is important evidence (impact, defining works and the patents tied to the discovery, technological translation, textbook reach, collaboration, disruption and Foundation), each read against its reference line, and the patents tied to the discovery count as discovery evidence; (2) standard card definitions with the patent section; (3) Chemistry timing base rate; (4) Medicine and (5) Physics 2026 outcomes; plus standard cards with patents (`consider`) | against P3: no measure called minor, patents as discovery evidence, the Physics outcome added, Chemistry reference values, standard cards with patents instead of age-25 option blocks |
+| P1 cards as context | 1 Oct; chemistry 6 Oct | definitions + profile cards (`consider`), no instruction; the chemistry forecast of 6 October also has P4's reference notes (definitions, timing base rate, Medicine and Physics outcomes) and K1 + K3 cards | cards added |
+| P2a one main source / P2b main evidence (Medicine: cards as the main evidence) | 2 Oct; P2a chemistry 6 Oct | P1 + an instruction: the cards are one of the main sources (P2a) or the main evidence, other information only a secondary adjustment (P2b) | how the cards are to be used; P2a for chemistry adapted as in [How each Chemistry forecast was set up](#chemistry-announced-7-october), with P4's reference notes |
+| P3 main evidence, physics 30 options | 5 Oct | P2b revised into four notes: (1) judge each option by its named people and state the rule; career impact and discovery-relevant works primary, textbook reach supporting, **technological translation and collaboration minor**; attribution, sample-size and recency down-weighting only; timing prior once; the Medicine outcome only for calibration; other information as a factor of 0.5–2; no uniform floor; (2) age-25 card definitions; (3) Physics timing base rate; (4) Medicine 2026 outcome; plus age-25 option blocks (`consider`) | explicit weighting rules, timing prior, this year's earlier outcome ([final Physics forecast](#physics-awarded-6-october)) |
+| P4 main evidence, chemistry | 6 Oct | (1) the P3 instruction for Chemistry with **no order of the measures**: all the information on the profiles is important evidence (impact, defining works and the patents tied to the discovery, technological translation, textbook reach, collaboration, disruption and Foundation), each read against its reference line, and the patents tied to the discovery count as discovery evidence; (2) standard card definitions with the patent section; (3) Chemistry timing base rate; (4) Medicine and (5) Physics 2026 outcomes; plus standard cards with patents (`consider`) | against P3: no measure called minor, patents as discovery evidence, the Physics outcome added, Chemistry reference values, standard cards with patents instead of age-25 option blocks |
 | P5 demographic | 6 Oct | P4 + (6) demographics of the 2000–2025 Chemistry laureates (gender, birth country, citizenship, country of work, area) and the 2026 Physics and Medicine laureates + (7) weigh the demographic distribution with an explicit factor of 0.5–2 per option, reported apart; one sentence of (1) changed so that this year's laureates enter only through the demographic note | demographic information added |
 
 ### Data cards
@@ -278,7 +305,7 @@ flowchart LR
 | K2 age-25 ([`cards_age25`](experiment/convergence_2026/README.md)) | 5 Oct (physics) | works and patents from the year the person turned 25 (removes namesakes' early papers merged into author records); the reference rebuilt the same way; the three **defining works chosen by an LLM review for relevance to the discovery** instead of the most cited; physics option blocks with anchor works, maturity and attribution confidence | window and defining works |
 | K3 patents tied to the discovery ([`patent_section.py`](experiment/convergence_2026_v2/README.md)) | 6 Oct (chemistry) | K1 + a section with up to three of the person's US patents most tied to the discovery (filing and grant year, assignee, later citing patents) and how many of the person's patents relate to it, chosen by an LLM from all the person's US utility patents granted up to 2021 | patent evidence added |
 
-The Chemistry runs used K1 + K3 cards (treatment, demographic); the control had no cards.
+The Chemistry runs used K1 + K3 cards (cards as the main evidence, demographic); the control had no cards.
 
 ## Experiments
 
@@ -290,8 +317,8 @@ The Chemistry runs used K1 + K3 cards (treatment, demographic); the control had 
 | [`experiment/convergence_2026/`](experiment/convergence_2026/README.md) | 5 Oct | 30-option lists (physics, chemistry), cards, age-25 physics cards |
 | `experiment/preseen_main_no_other/`, `preseen_30_no_other/`, `preseen_12_main_v2/`, `preseen_30_main_v2/`, `preseen_5_main_v2/` | 5 Oct | physics: 12, 30 and 5 options without "Other", main evidence and control |
 | [`experiment/convergence_2026_v2/`](experiment/convergence_2026_v2/README.md) | 6 Oct | v2 lineup rule, cards, patents tied to the discovery (chemistry) |
-| `experiment/preseen_chem30_main/` | 6 Oct | chemistry: treatment (main result), demographic and control ([comparison](experiment/preseen_chem30_main/results/compare.md)) |
-| [`Data/Result/`](Data/Result/) | 2–6 Oct | Preseen reports (PDF) of the treatment and control forecasts, forecast tables behind the figures (Medicine: arm 4 of 2 October; Physics: 5 October; Chemistry: the treatment of 6 October) and the figure notebook |
+| `experiment/preseen_chem30_main/` | 6 Oct | chemistry: cards as the main evidence (main result), cards as one main source, cards as context, demographic and control ([comparison](experiment/preseen_chem30_main/results/compare.md)) |
+| [`Data/Result/`](Data/Result/) | 2–6 Oct | Preseen reports (PDF) of the main-evidence and control forecasts, forecast tables behind the figures (Medicine: arm 4 of 2 October; Physics: 5 October; Chemistry: cards as the main evidence, 6 October) and the figure notebook |
 | [`handoff/`](handoff/README.md) | 3 Oct | context and forecasts of the four conditions, kept apart, for Preseen |
 
 ## The data engine: research profiles of scientists

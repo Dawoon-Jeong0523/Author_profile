@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="583.2pt" viewBox="0 0 1008 583.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T19:47:48.197607</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 583.2 
+L 1008 583.2 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 519.12 439.2 
+L 927.36 439.2 
+L 927.36 136.8 
+L 519.12 136.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 519.12 439.2 
+L 519.12 136.8 
+" clip-path="url(#p824e977439)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="519.12" y="456.558281" transform="rotate(-0 519.12 456.558281)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 655.2 439.2 
+L 655.2 136.8 
+" clip-path="url(#p824e977439)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="655.2" y="456.558281" transform="rotate(-0 655.2 456.558281)">5%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 791.28 439.2 
+L 791.28 136.8 
+" clip-path="url(#p824e977439)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="791.28" y="456.558281" transform="rotate(-0 791.28 456.558281)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 927.36 439.2 
+L 927.36 136.8 
+" clip-path="url(#p824e977439)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="927.36" y="456.558281" transform="rotate(-0 927.36 456.558281)">15%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 519.12 162.096923 
+L 859.32 162.096923 
+L 859.32 187.103077 
+L 519.12 187.103077 
+z
+" clip-path="url(#p824e977439)" style="fill: #087f74"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="65.9736" y="171.89857" transform="rotate(-0 65.9736 171.89857)">01  Balasubramanian · Klenerman</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="188.822512" transform="rotate(-0 65.9736 188.822512)">Sequencing-by-synthesis</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="866.124" y="179.842812" transform="rotate(-0 866.124 179.842812)">12.5%</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 519.12 220.250769 
+L 821.2176 220.250769 
+L 821.2176 245.256923 
+L 519.12 245.256923 
+z
+" clip-path="url(#p824e977439)" style="fill: #8aa4b4"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="230.052416" transform="rotate(-0 65.9736 230.052416)">02  Yates · Mann · Aebersold</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="246.976358" transform="rotate(-0 65.9736 246.976358)">Mass-spectrometry-based proteomics</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="828.0216" y="237.444784" transform="rotate(-0 828.0216 237.444784)">11.1%</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 519.12 278.404615 
+L 758.6208 278.404615 
+L 758.6208 303.410769 
+L 519.12 303.410769 
+z
+" clip-path="url(#p824e977439)" style="fill: #8aa4b4"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="288.206262" transform="rotate(-0 65.9736 288.206262)">03  Allara · Nuzzo · Whitesides</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="305.130204" transform="rotate(-0 65.9736 305.130204)">Self-assembled monolayers</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="765.4248" y="295.59863" transform="rotate(-0 765.4248 295.59863)">8.8%</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 519.12 336.558462 
+L 696.024 336.558462 
+L 696.024 361.564615 
+L 519.12 361.564615 
+z
+" clip-path="url(#p824e977439)" style="fill: #8aa4b4"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="346.360108" transform="rotate(-0 65.9736 346.360108)">04  Schultz · Chin</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="363.28405" transform="rotate(-0 65.9736 363.28405)">Genetic-code expansion</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="702.828" y="353.752476" transform="rotate(-0 702.828 353.752476)">6.5%</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 519.12 394.712308 
+L 682.416 394.712308 
+L 682.416 419.718462 
+L 519.12 419.718462 
+z
+" clip-path="url(#p824e977439)" style="fill: #8aa4b4"/>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="404.513954" transform="rotate(-0 65.9736 404.513954)">05  Liu</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="421.437897" transform="rotate(-0 65.9736 421.437897)">Base and prime editing</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="689.22" y="411.906322" transform="rotate(-0 689.22 411.906322)">6.0%</text>
+   </g>
+  </g>
+  <g id="text_20">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="65.52" y="33.598125" transform="rotate(-0 65.52 33.598125)">KNOWLEDGE LAB + PRESEEN</text>
+  </g>
+  <g id="text_21">
+   <text style="font-weight: 700; font-size: 25px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.52" y="70.836094" transform="rotate(-0 65.52 70.836094)">2026 Nobel Prize in Chemistry</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.52" y="102.417891" transform="rotate(-0 65.52 102.417891)">Cards as one main source: top 5 of 30 discoveries, before the announcement</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.52" y="506.897344" transform="rotate(-0 65.52 506.897344)">To be announced on 7 Oct 2026. Cards as one main source: Preseen, 6 Oct 2026, one run, conditional on one of the 30 listed discoveries.</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556773" transform="translate(65.52 540.618492)">The profile cards (with the patents tied to each discovery) are one of the main sources, weighed comparably with prizes, news, predictions and the</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556773" transform="translate(65.52 552.376195)">history of the prize; same question, reference notes and cards as cards as the main evidence.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p824e977439">
+   <rect x="519.12" y="136.8" width="408.24" height="302.4"/>
+  </clipPath>
+ </defs>
+</svg>
