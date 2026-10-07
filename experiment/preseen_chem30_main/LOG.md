@@ -77,3 +77,17 @@ One entry per step: time (CDT) · list · command · outcome · decision. Key va
   The demo write-up's demographic factors G stayed within 0.94-1.10 (materials 0.94 after the 2023/2025 materials
   prizes, mixed-gender options 1.08-1.10, most others 1.04): the demo-main3 differences are mostly a different
   profile model in the run, not the demographic factors.
+- **19:00** · v2 · user: submit "cards as one main source" with the prompt adapted to Chemistry, and "cards as context".
+  Both on the v2 question with the treatment's (main3) reference notes and 51 cards unchanged, so the three card arms
+  differ only in the instruction. balanced = instruction_balanced/00_1 (the 2 October instruction of
+  ../preseen_cards_balanced/ adapted: Chemistry reference lines, patents/disruption/Foundation among the measures, read
+  against reference lines, the reference notes named, "Other" removed (30 options sum to 1, no uniform floor), a
+  one-person option not weaker, relevance of works and patents) + 00_2-00_5. context = 00_2-00_5, no instruction.
+  run_arm.sh v2 balanced / v2 context (own state folders); API check: balanced 5 + 51 notes, context 4 + 51 notes,
+  51 cards with patents each, no "minor". Both rep01 submitted 19:00.
+- **19:45** · v2 · balanced (19:00-19:31) and context (19:00-19:43) completed. Ladder on the same question, notes and
+  cards: Spearman with the control 0.88 (context), 0.71 (one main source), 0.32 (main evidence); sequencing-by-synthesis
+  17.3 % (control) -> 22.9 (context) -> 12.5 (one main source, first, proteomics 11.1) -> 3.5 (main evidence).
+  compare.py publishes five runs (main3, balanced, context, demographic, control); top-5 figures and
+  Data/Result/nobel_chemistry_2026_{one_main_source,cards_context}.csv; README: "Treatment" renamed "Cards as the main
+  evidence" (user), both runs in the Chemistry table and setup bullets.
