@@ -91,3 +91,14 @@ One entry per step: time (CDT) · list · command · outcome · decision. Key va
   compare.py publishes five runs (main3, balanced, context, demographic, control); top-5 figures and
   Data/Result/nobel_chemistry_2026_{one_main_source,cards_context}.csv; README: "Treatment" renamed "Cards as the main
   evidence" (user), both runs in the Chemistry table and setup bullets.
+
+## 2026-10-07
+
+- Chemistry awarded to Henri B. Kagan and Kenso Soai, "for the discovery of non-linear effects and autocatalysis in
+  asymmetric organic synthesis": not among the 30 options of v1, v2 or Preseen's list, so every 30-option forecast is
+  annulled. Pipeline check: no committee nomination; Soai once in Data/convergence_2026.csv (symposium_dossier
+  2021-chiral-matters, primary_field physics, one family < the two needed); Kagan absent. Scorable: the 12 + Other
+  question of 1-2 Oct (../preseen_cards_main, option 13 = Other): control 33.6 % (5 runs), cards as context 33.1 % (3),
+  one main source 37.5 %, main evidence 38.0 %. The user's web edit of main (8c4aebb) made cards as one main source the
+  Chemistry main result; compare.md and the README now follow it; figures carry an "awarded, not among the 30 options"
+  row.
