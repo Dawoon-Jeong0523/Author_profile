@@ -45,12 +45,14 @@ FIELDS = {
         "csv": "nobel_chemistry_2026_main3.csv",
         "stem": "chemistry_2026_top5_main3",
         "title": "2026 Nobel Prize in Chemistry",
-        "subtitle": "Cards as the main evidence: top 5 of 30 discoveries, before the announcement",
-        "awarded": [],                        # announced 7 Oct 2026
+        "subtitle": "Cards as the main evidence: top 5 of 30 discoveries, and the awarded discovery",
+        "awarded": [],                        # 7 Oct 2026: not among the options (see "unlisted")
         "award_tag": "awarded discovery",
         "xmax": 10,
-        "notes": ["To be announced on 7 Oct 2026. Cards as the main evidence: Preseen, 6 Oct 2026, one run, conditional on one of "
-                  "the 30 listed discoveries.",
+        "unlisted": {"label": "Kagan · Soai", "discovery": "Non-linear effects and autocatalysis in asymmetric synthesis",
+                     "value": "not among the 30 options"},
+        "notes": ["Awarded 7 Oct 2026: Henri B. Kagan and Kenso Soai, for the discovery of non-linear effects and autocatalysis in "
+                  "asymmetric organic synthesis. It was not among the 30 listed discoveries, so this forecast (Preseen, 6 Oct 2026, one run) is annulled.",
                   "Question: 30 discoveries from the virtual committee and convergence signals, each with the living people "
                   "of its best-scoring committee lineup (v2); profile cards with the patents tied to each discovery as the "
                   "main evidence, every card measure treated as important."],
@@ -60,29 +62,33 @@ FIELDS = {
         "stem": "chemistry_2026_top5_one_main_source",
         "folder": "Chemistry",
         "title": "2026 Nobel Prize in Chemistry",
-        "subtitle": "Cards as one main source: top 5 of 30 discoveries, before the announcement",
+        "subtitle": "Cards as one main source: top 5 of 30 discoveries, and the awarded discovery",
         "awarded": [],
         "award_tag": "awarded discovery",
         "xmax": 15,
-        "notes": ["To be announced on 7 Oct 2026. Cards as one main source: Preseen, 6 Oct 2026, one run, conditional on "
-                  "one of the 30 listed discoveries.",
+        "unlisted": {"label": "Kagan · Soai", "discovery": "Non-linear effects and autocatalysis in asymmetric synthesis",
+                     "value": "not among the 30 options"},
+        "notes": ["Awarded 7 Oct 2026: Henri B. Kagan and Kenso Soai, for the discovery of non-linear effects and autocatalysis in "
+                  "asymmetric organic synthesis. It was not among the 30 listed discoveries, so this forecast (Preseen, 6 Oct 2026, one run) is annulled.",
                   "The profile cards (with the patents tied to each discovery) are one of the main sources, weighed "
                   "comparably with prizes, news, predictions and the history of the prize; same question, reference notes "
-                  "and cards as cards as the main evidence."],
+                  "and cards as the main-evidence forecast."],
     },
     "chemistry_context": {
         "csv": "nobel_chemistry_2026_cards_context.csv",
         "stem": "chemistry_2026_top5_cards_context",
         "folder": "Chemistry",
         "title": "2026 Nobel Prize in Chemistry",
-        "subtitle": "Cards as context: top 5 of 30 discoveries, before the announcement",
+        "subtitle": "Cards as context: top 5 of 30 discoveries, and the awarded discovery",
         "awarded": [],
         "award_tag": "awarded discovery",
         "xmax": 25,
-        "notes": ["To be announced on 7 Oct 2026. Cards as context: Preseen, 6 Oct 2026, one run, conditional on one of "
-                  "the 30 listed discoveries.",
+        "unlisted": {"label": "Kagan · Soai", "discovery": "Non-linear effects and autocatalysis in asymmetric synthesis",
+                     "value": "not among the 30 options"},
+        "notes": ["Awarded 7 Oct 2026: Henri B. Kagan and Kenso Soai, for the discovery of non-linear effects and autocatalysis in "
+                  "asymmetric organic synthesis. It was not among the 30 listed discoveries, so this forecast (Preseen, 6 Oct 2026, one run) is annulled.",
                   "The profile cards (with the patents tied to each discovery) and the reference notes are given with no "
-                  "instruction on how to use them; same question, reference notes and cards as cards as the main evidence."],
+                  "instruction on how to use them; same question, reference notes and cards as the main-evidence forecast."],
     },
     "physics": {
         "csv": "nobel_physics_2026_probabilities.csv",
@@ -105,6 +111,8 @@ def draw(key, cfg):
     top = df.head(TOP_N)
     extra = df[df["rank"].isin(cfg["awarded"]) & (df["rank"] > TOP_N)]
     rows = list(top.itertuples()) + ([None] if len(extra) else []) + list(extra.itertuples())
+    if cfg.get("unlisted"):                              # an award outside the listed options: its own row, no bar
+        rows += [None, "unlisted"]
     n = len(rows)
     k_notes = len(cfg["notes"])
     foot = 0.3 + 0.55 * k_notes + 0.6                      # notes block + room for the x tick labels
@@ -130,6 +138,15 @@ def draw(key, cfg):
             if r is None:
                 ax.text(-1.11, i, "···", transform=ax.get_yaxis_transform(), ha="left", va="center", fontsize=18,
                         color=MUTED)
+                continue
+            if r == "unlisted":
+                u = cfg["unlisted"]
+                ax.text(-1.11, i - 0.12, f"—  {u['label']}   ◀ {cfg['award_tag']}", transform=ax.get_yaxis_transform(),
+                        ha="left", va="center", fontsize=15.5, weight="bold", color=AWARD)
+                ax.text(-1.11, i + 0.19, u["discovery"], transform=ax.get_yaxis_transform(), ha="left", va="center",
+                        fontsize=11.5, color=AWARD, weight="bold")
+                ax.text(cfg["xmax"] / 60, i, u["value"], ha="left", va="center", fontsize=15, color=AWARD,
+                        style="italic")
                 continue
             rank, p = int(r.rank), float(r.probability_pct_reported)
             awarded, first = rank in cfg["awarded"], rank == 1

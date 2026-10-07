@@ -1,31 +1,31 @@
-rank_main_evidence,discovery,people,cards_main_evidence,cards_one_main_source,cards_context,demographic,control
-1,for the development of mass-spectrometry-based proteomics,"John R. Yates III, Matthias Mann, Ruedi Aebersold",0.089098,0.110684,0.044629,0.088022,0.027604
-2,for the development of self-assembled monolayers on solid surfaces,"David L. Allara, Ralph G. Nuzzo, George M. Whitesides",0.086493,0.088199,0.038322,0.065396,0.046617
-3,for the invention of dye-sensitized solar cells,Michael Grätzel,0.084394,0.035417,0.012569,0.061889,0.005609
-4,for the development of palladium-catalyzed carbon-heteroatom bond formation,"Stephen L. Buchwald, John F. Hartwig",0.058982,0.056596,0.04356,0.042311,0.046549
-5,for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids,"Hagan Bayley, David W. Deamer, Daniel Branton",0.05896,0.037062,0.026641,0.043457,0.024436
-6,for the expansion of the genetic code to incorporate unnatural amino acids into proteins,"Peter G. Schultz, Jason W. Chin",0.055983,0.064695,0.033882,0.05012,0.022607
-7,for the discovery of the nuclear receptor superfamily of ligand-regulated transcription factors,Ronald M. Evans,0.049669,0.029992,0.013272,0.049902,0.01427
-8,for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids,Pieter R. Cullis,0.041338,0.045023,0.041125,0.036727,0.045713
-9,for the development of controlled radical polymerization,"Krzysztof Matyjaszewski, Mitsuo Sawamoto",0.037748,0.053862,0.062366,0.039668,0.06212
-10,for the development of massively parallel sequencing-by-synthesis of DNA,"Shankar Balasubramanian, David Klenerman",0.034841,0.125359,0.228659,0.049037,0.172884
-11,for the development of base editing and prime editing for precise genome editing,David R. Liu,0.033616,0.059605,0.021579,0.035126,0.036431
-12,for the discovery and development of solid-state perovskite solar cells,"Henry J. Snaith, Tsutomu Miyasaka, Nam-Gyu Park",0.033346,0.042734,0.080627,0.03342,0.078523
-13,for the discovery and development of semiconductor photocatalysis for water splitting,"Akira Fujishima, Kazunari Domen",0.030674,0.011105,0.016116,0.024695,0.017267
-14,for their discoveries of chemical communication in bacteria,"Bonnie L. Bassler, E. Peter Greenberg",0.030065,0.021965,0.031779,0.021568,0.021817
-15,for the development of programmable and chemoenzymatic synthesis of complex carbohydrates and glycoproteins,Chi-Huey Wong,0.02975,0.036908,0.018234,0.02798,0.031556
-16,for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases,"Craig M. Crews, Raymond J. Deshaies",0.028324,0.024002,0.033118,0.031574,0.034364
-17,for the development of phosphoramidite chemistry for automated DNA synthesis,Marvin H. Caruthers,0.027771,0.015795,0.0319,0.02985,0.027869
-18,for chemical-genetic methods to study protein kinases and the discovery of covalent inhibitors of oncogenic KRAS,Kevan Shokat,0.026647,0.012468,0.012586,0.027248,0.017637
-19,for the development of dye-sensitized and perovskite solar cells,"Michael Grätzel, Henry J. Snaith, Tsutomu Miyasaka",0.026378,0.009268,0.00432,0.021078,0.009348
-20,for the development of efficient organic light-emitting diodes,"Ching W. Tang, Steven A. Van Slyke",0.019664,0.010188,0.024159,0.025579,0.026729
-21,for the development of transition-metal-catalyzed C-H functionalization reactions,"John F. Hartwig, Robert G. Bergman",0.017671,0.016288,0.023949,0.017581,0.033064
-22,for the discovery of molecular chaperones that assist protein folding in the cell,"Arthur L. Horwich, F. Ulrich Hartl",0.016789,0.03882,0.039778,0.029836,0.047059
-23,for the development of DNA origami and programmable self-assembly of DNA nanostructures,"Paul W. K. Rothemund, William M. Shih, Hao Yan",0.015576,0.00767,0.011585,0.017865,0.014164
-24,for the development of chemical methods for the synthesis and massively parallel sequencing of DNA,"Shankar Balasubramanian, David Klenerman, Marvin H. Caruthers",0.014704,0.009272,0.004037,0.019016,0.013013
-25,for the development of accurate exchange-correlation functionals that made density functional theory the workhorse of computational chemistry,John P. Perdew,0.013844,0.004198,0.012168,0.029149,0.016924
-26,for the development of ab initio molecular dynamics,"Michele Parrinello, Roberto Car",0.01364,0.009916,0.021283,0.028656,0.028241
-27,for the isolation of stable carbenes and the development of N-heterocyclic carbenes as ligands in catalysis,"Anthony J. Arduengo III, Guy Bertrand, Wolfgang A. Herrmann",0.008914,0.005348,0.010929,0.025961,0.011847
-28,for the development of atomic layer deposition,Tuomo Suntola,0.006417,0.001568,0.014921,0.009999,0.013856
-29,for foundational contributions to the theory and understanding of proton-coupled electron transfer,"Sharon Hammes-Schiffer, Thomas J. Meyer",0.00576,0.001247,0.008584,0.010763,0.012228
-30,for pioneering work on electron transfer in proteins,Harry B. Gray,0.002945,0.014745,0.033323,0.006526,0.039657
+rank_one_main_source,discovery,people,cards_one_main_source,cards_main_evidence,cards_context,demographic,control
+1,for the development of massively parallel sequencing-by-synthesis of DNA,"Shankar Balasubramanian, David Klenerman",0.125359,0.034841,0.228659,0.049037,0.172884
+2,for the development of mass-spectrometry-based proteomics,"John R. Yates III, Matthias Mann, Ruedi Aebersold",0.110684,0.089098,0.044629,0.088022,0.027604
+3,for the development of self-assembled monolayers on solid surfaces,"David L. Allara, Ralph G. Nuzzo, George M. Whitesides",0.088199,0.086493,0.038322,0.065396,0.046617
+4,for the expansion of the genetic code to incorporate unnatural amino acids into proteins,"Peter G. Schultz, Jason W. Chin",0.064695,0.055983,0.033882,0.05012,0.022607
+5,for the development of base editing and prime editing for precise genome editing,David R. Liu,0.059605,0.033616,0.021579,0.035126,0.036431
+6,for the development of palladium-catalyzed carbon-heteroatom bond formation,"Stephen L. Buchwald, John F. Hartwig",0.056596,0.058982,0.04356,0.042311,0.046549
+7,for the development of controlled radical polymerization,"Krzysztof Matyjaszewski, Mitsuo Sawamoto",0.053862,0.037748,0.062366,0.039668,0.06212
+8,for the development of polymeric and lipid nanoparticle systems for the delivery of drugs and nucleic acids,Pieter R. Cullis,0.045023,0.041338,0.041125,0.036727,0.045713
+9,for the discovery and development of solid-state perovskite solar cells,"Henry J. Snaith, Tsutomu Miyasaka, Nam-Gyu Park",0.042734,0.033346,0.080627,0.03342,0.078523
+10,for the discovery of molecular chaperones that assist protein folding in the cell,"Arthur L. Horwich, F. Ulrich Hartl",0.03882,0.016789,0.039778,0.029836,0.047059
+11,for the development of nanopore methods for single-molecule analysis and sequencing of nucleic acids,"Hagan Bayley, David W. Deamer, Daniel Branton",0.037062,0.05896,0.026641,0.043457,0.024436
+12,for the development of programmable and chemoenzymatic synthesis of complex carbohydrates and glycoproteins,Chi-Huey Wong,0.036908,0.02975,0.018234,0.02798,0.031556
+13,for the invention of dye-sensitized solar cells,Michael Grätzel,0.035417,0.084394,0.012569,0.061889,0.005609
+14,for the discovery of the nuclear receptor superfamily of ligand-regulated transcription factors,Ronald M. Evans,0.029992,0.049669,0.013272,0.049902,0.01427
+15,for the discovery of targeted protein degradation by small molecules that redirect ubiquitin ligases,"Craig M. Crews, Raymond J. Deshaies",0.024002,0.028324,0.033118,0.031574,0.034364
+16,for their discoveries of chemical communication in bacteria,"Bonnie L. Bassler, E. Peter Greenberg",0.021965,0.030065,0.031779,0.021568,0.021817
+17,for the development of transition-metal-catalyzed C-H functionalization reactions,"John F. Hartwig, Robert G. Bergman",0.016288,0.017671,0.023949,0.017581,0.033064
+18,for the development of phosphoramidite chemistry for automated DNA synthesis,Marvin H. Caruthers,0.015795,0.027771,0.0319,0.02985,0.027869
+19,for pioneering work on electron transfer in proteins,Harry B. Gray,0.014745,0.002945,0.033323,0.006526,0.039657
+20,for chemical-genetic methods to study protein kinases and the discovery of covalent inhibitors of oncogenic KRAS,Kevan Shokat,0.012468,0.026647,0.012586,0.027248,0.017637
+21,for the discovery and development of semiconductor photocatalysis for water splitting,"Akira Fujishima, Kazunari Domen",0.011105,0.030674,0.016116,0.024695,0.017267
+22,for the development of efficient organic light-emitting diodes,"Ching W. Tang, Steven A. Van Slyke",0.010188,0.019664,0.024159,0.025579,0.026729
+23,for the development of ab initio molecular dynamics,"Michele Parrinello, Roberto Car",0.009916,0.01364,0.021283,0.028656,0.028241
+24,for the development of chemical methods for the synthesis and massively parallel sequencing of DNA,"Shankar Balasubramanian, David Klenerman, Marvin H. Caruthers",0.009272,0.014704,0.004037,0.019016,0.013013
+25,for the development of dye-sensitized and perovskite solar cells,"Michael Grätzel, Henry J. Snaith, Tsutomu Miyasaka",0.009268,0.026378,0.00432,0.021078,0.009348
+26,for the development of DNA origami and programmable self-assembly of DNA nanostructures,"Paul W. K. Rothemund, William M. Shih, Hao Yan",0.00767,0.015576,0.011585,0.017865,0.014164
+27,for the isolation of stable carbenes and the development of N-heterocyclic carbenes as ligands in catalysis,"Anthony J. Arduengo III, Guy Bertrand, Wolfgang A. Herrmann",0.005348,0.008914,0.010929,0.025961,0.011847
+28,for the development of accurate exchange-correlation functionals that made density functional theory the workhorse of computational chemistry,John P. Perdew,0.004198,0.013844,0.012168,0.029149,0.016924
+29,for the development of atomic layer deposition,Tuomo Suntola,0.001568,0.006417,0.014921,0.009999,0.013856
+30,for foundational contributions to the theory and understanding of proton-coupled electron transfer,"Sharon Hammes-Schiffer, Thomas J. Meyer",0.001247,0.00576,0.008584,0.010763,0.012228

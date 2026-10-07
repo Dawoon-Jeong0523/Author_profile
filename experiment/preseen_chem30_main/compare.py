@@ -4,7 +4,7 @@
     python3 compare.py            # results/compare.{csv,md}, results/write_up_<run>.md: the published runs
                                   # results/all_runs/: every run (v1, v2, Preseen's list, main2 too), not pushed
 
-Published: cards as the main evidence (arm main3, the main result), cards as one main source (balanced), cards as
+Published: cards as one main source (arm balanced, the main result), cards as the main evidence (main3), cards as
 context, the demographic arm and the control, all on the v2 list.
 
 v1 and v2 have the same 30 discoveries (only the named people differ) and are matched by the discovery text. Preseen's
@@ -20,7 +20,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 OUT = HERE / "results"
 LISTS = ["v1", "v2", "preseen", "v2_control", "v2_main2", "v2_main3", "v2_demo", "v2_balanced", "v2_context"]
-PUBLISHED = ["v2_main3", "v2_balanced", "v2_context", "v2_demo", "v2_control"]
+PUBLISHED = ["v2_balanced", "v2_main3", "v2_context", "v2_demo", "v2_control"]
 # Preseen option number -> v1 option number (same discovery), checked by hand 2026-10-06
 PRESEEN_TO_V1 = {1: 1, 2: 3, 3: 9, 4: 5, 5: 11, 6: 23, 7: 2, 11: 28, 12: 12, 14: 4, 16: 27, 17: 29, 18: 17, 21: 15,
                  24: 7, 28: 6, 30: 4}
@@ -222,57 +222,66 @@ def main():
 
 
 def publish(R, rows):
-    """results/compare.md and compare.csv: the published runs, cards as the main evidence (arm main3) first."""
-    rows = sorted([r for r in rows if r.get("v2m3_p") is not None], key=lambda r: -r["v2m3_p"])
-    cols = [("v2m3_p", "Cards as the main evidence"), ("v2bal_p", "Cards as one main source"), ("v2ctx_p", "Cards as context"),
+    """results/compare.md and compare.csv: the published runs, cards as one main source (arm balanced) first."""
+    rows = sorted([r for r in rows if r.get("v2bal_p") is not None], key=lambda r: -r["v2bal_p"])
+    cols = [("v2bal_p", "Cards as one main source"), ("v2m3_p", "Cards as the main evidence"), ("v2ctx_p", "Cards as context"),
             ("v2demo_p", "Demographic"), ("v2ctl_p", "Control")]
     links = {"v2_main3": "../../../Data/Result/Chemistry/Treatment.pdf",        # Preseen reports saved by the user
              "v2_demo": "../../../Data/Result/Chemistry/Demographic.pdf",
              "v2_control": "../../../Data/Result/Chemistry/Control.pdf"}
     with open(OUT / "compare.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
-        w.writerow(["rank_main_evidence", "discovery", "people", "cards_main_evidence", "cards_one_main_source",
+        w.writerow(["rank_one_main_source", "discovery", "people", "cards_one_main_source", "cards_main_evidence",
                     "cards_context", "demographic", "control"])
         for k, r in enumerate(rows, 1):
             w.writerow([k, r["discovery"], r["v2_people"]] + [round(r[c], 6) for c, _ in cols])
-    m3, bal, ctx, dm, ct = ([r[c] for r in rows] for c, _ in cols)
-    md = ["# Chemistry 2026: cards as the main evidence and its comparison forecasts", "",
+    bal, m3, ctx, dm, ct = ([r[c] for r in rows] for c, _ in cols)
+    md = ["# Chemistry 2026: cards as one main source and its comparison forecasts", "",
+          "**Awarded 7 October 2026:** Henri B. Kagan and Kenso Soai, \"for the discovery of non-linear effects and "
+          "autocatalysis in asymmetric organic synthesis\". The discovery is not among the 30 options, so all five "
+          "forecasts below are annulled (the question is conditional on a listed discovery).", "",
           "Five Preseen runs, one each, on 6 October 2026, on the same question: 30 discoveries (the v2 list), each with "
-          "the living people it names, no \"Other\". **Cards as the main evidence is the main result** (profile cards with the patents "
-          "tied to each discovery as the main evidence; arm `main3` in the run files); the demographic forecast adds the "
-          "demographics of past laureates to its notes; cards as one main source and cards as context keep its reference "
-          "notes and cards but replace its instruction (one main source) or leave it out (context); the control has no "
-          "notes at all. Prompts and cards: "
+          "the living people it names, no \"Other\". **Cards as one main source is the main result** (profile cards with the "
+          "patents tied to each discovery as one of the main sources, weighed comparably with prizes, news, predictions "
+          "and the history of the prize; arm `balanced` in the run files). Cards as the main evidence (arm `main3`) keeps "
+          "the same reference notes and cards with the instruction that the profiles are the main evidence; cards as "
+          "context leaves the instruction out; the demographic forecast adds the demographics of past laureates to the "
+          "main-evidence notes; the control has no notes at all. Prompts and cards: "
           "[README](../../../README.md#chemistry-announced-7-october). Probabilities in %; differences of about one "
           "point are within the run-to-run spread.", "",
           "## The runs", "",
           "| Forecast | Notes given to the forecaster | Time (UTC) | Top 3 (discovery — named people, probability) | Max | Entropy (bits; uniform 4.91) | Preseen report |",
           "|---|---|---|---|---:|---:|---|"]
-    notes = {"v2_main3": "profile cards with the patents tied to the discovery as the main evidence, every card measure "
-                         "important; Chemistry timing base rate; Medicine and Physics 2026 outcomes",
-             "v2_demo": "the notes of cards as the main evidence + the demographics of the 2000–2025 Chemistry laureates and the 2026 laureates, "
-                        "with a demographic factor of 0.5–2 per option",
-             "v2_balanced": "the same reference notes and cards; instruction: the profiles are one of the main sources, "
-                            "weighed comparably with prizes, news, predictions and the history of the prize",
+    notes = {"v2_balanced": "profile cards with the patents tied to the discovery as one of the main sources, weighed "
+                            "comparably with prizes, news, predictions and the history of the prize; Chemistry timing base "
+                            "rate; Medicine and Physics 2026 outcomes",
+             "v2_main3": "the same reference notes and cards; instruction: the profiles are the main evidence, every card "
+                         "measure important, other information only a secondary adjustment",
              "v2_context": "the same reference notes and cards; no instruction",
+             "v2_demo": "the notes of cards as the main evidence + the demographics of the 2000–2025 Chemistry laureates "
+                        "and the 2026 laureates, with a demographic factor of 0.5–2 per option",
              "v2_control": "none"}
     for l, (_, name) in zip(PUBLISHED, cols):
         p, opts = R[l]["p"], R[l]["options"]
         top = sorted(range(30), key=lambda i: -p[i])[:3]
-        md.append(f"| {'**' + name + '**' if l == 'v2_main3' else name} | {notes[l]} | "
+        md.append(f"| {'**' + name + '**' if l == 'v2_balanced' else name} | {notes[l]} | "
                   f"{R[l]['started'][11:16]}–{R[l]['finished'][11:16]} | "
                   + "<br>".join(f"{short(disc(opts[i]))} — {people(opts[i])}, **{100 * p[i]:.1f}**" for i in top)
                   + f" | {100 * max(p):.1f} | {entropy(p):.2f} | {'[PDF](' + links[l] + ')' if l in links else '–'} |")
-    md += ["", "## Agreement with cards as the main evidence", "",
-           f"- control vs cards as the main evidence: Spearman {spearman(ct, m3):.2f}, mean |difference| {100 * sum(abs(a - b) for a, b in zip(ct, m3)) / 30:.2f} points per option",
-           f"- cards as one main source vs cards as the main evidence: Spearman {spearman(bal, m3):.2f}, mean |difference| {100 * sum(abs(a - b) for a, b in zip(bal, m3)) / 30:.2f} points per option",
-           f"- cards as context vs cards as the main evidence: Spearman {spearman(ctx, m3):.2f}, mean |difference| {100 * sum(abs(a - b) for a, b in zip(ctx, m3)) / 30:.2f} points per option; vs control: Spearman {spearman(ctx, ct):.2f}",
-           f"- demographic vs cards as the main evidence: Spearman {spearman(dm, m3):.2f}, mean |difference| {100 * sum(abs(a - b) for a, b in zip(dm, m3)) / 30:.2f} points per option",
-           "", "## All 30 options", "", "Sorted by cards as the main evidence.", "",
-           "| # | Discovery | Named people | Cards as the main evidence | Cards as one main source | Cards as context | Demographic | Control |",
+    dif = lambda x, y: 100 * sum(abs(a - b) for a, b in zip(x, y)) / 30
+    md += ["", "## Agreement with cards as one main source", "",
+           f"- cards as the main evidence vs cards as one main source: Spearman {spearman(m3, bal):.2f}, mean |difference| {dif(m3, bal):.2f} points per option",
+           f"- cards as context vs cards as one main source: Spearman {spearman(ctx, bal):.2f}, mean |difference| {dif(ctx, bal):.2f} points per option",
+           f"- demographic vs cards as one main source: Spearman {spearman(dm, bal):.2f}, mean |difference| {dif(dm, bal):.2f} points per option",
+           f"- control vs cards as one main source: Spearman {spearman(ct, bal):.2f}, mean |difference| {dif(ct, bal):.2f} points per option",
+           "", "Other pairs: control vs cards as the main evidence "
+           f"{spearman(ct, m3):.2f}, control vs cards as context {spearman(ct, ctx):.2f}; demographic vs cards as the main "
+           f"evidence (whose notes it extends) {spearman(dm, m3):.2f}.",
+           "", "## All 30 options", "", "Sorted by cards as one main source.", "",
+           "| # | Discovery | Named people | Cards as one main source | Cards as the main evidence | Cards as context | Demographic | Control |",
            "|---:|---|---|---:|---:|---:|---:|---:|"]
     for k, r in enumerate(rows, 1):
-        md.append(f"| {k} | {r['discovery'].removeprefix('for ')} | {r['v2_people']} | **{100 * r['v2m3_p']:.1f}** | "
+        md.append(f"| {k} | {r['discovery'].removeprefix('for ')} | {r['v2_people']} | **{100 * r['v2bal_p']:.1f}** | "
                   + " | ".join(f"{100 * r[c]:.1f}" for c, _ in cols[1:]) + " |")
     (OUT / "compare.md").write_text("\n".join(md) + "\n", encoding="utf-8")
     print("\n".join(md[9:15]))
