@@ -300,11 +300,16 @@ award; all 30 options with their named people:
 ### Economic Sciences (to be announced 12 October)
 
 <details>
-<summary><b>Field forecast:</b> Macro 16.9 % (treatment) · <b>people forecast:</b> Berry, Levinsohn and Pakes 16.7 % (treatment), 17.6 % (control). <i>Click to expand.</i></summary>
+<summary><b>Field forecast:</b> Macro 16.9 % · <b>people forecast:</b> Berry, Levinsohn and Pakes 16.7 % (structural demand and market-power estimation). <i>Click to expand.</i></summary>
 
 ![2026 Economic Sciences: field forecast, treatment against control](docs/nobel2026/economics_2026_fields_top5.png)
 
-![2026 Economic Sciences: people forecast, treatment against control](docs/nobel2026/economics_2026_people_top5.png)
+![2026 Economic Sciences: people forecast, top 5 candidates](docs/nobel2026/economics_2026_people_top5_treatment.png)
+
+**Preseen reports:** field question — [treatment](Econ/preseen_report/Treatment_field.pdf) ·
+[control](Econ/preseen_report/Control_field.pdf); people question —
+[treatment](Econ/preseen_report/Treatment_candidate.pdf) · [control](Econ/preseen_report/Control_candidate.pdf).
+People forecast with the control beside it: [figure](docs/nobel2026/economics_2026_people_top5.png).
 
 The economics prize is forecast in two stages ([full description](Econ/README.md)):
 
