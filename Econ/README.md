@@ -73,8 +73,6 @@ the primary JEL code of the 2026 motivation, coded the same way.
 **Results** (Preseen, 10 October; one run per arm; Preseen reports: [treatment](preseen_report/Treatment_field.pdf),
 [control](preseen_report/Control_field.pdf); [write-ups](04_field_forecast/results/)):
 
-![2026 economics field forecast: treatment against control](../docs/nobel2026/economics_2026_fields_top5.png)
-
 | Field (years since last award) | Control | Treatment |
 |---|---:|---:|
 | Macro (20) | 17.7 | **16.9** |
