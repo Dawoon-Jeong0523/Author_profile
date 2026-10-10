@@ -1,0 +1,75 @@
+# The Committee for the Prize in Economic Sciences in Memory of Alfred Nobel, 2026.
+# Names, roles and titles: the nobelprize.org committee page (fetched 2026-10-09, source/; identical to the list the
+# user pasted; "Centencial" is the page's spelling). The page gives no affiliations: they were checked on 2026-10-09
+# against the person's university profile or homepage (affiliation_source).
+committee: Committee for the Prize in Economic Sciences in Memory of Alfred Nobel
+year: 2026
+awarding_body: Royal Swedish Academy of Sciences
+roster_source: https://www.nobelprize.org/about/the-economic-sciences-prize-committee/
+members:
+  - slug: john-hassler
+    name: John Hassler
+    role: chair
+    title: Professor of economics
+    affiliation: Institute for International Economic Studies (IIES), Stockholm University
+    affiliation_source: http://hassler-j.iies.su.se/cv.htm
+  - slug: tommy-andersson
+    name: Tommy Andersson
+    role: member
+    title: Professor of economics
+    affiliation: Department of Economics, Lund University
+    affiliation_source: https://portal.research.lu.se/en/persons/tommy-andersson/
+  - slug: anna-dreber-almenberg
+    name: Anna Dreber Almenberg
+    role: member
+    title: Professor of economics
+    affiliation: Department of Economics, Stockholm School of Economics
+    affiliation_source: https://www.hhs.se/en/persons/d/dreber-almenberg-anna/
+  - slug: peter-fredriksson
+    name: Peter Fredriksson
+    role: member
+    title: Professor of economics
+    affiliation: Department of Economics, Uppsala University
+    affiliation_source: https://www.uu.se/en/contact-and-organisation/staff?query=N96-6151
+  - slug: per-stromberg
+    name: Per Strömberg
+    role: member
+    title: SSE Centencial professor of finance and private equity
+    affiliation: Stockholm School of Economics (Swedish House of Finance)
+    affiliation_source: https://www.hhs.se/en/houseoffinance/about/people/people-container/per-stromberg/
+  - slug: timo-boppart
+    name: Timo Boppart
+    role: co-opted member
+    title: Professor of economics
+    affiliation: Institute for International Economic Studies (IIES), Stockholm University
+    affiliation_source: https://www.su.se/english/profiles/tbopp-1.191787
+  - slug: kerstin-enflo
+    name: Kerstin Enflo
+    role: co-opted member
+    title: Professor in economic history
+    affiliation: Department of Economic History, Lund University
+    affiliation_source: https://portal.research.lu.se/en/persons/kerstin-enflo/
+  - slug: richard-friberg
+    name: Richard Friberg
+    role: co-opted member
+    title: Professor of economics
+    affiliation: Department of Economics, Stockholm School of Economics
+    affiliation_source: https://www.hhs.se/en/persons/f/friberg-richard/
+  - slug: randi-hjalmarsson
+    name: Randi Hjalmarsson
+    role: co-opted member
+    title: Professor of economics
+    affiliation: Department of Economics, University of Gothenburg
+    affiliation_source: https://www.gu.se/en/about/find-staff/randihjalmarsson2
+  - slug: jan-teorell
+    name: Jan Teorell
+    role: co-opted member
+    title: Professor of political science
+    affiliation: Department of Political Science, Stockholm University
+    affiliation_source: https://www.su.se/english/profiles/jate5800-1.534341
+  - slug: per-krusell
+    name: Per Krusell
+    role: secretary
+    title: Professor of economics
+    affiliation: Institute for International Economic Studies (IIES), Stockholm University
+    affiliation_source: https://www.su.se/english/profiles/pkrus-1.182559

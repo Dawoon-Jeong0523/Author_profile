@@ -1,0 +1,1747 @@
+{
+ "field": "Trade",
+ "slug": "trade",
+ "generated": "2026-10-10T19:29:07+00:00",
+ "integrator": "claude-opus-5-5",
+ "stamp": "1188f5c3f6de4192",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 11,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "n_nominations": 165,
+ "n_candidates": 18,
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models (max 15)",
+ "warnings": [],
+ "call": {
+  "attempts": 1,
+  "usd": 0.3929,
+  "usage": [
+   {
+    "input": 46624,
+    "output": 10321,
+    "reasoning": 2632,
+    "cached_input": 0
+   }
+  ]
+ },
+ "candidates": [
+  {
+   "rank": 1,
+   "motivation": "for the analysis of firm heterogeneity, selection and reallocation in international trade",
+   "jel_code": "F12",
+   "jel_code_mode": "F12",
+   "score": 11.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 2.5455,
+    "gpt-5.5-2026-04-23": 5.0,
+    "gemini-3.1-pro-preview": 4.0
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 30,
+   "nominations_per_model": {
+    "A": 8,
+    "O": 11,
+    "G": 11
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (A, G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (G, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Marc J. Melitz",
+     "born": 1968,
+     "affiliation": "Harvard University",
+     "n_nominations": 30,
+     "models": "A O G",
+     "weight": 11.5455
+    },
+    {
+     "name": "Andrew B. Bernard",
+     "born": 1963,
+     "affiliation": "Dartmouth College",
+     "n_nominations": 11,
+     "models": "A O",
+     "weight": 4.7273
+    },
+    {
+     "name": "Elhanan Helpman",
+     "born": 1946,
+     "affiliation": "Harvard University",
+     "n_nominations": 6,
+     "models": "A O",
+     "weight": 2.6364
+    }
+   ],
+   "people_others": [
+    {
+     "name": "J. Bradford Jensen",
+     "affiliation": "Georgetown University",
+     "born": 1959,
+     "weight": 2.0,
+     "n_nominations": 5
+    },
+    {
+     "name": "Samuel Kortum",
+     "affiliation": "Yale University",
+     "born": 1960,
+     "weight": 1.2727,
+     "n_nominations": 3
+    },
+    {
+     "name": "Stephen J. Redding",
+     "affiliation": "Princeton University",
+     "born": 1973,
+     "weight": 0.9091,
+     "n_nominations": 2
+    },
+    {
+     "name": "Jonathan Eaton",
+     "affiliation": "Pennsylvania State University",
+     "born": 1950,
+     "weight": 0.8182,
+     "n_nominations": 2
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Melitz, 2003: The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity, Econometrica",
+     "people": [
+      "Marc J. Melitz"
+     ],
+     "n_nominations": 30,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Bernard and Jensen, 1995: Exporters, Jobs, and Wages in U.S. Manufacturing: 1976-1987, Brookings Papers on Economic Activity: Microeconomics",
+     "people": [
+      "Andrew B. Bernard"
+     ],
+     "n_nominations": 8,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Helpman, Melitz and Yeaple, 2004: Export versus FDI with Heterogeneous Firms, American Economic Review",
+     "people": [
+      "Marc J. Melitz",
+      "Elhanan Helpman"
+     ],
+     "n_nominations": 6,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Bernard and Jensen, 1999: Exceptional Exporter Performance: Cause, Effect, or Both?, Journal of International Economics",
+     "people": [
+      "Andrew B. Bernard"
+     ],
+     "n_nominations": 4,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Micro facts on exporters, documented by Bernard and Jensen, led to the Melitz model, which made selection and within-industry reallocation central to the gains from trade and became the field's standard workhorse. Nominators call it the clearest post-Krugman transformation of trade theory. The recurring reservation is Melitz's relative youth and how credit should be shared.",
+   "grouping_note": "This candidate joins Melitz-only nominations with several rival third-person lineups: Helpman (6 nominations), J. Bradford Jensen (5), Stephen J. Redding (2) and Samuel Kortum (1); it also takes the Melitz-led joint nominations with Eaton and Kortum (n022, n146), which also touch the quantitative Ricardian candidate.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#3",
+    "anthropic/tommy-andersson/#1",
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/per-stromberg/#2",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/richard-friberg/#1",
+    "anthropic/jan-teorell/#2",
+    "anthropic/per-krusell/#2",
+    "openai/john-hassler/#1",
+    "openai/tommy-andersson/#1",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/peter-fredriksson/#1",
+    "openai/per-stromberg/#1",
+    "openai/timo-boppart/#1",
+    "openai/kerstin-enflo/#1",
+    "openai/richard-friberg/#1",
+    "openai/randi-hjalmarsson/#1",
+    "openai/jan-teorell/#1",
+    "openai/per-krusell/#1",
+    "gemini/john-hassler/#2",
+    "gemini/tommy-andersson/#1",
+    "gemini/anna-dreber-almenberg/#2",
+    "gemini/peter-fredriksson/#2",
+    "gemini/per-stromberg/#2",
+    "gemini/timo-boppart/#2",
+    "gemini/kerstin-enflo/#3",
+    "gemini/richard-friberg/#1",
+    "gemini/randi-hjalmarsson/#2",
+    "gemini/jan-teorell/#3",
+    "gemini/per-krusell/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "motivation": "for developing quantitative Ricardian general-equilibrium models of trade, technology and geography",
+   "jel_code": "F11",
+   "jel_code_mode": "F11",
+   "score": 7.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 3.6364,
+    "gpt-5.5-2026-04-23": 1.4545,
+    "gemini-3.1-pro-preview": 2.1818
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 21,
+   "nominations_per_model": {
+    "A": 10,
+    "O": 5,
+    "G": 6
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A)",
+    "John Hassler (A, G, O)",
+    "Kerstin Enflo (A, G)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (G)",
+    "Peter Fredriksson (A)",
+    "Randi Hjalmarsson (A)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (A, G)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Jonathan Eaton",
+     "born": 1949,
+     "affiliation": "Pennsylvania State University",
+     "n_nominations": 19,
+     "models": "A O G",
+     "weight": 6.6364
+    },
+    {
+     "name": "Samuel Kortum",
+     "born": 1960,
+     "affiliation": "Yale University",
+     "n_nominations": 21,
+     "models": "A O G",
+     "weight": 7.2727
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Marc J. Melitz",
+     "affiliation": "Harvard University",
+     "born": 1968,
+     "weight": 1.1818,
+     "n_nominations": 3
+    },
+    {
+     "name": "Andrés Rodríguez-Clare",
+     "affiliation": "University of California, Berkeley",
+     "born": 1964,
+     "weight": 0.4545,
+     "n_nominations": 1
+    },
+    {
+     "name": "Arnaud Costinot",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1978,
+     "weight": 0.2727,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Eaton and Kortum, 2002: Technology, Geography, and Trade, Econometrica",
+     "people": [
+      "Jonathan Eaton",
+      "Samuel Kortum"
+     ],
+     "n_nominations": 21,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Eaton, Kortum and Kramarz, 2011: An Anatomy of International Trade, Econometrica",
+     "people": [
+      "Jonathan Eaton",
+      "Samuel Kortum"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Eaton and Kortum, 1999: International Technology Diffusion: Theory and Measurement, International Economic Review",
+     "people": [
+      "Jonathan Eaton",
+      "Samuel Kortum"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Eaton-Kortum turned Ricardian theory into a tractable, estimable general-equilibrium workhorse that underpins modern counterfactual trade-policy and welfare analysis. Nominators see it as a genuine bridge from theory to quantitative policy work. The main reservation is that welfare conclusions rest on strong distributional assumptions and on a few elasticities.",
+   "grouping_note": "This candidate also takes three joint Eaton-Kortum-Melitz nominations led by Eaton and Kortum (n012, n027, n041), while the Melitz-led joint nominations went to the firm-heterogeneity candidate; Melitz, Rodríguez-Clare (n051) and Costinot (n093) were proposed as third laureates but are left out of the lineup, and n068 and n107 name Kortum alone.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#1",
+    "anthropic/tommy-andersson/#3",
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/timo-boppart/#2",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/richard-friberg/#3",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/jan-teorell/#4",
+    "anthropic/per-krusell/#1",
+    "openai/john-hassler/#2",
+    "openai/tommy-andersson/#4",
+    "openai/anna-dreber-almenberg/#3",
+    "openai/richard-friberg/#3",
+    "openai/per-krusell/#2",
+    "gemini/john-hassler/#1",
+    "gemini/tommy-andersson/#3",
+    "gemini/per-stromberg/#4",
+    "gemini/timo-boppart/#1",
+    "gemini/kerstin-enflo/#2",
+    "gemini/per-krusell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "motivation": "for the analysis of innovation, growth and the political economy of trade policy",
+   "jel_code": "F13",
+   "jel_code_mode": "F13",
+   "score": 7.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 3.9091,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 2.7273
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 24,
+   "nominations_per_model": {
+    "A": 11,
+    "O": 2,
+    "G": 11
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G)",
+    "Jan Teorell (A, G)",
+    "John Hassler (A, G)",
+    "Kerstin Enflo (A, G)",
+    "Per Krusell (A, G)",
+    "Per Strömberg (A, G)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G)",
+    "Richard Friberg (A, G)",
+    "Timo Boppart (A, G, O)",
+    "Tommy Andersson (A, G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Gene M. Grossman",
+     "born": 1955,
+     "affiliation": "Princeton University",
+     "n_nominations": 24,
+     "models": "A O G",
+     "weight": 7.0909
+    },
+    {
+     "name": "Elhanan Helpman",
+     "born": 1946,
+     "affiliation": "Harvard University",
+     "n_nominations": 23,
+     "models": "A O G",
+     "weight": 6.9091
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Grossman and Helpman, 1994: Protection for Sale, American Economic Review",
+     "people": [
+      "Gene M. Grossman",
+      "Elhanan Helpman"
+     ],
+     "n_nominations": 22,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Grossman and Helpman, 1991: Innovation and Growth in the Global Economy, MIT Press",
+     "people": [
+      "Gene M. Grossman",
+      "Elhanan Helpman"
+     ],
+     "n_nominations": 14,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Grossman and Helpman, 2001: Special Interest Politics, MIT Press",
+     "people": [
+      "Gene M. Grossman",
+      "Elhanan Helpman"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Grossman and Helpman, 1995: Trade Wars and Trade Talks, Journal of Political Economy",
+     "people": [
+      "Gene M. Grossman",
+      "Elhanan Helpman"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Grossman and Helpman linked trade to endogenous innovation and modelled protection as the outcome of lobbying, building a broad and cumulative theoretical programme. Protection for Sale has been taken to data repeatedly. The reservations are its proximity to Krugman's 2008 prize, its breadth (which makes a sharp motivation hard to write) and empirical tests that rely on weak proxies.",
+   "grouping_note": "This candidate joins nominations stressing Protection for Sale, nominations stressing Innovation and Growth (including n144), and nominations covering both; n054 names Grossman alone because its ballot placed Helpman with firm heterogeneity.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#2",
+    "anthropic/tommy-andersson/#4",
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/per-stromberg/#1",
+    "anthropic/timo-boppart/#1",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/richard-friberg/#2",
+    "anthropic/randi-hjalmarsson/#4",
+    "anthropic/jan-teorell/#1",
+    "anthropic/per-krusell/#4",
+    "openai/peter-fredriksson/#4",
+    "openai/timo-boppart/#3",
+    "gemini/john-hassler/#3",
+    "gemini/tommy-andersson/#2",
+    "gemini/anna-dreber-almenberg/#4",
+    "gemini/peter-fredriksson/#3",
+    "gemini/per-stromberg/#5",
+    "gemini/timo-boppart/#3",
+    "gemini/kerstin-enflo/#4",
+    "gemini/richard-friberg/#5",
+    "gemini/randi-hjalmarsson/#3",
+    "gemini/jan-teorell/#1",
+    "gemini/per-krusell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 4,
+   "motivation": "for founding the micro-founded intertemporal new open-economy macroeconomics",
+   "jel_code": "F41",
+   "jel_code_mode": "F41",
+   "score": 4.9091,
+   "points_per_model": {
+    "claude-opus-5-5": 2.7273,
+    "gpt-5.5-2026-04-23": 1.4545,
+    "gemini-3.1-pro-preview": 0.7273
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 24,
+   "nominations_per_model": {
+    "A": 11,
+    "O": 9,
+    "G": 4
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (A, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, G)",
+    "Timo Boppart (A, G, O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Maurice Obstfeld",
+     "born": 1952,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 24,
+     "models": "A O G",
+     "weight": 4.9091
+    },
+    {
+     "name": "Kenneth Rogoff",
+     "born": 1953,
+     "affiliation": "Harvard University",
+     "n_nominations": 24,
+     "models": "A O G",
+     "weight": 4.9091
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Obstfeld and Rogoff, 1995: Exchange Rate Dynamics Redux, Journal of Political Economy",
+     "people": [
+      "Maurice Obstfeld",
+      "Kenneth Rogoff"
+     ],
+     "n_nominations": 23,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Obstfeld and Rogoff, 1996: Foundations of International Macroeconomics, MIT Press",
+     "people": [
+      "Maurice Obstfeld",
+      "Kenneth Rogoff"
+     ],
+     "n_nominations": 20,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Obstfeld and Rogoff, 2000: The Six Major Puzzles in International Macroeconomics: Is There a Common Cause?, NBER Macroeconomics Annual",
+     "people": [
+      "Maurice Obstfeld",
+      "Kenneth Rogoff"
+     ],
+     "n_nominations": 9,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They brought dynamic optimizing general equilibrium with nominal rigidities into open-economy macroeconomics, replacing Mundell-Fleming as the standard framework for welfare-based policy analysis. The reservation, raised almost uniformly, is that exchange-rate models still perform poorly empirically. Producer-currency pricing was also later contradicted by the invoicing evidence.",
+   "grouping_note": "This candidate joins nominations for the same Obstfeld-Rogoff lineup; some stress the intertemporal current-account approach rather than the Redux model, and there are no rival lineups.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#4",
+    "anthropic/tommy-andersson/#2",
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/per-stromberg/#3",
+    "anthropic/timo-boppart/#3",
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/richard-friberg/#5",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/jan-teorell/#3",
+    "anthropic/per-krusell/#3",
+    "openai/john-hassler/#4",
+    "openai/tommy-andersson/#5",
+    "openai/peter-fredriksson/#5",
+    "openai/per-stromberg/#5",
+    "openai/timo-boppart/#2",
+    "openai/kerstin-enflo/#5",
+    "openai/randi-hjalmarsson/#5",
+    "openai/jan-teorell/#2",
+    "openai/per-krusell/#5",
+    "gemini/timo-boppart/#5",
+    "gemini/richard-friberg/#3",
+    "gemini/jan-teorell/#4",
+    "gemini/per-krusell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "motivation": "for the empirical analysis of the local labor-market effects of import competition",
+   "jel_code": "F16",
+   "jel_code_mode": "F16",
+   "score": 4.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.6364,
+    "gpt-5.5-2026-04-23": 1.3636,
+    "gemini-3.1-pro-preview": 2.5455
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 8,
+   "n_nominations": 16,
+   "nominations_per_model": {
+    "A": 3,
+    "O": 6,
+    "G": 7
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (G, O)",
+    "John Hassler (G)",
+    "Kerstin Enflo (G, O)",
+    "Per Strömberg (G, O)",
+    "Peter Fredriksson (A, G)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "David H. Autor",
+     "born": 1967,
+     "affiliation": "MIT",
+     "n_nominations": 16,
+     "models": "A O G",
+     "weight": 4.5455
+    },
+    {
+     "name": "David Dorn",
+     "born": 1979,
+     "affiliation": "University of Zurich",
+     "n_nominations": 14,
+     "models": "A O G",
+     "weight": 4.1818
+    },
+    {
+     "name": "Gordon H. Hanson",
+     "born": 1964,
+     "affiliation": "Harvard University",
+     "n_nominations": 14,
+     "models": "A O G",
+     "weight": 4.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Autor, Dorn and Hanson, 2013: The China Syndrome: Local Labor Market Effects of Import Competition in the United States, American Economic Review",
+     "people": [
+      "David H. Autor",
+      "David Dorn",
+      "Gordon H. Hanson"
+     ],
+     "n_nominations": 14,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Autor, Dorn, Hanson and Song, 2014: Trade Adjustment: Worker-Level Evidence, Quarterly Journal of Economics",
+     "people": [
+      "David H. Autor",
+      "David Dorn",
+      "Gordon H. Hanson"
+     ],
+     "n_nominations": 6,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Autor, Dorn and Hanson, 2016: The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade, Annual Review of Economics",
+     "people": [
+      "David H. Autor",
+      "David Dorn",
+      "Gordon H. Hanson"
+     ],
+     "n_nominations": 3,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The China-shock work used credible regional exposure designs to show large, persistent and geographically concentrated adjustment costs of trade, and it reshaped both research and the policy debate. The findings have largely replicated in direction. The reservations are debates over shift-share identification, general-equilibrium offsets, the external validity of a single episode, and maturity.",
+   "grouping_note": "This candidate joins nominations for the same three authors; n115 and n133 name Autor alone, and the Feenstra-led offshoring nomination n060, which also cites the China Syndrome, is kept separate.",
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/peter-fredriksson/#5",
+    "anthropic/randi-hjalmarsson/#2",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/per-stromberg/#4",
+    "openai/kerstin-enflo/#3",
+    "openai/richard-friberg/#5",
+    "openai/randi-hjalmarsson/#3",
+    "openai/jan-teorell/#4",
+    "gemini/john-hassler/#5",
+    "gemini/anna-dreber-almenberg/#1",
+    "gemini/peter-fredriksson/#1",
+    "gemini/per-stromberg/#3",
+    "gemini/kerstin-enflo/#1",
+    "gemini/randi-hjalmarsson/#1",
+    "gemini/jan-teorell/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "motivation": "for the analysis of offshoring, incomplete contracts and the organization of global value chains",
+   "jel_code": "F23",
+   "jel_code_mode": "F23",
+   "score": 4.0,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 2.1818,
+    "gemini-3.1-pro-preview": 1.6364
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 20,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 11,
+    "G": 8
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Jan Teorell (O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (G, O)",
+    "Randi Hjalmarsson (G, O)",
+    "Richard Friberg (G, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Pol Antràs",
+     "born": 1975,
+     "affiliation": "Harvard University",
+     "n_nominations": 20,
+     "models": "A O G",
+     "weight": 4.0
+    },
+    {
+     "name": "Gene M. Grossman",
+     "born": 1955,
+     "affiliation": "Princeton University",
+     "n_nominations": 10,
+     "models": "O",
+     "weight": 2.0909
+    },
+    {
+     "name": "Esteban Rossi-Hansberg",
+     "born": 1973,
+     "affiliation": "University of Chicago",
+     "n_nominations": 7,
+     "models": "O",
+     "weight": 1.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Elhanan Helpman",
+     "affiliation": "Harvard University and Tel Aviv University",
+     "born": 1946,
+     "weight": 0.7273,
+     "n_nominations": 3
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Antràs, 2003: Firms, Contracts, and Trade Structure, Quarterly Journal of Economics",
+     "people": [
+      "Pol Antràs"
+     ],
+     "n_nominations": 18,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Grossman and Rossi-Hansberg, 2008: Trading Tasks: A Simple Theory of Offshoring, American Economic Review",
+     "people": [
+      "Gene M. Grossman",
+      "Esteban Rossi-Hansberg"
+     ],
+     "n_nominations": 7,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Antràs and Helpman, 2004: Global Sourcing, Journal of Political Economy",
+     "people": [
+      "Pol Antràs"
+     ],
+     "n_nominations": 9,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Grossman and Helpman, 2002: Integration versus Outsourcing in Industry Equilibrium, Quarterly Journal of Economics",
+     "people": [
+      "Gene M. Grossman"
+     ],
+     "n_nominations": 5,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "This work made firm boundaries and global value chains endogenous to contracting frictions and introduced the trade-in-tasks view of offshoring. Nominators value the link between trade, organization and institutions. The reservations are that empirical measurement of value chains is less settled, that part of the underlying contract theory has been recognized elsewhere, and Antràs's youth.",
+   "grouping_note": "This candidate joins Antràs-only nominations with team nominations; Rossi-Hansberg (7 nominations) and Elhanan Helpman (3) are rival third laureates, and Helpman is left out of the lineup.",
+   "nomination_ids": [
+    "anthropic/per-stromberg/#4",
+    "openai/john-hassler/#3",
+    "openai/tommy-andersson/#2",
+    "openai/anna-dreber-almenberg/#5",
+    "openai/peter-fredriksson/#3",
+    "openai/per-stromberg/#3",
+    "openai/timo-boppart/#5",
+    "openai/kerstin-enflo/#4",
+    "openai/richard-friberg/#4",
+    "openai/randi-hjalmarsson/#4",
+    "openai/jan-teorell/#5",
+    "openai/per-krusell/#4",
+    "gemini/john-hassler/#4",
+    "gemini/tommy-andersson/#4",
+    "gemini/peter-fredriksson/#4",
+    "gemini/per-stromberg/#1",
+    "gemini/timo-boppart/#4",
+    "gemini/richard-friberg/#4",
+    "gemini/randi-hjalmarsson/#4",
+    "gemini/per-krusell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "motivation": "for the theoretical foundation of structural gravity and the measurement of trade costs",
+   "jel_code": "F14",
+   "jel_code_mode": "F14",
+   "score": 2.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0909,
+    "gpt-5.5-2026-04-23": 2.6364,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 10,
+   "n_nominations": 10,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 9,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Jan Teorell (O)",
+    "John Hassler (A)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (O)",
+    "Per Strömberg (O)",
+    "Peter Fredriksson (O)",
+    "Randi Hjalmarsson (O)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "James E. Anderson",
+     "born": 1940,
+     "affiliation": "Boston College",
+     "n_nominations": 10,
+     "models": "A O",
+     "weight": 2.7273
+    },
+    {
+     "name": "Eric van Wincoop",
+     "born": 1963,
+     "affiliation": "University of Virginia",
+     "n_nominations": 10,
+     "models": "A O",
+     "weight": 2.7273
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Anderson, 1979: A Theoretical Foundation for the Gravity Equation, American Economic Review",
+     "people": [
+      "James E. Anderson"
+     ],
+     "n_nominations": 10,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Anderson and van Wincoop, 2003: Gravity with Gravitas: A Solution to the Border Puzzle, American Economic Review",
+     "people": [
+      "James E. Anderson",
+      "Eric van Wincoop"
+     ],
+     "n_nominations": 9,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Anderson and van Wincoop, 2004: Trade Costs, Journal of Economic Literature",
+     "people": [
+      "James E. Anderson",
+      "Eric van Wincoop"
+     ],
+     "n_nominations": 9,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They grounded the most robust empirical regularity in trade in theory and corrected its estimation through multilateral resistance, creating a structural tool for counterfactual trade-policy analysis. The reservation is that gravity is seen as a method and measurement infrastructure rather than a single substantive mechanism.",
+   "grouping_note": "This candidate joins nominations for the same pair, with no rival lineups.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#5",
+    "openai/tommy-andersson/#3",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/peter-fredriksson/#2",
+    "openai/per-stromberg/#2",
+    "openai/timo-boppart/#4",
+    "openai/kerstin-enflo/#2",
+    "openai/randi-hjalmarsson/#2",
+    "openai/jan-teorell/#3",
+    "openai/per-krusell/#3"
+   ],
+   "flags": [
+    "James E. Anderson: born 1940 (age 86 in 2026)"
+   ]
+  },
+  {
+   "rank": 8,
+   "motivation": "for the analysis of exchange-rate pass-through, pricing-to-market and dominant-currency invoicing",
+   "jel_code": "F31",
+   "jel_code_mode": "F31",
+   "score": 1.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.3636,
+    "gemini-3.1-pro-preview": 0.7273
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 3,
+   "n_nominations": 5,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 1,
+    "G": 3
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Randi Hjalmarsson (G)",
+    "Richard Friberg (A, G, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Gita Gopinath",
+     "born": 1971,
+     "affiliation": "Harvard University",
+     "n_nominations": 5,
+     "models": "A O G",
+     "weight": 1.2727
+    },
+    {
+     "name": "Pinelopi Koujianou Goldberg",
+     "born": 1963,
+     "affiliation": "Yale University",
+     "n_nominations": 2,
+     "models": "A O",
+     "weight": 0.5455
+    },
+    {
+     "name": "Michael M. Knetter",
+     "born": 1960,
+     "affiliation": "University of Wisconsin-Madison",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Charles Engel",
+     "affiliation": "University of Wisconsin-Madison",
+     "born": null,
+     "weight": 0.1818,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Gopinath, Itskhoki and Rigobon, 2010: Currency Choice and Exchange Rate Pass-Through, American Economic Review",
+     "people": [
+      "Gita Gopinath"
+     ],
+     "n_nominations": 3,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Goldberg and Knetter, 1997: Goods Prices and Exchange Rates: What Have We Learned?, Journal of Economic Literature",
+     "people": [
+      "Pinelopi Koujianou Goldberg",
+      "Michael M. Knetter"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Knetter, 1989: \"Price Discrimination by U.S. and German Exporters\", American Economic Review",
+     "people": [
+      "Michael M. Knetter"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Gopinath et al., 2020: Dominant Currency Paradigm, AER",
+     "people": [
+      "Gita Gopinath"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "This work uses transaction-level price data to link firms' pricing and invoicing choices to macroeconomic exchange-rate transmission, overturning standard assumptions. The reservations are that the dominant-currency paradigm is recent and that the literature has many coauthors who are not named.",
+   "grouping_note": "This candidate joins Gopinath-only nominations with two team nominations; the third laureate is contested between Michael M. Knetter (n092) and Charles Engel (n039), and Engel is left out of the lineup.",
+   "nomination_ids": [
+    "anthropic/richard-friberg/#4",
+    "openai/richard-friberg/#2",
+    "gemini/anna-dreber-almenberg/#3",
+    "gemini/richard-friberg/#2",
+    "gemini/randi-hjalmarsson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "motivation": "for the analysis of capital flows, sudden stops and emerging-market crises",
+   "jel_code": "F32",
+   "jel_code_mode": "F32",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.2727,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 3,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 3,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Per Strömberg (A)",
+    "Randi Hjalmarsson (A)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Guillermo Calvo",
+     "born": 1941,
+     "affiliation": "Columbia University",
+     "n_nominations": 3,
+     "models": "A",
+     "weight": 0.2727
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Calvo, 1998: Capital Flows and Capital-Market Crises: The Simple Economics of Sudden Stops, Journal of Applied Economics",
+     "people": [
+      "Guillermo Calvo"
+     ],
+     "n_nominations": 3,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Calvo, 1983: Staggered Prices in a Utility-Maximizing Framework, Journal of Monetary Economics",
+     "people": [
+      "Guillermo Calvo"
+     ],
+     "n_nominations": 2,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Calvo identified the sudden-stop mechanism behind emerging-market crises, which has shaped IMF practice; Calvo pricing is a further contribution. The reservations are that the case is split across fields and that credit for sudden stops is shared with a broad literature.",
+   "grouping_note": "This candidate joins three nominations for Calvo alone, with no rival lineups.",
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#5",
+    "anthropic/per-stromberg/#5",
+    "anthropic/randi-hjalmarsson/#5"
+   ],
+   "flags": [
+    "Guillermo Calvo: born 1941 (age 85 in 2026)"
+   ]
+  },
+  {
+   "rank": 10,
+   "motivation": "for the analysis of economic geography, trade costs and the unbundling of global production",
+   "jel_code": "F15",
+   "jel_code_mode": "F12",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 3,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 3
+   },
+   "supporters": [
+    "Jan Teorell (G)",
+    "Kerstin Enflo (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Richard Baldwin",
+     "born": 1955,
+     "affiliation": "IMD Business School",
+     "n_nominations": 3,
+     "models": "G",
+     "weight": 0.2727
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Baldwin, 2016: The Great Convergence: Information Technology and the New Globalization, Harvard University Press",
+     "people": [
+      "Richard Baldwin"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Baldwin's long-run view of how falling transport and communication costs reshape the geography of production is seen as giving clear insights into the spatial allocation of activity. The reservation is that it relies on broad stylized facts.",
+   "grouping_note": "This candidate joins three Baldwin-only nominations under different JEL codes (F12, F15, F23); n120 lists no key works.",
+   "nomination_ids": [
+    "gemini/tommy-andersson/#5",
+    "gemini/kerstin-enflo/#5",
+    "gemini/jan-teorell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "motivation": "for the historical analysis of globalization, factor-price convergence and mass migration",
+   "jel_code": "F15",
+   "jel_code_mode": "F15",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.2727,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Kerstin Enflo (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Jeffrey G. Williamson",
+     "born": 1935,
+     "affiliation": "Harvard University (emeritus)",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.2727
+    },
+    {
+     "name": "Kevin H. O'Rourke",
+     "born": 1963,
+     "affiliation": "NYU Abu Dhabi",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.2727
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "O'Rourke and Williamson, 1999: Globalization and History, MIT Press",
+     "people": [
+      "Jeffrey G. Williamson",
+      "Kevin H. O'Rourke"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Hatton and Williamson, 1998: The Age of Mass Migration, Oxford University Press",
+     "people": [
+      "Jeffrey G. Williamson"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Newly constructed price and wage series were used to test Heckscher-Ohlin predictions over a century across the Atlantic economy. The reservations are Williamson's advanced age and the work's more descriptive identification.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/kerstin-enflo/#3"
+   ],
+   "flags": [
+    "Jeffrey G. Williamson: born 1935 (age 91 in 2026)"
+   ]
+  },
+  {
+   "rank": 12,
+   "motivation": "for the discovery of the global financial cycle and its implications for monetary autonomy",
+   "jel_code": "F32",
+   "jel_code_mode": "F32",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 2,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Per Krusell (A)"
+   ],
+   "roles": [
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Hélène Rey",
+     "born": 1970,
+     "affiliation": "London Business School",
+     "n_nominations": 2,
+     "models": "A",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Gita Gopinath",
+     "affiliation": "Harvard University",
+     "born": 1971,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Rey, 2013: Dilemma not Trilemma: The Global Financial Cycle and Monetary Policy Independence, Jackson Hole Economic Policy Symposium",
+     "people": [
+      "Hélène Rey"
+     ],
+     "n_nominations": 2,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Gourinchas and Rey, 2007: International Financial Adjustment, Journal of Political Economy",
+     "people": [
+      "Hélène Rey"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The global financial cycle challenges the Mundellian trilemma and has reshaped thinking on capital flows. The reservations are that the work is less mature, still mostly empirical and only partly embedded in a structural model.",
+   "grouping_note": "n015 also pairs Rey with Gopinath's dominant-currency pricing, which touches the pass-through candidate; it was placed here because its lead person and first strand are Rey's global financial cycle, so Gopinath is left out of this lineup.",
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/per-krusell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "motivation": "for the duality-based general-equilibrium theory of international trade",
+   "jel_code": "F11",
+   "jel_code_mode": "F11",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Timo Boppart (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Avinash Dixit",
+     "born": 1944,
+     "affiliation": "Princeton University",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Dixit and Norman, 1980: Theory of International Trade, Cambridge University Press",
+     "people": [
+      "Avinash Dixit"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Dixit and Stiglitz, 1977: Monopolistic Competition and Optimum Product Diversity, American Economic Review",
+     "people": [
+      "Avinash Dixit"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Dixit-Stiglitz preferences underpin modern trade, growth and macroeconomics. The reservation is that the trade-specific core is older and partly recognized already through Krugman.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/timo-boppart/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "motivation": "for the historical analysis of the international monetary system",
+   "jel_code": "F33",
+   "jel_code_mode": "F33",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0909,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Jan Teorell (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Barry Eichengreen",
+     "born": 1952,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Eichengreen, 1992: Golden Fetters: The Gold Standard and the Great Depression, 1919-1939, Oxford University Press",
+     "people": [
+      "Barry Eichengreen"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Eichengreen and Sachs, 1985: Exchange Rates and Economic Recovery in the 1930s, Journal of Economic History",
+     "people": [
+      "Barry Eichengreen"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work provides long-run comparative evidence on how monetary regimes interact with domestic politics. The reservation is that it may be read as economic history rather than trade.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/jan-teorell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "motivation": "for measuring the gains from new varieties and constructing trade-consistent price indexes",
+   "jel_code": "F14",
+   "jel_code_mode": "F14",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0909,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Timo Boppart (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Robert C. Feenstra",
+     "born": 1956,
+     "affiliation": "University of California, Davis",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Feenstra, 1994: New Product Varieties and the Measurement of International Prices, American Economic Review",
+     "people": [
+      "Robert C. Feenstra"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Feenstra's work corrects price indexes for new goods, a measurement issue central to growth and inflation accounting. The reservation is that its scope is narrower than the larger frameworks.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/timo-boppart/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "motivation": "for empirical research on trade liberalization, poverty and productivity in developing countries",
+   "jel_code": "F14",
+   "jel_code_mode": "F14",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Nina Pavcnik",
+     "born": 1971,
+     "affiliation": "Dartmouth College",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Goldberg and Pavcnik, 2007: Distributional Effects of Globalization in Developing Countries, Journal of Economic Literature",
+     "people": [
+      "Nina Pavcnik"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Pavcnik, 2002: Trade Liberalization, Exit, and Productivity Improvements: Evidence from Chilean Plants, Review of Economic Studies",
+     "people": [
+      "Nina Pavcnik"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Micro-data are used to credibly trace the effects of trade liberalization on poverty, inequality and firm productivity in developing economies.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "motivation": "for the quantitative analysis of spatial economics and market access",
+   "jel_code": "F10",
+   "jel_code_mode": "F10",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Peter Fredriksson (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Stephen Redding",
+     "born": 1971,
+     "affiliation": "Princeton University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Redding and Sturm, 2008: The Costs of Remoteness: Evidence from German Division and Reunification, American Economic Review",
+     "people": [
+      "Stephen Redding"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work exploits historical natural experiments to isolate the causal effects of market access on spatial development, bridging empirical design and quantitative structural frameworks.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/peter-fredriksson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "motivation": "for the empirical analysis of globalization, offshoring and labor-market adjustment",
+   "jel_code": "F16",
+   "jel_code_mode": "F16",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "John Hassler (O)"
+   ],
+   "roles": [
+    "chair"
+   ],
+   "people": [
+    {
+     "name": "Robert C. Feenstra",
+     "born": 1956,
+     "affiliation": "University of California, Davis",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "Gordon H. Hanson",
+     "born": 1964,
+     "affiliation": "Harvard Kennedy School",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "David Dorn",
+     "born": 1979,
+     "affiliation": "University of Zurich",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Feenstra and Hanson, 1996: \"Globalization, Outsourcing, and Wage Inequality\", American Economic Review",
+     "people": [
+      "Robert C. Feenstra",
+      "Gordon H. Hanson"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Feenstra and Hanson, 1999: \"The Impact of Outsourcing and High-Technology Capital on Wages\", Quarterly Journal of Economics",
+     "people": [
+      "Robert C. Feenstra",
+      "Gordon H. Hanson"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Autor, Dorn and Hanson, 2013: \"The China Syndrome: Local Labor Market Effects of Import Competition in the United States\", American Economic Review",
+     "people": [
+      "Gordon H. Hanson",
+      "David Dorn"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "This work moved the measurement of trade's distributional effects beyond representative-agent gains. The reservation is diffuse attribution and overlap with labor economics.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "openai/john-hassler/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

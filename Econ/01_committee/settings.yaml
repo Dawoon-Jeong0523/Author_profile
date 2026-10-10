@@ -1,0 +1,15 @@
+# Step 1 (committee member profiles): call settings. Models and prices: ../config.yaml.
+ask:                            # one call per member x model; no tools, no web search; JSON schema
+  max_output_tokens: 16000      # cap only (billed by use); thinking / reasoning tokens count against it
+  json_retries: 1               # one retry on invalid JSON, then the cell is recorded as invalid
+  max_works: 8                  # representative works asked for
+  effort: {anthropic: null, openai: null, gemini: null}   # null = provider default (as in the 1 Oct committee)
+merge:                          # one call per member: Claude merges the three answers; JSON schema
+  provider: anthropic           # --merger overrides
+  max_output_tokens: 32000
+  json_retries: 1
+  effort: {anthropic: high, openai: null, gemini: null}
+title_match: 0.85               # merged work = an input work when the normalised titles are at least this similar
+estimate_assumptions:           # per call, used by `profiles.py estimate` until real calls are logged
+  ask: {input: 1500, output: 6000}
+  merge: {input: 12000, output: 8000}

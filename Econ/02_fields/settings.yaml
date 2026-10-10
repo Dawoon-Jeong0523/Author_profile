@@ -1,0 +1,9 @@
+# Step 2 (fields): JEL coding of every prize work 1969-2025. Models and prices: ../config.yaml.
+jel:                            # one call per batch x model; no tools, no web search; JSON schema
+  batch_size: 16                # works per call, in award order (64 works -> 4 batches)
+  max_output_tokens: 32000      # cap only (billed by use); thinking / reasoning tokens count against it
+  json_retries: 1               # one retry on an invalid answer (with the problems listed), then recorded as invalid
+  max_secondary: 3              # secondary codes per work
+  effort: {anthropic: null, openai: null, gemini: null}   # null = provider default (as in step 1)
+estimate_assumptions:           # per call, used by `classify_jel.py estimate` until real calls are logged
+  jel: {input: 16000, output: 8000}

@@ -1,0 +1,1123 @@
+{
+ "stage": "merge",
+ "member": "per-stromberg",
+ "name": "Per Strömberg",
+ "role": "member",
+ "title": "SSE Centencial professor of finance and private equity",
+ "affiliation": "Stockholm School of Economics (Swedish House of Finance)",
+ "merger": "claude-opus-5-5",
+ "written": "2026-10-09T23:53:11+00:00",
+ "inputs": {
+  "A": {
+   "model": "claude-opus-5-5",
+   "written": "2026-10-09T23:48:54+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "O": {
+   "model": "gpt-5.5-2026-04-23",
+   "written": "2026-10-09T23:49:51+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "G": {
+   "model": "gemini-3.1-pro-preview",
+   "written": "2026-10-09T23:48:57+00:00",
+   "recognized": true,
+   "confidence": "high"
+  }
+ },
+ "missing_inputs": [],
+ "prompt": {
+  "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+  "user_chars": 23366
+ },
+ "attempts": [
+  {
+   "provider": "anthropic",
+   "model_requested": "claude-opus-5-5",
+   "model_reported": "claude-opus-5-5",
+   "request": {
+    "url": "https://api.anthropic.com/v1/messages",
+    "header_names": [
+     "x-api-key",
+     "anthropic-version: 2023-06-01",
+     "content-type"
+    ],
+    "body": {
+     "model": "claude-opus-5-5",
+     "max_tokens": 32000,
+     "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+     "messages": [
+      {
+       "role": "user",
+       "content": "Committee member: Per Strömberg\nAffiliation: Stockholm School of Economics (Swedish House of Finance)\nCommittee role in 2026: member\nTitle as listed by nobelprize.org: SSE Centencial professor of finance and private equity\n\nProfile A:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Per Strömberg is a Swedish financial economist, professor of finance and private equity at the Stockholm School of Economics and associated with the Swedish House of Finance. He was earlier on the faculty of the University of Chicago Graduate School of Business and directed the Swedish Institute for Financial Research (SIFR). He is known for empirical corporate finance on venture capital contracts, private equity and leveraged buyouts, and bankruptcy. He has served on the Economic Sciences Prize Committee for a number of years; the exact start date is uncertain to me, possibly early 2010s.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Corporate finance and financial contracting (empirical tests of contract theory)\",\n   \"jel_codes\": [\n    \"G32\",\n    \"G34\",\n    \"D86\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Private equity, leveraged buyouts and venture capital\",\n   \"jel_codes\": [\n    \"G24\",\n    \"G23\",\n    \"G34\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Bankruptcy, financial distress and debt restructuring\",\n   \"jel_codes\": [\n    \"G33\",\n    \"K22\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Corporate governance and executive characteristics\",\n   \"jel_codes\": [\n    \"G34\",\n    \"M12\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Financial intermediation and capital structure\",\n   \"jel_codes\": [\n    \"G21\",\n    \"G32\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Performance, leverage and real effects of private equity funds and buyouts\",\n   \"period\": \"2015–2024\",\n   \"basis\": \"Continuation of his long-running buyout research with Axelson, Weisbach, Jenkinson, Lerner, Sørensen and others\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Fund structure, compensation and incentives of private equity general partners\",\n   \"period\": \"2015–2024\",\n   \"basis\": \"Extension of his theory-and-evidence work on PE fund financial structure\",\n   \"confidence\": \"low\"\n  },\n  {\n   \"topic\": \"Use of Swedish and Nordic register and micro data for corporate finance questions\",\n   \"period\": \"2015–2024\",\n   \"basis\": \"Swedish House of Finance data infrastructure; my knowledge of specific papers is limited\",\n   \"confidence\": \"low\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts\",\n   \"year\": \"2003\",\n   \"venue\": \"Review of Economic Studies\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Documented how VC contracts separately allocate cash-flow, control, voting, board and liquidation rights. Showed these allocations are contingent on performance, consistent with incomplete-contracting and agency theories (Grossman–Hart–Moore, Aghion–Bolton).\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Characteristics, Contracts, and Actions: Evidence from Venture Capitalist Analyses\",\n   \"year\": \"2004\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Used VCs' internal investment memos to link perceived risks to contract terms, providing evidence that contracts respond to internal and external risk as theory predicts.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Leveraged Buyouts and Private Equity\",\n   \"year\": \"2009\",\n   \"venue\": \"Journal of Economic Perspectives\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Widely cited synthesis of how PE firms create value through financial, governance and operational engineering, and of evidence on returns and boom-bust cycles.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Why Are Buyouts Levered? The Financial Structure of Private Equity Funds\",\n   \"year\": \"2009\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [\n    \"Ulf Axelson\",\n    \"Michael S. Weisbach\"\n   ],\n   \"contribution\": \"Theory explaining the combination of fund-level equity and deal-level debt in PE as a response to agency problems between GPs and LPs.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts\",\n   \"year\": \"2013\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [\n    \"Ulf Axelson\",\n    \"Tim Jenkinson\",\n    \"Michael S. Weisbach\"\n   ],\n   \"contribution\": \"Showed that buyout leverage tracks credit-market conditions rather than firm-level determinants, and that higher leverage is associated with higher prices.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Conflicts of Interest and Market Illiquidity in Bankruptcy Auctions: Theory and Tests\",\n   \"year\": \"2000\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [],\n   \"contribution\": \"Used Swedish auction-based bankruptcy data to show frequent sales back to former owners (saleback), consistent with illiquidity and creditor conflicts.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Which CEO Characteristics and Abilities Matter?\",\n   \"year\": \"2012\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\",\n    \"Mark M. Klebanov\",\n    \"Morten Sorensen\"\n   ],\n   \"contribution\": \"Used detailed assessments of CEO candidates in buyout and VC deals to relate personality and ability traits to selection and performance.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Private Equity and Industry Performance\",\n   \"year\": \"2017\",\n   \"venue\": \"Management Science\",\n   \"coauthors\": [\n    \"Shai Bernstein\",\n    \"Josh Lerner\",\n    \"Morten Sørensen\"\n   ],\n   \"contribution\": \"Found that industries with more PE activity grow faster and are less volatile, without evidence of negative spillovers.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"An empirical corporate finance economist whose signature contribution is confronting financial contracting theory with detailed contract-level and deal-level data. He is a leading authority on private equity, venture capital and bankruptcy, and one of the finance specialists on the prize committee.\",\n  \"research_lens\": \"Views finance through incentive and contracting problems: agency, control rights, incomplete contracts and the institutions that address them (VC contracts, PE fund structures, bankruptcy procedures). Inference from his record: he would read candidate work in terms of whether theory maps onto real institutions and real contracts.\",\n  \"methods_and_evidence\": \"Hand-collected proprietary micro data (VC term sheets and memos, buyout deal data, Swedish bankruptcy auctions), combined with targeted formal models. Typical outputs are careful descriptive-plus-test empirics and synthesis surveys.\",\n  \"what_they_value_in_contributions\": \"Inferred from his work: theories that are testable and empirically validated; new data that reveals how institutions actually work; and contributions that bridge theory and practice in contract theory, corporate governance and financial intermediation. His own work builds directly on Hart, Holmström and Aghion–Bolton, which suggests he appreciates foundational contract theory and evidence on its real-world relevance.\",\n  \"likely_questions_in_deliberation\": [\n   \"Has the theory been confronted with real contracts or institutional data, and does it survive?\",\n   \"Does the contribution change how we understand financing, governance or distress in actual firms and markets?\",\n   \"How robust is the empirical identification, and is the data genuinely new or informative?\",\n   \"Is the contribution foundational and broadly influential beyond one subfield, including in practice and policy?\",\n   \"How does the work relate to the earlier prizes in finance and contract theory, and is it distinct enough from them?\"\n  ],\n  \"committee_experience\": \"Has served on the committee for multiple prize cycles, plausibly including the years of the 2013 (asset pricing), 2016 (contract theory) and 2022 (banking and financial crises) prizes. Finance-related scientific backgrounds would likely draw on his expertise, but I am not certain of his authorship of specific background documents.\"\n },\n \"knowledge_limits\": \"My knowledge runs to roughly 2024. I am unsure of the exact year he joined the committee, his specific roles in particular prize years, and his authorship of scientific background documents. I have limited knowledge of his most recent papers (2021 onward) and their titles. I make no predictions about his 2026 views.\"\n}\n\nProfile O:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Per Strömberg is the Stockholm School of Economics / Swedish House of Finance scholar known for corporate finance, private equity, venture capital contracting, and bankruptcy-auction research. The affiliation and title identify the well-known finance economist, not a namesake.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Corporate finance, financial contracting, and control rights\",\n   \"jel_codes\": [\n    \"G32\",\n    \"G34\",\n    \"D86\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Private equity, leveraged buyouts, and alternative investment funds\",\n   \"jel_codes\": [\n    \"G23\",\n    \"G24\",\n    \"G32\",\n    \"G34\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Entrepreneurial finance and venture capital contracting\",\n   \"jel_codes\": [\n    \"G24\",\n    \"G32\",\n    \"M13\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Bankruptcy, restructuring, auctions, and market liquidity\",\n   \"jel_codes\": [\n    \"G33\",\n    \"D44\",\n    \"G12\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Real effects of finance: productivity, industry performance, financial fragility\",\n   \"jel_codes\": [\n    \"G34\",\n    \"L25\",\n    \"O16\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Private equity’s real effects on firms and industries, including productivity, employment, operating performance, and resilience or fragility in downturns\",\n   \"period\": \"2019-2024, based mainly on late-2010s publications and continuing professional profile\",\n   \"basis\": \"Research with Bernstein, Lerner, and Sørensen on private equity, industry performance, and crisis fragility; his professorial title and public research identity continue to emphasize finance and private equity.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Leverage, pricing, and capital structure in buyouts and private-equity funds\",\n   \"period\": \"2019-2024 as a continuing research and policy-expertise area\",\n   \"basis\": \"Earlier Journal of Finance and JEP work with Axelson, Jenkinson, Kaplan, and Weisbach remains central to his profile; I do not know of a specific post-2020 paper title to list confidently.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Venture-capital contracting, screening, monitoring, and allocation of control rights\",\n   \"period\": \"Continuing area of expertise rather than necessarily new work in the last five years\",\n   \"basis\": \"Foundational empirical papers with Steven Kaplan on VC contracts and VC analyses; still central to how his work is cited and taught.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Evidence-based assessment of private equity in public debate and policy discussions\",\n   \"period\": \"2019-2024\",\n   \"basis\": \"Inferred from his Swedish House of Finance role and long record of empirical research on private equity’s economic effects; specific recent statements are not in my reliable memory.\",\n   \"confidence\": \"low\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Conflicts of Interest and Market Illiquidity in Bankruptcy Auctions: Theory and Tests\",\n   \"year\": \"2000\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [],\n   \"contribution\": \"Develops and tests how conflicts of interest and thin markets affect bankruptcy auction outcomes, linking corporate restructuring institutions to market liquidity and control allocation.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts\",\n   \"year\": \"2003\",\n   \"venue\": \"Review of Economic Studies\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Uses detailed venture-capital contracts to test theories of staged financing, cash-flow rights, control rights, and state-contingent allocation of authority.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Characteristics, Contracts, and Actions: Evidence from Venture Capitalist Analyses\",\n   \"year\": \"2004\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Studies venture capitalists’ investment memoranda and actions, connecting screening, monitoring, contracting terms, and entrepreneurial-firm characteristics.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Why Are Buyouts Levered? The Financial Structure of Private Equity Funds\",\n   \"year\": \"2009\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [\n    \"Ulf Axelson\",\n    \"Michael S. Weisbach\"\n   ],\n   \"contribution\": \"Explains why private-equity buyouts are highly levered through fund structure and agency problems, offering a theory of leverage in private-equity organizations.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Leveraged Buyouts and Private Equity\",\n   \"year\": \"2009\",\n   \"venue\": \"Journal of Economic Perspectives\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Synthesizes evidence on the economics of leveraged buyouts and private equity, including governance, incentives, leverage, performance, and policy concerns.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts\",\n   \"year\": \"2013\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [\n    \"Ulf Axelson\",\n    \"Tim Jenkinson\",\n    \"Michael S. Weisbach\"\n   ],\n   \"contribution\": \"Provides empirical evidence on how credit-market conditions affect leverage and pricing in leveraged buyouts, linking buyout valuations to debt-market cycles.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Private Equity and Industry Performance\",\n   \"year\": \"2017\",\n   \"venue\": \"Management Science\",\n   \"coauthors\": [\n    \"Shai Bernstein\",\n    \"Josh Lerner\",\n    \"Morten Sørensen\"\n   ],\n   \"contribution\": \"Examines whether industries with private-equity activity experience different subsequent growth and performance, contributing evidence on PE’s broader real effects.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Private Equity and Financial Fragility during the Crisis\",\n   \"year\": \"2019\",\n   \"venue\": \"Review of Financial Studies\",\n   \"coauthors\": [\n    \"Shai Bernstein\",\n    \"Josh Lerner\",\n    \"Morten Sørensen\"\n   ],\n   \"contribution\": \"Studies how private-equity-backed firms fared during the financial crisis, informing the debate over whether PE ownership increases vulnerability or improves resilience.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"Per Strömberg would bring the lens of an empirical corporate-finance economist specializing in private equity, venture capital, financial contracting, and restructuring. His record is strongly institutionally informed: he studies how contracts, ownership, control rights, leverage, and market conditions shape firm behavior and outcomes.\",\n  \"research_lens\": \"He is likely to view candidate work through questions of mechanism and institutional design: who has control rights, what incentives contracts create, how financing structure affects behavior, and what real economic consequences follow. This is an inference from his VC-contracting, buyout-leverage, and bankruptcy-auction work.\",\n  \"methods_and_evidence\": \"His own influential work relies on theory-guided empirical analysis, often using unusually detailed micro data: actual VC contracts, VC investment analyses, buyout transactions, fund or deal-level leverage and pricing data, bankruptcy auctions, and firm/industry outcomes. He would plausibly value credible measurement of otherwise opaque financial arrangements and careful attention to selection, endogeneity, and institutional detail.\",\n  \"what_they_value_in_contributions\": \"His record suggests he would value work that opens up black-box financial institutions with new data, tests important theories against real contracts or transactions, distinguishes private returns from social or real effects, and changes how economists understand governance, incentives, and capital allocation. He would likely appreciate both theoretical clarity and empirical credibility, especially when a contribution reshapes a major field such as corporate finance, financial intermediation, or the economics of organizations.\",\n  \"likely_questions_in_deliberation\": [\n   \"What is the precise economic mechanism, and is it identified rather than merely asserted?\",\n   \"Does the work distinguish financial gains from real productivity, employment, innovation, or welfare effects?\",\n   \"Are the contracts, institutions, and legal or market settings modeled realistically?\",\n   \"How robust is the evidence to selection into financing arrangements, ownership structures, or treatment by investors?\",\n   \"Did the contribution create a durable empirical or theoretical agenda, or mainly document a particular episode?\",\n   \"Is the contribution general enough to merit a prize, while still being grounded in concrete evidence?\",\n   \"How has the work influenced later research, policy debates, or professional practice in finance and economics?\"\n  ],\n  \"committee_experience\": \"The prompt states that he is a member of the 2026 Committee for the Prize in Economic Sciences. I do not have reliable independent detail on the length of his committee service or internal committee roles beyond that.\"\n },\n \"knowledge_limits\": \"I have no web access and rely on pre-existing knowledge up to about June 2024, plus the user-provided 2026 committee role and title. I am confident about his main fields and several representative works, but less certain about specific post-2020 working papers, public statements, and any internal Nobel committee activity. Recent interests are therefore partly inferred from his established research profile and institutional role rather than from a verified list of new publications after 2020.\"\n}\n\nProfile G:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Identified as Per Strömberg, SSE Centennial Professor of Finance and Private Equity at the Stockholm School of Economics and longtime member of the Prize Committee.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Corporate Finance\",\n   \"jel_codes\": [\n    \"G3\",\n    \"G32\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Private Equity and Venture Capital\",\n   \"jel_codes\": [\n    \"G24\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Empirical Contract Theory\",\n   \"jel_codes\": [\n    \"D86\",\n    \"G30\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Talent allocation and the finance wage premium\",\n   \"period\": \"2015-present\",\n   \"basis\": \"Co-authored empirical work using Swedish administrative data to link cognitive and non-cognitive abilities to financial sector compensation.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Climate finance and ESG in private equity\",\n   \"period\": \"2020-present\",\n   \"basis\": \"Recent focus areas at the Swedish House of Finance and discussions on how private markets adapt to ESG mandates.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts\",\n   \"year\": \"2003\",\n   \"venue\": \"Review of Economic Studies\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Empirically tests theoretical predictions of financial contracting theory by analyzing actual venture capital contracts, detailing how they allocate cash flow and control rights.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Leveraged Buyouts and Private Equity\",\n   \"year\": \"2009\",\n   \"venue\": \"Journal of Economic Perspectives\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Provides a highly cited synthesis of the empirical literature on private equity, analyzing value creation mechanisms, agency costs, and the boom-bust cycles of LBOs.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Characteristics, Contracts, and Actions: Evidence from Venture Capitalist Analyses\",\n   \"year\": \"2004\",\n   \"venue\": \"Journal of Finance\",\n   \"coauthors\": [\n    \"Steven N. Kaplan\"\n   ],\n   \"contribution\": \"Examines internal investment analyses of VCs to assess the relative importance of screening, contracting, and monitoring in resolving agency problems.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Since you're so rich, you must be really smart: Talent and the finance wage premium\",\n   \"year\": \"\",\n   \"venue\": \"\",\n   \"coauthors\": [\n    \"Michael Böhm\",\n    \"Daniel Metzger\"\n   ],\n   \"contribution\": \"Uses Swedish registry data to show that the rising wage premium in the finance sector is largely driven by an increased sorting of cognitive and non-cognitive talent into the industry.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"An empirical corporate finance economist renowned for bridging the gap between microeconomic contract theory and real-world financial practices, particularly in venture capital and private equity.\",\n  \"research_lens\": \"Views financial markets and corporate structures through the lens of contract theory, agency conflicts, and information asymmetry. He is highly focused on how specific contractual terms and institutional arrangements resolve these frictions.\",\n  \"methods_and_evidence\": \"Relies heavily on granular, often hand-collected or proprietary micro-datasets, such as actual legal contracts from VC term sheets or detailed Swedish administrative registry data. He designs empirical tests that directly evaluate the predictions of theoretical mechanism design.\",\n  \"what_they_value_in_contributions\": \"Deeply values research that marries rigorous microeconomic theory with robust empirical evidence. He appreciates work that demystifies institutional 'black boxes' (like private equity or bankruptcy) and identifies precise causal mechanisms rather than just reduced-form correlations.\",\n  \"likely_questions_in_deliberation\": [\n   \"Does this empirical work directly test the underlying theoretical mechanism, or does it merely show a correlation?\",\n   \"What specific contractual or institutional frictions does this contribution illuminate?\",\n   \"Is the data granular enough to clearly identify the agency problems at play?\",\n   \"How does this work improve our understanding of capital allocation in the real world?\"\n  ],\n  \"committee_experience\": \"A veteran member of the committee with extensive leadership experience, having previously served as its chairman. He played a central role in articulating the scientific background for the 2016 prize in contract theory and the 2022 prize on banks and financial crises.\"\n },\n \"knowledge_limits\": \"My knowledge of his publication record is solid up to late 2023, though I lack the exact publication year and venue for his more recent papers on talent allocation. I have no access to private committee deliberations, internal voting records, or unpublished working papers from 2024 to 2026.\"\n}"
+      }
+     ],
+     "output_config": {
+      "format": {
+       "type": "json_schema",
+       "schema": {
+        "type": "object",
+        "properties": {
+         "identity": {
+          "type": "object",
+          "properties": {
+           "name": {
+            "type": "string"
+           },
+           "affiliation": {
+            "type": "string"
+           },
+           "recognized_by": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "name",
+           "affiliation",
+           "recognized_by",
+           "note"
+          ],
+          "additionalProperties": false
+         },
+         "fields": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "field": {
+             "type": "string"
+            },
+            "jel_codes": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "field",
+            "jel_codes",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "recent_interests": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "topic": {
+             "type": "string"
+            },
+            "period": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "topic",
+            "period",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "representative_works": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "year": {
+             "type": "string"
+            },
+            "venue": {
+             "type": "string"
+            },
+            "coauthors": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "contribution": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "conflict": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "title",
+            "year",
+            "venue",
+            "coauthors",
+            "contribution",
+            "support",
+            "conflict"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "persona": {
+          "type": "object",
+          "properties": {
+           "summary": {
+            "type": "string"
+           },
+           "research_lens": {
+            "type": "string"
+           },
+           "methods_and_evidence": {
+            "type": "string"
+           },
+           "what_they_value_in_contributions": {
+            "type": "string"
+           },
+           "likely_questions_in_deliberation": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "committee_experience": {
+            "type": "string"
+           },
+           "support_note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "summary",
+           "research_lens",
+           "methods_and_evidence",
+           "what_they_value_in_contributions",
+           "likely_questions_in_deliberation",
+           "committee_experience",
+           "support_note"
+          ],
+          "additionalProperties": false
+         },
+         "disagreements": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         },
+         "caveats": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         }
+        },
+        "required": [
+         "identity",
+         "fields",
+         "recent_interests",
+         "representative_works",
+         "persona",
+         "disagreements",
+         "caveats"
+        ],
+        "additionalProperties": false
+       }
+      },
+      "effort": "high"
+     }
+    }
+   },
+   "http": [
+    {
+     "attempt": 1,
+     "started": "2026-10-09T23:52:18+00:00",
+     "ended": "2026-10-09T23:53:11+00:00",
+     "seconds": 53.2,
+     "status": 200,
+     "headers": {
+      "request-id": "req_011CfsZaKma5ee3sgBgDtHxr"
+     }
+    }
+   ],
+   "response_raw": {
+    "model": "claude-opus-5-5",
+    "id": "msg_011CfsZaLZCa5Ceai52aStNT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "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"
+     },
+     {
+      "type": "text",
+      "text": "{\"identity\":{\"name\":\"Per Strömberg\",\"affiliation\":\"Stockholm School of Economics (Swedish House of Finance)\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him with high confidence as the Swedish financial economist at the Stockholm School of Economics and Swedish House of Finance. He is known for empirical corporate finance on venture capital contracting, private equity and leveraged buyouts, and bankruptcy. O explicitly rules out a namesake. G gives the title as SSE Centennial Professor of Finance and Private Equity; the listed title spells it 'Centencial'. Only A says he was earlier on the faculty of the University of Chicago Graduate School of Business and directed the Swedish Institute for Financial Research (SIFR). On committee service, A says several years (start uncertain, possibly early 2010s), G says longtime member and former chairman, and O gives no detail beyond the 2026 membership.\"},\"fields\":[{\"field\":\"Corporate finance and financial contracting (empirical tests of contract theory, control rights)\",\"jel_codes\":[\"G3\",\"G30\",\"G32\",\"G34\",\"D86\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"G lists Corporate Finance and Empirical Contract Theory as separate fields; A and O combine them. Merged here.\"},{\"field\":\"Private equity, leveraged buyouts, venture capital and entrepreneurial finance\",\"jel_codes\":[\"G23\",\"G24\",\"G32\",\"G34\",\"M13\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"A and G treat PE and VC as one field. O splits it into 'Private equity, leveraged buyouts, and alternative investment funds' and 'Entrepreneurial finance and venture capital contracting'. Merged here.\"},{\"field\":\"Bankruptcy, financial distress, restructuring and bankruptcy auctions/market liquidity\",\"jel_codes\":[\"G33\",\"K22\",\"D44\",\"G12\"],\"support\":[\"A\",\"O\"],\"note\":\"O adds auctions and market liquidity; A adds debt restructuring.\"},{\"field\":\"Corporate governance and executive characteristics\",\"jel_codes\":[\"G34\",\"M12\"],\"support\":[\"A\"],\"note\":\"A rates this medium confidence. It rests partly on the CEO-characteristics paper.\"},{\"field\":\"Financial intermediation and capital structure\",\"jel_codes\":[\"G21\",\"G32\"],\"support\":[\"A\"],\"note\":\"A rates this medium confidence.\"},{\"field\":\"Real effects of finance: productivity, industry performance, financial fragility\",\"jel_codes\":[\"G34\",\"L25\",\"O16\"],\"support\":[\"O\"],\"note\":\"O rates this medium confidence, based on the PE industry-performance and crisis-fragility papers.\"}],\"recent_interests\":[{\"topic\":\"Performance and real effects of private equity on firms and industries (productivity, employment, resilience or fragility in downturns)\",\"period\":\"2015–2024 (A); 2019–2024 (O)\",\"support\":[\"A\",\"O\"],\"note\":\"Both rate this medium confidence. It is based on continuing buyout work with Bernstein, Lerner, Sørensen and others. Neither profile names a specific post-2020 paper.\"},{\"topic\":\"Leverage, pricing and capital structure in buyouts and PE funds\",\"period\":\"2015–2024 (A); 2019–2024 as continuing area (O)\",\"support\":[\"A\",\"O\"],\"note\":\"This continues the Axelson–Jenkinson–Weisbach line of work. O says it knows of no specific post-2020 title.\"},{\"topic\":\"PE fund structure, GP compensation and incentives\",\"period\":\"2015–2024\",\"support\":[\"A\"],\"note\":\"A rates this low confidence; it is an inferred extension of the fund-structure work.\"},{\"topic\":\"Use of Swedish and Nordic register/micro data for corporate finance questions\",\"period\":\"2015–2024\",\"support\":[\"A\"],\"note\":\"A rates this low confidence and has limited knowledge of specific papers. It is loosely consistent with G's report of Swedish registry-based talent research.\"},{\"topic\":\"Venture-capital contracting, screening, monitoring and allocation of control rights\",\"period\":\"Continuing area of expertise, not necessarily new work\",\"support\":[\"O\"],\"note\":\"O rates this medium confidence; it reflects his foundational Kaplan–Strömberg work.\"},{\"topic\":\"Evidence-based assessment of private equity in public and policy debate\",\"period\":\"2019–2024\",\"support\":[\"O\"],\"note\":\"O rates this low confidence and infers it from his institutional role.\"},{\"topic\":\"Talent allocation and the finance wage premium\",\"period\":\"2015–present\",\"support\":[\"G\"],\"note\":\"G rates this high confidence. It is based on co-authored work with Swedish administrative data linking cognitive and non-cognitive abilities to finance-sector pay. A and O do not mention it.\"},{\"topic\":\"Climate finance and ESG in private equity\",\"period\":\"2020–present\",\"support\":[\"G\"],\"note\":\"G rates this medium confidence and bases it on Swedish House of Finance focus areas. No specific works are cited.\"}],\"representative_works\":[{\"title\":\"Conflicts of Interest and Market Illiquidity in Bankruptcy Auctions: Theory and Tests\",\"year\":\"2000\",\"venue\":\"Journal of Finance\",\"coauthors\":[],\"contribution\":\"Theory and tests using Swedish auction-based bankruptcy data. Shows frequent salebacks to former owners, consistent with market illiquidity and creditor conflicts of interest.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts\",\"year\":\"2003\",\"venue\":\"Review of Economic Studies\",\"coauthors\":[\"Steven N. Kaplan\"],\"contribution\":\"Documents how actual VC contracts separately allocate cash-flow, control, voting, board and liquidation rights, often contingent on performance. This is consistent with incomplete-contracting and agency theories.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Characteristics, Contracts, and Actions: Evidence from Venture Capitalist Analyses\",\"year\":\"2004\",\"venue\":\"Journal of Finance\",\"coauthors\":[\"Steven N. Kaplan\"],\"contribution\":\"Uses VCs' internal investment memos to link perceived risks to contract terms. Assesses the roles of screening, contracting and monitoring in resolving agency problems.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Leveraged Buyouts and Private Equity\",\"year\":\"2009\",\"venue\":\"Journal of Economic Perspectives\",\"coauthors\":[\"Steven N. Kaplan\"],\"contribution\":\"Widely cited synthesis of how PE creates value through financial, governance and operational engineering. Also reviews evidence on returns and boom-bust cycles.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Why Are Buyouts Levered? The Financial Structure of Private Equity Funds\",\"year\":\"2009\",\"venue\":\"Journal of Finance\",\"coauthors\":[\"Ulf Axelson\",\"Michael S. Weisbach\"],\"contribution\":\"Theory explaining fund-level equity combined with deal-level debt in PE as a response to agency problems between GPs and LPs.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Which CEO Characteristics and Abilities Matter?\",\"year\":\"2012\",\"venue\":\"Journal of Finance\",\"coauthors\":[\"Steven N. Kaplan\",\"Mark M. Klebanov\",\"Morten Sorensen\"],\"contribution\":\"Uses detailed assessments of CEO candidates in buyout and VC deals to relate personality and ability traits to selection and performance.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts\",\"year\":\"2013\",\"venue\":\"Journal of Finance\",\"coauthors\":[\"Ulf Axelson\",\"Tim Jenkinson\",\"Michael S. Weisbach\"],\"contribution\":\"Shows that buyout leverage tracks credit-market conditions rather than firm-level determinants, and that higher leverage goes with higher prices.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Private Equity and Industry Performance\",\"year\":\"2017\",\"venue\":\"Management Science\",\"coauthors\":[\"Shai Bernstein\",\"Josh Lerner\",\"Morten Sørensen\"],\"contribution\":\"Finds that industries with more PE activity grow faster and are less volatile, without evidence of negative spillovers.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Private Equity and Financial Fragility during the Crisis\",\"year\":\"2019\",\"venue\":\"Review of Financial Studies\",\"coauthors\":[\"Shai Bernstein\",\"Josh Lerner\",\"Morten Sørensen\"],\"contribution\":\"Studies how PE-backed firms fared during the financial crisis, bearing on whether PE ownership increases vulnerability or improves resilience.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Since you're so rich, you must be really smart: Talent and the finance wage premium\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[\"Michael Böhm\",\"Daniel Metzger\"],\"contribution\":\"Uses Swedish registry data to argue that the rising finance-sector wage premium is largely driven by increased sorting of cognitive and non-cognitive talent into finance.\",\"support\":[\"G\"],\"conflict\":\"G gives no year or venue. A and O do not list this work.\"}],\"persona\":{\"summary\":\"An empirical corporate finance economist whose signature contribution is confronting financial contracting theory with detailed contract- and deal-level data. He is a leading authority on private equity, venture capital, buyouts and bankruptcy, and he bridges microeconomic contract theory and real-world financial institutions.\",\"research_lens\":\"He sees finance through incentive and contracting problems: agency conflicts, control rights, incomplete contracts and information asymmetry, and the institutions that address them (VC contracts, PE fund structures, bankruptcy procedures). Inferred from his record, he would read candidate work in terms of mechanism and institutional design: who holds control, what incentives contracts create, and what real consequences follow.\",\"methods_and_evidence\":\"His work relies on theory-guided empirics using granular, often hand-collected or proprietary micro data. Examples are VC term sheets and investment memos, buyout deal leverage and pricing data, Swedish bankruptcy auctions, firm and industry outcomes, and (per G) Swedish administrative registers. These are combined with targeted formal models, plus influential synthesis surveys.\",\"what_they_value_in_contributions\":\"Inferred from his work, he values:\\n- research that marries rigorous theory with credible empirical evidence;\\n- new data that opens up institutional 'black boxes' such as PE, VC and bankruptcy;\\n- tests of major theories against real contracts and transactions;\\n- precise mechanisms rather than mere correlations;\\n- contributions that reshape understanding of governance, incentives and capital allocation.\\nO adds attention to separating private returns from real or social effects. A notes his work builds on Hart, Holmström and Aghion–Bolton.\",\"likely_questions_in_deliberation\":[\"Has the theory been confronted with real contracts or institutional data, and does it survive?\",\"Does the empirical work identify the underlying mechanism, or merely show a correlation?\",\"Are the contracts, institutions and legal or market settings modeled realistically, and is the data granular enough to reveal the frictions at play?\",\"How robust is the evidence to selection into financing arrangements or ownership structures?\",\"Does the work distinguish financial gains from real productivity, employment or welfare effects?\",\"Did the contribution create a durable, broadly influential agenda, including for policy and practice, rather than document a single episode?\",\"How does the work relate to earlier prizes in finance and contract theory, and is it distinct enough?\"],\"committee_experience\":\"He has served on the committee for multiple prize cycles (A, G) and is a member in 2026. A suggests this plausibly spans the 2013, 2016 and 2022 finance- and contract-related prizes. G alone states he previously chaired the committee and played a central role in the scientific backgrounds for the 2016 and 2022 prizes; A is explicitly unsure about his authorship of background documents. O gives no detail on length of service.\",\"support_note\":\"The research lens, methods and values are shared by all three profiles. The committee-experience claims diverge: G's chairmanship and background-document authorship are uncorroborated. A is uncertain, and O declines to state service length. Recent-interest emphasis also diverges: A and O stress continuing PE and buyout work, while G stresses talent allocation and the finance wage premium, and ESG in private equity.\"},\"disagreements\":[\"Committee history: G says he is a veteran member who previously served as chairman and centrally shaped the 2016 and 2022 scientific backgrounds. A says he served multiple cycles, possibly from the early 2010s, but is unsure of roles and authorship. O has no independent information. The chairmanship claim is single-source.\",\"Recent interests: A and O emphasize PE performance, leverage and real effects. G instead lists talent allocation and the finance wage premium, and climate/ESG in PE. These are not mutually exclusive, but there is no overlap across profiles.\",\"Title spelling: G writes 'Centennial'; the listed title reads 'Centencial', likely a typo.\",\"Coauthor spelling: A writes 'Morten Sorensen' for the 2012 CEO paper and 'Morten Sørensen' elsewhere; O uses 'Sørensen'.\",\"Recent-interest periods differ: A gives 2015–2024, O mainly 2019–2024, G 2015–present or 2020–present.\"],\"caveats\":[\"Knowledge cutoffs: A about 2024, O about June 2024, G late 2023. None covers 2025–2026 work.\",\"Single-profile items to verify:\\n- former committee chairmanship and background-document roles (G);\\n- University of Chicago GSB faculty position and SIFR directorship (A);\\n- the 2012 CEO-characteristics paper (A);\\n- the 2019 RFS financial-fragility paper (O);\\n- the talent and finance wage premium paper, which lacks year and venue (G);\\n- the ESG/climate finance interest (G).\",\"Several recent interests are explicitly inferred from his established profile rather than from verified post-2020 publications (A and O say so). A's and O's low-confidence interest items should be treated as speculative.\",\"No namesake issues: all three profiles identify the same SSE / Swedish House of Finance economist, and no entries were dropped.\",\"The persona's evaluative tendencies are inferences from his research record, not evidence of his committee positions. Nothing here predicts his 2026 prize views.\"]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 10458,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 6495,
+     "output_tokens_details": {
+      "thinking_tokens": 1564
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "response_id": "msg_011CfsZaLZCa5Ceai52aStNT",
+   "stop": "end_turn",
+   "truncated": false,
+   "refused": false,
+   "usage": {
+    "input": 10458,
+    "output": 6495,
+    "reasoning": 1564,
+    "cached_input": 0
+   },
+   "usage_raw": {
+    "input_tokens": 10458,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6495,
+    "output_tokens_details": {
+     "thinking_tokens": 1564
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+   },
+   "text": "{\"identity\":{\"name\":\"Per Strömberg\",\"affiliation\":\"Stockholm School of Economics (Swedish House of Finance)\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him with high confidence as the Swedish financial economist at the Stockholm School of Economics and Swedish House of Finance. He is known for empirical corporate finance on venture capital contracting, private equity and leveraged buyouts, and bankruptcy. O explicitly rules out a namesake. G gives the title as SSE Centennial Professor of Finance and Private Equity; the listed title spells it 'Centencial'. Only A says he was earlier on the faculty of the University of Chicago Graduate School of Business and directed the Swedish Institute for Financial Research (SIFR). On committee service, A says several years (start uncertain, possibly early 2010s), G says longtime member and former chairman, and O gives no detail beyond the 2026 membership.\"},\"fields\":[{\"field\":\"Corporate finance and financial contracting (empirical tests of contract theory, control rights)\",\"jel_codes\":[\"G3\",\"G30\",\"G32\",\"G34\",\"D86\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"G lists Corporate Finance and Empirical Contract Theory as separate fields; A and O combine them. Merged here.\"},{\"field\":\"Private equity, leveraged buyouts, venture capital and entrepreneurial finance\",\"jel_codes\":[\"G23\",\"G24\",\"G32\",\"G34\",\"M13\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"A and G treat PE and VC as one field. O splits it into 'Private equity, leveraged buyouts, and alternative investment funds' and 'Entrepreneurial finance and venture capital contracting'. Merged here.\"},{\"field\":\"Bankruptcy, financial distress, restructuring and bankruptcy auctions/market liquidity\",\"jel_codes\":[\"G33\",\"K22\",\"D44\",\"G12\"],\"support\":[\"A\",\"O\"],\"note\":\"O adds auctions and market liquidity; A adds debt restructuring.\"},{\"field\":\"Corporate governance and executive characteristics\",\"jel_codes\":[\"G34\",\"M12\"],\"support\":[\"A\"],\"note\":\"A rates this medium confidence. It rests partly on the CEO-characteristics paper.\"},{\"field\":\"Financial intermediation and capital structure\",\"jel_codes\":[\"G21\",\"G32\"],\"support\":[\"A\"],\"note\":\"A rates this medium confidence.\"},{\"field\":\"Real effects of finance: productivity, industry performance, financial fragility\",\"jel_codes\":[\"G34\",\"L25\",\"O16\"],\"support\":[\"O\"],\"note\":\"O rates this medium confidence, based on the PE industry-performance and crisis-fragility papers.\"}],\"recent_interests\":[{\"topic\":\"Performance and real effects of private equity on firms and industries (productivity, employment, resilience or fragility in downturns)\",\"period\":\"2015–2024 (A); 2019–2024 (O)\",\"support\":[\"A\",\"O\"],\"note\":\"Both rate this medium confidence. It is based on continuing buyout work with Bernstein, Lerner, Sørensen and others. Neither profile names a specific post-2020 paper.\"},{\"topic\":\"Leverage, pricing and capital structure in buyouts and PE funds\",\"period\":\"2015–2024 (A); 2019–2024 as continuing area (O)\",\"support\":[\"A\",\"O\"],\"note\":\"This continues the Axelson–Jenkinson–Weisbach line of work. O says it knows of no specific post-2020 title.\"},{\"topic\":\"PE fund structure, GP compensation and incentives\",\"period\":\"2015–2024\",\"support\":[\"A\"],\"note\":\"A rates this low confidence; it is an inferred extension of the fund-structure work.\"},{\"topic\":\"Use of Swedish and Nordic register/micro data for corporate finance questions\",\"period\":\"2015–2024\",\"support\":[\"A\"],\"note\":\"A rates this low confidence and has limited knowledge of specific papers. It is loosely consistent with G's report of Swedish registry-based talent research.\"},{\"topic\":\"Venture-capital contracting, screening, monitoring and allocation of control rights\",\"period\":\"Continuing area of expertise, not necessarily new work\",\"support\":[\"O\"],\"note\":\"O rates this medium confidence; it reflects his foundational Kaplan–Strömberg work.\"},{\"topic\":\"Evidence-based assessment of private equity in public and policy debate\",\"period\":\"2019–2024\",\"support\":[\"O\"],\"note\":\"O rates this low confidence and infers it from his institutional role.\"},{\"topic\":\"Talent allocation and the finance wage premium\",\"period\":\"2015–present\",\"support\":[\"G\"],\"note\":\"G rates this high confidence. It is based on co-authored work with Swedish administrative data linking cognitive and non-cognitive abilities to finance-sector pay. A and O do not mention it.\"},{\"topic\":\"Climate finance and ESG in private equity\",\"period\":\"2020–present\",\"support\":[\"G\"],\"note\":\"G rates this medium confidence and bases it on Swedish House of Finance focus areas. No specific works are cited.\"}],\"representative_works\":[{\"title\":\"Conflicts of Interest and Market Illiquidity in Bankruptcy Auctions: Theory and Tests\",\"year\":\"2000\",\"venue\":\"Journal of Finance\",\"coauthors\":[],\"contribution\":\"Theory and tests using Swedish auction-based bankruptcy data. Shows frequent salebacks to former owners, consistent with market illiquidity and creditor conflicts of interest.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts\",\"year\":\"2003\",\"venue\":\"Review of Economic Studies\",\"coauthors\":[\"Steven N. Kaplan\"],\"contribution\":\"Documents how actual VC contracts separately allocate cash-flow, control, voting, board and liquidation rights, often contingent on performance. This is consistent with incomplete-contracting and agency theories.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Characteristics, Contracts, and Actions: Evidence from Venture Capitalist Analyses\",\"year\":\"2004\",\"venue\":\"Journal of Finance\",\"coauthors\":[\"Steven N. Kaplan\"],\"contribution\":\"Uses VCs' internal investment memos to link perceived risks to contract terms. Assesses the roles of screening, contracting and monitoring in resolving agency problems.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Leveraged Buyouts and Private Equity\",\"year\":\"2009\",\"venue\":\"Journal of Economic Perspectives\",\"coauthors\":[\"Steven N. Kaplan\"],\"contribution\":\"Widely cited synthesis of how PE creates value through financial, governance and operational engineering. Also reviews evidence on returns and boom-bust cycles.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Why Are Buyouts Levered? The Financial Structure of Private Equity Funds\",\"year\":\"2009\",\"venue\":\"Journal of Finance\",\"coauthors\":[\"Ulf Axelson\",\"Michael S. Weisbach\"],\"contribution\":\"Theory explaining fund-level equity combined with deal-level debt in PE as a response to agency problems between GPs and LPs.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Which CEO Characteristics and Abilities Matter?\",\"year\":\"2012\",\"venue\":\"Journal of Finance\",\"coauthors\":[\"Steven N. Kaplan\",\"Mark M. Klebanov\",\"Morten Sorensen\"],\"contribution\":\"Uses detailed assessments of CEO candidates in buyout and VC deals to relate personality and ability traits to selection and performance.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts\",\"year\":\"2013\",\"venue\":\"Journal of Finance\",\"coauthors\":[\"Ulf Axelson\",\"Tim Jenkinson\",\"Michael S. Weisbach\"],\"contribution\":\"Shows that buyout leverage tracks credit-market conditions rather than firm-level determinants, and that higher leverage goes with higher prices.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Private Equity and Industry Performance\",\"year\":\"2017\",\"venue\":\"Management Science\",\"coauthors\":[\"Shai Bernstein\",\"Josh Lerner\",\"Morten Sørensen\"],\"contribution\":\"Finds that industries with more PE activity grow faster and are less volatile, without evidence of negative spillovers.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Private Equity and Financial Fragility during the Crisis\",\"year\":\"2019\",\"venue\":\"Review of Financial Studies\",\"coauthors\":[\"Shai Bernstein\",\"Josh Lerner\",\"Morten Sørensen\"],\"contribution\":\"Studies how PE-backed firms fared during the financial crisis, bearing on whether PE ownership increases vulnerability or improves resilience.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Since you're so rich, you must be really smart: Talent and the finance wage premium\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[\"Michael Böhm\",\"Daniel Metzger\"],\"contribution\":\"Uses Swedish registry data to argue that the rising finance-sector wage premium is largely driven by increased sorting of cognitive and non-cognitive talent into finance.\",\"support\":[\"G\"],\"conflict\":\"G gives no year or venue. A and O do not list this work.\"}],\"persona\":{\"summary\":\"An empirical corporate finance economist whose signature contribution is confronting financial contracting theory with detailed contract- and deal-level data. He is a leading authority on private equity, venture capital, buyouts and bankruptcy, and he bridges microeconomic contract theory and real-world financial institutions.\",\"research_lens\":\"He sees finance through incentive and contracting problems: agency conflicts, control rights, incomplete contracts and information asymmetry, and the institutions that address them (VC contracts, PE fund structures, bankruptcy procedures). Inferred from his record, he would read candidate work in terms of mechanism and institutional design: who holds control, what incentives contracts create, and what real consequences follow.\",\"methods_and_evidence\":\"His work relies on theory-guided empirics using granular, often hand-collected or proprietary micro data. Examples are VC term sheets and investment memos, buyout deal leverage and pricing data, Swedish bankruptcy auctions, firm and industry outcomes, and (per G) Swedish administrative registers. These are combined with targeted formal models, plus influential synthesis surveys.\",\"what_they_value_in_contributions\":\"Inferred from his work, he values:\\n- research that marries rigorous theory with credible empirical evidence;\\n- new data that opens up institutional 'black boxes' such as PE, VC and bankruptcy;\\n- tests of major theories against real contracts and transactions;\\n- precise mechanisms rather than mere correlations;\\n- contributions that reshape understanding of governance, incentives and capital allocation.\\nO adds attention to separating private returns from real or social effects. A notes his work builds on Hart, Holmström and Aghion–Bolton.\",\"likely_questions_in_deliberation\":[\"Has the theory been confronted with real contracts or institutional data, and does it survive?\",\"Does the empirical work identify the underlying mechanism, or merely show a correlation?\",\"Are the contracts, institutions and legal or market settings modeled realistically, and is the data granular enough to reveal the frictions at play?\",\"How robust is the evidence to selection into financing arrangements or ownership structures?\",\"Does the work distinguish financial gains from real productivity, employment or welfare effects?\",\"Did the contribution create a durable, broadly influential agenda, including for policy and practice, rather than document a single episode?\",\"How does the work relate to earlier prizes in finance and contract theory, and is it distinct enough?\"],\"committee_experience\":\"He has served on the committee for multiple prize cycles (A, G) and is a member in 2026. A suggests this plausibly spans the 2013, 2016 and 2022 finance- and contract-related prizes. G alone states he previously chaired the committee and played a central role in the scientific backgrounds for the 2016 and 2022 prizes; A is explicitly unsure about his authorship of background documents. O gives no detail on length of service.\",\"support_note\":\"The research lens, methods and values are shared by all three profiles. The committee-experience claims diverge: G's chairmanship and background-document authorship are uncorroborated. A is uncertain, and O declines to state service length. Recent-interest emphasis also diverges: A and O stress continuing PE and buyout work, while G stresses talent allocation and the finance wage premium, and ESG in private equity.\"},\"disagreements\":[\"Committee history: G says he is a veteran member who previously served as chairman and centrally shaped the 2016 and 2022 scientific backgrounds. A says he served multiple cycles, possibly from the early 2010s, but is unsure of roles and authorship. O has no independent information. The chairmanship claim is single-source.\",\"Recent interests: A and O emphasize PE performance, leverage and real effects. G instead lists talent allocation and the finance wage premium, and climate/ESG in PE. These are not mutually exclusive, but there is no overlap across profiles.\",\"Title spelling: G writes 'Centennial'; the listed title reads 'Centencial', likely a typo.\",\"Coauthor spelling: A writes 'Morten Sorensen' for the 2012 CEO paper and 'Morten Sørensen' elsewhere; O uses 'Sørensen'.\",\"Recent-interest periods differ: A gives 2015–2024, O mainly 2019–2024, G 2015–present or 2020–present.\"],\"caveats\":[\"Knowledge cutoffs: A about 2024, O about June 2024, G late 2023. None covers 2025–2026 work.\",\"Single-profile items to verify:\\n- former committee chairmanship and background-document roles (G);\\n- University of Chicago GSB faculty position and SIFR directorship (A);\\n- the 2012 CEO-characteristics paper (A);\\n- the 2019 RFS financial-fragility paper (O);\\n- the talent and finance wage premium paper, which lacks year and venue (G);\\n- the ESG/climate finance interest (G).\",\"Several recent interests are explicitly inferred from his established profile rather than from verified post-2020 publications (A and O say so). A's and O's low-confidence interest items should be treated as speculative.\",\"No namesake issues: all three profiles identify the same SSE / Swedish House of Finance economist, and no entries were dropped.\",\"The persona's evaluative tendencies are inferences from his research record, not evidence of his committee positions. Nothing here predicts his 2026 prize views.\"]}",
+   "parsed": {
+    "identity": {
+     "name": "Per Strömberg",
+     "affiliation": "Stockholm School of Economics (Swedish House of Finance)",
+     "recognized_by": [
+      "A",
+      "O",
+      "G"
+     ],
+     "note": "All three profiles recognize him with high confidence as the Swedish financial economist at the Stockholm School of Economics and Swedish House of Finance. He is known for empirical corporate finance on venture capital contracting, private equity and leveraged buyouts, and bankruptcy. O explicitly rules out a namesake. G gives the title as SSE Centennial Professor of Finance and Private Equity; the listed title spells it 'Centencial'. Only A says he was earlier on the faculty of the University of Chicago Graduate School of Business and directed the Swedish Institute for Financial Research (SIFR). On committee service, A says several years (start uncertain, possibly early 2010s), G says longtime member and former chairman, and O gives no detail beyond the 2026 membership."
+    },
+    "fields": [
+     {
+      "field": "Corporate finance and financial contracting (empirical tests of contract theory, control rights)",
+      "jel_codes": [
+       "G3",
+       "G30",
+       "G32",
+       "G34",
+       "D86"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "G lists Corporate Finance and Empirical Contract Theory as separate fields; A and O combine them. Merged here."
+     },
+     {
+      "field": "Private equity, leveraged buyouts, venture capital and entrepreneurial finance",
+      "jel_codes": [
+       "G23",
+       "G24",
+       "G32",
+       "G34",
+       "M13"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "A and G treat PE and VC as one field. O splits it into 'Private equity, leveraged buyouts, and alternative investment funds' and 'Entrepreneurial finance and venture capital contracting'. Merged here."
+     },
+     {
+      "field": "Bankruptcy, financial distress, restructuring and bankruptcy auctions/market liquidity",
+      "jel_codes": [
+       "G33",
+       "K22",
+       "D44",
+       "G12"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "O adds auctions and market liquidity; A adds debt restructuring."
+     },
+     {
+      "field": "Corporate governance and executive characteristics",
+      "jel_codes": [
+       "G34",
+       "M12"
+      ],
+      "support": [
+       "A"
+      ],
+      "note": "A rates this medium confidence. It rests partly on the CEO-characteristics paper."
+     },
+     {
+      "field": "Financial intermediation and capital structure",
+      "jel_codes": [
+       "G21",
+       "G32"
+      ],
+      "support": [
+       "A"
+      ],
+      "note": "A rates this medium confidence."
+     },
+     {
+      "field": "Real effects of finance: productivity, industry performance, financial fragility",
+      "jel_codes": [
+       "G34",
+       "L25",
+       "O16"
+      ],
+      "support": [
+       "O"
+      ],
+      "note": "O rates this medium confidence, based on the PE industry-performance and crisis-fragility papers."
+     }
+    ],
+    "recent_interests": [
+     {
+      "topic": "Performance and real effects of private equity on firms and industries (productivity, employment, resilience or fragility in downturns)",
+      "period": "2015–2024 (A); 2019–2024 (O)",
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "Both rate this medium confidence. It is based on continuing buyout work with Bernstein, Lerner, Sørensen and others. Neither profile names a specific post-2020 paper."
+     },
+     {
+      "topic": "Leverage, pricing and capital structure in buyouts and PE funds",
+      "period": "2015–2024 (A); 2019–2024 as continuing area (O)",
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "This continues the Axelson–Jenkinson–Weisbach line of work. O says it knows of no specific post-2020 title."
+     },
+     {
+      "topic": "PE fund structure, GP compensation and incentives",
+      "period": "2015–2024",
+      "support": [
+       "A"
+      ],
+      "note": "A rates this low confidence; it is an inferred extension of the fund-structure work."
+     },
+     {
+      "topic": "Use of Swedish and Nordic register/micro data for corporate finance questions",
+      "period": "2015–2024",
+      "support": [
+       "A"
+      ],
+      "note": "A rates this low confidence and has limited knowledge of specific papers. It is loosely consistent with G's report of Swedish registry-based talent research."
+     },
+     {
+      "topic": "Venture-capital contracting, screening, monitoring and allocation of control rights",
+      "period": "Continuing area of expertise, not necessarily new work",
+      "support": [
+       "O"
+      ],
+      "note": "O rates this medium confidence; it reflects his foundational Kaplan–Strömberg work."
+     },
+     {
+      "topic": "Evidence-based assessment of private equity in public and policy debate",
+      "period": "2019–2024",
+      "support": [
+       "O"
+      ],
+      "note": "O rates this low confidence and infers it from his institutional role."
+     },
+     {
+      "topic": "Talent allocation and the finance wage premium",
+      "period": "2015–present",
+      "support": [
+       "G"
+      ],
+      "note": "G rates this high confidence. It is based on co-authored work with Swedish administrative data linking cognitive and non-cognitive abilities to finance-sector pay. A and O do not mention it."
+     },
+     {
+      "topic": "Climate finance and ESG in private equity",
+      "period": "2020–present",
+      "support": [
+       "G"
+      ],
+      "note": "G rates this medium confidence and bases it on Swedish House of Finance focus areas. No specific works are cited."
+     }
+    ],
+    "representative_works": [
+     {
+      "title": "Conflicts of Interest and Market Illiquidity in Bankruptcy Auctions: Theory and Tests",
+      "year": "2000",
+      "venue": "Journal of Finance",
+      "coauthors": [],
+      "contribution": "Theory and tests using Swedish auction-based bankruptcy data. Shows frequent salebacks to former owners, consistent with market illiquidity and creditor conflicts of interest.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts",
+      "year": "2003",
+      "venue": "Review of Economic Studies",
+      "coauthors": [
+       "Steven N. Kaplan"
+      ],
+      "contribution": "Documents how actual VC contracts separately allocate cash-flow, control, voting, board and liquidation rights, often contingent on performance. This is consistent with incomplete-contracting and agency theories.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Characteristics, Contracts, and Actions: Evidence from Venture Capitalist Analyses",
+      "year": "2004",
+      "venue": "Journal of Finance",
+      "coauthors": [
+       "Steven N. Kaplan"
+      ],
+      "contribution": "Uses VCs' internal investment memos to link perceived risks to contract terms. Assesses the roles of screening, contracting and monitoring in resolving agency problems.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Leveraged Buyouts and Private Equity",
+      "year": "2009",
+      "venue": "Journal of Economic Perspectives",
+      "coauthors": [
+       "Steven N. Kaplan"
+      ],
+      "contribution": "Widely cited synthesis of how PE creates value through financial, governance and operational engineering. Also reviews evidence on returns and boom-bust cycles.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Why Are Buyouts Levered? The Financial Structure of Private Equity Funds",
+      "year": "2009",
+      "venue": "Journal of Finance",
+      "coauthors": [
+       "Ulf Axelson",
+       "Michael S. Weisbach"
+      ],
+      "contribution": "Theory explaining fund-level equity combined with deal-level debt in PE as a response to agency problems between GPs and LPs.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Which CEO Characteristics and Abilities Matter?",
+      "year": "2012",
+      "venue": "Journal of Finance",
+      "coauthors": [
+       "Steven N. Kaplan",
+       "Mark M. Klebanov",
+       "Morten Sorensen"
+      ],
+      "contribution": "Uses detailed assessments of CEO candidates in buyout and VC deals to relate personality and ability traits to selection and performance.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts",
+      "year": "2013",
+      "venue": "Journal of Finance",
+      "coauthors": [
+       "Ulf Axelson",
+       "Tim Jenkinson",
+       "Michael S. Weisbach"
+      ],
+      "contribution": "Shows that buyout leverage tracks credit-market conditions rather than firm-level determinants, and that higher leverage goes with higher prices.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Private Equity and Industry Performance",
+      "year": "2017",
+      "venue": "Management Science",
+      "coauthors": [
+       "Shai Bernstein",
+       "Josh Lerner",
+       "Morten Sørensen"
+      ],
+      "contribution": "Finds that industries with more PE activity grow faster and are less volatile, without evidence of negative spillovers.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Private Equity and Financial Fragility during the Crisis",
+      "year": "2019",
+      "venue": "Review of Financial Studies",
+      "coauthors": [
+       "Shai Bernstein",
+       "Josh Lerner",
+       "Morten Sørensen"
+      ],
+      "contribution": "Studies how PE-backed firms fared during the financial crisis, bearing on whether PE ownership increases vulnerability or improves resilience.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Since you're so rich, you must be really smart: Talent and the finance wage premium",
+      "year": "",
+      "venue": "",
+      "coauthors": [
+       "Michael Böhm",
+       "Daniel Metzger"
+      ],
+      "contribution": "Uses Swedish registry data to argue that the rising finance-sector wage premium is largely driven by increased sorting of cognitive and non-cognitive talent into finance.",
+      "support": [
+       "G"
+      ],
+      "conflict": "G gives no year or venue. A and O do not list this work."
+     }
+    ],
+    "persona": {
+     "summary": "An empirical corporate finance economist whose signature contribution is confronting financial contracting theory with detailed contract- and deal-level data. He is a leading authority on private equity, venture capital, buyouts and bankruptcy, and he bridges microeconomic contract theory and real-world financial institutions.",
+     "research_lens": "He sees finance through incentive and contracting problems: agency conflicts, control rights, incomplete contracts and information asymmetry, and the institutions that address them (VC contracts, PE fund structures, bankruptcy procedures). Inferred from his record, he would read candidate work in terms of mechanism and institutional design: who holds control, what incentives contracts create, and what real consequences follow.",
+     "methods_and_evidence": "His work relies on theory-guided empirics using granular, often hand-collected or proprietary micro data. Examples are VC term sheets and investment memos, buyout deal leverage and pricing data, Swedish bankruptcy auctions, firm and industry outcomes, and (per G) Swedish administrative registers. These are combined with targeted formal models, plus influential synthesis surveys.",
+     "what_they_value_in_contributions": "Inferred from his work, he values:\n- research that marries rigorous theory with credible empirical evidence;\n- new data that opens up institutional 'black boxes' such as PE, VC and bankruptcy;\n- tests of major theories against real contracts and transactions;\n- precise mechanisms rather than mere correlations;\n- contributions that reshape understanding of governance, incentives and capital allocation.\nO adds attention to separating private returns from real or social effects. A notes his work builds on Hart, Holmström and Aghion–Bolton.",
+     "likely_questions_in_deliberation": [
+      "Has the theory been confronted with real contracts or institutional data, and does it survive?",
+      "Does the empirical work identify the underlying mechanism, or merely show a correlation?",
+      "Are the contracts, institutions and legal or market settings modeled realistically, and is the data granular enough to reveal the frictions at play?",
+      "How robust is the evidence to selection into financing arrangements or ownership structures?",
+      "Does the work distinguish financial gains from real productivity, employment or welfare effects?",
+      "Did the contribution create a durable, broadly influential agenda, including for policy and practice, rather than document a single episode?",
+      "How does the work relate to earlier prizes in finance and contract theory, and is it distinct enough?"
+     ],
+     "committee_experience": "He has served on the committee for multiple prize cycles (A, G) and is a member in 2026. A suggests this plausibly spans the 2013, 2016 and 2022 finance- and contract-related prizes. G alone states he previously chaired the committee and played a central role in the scientific backgrounds for the 2016 and 2022 prizes; A is explicitly unsure about his authorship of background documents. O gives no detail on length of service.",
+     "support_note": "The research lens, methods and values are shared by all three profiles. The committee-experience claims diverge: G's chairmanship and background-document authorship are uncorroborated. A is uncertain, and O declines to state service length. Recent-interest emphasis also diverges: A and O stress continuing PE and buyout work, while G stresses talent allocation and the finance wage premium, and ESG in private equity."
+    },
+    "disagreements": [
+     "Committee history: G says he is a veteran member who previously served as chairman and centrally shaped the 2016 and 2022 scientific backgrounds. A says he served multiple cycles, possibly from the early 2010s, but is unsure of roles and authorship. O has no independent information. The chairmanship claim is single-source.",
+     "Recent interests: A and O emphasize PE performance, leverage and real effects. G instead lists talent allocation and the finance wage premium, and climate/ESG in PE. These are not mutually exclusive, but there is no overlap across profiles.",
+     "Title spelling: G writes 'Centennial'; the listed title reads 'Centencial', likely a typo.",
+     "Coauthor spelling: A writes 'Morten Sorensen' for the 2012 CEO paper and 'Morten Sørensen' elsewhere; O uses 'Sørensen'.",
+     "Recent-interest periods differ: A gives 2015–2024, O mainly 2019–2024, G 2015–present or 2020–present."
+    ],
+    "caveats": [
+     "Knowledge cutoffs: A about 2024, O about June 2024, G late 2023. None covers 2025–2026 work.",
+     "Single-profile items to verify:\n- former committee chairmanship and background-document roles (G);\n- University of Chicago GSB faculty position and SIFR directorship (A);\n- the 2012 CEO-characteristics paper (A);\n- the 2019 RFS financial-fragility paper (O);\n- the talent and finance wage premium paper, which lacks year and venue (G);\n- the ESG/climate finance interest (G).",
+     "Several recent interests are explicitly inferred from his established profile rather than from verified post-2020 publications (A and O say so). A's and O's low-confidence interest items should be treated as speculative.",
+     "No namesake issues: all three profiles identify the same SSE / Swedish House of Finance economist, and no entries were dropped.",
+     "The persona's evaluative tendencies are inferences from his research record, not evidence of his committee positions. Nothing here predicts his 2026 prize views."
+    ]
+   },
+   "parse_error": null,
+   "error": null,
+   "stop_details": null,
+   "errors": []
+  }
+ ],
+ "valid": true,
+ "errors": [],
+ "profile": {
+  "identity": {
+   "name": "Per Strömberg",
+   "affiliation": "Stockholm School of Economics (Swedish House of Finance)",
+   "recognized_by": [
+    "A",
+    "O",
+    "G"
+   ],
+   "note": "All three profiles recognize him with high confidence as the Swedish financial economist at the Stockholm School of Economics and Swedish House of Finance. He is known for empirical corporate finance on venture capital contracting, private equity and leveraged buyouts, and bankruptcy. O explicitly rules out a namesake. G gives the title as SSE Centennial Professor of Finance and Private Equity; the listed title spells it 'Centencial'. Only A says he was earlier on the faculty of the University of Chicago Graduate School of Business and directed the Swedish Institute for Financial Research (SIFR). On committee service, A says several years (start uncertain, possibly early 2010s), G says longtime member and former chairman, and O gives no detail beyond the 2026 membership."
+  },
+  "fields": [
+   {
+    "field": "Corporate finance and financial contracting (empirical tests of contract theory, control rights)",
+    "jel_codes": [
+     "G3",
+     "G30",
+     "G32",
+     "G34",
+     "D86"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "G lists Corporate Finance and Empirical Contract Theory as separate fields; A and O combine them. Merged here."
+   },
+   {
+    "field": "Private equity, leveraged buyouts, venture capital and entrepreneurial finance",
+    "jel_codes": [
+     "G23",
+     "G24",
+     "G32",
+     "G34",
+     "M13"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "A and G treat PE and VC as one field. O splits it into 'Private equity, leveraged buyouts, and alternative investment funds' and 'Entrepreneurial finance and venture capital contracting'. Merged here."
+   },
+   {
+    "field": "Bankruptcy, financial distress, restructuring and bankruptcy auctions/market liquidity",
+    "jel_codes": [
+     "G33",
+     "K22",
+     "D44",
+     "G12"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "O adds auctions and market liquidity; A adds debt restructuring."
+   },
+   {
+    "field": "Corporate governance and executive characteristics",
+    "jel_codes": [
+     "G34",
+     "M12"
+    ],
+    "support": [
+     "A"
+    ],
+    "note": "A rates this medium confidence. It rests partly on the CEO-characteristics paper."
+   },
+   {
+    "field": "Financial intermediation and capital structure",
+    "jel_codes": [
+     "G21",
+     "G32"
+    ],
+    "support": [
+     "A"
+    ],
+    "note": "A rates this medium confidence."
+   },
+   {
+    "field": "Real effects of finance: productivity, industry performance, financial fragility",
+    "jel_codes": [
+     "G34",
+     "L25",
+     "O16"
+    ],
+    "support": [
+     "O"
+    ],
+    "note": "O rates this medium confidence, based on the PE industry-performance and crisis-fragility papers."
+   }
+  ],
+  "recent_interests": [
+   {
+    "topic": "Performance and real effects of private equity on firms and industries (productivity, employment, resilience or fragility in downturns)",
+    "period": "2015–2024 (A); 2019–2024 (O)",
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "Both rate this medium confidence. It is based on continuing buyout work with Bernstein, Lerner, Sørensen and others. Neither profile names a specific post-2020 paper."
+   },
+   {
+    "topic": "Leverage, pricing and capital structure in buyouts and PE funds",
+    "period": "2015–2024 (A); 2019–2024 as continuing area (O)",
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "This continues the Axelson–Jenkinson–Weisbach line of work. O says it knows of no specific post-2020 title."
+   },
+   {
+    "topic": "PE fund structure, GP compensation and incentives",
+    "period": "2015–2024",
+    "support": [
+     "A"
+    ],
+    "note": "A rates this low confidence; it is an inferred extension of the fund-structure work."
+   },
+   {
+    "topic": "Use of Swedish and Nordic register/micro data for corporate finance questions",
+    "period": "2015–2024",
+    "support": [
+     "A"
+    ],
+    "note": "A rates this low confidence and has limited knowledge of specific papers. It is loosely consistent with G's report of Swedish registry-based talent research."
+   },
+   {
+    "topic": "Venture-capital contracting, screening, monitoring and allocation of control rights",
+    "period": "Continuing area of expertise, not necessarily new work",
+    "support": [
+     "O"
+    ],
+    "note": "O rates this medium confidence; it reflects his foundational Kaplan–Strömberg work."
+   },
+   {
+    "topic": "Evidence-based assessment of private equity in public and policy debate",
+    "period": "2019–2024",
+    "support": [
+     "O"
+    ],
+    "note": "O rates this low confidence and infers it from his institutional role."
+   },
+   {
+    "topic": "Talent allocation and the finance wage premium",
+    "period": "2015–present",
+    "support": [
+     "G"
+    ],
+    "note": "G rates this high confidence. It is based on co-authored work with Swedish administrative data linking cognitive and non-cognitive abilities to finance-sector pay. A and O do not mention it."
+   },
+   {
+    "topic": "Climate finance and ESG in private equity",
+    "period": "2020–present",
+    "support": [
+     "G"
+    ],
+    "note": "G rates this medium confidence and bases it on Swedish House of Finance focus areas. No specific works are cited."
+   }
+  ],
+  "representative_works": [
+   {
+    "title": "Conflicts of Interest and Market Illiquidity in Bankruptcy Auctions: Theory and Tests",
+    "year": "2000",
+    "venue": "Journal of Finance",
+    "coauthors": [],
+    "contribution": "Theory and tests using Swedish auction-based bankruptcy data. Shows frequent salebacks to former owners, consistent with market illiquidity and creditor conflicts of interest.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts",
+    "year": "2003",
+    "venue": "Review of Economic Studies",
+    "coauthors": [
+     "Steven N. Kaplan"
+    ],
+    "contribution": "Documents how actual VC contracts separately allocate cash-flow, control, voting, board and liquidation rights, often contingent on performance. This is consistent with incomplete-contracting and agency theories.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Characteristics, Contracts, and Actions: Evidence from Venture Capitalist Analyses",
+    "year": "2004",
+    "venue": "Journal of Finance",
+    "coauthors": [
+     "Steven N. Kaplan"
+    ],
+    "contribution": "Uses VCs' internal investment memos to link perceived risks to contract terms. Assesses the roles of screening, contracting and monitoring in resolving agency problems.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Leveraged Buyouts and Private Equity",
+    "year": "2009",
+    "venue": "Journal of Economic Perspectives",
+    "coauthors": [
+     "Steven N. Kaplan"
+    ],
+    "contribution": "Widely cited synthesis of how PE creates value through financial, governance and operational engineering. Also reviews evidence on returns and boom-bust cycles.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Why Are Buyouts Levered? The Financial Structure of Private Equity Funds",
+    "year": "2009",
+    "venue": "Journal of Finance",
+    "coauthors": [
+     "Ulf Axelson",
+     "Michael S. Weisbach"
+    ],
+    "contribution": "Theory explaining fund-level equity combined with deal-level debt in PE as a response to agency problems between GPs and LPs.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Which CEO Characteristics and Abilities Matter?",
+    "year": "2012",
+    "venue": "Journal of Finance",
+    "coauthors": [
+     "Steven N. Kaplan",
+     "Mark M. Klebanov",
+     "Morten Sorensen"
+    ],
+    "contribution": "Uses detailed assessments of CEO candidates in buyout and VC deals to relate personality and ability traits to selection and performance.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts",
+    "year": "2013",
+    "venue": "Journal of Finance",
+    "coauthors": [
+     "Ulf Axelson",
+     "Tim Jenkinson",
+     "Michael S. Weisbach"
+    ],
+    "contribution": "Shows that buyout leverage tracks credit-market conditions rather than firm-level determinants, and that higher leverage goes with higher prices.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Private Equity and Industry Performance",
+    "year": "2017",
+    "venue": "Management Science",
+    "coauthors": [
+     "Shai Bernstein",
+     "Josh Lerner",
+     "Morten Sørensen"
+    ],
+    "contribution": "Finds that industries with more PE activity grow faster and are less volatile, without evidence of negative spillovers.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Private Equity and Financial Fragility during the Crisis",
+    "year": "2019",
+    "venue": "Review of Financial Studies",
+    "coauthors": [
+     "Shai Bernstein",
+     "Josh Lerner",
+     "Morten Sørensen"
+    ],
+    "contribution": "Studies how PE-backed firms fared during the financial crisis, bearing on whether PE ownership increases vulnerability or improves resilience.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Since you're so rich, you must be really smart: Talent and the finance wage premium",
+    "year": "",
+    "venue": "",
+    "coauthors": [
+     "Michael Böhm",
+     "Daniel Metzger"
+    ],
+    "contribution": "Uses Swedish registry data to argue that the rising finance-sector wage premium is largely driven by increased sorting of cognitive and non-cognitive talent into finance.",
+    "support": [
+     "G"
+    ],
+    "conflict": "G gives no year or venue. A and O do not list this work.",
+    "support_checked": [
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   }
+  ],
+  "persona": {
+   "summary": "An empirical corporate finance economist whose signature contribution is confronting financial contracting theory with detailed contract- and deal-level data. He is a leading authority on private equity, venture capital, buyouts and bankruptcy, and he bridges microeconomic contract theory and real-world financial institutions.",
+   "research_lens": "He sees finance through incentive and contracting problems: agency conflicts, control rights, incomplete contracts and information asymmetry, and the institutions that address them (VC contracts, PE fund structures, bankruptcy procedures). Inferred from his record, he would read candidate work in terms of mechanism and institutional design: who holds control, what incentives contracts create, and what real consequences follow.",
+   "methods_and_evidence": "His work relies on theory-guided empirics using granular, often hand-collected or proprietary micro data. Examples are VC term sheets and investment memos, buyout deal leverage and pricing data, Swedish bankruptcy auctions, firm and industry outcomes, and (per G) Swedish administrative registers. These are combined with targeted formal models, plus influential synthesis surveys.",
+   "what_they_value_in_contributions": "Inferred from his work, he values:\n- research that marries rigorous theory with credible empirical evidence;\n- new data that opens up institutional 'black boxes' such as PE, VC and bankruptcy;\n- tests of major theories against real contracts and transactions;\n- precise mechanisms rather than mere correlations;\n- contributions that reshape understanding of governance, incentives and capital allocation.\nO adds attention to separating private returns from real or social effects. A notes his work builds on Hart, Holmström and Aghion–Bolton.",
+   "likely_questions_in_deliberation": [
+    "Has the theory been confronted with real contracts or institutional data, and does it survive?",
+    "Does the empirical work identify the underlying mechanism, or merely show a correlation?",
+    "Are the contracts, institutions and legal or market settings modeled realistically, and is the data granular enough to reveal the frictions at play?",
+    "How robust is the evidence to selection into financing arrangements or ownership structures?",
+    "Does the work distinguish financial gains from real productivity, employment or welfare effects?",
+    "Did the contribution create a durable, broadly influential agenda, including for policy and practice, rather than document a single episode?",
+    "How does the work relate to earlier prizes in finance and contract theory, and is it distinct enough?"
+   ],
+   "committee_experience": "He has served on the committee for multiple prize cycles (A, G) and is a member in 2026. A suggests this plausibly spans the 2013, 2016 and 2022 finance- and contract-related prizes. G alone states he previously chaired the committee and played a central role in the scientific backgrounds for the 2016 and 2022 prizes; A is explicitly unsure about his authorship of background documents. O gives no detail on length of service.",
+   "support_note": "The research lens, methods and values are shared by all three profiles. The committee-experience claims diverge: G's chairmanship and background-document authorship are uncorroborated. A is uncertain, and O declines to state service length. Recent-interest emphasis also diverges: A and O stress continuing PE and buyout work, while G stresses talent allocation and the finance wage premium, and ESG in private equity."
+  },
+  "disagreements": [
+   "Committee history: G says he is a veteran member who previously served as chairman and centrally shaped the 2016 and 2022 scientific backgrounds. A says he served multiple cycles, possibly from the early 2010s, but is unsure of roles and authorship. O has no independent information. The chairmanship claim is single-source.",
+   "Recent interests: A and O emphasize PE performance, leverage and real effects. G instead lists talent allocation and the finance wage premium, and climate/ESG in PE. These are not mutually exclusive, but there is no overlap across profiles.",
+   "Title spelling: G writes 'Centennial'; the listed title reads 'Centencial', likely a typo.",
+   "Coauthor spelling: A writes 'Morten Sorensen' for the 2012 CEO paper and 'Morten Sørensen' elsewhere; O uses 'Sørensen'.",
+   "Recent-interest periods differ: A gives 2015–2024, O mainly 2019–2024, G 2015–present or 2020–present."
+  ],
+  "caveats": [
+   "Knowledge cutoffs: A about 2024, O about June 2024, G late 2023. None covers 2025–2026 work.",
+   "Single-profile items to verify:\n- former committee chairmanship and background-document roles (G);\n- University of Chicago GSB faculty position and SIFR directorship (A);\n- the 2012 CEO-characteristics paper (A);\n- the 2019 RFS financial-fragility paper (O);\n- the talent and finance wage premium paper, which lacks year and venue (G);\n- the ESG/climate finance interest (G).",
+   "Several recent interests are explicitly inferred from his established profile rather than from verified post-2020 publications (A and O say so). A's and O's low-confidence interest items should be treated as speculative.",
+   "No namesake issues: all three profiles identify the same SSE / Swedish House of Finance economist, and no entries were dropped.",
+   "The persona's evaluative tendencies are inferences from his research record, not evidence of his committee positions. Nothing here predicts his 2026 prize views."
+  ]
+ },
+ "per_model": {
+  "A": {
+   "persona_summary": "An empirical corporate finance economist whose signature contribution is confronting financial contracting theory with detailed contract-level and deal-level data. He is a leading authority on private equity, venture capital and bankruptcy, and one of the finance specialists on the prize committee.",
+   "identity_note": "Per Strömberg is a Swedish financial economist, professor of finance and private equity at the Stockholm School of Economics and associated with the Swedish House of Finance. He was earlier on the faculty of the University of Chicago Graduate School of Business and directed the Swedish Institute for Financial Research (SIFR). He is known for empirical corporate finance on venture capital contracts, private equity and leveraged buyouts, and bankruptcy. He has served on the Economic Sciences Prize Committee for a number of years; the exact start date is uncertain to me, possibly early 2010s.",
+   "knowledge_limits": "My knowledge runs to roughly 2024. I am unsure of the exact year he joined the committee, his specific roles in particular prize years, and his authorship of scientific background documents. I have limited knowledge of his most recent papers (2021 onward) and their titles. I make no predictions about his 2026 views."
+  },
+  "O": {
+   "persona_summary": "Per Strömberg would bring the lens of an empirical corporate-finance economist specializing in private equity, venture capital, financial contracting, and restructuring. His record is strongly institutionally informed: he studies how contracts, ownership, control rights, leverage, and market conditions shape firm behavior and outcomes.",
+   "identity_note": "Per Strömberg is the Stockholm School of Economics / Swedish House of Finance scholar known for corporate finance, private equity, venture capital contracting, and bankruptcy-auction research. The affiliation and title identify the well-known finance economist, not a namesake.",
+   "knowledge_limits": "I have no web access and rely on pre-existing knowledge up to about June 2024, plus the user-provided 2026 committee role and title. I am confident about his main fields and several representative works, but less certain about specific post-2020 working papers, public statements, and any internal Nobel committee activity. Recent interests are therefore partly inferred from his established research profile and institutional role rather than from a verified list of new publications after 2020."
+  },
+  "G": {
+   "persona_summary": "An empirical corporate finance economist renowned for bridging the gap between microeconomic contract theory and real-world financial practices, particularly in venture capital and private equity.",
+   "identity_note": "Identified as Per Strömberg, SSE Centennial Professor of Finance and Private Equity at the Stockholm School of Economics and longtime member of the Prize Committee.",
+   "knowledge_limits": "My knowledge of his publication record is solid up to late 2023, though I lack the exact publication year and venue for his more recent papers on talent allocation. I have no access to private committee deliberations, internal voting records, or unpublished working papers from 2024 to 2026."
+  }
+ },
+ "stats": {
+  "fields": 6,
+  "interests": 8,
+  "works": 10,
+  "works_all_models": 3,
+  "works_one_model": 3,
+  "works_not_in_inputs": 0,
+  "works_support_differs": 0,
+  "disagreements": 5,
+  "caveats": 5
+ }
+}

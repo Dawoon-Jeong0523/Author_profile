@@ -1,0 +1,2186 @@
+{
+ "field": "Public, Law, Political Economy",
+ "slug": "public",
+ "generated": "2026-10-10T19:29:41+00:00",
+ "integrator": "claude-opus-5-5",
+ "stamp": "25e93a7b08d4d939",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 11,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "n_nominations": 165,
+ "n_candidates": 22,
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models (max 15)",
+ "warnings": [],
+ "call": {
+  "attempts": 1,
+  "usd": 0.4857,
+  "usage": [
+   {
+    "input": 48711,
+    "output": 14543,
+    "reasoning": 5769,
+    "cached_input": 0
+   }
+  ]
+ },
+ "candidates": [
+  {
+   "rank": 1,
+   "motivation": "for the analysis of how political institutions and constitutions shape economic and fiscal policy",
+   "jel_code": "D72",
+   "jel_code_mode": "D72",
+   "score": 10.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 4.4545,
+    "gpt-5.5-2026-04-23": 3.5455,
+    "gemini-3.1-pro-preview": 2.3636
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 30,
+   "nominations_per_model": {
+    "A": 11,
+    "O": 11,
+    "G": 8
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (A, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (A, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Torsten Persson",
+     "born": 1954,
+     "affiliation": "Stockholm University",
+     "n_nominations": 30,
+     "models": "A O G",
+     "weight": 10.3636
+    },
+    {
+     "name": "Guido Tabellini",
+     "born": 1956,
+     "affiliation": "Bocconi University",
+     "n_nominations": 30,
+     "models": "A O G",
+     "weight": 10.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Timothy Besley",
+     "affiliation": "London School of Economics",
+     "born": 1960,
+     "weight": 1.3636,
+     "n_nominations": 4
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Persson and Tabellini, 2000: Political Economics: Explaining Economic Policy, MIT Press",
+     "people": [
+      "Torsten Persson",
+      "Guido Tabellini"
+     ],
+     "n_nominations": 29,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Persson and Tabellini, 2003: The Economic Effects of Constitutions, MIT Press",
+     "people": [
+      "Torsten Persson",
+      "Guido Tabellini"
+     ],
+     "n_nominations": 22,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Persson and Tabellini, 1994: Is Inequality Harmful for Growth?, American Economic Review",
+     "people": [
+      "Torsten Persson",
+      "Guido Tabellini"
+     ],
+     "n_nominations": 8,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Persson, Roland and Tabellini, 1997: Separation of Powers and Political Accountability, Quarterly Journal of Economics",
+     "people": [
+      "Torsten Persson",
+      "Guido Tabellini"
+     ],
+     "n_nominations": 7,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators credit Persson and Tabellini with making political economics a rigorous field of equilibrium policy models confronted with cross-country evidence on electoral rules and constitutions. The recurring reservation is fragile cross-country identification of constitutional effects, plus proximity to the 2024 institutions prize and Persson's IIES ties and past committee role.",
+   "grouping_note": "Four nominations (n046, n073, n092, n098) add Timothy Besley and partly state-capacity or citizen-candidate work, but their core is the Persson-Tabellini programme, so Besley is left out of this lineup and his own work appears in separate candidates.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#1",
+    "anthropic/tommy-andersson/#1",
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/per-stromberg/#2",
+    "anthropic/timo-boppart/#1",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/richard-friberg/#2",
+    "anthropic/randi-hjalmarsson/#2",
+    "anthropic/jan-teorell/#1",
+    "anthropic/per-krusell/#1",
+    "openai/john-hassler/#2",
+    "openai/tommy-andersson/#3",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/peter-fredriksson/#3",
+    "openai/per-stromberg/#2",
+    "openai/timo-boppart/#2",
+    "openai/kerstin-enflo/#3",
+    "openai/richard-friberg/#2",
+    "openai/randi-hjalmarsson/#3",
+    "openai/jan-teorell/#1",
+    "openai/per-krusell/#2",
+    "gemini/tommy-andersson/#2",
+    "gemini/anna-dreber-almenberg/#5",
+    "gemini/peter-fredriksson/#3",
+    "gemini/per-stromberg/#3",
+    "gemini/richard-friberg/#3",
+    "gemini/randi-hjalmarsson/#4",
+    "gemini/jan-teorell/#1",
+    "gemini/per-krusell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "motivation": "for linking optimal tax and social insurance theory to empirically estimable sufficient statistics",
+   "jel_code": "H21",
+   "jel_code_mode": "H21",
+   "score": 5.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 1.6364,
+    "gpt-5.5-2026-04-23": 2.7273,
+    "gemini-3.1-pro-preview": 1.1818
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 8,
+   "n_nominations": 14,
+   "nominations_per_model": {
+    "A": 5,
+    "O": 6,
+    "G": 3
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "John Hassler (O)",
+    "Per Krusell (A, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Emmanuel Saez",
+     "born": 1972,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 13,
+     "models": "A O G",
+     "weight": 5.3636
+    },
+    {
+     "name": "Raj Chetty",
+     "born": 1979,
+     "affiliation": "Harvard University",
+     "n_nominations": 12,
+     "models": "A O G",
+     "weight": 5.0
+    },
+    {
+     "name": "Henrik Kleven",
+     "born": 1973,
+     "affiliation": "Princeton University",
+     "n_nominations": 6,
+     "models": "A O",
+     "weight": 2.5455
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Thomas Piketty",
+     "affiliation": "Paris School of Economics and EHESS",
+     "born": 1971,
+     "weight": 1.3636,
+     "n_nominations": 3
+    },
+    {
+     "name": "Joel Slemrod",
+     "affiliation": "University of Michigan",
+     "born": 1951,
+     "weight": 0.2727,
+     "n_nominations": 1
+    },
+    {
+     "name": "Martin N. Baily",
+     "affiliation": "Brookings Institution",
+     "born": 1945,
+     "weight": 0.1818,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Saez, 2001: Using Elasticities to Derive Optimal Income Tax Rates, Review of Economic Studies",
+     "people": [
+      "Emmanuel Saez"
+     ],
+     "n_nominations": 12,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Chetty, 2009: Sufficient Statistics for Welfare Analysis, Annual Review of Economics",
+     "people": [
+      "Raj Chetty"
+     ],
+     "n_nominations": 5,
+     "models": "A G",
+     "in_nominations": true
+    },
+    {
+     "work": "Kleven and Waseem, 2013: Using notches to uncover optimization frictions and structural elasticities, Quarterly Journal of Economics",
+     "people": [
+      "Henrik Kleven"
+     ],
+     "n_nominations": 2,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Kleven, Knudsen, Kreiner, Pedersen and Saez, 2011: \"Unwilling or Unable to Cheat? Evidence from a Tax Audit Experiment in Denmark\", Econometrica",
+     "people": [
+      "Henrik Kleven",
+      "Emmanuel Saez"
+     ],
+     "n_nominations": 3,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators credit this work with making normative tax and insurance theory testable through elasticities estimated from administrative data and designs such as bunching. Reservations are the youth of the candidates, the breadth of contributors, and that sufficient statistics can miss general-equilibrium feedback and elasticities vary across settings.",
+   "grouping_note": "Includes nominations adding Piketty (n091, n096, n106) or Slemrod (n043) and the Baily-Chetty social-insurance formula nomination (n019), all centred on Saez 2001 and Chetty 2009; Piketty, Slemrod and Baily are left out of this lineup.",
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/richard-friberg/#1",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/per-krusell/#3",
+    "openai/john-hassler/#1",
+    "openai/peter-fredriksson/#1",
+    "openai/timo-boppart/#1",
+    "openai/richard-friberg/#1",
+    "openai/randi-hjalmarsson/#1",
+    "openai/per-krusell/#1",
+    "gemini/tommy-andersson/#3",
+    "gemini/peter-fredriksson/#1",
+    "gemini/richard-friberg/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "motivation": "for the economic analysis of law, liability and enforcement",
+   "jel_code": "K13",
+   "jel_code_mode": "K13",
+   "score": 5.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 2.1818,
+    "gpt-5.5-2026-04-23": 2.8182,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 21,
+   "nominations_per_model": {
+    "A": 9,
+    "O": 11,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, O)",
+    "John Hassler (A, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (A, O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Steven Shavell",
+     "born": 1946,
+     "affiliation": "Harvard University",
+     "n_nominations": 18,
+     "models": "A O G",
+     "weight": 4.3636
+    },
+    {
+     "name": "Richard A. Posner",
+     "born": 1939,
+     "affiliation": "University of Chicago",
+     "n_nominations": 13,
+     "models": "A O G",
+     "weight": 3.6364
+    },
+    {
+     "name": "Guido Calabresi",
+     "born": 1932,
+     "affiliation": "Yale Law School",
+     "n_nominations": 9,
+     "models": "A O",
+     "weight": 2.7273
+    }
+   ],
+   "people_others": [
+    {
+     "name": "A. Mitchell Polinsky",
+     "affiliation": "Stanford University",
+     "born": 1948,
+     "weight": 2.0909,
+     "n_nominations": 9
+    },
+    {
+     "name": "Louis Kaplow",
+     "affiliation": "Harvard University",
+     "born": 1956,
+     "weight": 0.4545,
+     "n_nominations": 3
+    },
+    {
+     "name": "Robert Cooter",
+     "affiliation": "University of California, Berkeley",
+     "born": 1945,
+     "weight": 0.4545,
+     "n_nominations": 2
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Posner, 1973: Economic Analysis of Law, Little, Brown",
+     "people": [
+      "Richard A. Posner"
+     ],
+     "n_nominations": 12,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Calabresi, 1970: The Costs of Accidents, Yale University Press",
+     "people": [
+      "Guido Calabresi"
+     ],
+     "n_nominations": 4,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Shavell, 1987: Economic Analysis of Accident Law, Harvard University Press",
+     "people": [
+      "Steven Shavell"
+     ],
+     "n_nominations": 13,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Polinsky and Shavell, 1979: The Optimal Tradeoff between the Probability and Magnitude of Fines, American Economic Review",
+     "people": [
+      "Steven Shavell"
+     ],
+     "n_nominations": 8,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators see law and economics as a foundational field that turned liability rules, courts and enforcement into incentive systems, with large impact on law and policy. Reservations are thin empirical grounding, the advanced age of founders, and broad, contested credit.",
+   "grouping_note": "Joins founder lineups (Calabresi, Posner, Shavell) with liability-and-enforcement lineups (Shavell, Polinsky, Kaplow, Cooter); Polinsky has as much support as Calabresi and is left out, as are Kaplow and Cooter.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#3",
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/per-stromberg/#4",
+    "anthropic/timo-boppart/#2",
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/richard-friberg/#3",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/jan-teorell/#5",
+    "anthropic/per-krusell/#5",
+    "openai/john-hassler/#4",
+    "openai/tommy-andersson/#2",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/peter-fredriksson/#4",
+    "openai/per-stromberg/#3",
+    "openai/timo-boppart/#3",
+    "openai/kerstin-enflo/#4",
+    "openai/richard-friberg/#3",
+    "openai/randi-hjalmarsson/#4",
+    "openai/jan-teorell/#4",
+    "openai/per-krusell/#3",
+    "gemini/randi-hjalmarsson/#2"
+   ],
+   "flags": [
+    "Richard A. Posner: born 1939 (age 87 in 2026)",
+    "Guido Calabresi: born 1932 (age 94 in 2026)"
+   ]
+  },
+  {
+   "rank": 4,
+   "motivation": "for the measurement of top incomes and wealth from tax records and its integration into the theory of optimal taxation",
+   "jel_code": "H24",
+   "jel_code_mode": "H21",
+   "score": 4.6364,
+   "points_per_model": {
+    "claude-opus-5-5": 2.4545,
+    "gpt-5.5-2026-04-23": 2.1818,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 8,
+   "n_nominations": 13,
+   "nominations_per_model": {
+    "A": 7,
+    "O": 6,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Jan Teorell (A, O)",
+    "John Hassler (A, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A)",
+    "Timo Boppart (A)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Emmanuel Saez",
+     "born": 1972,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 13,
+     "models": "A O",
+     "weight": 4.6364
+    },
+    {
+     "name": "Thomas Piketty",
+     "born": 1971,
+     "affiliation": "Paris School of Economics",
+     "n_nominations": 13,
+     "models": "A O",
+     "weight": 4.6364
+    },
+    {
+     "name": "Gabriel Zucman",
+     "born": 1986,
+     "affiliation": "Paris School of Economics and University of California, Berkeley",
+     "n_nominations": 4,
+     "models": "O",
+     "weight": 1.2727
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Stefanie Stantcheva",
+     "affiliation": "Harvard University",
+     "born": 1986,
+     "weight": 0.4545,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Piketty and Saez, 2003: Income Inequality in the United States, 1913-1998, Quarterly Journal of Economics",
+     "people": [
+      "Emmanuel Saez",
+      "Thomas Piketty"
+     ],
+     "n_nominations": 12,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Piketty, Saez and Stantcheva, 2014: Optimal Taxation of Top Labor Incomes, American Economic Journal: Economic Policy",
+     "people": [
+      "Emmanuel Saez",
+      "Thomas Piketty"
+     ],
+     "n_nominations": 7,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Saez and Zucman, 2016: Wealth Inequality in the United States since 1913, Quarterly Journal of Economics",
+     "people": [
+      "Emmanuel Saez",
+      "Gabriel Zucman"
+     ],
+     "n_nominations": 12,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Piketty, Saez and Zucman, 2018: \"Distributional National Accounts: Methods and Estimates for the United States\", Quarterly Journal of Economics",
+     "people": [
+      "Emmanuel Saez",
+      "Thomas Piketty",
+      "Gabriel Zucman"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators value the long-run tax-record series on top incomes and wealth, now a durable data infrastructure, and their link to tractable optimal top-tax formulas. Reservations are measurement disputes, contested elasticities, the candidates' youth and the need to separate science from advocacy.",
+   "grouping_note": "Joins Saez-Piketty optimal-tax-and-top-incomes nominations with Piketty-Saez-Zucman distributional measurement nominations; Zucman is named in four, Stantcheva in one (n061) and left out, and the sufficient-statistics side overlaps the Saez-Chetty-Kleven candidate.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#2",
+    "anthropic/tommy-andersson/#2",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/per-stromberg/#3",
+    "anthropic/timo-boppart/#3",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/jan-teorell/#3",
+    "openai/john-hassler/#5",
+    "openai/tommy-andersson/#1",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/per-stromberg/#1",
+    "openai/kerstin-enflo/#1",
+    "openai/jan-teorell/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "motivation": "for showing how legal origins and investor protection shape financial and economic development",
+   "jel_code": "K22",
+   "jel_code_mode": "K40",
+   "score": 4.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 2.0909,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 1.9091
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 20,
+   "nominations_per_model": {
+    "A": 10,
+    "O": 1,
+    "G": 9
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G)",
+    "Jan Teorell (A, O)",
+    "John Hassler (A, G)",
+    "Kerstin Enflo (A, G)",
+    "Per Krusell (G)",
+    "Per Strömberg (A, G)",
+    "Peter Fredriksson (A, G)",
+    "Randi Hjalmarsson (A)",
+    "Richard Friberg (A, G)",
+    "Timo Boppart (A, G)",
+    "Tommy Andersson (A, G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Andrei Shleifer",
+     "born": 1961,
+     "affiliation": "Harvard University",
+     "n_nominations": 20,
+     "models": "A O G",
+     "weight": 4.2727
+    },
+    {
+     "name": "Rafael La Porta",
+     "born": 1960,
+     "affiliation": "Brown University",
+     "n_nominations": 14,
+     "models": "A O G",
+     "weight": 3.3636
+    },
+    {
+     "name": "Florencio Lopez-de-Silanes",
+     "born": 1964,
+     "affiliation": "SKEMA Business School",
+     "n_nominations": 10,
+     "models": "A O",
+     "weight": 1.9091
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Robert W. Vishny",
+     "affiliation": "University of Chicago",
+     "born": 1959,
+     "weight": 1.7273,
+     "n_nominations": 5
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "La Porta, Lopez-de-Silanes, Shleifer and Vishny, 1998: Law and Finance, Journal of Political Economy",
+     "people": [
+      "Andrei Shleifer",
+      "Rafael La Porta",
+      "Florencio Lopez-de-Silanes"
+     ],
+     "n_nominations": 20,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "La Porta, Lopez-de-Silanes and Shleifer, 2008: The Economic Consequences of Legal Origins, Journal of Economic Literature",
+     "people": [
+      "Andrei Shleifer",
+      "Rafael La Porta",
+      "Florencio Lopez-de-Silanes"
+     ],
+     "n_nominations": 2,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "La Porta, Lopez-de-Silanes, Shleifer and Vishny, 1997: Legal Determinants of External Finance, Journal of Finance",
+     "people": [
+      "Andrei Shleifer",
+      "Rafael La Porta",
+      "Florencio Lopez-de-Silanes"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators credit the programme with hand-collected cross-country legal data that founded a huge literature on investor protection and governance. Reservations are contested causal identification, coding validity, and overlap with the 2024 institutions prize.",
+   "grouping_note": "Robert W. Vishny appears in five nominations as an alternative to Lopez-de-Silanes, and several nominations name Shleifer alone.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#5",
+    "anthropic/tommy-andersson/#3",
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/per-stromberg/#1",
+    "anthropic/timo-boppart/#5",
+    "anthropic/kerstin-enflo/#3",
+    "anthropic/richard-friberg/#5",
+    "anthropic/randi-hjalmarsson/#5",
+    "anthropic/jan-teorell/#2",
+    "openai/jan-teorell/#3",
+    "gemini/john-hassler/#4",
+    "gemini/tommy-andersson/#5",
+    "gemini/anna-dreber-almenberg/#4",
+    "gemini/peter-fredriksson/#5",
+    "gemini/per-stromberg/#1",
+    "gemini/timo-boppart/#5",
+    "gemini/kerstin-enflo/#3",
+    "gemini/richard-friberg/#4",
+    "gemini/per-krusell/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "motivation": "for the empirical analysis of health insurance and social insurance design",
+   "jel_code": "H51",
+   "jel_code_mode": "H51",
+   "score": 2.6364,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 2.0909,
+    "gemini-3.1-pro-preview": 0.5455
+   },
+   "models": "O G",
+   "n_models": 2,
+   "n_members": 10,
+   "n_nominations": 12,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 10,
+    "G": 2
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Jan Teorell (O)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (O)",
+    "Per Strömberg (O)",
+    "Peter Fredriksson (G, O)",
+    "Randi Hjalmarsson (O)",
+    "Richard Friberg (O)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (G, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Amy Finkelstein",
+     "born": 1973,
+     "affiliation": "Massachusetts Institute of Technology",
+     "n_nominations": 12,
+     "models": "O G",
+     "weight": 2.6364
+    },
+    {
+     "name": "Jonathan Gruber",
+     "born": 1965,
+     "affiliation": "Massachusetts Institute of Technology",
+     "n_nominations": 8,
+     "models": "O",
+     "weight": 1.5455
+    },
+    {
+     "name": "Raj Chetty",
+     "born": 1979,
+     "affiliation": "Harvard University",
+     "n_nominations": 4,
+     "models": "O",
+     "weight": 0.7273
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Katherine Baicker",
+     "affiliation": "University of Chicago",
+     "born": 1971,
+     "weight": 0.7273,
+     "n_nominations": 3
+    },
+    {
+     "name": "David M. Cutler",
+     "affiliation": "Harvard University",
+     "born": 1965,
+     "weight": 0.5455,
+     "n_nominations": 2
+    },
+    {
+     "name": "Nathaniel Hendren",
+     "affiliation": "Harvard University",
+     "born": 1980,
+     "weight": 0.3636,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Finkelstein, 2007: The Aggregate Effects of Health Insurance: Evidence from the Introduction of Medicare, Quarterly Journal of Economics",
+     "people": [
+      "Amy Finkelstein"
+     ],
+     "n_nominations": 10,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Gruber, 1994: The Incidence of Mandated Maternity Benefits, American Economic Review",
+     "people": [
+      "Jonathan Gruber"
+     ],
+     "n_nominations": 7,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Finkelstein, Taubman, Wright, Bernstein, Gruber, Newhouse, Allen and Baicker, 2012: The Oregon Health Insurance Experiment: Evidence from the First Year, Quarterly Journal of Economics",
+     "people": [
+      "Amy Finkelstein",
+      "Jonathan Gruber"
+     ],
+     "n_nominations": 6,
+     "models": "O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Chetty, 2006: A General Formula for the Optimal Level of Social Insurance, Journal of Public Economics",
+     "people": [
+      "Raj Chetty"
+     ],
+     "n_nominations": 3,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators value bringing quasi-experimental and experimental evidence to insurance value, moral hazard, selection and public program design with large fiscal stakes. Reservations are institution-specific results and that it is a program of applied work rather than one sharp discovery.",
+   "grouping_note": "Joins Finkelstein-Gruber health-insurance nominations with broader empirical public-economics nominations led by Chetty and Finkelstein (n079, n087); Baicker, Cutler and Hendren are named but left out.",
+   "nomination_ids": [
+    "openai/tommy-andersson/#5",
+    "openai/anna-dreber-almenberg/#5",
+    "openai/peter-fredriksson/#2",
+    "openai/per-stromberg/#4",
+    "openai/timo-boppart/#4",
+    "openai/kerstin-enflo/#2",
+    "openai/richard-friberg/#4",
+    "openai/randi-hjalmarsson/#2",
+    "openai/jan-teorell/#5",
+    "openai/per-krusell/#4",
+    "gemini/tommy-andersson/#4",
+    "gemini/peter-fredriksson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "motivation": "for the use of large-scale administrative data to evaluate public policy and intergenerational mobility",
+   "jel_code": "H20",
+   "jel_code_mode": "H20",
+   "score": 2.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 2.0
+   },
+   "models": "O G",
+   "n_models": 2,
+   "n_members": 6,
+   "n_nominations": 7,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 6
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G, O)",
+    "John Hassler (G)",
+    "Kerstin Enflo (G)",
+    "Per Strömberg (G)",
+    "Randi Hjalmarsson (G)",
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Raj Chetty",
+     "born": 1979,
+     "affiliation": "Harvard University",
+     "n_nominations": 7,
+     "models": "O G",
+     "weight": 2.2727
+    },
+    {
+     "name": "Emmanuel Saez",
+     "born": 1975,
+     "affiliation": "UC Berkeley",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.9091
+    },
+    {
+     "name": "Nathaniel Hendren",
+     "born": 1980,
+     "affiliation": "Massachusetts Institute of Technology",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.2727
+    }
+   ],
+   "people_others": [
+    {
+     "name": "John N. Friedman",
+     "affiliation": "Brown University",
+     "born": 1976,
+     "weight": 0.2727,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Chetty, Hendren, Kline, and Saez, 2014: Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States, Quarterly Journal of Economics",
+     "people": [
+      "Raj Chetty",
+      "Emmanuel Saez",
+      "Nathaniel Hendren"
+     ],
+     "n_nominations": 6,
+     "models": "O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Chetty, Friedman and Rockoff, 2014: Measuring the Impacts of Teachers I: Evaluating Bias in Teacher Value-Added Estimates, American Economic Review",
+     "people": [
+      "Raj Chetty"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Chetty, 2012: Bounds on elasticities with optimization frictions: A synthesis of micro and macro evidence on labor supply, Econometrica",
+     "people": [
+      "Raj Chetty"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators praise the combination of population-scale administrative data, credible designs and public data products to identify neighbourhood effects on mobility. Reservations are the youth of the contributors and dependence on U.S.-specific settings.",
+   "grouping_note": "Chetty is the common lead; Saez is added in n121 and n151, which also touch the tax candidates, and Hendren and Friedman each appear once (Friedman left out).",
+   "nomination_ids": [
+    "openai/anna-dreber-almenberg/#3",
+    "gemini/john-hassler/#5",
+    "gemini/anna-dreber-almenberg/#1",
+    "gemini/per-stromberg/#2",
+    "gemini/timo-boppart/#4",
+    "gemini/kerstin-enflo/#1",
+    "gemini/randi-hjalmarsson/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "motivation": "for the analysis of state capacity and the political economy of development",
+   "jel_code": "H11",
+   "jel_code_mode": "H11",
+   "score": 2.0,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0909,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 1.8182
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 6,
+   "n_nominations": 8,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 1,
+    "G": 6
+   },
+   "supporters": [
+    "Jan Teorell (G)",
+    "John Hassler (G)",
+    "Kerstin Enflo (A, G)",
+    "Per Krusell (G)",
+    "Randi Hjalmarsson (G)",
+    "Timo Boppart (G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Timothy Besley",
+     "born": 1960,
+     "affiliation": "London School of Economics",
+     "n_nominations": 8,
+     "models": "A O G",
+     "weight": 2.0
+    },
+    {
+     "name": "Torsten Persson",
+     "born": 1954,
+     "affiliation": "Stockholm University",
+     "n_nominations": 5,
+     "models": "A O G",
+     "weight": 1.4545
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Besley and Persson, 2009: The Origins of State Capacity: Property Rights, Taxation, and Politics, American Economic Review",
+     "people": [
+      "Timothy Besley",
+      "Torsten Persson"
+     ],
+     "n_nominations": 6,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Besley and Persson, 2011: Pillars of Prosperity, Princeton University Press",
+     "people": [
+      "Timothy Besley",
+      "Torsten Persson"
+     ],
+     "n_nominations": 2,
+     "models": "A G",
+     "in_nominations": true
+    },
+    {
+     "work": "Besley and Persson, 2010: State Capacity, Conflict, and Development, Econometrica",
+     "people": [
+      "Timothy Besley",
+      "Torsten Persson"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators value a tractable dynamic framework for why fiscal and legal capacity and political violence co-evolve. Reservations are proximity to the 2024 institutions prize and largely correlational evidence.",
+   "grouping_note": "Some nominations (n155, n157, n165) name Besley alone; the state-capacity work also appears inside broader Persson-Tabellini nominations, which were kept there.",
+   "nomination_ids": [
+    "anthropic/kerstin-enflo/#5",
+    "openai/timo-boppart/#5",
+    "gemini/john-hassler/#1",
+    "gemini/timo-boppart/#1",
+    "gemini/kerstin-enflo/#2",
+    "gemini/randi-hjalmarsson/#5",
+    "gemini/jan-teorell/#2",
+    "gemini/per-krusell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "motivation": "for the dynamic general-equilibrium analysis of fiscal policy and generational accounting",
+   "jel_code": "H62",
+   "jel_code_mode": "H62",
+   "score": 1.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.9091,
+    "gpt-5.5-2026-04-23": 0.3636,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 7,
+   "n_nominations": 8,
+   "nominations_per_model": {
+    "A": 5,
+    "O": 2,
+    "G": 1
+   },
+   "supporters": [
+    "John Hassler (G, O)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (A)",
+    "Per Strömberg (A)",
+    "Peter Fredriksson (A)",
+    "Timo Boppart (A)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Alan J. Auerbach",
+     "born": 1951,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 8,
+     "models": "A O G",
+     "weight": 1.5455
+    },
+    {
+     "name": "Laurence J. Kotlikoff",
+     "born": 1951,
+     "affiliation": "Boston University",
+     "n_nominations": 7,
+     "models": "A O",
+     "weight": 1.2727
+    }
+   ],
+   "people_others": [
+    {
+     "name": "James M. Poterba",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1958,
+     "weight": 0.2727,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Auerbach and Kotlikoff, 1987: Dynamic Fiscal Policy, Cambridge University Press",
+     "people": [
+      "Alan J. Auerbach",
+      "Laurence J. Kotlikoff"
+     ],
+     "n_nominations": 8,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Auerbach, Gokhale and Kotlikoff, 1991: Generational Accounts, Tax Policy and the Economy",
+     "people": [
+      "Alan J. Auerbach",
+      "Laurence J. Kotlikoff"
+     ],
+     "n_nominations": 3,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators value the computable overlapping-generations model as the standard tool for quantitative tax and pension reform analysis. Reservations are that it is more method than conceptual insight and generational accounting depends on assumptions.",
+   "grouping_note": "n113 pairs Auerbach with James M. Poterba on macro effects of taxation; Poterba is left out here and has his own candidate.",
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#4",
+    "anthropic/peter-fredriksson/#5",
+    "anthropic/per-stromberg/#5",
+    "anthropic/timo-boppart/#4",
+    "anthropic/per-krusell/#2",
+    "openai/john-hassler/#3",
+    "openai/kerstin-enflo/#5",
+    "gemini/john-hassler/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "motivation": "for the empirical analysis of tax compliance, evasion and enforcement",
+   "jel_code": "H26",
+   "jel_code_mode": "H26",
+   "score": 1.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 1.0909
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 5,
+   "n_nominations": 5,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 5
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Kerstin Enflo (G)",
+    "Per Strömberg (G)",
+    "Peter Fredriksson (G)",
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Joel Slemrod",
+     "born": 1951,
+     "affiliation": "University of Michigan",
+     "n_nominations": 5,
+     "models": "G",
+     "weight": 1.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Slemrod, 2007: Cheating Ourselves: The Economics of Tax Evasion, Journal of Economic Perspectives",
+     "people": [
+      "Joel Slemrod"
+     ],
+     "n_nominations": 2,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Slemrod, 1990: Optimal Taxation and Optimal Tax Systems, Journal of Economic Perspectives",
+     "people": [
+      "Joel Slemrod"
+     ],
+     "n_nominations": 2,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Slemrod, 2019: Tax Compliance and Enforcement, Journal of Economic Literature",
+     "people": [
+      "Joel Slemrod"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators value field experiments and tax-return evidence on evasion, avoidance and reporting responses as a basis for tax system design.",
+   "grouping_note": "All nominations name Slemrod alone.",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#2",
+    "gemini/peter-fredriksson/#4",
+    "gemini/per-stromberg/#5",
+    "gemini/kerstin-enflo/#5",
+    "gemini/richard-friberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "motivation": "for empirical analysis of how taxation affects saving and financial behaviour",
+   "jel_code": "H20",
+   "jel_code_mode": "H20",
+   "score": 0.9091,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.9091
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 5,
+   "n_nominations": 5,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 5
+   },
+   "supporters": [
+    "Kerstin Enflo (G)",
+    "Per Krusell (G)",
+    "Per Strömberg (G)",
+    "Richard Friberg (G)",
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "James M. Poterba",
+     "born": 1958,
+     "affiliation": "MIT",
+     "n_nominations": 5,
+     "models": "G",
+     "weight": 0.9091
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Poterba, Venti, and Wise, 1996: How Retirement Saving Programs Increase Saving, Journal of Economic Perspectives",
+     "people": [
+      "James M. Poterba"
+     ],
+     "n_nominations": 3,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Poterba, 1984: Tax Subsidies to Owner-Occupied Housing: An Asset-Market Approach, Quarterly Journal of Economics",
+     "people": [
+      "James M. Poterba"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators praise careful empirical evidence on how taxes shape household saving, asset prices and corporate finance. A noted limitation is that tax-code details complicate generalization.",
+   "grouping_note": "All nominations name Poterba alone; his pairing with Auerbach (n113) was placed in the dynamic fiscal policy candidate.",
+   "nomination_ids": [
+    "gemini/per-stromberg/#4",
+    "gemini/timo-boppart/#3",
+    "gemini/kerstin-enflo/#4",
+    "gemini/richard-friberg/#5",
+    "gemini/per-krusell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "motivation": "for the development of dynamic optimal taxation and social insurance with private information",
+   "jel_code": "H21",
+   "jel_code_mode": "H21",
+   "score": 0.8182,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3636,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 2,
+   "n_nominations": 4,
+   "nominations_per_model": {
+    "A": 2,
+    "O": 1,
+    "G": 1
+   },
+   "supporters": [
+    "John Hassler (A, G)",
+    "Per Krusell (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Narayana Kocherlakota",
+     "born": 1963,
+     "affiliation": "University of Rochester",
+     "n_nominations": 3,
+     "models": "A O",
+     "weight": 0.4545
+    },
+    {
+     "name": "Mikhail Golosov",
+     "born": 1977,
+     "affiliation": "University of Chicago",
+     "n_nominations": 4,
+     "models": "A O G",
+     "weight": 0.8182
+    },
+    {
+     "name": "Aleh Tsyvinski",
+     "born": 1977,
+     "affiliation": "Yale University",
+     "n_nominations": 4,
+     "models": "A O G",
+     "weight": 0.8182
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Ivan Werning",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1974,
+     "weight": 0.3636,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Golosov, Kocherlakota and Tsyvinski, 2003: Optimal Indirect and Capital Taxation, Review of Economic Studies",
+     "people": [
+      "Narayana Kocherlakota",
+      "Mikhail Golosov",
+      "Aleh Tsyvinski"
+     ],
+     "n_nominations": 4,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Kocherlakota, 2005: Zero Expected Wealth Taxes, Econometrica",
+     "people": [
+      "Narayana Kocherlakota"
+     ],
+     "n_nominations": 2,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators credit the New Dynamic Public Finance with bringing Mirrlees into dynamic economies and overturning standard capital-tax results. Reservations are implementability and limited quantitative policy influence.",
+   "grouping_note": "n112 replaces Kocherlakota with Ivan Werning, who is left out of the lineup.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#4",
+    "anthropic/per-krusell/#4",
+    "openai/per-krusell/#5",
+    "gemini/john-hassler/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "motivation": "for the empirical analysis of labour supply and the design of tax and transfer systems",
+   "jel_code": "H24",
+   "jel_code_mode": "H24",
+   "score": 0.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.7273
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 3,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 3
+   },
+   "supporters": [
+    "Jan Teorell (G)",
+    "Per Krusell (G)",
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Richard Blundell",
+     "born": 1952,
+     "affiliation": "University College London",
+     "n_nominations": 3,
+     "models": "G",
+     "weight": 0.7273
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Blundell and MaCurdy, 1999: Labor supply: A review of alternative approaches, Handbook of Labor Economics",
+     "people": [
+      "Richard Blundell"
+     ],
+     "n_nominations": 3,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators value rigorous micro-econometric identification of labour supply responses that disciplines tax models. A reservation is the difficulty of integrating these estimates into tractable models.",
+   "grouping_note": "All nominations name Blundell alone.",
+   "nomination_ids": [
+    "gemini/timo-boppart/#2",
+    "gemini/jan-teorell/#5",
+    "gemini/per-krusell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "motivation": "for empirical analysis of crime and criminal justice policy",
+   "jel_code": "K42",
+   "jel_code_mode": "K42",
+   "score": 0.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 1,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 1,
+    "G": 1
+   },
+   "supporters": [
+    "Randi Hjalmarsson (A, G, O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Steven Levitt",
+     "born": 1967,
+     "affiliation": "University of Chicago",
+     "n_nominations": 2,
+     "models": "A O",
+     "weight": 0.2727
+    },
+    {
+     "name": "Philip J. Cook",
+     "born": 1946,
+     "affiliation": "Duke University",
+     "n_nominations": 2,
+     "models": "A G",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Jens Ludwig",
+     "affiliation": "University of Chicago",
+     "born": 1968,
+     "weight": 0.2727,
+     "n_nominations": 1
+    },
+    {
+     "name": "Isaac Ehrlich",
+     "affiliation": "University at Buffalo, State University of New York",
+     "born": 1938,
+     "weight": 0.0909,
+     "n_nominations": 1
+    },
+    {
+     "name": "John J. Donohue III",
+     "affiliation": "Stanford Law School",
+     "born": 1953,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Levitt, 1997: Using Electoral Cycles in Police Hiring to Estimate the Effect of Police on Crime, American Economic Review",
+     "people": [
+      "Steven Levitt"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Cook and Ludwig, 2000: Gun Violence: The Real Costs, Oxford University Press",
+     "people": [
+      "Philip J. Cook"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators credit this work with taking deterrence theory to credible quasi-experimental data. The main reservation is that prominent findings met coding critiques and remain contested.",
+   "grouping_note": "Rival third members Isaac Ehrlich, John J. Donohue III and Jens Ludwig each appear once and are left out.",
+   "nomination_ids": [
+    "anthropic/randi-hjalmarsson/#4",
+    "openai/randi-hjalmarsson/#5",
+    "gemini/randi-hjalmarsson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "motivation": "for the economic analysis of corruption and rent seeking in government",
+   "jel_code": "D73",
+   "jel_code_mode": "D73",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "O G",
+   "n_models": 2,
+   "n_members": 3,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 2,
+    "G": 1
+   },
+   "supporters": [
+    "Jan Teorell (G)",
+    "Per Strömberg (O)",
+    "Richard Friberg (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Andrei Shleifer",
+     "born": 1961,
+     "affiliation": "Harvard University",
+     "n_nominations": 2,
+     "models": "O",
+     "weight": 0.1818
+    },
+    {
+     "name": "Robert W. Vishny",
+     "born": 1959,
+     "affiliation": "University of Chicago Booth School of Business",
+     "n_nominations": 2,
+     "models": "O G",
+     "weight": 0.3636
+    },
+    {
+     "name": "Susan Rose-Ackerman",
+     "born": 1942,
+     "affiliation": "Yale University",
+     "n_nominations": 2,
+     "models": "O G",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Florencio Lopez-de-Silanes",
+     "affiliation": "SKEMA Business School",
+     "born": 1966,
+     "weight": 0.0909,
+     "n_nominations": 1
+    },
+    {
+     "name": "Timothy Besley",
+     "affiliation": "London School of Economics",
+     "born": 1960,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Shleifer and Vishny, 1993: Corruption, Quarterly Journal of Economics",
+     "people": [
+      "Andrei Shleifer",
+      "Robert W. Vishny"
+     ],
+     "n_nominations": 3,
+     "models": "O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Rose-Ackerman, 1975: \"The Economics of Corruption\", Journal of Public Economics",
+     "people": [
+      "Susan Rose-Ackerman"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Rose-Ackerman, 1978: Corruption: A Study in Political Economy, Academic Press",
+     "people": [
+      "Susan Rose-Ackerman"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators credit this work with framing corruption as an institutional incentive problem inside government. Reservations are heterogeneity and overlap with the 2024 institutions work.",
+   "grouping_note": "n080 also lists Law and Finance and touches the legal-origins candidate; Besley and Lopez-de-Silanes are named once and left out.",
+   "nomination_ids": [
+    "openai/per-stromberg/#5",
+    "openai/richard-friberg/#5",
+    "gemini/jan-teorell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "motivation": "for the theory of representative democracy and political agency",
+   "jel_code": "D72",
+   "jel_code_mode": "D72",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.2727,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 2,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 2,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Richard Friberg (A)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Timothy Besley",
+     "born": 1960,
+     "affiliation": "London School of Economics",
+     "n_nominations": 3,
+     "models": "A O",
+     "weight": 0.4545
+    },
+    {
+     "name": "Stephen Coate",
+     "born": 1962,
+     "affiliation": "Cornell University",
+     "n_nominations": 3,
+     "models": "A O",
+     "weight": 0.4545
+    },
+    {
+     "name": "Anne Case",
+     "born": 1958,
+     "affiliation": "Princeton University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Besley and Coate, 1997: An Economic Model of Representative Democracy, Quarterly Journal of Economics",
+     "people": [
+      "Timothy Besley",
+      "Stephen Coate"
+     ],
+     "n_nominations": 3,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Besley and Case, 1995: Does Electoral Accountability Affect Economic Policy Choices?, Quarterly Journal of Economics",
+     "people": [
+      "Timothy Besley",
+      "Anne Case"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators praise the citizen-candidate model and credible tests of how elections discipline politicians. The reservation is that it is narrower than the leading candidates.",
+   "grouping_note": "Anne Case is named only in n064.",
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#5",
+    "anthropic/richard-friberg/#4",
+    "openai/tommy-andersson/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "motivation": "for the mechanism design of public goods provision",
+   "jel_code": "H41",
+   "jel_code_mode": "H41",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Theodore Groves",
+     "born": 1941,
+     "affiliation": "University of California, San Diego",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.4545
+    },
+    {
+     "name": "John Ledyard",
+     "born": 1943,
+     "affiliation": "California Institute of Technology",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Groves, T., & Ledyard, J., 1977: Optimal Allocation of Public Goods: A Solution to the 'Free Rider' Problem, Econometrica",
+     "people": [
+      "Theodore Groves",
+      "John Ledyard"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The nominator admires the possibility result that free riding can be overcome efficiently with budget balance. The mechanism is complex and rarely implemented.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/tommy-andersson/#1"
+   ],
+   "flags": [
+    "Theodore Groves: born 1941 (age 85 in 2026)"
+   ]
+  },
+  {
+   "rank": 18,
+   "motivation": "for the incorporation of behavioral economics into public economics and welfare analysis",
+   "jel_code": "H20",
+   "jel_code_mode": "H20",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "B. Douglas Bernheim",
+     "born": 1958,
+     "affiliation": "Stanford University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.2727
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Bernheim and Rangel, 2009: Beyond Revealed Preference: Choice-Theoretic Foundations for Behavioral Welfare Economics, Quarterly Journal of Economics",
+     "people": [
+      "B. Douglas Bernheim"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The nominator values rigorous welfare analysis when individuals exhibit behavioral biases. Measuring behavioral welfare metrics in observational data remains a challenge.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 19,
+   "motivation": "for the analysis of rent seeking and the political economy of trade and development policy",
+   "jel_code": "D72",
+   "jel_code_mode": "D72",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Anne O. Krueger",
+     "born": 1934,
+     "affiliation": "Johns Hopkins University",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Krueger, 1974: The political economy of the rent-seeking society, American Economic Review",
+     "people": [
+      "Anne O. Krueger"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The nominator sees rent seeking as a seminal conceptual tool across public choice and development. Measuring rent-seeking costs remains difficult.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#4"
+   ],
+   "flags": [
+    "Anne O. Krueger: born 1934 (age 92 in 2026)"
+   ]
+  },
+  {
+   "rank": 20,
+   "motivation": "for the analysis of political institutions, federalism and credible commitment to secure markets",
+   "jel_code": "H77",
+   "jel_code_mode": "H77",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Jan Teorell (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Barry R. Weingast",
+     "born": 1952,
+     "affiliation": "Stanford University",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "North and Weingast, 1989: Constitutions and Commitment, Journal of Economic History",
+     "people": [
+      "Barry R. Weingast"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Weingast, 1995: The Economic Role of Political Institutions: Market-Preserving Federalism and Economic Development, Journal of Law, Economics, and Organization",
+     "people": [
+      "Barry R. Weingast"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The nominator values placing limits on state power at the centre of development. The Glorious Revolution thesis is contested and overlaps the 2024 prize.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/jan-teorell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "motivation": "for the empirical analysis of money in politics, legislative voting and political representation",
+   "jel_code": "D72",
+   "jel_code_mode": "D72",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Jan Teorell (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "James M. Snyder Jr.",
+     "born": 1959,
+     "affiliation": "Harvard University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Ansolabehere, de Figueiredo, & Snyder, 2003: Why is There so Little Money in U.S. Politics?, Journal of Economic Perspectives",
+     "people": [
+      "James M. Snyder Jr."
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The nominator credits rigorous measurement of polarization and accountability in political economy. The focus is predominantly on the United States.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/jan-teorell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "motivation": "for the theory of fiscal federalism and tax competition among jurisdictions",
+   "jel_code": "H77",
+   "jel_code_mode": "H77",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Peter Fredriksson (O)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "John D. Wilson",
+     "born": null,
+     "affiliation": "Michigan State University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "David E. Wildasin",
+     "born": null,
+     "affiliation": "University of Kentucky",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "George R. Zodrow",
+     "born": null,
+     "affiliation": "Rice University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Wilson, 1986: \"A Theory of Interregional Tax Competition\", Journal of Urban Economics",
+     "people": [
+      "John D. Wilson"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Wildasin, 1988: \"Nash Equilibria in Models of Fiscal Competition\", Journal of Public Economics",
+     "people": [
+      "David E. Wildasin"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Zodrow and Mieszkowski, 1986: \"Pigou, Tiebout, Property Taxation, and the Underprovision of Local Public Goods\", Journal of Urban Economics",
+     "people": [
+      "George R. Zodrow"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The nominator credits this work with clarifying how tax-base mobility changes optimal taxation and public goods. Empirical identification of tax-competition effects is mixed.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "openai/peter-fredriksson/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

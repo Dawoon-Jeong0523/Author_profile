@@ -1,0 +1,2163 @@
+{
+ "field": "Equilibrium, Welfare",
+ "slug": "equilibrium",
+ "generated": "2026-10-10T19:29:13+00:00",
+ "integrator": "claude-opus-5-5",
+ "stamp": "e65fb5dace43275a",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 11,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "n_nominations": 165,
+ "n_candidates": 24,
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models (max 15)",
+ "warnings": [],
+ "call": {
+  "attempts": 1,
+  "usd": 0.4372,
+  "usage": [
+   {
+    "input": 45942,
+    "output": 12670,
+    "reasoning": 4474,
+    "cached_input": 0
+   }
+  ]
+ },
+ "candidates": [
+  {
+   "rank": 1,
+   "motivation": "for the analysis of the structure, regularity and limits of general equilibrium theory",
+   "jel_code": "D51",
+   "jel_code_mode": "D51",
+   "score": 8.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 4.5455,
+    "gpt-5.5-2026-04-23": 3.6364,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 22,
+   "nominations_per_model": {
+    "A": 12,
+    "O": 9,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A)",
+    "John Hassler (A, O)",
+    "Kerstin Enflo (A)",
+    "Per Krusell (A, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (A, G, O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Andreu Mas-Colell",
+     "born": 1944,
+     "affiliation": "Universitat Pompeu Fabra",
+     "n_nominations": 21,
+     "models": "A O G",
+     "weight": 8.0909
+    },
+    {
+     "name": "Hugo Sonnenschein",
+     "born": 1940,
+     "affiliation": "University of Chicago",
+     "n_nominations": 12,
+     "models": "A O",
+     "weight": 4.7273
+    },
+    {
+     "name": "Yves Balasko",
+     "born": 1945,
+     "affiliation": "University of York",
+     "n_nominations": 3,
+     "models": "O",
+     "weight": 1.0
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Michael Magill",
+     "affiliation": "University of Southern California",
+     "born": null,
+     "weight": 0.3636,
+     "n_nominations": 1
+    },
+    {
+     "name": "Truman F. Bewley",
+     "affiliation": "Yale University",
+     "born": 1931,
+     "weight": 0.3636,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Sonnenschein, 1973: Do Walras' Identity and Continuity Characterize the Class of Community Excess Demand Functions?, Journal of Economic Theory",
+     "people": [
+      "Hugo Sonnenschein"
+     ],
+     "n_nominations": 9,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Mas-Colell, 1985: The Theory of General Economic Equilibrium: A Differentiable Approach, Cambridge University Press",
+     "people": [
+      "Andreu Mas-Colell"
+     ],
+     "n_nominations": 16,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Sonnenschein, 1972: Market Excess Demand Functions, Econometrica",
+     "people": [
+      "Hugo Sonnenschein"
+     ],
+     "n_nominations": 5,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Balasko, 1975: Some Results on Uniqueness and on Stability of Equilibrium in General Equilibrium Theory, Journal of Mathematical Economics",
+     "people": [
+      "Yves Balasko"
+     ],
+     "n_nominations": 3,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The Sonnenschein-Mantel-Debreu results and the differentiable approach defined what general equilibrium can and cannot predict, shaping modern theory and the representative-agent debate. The recurring reservation is proximity to Debreu's and Arrow's prizes and distance from policy.",
+   "grouping_note": "Joins the Mas-Colell-Sonnenschein pairing with solo nominations of each, the Balasko global-analysis variants (n063, n073, n096) and the infinite-dimensional extension naming Bewley and Magill (n067), who are left out; Mantel is noted by nominators as deceased.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#2",
+    "anthropic/tommy-andersson/#2",
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/per-stromberg/#2",
+    "anthropic/per-stromberg/#3",
+    "anthropic/timo-boppart/#1",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/richard-friberg/#1",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/jan-teorell/#3",
+    "anthropic/per-krusell/#1",
+    "openai/john-hassler/#1",
+    "openai/tommy-andersson/#3",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/peter-fredriksson/#3",
+    "openai/per-stromberg/#1",
+    "openai/timo-boppart/#1",
+    "openai/richard-friberg/#1",
+    "openai/randi-hjalmarsson/#1",
+    "openai/per-krusell/#1",
+    "gemini/timo-boppart/#3"
+   ],
+   "flags": [
+    "Hugo Sonnenschein: born 1940 (age 86 in 2026)",
+    "resembles an awarded motivation: 1972 John R. Hicks; Kenneth J. Arrow: \"for their pioneering contributions to general econo (word overlap 0.40)"
+   ]
+  },
+  {
+   "rank": 2,
+   "motivation": "for the theory of equality of opportunity, responsibility and fairness in welfare economics",
+   "jel_code": "D63",
+   "jel_code_mode": "D63",
+   "score": 6.9091,
+   "points_per_model": {
+    "claude-opus-5-5": 2.3636,
+    "gpt-5.5-2026-04-23": 1.5455,
+    "gemini-3.1-pro-preview": 3.0
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 31,
+   "nominations_per_model": {
+    "A": 11,
+    "O": 7,
+    "G": 13
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (A, G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G)",
+    "Timo Boppart (A, G)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "John E. Roemer",
+     "born": 1945,
+     "affiliation": "Yale University",
+     "n_nominations": 24,
+     "models": "A O G",
+     "weight": 5.9091
+    },
+    {
+     "name": "Marc Fleurbaey",
+     "born": 1961,
+     "affiliation": "Paris School of Economics",
+     "n_nominations": 24,
+     "models": "A O G",
+     "weight": 5.2727
+    },
+    {
+     "name": "François Maniquet",
+     "born": 1965,
+     "affiliation": "Université catholique de Louvain",
+     "n_nominations": 7,
+     "models": "A O",
+     "weight": 1.3636
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Roemer, 1998: Equality of Opportunity, Harvard University Press",
+     "people": [
+      "John E. Roemer"
+     ],
+     "n_nominations": 24,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Fleurbaey, 2008: Fairness, Responsibility, and Welfare, Oxford University Press",
+     "people": [
+      "Marc Fleurbaey"
+     ],
+     "n_nominations": 21,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Fleurbaey and Maniquet, 2011: A Theory of Fairness and Social Welfare, Cambridge University Press",
+     "people": [
+      "Marc Fleurbaey",
+      "François Maniquet"
+     ],
+     "n_nominations": 8,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They gave operational normative criteria separating circumstance from effort, now used in empirical work on inequality of opportunity and redistribution. The recurring reservation is closeness to Sen's 1998 prize and the difficulty of observing circumstances.",
+   "grouping_note": "Joins Roemer-Fleurbaey pairings, Roemer and Fleurbaey solo nominations and the Fleurbaey-Maniquet fairness and equivalent-income nominations (n025, n070, n115); Roemer's birth year is given variously as 1945 and 1938.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#5",
+    "anthropic/tommy-andersson/#3",
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/per-stromberg/#5",
+    "anthropic/timo-boppart/#4",
+    "anthropic/kerstin-enflo/#3",
+    "anthropic/richard-friberg/#3",
+    "anthropic/randi-hjalmarsson/#2",
+    "anthropic/jan-teorell/#4",
+    "anthropic/per-krusell/#4",
+    "openai/john-hassler/#3",
+    "openai/tommy-andersson/#4",
+    "openai/anna-dreber-almenberg/#5",
+    "openai/per-stromberg/#3",
+    "openai/kerstin-enflo/#2",
+    "openai/randi-hjalmarsson/#4",
+    "openai/jan-teorell/#4",
+    "gemini/john-hassler/#5",
+    "gemini/tommy-andersson/#3",
+    "gemini/anna-dreber-almenberg/#4",
+    "gemini/peter-fredriksson/#3",
+    "gemini/per-stromberg/#5",
+    "gemini/timo-boppart/#5",
+    "gemini/kerstin-enflo/#2",
+    "gemini/kerstin-enflo/#4",
+    "gemini/richard-friberg/#5",
+    "gemini/randi-hjalmarsson/#1",
+    "gemini/jan-teorell/#1",
+    "gemini/jan-teorell/#2",
+    "gemini/per-krusell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "motivation": "for the theory of general equilibrium with incomplete markets and its constrained inefficiency",
+   "jel_code": "D52",
+   "jel_code_mode": "D52",
+   "score": 6.0,
+   "points_per_model": {
+    "claude-opus-5-5": 2.6364,
+    "gpt-5.5-2026-04-23": 2.7273,
+    "gemini-3.1-pro-preview": 0.6364
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 10,
+   "n_nominations": 19,
+   "nominations_per_model": {
+    "A": 9,
+    "O": 8,
+    "G": 2
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Jan Teorell (A, O)",
+    "John Hassler (A, G)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (A, O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "John Geanakoplos",
+     "born": 1955,
+     "affiliation": "Yale University",
+     "n_nominations": 18,
+     "models": "A O G",
+     "weight": 5.9091
+    },
+    {
+     "name": "Herakles Polemarchakis",
+     "born": 1952,
+     "affiliation": "University of Warwick",
+     "n_nominations": 7,
+     "models": "A O G",
+     "weight": 1.9091
+    },
+    {
+     "name": "Michael Magill",
+     "born": 1942,
+     "affiliation": "University of Southern California",
+     "n_nominations": 6,
+     "models": "A O",
+     "weight": 2.0
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Martine Quinzii",
+     "affiliation": "University of California, Davis",
+     "born": 1945,
+     "weight": 1.2727,
+     "n_nominations": 4
+    },
+    {
+     "name": "Darrell Duffie",
+     "affiliation": "Stanford University",
+     "born": 1954,
+     "weight": 0.3636,
+     "n_nominations": 1
+    },
+    {
+     "name": "Pradeep Dubey",
+     "affiliation": "Stony Brook University and Yale University",
+     "born": null,
+     "weight": 0.3636,
+     "n_nominations": 1
+    },
+    {
+     "name": "Andreu Mas-Colell",
+     "affiliation": "Universitat Pompeu Fabra and Barcelona School of Economics",
+     "born": 1944,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Geanakoplos and Polemarchakis, 1986: Existence, Regularity, and Constrained Suboptimality of Competitive Allocations When the Asset Market Is Incomplete, in Essays in Honor of Kenneth Arrow",
+     "people": [
+      "John Geanakoplos",
+      "Herakles Polemarchakis"
+     ],
+     "n_nominations": 17,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Magill and Quinzii, 1996: Theory of Incomplete Markets, MIT Press",
+     "people": [
+      "Michael Magill"
+     ],
+     "n_nominations": 7,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Geanakoplos, 2010: The Leverage Cycle, NBER Macroeconomics Annual",
+     "people": [
+      "John Geanakoplos"
+     ],
+     "n_nominations": 6,
+     "models": "A O G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Incomplete-market equilibria are generically constrained inefficient, giving a rigorous foundation for policy intervention, macroprudential reasoning and heterogeneous-agent macro. Reservations are indirect empirical and quantitative links and widely shared credit.",
+   "grouping_note": "Rival third names include Magill, Quinzii, Dubey, Duffie and Mas-Colell (n090, which leads with Mas-Colell but centres on incomplete markets); Polemarchakis is spelled both Herakles and Heraklis across nominations.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#3",
+    "anthropic/tommy-andersson/#4",
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/per-stromberg/#1",
+    "anthropic/timo-boppart/#2",
+    "anthropic/richard-friberg/#2",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/jan-teorell/#5",
+    "anthropic/per-krusell/#2",
+    "openai/tommy-andersson/#2",
+    "openai/per-stromberg/#2",
+    "openai/timo-boppart/#2",
+    "openai/kerstin-enflo/#5",
+    "openai/richard-friberg/#2",
+    "openai/randi-hjalmarsson/#2",
+    "openai/jan-teorell/#1",
+    "openai/per-krusell/#2",
+    "gemini/john-hassler/#3",
+    "gemini/per-krusell/#2"
+   ],
+   "flags": [
+    "resembles an awarded motivation: 1972 John R. Hicks; Kenneth J. Arrow: \"for their pioneering contributions to general econo (word overlap 0.40)"
+   ]
+  },
+  {
+   "rank": 4,
+   "motivation": "for the welfare economics of sustainability, natural capital and intergenerational wealth accounting",
+   "jel_code": "D60",
+   "jel_code_mode": "D60",
+   "score": 4.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 1.7273,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 2.5455
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 10,
+   "n_nominations": 17,
+   "nominations_per_model": {
+    "A": 5,
+    "O": 2,
+    "G": 10
+   },
+   "supporters": [
+    "Jan Teorell (A, G)",
+    "John Hassler (A, G, O)",
+    "Kerstin Enflo (A, G)",
+    "Per Krusell (G)",
+    "Per Strömberg (G)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G)",
+    "Richard Friberg (G)",
+    "Timo Boppart (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Partha Dasgupta",
+     "born": 1942,
+     "affiliation": "University of Cambridge",
+     "n_nominations": 17,
+     "models": "A O G",
+     "weight": 4.7273
+    },
+    {
+     "name": "Geoffrey Heal",
+     "born": 1944,
+     "affiliation": "Columbia University",
+     "n_nominations": 2,
+     "models": "A O",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Graciela Chichilnisky",
+     "affiliation": "Columbia University",
+     "born": 1944,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Dasgupta and Heal, 1979: Economic Theory and Exhaustible Resources, Cambridge University Press",
+     "people": [
+      "Partha Dasgupta",
+      "Geoffrey Heal"
+     ],
+     "n_nominations": 9,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Dasgupta, 2021: The Economics of Biodiversity: The Dasgupta Review, HM Treasury",
+     "people": [
+      "Partha Dasgupta"
+     ],
+     "n_nominations": 5,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Dasgupta, 2001: Human Well-Being and the Natural Environment, Oxford University Press",
+     "people": [
+      "Partha Dasgupta"
+     ],
+     "n_nominations": 5,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Arrow, Dasgupta, Goulder et al., 2004: Are We Consuming Too Much?, Journal of Economic Perspectives",
+     "people": [
+      "Partha Dasgupta"
+     ],
+     "n_nominations": 3,
+     "models": "A G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Dasgupta built the normative foundations for judging intergenerational welfare and sustainability with natural capital, underpinning inclusive wealth accounting with broad policy influence. The main reservation is that much of the work sits at the boundary with resource and environmental economics, and empirical wealth accounts remain uneven.",
+   "grouping_note": "Mostly Dasgupta-only nominations joined with those adding Heal (n017, n075) and Chichilnisky (n075), who is left out of the lineup.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#1",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/randi-hjalmarsson/#5",
+    "anthropic/jan-teorell/#1",
+    "openai/john-hassler/#2",
+    "openai/peter-fredriksson/#5",
+    "gemini/john-hassler/#1",
+    "gemini/tommy-andersson/#5",
+    "gemini/peter-fredriksson/#4",
+    "gemini/per-stromberg/#4",
+    "gemini/timo-boppart/#4",
+    "gemini/kerstin-enflo/#3",
+    "gemini/richard-friberg/#2",
+    "gemini/randi-hjalmarsson/#2",
+    "gemini/jan-teorell/#4",
+    "gemini/per-krusell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "motivation": "for the axiomatic theory of fair allocation and cost sharing",
+   "jel_code": "D63",
+   "jel_code_mode": "D63",
+   "score": 4.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.4545,
+    "gpt-5.5-2026-04-23": 2.4545,
+    "gemini-3.1-pro-preview": 1.1818
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 10,
+   "n_nominations": 15,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 9,
+    "G": 5
+   },
+   "supporters": [
+    "Jan Teorell (G, O)",
+    "John Hassler (O)",
+    "Kerstin Enflo (G)",
+    "Per Krusell (O)",
+    "Per Strömberg (O)",
+    "Peter Fredriksson (O)",
+    "Randi Hjalmarsson (G, O)",
+    "Richard Friberg (O)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Hervé Moulin",
+     "born": 1950,
+     "affiliation": "University of Glasgow",
+     "n_nominations": 14,
+     "models": "A O G",
+     "weight": 3.9091
+    },
+    {
+     "name": "William Thomson",
+     "born": 1949,
+     "affiliation": "University of Rochester",
+     "n_nominations": 11,
+     "models": "A O G",
+     "weight": 3.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "H. Peyton Young",
+     "affiliation": "University of Oxford and Johns Hopkins University",
+     "born": 1945,
+     "weight": 0.6364,
+     "n_nominations": 2
+    },
+    {
+     "name": "Hal R. Varian",
+     "affiliation": "University of California, Berkeley and Google",
+     "born": 1947,
+     "weight": 0.5455,
+     "n_nominations": 2
+    },
+    {
+     "name": "Yves Sprumont",
+     "affiliation": "Université de Montréal",
+     "born": 1959,
+     "weight": 0.4545,
+     "n_nominations": 1
+    },
+    {
+     "name": "Marc Fleurbaey",
+     "affiliation": "Paris School of Economics",
+     "born": 1961,
+     "weight": 0.3636,
+     "n_nominations": 2
+    },
+    {
+     "name": "Salvador Barberà",
+     "affiliation": "Universitat Autònoma de Barcelona and Barcelona School of Economics",
+     "born": 1946,
+     "weight": 0.1818,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Moulin, 1988: Axioms of Cooperative Decision Making, Cambridge University Press",
+     "people": [
+      "Hervé Moulin"
+     ],
+     "n_nominations": 10,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Moulin, 2003: Fair Division and Collective Welfare, MIT Press",
+     "people": [
+      "Hervé Moulin"
+     ],
+     "n_nominations": 5,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Thomson, 2011: Fair allocation rules, Handbook of Social Choice and Welfare",
+     "people": [
+      "William Thomson"
+     ],
+     "n_nominations": 6,
+     "models": "A O G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "These works map precisely which fairness, efficiency and incentive properties are compatible in allocation without prices, informing cost sharing, rationing and market design. The reservation is low visibility outside theory and a border with cooperative game theory and mechanism design.",
+   "grouping_note": "Third names vary (Young, Varian, Fleurbaey, Sprumont, Barberà) and are left out; n084 and n094 also touch the Fleurbaey fairness candidate and n098/n103 the envy-freeness candidate, and Young's solo fair-division nomination (n119) is joined here.",
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#1",
+    "openai/john-hassler/#4",
+    "openai/tommy-andersson/#1",
+    "openai/peter-fredriksson/#1",
+    "openai/per-stromberg/#4",
+    "openai/timo-boppart/#4",
+    "openai/richard-friberg/#4",
+    "openai/randi-hjalmarsson/#3",
+    "openai/jan-teorell/#3",
+    "openai/per-krusell/#3",
+    "gemini/tommy-andersson/#1",
+    "gemini/tommy-andersson/#4",
+    "gemini/kerstin-enflo/#5",
+    "gemini/randi-hjalmarsson/#4",
+    "gemini/jan-teorell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "motivation": "for the axiomatic measurement of poverty, inequality and multidimensional deprivation",
+   "jel_code": "D63",
+   "jel_code_mode": "D63",
+   "score": 3.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 1.4545,
+    "gpt-5.5-2026-04-23": 1.7273,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 9,
+   "n_nominations": 15,
+   "nominations_per_model": {
+    "A": 8,
+    "O": 7,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (O)",
+    "Per Strömberg (A)",
+    "Peter Fredriksson (A, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Timo Boppart (A, O)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "James E. Foster",
+     "born": 1955,
+     "affiliation": "George Washington University",
+     "n_nominations": 15,
+     "models": "A O",
+     "weight": 3.1818
+    },
+    {
+     "name": "Anthony F. Shorrocks",
+     "born": 1946,
+     "affiliation": "Global Economic Perspectives",
+     "n_nominations": 10,
+     "models": "A O",
+     "weight": 1.9091
+    },
+    {
+     "name": "Sabina Alkire",
+     "born": 1969,
+     "affiliation": "University of Oxford",
+     "n_nominations": 5,
+     "models": "A O",
+     "weight": 1.4545
+    }
+   ],
+   "people_others": [
+    {
+     "name": "François Bourguignon",
+     "affiliation": "Paris School of Economics",
+     "born": 1945,
+     "weight": 0.5455,
+     "n_nominations": 3
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Foster, Greer and Thorbecke, 1984: A Class of Decomposable Poverty Measures, Econometrica",
+     "people": [
+      "James E. Foster"
+     ],
+     "n_nominations": 15,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Shorrocks, 1980: The Class of Additively Decomposable Inequality Measures, Econometrica",
+     "people": [
+      "Anthony F. Shorrocks"
+     ],
+     "n_nominations": 10,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Alkire and Foster, 2011: Counting and Multidimensional Poverty Measurement, Journal of Public Economics",
+     "people": [
+      "James E. Foster",
+      "Sabina Alkire"
+     ],
+     "n_nominations": 8,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "These axiomatically characterized, decomposable indices are used by statistical agencies and international organizations worldwide, including the global Multidimensional Poverty Index. Reservations are closeness to Sen's prize, incremental originality and attribution to coauthors who are not named or deceased.",
+   "grouping_note": "Joins Foster-Shorrocks pairings with Foster-Alkire multidimensional poverty nominations; Bourguignon is named in n085, n100 and n102 and left out, and the Shorrocks-led inequality-decomposition line is kept as a separate candidate.",
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#5",
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/peter-fredriksson/#5",
+    "anthropic/per-stromberg/#4",
+    "anthropic/timo-boppart/#5",
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/randi-hjalmarsson/#4",
+    "anthropic/jan-teorell/#2",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/peter-fredriksson/#2",
+    "openai/timo-boppart/#5",
+    "openai/kerstin-enflo/#1",
+    "openai/randi-hjalmarsson/#5",
+    "openai/jan-teorell/#2",
+    "openai/per-krusell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "motivation": "for the impossibility theorem on strategy-proof social choice",
+   "jel_code": "D71",
+   "jel_code_mode": "D71",
+   "score": 1.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.7273,
+    "gpt-5.5-2026-04-23": 1.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 4,
+   "n_nominations": 7,
+   "nominations_per_model": {
+    "A": 3,
+    "O": 4,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (A, O)",
+    "Richard Friberg (A, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Allan Gibbard",
+     "born": 1942,
+     "affiliation": "University of Michigan",
+     "n_nominations": 7,
+     "models": "A O",
+     "weight": 1.7273
+    },
+    {
+     "name": "Mark A. Satterthwaite",
+     "born": 1945,
+     "affiliation": "Northwestern University",
+     "n_nominations": 7,
+     "models": "A O",
+     "weight": 1.7273
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Hervé Moulin",
+     "affiliation": "University of Glasgow",
+     "born": 1950,
+     "weight": 0.2727,
+     "n_nominations": 1
+    },
+    {
+     "name": "Salvador Barberà",
+     "affiliation": "Universitat Autònoma de Barcelona",
+     "born": 1946,
+     "weight": 0.1818,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Gibbard, 1973: Manipulation of voting schemes: a general result, Econometrica",
+     "people": [
+      "Allan Gibbard"
+     ],
+     "n_nominations": 7,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Satterthwaite, 1975: Strategy-proofness and Arrow's conditions, Journal of Economic Theory",
+     "people": [
+      "Mark A. Satterthwaite"
+     ],
+     "n_nominations": 5,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The Gibbard-Satterthwaite theorem is a foundational, exact result underpinning mechanism design and voting theory. The reservation is overlap with the Arrow and mechanism-design prizes and that Gibbard is a philosopher.",
+   "grouping_note": "Barberà (n039) and Moulin (n093) are added as third names on single ballots and left out.",
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/richard-friberg/#4",
+    "anthropic/per-krusell/#5",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/kerstin-enflo/#4",
+    "openai/richard-friberg/#3",
+    "openai/per-krusell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "motivation": "for the development of applied general equilibrium analysis of tax and trade policy",
+   "jel_code": "C68",
+   "jel_code_mode": "C68",
+   "score": 1.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.2727,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 0.6364
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 5,
+   "n_nominations": 8,
+   "nominations_per_model": {
+    "A": 2,
+    "O": 4,
+    "G": 2
+   },
+   "supporters": [
+    "Jan Teorell (O)",
+    "Per Strömberg (O)",
+    "Peter Fredriksson (A, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "John B. Shoven",
+     "born": 1947,
+     "affiliation": "Stanford University",
+     "n_nominations": 8,
+     "models": "A O G",
+     "weight": 1.3636
+    },
+    {
+     "name": "John Whalley",
+     "born": 1947,
+     "affiliation": "University of Western Ontario",
+     "n_nominations": 8,
+     "models": "A O G",
+     "weight": 1.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Thomas F. Rutherford",
+     "affiliation": "University of Wisconsin-Madison",
+     "born": null,
+     "weight": 0.2727,
+     "n_nominations": 2
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Shoven and Whalley, 1984: Applied General-Equilibrium Models of Taxation and International Trade, Journal of Economic Literature",
+     "people": [
+      "John B. Shoven",
+      "John Whalley"
+     ],
+     "n_nominations": 8,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Shoven and Whalley, 1992: Applying General Equilibrium, Cambridge University Press",
+     "people": [
+      "John B. Shoven",
+      "John Whalley"
+     ],
+     "n_nominations": 5,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Shoven and Whalley, 1972: A General Equilibrium Calculation of the Effects of Differential Taxation of Income from Capital in the U.S., Journal of Public Economics",
+     "people": [
+      "John B. Shoven",
+      "John Whalley"
+     ],
+     "n_nominations": 3,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They made general-equilibrium welfare analysis operational for tax, trade and environmental policy counterfactuals. The reservation is reliance on calibration rather than estimation, and that Scarf, the originator, is deceased.",
+   "grouping_note": "Thomas F. Rutherford is added in n074 and n095 and left out of the lineup.",
+   "nomination_ids": [
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/richard-friberg/#5",
+    "openai/peter-fredriksson/#4",
+    "openai/per-stromberg/#5",
+    "openai/richard-friberg/#5",
+    "openai/jan-teorell/#5",
+    "gemini/timo-boppart/#1",
+    "gemini/richard-friberg/#4"
+   ],
+   "flags": [
+    "resembles an awarded motivation: 1972 John R. Hicks; Kenneth J. Arrow: \"for their pioneering contributions to general econo (word overlap 0.43)"
+   ]
+  },
+  {
+   "rank": 9,
+   "motivation": "for the empirical analysis of long-run trends in income and wealth inequality",
+   "jel_code": "D63",
+   "jel_code_mode": "D63",
+   "score": 1.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 1.3636
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 3,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 3
+   },
+   "supporters": [
+    "Per Strömberg (G)",
+    "Peter Fredriksson (G)",
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Thomas Piketty",
+     "born": 1971,
+     "affiliation": "Paris School of Economics",
+     "n_nominations": 3,
+     "models": "G",
+     "weight": 1.3636
+    },
+    {
+     "name": "Emmanuel Saez",
+     "born": 1973,
+     "affiliation": "UC Berkeley",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.9091
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Piketty and Saez, 2003: Income Inequality in the United States, 1913-1998, Quarterly Journal of Economics",
+     "people": [
+      "Thomas Piketty",
+      "Emmanuel Saez"
+     ],
+     "n_nominations": 2,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Piketty, 2003: Income Inequality in France, 1901-1998, Journal of Political Economy",
+     "people": [
+      "Thomas Piketty"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They pioneered extraction of top income shares from historical tax records, establishing a new factual baseline for distributional analysis. No explicit reservation is given.",
+   "grouping_note": "n146 names Piketty alone.",
+   "nomination_ids": [
+    "gemini/peter-fredriksson/#1",
+    "gemini/per-stromberg/#1",
+    "gemini/richard-friberg/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "motivation": "for numerical methods that made dynamic economic models computable",
+   "jel_code": "C63",
+   "jel_code_mode": "C63",
+   "score": 1.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.6364,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 4,
+   "n_nominations": 5,
+   "nominations_per_model": {
+    "A": 3,
+    "O": 1,
+    "G": 1
+   },
+   "supporters": [
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A)",
+    "Per Krusell (A)",
+    "Timo Boppart (A)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Kenneth L. Judd",
+     "born": 1953,
+     "affiliation": "Hoover Institution, Stanford University",
+     "n_nominations": 5,
+     "models": "A O G",
+     "weight": 1.0909
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Albert Marcet",
+     "affiliation": "Institute for Economic Analysis, CSIC and Barcelona School of Economics",
+     "born": 1960,
+     "weight": 0.0909,
+     "n_nominations": 1
+    },
+    {
+     "name": "John Rust",
+     "affiliation": "Georgetown University",
+     "born": 1955,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Judd, 1998: Numerical Methods in Economics, MIT Press",
+     "people": [
+      "Kenneth L. Judd"
+     ],
+     "n_nominations": 5,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Judd, 1992: Projection Methods for Solving Aggregate Growth Models, Journal of Economic Theory",
+     "people": [
+      "Kenneth L. Judd"
+     ],
+     "n_nominations": 4,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "These methods made previously intractable dynamic models solvable and are infrastructure across macro, public finance and IO. The reservation is that they are tools rather than a substantive insight and attribution is diffuse.",
+   "grouping_note": "Albert Marcet and John Rust are added in n060 and left out of the lineup.",
+   "nomination_ids": [
+    "anthropic/timo-boppart/#3",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/per-krusell/#3",
+    "openai/john-hassler/#5",
+    "gemini/john-hassler/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "motivation": "for general equilibrium models with heterogeneous agents, incomplete markets and idiosyncratic risk",
+   "jel_code": "D52",
+   "jel_code_mode": "D52",
+   "score": 0.8182,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.8182
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Kerstin Enflo (G)",
+    "Per Strömberg (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Truman Bewley",
+     "born": 1941,
+     "affiliation": "Yale University",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.8182
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Bewley, 1977: The Permanent Income Hypothesis: A Theoretical Formulation, Journal of Economic Theory",
+     "people": [
+      "Truman Bewley"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Bewley, 1986: Equilibrium with a Continuum of Independent Consumers",
+     "people": [
+      "Truman Bewley"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "His models map shocks onto distributional consequences within an equilibrium framework. Nominations offer little explicit reservation beyond the link being largely theoretical.",
+   "grouping_note": "Kept apart from the Geanakoplos-Polemarchakis incomplete-markets candidate as a distinct heterogeneous-agent programme.",
+   "nomination_ids": [
+    "gemini/per-stromberg/#2",
+    "gemini/kerstin-enflo/#1"
+   ],
+   "flags": [
+    "Truman Bewley: born 1941 (age 85 in 2026)"
+   ]
+  },
+  {
+   "rank": 12,
+   "motivation": "for decomposable inequality measures and the decomposition of inequality by groups and income sources",
+   "jel_code": "D63",
+   "jel_code_mode": "D63",
+   "score": 0.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.3636,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "O G",
+   "n_models": 2,
+   "n_members": 4,
+   "n_nominations": 4,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 2,
+    "G": 2
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Kerstin Enflo (O)",
+    "Peter Fredriksson (G)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Anthony F. Shorrocks",
+     "born": 1946,
+     "affiliation": "UNU-WIDER",
+     "n_nominations": 2,
+     "models": "O",
+     "weight": 0.3636
+    },
+    {
+     "name": "François Bourguignon",
+     "born": 1945,
+     "affiliation": "Paris School of Economics",
+     "n_nominations": 3,
+     "models": "O G",
+     "weight": 0.4545
+    },
+    {
+     "name": "Frank A. Cowell",
+     "born": 1947,
+     "affiliation": "London School of Economics",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.2727
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Branko Milanovic",
+     "affiliation": "CUNY Graduate Center",
+     "born": 1953,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Bourguignon, 1979: Decomposable Income Inequality Measures, Econometrica",
+     "people": [
+      "François Bourguignon"
+     ],
+     "n_nominations": 3,
+     "models": "O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Shorrocks, 1982: Inequality Decomposition by Factor Components, Econometrica",
+     "people": [
+      "Anthony F. Shorrocks"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Cowell, 1980: \"On the Structure of Additive Inequality Measures\", Review of Economic Studies",
+     "people": [
+      "Frank A. Cowell"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "These works supplied the formal apparatus for decomposing inequality within and across groups, regions and income sources, indispensable for empirical distributional analysis. The reservation is that the work is measurement-oriented and less visible outside distributional analysis.",
+   "grouping_note": "Kept apart from the Foster poverty-measurement candidate because ballot b18 nominated the two separately; Milanovic (n065) is left out of the lineup.",
+   "nomination_ids": [
+    "openai/tommy-andersson/#5",
+    "openai/kerstin-enflo/#3",
+    "gemini/anna-dreber-almenberg/#3",
+    "gemini/peter-fredriksson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "motivation": "for the theory of social and economic networks and their welfare implications",
+   "jel_code": "D85",
+   "jel_code_mode": "D50",
+   "score": 0.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.7273
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 3,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 3
+   },
+   "supporters": [
+    "John Hassler (G)",
+    "Per Strömberg (G)",
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Matthew O. Jackson",
+     "born": 1962,
+     "affiliation": "Stanford University",
+     "n_nominations": 3,
+     "models": "G",
+     "weight": 0.7273
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Jackson and Wolinsky, 1996: A Strategic Model of Social and Economic Networks, Journal of Economic Theory",
+     "people": [
+      "Matthew O. Jackson"
+     ],
+     "n_nominations": 3,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Jackson built the tractable framework for endogenous network formation and its mapping into aggregate welfare and systemic risk. Field placement within equilibrium and welfare is a tacit reservation.",
+   "grouping_note": "Three nominations naming Jackson alone with the same key work.",
+   "nomination_ids": [
+    "gemini/john-hassler/#4",
+    "gemini/per-stromberg/#3",
+    "gemini/richard-friberg/#3"
+   ],
+   "flags": [
+    "resembles an awarded motivation: 1975 Leonid Vitaliyevich Kantorovich; Tjalling C. Koopmans: \"for their contributions to th (word overlap 0.40)"
+   ]
+  },
+  {
+   "rank": 14,
+   "motivation": "for the concept of envy-freeness and its application to fair resource allocation",
+   "jel_code": "D63",
+   "jel_code_mode": "D63",
+   "score": 0.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.5455
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Per Krusell (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Duncan Foley",
+     "born": 1942,
+     "affiliation": "The New School",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    },
+    {
+     "name": "Hal Varian",
+     "born": 1947,
+     "affiliation": "Google / University of California, Berkeley",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.5455
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Varian, H. R., 1974: Equity, envy, and efficiency, Journal of Economic Theory",
+     "people": [
+      "Hal Varian"
+     ],
+     "n_nominations": 2,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Foley, D. K., 1967: Resource allocation and the public sector, Yale Economic Essays",
+     "people": [
+      "Duncan Foley"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They formalized envy-freeness, a tractable and precise equity criterion and cornerstone of normative allocation. The original focus on divisible goods needs extension to indivisibilities.",
+   "grouping_note": "n164 names Varian alone; Varian 1974 also appears in fair-allocation nominations grouped with Moulin and Thomson.",
+   "nomination_ids": [
+    "gemini/tommy-andersson/#2",
+    "gemini/per-krusell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "motivation": "for nonparametric revealed-preference methods for demand and welfare analysis",
+   "jel_code": "D60",
+   "jel_code_mode": "D60",
+   "score": 0.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.5455,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 2,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Timo Boppart (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Hal R. Varian",
+     "born": 1947,
+     "affiliation": "University of California, Berkeley and Google",
+     "n_nominations": 2,
+     "models": "O",
+     "weight": 0.5455
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Varian, 1982: The Nonparametric Approach to Demand Analysis, Econometrica",
+     "people": [
+      "Hal R. Varian"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Varian, 1983: Non-Parametric Tests of Consumer Behaviour, Review of Economic Studies",
+     "people": [
+      "Hal R. Varian"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Varian, 1990: Goodness-of-Fit in Optimizing Models, Journal of Econometrics",
+     "people": [
+      "Hal R. Varian"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Varian made demand and welfare analysis testable with minimal functional-form assumptions. Its power depends on data richness and foundational revealed preference owes much to earlier deceased contributors.",
+   "grouping_note": "Two nominations naming Varian alone with identical works; kept apart from his envy-freeness work.",
+   "nomination_ids": [
+    "openai/anna-dreber-almenberg/#3",
+    "openai/timo-boppart/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "motivation": "for the experimental analysis of social preferences and their welfare implications",
+   "jel_code": "D64",
+   "jel_code_mode": "D64",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Ernst Fehr",
+     "born": 1956,
+     "affiliation": "University of Zurich",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Fehr and Schmidt, 1999: A Theory of Fairness, Competition, and Cooperation, Quarterly Journal of Economics",
+     "people": [
+      "Ernst Fehr"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Fehr and Gachter, 2000: Cooperation and Punishment in Public Goods Experiments, American Economic Review",
+     "people": [
+      "Ernst Fehr"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Replicable experiments showed that fairness and reciprocity alter equilibrium and welfare. No reservation is stated.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "motivation": "for recursive methods in economic dynamics and their application to macroeconomic theory",
+   "jel_code": "C61",
+   "jel_code_mode": "C61",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Per Krusell (G)"
+   ],
+   "roles": [
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Nancy L. Stokey",
+     "born": 1950,
+     "affiliation": "University of Chicago",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Stokey, Lucas, and Prescott, 1989: Recursive Methods in Economic Dynamics, Harvard University Press",
+     "people": [
+      "Nancy L. Stokey"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "She co-developed the toolkit for dynamic programming and recursive competitive equilibrium underpinning quantitative macroeconomics. No reservation is stated.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/per-krusell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "motivation": "for incorporating psychological realism into economic theory and welfare economics",
+   "jel_code": "D60",
+   "jel_code_mode": "D60",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Matthew Rabin",
+     "born": 1962,
+     "affiliation": "Harvard University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Rabin, 1993: Incorporating Fairness into Game Theory and Economics, American Economic Review",
+     "people": [
+      "Matthew Rabin"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "O'Donoghue and Rabin, 1999: Doing It Now or Later, American Economic Review",
+     "people": [
+      "Matthew Rabin"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Rabin formalized fairness and time inconsistency into testable equilibrium models. The reservation is whether behavioral parameters are stable enough for welfare calculation.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 19,
+   "motivation": "for the empirical analysis of consumer behavior, labor supply and welfare reform",
+   "jel_code": "D60",
+   "jel_code_mode": "D60",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Peter Fredriksson (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Richard Blundell",
+     "born": 1952,
+     "affiliation": "University College London",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Blundell and MaCurdy, 1999: Labor Supply: A Review of Alternative Approaches, Handbook of Labor Economics",
+     "people": [
+      "Richard Blundell"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "He integrates quasi-experimental and structural life-cycle labor supply models for robust welfare conclusions on taxation and transfers. No reservation is stated.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/peter-fredriksson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 20,
+   "motivation": "for the analysis of market demand and aggregation in general equilibrium",
+   "jel_code": "D51",
+   "jel_code_mode": "D51",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Werner Hildenbrand",
+     "born": 1936,
+     "affiliation": "University of Bonn",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Hildenbrand, 1983: On the 'Law of Demand', Econometrica",
+     "people": [
+      "Werner Hildenbrand"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "He established conditions on income distributions under which aggregate demand behaves predictably. The reservation is technical abstraction.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/timo-boppart/#2"
+   ],
+   "flags": [
+    "Werner Hildenbrand: born 1936 (age 90 in 2026)"
+   ]
+  },
+  {
+   "rank": 21,
+   "motivation": "for normative policy analysis and welfare evaluation under uncertainty",
+   "jel_code": "D61",
+   "jel_code_mode": "D61",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Charles F. Manski",
+     "born": 1948,
+     "affiliation": "Northwestern University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.2727
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Manski, 2013: Public Policy in an Uncertain World, Harvard UP",
+     "people": [
+      "Charles F. Manski"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "His partial-identification approach forces transparency about what can be learned for policy evaluation. No reservation is stated.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/randi-hjalmarsson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "motivation": "for the analysis of learning dynamics and the evolution of social conventions",
+   "jel_code": "C62",
+   "jel_code_mode": "C62",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "H. Peyton Young",
+     "born": 1945,
+     "affiliation": "University of Oxford",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Peyton Young",
+     "affiliation": "University of Oxford",
+     "born": 1945,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Young, 1993: The Evolution of Conventions, Econometrica",
+     "people": [
+      "H. Peyton Young"
+     ],
+     "n_nominations": 2,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Young's evolutionary models explain how stable conventions and norms emerge from decentralized learning, with experimentally tested predictions. Its placement is more game theory than welfare economics.",
+   "grouping_note": "Kept apart from Young's fair-division work grouped with Moulin and Thomson.",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#5",
+    "gemini/randi-hjalmarsson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 23,
+   "motivation": "for the discovery of sunspot equilibria and extrinsic uncertainty in dynamic economies",
+   "jel_code": "D51",
+   "jel_code_mode": "D51",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "John Hassler (A)"
+   ],
+   "roles": [
+    "chair"
+   ],
+   "people": [
+    {
+     "name": "Karl Shell",
+     "born": 1938,
+     "affiliation": "Cornell University",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.1818
+    },
+    {
+     "name": "Costas Azariadis",
+     "born": null,
+     "affiliation": "Washington University in St. Louis",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Azariadis, 1981: Self-Fulfilling Prophecies, Journal of Economic Theory",
+     "people": [
+      "Costas Azariadis"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Cass and Shell, 1983: Do Sunspots Matter?, Journal of Political Economy",
+     "people": [
+      "Karl Shell"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They showed that beliefs alone can drive equilibrium fluctuations, a lasting idea in macro and finance. It has had limited quantitative traction and Cass is deceased.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/john-hassler/#4"
+   ],
+   "flags": [
+    "Karl Shell: born 1938 (age 88 in 2026)"
+   ]
+  },
+  {
+   "rank": 24,
+   "motivation": "for the analysis of bounded rationality and its implications for equilibrium theory",
+   "jel_code": "D50",
+   "jel_code_mode": "D50",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Jan Teorell (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Ariel Rubinstein",
+     "born": 1951,
+     "affiliation": "Tel Aviv University / NYU",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Rubinstein, 1998: Modeling Bounded Rationality, MIT Press",
+     "people": [
+      "Ariel Rubinstein"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "His work gives a more realistic, formally rigorous foundation for behavior within rules. Bridging it to empirical data remains distant.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/jan-teorell/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

@@ -1,0 +1,1067 @@
+{
+ "stage": "merge",
+ "member": "richard-friberg",
+ "name": "Richard Friberg",
+ "role": "co-opted member",
+ "title": "Professor of economics",
+ "affiliation": "Department of Economics, Stockholm School of Economics",
+ "merger": "claude-opus-5-5",
+ "written": "2026-10-09T23:54:01+00:00",
+ "inputs": {
+  "A": {
+   "model": "claude-opus-5-5",
+   "written": "2026-10-09T23:49:32+00:00",
+   "recognized": true,
+   "confidence": "medium"
+  },
+  "O": {
+   "model": "gpt-5.5-2026-04-23",
+   "written": "2026-10-09T23:50:21+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "G": {
+   "model": "gemini-3.1-pro-preview",
+   "written": "2026-10-09T23:49:19+00:00",
+   "recognized": true,
+   "confidence": "high"
+  }
+ },
+ "missing_inputs": [],
+ "prompt": {
+  "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+  "user_chars": 20637
+ },
+ "attempts": [
+  {
+   "provider": "anthropic",
+   "model_requested": "claude-opus-5-5",
+   "model_reported": "claude-opus-5-5",
+   "request": {
+    "url": "https://api.anthropic.com/v1/messages",
+    "header_names": [
+     "x-api-key",
+     "anthropic-version: 2023-06-01",
+     "content-type"
+    ],
+    "body": {
+     "model": "claude-opus-5-5",
+     "max_tokens": 32000,
+     "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+     "messages": [
+      {
+       "role": "user",
+       "content": "Committee member: Richard Friberg\nAffiliation: Department of Economics, Stockholm School of Economics\nCommittee role in 2026: co-opted member\nTitle as listed by nobelprize.org: Professor of economics\n\nProfile A:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"medium\",\n  \"note\": \"Richard Friberg is a professor of economics at the Stockholm School of Economics. He works mainly in industrial organization and international economics: pricing, exchange-rate pass-through and currency invoicing, cross-border shopping and market integration, competition policy, and how firms handle risk and uncertainty. He has held a chair at SSE for many years and is a member of the Royal Swedish Academy of Sciences or closely tied to its prize work. I am not certain of the exact years of his earlier involvement with the prize committee. The 2026 role as co-opted member comes from the prompt.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Industrial organization: pricing, demand estimation, competition and merger policy\",\n   \"jel_codes\": [\n    \"L11\",\n    \"L13\",\n    \"L40\",\n    \"L66\",\n    \"D22\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"International economics: exchange-rate pass-through, invoicing currency, market segmentation, law of one price\",\n   \"jel_codes\": [\n    \"F12\",\n    \"F14\",\n    \"F31\",\n    \"F41\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Firm risk management and decision-making under uncertainty\",\n   \"jel_codes\": [\n    \"D81\",\n    \"G32\",\n    \"L21\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Applied microeconomics of consumer behavior: cross-border shopping, taxation of alcohol/tobacco/sugar, information and reviews\",\n   \"jel_codes\": [\n    \"H21\",\n    \"H71\",\n    \"D12\",\n    \"M37\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Cross-border shopping and how distance, prices and taxes drive it, including the extensive margin of consumers' decisions to shop abroad\",\n   \"period\": \"c. 2018-2024\",\n   \"basis\": \"Work with Norwegian coauthors (Frode Steen, Simen Ulsaker) using Nordic data on cross-border trips and purchases\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Evaluation of competition policy remedies and mergers in retail and consumer goods markets\",\n   \"period\": \"c. 2015-2023\",\n   \"basis\": \"Empirical IO papers on divestiture remedies and market structure in Nordic markets\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"How firms perceive and manage risk and ambiguity, e.g. text-based measures from corporate filings, hedging and cash holdings\",\n   \"period\": \"c. 2015-2022\",\n   \"basis\": \"His 2015 MIT Press book on risk management and related papers\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Pricing behavior, price rigidity and pass-through using micro price data\",\n   \"period\": \"ongoing\",\n   \"basis\": \"Long-running line of work on pricing and exchange rates\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Managing Risk and Uncertainty: A Strategic Approach\",\n   \"year\": \"2015\",\n   \"venue\": \"MIT Press\",\n   \"coauthors\": [],\n   \"contribution\": \"A book-length treatment of how firms should handle risk and uncertainty, combining operational, financial and strategic responses. It draws on IO and finance theory as well as evidence.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"The currency denomination of exports — A questionnaire study\",\n   \"year\": \"2008\",\n   \"venue\": \"Journal of International Economics\",\n   \"coauthors\": [\n    \"Fredrik Wilander\"\n   ],\n   \"contribution\": \"Survey evidence from Swedish exporters on invoicing-currency choice and price setting. It is a reference point for the literature on invoicing currency and pass-through.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Demand and distance: Evidence on cross-border shopping\",\n   \"year\": \"2007\",\n   \"venue\": \"Journal of Public Economics\",\n   \"coauthors\": [\n    \"Marcus Asplund\",\n    \"Fredrik Wilander\"\n   ],\n   \"contribution\": \"Estimates how alcohol sales in Swedish regions respond to foreign prices as a function of distance to the border. This shows the limits that cross-border shopping places on national excise taxation.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Do Expert Reviews Affect the Demand for Wine?\",\n   \"year\": \"2012\",\n   \"venue\": \"American Economic Journal: Applied Economics\",\n   \"coauthors\": [\n    \"Erik Grönqvist\"\n   ],\n   \"contribution\": \"Uses Swedish monopoly retail data and the timing of newspaper reviews to identify the causal effect of expert reviews on demand.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Two monies, two markets? Variability and the option to segment\",\n   \"year\": \"2001\",\n   \"venue\": \"Journal of International Economics\",\n   \"coauthors\": [],\n   \"contribution\": \"A theoretical analysis of how exchange-rate variability shapes firms' incentives to segment international markets.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Divestiture requirements as a tool for competition policy: A case from the Swedish beer market\",\n   \"year\": \"2015\",\n   \"venue\": \"International Journal of Industrial Organization\",\n   \"coauthors\": [\n    \"André Romahn\"\n   ],\n   \"contribution\": \"An ex post, structural-demand assessment of a merger remedy (brand divestiture) in the Swedish beer market.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Risk and ambiguity in 10-Ks: An examination of cash holding and derivatives use\",\n   \"year\": \"2017\",\n   \"venue\": \"Journal of Corporate Finance\",\n   \"coauthors\": [\n    \"Thomas Seiler\"\n   ],\n   \"contribution\": \"Builds text-based measures of risk versus ambiguity from firms' annual reports and relates them to cash holdings and hedging.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Does a common currency lead to (more) price equalization? The role of psychological pricing points\",\n   \"year\": \"2004\",\n   \"venue\": \"Economics Letters\",\n   \"coauthors\": [\n    \"Thomas Y. Mathä\"\n   ],\n   \"contribution\": \"Examines price convergence after the euro introduction and the role of attractive price points.\",\n   \"confidence\": \"low\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"An applied microeconomist rooted in industrial organization and international economics. His work is consistently close to real markets: firms' pricing, consumers' responses to prices and information, and the design and evaluation of competition and tax policy.\",\n  \"research_lens\": \"Sees economic questions through how firms set prices and compete and how consumers respond, often in an open-economy setting with borders, currencies and taxes. Inference: he would weigh whether a candidate's ideas changed how economists understand markets, firm behavior and policy toward competition.\",\n  \"methods_and_evidence\": \"His own work combines simple theoretical models with empirical work on detailed micro data, often Nordic registry or retail data. It also uses natural experiments (timing of reviews, distance to borders), structural demand estimation, surveys of firms and text analysis. Inference: he values credible identification together with clear economic mechanisms, and evidence drawn from actual firm and consumer behavior.\",\n  \"what_they_value_in_contributions\": \"Inference from his record: contributions that link theory to measurable behavior. He would also value work that informs real policy, such as competition enforcement, merger remedies, taxation and exchange-rate regimes, and ideas that proved broadly useful across empirical applications. He would likely appreciate IO and trade contributions, and work on decision-making under uncertainty in firms.\",\n  \"likely_questions_in_deliberation\": [\n   \"Has this theory been confronted with micro data on actual firm or consumer behavior, and did it hold up?\",\n   \"How has the work changed policy practice, for example in competition authorities, tax design or trade policy?\",\n   \"Is the contribution a genuinely new framework, or a refinement of existing tools?\",\n   \"How robust is the identification strategy behind the key empirical findings?\",\n   \"Who are the originators versus the later developers of this line of work, and how should credit be shared?\",\n   \"Does the work speak to how firms actually deal with uncertainty and market frictions?\"\n  ],\n  \"committee_experience\": \"Listed as a co-opted member of the 2026 committee. I believe he has been involved with the economics prize committee in earlier years, but I cannot confirm the exact years or roles.\"\n },\n \"knowledge_limits\": \"My knowledge comes from training data reaching roughly 2024–2025. I am unsure of exact publication years, venues and coauthors for some works, particularly the lower-confidence entries. I do not know his work from 2024–2026 in detail, nor the precise history of his committee service. I have no knowledge of his views on specific 2026 candidates.\"\n}\n\nProfile O:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Richard Friberg is a professor of economics at the Stockholm School of Economics. The affiliation and title match the economist known for work in international economics, industrial organization, pricing, exchange-rate pass-through, currency denomination of trade, and firm risk management.\"\n },\n \"fields\": [\n  {\n   \"field\": \"International economics: exchange rates, export pricing, invoicing currency, pricing-to-market, exchange-rate pass-through\",\n   \"jel_codes\": [\n    \"F31\",\n    \"F41\",\n    \"F14\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Industrial organization and applied microeconomics: market segmentation, price dispersion, competition in retail and product markets\",\n   \"jel_codes\": [\n    \"L11\",\n    \"L13\",\n    \"L81\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Risk management and firm strategy under uncertainty\",\n   \"jel_codes\": [\n    \"D81\",\n    \"G32\",\n    \"M21\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"European market integration and effects of common currency arrangements on product-market arbitrage and pricing\",\n   \"jel_codes\": [\n    \"F15\",\n    \"F36\",\n    \"L16\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"How firms set prices and choose invoicing currencies when facing exchange-rate risk and imperfect competition\",\n   \"period\": \"Long-running research line; still central to his public research profile as of my knowledge through 2024\",\n   \"basis\": \"Published articles on exporters’ currency denomination, exchange-rate uncertainty, and international price setting.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Firm-level risk management and strategic responses to uncertainty\",\n   \"period\": \"Especially visible in the 2010s and continuing in teaching/public research profile\",\n   \"basis\": \"His book on managing risk and uncertainty and related applied work on how firms respond strategically to risk.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Competition, pricing, and market segmentation in retail/product markets, including implications of lower search costs or market integration\",\n   \"period\": \"Research line spanning the 2000s–2020s in his profile, though I cannot verify specific 2021–2026 publications from memory\",\n   \"basis\": \"Work on common-currency/common-market questions and e-commerce/price competition lines associated with his research agenda.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"In which currency should exporters set their prices?\",\n   \"year\": \"1998\",\n   \"venue\": \"Journal of International Economics\",\n   \"coauthors\": [],\n   \"contribution\": \"Analyzes exporters’ currency-of-pricing decisions under exchange-rate uncertainty, linking invoice-currency choice to market structure, demand, and risk exposure.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Two monies, two markets? Variability and the option to segment\",\n   \"year\": \"2001\",\n   \"venue\": \"Journal of International Economics\",\n   \"coauthors\": [],\n   \"contribution\": \"Studies how the presence of different currencies and exchange-rate variability can sustain market segmentation and affect firms’ pricing/arbitrage incentives.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Common currency, common market?\",\n   \"year\": \"\",\n   \"venue\": \"\",\n   \"coauthors\": [\n    \"Mathias Ganslandt\"\n   ],\n   \"contribution\": \"Examines whether a common currency promotes product-market integration and reduces price segmentation; representative of Friberg’s work connecting exchange-rate regimes to industrial-organization outcomes.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"The currency denomination of exports—a questionnaire study\",\n   \"year\": \"2008\",\n   \"venue\": \"Journal of International Economics\",\n   \"coauthors\": [\n    \"Fredrik Wilander\"\n   ],\n   \"contribution\": \"Uses survey evidence from exporting firms to document which currencies firms use in export contracts and what factors shape denomination choices.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Managing Risk and Uncertainty: A Strategic Approach\",\n   \"year\": \"2015\",\n   \"venue\": \"MIT Press\",\n   \"coauthors\": [],\n   \"contribution\": \"Synthesizes economic and strategic approaches to risk and uncertainty, emphasizing how firms can identify, measure, and respond to risk in competitive environments.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"Friberg would plausibly bring the perspective of an applied microeconomist/international economist interested in how real firms behave under uncertainty, especially when market power, exchange rates, contract currency, and market segmentation interact. This is an inference from his research record rather than a statement about his private views.\",\n  \"research_lens\": \"His work tends to connect international macro/finance variables—especially exchange rates and currency regimes—to microeconomic mechanisms inside firms and product markets: pricing, invoicing, arbitrage, competition, and risk management. In a prize discussion he would likely attend to whether a contribution identifies an economically important mechanism and shows how it changes firm behavior or market outcomes.\",\n  \"methods_and_evidence\": \"His representative work uses formal economic modeling combined with applied evidence, including survey evidence from firms and empirical analysis of product-market or trade-related settings. He would likely value clean mechanisms, credible measurement, and evidence that moves beyond aggregate correlations to the decision margins faced by firms.\",\n  \"what_they_value_in_contributions\": \"Based on his record, he would likely value contributions that clarify how uncertainty, institutions, and market structure affect observable economic behavior; that bridge theory and real-world firm practice; and that have implications for international trade, competition, policy, or managerial decision-making. He may be especially attentive to whether a candidate’s work has changed how economists understand pricing, risk, market integration, or firm heterogeneity.\",\n  \"likely_questions_in_deliberation\": [\n   \"What is the precise mechanism, and is it empirically distinguishable from competing explanations?\",\n   \"Does the contribution operate at the level where decisions are actually made—firms, contracts, prices, and markets—or only at a highly aggregated level?\",\n   \"How robust is the evidence across institutional settings, market structures, and time periods?\",\n   \"Did the work change subsequent empirical practice or theoretical modeling in a durable way?\",\n   \"Are the policy or welfare implications clear, especially for trade, competition, market integration, or risk management?\"\n  ],\n  \"committee_experience\": \"For 2026 he is listed as a co-opted member of the Committee for the Prize in Economic Sciences in Memory of Alfred Nobel. I do not know from memory whether he served on the committee in earlier years or in other Nobel-related roles.\"\n },\n \"knowledge_limits\": \"My knowledge is based on general professional information available up to roughly 2024 and memory, with no web access. I am confident about the identity, broad fields, and several core works, especially the 1998 Journal of International Economics article, the 2001 Journal of International Economics article, the 2008 Journal of International Economics questionnaire study with Fredrik Wilander, and the 2015 MIT Press book. I am less certain about exact bibliographic details for some coauthored work on common currency/market integration and about his most recent 2024–2026 publications or committee service history.\"\n}\n\nProfile G:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Richard Friberg is a Professor of Economics at the Stockholm School of Economics (SSE), known for his work in industrial organization, international economics, and risk management.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Industrial Organization\",\n   \"jel_codes\": [\n    \"L1\",\n    \"L8\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"International Economics\",\n   \"jel_codes\": [\n    \"F3\",\n    \"F4\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Corporate Finance and Risk Management\",\n   \"jel_codes\": [\n    \"G3\",\n    \"D8\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Digitalization and retail market dynamics\",\n   \"period\": \"2015-2024\",\n   \"basis\": \"Publications and working papers analyzing structural changes, productivity, and e-commerce impacts in the Swedish retail sector.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Firm-level risk management\",\n   \"period\": \"2010-2024\",\n   \"basis\": \"His textbook 'Managing Risk and Uncertainty' and subsequent work on how firms navigate operational and financial risks.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"In which currency should exporters set their prices?\",\n   \"year\": \"1998\",\n   \"venue\": \"Journal of International Economics\",\n   \"coauthors\": [],\n   \"contribution\": \"Develops a theoretical model explaining how exchange rate uncertainty and market structure influence an exporter's choice of invoicing currency.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"The Law of One Price in Scandinavian Duty-Free Stores\",\n   \"year\": \"2001\",\n   \"venue\": \"American Economic Review\",\n   \"coauthors\": [\n    \"Marcus Asplund\"\n   ],\n   \"contribution\": \"Uses unique micro-level data from duty-free catalogs to test the Law of One Price and examine price discrimination in the presence of fluctuating exchange rates.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Managing Risk and Uncertainty: A Strategic Approach\",\n   \"year\": \"2015\",\n   \"venue\": \"MIT Press\",\n   \"coauthors\": [],\n   \"contribution\": \"Provides a comprehensive, microeconomics-based framework for integrating financial risk management with corporate strategy and operational flexibility.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"An applied microeconomist whose research bridges industrial organization, international trade, and corporate strategy. He focuses heavily on firm-level decision-making, particularly regarding pricing and risk management in the presence of uncertainty and structural changes.\",\n  \"research_lens\": \"Views macroeconomic and trade phenomena through a strict microeconomic lens, emphasizing how individual firms behave, set prices, and manage risks in imperfectly competitive markets.\",\n  \"methods_and_evidence\": \"Relies on applied microeconomic theory and empirical IO, frequently utilizing detailed firm-level microdata, pricing registries, and natural experiments (like exchange rate fluctuations) to test theoretical predictions.\",\n  \"what_they_value_in_contributions\": \"Values work that provides strong micro-foundations for broader economic phenomena, robust empirical identification using granular data, and practical relevance to actual firm strategy and market dynamics.\",\n  \"likely_questions_in_deliberation\": [\n   \"Are the micro-foundations of this model consistent with how firms actually set prices and manage risk?\",\n   \"Does the empirical evidence effectively isolate the mechanism at the firm level, or is it confounded by aggregate shocks?\",\n   \"How does this contribution improve our understanding of market imperfections and firm strategy in a globalized context?\"\n  ],\n  \"committee_experience\": \"As a co-opted member from the Stockholm School of Economics, he brings specialized expertise in industrial organization and applied microeconomics to complement the broader macro, theory, or econometrics expertise of the core committee.\"\n },\n \"knowledge_limits\": \"I am confident in his major contributions to international pricing and risk management up to the early 2020s. My knowledge of his most recent working papers, specific intra-committee dynamics, and unpublished viewpoints from 2024 to 2026 is limited.\"\n}"
+      }
+     ],
+     "output_config": {
+      "format": {
+       "type": "json_schema",
+       "schema": {
+        "type": "object",
+        "properties": {
+         "identity": {
+          "type": "object",
+          "properties": {
+           "name": {
+            "type": "string"
+           },
+           "affiliation": {
+            "type": "string"
+           },
+           "recognized_by": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "name",
+           "affiliation",
+           "recognized_by",
+           "note"
+          ],
+          "additionalProperties": false
+         },
+         "fields": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "field": {
+             "type": "string"
+            },
+            "jel_codes": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "field",
+            "jel_codes",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "recent_interests": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "topic": {
+             "type": "string"
+            },
+            "period": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "topic",
+            "period",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "representative_works": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "year": {
+             "type": "string"
+            },
+            "venue": {
+             "type": "string"
+            },
+            "coauthors": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "contribution": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "conflict": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "title",
+            "year",
+            "venue",
+            "coauthors",
+            "contribution",
+            "support",
+            "conflict"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "persona": {
+          "type": "object",
+          "properties": {
+           "summary": {
+            "type": "string"
+           },
+           "research_lens": {
+            "type": "string"
+           },
+           "methods_and_evidence": {
+            "type": "string"
+           },
+           "what_they_value_in_contributions": {
+            "type": "string"
+           },
+           "likely_questions_in_deliberation": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "committee_experience": {
+            "type": "string"
+           },
+           "support_note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "summary",
+           "research_lens",
+           "methods_and_evidence",
+           "what_they_value_in_contributions",
+           "likely_questions_in_deliberation",
+           "committee_experience",
+           "support_note"
+          ],
+          "additionalProperties": false
+         },
+         "disagreements": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         },
+         "caveats": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         }
+        },
+        "required": [
+         "identity",
+         "fields",
+         "recent_interests",
+         "representative_works",
+         "persona",
+         "disagreements",
+         "caveats"
+        ],
+        "additionalProperties": false
+       }
+      },
+      "effort": "high"
+     }
+    }
+   },
+   "http": [
+    {
+     "attempt": 1,
+     "started": "2026-10-09T23:53:10+00:00",
+     "ended": "2026-10-09T23:54:01+00:00",
+     "seconds": 51.4,
+     "status": 200,
+     "headers": {
+      "request-id": "req_011CfsZeA8F3A62riMacqGA1"
+     }
+    }
+   ],
+   "response_raw": {
+    "model": "claude-opus-5-5",
+    "id": "msg_011CfsZeASbPSwjw2jiqG8Bv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "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"
+     },
+     {
+      "type": "text",
+      "text": "{\"identity\":{\"name\":\"Richard Friberg\",\"affiliation\":\"Department of Economics, Stockholm School of Economics\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him as a professor of economics at the Stockholm School of Economics. They describe his work as spanning industrial organization, international economics (exchange rates, invoicing currency, pass-through, market segmentation) and firm risk management. A gives medium identity confidence; O and G give high. Only A adds that he is a member of the Royal Swedish Academy of Sciences 'or closely tied to its prize work', and A flags this itself as uncertain. The 2026 role as co-opted member comes from the committee listing.\"},\"fields\":[{\"field\":\"Industrial organization: pricing, demand estimation, market segmentation, price dispersion, competition in retail and product markets, and competition/merger policy\",\"jel_codes\":[\"L1\",\"L11\",\"L13\",\"L40\",\"L66\",\"L8\",\"L81\",\"D22\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three list IO. A stresses demand estimation and competition/merger policy. O stresses market segmentation, price dispersion and retail competition. G gives only broad codes (L1, L8).\"},{\"field\":\"International economics: exchange-rate pass-through, invoicing currency, pricing-to-market, export pricing, law of one price\",\"jel_codes\":[\"F3\",\"F31\",\"F4\",\"F41\",\"F12\",\"F14\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three list it, with high confidence. G gives broad codes (F3, F4); A and O give more specific ones.\"},{\"field\":\"Risk management and firm decision-making/strategy under uncertainty (incl. corporate finance aspects)\",\"jel_codes\":[\"D8\",\"D81\",\"G3\",\"G32\",\"L21\",\"M21\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"A rates this medium confidence; O and G rate it high. G frames it as 'Corporate Finance and Risk Management'.\"},{\"field\":\"Applied microeconomics of consumer behavior: cross-border shopping, taxation of alcohol/tobacco/sugar, information and expert reviews\",\"jel_codes\":[\"H21\",\"H71\",\"D12\",\"M37\"],\"support\":[\"A\"],\"note\":\"Only A lists this, at medium confidence. It is supported by A's works on cross-border shopping and wine reviews.\"},{\"field\":\"European market integration and effects of common currency arrangements on product-market arbitrage and pricing\",\"jel_codes\":[\"F15\",\"F36\",\"L16\"],\"support\":[\"O\"],\"note\":\"Listed as a separate field only by O. It overlaps with A's mention of market segmentation and the law of one price, and with A's euro price-equalization paper.\"}],\"recent_interests\":[{\"topic\":\"Firm-level risk management and strategic responses to risk, uncertainty and ambiguity (e.g., text-based measures from corporate filings, hedging, cash holdings)\",\"period\":\"2010s to early 2020s (A: c. 2015-2022; O: especially 2010s and continuing; G: 2010-2024)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three tie this to his 2015 MIT Press book. A adds the text-based 10-K work. The period bounds differ slightly across profiles.\"},{\"topic\":\"Pricing behavior, invoicing-currency choice, price rigidity and exchange-rate pass-through under exchange-rate risk and imperfect competition\",\"period\":\"Ongoing, long-running line\",\"support\":[\"A\",\"O\"],\"note\":\"A mentions use of micro price data. O describes this as still central as of its knowledge through 2024.\"},{\"topic\":\"Competition, pricing and market dynamics in retail/product markets, including e-commerce, digitalization, lower search costs and market integration\",\"period\":\"O: 2000s-2020s; G: 2015-2024\",\"support\":[\"O\",\"G\"],\"note\":\"G frames this as digitalization, productivity and e-commerce in Swedish retail. O frames it as market segmentation and search costs. Neither cites specific recent publications, and O explicitly cannot verify 2021-2026 work.\"},{\"topic\":\"Cross-border shopping and how distance, prices and taxes drive it, including the extensive margin of consumers' decisions to shop abroad\",\"period\":\"c. 2018-2024\",\"support\":[\"A\"],\"note\":\"A cites work with Norwegian coauthors Frode Steen and Simen Ulsaker using Nordic data. Only A states this.\"},{\"topic\":\"Evaluation of competition policy remedies and mergers in retail and consumer-goods markets\",\"period\":\"c. 2015-2023\",\"support\":[\"A\"],\"note\":\"Only A states this, based on Nordic empirical IO work such as the beer-market divestiture paper.\"}],\"representative_works\":[{\"title\":\"Managing Risk and Uncertainty: A Strategic Approach\",\"year\":\"2015\",\"venue\":\"MIT Press\",\"coauthors\":[],\"contribution\":\"Book-length, microeconomics-based framework for how firms identify, measure and respond to risk and uncertainty. It integrates operational, financial and strategic responses in competitive environments.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"The currency denomination of exports — A questionnaire study\",\"year\":\"2008\",\"venue\":\"Journal of International Economics\",\"coauthors\":[\"Fredrik Wilander\"],\"contribution\":\"Survey evidence from Swedish exporters on invoicing-currency choice, price setting and the factors shaping denomination. It is a reference point for the invoicing-currency and pass-through literature.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"In which currency should exporters set their prices?\",\"year\":\"1998\",\"venue\":\"Journal of International Economics\",\"coauthors\":[],\"contribution\":\"Theoretical model of exporters' invoicing-currency choice under exchange-rate uncertainty, linking it to market structure, demand and risk exposure.\",\"support\":[\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Two monies, two markets? Variability and the option to segment\",\"year\":\"2001\",\"venue\":\"Journal of International Economics\",\"coauthors\":[],\"contribution\":\"Analyzes how separate currencies and exchange-rate variability shape firms' incentives to segment international markets, and how this affects arbitrage and pricing.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"The Law of One Price in Scandinavian Duty-Free Stores\",\"year\":\"2001\",\"venue\":\"American Economic Review\",\"coauthors\":[\"Marcus Asplund\"],\"contribution\":\"Uses micro-level duty-free catalog price data to test the law of one price and examine price discrimination under fluctuating exchange rates.\",\"support\":[\"G\"],\"conflict\":\"\"},{\"title\":\"Demand and distance: Evidence on cross-border shopping\",\"year\":\"2007\",\"venue\":\"Journal of Public Economics\",\"coauthors\":[\"Marcus Asplund\",\"Fredrik Wilander\"],\"contribution\":\"Estimates how Swedish regional alcohol sales respond to foreign prices as a function of distance to the border. This shows the limits cross-border shopping places on national excise taxation.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Do Expert Reviews Affect the Demand for Wine?\",\"year\":\"2012\",\"venue\":\"American Economic Journal: Applied Economics\",\"coauthors\":[\"Erik Grönqvist\"],\"contribution\":\"Uses Swedish retail-monopoly data and the timing of newspaper reviews to identify the causal effect of expert reviews on demand.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Divestiture requirements as a tool for competition policy: A case from the Swedish beer market\",\"year\":\"2015\",\"venue\":\"International Journal of Industrial Organization\",\"coauthors\":[\"André Romahn\"],\"contribution\":\"Ex post, structural-demand assessment of a brand-divestiture merger remedy in the Swedish beer market.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Risk and ambiguity in 10-Ks: An examination of cash holding and derivatives use\",\"year\":\"2017\",\"venue\":\"Journal of Corporate Finance\",\"coauthors\":[\"Thomas Seiler\"],\"contribution\":\"Builds text-based measures of risk versus ambiguity from annual reports and relates them to cash holdings and hedging.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Common currency, common market?\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[\"Mathias Ganslandt\"],\"contribution\":\"Examines whether a common currency promotes product-market integration and reduces price segmentation.\",\"support\":[\"O\"],\"conflict\":\"O gives no year or venue and rates it medium confidence. It is thematically close to A's 2004 Economics Letters paper with Thomas Y. Mathä, but the titles and coauthors differ, so the two are kept as separate works.\"},{\"title\":\"Does a common currency lead to (more) price equalization? The role of psychological pricing points\",\"year\":\"2004\",\"venue\":\"Economics Letters\",\"coauthors\":[\"Thomas Y. Mathä\"],\"contribution\":\"Examines price convergence after the euro's introduction and the role of attractive price points.\",\"support\":[\"A\"],\"conflict\":\"A rates this low confidence. It is thematically related to O's 'Common currency, common market?' (with Ganslandt) but listed as distinct.\"}],\"persona\":{\"summary\":\"An applied microeconomist rooted in industrial organization and international economics. His work stays close to how real firms behave: how they set prices, choose invoicing currencies, segment markets and manage risk under uncertainty. A adds a strand on consumers' responses to prices, taxes and information.\",\"research_lens\":\"Views trade and macro-type phenomena such as exchange rates, currency regimes and market integration through a microeconomic lens: firm pricing, contracts, arbitrage and competition in imperfectly competitive markets. Inferred from his record: he would weigh whether a contribution identifies an economically important mechanism and changes how economists understand firm behavior, market outcomes and policy.\",\"methods_and_evidence\": \"Combines formal economic models with empirical work on detailed micro data, often Nordic retail, price or registry data. His work also uses firm surveys and natural experiments (exchange-rate movements, review timing, distance to borders). A further mentions structural demand estimation and text analysis. Inferred: he values clean mechanisms, credible identification and evidence at the level where decisions are made, rather than aggregate correlations.\",\"what_they_value_in_contributions\": \"Inferred from his record: contributions that link theory to measurable firm and consumer behavior and give strong micro-foundations for broader phenomena. He would also value work that bears on real policy and practice (competition enforcement, merger remedies, taxation, trade, exchange-rate regimes, managerial risk decisions) and that durably changed empirical or theoretical practice.\",\"likely_questions_in_deliberation\":[\"Has the theory been confronted with micro data on actual firm or consumer behavior, and did it hold up?\",\"What is the precise mechanism, and is it empirically distinguishable from competing explanations or aggregate shocks?\",\"Does the work operate at the level where decisions are actually made (firms, contracts, prices, markets)?\",\"How robust are the identification and evidence across institutional settings, market structures and periods?\",\"Did the work durably change subsequent empirical practice or theoretical modeling, and is it a new framework or a refinement?\",\"What are the policy or welfare implications for competition, trade, taxation, market integration or risk management?\",\"Who originated the line of work versus who developed it later, and how should credit be shared?\"],\"committee_experience\":\"Co-opted member of the Committee for the Prize in Economic Sciences for 2026. A believes he has been involved with the committee in earlier years but cannot confirm years or roles. O does not know of earlier service. G offers no earlier history; it frames his role as bringing IO and applied-micro expertise to complement the core committee.\",\"support_note\":\"The summary, lens and methods are shared by all three profiles. The consumer-behavior and policy-evaluation emphasis (cross-border shopping, taxation, reviews, merger remedies) comes from A alone. G's emphasis on digitalization and retail dynamics is shared only loosely with O. A's claim of earlier committee involvement is unconfirmed, and O explicitly does not know. G's framing of his role as complementing the core committee is an interpretation, not a recorded fact.\"},\"disagreements\":[\"Earlier committee service: A believes he was involved with the economics prize committee in earlier years (unconfirmed); O does not know; G gives no history.\",\"Royal Swedish Academy of Sciences: only A suggests he is a member or 'closely tied to its prize work', and A is uncertain; O and G do not mention it.\",\"Identity confidence: A rates it medium; O and G rate it high.\",\"Recent interests: G highlights digitalization and e-commerce in Swedish retail. A highlights cross-border shopping and merger-remedy evaluation. O highlights invoicing and pricing, plus retail competition and market integration.\",\"Common-currency work: O cites 'Common currency, common market?' with Mathias Ganslandt (no year or venue); A cites a 2004 Economics Letters paper with Thomas Y. Mathä on euro price equalization. These may be distinct papers; neither profile confirms the other's.\"],\"caveats\":[\"Several works rest on a single profile: the AER 2001 duty-free paper (G), and the 2007 JPubE, 2012 AEJ Applied, 2015 IJIO and 2017 JCF papers (A). Verify their bibliographic details.\",\"A rates the 2004 Economics Letters paper low confidence. O's Ganslandt paper lacks a year and venue.\",\"All profiles have knowledge cutoffs around 2024–2025 and do not reliably cover his 2024–2026 work. G's digitalization interest and A's cross-border-shopping work with Steen and Ulsaker cite no specific recent publications.\",\"Prior committee service and Academy membership are unverified and should be checked against official records.\",\"All three profiles recognized him, and no namesake confusion is apparent; no entries were dropped.\",\"Persona statements are inferences from his research record, not known views. They do not indicate any preference regarding 2026 candidates.\"]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 9192,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 6223,
+     "output_tokens_details": {
+      "thinking_tokens": 1525
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "response_id": "msg_011CfsZeASbPSwjw2jiqG8Bv",
+   "stop": "end_turn",
+   "truncated": false,
+   "refused": false,
+   "usage": {
+    "input": 9192,
+    "output": 6223,
+    "reasoning": 1525,
+    "cached_input": 0
+   },
+   "usage_raw": {
+    "input_tokens": 9192,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6223,
+    "output_tokens_details": {
+     "thinking_tokens": 1525
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+   },
+   "text": "{\"identity\":{\"name\":\"Richard Friberg\",\"affiliation\":\"Department of Economics, Stockholm School of Economics\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him as a professor of economics at the Stockholm School of Economics. They describe his work as spanning industrial organization, international economics (exchange rates, invoicing currency, pass-through, market segmentation) and firm risk management. A gives medium identity confidence; O and G give high. Only A adds that he is a member of the Royal Swedish Academy of Sciences 'or closely tied to its prize work', and A flags this itself as uncertain. The 2026 role as co-opted member comes from the committee listing.\"},\"fields\":[{\"field\":\"Industrial organization: pricing, demand estimation, market segmentation, price dispersion, competition in retail and product markets, and competition/merger policy\",\"jel_codes\":[\"L1\",\"L11\",\"L13\",\"L40\",\"L66\",\"L8\",\"L81\",\"D22\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three list IO. A stresses demand estimation and competition/merger policy. O stresses market segmentation, price dispersion and retail competition. G gives only broad codes (L1, L8).\"},{\"field\":\"International economics: exchange-rate pass-through, invoicing currency, pricing-to-market, export pricing, law of one price\",\"jel_codes\":[\"F3\",\"F31\",\"F4\",\"F41\",\"F12\",\"F14\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three list it, with high confidence. G gives broad codes (F3, F4); A and O give more specific ones.\"},{\"field\":\"Risk management and firm decision-making/strategy under uncertainty (incl. corporate finance aspects)\",\"jel_codes\":[\"D8\",\"D81\",\"G3\",\"G32\",\"L21\",\"M21\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"A rates this medium confidence; O and G rate it high. G frames it as 'Corporate Finance and Risk Management'.\"},{\"field\":\"Applied microeconomics of consumer behavior: cross-border shopping, taxation of alcohol/tobacco/sugar, information and expert reviews\",\"jel_codes\":[\"H21\",\"H71\",\"D12\",\"M37\"],\"support\":[\"A\"],\"note\":\"Only A lists this, at medium confidence. It is supported by A's works on cross-border shopping and wine reviews.\"},{\"field\":\"European market integration and effects of common currency arrangements on product-market arbitrage and pricing\",\"jel_codes\":[\"F15\",\"F36\",\"L16\"],\"support\":[\"O\"],\"note\":\"Listed as a separate field only by O. It overlaps with A's mention of market segmentation and the law of one price, and with A's euro price-equalization paper.\"}],\"recent_interests\":[{\"topic\":\"Firm-level risk management and strategic responses to risk, uncertainty and ambiguity (e.g., text-based measures from corporate filings, hedging, cash holdings)\",\"period\":\"2010s to early 2020s (A: c. 2015-2022; O: especially 2010s and continuing; G: 2010-2024)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three tie this to his 2015 MIT Press book. A adds the text-based 10-K work. The period bounds differ slightly across profiles.\"},{\"topic\":\"Pricing behavior, invoicing-currency choice, price rigidity and exchange-rate pass-through under exchange-rate risk and imperfect competition\",\"period\":\"Ongoing, long-running line\",\"support\":[\"A\",\"O\"],\"note\":\"A mentions use of micro price data. O describes this as still central as of its knowledge through 2024.\"},{\"topic\":\"Competition, pricing and market dynamics in retail/product markets, including e-commerce, digitalization, lower search costs and market integration\",\"period\":\"O: 2000s-2020s; G: 2015-2024\",\"support\":[\"O\",\"G\"],\"note\":\"G frames this as digitalization, productivity and e-commerce in Swedish retail. O frames it as market segmentation and search costs. Neither cites specific recent publications, and O explicitly cannot verify 2021-2026 work.\"},{\"topic\":\"Cross-border shopping and how distance, prices and taxes drive it, including the extensive margin of consumers' decisions to shop abroad\",\"period\":\"c. 2018-2024\",\"support\":[\"A\"],\"note\":\"A cites work with Norwegian coauthors Frode Steen and Simen Ulsaker using Nordic data. Only A states this.\"},{\"topic\":\"Evaluation of competition policy remedies and mergers in retail and consumer-goods markets\",\"period\":\"c. 2015-2023\",\"support\":[\"A\"],\"note\":\"Only A states this, based on Nordic empirical IO work such as the beer-market divestiture paper.\"}],\"representative_works\":[{\"title\":\"Managing Risk and Uncertainty: A Strategic Approach\",\"year\":\"2015\",\"venue\":\"MIT Press\",\"coauthors\":[],\"contribution\":\"Book-length, microeconomics-based framework for how firms identify, measure and respond to risk and uncertainty. It integrates operational, financial and strategic responses in competitive environments.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"The currency denomination of exports — A questionnaire study\",\"year\":\"2008\",\"venue\":\"Journal of International Economics\",\"coauthors\":[\"Fredrik Wilander\"],\"contribution\":\"Survey evidence from Swedish exporters on invoicing-currency choice, price setting and the factors shaping denomination. It is a reference point for the invoicing-currency and pass-through literature.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"In which currency should exporters set their prices?\",\"year\":\"1998\",\"venue\":\"Journal of International Economics\",\"coauthors\":[],\"contribution\":\"Theoretical model of exporters' invoicing-currency choice under exchange-rate uncertainty, linking it to market structure, demand and risk exposure.\",\"support\":[\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Two monies, two markets? Variability and the option to segment\",\"year\":\"2001\",\"venue\":\"Journal of International Economics\",\"coauthors\":[],\"contribution\":\"Analyzes how separate currencies and exchange-rate variability shape firms' incentives to segment international markets, and how this affects arbitrage and pricing.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"The Law of One Price in Scandinavian Duty-Free Stores\",\"year\":\"2001\",\"venue\":\"American Economic Review\",\"coauthors\":[\"Marcus Asplund\"],\"contribution\":\"Uses micro-level duty-free catalog price data to test the law of one price and examine price discrimination under fluctuating exchange rates.\",\"support\":[\"G\"],\"conflict\":\"\"},{\"title\":\"Demand and distance: Evidence on cross-border shopping\",\"year\":\"2007\",\"venue\":\"Journal of Public Economics\",\"coauthors\":[\"Marcus Asplund\",\"Fredrik Wilander\"],\"contribution\":\"Estimates how Swedish regional alcohol sales respond to foreign prices as a function of distance to the border. This shows the limits cross-border shopping places on national excise taxation.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Do Expert Reviews Affect the Demand for Wine?\",\"year\":\"2012\",\"venue\":\"American Economic Journal: Applied Economics\",\"coauthors\":[\"Erik Grönqvist\"],\"contribution\":\"Uses Swedish retail-monopoly data and the timing of newspaper reviews to identify the causal effect of expert reviews on demand.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Divestiture requirements as a tool for competition policy: A case from the Swedish beer market\",\"year\":\"2015\",\"venue\":\"International Journal of Industrial Organization\",\"coauthors\":[\"André Romahn\"],\"contribution\":\"Ex post, structural-demand assessment of a brand-divestiture merger remedy in the Swedish beer market.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Risk and ambiguity in 10-Ks: An examination of cash holding and derivatives use\",\"year\":\"2017\",\"venue\":\"Journal of Corporate Finance\",\"coauthors\":[\"Thomas Seiler\"],\"contribution\":\"Builds text-based measures of risk versus ambiguity from annual reports and relates them to cash holdings and hedging.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Common currency, common market?\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[\"Mathias Ganslandt\"],\"contribution\":\"Examines whether a common currency promotes product-market integration and reduces price segmentation.\",\"support\":[\"O\"],\"conflict\":\"O gives no year or venue and rates it medium confidence. It is thematically close to A's 2004 Economics Letters paper with Thomas Y. Mathä, but the titles and coauthors differ, so the two are kept as separate works.\"},{\"title\":\"Does a common currency lead to (more) price equalization? The role of psychological pricing points\",\"year\":\"2004\",\"venue\":\"Economics Letters\",\"coauthors\":[\"Thomas Y. Mathä\"],\"contribution\":\"Examines price convergence after the euro's introduction and the role of attractive price points.\",\"support\":[\"A\"],\"conflict\":\"A rates this low confidence. It is thematically related to O's 'Common currency, common market?' (with Ganslandt) but listed as distinct.\"}],\"persona\":{\"summary\":\"An applied microeconomist rooted in industrial organization and international economics. His work stays close to how real firms behave: how they set prices, choose invoicing currencies, segment markets and manage risk under uncertainty. A adds a strand on consumers' responses to prices, taxes and information.\",\"research_lens\":\"Views trade and macro-type phenomena such as exchange rates, currency regimes and market integration through a microeconomic lens: firm pricing, contracts, arbitrage and competition in imperfectly competitive markets. Inferred from his record: he would weigh whether a contribution identifies an economically important mechanism and changes how economists understand firm behavior, market outcomes and policy.\",\"methods_and_evidence\": \"Combines formal economic models with empirical work on detailed micro data, often Nordic retail, price or registry data. His work also uses firm surveys and natural experiments (exchange-rate movements, review timing, distance to borders). A further mentions structural demand estimation and text analysis. Inferred: he values clean mechanisms, credible identification and evidence at the level where decisions are made, rather than aggregate correlations.\",\"what_they_value_in_contributions\": \"Inferred from his record: contributions that link theory to measurable firm and consumer behavior and give strong micro-foundations for broader phenomena. He would also value work that bears on real policy and practice (competition enforcement, merger remedies, taxation, trade, exchange-rate regimes, managerial risk decisions) and that durably changed empirical or theoretical practice.\",\"likely_questions_in_deliberation\":[\"Has the theory been confronted with micro data on actual firm or consumer behavior, and did it hold up?\",\"What is the precise mechanism, and is it empirically distinguishable from competing explanations or aggregate shocks?\",\"Does the work operate at the level where decisions are actually made (firms, contracts, prices, markets)?\",\"How robust are the identification and evidence across institutional settings, market structures and periods?\",\"Did the work durably change subsequent empirical practice or theoretical modeling, and is it a new framework or a refinement?\",\"What are the policy or welfare implications for competition, trade, taxation, market integration or risk management?\",\"Who originated the line of work versus who developed it later, and how should credit be shared?\"],\"committee_experience\":\"Co-opted member of the Committee for the Prize in Economic Sciences for 2026. A believes he has been involved with the committee in earlier years but cannot confirm years or roles. O does not know of earlier service. G offers no earlier history; it frames his role as bringing IO and applied-micro expertise to complement the core committee.\",\"support_note\":\"The summary, lens and methods are shared by all three profiles. The consumer-behavior and policy-evaluation emphasis (cross-border shopping, taxation, reviews, merger remedies) comes from A alone. G's emphasis on digitalization and retail dynamics is shared only loosely with O. A's claim of earlier committee involvement is unconfirmed, and O explicitly does not know. G's framing of his role as complementing the core committee is an interpretation, not a recorded fact.\"},\"disagreements\":[\"Earlier committee service: A believes he was involved with the economics prize committee in earlier years (unconfirmed); O does not know; G gives no history.\",\"Royal Swedish Academy of Sciences: only A suggests he is a member or 'closely tied to its prize work', and A is uncertain; O and G do not mention it.\",\"Identity confidence: A rates it medium; O and G rate it high.\",\"Recent interests: G highlights digitalization and e-commerce in Swedish retail. A highlights cross-border shopping and merger-remedy evaluation. O highlights invoicing and pricing, plus retail competition and market integration.\",\"Common-currency work: O cites 'Common currency, common market?' with Mathias Ganslandt (no year or venue); A cites a 2004 Economics Letters paper with Thomas Y. Mathä on euro price equalization. These may be distinct papers; neither profile confirms the other's.\"],\"caveats\":[\"Several works rest on a single profile: the AER 2001 duty-free paper (G), and the 2007 JPubE, 2012 AEJ Applied, 2015 IJIO and 2017 JCF papers (A). Verify their bibliographic details.\",\"A rates the 2004 Economics Letters paper low confidence. O's Ganslandt paper lacks a year and venue.\",\"All profiles have knowledge cutoffs around 2024–2025 and do not reliably cover his 2024–2026 work. G's digitalization interest and A's cross-border-shopping work with Steen and Ulsaker cite no specific recent publications.\",\"Prior committee service and Academy membership are unverified and should be checked against official records.\",\"All three profiles recognized him, and no namesake confusion is apparent; no entries were dropped.\",\"Persona statements are inferences from his research record, not known views. They do not indicate any preference regarding 2026 candidates.\"]}",
+   "parsed": {
+    "identity": {
+     "name": "Richard Friberg",
+     "affiliation": "Department of Economics, Stockholm School of Economics",
+     "recognized_by": [
+      "A",
+      "O",
+      "G"
+     ],
+     "note": "All three profiles recognize him as a professor of economics at the Stockholm School of Economics. They describe his work as spanning industrial organization, international economics (exchange rates, invoicing currency, pass-through, market segmentation) and firm risk management. A gives medium identity confidence; O and G give high. Only A adds that he is a member of the Royal Swedish Academy of Sciences 'or closely tied to its prize work', and A flags this itself as uncertain. The 2026 role as co-opted member comes from the committee listing."
+    },
+    "fields": [
+     {
+      "field": "Industrial organization: pricing, demand estimation, market segmentation, price dispersion, competition in retail and product markets, and competition/merger policy",
+      "jel_codes": [
+       "L1",
+       "L11",
+       "L13",
+       "L40",
+       "L66",
+       "L8",
+       "L81",
+       "D22"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "All three list IO. A stresses demand estimation and competition/merger policy. O stresses market segmentation, price dispersion and retail competition. G gives only broad codes (L1, L8)."
+     },
+     {
+      "field": "International economics: exchange-rate pass-through, invoicing currency, pricing-to-market, export pricing, law of one price",
+      "jel_codes": [
+       "F3",
+       "F31",
+       "F4",
+       "F41",
+       "F12",
+       "F14"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "All three list it, with high confidence. G gives broad codes (F3, F4); A and O give more specific ones."
+     },
+     {
+      "field": "Risk management and firm decision-making/strategy under uncertainty (incl. corporate finance aspects)",
+      "jel_codes": [
+       "D8",
+       "D81",
+       "G3",
+       "G32",
+       "L21",
+       "M21"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "A rates this medium confidence; O and G rate it high. G frames it as 'Corporate Finance and Risk Management'."
+     },
+     {
+      "field": "Applied microeconomics of consumer behavior: cross-border shopping, taxation of alcohol/tobacco/sugar, information and expert reviews",
+      "jel_codes": [
+       "H21",
+       "H71",
+       "D12",
+       "M37"
+      ],
+      "support": [
+       "A"
+      ],
+      "note": "Only A lists this, at medium confidence. It is supported by A's works on cross-border shopping and wine reviews."
+     },
+     {
+      "field": "European market integration and effects of common currency arrangements on product-market arbitrage and pricing",
+      "jel_codes": [
+       "F15",
+       "F36",
+       "L16"
+      ],
+      "support": [
+       "O"
+      ],
+      "note": "Listed as a separate field only by O. It overlaps with A's mention of market segmentation and the law of one price, and with A's euro price-equalization paper."
+     }
+    ],
+    "recent_interests": [
+     {
+      "topic": "Firm-level risk management and strategic responses to risk, uncertainty and ambiguity (e.g., text-based measures from corporate filings, hedging, cash holdings)",
+      "period": "2010s to early 2020s (A: c. 2015-2022; O: especially 2010s and continuing; G: 2010-2024)",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "All three tie this to his 2015 MIT Press book. A adds the text-based 10-K work. The period bounds differ slightly across profiles."
+     },
+     {
+      "topic": "Pricing behavior, invoicing-currency choice, price rigidity and exchange-rate pass-through under exchange-rate risk and imperfect competition",
+      "period": "Ongoing, long-running line",
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "A mentions use of micro price data. O describes this as still central as of its knowledge through 2024."
+     },
+     {
+      "topic": "Competition, pricing and market dynamics in retail/product markets, including e-commerce, digitalization, lower search costs and market integration",
+      "period": "O: 2000s-2020s; G: 2015-2024",
+      "support": [
+       "O",
+       "G"
+      ],
+      "note": "G frames this as digitalization, productivity and e-commerce in Swedish retail. O frames it as market segmentation and search costs. Neither cites specific recent publications, and O explicitly cannot verify 2021-2026 work."
+     },
+     {
+      "topic": "Cross-border shopping and how distance, prices and taxes drive it, including the extensive margin of consumers' decisions to shop abroad",
+      "period": "c. 2018-2024",
+      "support": [
+       "A"
+      ],
+      "note": "A cites work with Norwegian coauthors Frode Steen and Simen Ulsaker using Nordic data. Only A states this."
+     },
+     {
+      "topic": "Evaluation of competition policy remedies and mergers in retail and consumer-goods markets",
+      "period": "c. 2015-2023",
+      "support": [
+       "A"
+      ],
+      "note": "Only A states this, based on Nordic empirical IO work such as the beer-market divestiture paper."
+     }
+    ],
+    "representative_works": [
+     {
+      "title": "Managing Risk and Uncertainty: A Strategic Approach",
+      "year": "2015",
+      "venue": "MIT Press",
+      "coauthors": [],
+      "contribution": "Book-length, microeconomics-based framework for how firms identify, measure and respond to risk and uncertainty. It integrates operational, financial and strategic responses in competitive environments.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "The currency denomination of exports — A questionnaire study",
+      "year": "2008",
+      "venue": "Journal of International Economics",
+      "coauthors": [
+       "Fredrik Wilander"
+      ],
+      "contribution": "Survey evidence from Swedish exporters on invoicing-currency choice, price setting and the factors shaping denomination. It is a reference point for the invoicing-currency and pass-through literature.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "In which currency should exporters set their prices?",
+      "year": "1998",
+      "venue": "Journal of International Economics",
+      "coauthors": [],
+      "contribution": "Theoretical model of exporters' invoicing-currency choice under exchange-rate uncertainty, linking it to market structure, demand and risk exposure.",
+      "support": [
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Two monies, two markets? Variability and the option to segment",
+      "year": "2001",
+      "venue": "Journal of International Economics",
+      "coauthors": [],
+      "contribution": "Analyzes how separate currencies and exchange-rate variability shape firms' incentives to segment international markets, and how this affects arbitrage and pricing.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "The Law of One Price in Scandinavian Duty-Free Stores",
+      "year": "2001",
+      "venue": "American Economic Review",
+      "coauthors": [
+       "Marcus Asplund"
+      ],
+      "contribution": "Uses micro-level duty-free catalog price data to test the law of one price and examine price discrimination under fluctuating exchange rates.",
+      "support": [
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Demand and distance: Evidence on cross-border shopping",
+      "year": "2007",
+      "venue": "Journal of Public Economics",
+      "coauthors": [
+       "Marcus Asplund",
+       "Fredrik Wilander"
+      ],
+      "contribution": "Estimates how Swedish regional alcohol sales respond to foreign prices as a function of distance to the border. This shows the limits cross-border shopping places on national excise taxation.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Do Expert Reviews Affect the Demand for Wine?",
+      "year": "2012",
+      "venue": "American Economic Journal: Applied Economics",
+      "coauthors": [
+       "Erik Grönqvist"
+      ],
+      "contribution": "Uses Swedish retail-monopoly data and the timing of newspaper reviews to identify the causal effect of expert reviews on demand.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Divestiture requirements as a tool for competition policy: A case from the Swedish beer market",
+      "year": "2015",
+      "venue": "International Journal of Industrial Organization",
+      "coauthors": [
+       "André Romahn"
+      ],
+      "contribution": "Ex post, structural-demand assessment of a brand-divestiture merger remedy in the Swedish beer market.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Risk and ambiguity in 10-Ks: An examination of cash holding and derivatives use",
+      "year": "2017",
+      "venue": "Journal of Corporate Finance",
+      "coauthors": [
+       "Thomas Seiler"
+      ],
+      "contribution": "Builds text-based measures of risk versus ambiguity from annual reports and relates them to cash holdings and hedging.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Common currency, common market?",
+      "year": "",
+      "venue": "",
+      "coauthors": [
+       "Mathias Ganslandt"
+      ],
+      "contribution": "Examines whether a common currency promotes product-market integration and reduces price segmentation.",
+      "support": [
+       "O"
+      ],
+      "conflict": "O gives no year or venue and rates it medium confidence. It is thematically close to A's 2004 Economics Letters paper with Thomas Y. Mathä, but the titles and coauthors differ, so the two are kept as separate works."
+     },
+     {
+      "title": "Does a common currency lead to (more) price equalization? The role of psychological pricing points",
+      "year": "2004",
+      "venue": "Economics Letters",
+      "coauthors": [
+       "Thomas Y. Mathä"
+      ],
+      "contribution": "Examines price convergence after the euro's introduction and the role of attractive price points.",
+      "support": [
+       "A"
+      ],
+      "conflict": "A rates this low confidence. It is thematically related to O's 'Common currency, common market?' (with Ganslandt) but listed as distinct."
+     }
+    ],
+    "persona": {
+     "summary": "An applied microeconomist rooted in industrial organization and international economics. His work stays close to how real firms behave: how they set prices, choose invoicing currencies, segment markets and manage risk under uncertainty. A adds a strand on consumers' responses to prices, taxes and information.",
+     "research_lens": "Views trade and macro-type phenomena such as exchange rates, currency regimes and market integration through a microeconomic lens: firm pricing, contracts, arbitrage and competition in imperfectly competitive markets. Inferred from his record: he would weigh whether a contribution identifies an economically important mechanism and changes how economists understand firm behavior, market outcomes and policy.",
+     "methods_and_evidence": "Combines formal economic models with empirical work on detailed micro data, often Nordic retail, price or registry data. His work also uses firm surveys and natural experiments (exchange-rate movements, review timing, distance to borders). A further mentions structural demand estimation and text analysis. Inferred: he values clean mechanisms, credible identification and evidence at the level where decisions are made, rather than aggregate correlations.",
+     "what_they_value_in_contributions": "Inferred from his record: contributions that link theory to measurable firm and consumer behavior and give strong micro-foundations for broader phenomena. He would also value work that bears on real policy and practice (competition enforcement, merger remedies, taxation, trade, exchange-rate regimes, managerial risk decisions) and that durably changed empirical or theoretical practice.",
+     "likely_questions_in_deliberation": [
+      "Has the theory been confronted with micro data on actual firm or consumer behavior, and did it hold up?",
+      "What is the precise mechanism, and is it empirically distinguishable from competing explanations or aggregate shocks?",
+      "Does the work operate at the level where decisions are actually made (firms, contracts, prices, markets)?",
+      "How robust are the identification and evidence across institutional settings, market structures and periods?",
+      "Did the work durably change subsequent empirical practice or theoretical modeling, and is it a new framework or a refinement?",
+      "What are the policy or welfare implications for competition, trade, taxation, market integration or risk management?",
+      "Who originated the line of work versus who developed it later, and how should credit be shared?"
+     ],
+     "committee_experience": "Co-opted member of the Committee for the Prize in Economic Sciences for 2026. A believes he has been involved with the committee in earlier years but cannot confirm years or roles. O does not know of earlier service. G offers no earlier history; it frames his role as bringing IO and applied-micro expertise to complement the core committee.",
+     "support_note": "The summary, lens and methods are shared by all three profiles. The consumer-behavior and policy-evaluation emphasis (cross-border shopping, taxation, reviews, merger remedies) comes from A alone. G's emphasis on digitalization and retail dynamics is shared only loosely with O. A's claim of earlier committee involvement is unconfirmed, and O explicitly does not know. G's framing of his role as complementing the core committee is an interpretation, not a recorded fact."
+    },
+    "disagreements": [
+     "Earlier committee service: A believes he was involved with the economics prize committee in earlier years (unconfirmed); O does not know; G gives no history.",
+     "Royal Swedish Academy of Sciences: only A suggests he is a member or 'closely tied to its prize work', and A is uncertain; O and G do not mention it.",
+     "Identity confidence: A rates it medium; O and G rate it high.",
+     "Recent interests: G highlights digitalization and e-commerce in Swedish retail. A highlights cross-border shopping and merger-remedy evaluation. O highlights invoicing and pricing, plus retail competition and market integration.",
+     "Common-currency work: O cites 'Common currency, common market?' with Mathias Ganslandt (no year or venue); A cites a 2004 Economics Letters paper with Thomas Y. Mathä on euro price equalization. These may be distinct papers; neither profile confirms the other's."
+    ],
+    "caveats": [
+     "Several works rest on a single profile: the AER 2001 duty-free paper (G), and the 2007 JPubE, 2012 AEJ Applied, 2015 IJIO and 2017 JCF papers (A). Verify their bibliographic details.",
+     "A rates the 2004 Economics Letters paper low confidence. O's Ganslandt paper lacks a year and venue.",
+     "All profiles have knowledge cutoffs around 2024–2025 and do not reliably cover his 2024–2026 work. G's digitalization interest and A's cross-border-shopping work with Steen and Ulsaker cite no specific recent publications.",
+     "Prior committee service and Academy membership are unverified and should be checked against official records.",
+     "All three profiles recognized him, and no namesake confusion is apparent; no entries were dropped.",
+     "Persona statements are inferences from his research record, not known views. They do not indicate any preference regarding 2026 candidates."
+    ]
+   },
+   "parse_error": null,
+   "error": null,
+   "stop_details": null,
+   "errors": []
+  }
+ ],
+ "valid": true,
+ "errors": [],
+ "profile": {
+  "identity": {
+   "name": "Richard Friberg",
+   "affiliation": "Department of Economics, Stockholm School of Economics",
+   "recognized_by": [
+    "A",
+    "O",
+    "G"
+   ],
+   "note": "All three profiles recognize him as a professor of economics at the Stockholm School of Economics. They describe his work as spanning industrial organization, international economics (exchange rates, invoicing currency, pass-through, market segmentation) and firm risk management. A gives medium identity confidence; O and G give high. Only A adds that he is a member of the Royal Swedish Academy of Sciences 'or closely tied to its prize work', and A flags this itself as uncertain. The 2026 role as co-opted member comes from the committee listing."
+  },
+  "fields": [
+   {
+    "field": "Industrial organization: pricing, demand estimation, market segmentation, price dispersion, competition in retail and product markets, and competition/merger policy",
+    "jel_codes": [
+     "L1",
+     "L11",
+     "L13",
+     "L40",
+     "L66",
+     "L8",
+     "L81",
+     "D22"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "All three list IO. A stresses demand estimation and competition/merger policy. O stresses market segmentation, price dispersion and retail competition. G gives only broad codes (L1, L8)."
+   },
+   {
+    "field": "International economics: exchange-rate pass-through, invoicing currency, pricing-to-market, export pricing, law of one price",
+    "jel_codes": [
+     "F3",
+     "F31",
+     "F4",
+     "F41",
+     "F12",
+     "F14"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "All three list it, with high confidence. G gives broad codes (F3, F4); A and O give more specific ones."
+   },
+   {
+    "field": "Risk management and firm decision-making/strategy under uncertainty (incl. corporate finance aspects)",
+    "jel_codes": [
+     "D8",
+     "D81",
+     "G3",
+     "G32",
+     "L21",
+     "M21"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "A rates this medium confidence; O and G rate it high. G frames it as 'Corporate Finance and Risk Management'."
+   },
+   {
+    "field": "Applied microeconomics of consumer behavior: cross-border shopping, taxation of alcohol/tobacco/sugar, information and expert reviews",
+    "jel_codes": [
+     "H21",
+     "H71",
+     "D12",
+     "M37"
+    ],
+    "support": [
+     "A"
+    ],
+    "note": "Only A lists this, at medium confidence. It is supported by A's works on cross-border shopping and wine reviews."
+   },
+   {
+    "field": "European market integration and effects of common currency arrangements on product-market arbitrage and pricing",
+    "jel_codes": [
+     "F15",
+     "F36",
+     "L16"
+    ],
+    "support": [
+     "O"
+    ],
+    "note": "Listed as a separate field only by O. It overlaps with A's mention of market segmentation and the law of one price, and with A's euro price-equalization paper."
+   }
+  ],
+  "recent_interests": [
+   {
+    "topic": "Firm-level risk management and strategic responses to risk, uncertainty and ambiguity (e.g., text-based measures from corporate filings, hedging, cash holdings)",
+    "period": "2010s to early 2020s (A: c. 2015-2022; O: especially 2010s and continuing; G: 2010-2024)",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "All three tie this to his 2015 MIT Press book. A adds the text-based 10-K work. The period bounds differ slightly across profiles."
+   },
+   {
+    "topic": "Pricing behavior, invoicing-currency choice, price rigidity and exchange-rate pass-through under exchange-rate risk and imperfect competition",
+    "period": "Ongoing, long-running line",
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "A mentions use of micro price data. O describes this as still central as of its knowledge through 2024."
+   },
+   {
+    "topic": "Competition, pricing and market dynamics in retail/product markets, including e-commerce, digitalization, lower search costs and market integration",
+    "period": "O: 2000s-2020s; G: 2015-2024",
+    "support": [
+     "O",
+     "G"
+    ],
+    "note": "G frames this as digitalization, productivity and e-commerce in Swedish retail. O frames it as market segmentation and search costs. Neither cites specific recent publications, and O explicitly cannot verify 2021-2026 work."
+   },
+   {
+    "topic": "Cross-border shopping and how distance, prices and taxes drive it, including the extensive margin of consumers' decisions to shop abroad",
+    "period": "c. 2018-2024",
+    "support": [
+     "A"
+    ],
+    "note": "A cites work with Norwegian coauthors Frode Steen and Simen Ulsaker using Nordic data. Only A states this."
+   },
+   {
+    "topic": "Evaluation of competition policy remedies and mergers in retail and consumer-goods markets",
+    "period": "c. 2015-2023",
+    "support": [
+     "A"
+    ],
+    "note": "Only A states this, based on Nordic empirical IO work such as the beer-market divestiture paper."
+   }
+  ],
+  "representative_works": [
+   {
+    "title": "Managing Risk and Uncertainty: A Strategic Approach",
+    "year": "2015",
+    "venue": "MIT Press",
+    "coauthors": [],
+    "contribution": "Book-length, microeconomics-based framework for how firms identify, measure and respond to risk and uncertainty. It integrates operational, financial and strategic responses in competitive environments.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The currency denomination of exports — A questionnaire study",
+    "year": "2008",
+    "venue": "Journal of International Economics",
+    "coauthors": [
+     "Fredrik Wilander"
+    ],
+    "contribution": "Survey evidence from Swedish exporters on invoicing-currency choice, price setting and the factors shaping denomination. It is a reference point for the invoicing-currency and pass-through literature.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "In which currency should exporters set their prices?",
+    "year": "1998",
+    "venue": "Journal of International Economics",
+    "coauthors": [],
+    "contribution": "Theoretical model of exporters' invoicing-currency choice under exchange-rate uncertainty, linking it to market structure, demand and risk exposure.",
+    "support": [
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Two monies, two markets? Variability and the option to segment",
+    "year": "2001",
+    "venue": "Journal of International Economics",
+    "coauthors": [],
+    "contribution": "Analyzes how separate currencies and exchange-rate variability shape firms' incentives to segment international markets, and how this affects arbitrage and pricing.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The Law of One Price in Scandinavian Duty-Free Stores",
+    "year": "2001",
+    "venue": "American Economic Review",
+    "coauthors": [
+     "Marcus Asplund"
+    ],
+    "contribution": "Uses micro-level duty-free catalog price data to test the law of one price and examine price discrimination under fluctuating exchange rates.",
+    "support": [
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Demand and distance: Evidence on cross-border shopping",
+    "year": "2007",
+    "venue": "Journal of Public Economics",
+    "coauthors": [
+     "Marcus Asplund",
+     "Fredrik Wilander"
+    ],
+    "contribution": "Estimates how Swedish regional alcohol sales respond to foreign prices as a function of distance to the border. This shows the limits cross-border shopping places on national excise taxation.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Do Expert Reviews Affect the Demand for Wine?",
+    "year": "2012",
+    "venue": "American Economic Journal: Applied Economics",
+    "coauthors": [
+     "Erik Grönqvist"
+    ],
+    "contribution": "Uses Swedish retail-monopoly data and the timing of newspaper reviews to identify the causal effect of expert reviews on demand.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Divestiture requirements as a tool for competition policy: A case from the Swedish beer market",
+    "year": "2015",
+    "venue": "International Journal of Industrial Organization",
+    "coauthors": [
+     "André Romahn"
+    ],
+    "contribution": "Ex post, structural-demand assessment of a brand-divestiture merger remedy in the Swedish beer market.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Risk and ambiguity in 10-Ks: An examination of cash holding and derivatives use",
+    "year": "2017",
+    "venue": "Journal of Corporate Finance",
+    "coauthors": [
+     "Thomas Seiler"
+    ],
+    "contribution": "Builds text-based measures of risk versus ambiguity from annual reports and relates them to cash holdings and hedging.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Common currency, common market?",
+    "year": "",
+    "venue": "",
+    "coauthors": [
+     "Mathias Ganslandt"
+    ],
+    "contribution": "Examines whether a common currency promotes product-market integration and reduces price segmentation.",
+    "support": [
+     "O"
+    ],
+    "conflict": "O gives no year or venue and rates it medium confidence. It is thematically close to A's 2004 Economics Letters paper with Thomas Y. Mathä, but the titles and coauthors differ, so the two are kept as separate works.",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Does a common currency lead to (more) price equalization? The role of psychological pricing points",
+    "year": "2004",
+    "venue": "Economics Letters",
+    "coauthors": [
+     "Thomas Y. Mathä"
+    ],
+    "contribution": "Examines price convergence after the euro's introduction and the role of attractive price points.",
+    "support": [
+     "A"
+    ],
+    "conflict": "A rates this low confidence. It is thematically related to O's 'Common currency, common market?' (with Ganslandt) but listed as distinct.",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   }
+  ],
+  "persona": {
+   "summary": "An applied microeconomist rooted in industrial organization and international economics. His work stays close to how real firms behave: how they set prices, choose invoicing currencies, segment markets and manage risk under uncertainty. A adds a strand on consumers' responses to prices, taxes and information.",
+   "research_lens": "Views trade and macro-type phenomena such as exchange rates, currency regimes and market integration through a microeconomic lens: firm pricing, contracts, arbitrage and competition in imperfectly competitive markets. Inferred from his record: he would weigh whether a contribution identifies an economically important mechanism and changes how economists understand firm behavior, market outcomes and policy.",
+   "methods_and_evidence": "Combines formal economic models with empirical work on detailed micro data, often Nordic retail, price or registry data. His work also uses firm surveys and natural experiments (exchange-rate movements, review timing, distance to borders). A further mentions structural demand estimation and text analysis. Inferred: he values clean mechanisms, credible identification and evidence at the level where decisions are made, rather than aggregate correlations.",
+   "what_they_value_in_contributions": "Inferred from his record: contributions that link theory to measurable firm and consumer behavior and give strong micro-foundations for broader phenomena. He would also value work that bears on real policy and practice (competition enforcement, merger remedies, taxation, trade, exchange-rate regimes, managerial risk decisions) and that durably changed empirical or theoretical practice.",
+   "likely_questions_in_deliberation": [
+    "Has the theory been confronted with micro data on actual firm or consumer behavior, and did it hold up?",
+    "What is the precise mechanism, and is it empirically distinguishable from competing explanations or aggregate shocks?",
+    "Does the work operate at the level where decisions are actually made (firms, contracts, prices, markets)?",
+    "How robust are the identification and evidence across institutional settings, market structures and periods?",
+    "Did the work durably change subsequent empirical practice or theoretical modeling, and is it a new framework or a refinement?",
+    "What are the policy or welfare implications for competition, trade, taxation, market integration or risk management?",
+    "Who originated the line of work versus who developed it later, and how should credit be shared?"
+   ],
+   "committee_experience": "Co-opted member of the Committee for the Prize in Economic Sciences for 2026. A believes he has been involved with the committee in earlier years but cannot confirm years or roles. O does not know of earlier service. G offers no earlier history; it frames his role as bringing IO and applied-micro expertise to complement the core committee.",
+   "support_note": "The summary, lens and methods are shared by all three profiles. The consumer-behavior and policy-evaluation emphasis (cross-border shopping, taxation, reviews, merger remedies) comes from A alone. G's emphasis on digitalization and retail dynamics is shared only loosely with O. A's claim of earlier committee involvement is unconfirmed, and O explicitly does not know. G's framing of his role as complementing the core committee is an interpretation, not a recorded fact."
+  },
+  "disagreements": [
+   "Earlier committee service: A believes he was involved with the economics prize committee in earlier years (unconfirmed); O does not know; G gives no history.",
+   "Royal Swedish Academy of Sciences: only A suggests he is a member or 'closely tied to its prize work', and A is uncertain; O and G do not mention it.",
+   "Identity confidence: A rates it medium; O and G rate it high.",
+   "Recent interests: G highlights digitalization and e-commerce in Swedish retail. A highlights cross-border shopping and merger-remedy evaluation. O highlights invoicing and pricing, plus retail competition and market integration.",
+   "Common-currency work: O cites 'Common currency, common market?' with Mathias Ganslandt (no year or venue); A cites a 2004 Economics Letters paper with Thomas Y. Mathä on euro price equalization. These may be distinct papers; neither profile confirms the other's."
+  ],
+  "caveats": [
+   "Several works rest on a single profile: the AER 2001 duty-free paper (G), and the 2007 JPubE, 2012 AEJ Applied, 2015 IJIO and 2017 JCF papers (A). Verify their bibliographic details.",
+   "A rates the 2004 Economics Letters paper low confidence. O's Ganslandt paper lacks a year and venue.",
+   "All profiles have knowledge cutoffs around 2024–2025 and do not reliably cover his 2024–2026 work. G's digitalization interest and A's cross-border-shopping work with Steen and Ulsaker cite no specific recent publications.",
+   "Prior committee service and Academy membership are unverified and should be checked against official records.",
+   "All three profiles recognized him, and no namesake confusion is apparent; no entries were dropped.",
+   "Persona statements are inferences from his research record, not known views. They do not indicate any preference regarding 2026 candidates."
+  ]
+ },
+ "per_model": {
+  "A": {
+   "persona_summary": "An applied microeconomist rooted in industrial organization and international economics. His work is consistently close to real markets: firms' pricing, consumers' responses to prices and information, and the design and evaluation of competition and tax policy.",
+   "identity_note": "Richard Friberg is a professor of economics at the Stockholm School of Economics. He works mainly in industrial organization and international economics: pricing, exchange-rate pass-through and currency invoicing, cross-border shopping and market integration, competition policy, and how firms handle risk and uncertainty. He has held a chair at SSE for many years and is a member of the Royal Swedish Academy of Sciences or closely tied to its prize work. I am not certain of the exact years of his earlier involvement with the prize committee. The 2026 role as co-opted member comes from the prompt.",
+   "knowledge_limits": "My knowledge comes from training data reaching roughly 2024–2025. I am unsure of exact publication years, venues and coauthors for some works, particularly the lower-confidence entries. I do not know his work from 2024–2026 in detail, nor the precise history of his committee service. I have no knowledge of his views on specific 2026 candidates."
+  },
+  "O": {
+   "persona_summary": "Friberg would plausibly bring the perspective of an applied microeconomist/international economist interested in how real firms behave under uncertainty, especially when market power, exchange rates, contract currency, and market segmentation interact. This is an inference from his research record rather than a statement about his private views.",
+   "identity_note": "Richard Friberg is a professor of economics at the Stockholm School of Economics. The affiliation and title match the economist known for work in international economics, industrial organization, pricing, exchange-rate pass-through, currency denomination of trade, and firm risk management.",
+   "knowledge_limits": "My knowledge is based on general professional information available up to roughly 2024 and memory, with no web access. I am confident about the identity, broad fields, and several core works, especially the 1998 Journal of International Economics article, the 2001 Journal of International Economics article, the 2008 Journal of International Economics questionnaire study with Fredrik Wilander, and the 2015 MIT Press book. I am less certain about exact bibliographic details for some coauthored work on common currency/market integration and about his most recent 2024–2026 publications or committee service history."
+  },
+  "G": {
+   "persona_summary": "An applied microeconomist whose research bridges industrial organization, international trade, and corporate strategy. He focuses heavily on firm-level decision-making, particularly regarding pricing and risk management in the presence of uncertainty and structural changes.",
+   "identity_note": "Richard Friberg is a Professor of Economics at the Stockholm School of Economics (SSE), known for his work in industrial organization, international economics, and risk management.",
+   "knowledge_limits": "I am confident in his major contributions to international pricing and risk management up to the early 2020s. My knowledge of his most recent working papers, specific intra-committee dynamics, and unpublished viewpoints from 2024 to 2026 is limited."
+  }
+ },
+ "stats": {
+  "fields": 5,
+  "interests": 5,
+  "works": 11,
+  "works_all_models": 1,
+  "works_one_model": 7,
+  "works_not_in_inputs": 0,
+  "works_support_differs": 0,
+  "disagreements": 5,
+  "caveats": 6
+ }
+}

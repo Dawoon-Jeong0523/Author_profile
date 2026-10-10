@@ -1,0 +1,1231 @@
+{
+ "stage": "merge",
+ "member": "randi-hjalmarsson",
+ "name": "Randi Hjalmarsson",
+ "role": "co-opted member",
+ "title": "Professor of economics",
+ "affiliation": "Department of Economics, University of Gothenburg",
+ "merger": "claude-opus-5-5",
+ "written": "2026-10-09T23:54:30+00:00",
+ "inputs": {
+  "A": {
+   "model": "claude-opus-5-5",
+   "written": "2026-10-09T23:49:32+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "O": {
+   "model": "gpt-5.5-2026-04-23",
+   "written": "2026-10-09T23:50:57+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "G": {
+   "model": "gemini-3.1-pro-preview",
+   "written": "2026-10-09T23:49:39+00:00",
+   "recognized": true,
+   "confidence": "high"
+  }
+ },
+ "missing_inputs": [],
+ "prompt": {
+  "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+  "user_chars": 23621
+ },
+ "attempts": [
+  {
+   "provider": "anthropic",
+   "model_requested": "claude-opus-5-5",
+   "model_reported": "claude-opus-5-5",
+   "request": {
+    "url": "https://api.anthropic.com/v1/messages",
+    "header_names": [
+     "x-api-key",
+     "anthropic-version: 2023-06-01",
+     "content-type"
+    ],
+    "body": {
+     "model": "claude-opus-5-5",
+     "max_tokens": 32000,
+     "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+     "messages": [
+      {
+       "role": "user",
+       "content": "Committee member: Randi Hjalmarsson\nAffiliation: Department of Economics, University of Gothenburg\nCommittee role in 2026: co-opted member\nTitle as listed by nobelprize.org: Professor of economics\n\nProfile A:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Randi Hjalmarsson is a professor of economics at the University of Gothenburg. She previously held positions at the University of Maryland (School of Public Policy) and Queen Mary University of London. She is an applied microeconomist best known for empirical work on the economics of crime and the criminal justice system, using Swedish register data and historical English court records. I know of no namesake in economics who could be confused with her.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Economics of crime and criminal justice (deterrence, incarceration, juvenile justice, courts and juries, policing)\",\n   \"jel_codes\": [\n    \"K42\",\n    \"K14\",\n    \"K41\",\n    \"H76\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Labor economics / economics of education (education–crime links, intergenerational transmission)\",\n   \"jel_codes\": [\n    \"I21\",\n    \"I26\",\n    \"J62\",\n    \"J24\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Health consequences of criminal justice involvement\",\n   \"jel_codes\": [\n    \"I12\",\n    \"I18\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Economic history of crime and justice (historical court records)\",\n   \"jel_codes\": [\n    \"N33\",\n    \"N43\",\n    \"K40\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Gender gaps (in criminal justice treatment and in the economics profession)\",\n   \"jel_codes\": [\n    \"J16\",\n    \"A11\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Long-run historical analysis of English criminal justice: jury behavior, punishment severity, gender gaps in sentencing, the introduction of professional police, and penal transportation\",\n   \"period\": \"c. 2017–present\",\n   \"basis\": \"Series of papers with Anna Bindler using Old Bailey records\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Effects of incarceration on health, mortality and later outcomes\",\n   \"period\": \"c. 2019–present\",\n   \"basis\": \"Work with Matthew Lindquist on Swedish register data\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Effects of institutions such as military conscription and schooling on crime\",\n   \"period\": \"c. 2015–2022\",\n   \"basis\": \"Hjalmarsson & Lindquist and Hjalmarsson, Holmlund & Lindquist papers\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Gender and diversity in the economics profession and in criminal justice decisions\",\n   \"period\": \"c. 2019–present\",\n   \"basis\": \"Recollection of her involvement in work on gender gaps; details uncertain\",\n   \"confidence\": \"low\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Juvenile Jails: A Path to the Straight and Narrow or to Hardened Criminality?\",\n   \"year\": \"2009\",\n   \"venue\": \"Journal of Law and Economics\",\n   \"coauthors\": [],\n   \"contribution\": \"Uses discontinuities in Washington State juvenile sentencing guidelines to estimate the effect of incarceration on recidivism; finds a deterrent effect.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Crime and Expected Punishment: Changes in Perceptions at the Age of Criminal Majority\",\n   \"year\": \"2009\",\n   \"venue\": \"American Law and Economics Review\",\n   \"coauthors\": [],\n   \"contribution\": \"Tests whether youths update their perceived sanction risk at the age of criminal majority; finds little updating, which bears on deterrence-based explanations.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Like Godfather, Like Son: Exploring the Intergenerational Nature of Crime\",\n   \"year\": \"2012\",\n   \"venue\": \"Journal of Human Resources\",\n   \"coauthors\": [\n    \"Matthew J. Lindquist\"\n   ],\n   \"contribution\": \"Documents strong parent–child correlations in criminal convictions in Swedish data and explores the mechanisms behind them.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"The Effect of Education on Criminal Convictions and Incarceration: Causal Evidence from Micro-data\",\n   \"year\": \"2015\",\n   \"venue\": \"Economic Journal\",\n   \"coauthors\": [\n    \"Helena Holmlund\",\n    \"Matthew J. Lindquist\"\n   ],\n   \"contribution\": \"Uses the Swedish compulsory schooling reform to identify a causal crime-reducing effect of education.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"How Punishment Severity Affects Jury Verdicts: Evidence from Two Natural Experiments\",\n   \"year\": \"2018\",\n   \"venue\": \"American Economic Journal: Economic Policy\",\n   \"coauthors\": [\n    \"Anna Bindler\"\n   ],\n   \"contribution\": \"Uses historical reforms that reduced capital punishment in England to show that juries convict more when penalties are less severe (jury nullification).\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"The Causal Effect of Military Conscription on Crime\",\n   \"year\": \"2019\",\n   \"venue\": \"Economic Journal\",\n   \"coauthors\": [\n    \"Matthew J. Lindquist\"\n   ],\n   \"contribution\": \"Exploits Swedish conscription assignment to estimate the effects of military service on later criminal behavior.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"The Persistence of the Criminal Justice Gender Gap: Evidence from 200 Years of Judicial Decisions\",\n   \"year\": \"2020\",\n   \"venue\": \"Journal of Law and Economics\",\n   \"coauthors\": [\n    \"Anna Bindler\"\n   ],\n   \"contribution\": \"Documents a long-run gender gap in conviction and sentencing at the Old Bailey and how it evolved.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"The Impact of the First Professional Police Forces on Crime\",\n   \"year\": \"2021\",\n   \"venue\": \"Journal of the European Economic Association\",\n   \"coauthors\": [\n    \"Anna Bindler\"\n   ],\n   \"contribution\": \"Evaluates the introduction of the London Metropolitan Police (1829) on crime outcomes using historical data.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"An applied microeconomist specializing in crime and criminal justice. She combines quasi-experimental identification with unusually rich administrative and historical data, notably Swedish registers and two centuries of Old Bailey records.\",\n  \"research_lens\": \"Policy-relevant causal questions about how institutions (punishment rules, schooling, conscription, police, juries) shape individual behavior and life outcomes. Her work also takes a long-run historical view of how justice institutions evolve. Inference: she would weigh both credible causal identification and broader relevance to institutions and public policy.\",\n  \"methods_and_evidence\": \"Natural experiments, discontinuity designs, policy-reform variation and register-based linked data. Large historical datasets built from archival court records. She focuses on intergenerational and long-run outcomes and on careful measurement.\",\n  \"what_they_value_in_contributions\": \"Inference from her record: credible causal evidence on important social questions; creative use of new data sources, including historical archives; work that informs policy on crime, education and justice; and research that has opened up an empirical field rather than producing one-off findings.\",\n  \"likely_questions_in_deliberation\": [\n   \"Is the causal evidence behind this body of work robust, and has it been replicated in other settings and data?\",\n   \"Has the contribution changed how economists and policymakers think about institutions such as courts, schools or police?\",\n   \"How does the theoretical contribution connect to empirical evidence on actual behavior?\",\n   \"Does the work generalize beyond the specific country or period studied?\",\n   \"Who originated the key ideas or data innovations, and how should credit be shared among contributors?\"\n  ],\n  \"committee_experience\": \"Listed by nobelprize.org as a co-opted member of the Committee for the Prize in Economic Sciences for 2026. I am not certain when her co-opted service began; it may have started a few years earlier. As a co-opted member she would contribute field expertise in applied microeconomics, law and economics, and labor/education economics.\"\n },\n \"knowledge_limits\": \"My knowledge reaches roughly through 2024–2025 and comes from memory without verification. Exact publication years, venues and coauthor lists of some papers may be off, and I may be unaware of her most recent working papers. I do not know the start date of her committee service, her editorial roles in detail, or any public statements she has made about the prize. Persona elements are inferences from her published research.\"\n}\n\nProfile O:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Randi Hjalmarsson is a professor of economics at the Department of Economics, University of Gothenburg. I recognize her as an empirical economist working primarily in law and economics and the economics of crime, with influential work on juries, criminal justice decision-making, education and crime, military service and crime, and intergenerational transmission of criminal behavior. The affiliation matches the person I am describing.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Economics of crime, law and economics, criminal justice institutions\",\n   \"jel_codes\": [\n    \"K42\",\n    \"K40\",\n    \"K41\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Empirical microeconomics and applied causal inference using administrative, court, and historical data\",\n   \"jel_codes\": [\n    \"C21\",\n    \"C26\",\n    \"C93\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Discrimination, representation, and decision-making in courts and juries\",\n   \"jel_codes\": [\n    \"J15\",\n    \"J16\",\n    \"K42\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Education, human capital, and crime; intergenerational transmission of crime\",\n   \"jel_codes\": [\n    \"I24\",\n    \"J24\",\n    \"K42\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"How jury composition affects criminal trial outcomes, including race, gender, and age composition of juries\",\n   \"period\": \"Continuing line of work through at least the late 2010s and early 2020s\",\n   \"basis\": \"Publications with Shamena Anwar and Patrick Bayer on jury race, age, and the introduction of female jurors; this is one of her best-known research programs.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Gender and representation in criminal justice decision-making, including historical evidence on female jurors\",\n   \"period\": \"Roughly 2019-2024, as far as my knowledge reaches\",\n   \"basis\": \"The published work 'A Jury of Her Peers' and related research agenda on legal decision-making and representation.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Long-run and intergenerational determinants of criminal behavior\",\n   \"period\": \"Ongoing research agenda, with major publications before and during the 2010s and continuing relevance in her profile\",\n   \"basis\": \"Work with Matthew Lindquist and others on intergenerational crime, adoption evidence, parental criminality, and mechanisms linking family background and crime.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Causal effects of public institutions and policies on crime, including education policy and military conscription\",\n   \"period\": \"Major publications in the 2010s; still central to her research identity by the 2020s\",\n   \"basis\": \"Publications using Swedish administrative data and quasi-experimental designs to estimate effects of schooling and conscription on criminal convictions and incarceration.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"The Impact of Jury Race in Criminal Trials\",\n   \"year\": \"2012\",\n   \"venue\": \"Quarterly Journal of Economics\",\n   \"coauthors\": [\n    \"Shamena Anwar\",\n    \"Patrick Bayer\"\n   ],\n   \"contribution\": \"Uses variation in jury pools and seated juries to study how racial composition affects conviction outcomes in criminal trials; a widely cited empirical contribution to understanding discrimination and representation in legal institutions.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"A Jury of Her Peers: The Impact of the First Female Jurors on Criminal Convictions\",\n   \"year\": \"2019\",\n   \"venue\": \"The Economic Journal\",\n   \"coauthors\": [\n    \"Shamena Anwar\",\n    \"Patrick Bayer\"\n   ],\n   \"contribution\": \"Studies the introduction of women to juries and examines how female jurors affected conviction patterns, especially in cases where gender of victims or defendants was salient. The year and venue are recalled with moderate confidence.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"The Role of Age in Jury Selection and Trial Outcomes\",\n   \"year\": \"2014\",\n   \"venue\": \"Journal of Law and Economics\",\n   \"coauthors\": [\n    \"Shamena Anwar\",\n    \"Patrick Bayer\"\n   ],\n   \"contribution\": \"Examines whether juror age affects selection into juries and criminal trial outcomes, extending her jury-composition research to another demographic dimension. Details are recalled with moderate confidence.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"The Effect of Education on Criminal Convictions and Incarceration: Causal Evidence from Micro-data\",\n   \"year\": \"2015\",\n   \"venue\": \"The Economic Journal\",\n   \"coauthors\": [\n    \"Helena Holmlund\",\n    \"Matthew J. Lindquist\"\n   ],\n   \"contribution\": \"Uses microdata and a credible identification strategy to estimate the causal effect of education on criminal convictions and incarceration, contributing to evidence on schooling as crime prevention.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Like Godfather, Like Son: Explaining the Intergenerational Nature of Crime\",\n   \"year\": \"2012\",\n   \"venue\": \"Journal of Human Resources\",\n   \"coauthors\": [\n    \"Matthew J. Lindquist\"\n   ],\n   \"contribution\": \"Analyzes why criminal behavior is correlated across generations, distinguishing family, neighborhood, and other mechanisms using rich Swedish data.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"The Origins of Intergenerational Associations in Crime: Lessons from Swedish Adoption Data\",\n   \"year\": \"2013\",\n   \"venue\": \"Labour Economics\",\n   \"coauthors\": [\n    \"Matthew J. Lindquist\"\n   ],\n   \"contribution\": \"Uses adoption data to separate inherited, family-environment, and broader social mechanisms in the intergenerational transmission of crime. Venue and year are recalled with moderate confidence.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"The Causal Effect of Military Conscription on Crime\",\n   \"year\": \"2019\",\n   \"venue\": \"The Economic Journal\",\n   \"coauthors\": [\n    \"Matthew J. Lindquist\"\n   ],\n   \"contribution\": \"Uses variation in military conscription to estimate how compulsory service affects later criminal behavior, linking institutions, youth experiences, and crime.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Juvenile Jails: A Path to the Straight and Narrow or to Hardened Criminality?\",\n   \"year\": \"2009\",\n   \"venue\": \"Journal of Law and Economics\",\n   \"coauthors\": [],\n   \"contribution\": \"Studies whether juvenile incarceration deters future crime or instead increases later criminality, an early contribution to her broader empirical work on criminal justice interventions.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"In a prize discussion, Randi Hjalmarsson would plausibly bring the perspective of an applied microeconomist and law-and-economics scholar whose own work asks how institutions affect consequential social outcomes, especially crime, punishment, and legal decision-making. This is an inference from her publication record, not a statement of her views about any particular prize candidate.\",\n  \"research_lens\": \"Her research lens is institutional and empirical: courts, juries, schools, families, military service, and criminal justice systems are treated as settings where incentives, information, representation, and policy rules shape behavior and outcomes. She would likely be attentive to whether a body of work changed how economists understand real institutions and whether it produced credible evidence on mechanisms, not just correlations.\",\n  \"methods_and_evidence\": \"Her work relies heavily on microdata, administrative records, court records, historical legal data, and quasi-experimental or otherwise carefully identified empirical designs. In deliberation she would likely scrutinize identification, institutional knowledge, measurement of outcomes, robustness, and external validity. She may be especially alert to whether empirical results survive alternative specifications and whether the legal or policy environment is understood well enough to support causal interpretation.\",\n  \"what_they_value_in_contributions\": \"Her record suggests she would value contributions that combine credible empirical methods with important substantive questions; reveal how institutions actually work; quantify effects of policy or institutional design; uncover mechanisms behind inequality, discrimination, or intergenerational persistence; and influence both economics and adjacent fields such as law, criminology, and public policy. This is an inference from the themes and methods of her publications.\",\n  \"likely_questions_in_deliberation\": [\n   \"What is the core causal claim, and how credible is the identification strategy?\",\n   \"Does the evidence come from a setting whose institutions are well understood, or are crucial institutional details abstracted away?\",\n   \"Has the work changed economists’ understanding of behavior or institutions, rather than only documenting an interesting fact?\",\n   \"Are the effects economically and socially large, and are they robust across populations or settings?\",\n   \"Does the contribution clarify mechanisms, especially where policy implications depend on them?\",\n   \"How has the work influenced subsequent empirical research, data use, or policy-relevant thinking?\",\n   \"If the work concerns inequality, discrimination, or representation, does it distinguish taste, information, institutional constraints, and selection mechanisms?\",\n   \"Is the contribution broad enough for the prize, or is it mainly a narrower applied finding?\"\n  ],\n  \"committee_experience\": \"For 2026 she is listed as a co-opted member of the Committee for the Prize in Economic Sciences in Memory of Alfred Nobel. I do not know from memory whether she served on the committee in earlier years or what role, if any, she played in prior prize deliberations.\"\n },\n \"knowledge_limits\": \"My knowledge is based on information available to me up to 2024-06, plus the role, date, affiliation, and 2026 committee status supplied in the prompt. I have no web access and cannot verify her 2025-2026 publications, current working papers, exact Nobel committee biography, or any updates to titles and publication details after my cutoff. Some publication years and venues above are marked medium confidence where I remember the work clearly but not the bibliographic detail with full certainty.\"\n}\n\nProfile G:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Randi Hjalmarsson is a Professor of Economics at the University of Gothenburg, recognized for her extensive empirical research in the economics of crime, law and economics, and applied microeconomics.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Economics of Crime\",\n   \"jel_codes\": [\n    \"K4\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Labor Economics\",\n   \"jel_codes\": [\n    \"J0\",\n    \"J2\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Applied Microeconomics\",\n   \"jel_codes\": [\n    \"C2\",\n    \"D1\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Historical crime and justice data\",\n   \"period\": \"Last 5-10 years\",\n   \"basis\": \"Publications utilizing historical London court and penal data to evaluate institutional shifts.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Jury demographics and decision making\",\n   \"period\": \"Ongoing\",\n   \"basis\": \"Series of influential papers on how race, gender, and political ideology of jurors affect trial outcomes.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Peer effects in the justice system\",\n   \"period\": \"Ongoing\",\n   \"basis\": \"Research on how incarceration and juvenile justice facilities build criminal capital through peer interactions.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"The Impact of Jury Race in Criminal Trials\",\n   \"year\": \"2012\",\n   \"venue\": \"Quarterly Journal of Economics\",\n   \"coauthors\": [\n    \"Shamena Anwar\",\n    \"Patrick Bayer\"\n   ],\n   \"contribution\": \"Demonstrated that jury racial composition causally impacts trial outcomes using variations in the jury pool.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Building Criminal Capital behind Bars: Peer Effects in Juvenile Corrections\",\n   \"year\": \"2009\",\n   \"venue\": \"Quarterly Journal of Economics\",\n   \"coauthors\": [\n    \"Patrick Bayer\",\n    \"David E. Pozen\"\n   ],\n   \"contribution\": \"Provided credible empirical evidence on the existence of peer effects among juvenile offenders in correctional facilities.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"A Jury of Her Peers: The Impact of the First Female Jurors on Criminal Convictions\",\n   \"year\": \"2019\",\n   \"venue\": \"The Economic Journal\",\n   \"coauthors\": [\n    \"Shamena Anwar\",\n    \"Patrick Bayer\"\n   ],\n   \"contribution\": \"Exploited the staggered introduction of female jurors in the UK to identify the causal effect of gender representation on criminal convictions.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Path Dependency in Jury Decision Making\",\n   \"year\": \"2018\",\n   \"venue\": \"Journal of the European Economic Association\",\n   \"coauthors\": [\n    \"Anna Bindler\"\n   ],\n   \"contribution\": \"Analyzed historical data from London's Old Bailey to show how previous jury verdicts affect subsequent decisions by the same jury.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"An empirical applied microeconomist with deep expertise in the economics of crime, focusing on the causal impacts of legal institutions, penal systems, and jury composition.\",\n  \"research_lens\": \"Views economic questions through the lens of institutional design and human behavior under legal constraints. Emphasizes the importance of uncovering hidden biases and peer effects within the justice system.\",\n  \"methods_and_evidence\": \"Relies heavily on design-based empirical strategies, such as natural experiments, instrumental variables, and regression discontinuity. Utilizes large-scale administrative datasets as well as meticulously digitized historical records to achieve credible causal identification.\",\n  \"what_they_value_in_contributions\": \"Values robust causal inference, the creative use of new or historical data to answer long-standing questions, and research that provides clear, policy-relevant insights into societal and institutional inequalities.\",\n  \"likely_questions_in_deliberation\": [\n   \"Is the identification strategy truly isolating a causal effect?\",\n   \"How robust are these findings to different institutional contexts or time periods?\",\n   \"Does this research rely on novel, high-quality data that pushes the frontier of applied microeconomics?\",\n   \"What do these findings tell us about the broader design of institutions and their impact on inequality?\"\n  ],\n  \"committee_experience\": \"As a co-opted member, brings specialized expertise in applied microeconomics, empirical methods, and law and economics to complement the broader macro or theoretical expertise of other committee members.\"\n },\n \"knowledge_limits\": \"Specific details of her most recent working papers or grants from 2024-2026, and her exact internal roles or specific advocacy within the Nobel Committee's confidential deliberations.\"\n}"
+      }
+     ],
+     "output_config": {
+      "format": {
+       "type": "json_schema",
+       "schema": {
+        "type": "object",
+        "properties": {
+         "identity": {
+          "type": "object",
+          "properties": {
+           "name": {
+            "type": "string"
+           },
+           "affiliation": {
+            "type": "string"
+           },
+           "recognized_by": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "name",
+           "affiliation",
+           "recognized_by",
+           "note"
+          ],
+          "additionalProperties": false
+         },
+         "fields": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "field": {
+             "type": "string"
+            },
+            "jel_codes": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "field",
+            "jel_codes",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "recent_interests": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "topic": {
+             "type": "string"
+            },
+            "period": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "topic",
+            "period",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "representative_works": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "year": {
+             "type": "string"
+            },
+            "venue": {
+             "type": "string"
+            },
+            "coauthors": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "contribution": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "conflict": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "title",
+            "year",
+            "venue",
+            "coauthors",
+            "contribution",
+            "support",
+            "conflict"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "persona": {
+          "type": "object",
+          "properties": {
+           "summary": {
+            "type": "string"
+           },
+           "research_lens": {
+            "type": "string"
+           },
+           "methods_and_evidence": {
+            "type": "string"
+           },
+           "what_they_value_in_contributions": {
+            "type": "string"
+           },
+           "likely_questions_in_deliberation": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "committee_experience": {
+            "type": "string"
+           },
+           "support_note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "summary",
+           "research_lens",
+           "methods_and_evidence",
+           "what_they_value_in_contributions",
+           "likely_questions_in_deliberation",
+           "committee_experience",
+           "support_note"
+          ],
+          "additionalProperties": false
+         },
+         "disagreements": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         },
+         "caveats": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         }
+        },
+        "required": [
+         "identity",
+         "fields",
+         "recent_interests",
+         "representative_works",
+         "persona",
+         "disagreements",
+         "caveats"
+        ],
+        "additionalProperties": false
+       }
+      },
+      "effort": "high"
+     }
+    }
+   },
+   "http": [
+    {
+     "attempt": 1,
+     "started": "2026-10-09T23:53:11+00:00",
+     "ended": "2026-10-09T23:54:30+00:00",
+     "seconds": 79.3,
+     "status": 200,
+     "headers": {
+      "request-id": "req_011CfsZeFUiQ4vDBddYhbXh7"
+     }
+    }
+   ],
+   "response_raw": {
+    "model": "claude-opus-5-5",
+    "id": "msg_011CfsZeFnaLBURc3SvA2too",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "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"
+     },
+     {
+      "type": "text",
+      "text": "{\"identity\":{\"name\":\"Randi Hjalmarsson\",\"affiliation\":\"Department of Economics, University of Gothenburg\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize her as a professor of economics at the University of Gothenburg. They describe her as an empirical, applied microeconomist working on the economics of crime, law and economics, and criminal justice institutions. Only A says she previously held positions at the University of Maryland (School of Public Policy) and Queen Mary University of London. A reports no known namesake in economics. For 2026 she is a co-opted member of the Committee for the Prize in Economic Sciences.\"},\"fields\":[{\"field\":\"Economics of crime, law and economics, and criminal justice institutions (deterrence, incarceration, juvenile justice, courts and juries, policing)\",\"jel_codes\":[\"K42\",\"K40\",\"K41\",\"K14\",\"H76\",\"K4\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles treat this as her core field. A adds K14 and H76, and G gives only the broad code K4.\"},{\"field\":\"Labor economics and education economics: education and crime, human capital, intergenerational transmission of crime\",\"jel_codes\":[\"I21\",\"I24\",\"I26\",\"J24\",\"J62\",\"J0\",\"J2\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"A and O frame this around education–crime links and intergenerational transmission. G lists only 'Labor Economics' with broad codes.\"},{\"field\":\"Applied microeconomics and empirical causal inference using administrative, court and historical data\",\"jel_codes\":[\"C21\",\"C26\",\"C93\",\"C2\",\"D1\"],\"support\":[\"O\",\"G\"],\"note\":\"A does not list this as a separate field but describes the same quasi-experimental methods in its persona.\"},{\"field\":\"Discrimination, gender gaps and representation in courts, juries and criminal justice decisions\",\"jel_codes\":[\"J15\",\"J16\",\"K42\",\"A11\"],\"support\":[\"A\",\"O\"],\"note\":\"O frames this as discrimination and representation in courts and juries, with high confidence. A frames it as gender gaps in criminal justice treatment and also in the economics profession, with medium confidence; the profession part (A11) is A only.\"},{\"field\":\"Economic history of crime and justice (historical English court records, Old Bailey)\",\"jel_codes\":[\"N33\",\"N43\",\"K40\"],\"support\":[\"A\"],\"note\":\"Only A lists this as a field. G supports historical London court and penal data as a recent interest, and O mentions historical legal data in its persona.\"},{\"field\":\"Health consequences of criminal justice involvement\",\"jel_codes\":[\"I12\",\"I18\"],\"support\":[\"A\"],\"note\":\"Single-profile field, medium confidence.\"}],\"recent_interests\":[{\"topic\":\"Long-run historical analysis of English criminal justice using Old Bailey and London court and penal records: jury behavior, punishment severity, gender gaps in sentencing, professional police, penal transportation\",\"period\":\"c. 2017–present\",\"support\":[\"A\",\"G\"],\"note\":\"A ties this to a series of papers with Anna Bindler. G gives the period as the last 5–10 years. A's period is kept as the more specific one.\"},{\"topic\":\"Jury composition and decision-making (race, gender and age of jurors)\",\"period\":\"Ongoing; late 2010s to early 2020s\",\"support\":[\"O\",\"G\"],\"note\":\"Based on the work with Shamena Anwar and Patrick Bayer. G also mentions jurors' political ideology, which no other profile supports.\"},{\"topic\":\"Gender and representation in criminal justice decision-making, including historical evidence on female jurors\",\"period\":\"c. 2019–2024\",\"support\":[\"A\",\"O\"],\"note\":\"O bases this on 'A Jury of Her Peers', with medium confidence. A gives it low confidence and also extends it to gender and diversity in the economics profession.\"},{\"topic\":\"Causal effects of institutions and policies such as schooling and military conscription on crime\",\"period\":\"Major publications c. 2015–2022; still central in the 2020s\",\"support\":[\"A\",\"O\"],\"note\":\"Based on Swedish administrative-data papers with Lindquist and with Holmlund and Lindquist.\"},{\"topic\":\"Long-run and intergenerational determinants of criminal behavior (parental criminality, adoption evidence)\",\"period\":\"Ongoing since the 2010s\",\"support\":[\"O\"],\"note\":\"A covers intergenerational transmission as a field and through the 'Like Godfather, Like Son' paper, but not as a recent interest.\"},{\"topic\":\"Effects of incarceration on health, mortality and later outcomes\",\"period\":\"c. 2019–present\",\"support\":[\"A\"],\"note\":\"Single profile, medium confidence. Based on work with Matthew Lindquist on Swedish register data.\"},{\"topic\":\"Peer effects in the justice system (criminal capital built in incarceration and juvenile facilities)\",\"period\":\"Ongoing\",\"support\":[\"G\"],\"note\":\"Single profile. The supporting paper G cites is from 2009, so 'ongoing' as a recent interest is uncertain.\"}],\"representative_works\":[{\"title\":\"The Impact of Jury Race in Criminal Trials\",\"year\":\"2012\",\"venue\":\"Quarterly Journal of Economics\",\"coauthors\":[\"Shamena Anwar\",\"Patrick Bayer\"],\"contribution\":\"Uses variation in jury pools and seated juries to show that jury racial composition causally affects conviction outcomes in criminal trials.\",\"support\":[\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Juvenile Jails: A Path to the Straight and Narrow or to Hardened Criminality?\",\"year\":\"2009\",\"venue\":\"Journal of Law and Economics\",\"coauthors\":[],\"contribution\":\"Estimates the effect of juvenile incarceration on recidivism. A says it uses discontinuities in Washington State juvenile sentencing guidelines and finds a deterrent effect.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Like Godfather, Like Son: Exploring the Intergenerational Nature of Crime\",\"year\":\"2012\",\"venue\":\"Journal of Human Resources\",\"coauthors\":[\"Matthew J. Lindquist\"],\"contribution\":\"Documents strong parent–child correlations in criminal convictions in Swedish data and explores the mechanisms behind them, including family and neighborhood channels.\",\"support\":[\"A\",\"O\"],\"conflict\":\"Subtitle differs: A gives 'Exploring the Intergenerational Nature of Crime', O gives 'Explaining the Intergenerational Nature of Crime'. With one profile each, the correct wording is unresolved.\"},{\"title\":\"The Effect of Education on Criminal Convictions and Incarceration: Causal Evidence from Micro-data\",\"year\":\"2015\",\"venue\":\"The Economic Journal\",\"coauthors\":[\"Helena Holmlund\",\"Matthew J. Lindquist\"],\"contribution\":\"Uses Swedish microdata to identify a causal crime-reducing effect of education; A specifies that the identifying variation is the Swedish compulsory schooling reform.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"The Causal Effect of Military Conscription on Crime\",\"year\":\"2019\",\"venue\":\"The Economic Journal\",\"coauthors\":[\"Matthew J. Lindquist\"],\"contribution\":\"Exploits Swedish conscription variation to estimate how military service affects later criminal behavior.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"A Jury of Her Peers: The Impact of the First Female Jurors on Criminal Convictions\",\"year\":\"2019\",\"venue\":\"The Economic Journal\",\"coauthors\":[\"Shamena Anwar\",\"Patrick Bayer\"],\"contribution\":\"Studies the introduction of women to juries to estimate how female jurors affected conviction patterns. G says the variation is a staggered introduction in the UK.\",\"support\":[\"O\",\"G\"],\"conflict\":\"O recalls the year and venue with only medium confidence; G gives high confidence.\"},{\"title\":\"The Role of Age in Jury Selection and Trial Outcomes\",\"year\":\"2014\",\"venue\":\"Journal of Law and Economics\",\"coauthors\":[\"Shamena Anwar\",\"Patrick Bayer\"],\"contribution\":\"Examines whether juror age affects selection into juries and criminal trial outcomes.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"The Origins of Intergenerational Associations in Crime: Lessons from Swedish Adoption Data\",\"year\":\"2013\",\"venue\":\"Labour Economics\",\"coauthors\":[\"Matthew J. Lindquist\"],\"contribution\":\"Uses adoption data to separate inherited, family-environment and broader social mechanisms in the intergenerational transmission of crime.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Building Criminal Capital behind Bars: Peer Effects in Juvenile Corrections\",\"year\":\"2009\",\"venue\":\"Quarterly Journal of Economics\",\"coauthors\":[\"Patrick Bayer\",\"David E. Pozen\"],\"contribution\":\"Provides empirical evidence of peer effects among juvenile offenders in correctional facilities.\",\"support\":[\"G\"],\"conflict\":\"\"},{\"title\":\"Crime and Expected Punishment: Changes in Perceptions at the Age of Criminal Majority\",\"year\":\"2009\",\"venue\":\"American Law and Economics Review\",\"coauthors\":[],\"contribution\":\"Tests whether youths update their perceived sanction risk at the age of criminal majority and finds little updating, which bears on deterrence-based explanations.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"How Punishment Severity Affects Jury Verdicts: Evidence from Two Natural Experiments\",\"year\":\"2018\",\"venue\":\"American Economic Journal: Economic Policy\",\"coauthors\":[\"Anna Bindler\"],\"contribution\":\"Uses historical English reforms that reduced capital punishment to show that juries convict more when penalties are less severe (jury nullification).\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Path Dependency in Jury Decision Making\",\"year\":\"2018\",\"venue\":\"Journal of the European Economic Association\",\"coauthors\":[\"Anna Bindler\"],\"contribution\":\"Uses Old Bailey data to show how a jury's previous verdicts affect its subsequent decisions.\",\"support\":[\"G\"],\"conflict\":\"Only G lists this paper, with medium confidence. A lists a different 2018 Bindler paper in AEJ: Economic Policy and a different Bindler JEEA paper (2021, professional police). The JEEA attribution should be checked.\"},{\"title\":\"The Persistence of the Criminal Justice Gender Gap: Evidence from 200 Years of Judicial Decisions\",\"year\":\"2020\",\"venue\":\"Journal of Law and Economics\",\"coauthors\":[\"Anna Bindler\"],\"contribution\":\"Documents a long-run gender gap in conviction and sentencing at the Old Bailey and how it evolved.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"The Impact of the First Professional Police Forces on Crime\",\"year\":\"2021\",\"venue\":\"Journal of the European Economic Association\",\"coauthors\":[\"Anna Bindler\"],\"contribution\":\"Evaluates the effect of the 1829 introduction of the London Metropolitan Police on crime using historical data.\",\"support\":[\"A\"],\"conflict\":\"\"}],\"persona\":{\"summary\":\"An applied microeconomist and law-and-economics scholar specializing in crime and criminal justice. She combines quasi-experimental identification with rich administrative and historical data: Swedish registers, US court and jury records, and two centuries of Old Bailey records. Her work asks how institutions shape consequential social outcomes. This is an inference from her publication record, not a statement of her views on any candidate.\",\"research_lens\":\"Institutional and empirical. Courts, juries, punishment rules, schools, families, military service and police are treated as settings where incentives, information, representation and policy rules shape behavior and life outcomes. Her work often takes a long-run or intergenerational view. She would likely weigh both credible causal identification and whether a body of work changed how economists understand real institutions and their effects on inequality.\",\"methods_and_evidence\":\"Design-based empirical strategies: natural experiments, discontinuity designs, instrumental variables and policy-reform variation. These are applied to linked administrative registers and to large historical datasets digitized from archival court records. In deliberation she would likely scrutinize identification, institutional knowledge, outcome measurement, robustness and external validity across countries and periods.\",\"what_they_value_in_contributions\":\"Inferred from her record: credible causal evidence on important social questions; creative use of new or historical data; work that reveals how institutions actually work and clarifies mechanisms behind discrimination, inequality or intergenerational persistence; policy relevance for crime, education and justice; and influence that opened up an empirical field rather than producing one-off findings.\",\"likely_questions_in_deliberation\":[\"What is the core causal claim, and is the identification strategy truly isolating a causal effect?\",\"Are the findings robust, and do they replicate or generalize beyond the specific country, institution or period studied?\",\"Is the institutional setting understood well enough to support a causal interpretation?\",\"Has the work changed how economists and policymakers understand institutions such as courts, schools or police, rather than only documenting an interesting fact?\",\"Does the contribution clarify mechanisms, especially where policy implications depend on them?\",\"Did the work introduce novel, high-quality data or methods that shaped subsequent research?\",\"Where the work concerns inequality or discrimination, does it distinguish taste, information, institutional constraints and selection?\",\"Is the contribution broad enough for the prize, and how should credit be shared among contributors?\"],\"committee_experience\":\"Listed as a co-opted member of the Committee for the Prize in Economic Sciences for 2026. None of the profiles knows when her co-opted service began; A suggests it may have started a few years earlier, O explicitly does not know, and G is silent. As a co-opted member she brings field expertise in applied microeconomics, empirical methods, law and economics, and labor and education economics.\",\"support_note\":\"All three profiles agree on the core persona: applied micro, crime and law, design-based causal inference, novel administrative and historical data, and policy and institutional relevance. The emphases differ. G stresses uncovering hidden biases and peer effects in the justice system. O stresses mechanisms, institutional detail and whether the work is broad enough for a prize. A adds questions on theory–evidence links and credit sharing. G's claim that she complements the 'broader macro or theoretical expertise' of other committee members is unsupported by the other profiles. All persona elements are inferences from publications.\"},\"disagreements\":[\"Subtitle of the 2012 Journal of Human Resources paper with Lindquist: A says 'Exploring the Intergenerational Nature of Crime', O says 'Explaining the Intergenerational Nature of Crime'.\",\"Bindler papers: G attributes 'Path Dependency in Jury Decision Making' (2018) to JEEA. A lists a different 2018 Bindler paper in AEJ: Economic Policy and a 2021 Bindler JEEA paper on professional police. The two profiles do not overlap on any Bindler title.\",\"Start date of committee service: A suggests it may predate 2026, O says it is unknown, G is silent.\",\"Jury research scope: G adds jurors' political ideology, which is not mentioned by O, the other profile covering the jury work.\",\"Gender and diversity in the economics profession is mentioned only by A (low confidence). O frames her gender work around juries and courts.\",\"Profile A does not mention the Anwar–Bayer jury papers, which O and G treat as among her best-known work. O and G do not mention the Old Bailey police, gender-gap or punishment-severity papers listed by A.\"],\"caveats\":[\"Knowledge cutoffs: A roughly 2024–2025, O June 2024, G unstated. None of the profiles reliably covers 2025–2026 work.\",\"Several works rest on a single profile and should be verified: 'Crime and Expected Punishment' (2009, ALER), 'How Punishment Severity Affects Jury Verdicts' (2018), 'The Persistence of the Criminal Justice Gender Gap' (2020), 'The Impact of the First Professional Police Forces on Crime' (2021), 'The Role of Age in Jury Selection' (2014), the Swedish adoption paper (2013), 'Building Criminal Capital behind Bars' (2009) and 'Path Dependency in Jury Decision Making' (2018).\",\"Single-profile fields and interests to verify: health consequences of incarceration, economic history as a field, gender in the economics profession, and peer effects as an ongoing interest.\",\"Prior appointments at the University of Maryland and Queen Mary University of London come from A only.\",\"Several bibliographic details (years, venues, subtitles) were flagged as medium confidence by the profiles themselves.\",\"No entries were dropped. No profile suggested a namesake, and all entries are consistent with the Gothenburg affiliation.\",\"Persona and likely deliberation questions are inferences from her research record, not documented statements or committee behavior.\"]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 10332,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 6905,
+     "output_tokens_details": {
+      "thinking_tokens": 1244
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "response_id": "msg_011CfsZeFnaLBURc3SvA2too",
+   "stop": "end_turn",
+   "truncated": false,
+   "refused": false,
+   "usage": {
+    "input": 10332,
+    "output": 6905,
+    "reasoning": 1244,
+    "cached_input": 0
+   },
+   "usage_raw": {
+    "input_tokens": 10332,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6905,
+    "output_tokens_details": {
+     "thinking_tokens": 1244
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+   },
+   "text": "{\"identity\":{\"name\":\"Randi Hjalmarsson\",\"affiliation\":\"Department of Economics, University of Gothenburg\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize her as a professor of economics at the University of Gothenburg. They describe her as an empirical, applied microeconomist working on the economics of crime, law and economics, and criminal justice institutions. Only A says she previously held positions at the University of Maryland (School of Public Policy) and Queen Mary University of London. A reports no known namesake in economics. For 2026 she is a co-opted member of the Committee for the Prize in Economic Sciences.\"},\"fields\":[{\"field\":\"Economics of crime, law and economics, and criminal justice institutions (deterrence, incarceration, juvenile justice, courts and juries, policing)\",\"jel_codes\":[\"K42\",\"K40\",\"K41\",\"K14\",\"H76\",\"K4\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles treat this as her core field. A adds K14 and H76, and G gives only the broad code K4.\"},{\"field\":\"Labor economics and education economics: education and crime, human capital, intergenerational transmission of crime\",\"jel_codes\":[\"I21\",\"I24\",\"I26\",\"J24\",\"J62\",\"J0\",\"J2\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"A and O frame this around education–crime links and intergenerational transmission. G lists only 'Labor Economics' with broad codes.\"},{\"field\":\"Applied microeconomics and empirical causal inference using administrative, court and historical data\",\"jel_codes\":[\"C21\",\"C26\",\"C93\",\"C2\",\"D1\"],\"support\":[\"O\",\"G\"],\"note\":\"A does not list this as a separate field but describes the same quasi-experimental methods in its persona.\"},{\"field\":\"Discrimination, gender gaps and representation in courts, juries and criminal justice decisions\",\"jel_codes\":[\"J15\",\"J16\",\"K42\",\"A11\"],\"support\":[\"A\",\"O\"],\"note\":\"O frames this as discrimination and representation in courts and juries, with high confidence. A frames it as gender gaps in criminal justice treatment and also in the economics profession, with medium confidence; the profession part (A11) is A only.\"},{\"field\":\"Economic history of crime and justice (historical English court records, Old Bailey)\",\"jel_codes\":[\"N33\",\"N43\",\"K40\"],\"support\":[\"A\"],\"note\":\"Only A lists this as a field. G supports historical London court and penal data as a recent interest, and O mentions historical legal data in its persona.\"},{\"field\":\"Health consequences of criminal justice involvement\",\"jel_codes\":[\"I12\",\"I18\"],\"support\":[\"A\"],\"note\":\"Single-profile field, medium confidence.\"}],\"recent_interests\":[{\"topic\":\"Long-run historical analysis of English criminal justice using Old Bailey and London court and penal records: jury behavior, punishment severity, gender gaps in sentencing, professional police, penal transportation\",\"period\":\"c. 2017–present\",\"support\":[\"A\",\"G\"],\"note\":\"A ties this to a series of papers with Anna Bindler. G gives the period as the last 5–10 years. A's period is kept as the more specific one.\"},{\"topic\":\"Jury composition and decision-making (race, gender and age of jurors)\",\"period\":\"Ongoing; late 2010s to early 2020s\",\"support\":[\"O\",\"G\"],\"note\":\"Based on the work with Shamena Anwar and Patrick Bayer. G also mentions jurors' political ideology, which no other profile supports.\"},{\"topic\":\"Gender and representation in criminal justice decision-making, including historical evidence on female jurors\",\"period\":\"c. 2019–2024\",\"support\":[\"A\",\"O\"],\"note\":\"O bases this on 'A Jury of Her Peers', with medium confidence. A gives it low confidence and also extends it to gender and diversity in the economics profession.\"},{\"topic\":\"Causal effects of institutions and policies such as schooling and military conscription on crime\",\"period\":\"Major publications c. 2015–2022; still central in the 2020s\",\"support\":[\"A\",\"O\"],\"note\":\"Based on Swedish administrative-data papers with Lindquist and with Holmlund and Lindquist.\"},{\"topic\":\"Long-run and intergenerational determinants of criminal behavior (parental criminality, adoption evidence)\",\"period\":\"Ongoing since the 2010s\",\"support\":[\"O\"],\"note\":\"A covers intergenerational transmission as a field and through the 'Like Godfather, Like Son' paper, but not as a recent interest.\"},{\"topic\":\"Effects of incarceration on health, mortality and later outcomes\",\"period\":\"c. 2019–present\",\"support\":[\"A\"],\"note\":\"Single profile, medium confidence. Based on work with Matthew Lindquist on Swedish register data.\"},{\"topic\":\"Peer effects in the justice system (criminal capital built in incarceration and juvenile facilities)\",\"period\":\"Ongoing\",\"support\":[\"G\"],\"note\":\"Single profile. The supporting paper G cites is from 2009, so 'ongoing' as a recent interest is uncertain.\"}],\"representative_works\":[{\"title\":\"The Impact of Jury Race in Criminal Trials\",\"year\":\"2012\",\"venue\":\"Quarterly Journal of Economics\",\"coauthors\":[\"Shamena Anwar\",\"Patrick Bayer\"],\"contribution\":\"Uses variation in jury pools and seated juries to show that jury racial composition causally affects conviction outcomes in criminal trials.\",\"support\":[\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Juvenile Jails: A Path to the Straight and Narrow or to Hardened Criminality?\",\"year\":\"2009\",\"venue\":\"Journal of Law and Economics\",\"coauthors\":[],\"contribution\":\"Estimates the effect of juvenile incarceration on recidivism. A says it uses discontinuities in Washington State juvenile sentencing guidelines and finds a deterrent effect.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Like Godfather, Like Son: Exploring the Intergenerational Nature of Crime\",\"year\":\"2012\",\"venue\":\"Journal of Human Resources\",\"coauthors\":[\"Matthew J. Lindquist\"],\"contribution\":\"Documents strong parent–child correlations in criminal convictions in Swedish data and explores the mechanisms behind them, including family and neighborhood channels.\",\"support\":[\"A\",\"O\"],\"conflict\":\"Subtitle differs: A gives 'Exploring the Intergenerational Nature of Crime', O gives 'Explaining the Intergenerational Nature of Crime'. With one profile each, the correct wording is unresolved.\"},{\"title\":\"The Effect of Education on Criminal Convictions and Incarceration: Causal Evidence from Micro-data\",\"year\":\"2015\",\"venue\":\"The Economic Journal\",\"coauthors\":[\"Helena Holmlund\",\"Matthew J. Lindquist\"],\"contribution\":\"Uses Swedish microdata to identify a causal crime-reducing effect of education; A specifies that the identifying variation is the Swedish compulsory schooling reform.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"The Causal Effect of Military Conscription on Crime\",\"year\":\"2019\",\"venue\":\"The Economic Journal\",\"coauthors\":[\"Matthew J. Lindquist\"],\"contribution\":\"Exploits Swedish conscription variation to estimate how military service affects later criminal behavior.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"A Jury of Her Peers: The Impact of the First Female Jurors on Criminal Convictions\",\"year\":\"2019\",\"venue\":\"The Economic Journal\",\"coauthors\":[\"Shamena Anwar\",\"Patrick Bayer\"],\"contribution\":\"Studies the introduction of women to juries to estimate how female jurors affected conviction patterns. G says the variation is a staggered introduction in the UK.\",\"support\":[\"O\",\"G\"],\"conflict\":\"O recalls the year and venue with only medium confidence; G gives high confidence.\"},{\"title\":\"The Role of Age in Jury Selection and Trial Outcomes\",\"year\":\"2014\",\"venue\":\"Journal of Law and Economics\",\"coauthors\":[\"Shamena Anwar\",\"Patrick Bayer\"],\"contribution\":\"Examines whether juror age affects selection into juries and criminal trial outcomes.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"The Origins of Intergenerational Associations in Crime: Lessons from Swedish Adoption Data\",\"year\":\"2013\",\"venue\":\"Labour Economics\",\"coauthors\":[\"Matthew J. Lindquist\"],\"contribution\":\"Uses adoption data to separate inherited, family-environment and broader social mechanisms in the intergenerational transmission of crime.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Building Criminal Capital behind Bars: Peer Effects in Juvenile Corrections\",\"year\":\"2009\",\"venue\":\"Quarterly Journal of Economics\",\"coauthors\":[\"Patrick Bayer\",\"David E. Pozen\"],\"contribution\":\"Provides empirical evidence of peer effects among juvenile offenders in correctional facilities.\",\"support\":[\"G\"],\"conflict\":\"\"},{\"title\":\"Crime and Expected Punishment: Changes in Perceptions at the Age of Criminal Majority\",\"year\":\"2009\",\"venue\":\"American Law and Economics Review\",\"coauthors\":[],\"contribution\":\"Tests whether youths update their perceived sanction risk at the age of criminal majority and finds little updating, which bears on deterrence-based explanations.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"How Punishment Severity Affects Jury Verdicts: Evidence from Two Natural Experiments\",\"year\":\"2018\",\"venue\":\"American Economic Journal: Economic Policy\",\"coauthors\":[\"Anna Bindler\"],\"contribution\":\"Uses historical English reforms that reduced capital punishment to show that juries convict more when penalties are less severe (jury nullification).\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Path Dependency in Jury Decision Making\",\"year\":\"2018\",\"venue\":\"Journal of the European Economic Association\",\"coauthors\":[\"Anna Bindler\"],\"contribution\":\"Uses Old Bailey data to show how a jury's previous verdicts affect its subsequent decisions.\",\"support\":[\"G\"],\"conflict\":\"Only G lists this paper, with medium confidence. A lists a different 2018 Bindler paper in AEJ: Economic Policy and a different Bindler JEEA paper (2021, professional police). The JEEA attribution should be checked.\"},{\"title\":\"The Persistence of the Criminal Justice Gender Gap: Evidence from 200 Years of Judicial Decisions\",\"year\":\"2020\",\"venue\":\"Journal of Law and Economics\",\"coauthors\":[\"Anna Bindler\"],\"contribution\":\"Documents a long-run gender gap in conviction and sentencing at the Old Bailey and how it evolved.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"The Impact of the First Professional Police Forces on Crime\",\"year\":\"2021\",\"venue\":\"Journal of the European Economic Association\",\"coauthors\":[\"Anna Bindler\"],\"contribution\":\"Evaluates the effect of the 1829 introduction of the London Metropolitan Police on crime using historical data.\",\"support\":[\"A\"],\"conflict\":\"\"}],\"persona\":{\"summary\":\"An applied microeconomist and law-and-economics scholar specializing in crime and criminal justice. She combines quasi-experimental identification with rich administrative and historical data: Swedish registers, US court and jury records, and two centuries of Old Bailey records. Her work asks how institutions shape consequential social outcomes. This is an inference from her publication record, not a statement of her views on any candidate.\",\"research_lens\":\"Institutional and empirical. Courts, juries, punishment rules, schools, families, military service and police are treated as settings where incentives, information, representation and policy rules shape behavior and life outcomes. Her work often takes a long-run or intergenerational view. She would likely weigh both credible causal identification and whether a body of work changed how economists understand real institutions and their effects on inequality.\",\"methods_and_evidence\":\"Design-based empirical strategies: natural experiments, discontinuity designs, instrumental variables and policy-reform variation. These are applied to linked administrative registers and to large historical datasets digitized from archival court records. In deliberation she would likely scrutinize identification, institutional knowledge, outcome measurement, robustness and external validity across countries and periods.\",\"what_they_value_in_contributions\":\"Inferred from her record: credible causal evidence on important social questions; creative use of new or historical data; work that reveals how institutions actually work and clarifies mechanisms behind discrimination, inequality or intergenerational persistence; policy relevance for crime, education and justice; and influence that opened up an empirical field rather than producing one-off findings.\",\"likely_questions_in_deliberation\":[\"What is the core causal claim, and is the identification strategy truly isolating a causal effect?\",\"Are the findings robust, and do they replicate or generalize beyond the specific country, institution or period studied?\",\"Is the institutional setting understood well enough to support a causal interpretation?\",\"Has the work changed how economists and policymakers understand institutions such as courts, schools or police, rather than only documenting an interesting fact?\",\"Does the contribution clarify mechanisms, especially where policy implications depend on them?\",\"Did the work introduce novel, high-quality data or methods that shaped subsequent research?\",\"Where the work concerns inequality or discrimination, does it distinguish taste, information, institutional constraints and selection?\",\"Is the contribution broad enough for the prize, and how should credit be shared among contributors?\"],\"committee_experience\":\"Listed as a co-opted member of the Committee for the Prize in Economic Sciences for 2026. None of the profiles knows when her co-opted service began; A suggests it may have started a few years earlier, O explicitly does not know, and G is silent. As a co-opted member she brings field expertise in applied microeconomics, empirical methods, law and economics, and labor and education economics.\",\"support_note\":\"All three profiles agree on the core persona: applied micro, crime and law, design-based causal inference, novel administrative and historical data, and policy and institutional relevance. The emphases differ. G stresses uncovering hidden biases and peer effects in the justice system. O stresses mechanisms, institutional detail and whether the work is broad enough for a prize. A adds questions on theory–evidence links and credit sharing. G's claim that she complements the 'broader macro or theoretical expertise' of other committee members is unsupported by the other profiles. All persona elements are inferences from publications.\"},\"disagreements\":[\"Subtitle of the 2012 Journal of Human Resources paper with Lindquist: A says 'Exploring the Intergenerational Nature of Crime', O says 'Explaining the Intergenerational Nature of Crime'.\",\"Bindler papers: G attributes 'Path Dependency in Jury Decision Making' (2018) to JEEA. A lists a different 2018 Bindler paper in AEJ: Economic Policy and a 2021 Bindler JEEA paper on professional police. The two profiles do not overlap on any Bindler title.\",\"Start date of committee service: A suggests it may predate 2026, O says it is unknown, G is silent.\",\"Jury research scope: G adds jurors' political ideology, which is not mentioned by O, the other profile covering the jury work.\",\"Gender and diversity in the economics profession is mentioned only by A (low confidence). O frames her gender work around juries and courts.\",\"Profile A does not mention the Anwar–Bayer jury papers, which O and G treat as among her best-known work. O and G do not mention the Old Bailey police, gender-gap or punishment-severity papers listed by A.\"],\"caveats\":[\"Knowledge cutoffs: A roughly 2024–2025, O June 2024, G unstated. None of the profiles reliably covers 2025–2026 work.\",\"Several works rest on a single profile and should be verified: 'Crime and Expected Punishment' (2009, ALER), 'How Punishment Severity Affects Jury Verdicts' (2018), 'The Persistence of the Criminal Justice Gender Gap' (2020), 'The Impact of the First Professional Police Forces on Crime' (2021), 'The Role of Age in Jury Selection' (2014), the Swedish adoption paper (2013), 'Building Criminal Capital behind Bars' (2009) and 'Path Dependency in Jury Decision Making' (2018).\",\"Single-profile fields and interests to verify: health consequences of incarceration, economic history as a field, gender in the economics profession, and peer effects as an ongoing interest.\",\"Prior appointments at the University of Maryland and Queen Mary University of London come from A only.\",\"Several bibliographic details (years, venues, subtitles) were flagged as medium confidence by the profiles themselves.\",\"No entries were dropped. No profile suggested a namesake, and all entries are consistent with the Gothenburg affiliation.\",\"Persona and likely deliberation questions are inferences from her research record, not documented statements or committee behavior.\"]}",
+   "parsed": {
+    "identity": {
+     "name": "Randi Hjalmarsson",
+     "affiliation": "Department of Economics, University of Gothenburg",
+     "recognized_by": [
+      "A",
+      "O",
+      "G"
+     ],
+     "note": "All three profiles recognize her as a professor of economics at the University of Gothenburg. They describe her as an empirical, applied microeconomist working on the economics of crime, law and economics, and criminal justice institutions. Only A says she previously held positions at the University of Maryland (School of Public Policy) and Queen Mary University of London. A reports no known namesake in economics. For 2026 she is a co-opted member of the Committee for the Prize in Economic Sciences."
+    },
+    "fields": [
+     {
+      "field": "Economics of crime, law and economics, and criminal justice institutions (deterrence, incarceration, juvenile justice, courts and juries, policing)",
+      "jel_codes": [
+       "K42",
+       "K40",
+       "K41",
+       "K14",
+       "H76",
+       "K4"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "All three profiles treat this as her core field. A adds K14 and H76, and G gives only the broad code K4."
+     },
+     {
+      "field": "Labor economics and education economics: education and crime, human capital, intergenerational transmission of crime",
+      "jel_codes": [
+       "I21",
+       "I24",
+       "I26",
+       "J24",
+       "J62",
+       "J0",
+       "J2"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "A and O frame this around education–crime links and intergenerational transmission. G lists only 'Labor Economics' with broad codes."
+     },
+     {
+      "field": "Applied microeconomics and empirical causal inference using administrative, court and historical data",
+      "jel_codes": [
+       "C21",
+       "C26",
+       "C93",
+       "C2",
+       "D1"
+      ],
+      "support": [
+       "O",
+       "G"
+      ],
+      "note": "A does not list this as a separate field but describes the same quasi-experimental methods in its persona."
+     },
+     {
+      "field": "Discrimination, gender gaps and representation in courts, juries and criminal justice decisions",
+      "jel_codes": [
+       "J15",
+       "J16",
+       "K42",
+       "A11"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "O frames this as discrimination and representation in courts and juries, with high confidence. A frames it as gender gaps in criminal justice treatment and also in the economics profession, with medium confidence; the profession part (A11) is A only."
+     },
+     {
+      "field": "Economic history of crime and justice (historical English court records, Old Bailey)",
+      "jel_codes": [
+       "N33",
+       "N43",
+       "K40"
+      ],
+      "support": [
+       "A"
+      ],
+      "note": "Only A lists this as a field. G supports historical London court and penal data as a recent interest, and O mentions historical legal data in its persona."
+     },
+     {
+      "field": "Health consequences of criminal justice involvement",
+      "jel_codes": [
+       "I12",
+       "I18"
+      ],
+      "support": [
+       "A"
+      ],
+      "note": "Single-profile field, medium confidence."
+     }
+    ],
+    "recent_interests": [
+     {
+      "topic": "Long-run historical analysis of English criminal justice using Old Bailey and London court and penal records: jury behavior, punishment severity, gender gaps in sentencing, professional police, penal transportation",
+      "period": "c. 2017–present",
+      "support": [
+       "A",
+       "G"
+      ],
+      "note": "A ties this to a series of papers with Anna Bindler. G gives the period as the last 5–10 years. A's period is kept as the more specific one."
+     },
+     {
+      "topic": "Jury composition and decision-making (race, gender and age of jurors)",
+      "period": "Ongoing; late 2010s to early 2020s",
+      "support": [
+       "O",
+       "G"
+      ],
+      "note": "Based on the work with Shamena Anwar and Patrick Bayer. G also mentions jurors' political ideology, which no other profile supports."
+     },
+     {
+      "topic": "Gender and representation in criminal justice decision-making, including historical evidence on female jurors",
+      "period": "c. 2019–2024",
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "O bases this on 'A Jury of Her Peers', with medium confidence. A gives it low confidence and also extends it to gender and diversity in the economics profession."
+     },
+     {
+      "topic": "Causal effects of institutions and policies such as schooling and military conscription on crime",
+      "period": "Major publications c. 2015–2022; still central in the 2020s",
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "Based on Swedish administrative-data papers with Lindquist and with Holmlund and Lindquist."
+     },
+     {
+      "topic": "Long-run and intergenerational determinants of criminal behavior (parental criminality, adoption evidence)",
+      "period": "Ongoing since the 2010s",
+      "support": [
+       "O"
+      ],
+      "note": "A covers intergenerational transmission as a field and through the 'Like Godfather, Like Son' paper, but not as a recent interest."
+     },
+     {
+      "topic": "Effects of incarceration on health, mortality and later outcomes",
+      "period": "c. 2019–present",
+      "support": [
+       "A"
+      ],
+      "note": "Single profile, medium confidence. Based on work with Matthew Lindquist on Swedish register data."
+     },
+     {
+      "topic": "Peer effects in the justice system (criminal capital built in incarceration and juvenile facilities)",
+      "period": "Ongoing",
+      "support": [
+       "G"
+      ],
+      "note": "Single profile. The supporting paper G cites is from 2009, so 'ongoing' as a recent interest is uncertain."
+     }
+    ],
+    "representative_works": [
+     {
+      "title": "The Impact of Jury Race in Criminal Trials",
+      "year": "2012",
+      "venue": "Quarterly Journal of Economics",
+      "coauthors": [
+       "Shamena Anwar",
+       "Patrick Bayer"
+      ],
+      "contribution": "Uses variation in jury pools and seated juries to show that jury racial composition causally affects conviction outcomes in criminal trials.",
+      "support": [
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Juvenile Jails: A Path to the Straight and Narrow or to Hardened Criminality?",
+      "year": "2009",
+      "venue": "Journal of Law and Economics",
+      "coauthors": [],
+      "contribution": "Estimates the effect of juvenile incarceration on recidivism. A says it uses discontinuities in Washington State juvenile sentencing guidelines and finds a deterrent effect.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Like Godfather, Like Son: Exploring the Intergenerational Nature of Crime",
+      "year": "2012",
+      "venue": "Journal of Human Resources",
+      "coauthors": [
+       "Matthew J. Lindquist"
+      ],
+      "contribution": "Documents strong parent–child correlations in criminal convictions in Swedish data and explores the mechanisms behind them, including family and neighborhood channels.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": "Subtitle differs: A gives 'Exploring the Intergenerational Nature of Crime', O gives 'Explaining the Intergenerational Nature of Crime'. With one profile each, the correct wording is unresolved."
+     },
+     {
+      "title": "The Effect of Education on Criminal Convictions and Incarceration: Causal Evidence from Micro-data",
+      "year": "2015",
+      "venue": "The Economic Journal",
+      "coauthors": [
+       "Helena Holmlund",
+       "Matthew J. Lindquist"
+      ],
+      "contribution": "Uses Swedish microdata to identify a causal crime-reducing effect of education; A specifies that the identifying variation is the Swedish compulsory schooling reform.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "The Causal Effect of Military Conscription on Crime",
+      "year": "2019",
+      "venue": "The Economic Journal",
+      "coauthors": [
+       "Matthew J. Lindquist"
+      ],
+      "contribution": "Exploits Swedish conscription variation to estimate how military service affects later criminal behavior.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "A Jury of Her Peers: The Impact of the First Female Jurors on Criminal Convictions",
+      "year": "2019",
+      "venue": "The Economic Journal",
+      "coauthors": [
+       "Shamena Anwar",
+       "Patrick Bayer"
+      ],
+      "contribution": "Studies the introduction of women to juries to estimate how female jurors affected conviction patterns. G says the variation is a staggered introduction in the UK.",
+      "support": [
+       "O",
+       "G"
+      ],
+      "conflict": "O recalls the year and venue with only medium confidence; G gives high confidence."
+     },
+     {
+      "title": "The Role of Age in Jury Selection and Trial Outcomes",
+      "year": "2014",
+      "venue": "Journal of Law and Economics",
+      "coauthors": [
+       "Shamena Anwar",
+       "Patrick Bayer"
+      ],
+      "contribution": "Examines whether juror age affects selection into juries and criminal trial outcomes.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "The Origins of Intergenerational Associations in Crime: Lessons from Swedish Adoption Data",
+      "year": "2013",
+      "venue": "Labour Economics",
+      "coauthors": [
+       "Matthew J. Lindquist"
+      ],
+      "contribution": "Uses adoption data to separate inherited, family-environment and broader social mechanisms in the intergenerational transmission of crime.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Building Criminal Capital behind Bars: Peer Effects in Juvenile Corrections",
+      "year": "2009",
+      "venue": "Quarterly Journal of Economics",
+      "coauthors": [
+       "Patrick Bayer",
+       "David E. Pozen"
+      ],
+      "contribution": "Provides empirical evidence of peer effects among juvenile offenders in correctional facilities.",
+      "support": [
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Crime and Expected Punishment: Changes in Perceptions at the Age of Criminal Majority",
+      "year": "2009",
+      "venue": "American Law and Economics Review",
+      "coauthors": [],
+      "contribution": "Tests whether youths update their perceived sanction risk at the age of criminal majority and finds little updating, which bears on deterrence-based explanations.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "How Punishment Severity Affects Jury Verdicts: Evidence from Two Natural Experiments",
+      "year": "2018",
+      "venue": "American Economic Journal: Economic Policy",
+      "coauthors": [
+       "Anna Bindler"
+      ],
+      "contribution": "Uses historical English reforms that reduced capital punishment to show that juries convict more when penalties are less severe (jury nullification).",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Path Dependency in Jury Decision Making",
+      "year": "2018",
+      "venue": "Journal of the European Economic Association",
+      "coauthors": [
+       "Anna Bindler"
+      ],
+      "contribution": "Uses Old Bailey data to show how a jury's previous verdicts affect its subsequent decisions.",
+      "support": [
+       "G"
+      ],
+      "conflict": "Only G lists this paper, with medium confidence. A lists a different 2018 Bindler paper in AEJ: Economic Policy and a different Bindler JEEA paper (2021, professional police). The JEEA attribution should be checked."
+     },
+     {
+      "title": "The Persistence of the Criminal Justice Gender Gap: Evidence from 200 Years of Judicial Decisions",
+      "year": "2020",
+      "venue": "Journal of Law and Economics",
+      "coauthors": [
+       "Anna Bindler"
+      ],
+      "contribution": "Documents a long-run gender gap in conviction and sentencing at the Old Bailey and how it evolved.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "The Impact of the First Professional Police Forces on Crime",
+      "year": "2021",
+      "venue": "Journal of the European Economic Association",
+      "coauthors": [
+       "Anna Bindler"
+      ],
+      "contribution": "Evaluates the effect of the 1829 introduction of the London Metropolitan Police on crime using historical data.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     }
+    ],
+    "persona": {
+     "summary": "An applied microeconomist and law-and-economics scholar specializing in crime and criminal justice. She combines quasi-experimental identification with rich administrative and historical data: Swedish registers, US court and jury records, and two centuries of Old Bailey records. Her work asks how institutions shape consequential social outcomes. This is an inference from her publication record, not a statement of her views on any candidate.",
+     "research_lens": "Institutional and empirical. Courts, juries, punishment rules, schools, families, military service and police are treated as settings where incentives, information, representation and policy rules shape behavior and life outcomes. Her work often takes a long-run or intergenerational view. She would likely weigh both credible causal identification and whether a body of work changed how economists understand real institutions and their effects on inequality.",
+     "methods_and_evidence": "Design-based empirical strategies: natural experiments, discontinuity designs, instrumental variables and policy-reform variation. These are applied to linked administrative registers and to large historical datasets digitized from archival court records. In deliberation she would likely scrutinize identification, institutional knowledge, outcome measurement, robustness and external validity across countries and periods.",
+     "what_they_value_in_contributions": "Inferred from her record: credible causal evidence on important social questions; creative use of new or historical data; work that reveals how institutions actually work and clarifies mechanisms behind discrimination, inequality or intergenerational persistence; policy relevance for crime, education and justice; and influence that opened up an empirical field rather than producing one-off findings.",
+     "likely_questions_in_deliberation": [
+      "What is the core causal claim, and is the identification strategy truly isolating a causal effect?",
+      "Are the findings robust, and do they replicate or generalize beyond the specific country, institution or period studied?",
+      "Is the institutional setting understood well enough to support a causal interpretation?",
+      "Has the work changed how economists and policymakers understand institutions such as courts, schools or police, rather than only documenting an interesting fact?",
+      "Does the contribution clarify mechanisms, especially where policy implications depend on them?",
+      "Did the work introduce novel, high-quality data or methods that shaped subsequent research?",
+      "Where the work concerns inequality or discrimination, does it distinguish taste, information, institutional constraints and selection?",
+      "Is the contribution broad enough for the prize, and how should credit be shared among contributors?"
+     ],
+     "committee_experience": "Listed as a co-opted member of the Committee for the Prize in Economic Sciences for 2026. None of the profiles knows when her co-opted service began; A suggests it may have started a few years earlier, O explicitly does not know, and G is silent. As a co-opted member she brings field expertise in applied microeconomics, empirical methods, law and economics, and labor and education economics.",
+     "support_note": "All three profiles agree on the core persona: applied micro, crime and law, design-based causal inference, novel administrative and historical data, and policy and institutional relevance. The emphases differ. G stresses uncovering hidden biases and peer effects in the justice system. O stresses mechanisms, institutional detail and whether the work is broad enough for a prize. A adds questions on theory–evidence links and credit sharing. G's claim that she complements the 'broader macro or theoretical expertise' of other committee members is unsupported by the other profiles. All persona elements are inferences from publications."
+    },
+    "disagreements": [
+     "Subtitle of the 2012 Journal of Human Resources paper with Lindquist: A says 'Exploring the Intergenerational Nature of Crime', O says 'Explaining the Intergenerational Nature of Crime'.",
+     "Bindler papers: G attributes 'Path Dependency in Jury Decision Making' (2018) to JEEA. A lists a different 2018 Bindler paper in AEJ: Economic Policy and a 2021 Bindler JEEA paper on professional police. The two profiles do not overlap on any Bindler title.",
+     "Start date of committee service: A suggests it may predate 2026, O says it is unknown, G is silent.",
+     "Jury research scope: G adds jurors' political ideology, which is not mentioned by O, the other profile covering the jury work.",
+     "Gender and diversity in the economics profession is mentioned only by A (low confidence). O frames her gender work around juries and courts.",
+     "Profile A does not mention the Anwar–Bayer jury papers, which O and G treat as among her best-known work. O and G do not mention the Old Bailey police, gender-gap or punishment-severity papers listed by A."
+    ],
+    "caveats": [
+     "Knowledge cutoffs: A roughly 2024–2025, O June 2024, G unstated. None of the profiles reliably covers 2025–2026 work.",
+     "Several works rest on a single profile and should be verified: 'Crime and Expected Punishment' (2009, ALER), 'How Punishment Severity Affects Jury Verdicts' (2018), 'The Persistence of the Criminal Justice Gender Gap' (2020), 'The Impact of the First Professional Police Forces on Crime' (2021), 'The Role of Age in Jury Selection' (2014), the Swedish adoption paper (2013), 'Building Criminal Capital behind Bars' (2009) and 'Path Dependency in Jury Decision Making' (2018).",
+     "Single-profile fields and interests to verify: health consequences of incarceration, economic history as a field, gender in the economics profession, and peer effects as an ongoing interest.",
+     "Prior appointments at the University of Maryland and Queen Mary University of London come from A only.",
+     "Several bibliographic details (years, venues, subtitles) were flagged as medium confidence by the profiles themselves.",
+     "No entries were dropped. No profile suggested a namesake, and all entries are consistent with the Gothenburg affiliation.",
+     "Persona and likely deliberation questions are inferences from her research record, not documented statements or committee behavior."
+    ]
+   },
+   "parse_error": null,
+   "error": null,
+   "stop_details": null,
+   "errors": []
+  }
+ ],
+ "valid": true,
+ "errors": [],
+ "profile": {
+  "identity": {
+   "name": "Randi Hjalmarsson",
+   "affiliation": "Department of Economics, University of Gothenburg",
+   "recognized_by": [
+    "A",
+    "O",
+    "G"
+   ],
+   "note": "All three profiles recognize her as a professor of economics at the University of Gothenburg. They describe her as an empirical, applied microeconomist working on the economics of crime, law and economics, and criminal justice institutions. Only A says she previously held positions at the University of Maryland (School of Public Policy) and Queen Mary University of London. A reports no known namesake in economics. For 2026 she is a co-opted member of the Committee for the Prize in Economic Sciences."
+  },
+  "fields": [
+   {
+    "field": "Economics of crime, law and economics, and criminal justice institutions (deterrence, incarceration, juvenile justice, courts and juries, policing)",
+    "jel_codes": [
+     "K42",
+     "K40",
+     "K41",
+     "K14",
+     "H76",
+     "K4"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "All three profiles treat this as her core field. A adds K14 and H76, and G gives only the broad code K4."
+   },
+   {
+    "field": "Labor economics and education economics: education and crime, human capital, intergenerational transmission of crime",
+    "jel_codes": [
+     "I21",
+     "I24",
+     "I26",
+     "J24",
+     "J62",
+     "J0",
+     "J2"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "A and O frame this around education–crime links and intergenerational transmission. G lists only 'Labor Economics' with broad codes."
+   },
+   {
+    "field": "Applied microeconomics and empirical causal inference using administrative, court and historical data",
+    "jel_codes": [
+     "C21",
+     "C26",
+     "C93",
+     "C2",
+     "D1"
+    ],
+    "support": [
+     "O",
+     "G"
+    ],
+    "note": "A does not list this as a separate field but describes the same quasi-experimental methods in its persona."
+   },
+   {
+    "field": "Discrimination, gender gaps and representation in courts, juries and criminal justice decisions",
+    "jel_codes": [
+     "J15",
+     "J16",
+     "K42",
+     "A11"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "O frames this as discrimination and representation in courts and juries, with high confidence. A frames it as gender gaps in criminal justice treatment and also in the economics profession, with medium confidence; the profession part (A11) is A only."
+   },
+   {
+    "field": "Economic history of crime and justice (historical English court records, Old Bailey)",
+    "jel_codes": [
+     "N33",
+     "N43",
+     "K40"
+    ],
+    "support": [
+     "A"
+    ],
+    "note": "Only A lists this as a field. G supports historical London court and penal data as a recent interest, and O mentions historical legal data in its persona."
+   },
+   {
+    "field": "Health consequences of criminal justice involvement",
+    "jel_codes": [
+     "I12",
+     "I18"
+    ],
+    "support": [
+     "A"
+    ],
+    "note": "Single-profile field, medium confidence."
+   }
+  ],
+  "recent_interests": [
+   {
+    "topic": "Long-run historical analysis of English criminal justice using Old Bailey and London court and penal records: jury behavior, punishment severity, gender gaps in sentencing, professional police, penal transportation",
+    "period": "c. 2017–present",
+    "support": [
+     "A",
+     "G"
+    ],
+    "note": "A ties this to a series of papers with Anna Bindler. G gives the period as the last 5–10 years. A's period is kept as the more specific one."
+   },
+   {
+    "topic": "Jury composition and decision-making (race, gender and age of jurors)",
+    "period": "Ongoing; late 2010s to early 2020s",
+    "support": [
+     "O",
+     "G"
+    ],
+    "note": "Based on the work with Shamena Anwar and Patrick Bayer. G also mentions jurors' political ideology, which no other profile supports."
+   },
+   {
+    "topic": "Gender and representation in criminal justice decision-making, including historical evidence on female jurors",
+    "period": "c. 2019–2024",
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "O bases this on 'A Jury of Her Peers', with medium confidence. A gives it low confidence and also extends it to gender and diversity in the economics profession."
+   },
+   {
+    "topic": "Causal effects of institutions and policies such as schooling and military conscription on crime",
+    "period": "Major publications c. 2015–2022; still central in the 2020s",
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "Based on Swedish administrative-data papers with Lindquist and with Holmlund and Lindquist."
+   },
+   {
+    "topic": "Long-run and intergenerational determinants of criminal behavior (parental criminality, adoption evidence)",
+    "period": "Ongoing since the 2010s",
+    "support": [
+     "O"
+    ],
+    "note": "A covers intergenerational transmission as a field and through the 'Like Godfather, Like Son' paper, but not as a recent interest."
+   },
+   {
+    "topic": "Effects of incarceration on health, mortality and later outcomes",
+    "period": "c. 2019–present",
+    "support": [
+     "A"
+    ],
+    "note": "Single profile, medium confidence. Based on work with Matthew Lindquist on Swedish register data."
+   },
+   {
+    "topic": "Peer effects in the justice system (criminal capital built in incarceration and juvenile facilities)",
+    "period": "Ongoing",
+    "support": [
+     "G"
+    ],
+    "note": "Single profile. The supporting paper G cites is from 2009, so 'ongoing' as a recent interest is uncertain."
+   }
+  ],
+  "representative_works": [
+   {
+    "title": "The Impact of Jury Race in Criminal Trials",
+    "year": "2012",
+    "venue": "Quarterly Journal of Economics",
+    "coauthors": [
+     "Shamena Anwar",
+     "Patrick Bayer"
+    ],
+    "contribution": "Uses variation in jury pools and seated juries to show that jury racial composition causally affects conviction outcomes in criminal trials.",
+    "support": [
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Juvenile Jails: A Path to the Straight and Narrow or to Hardened Criminality?",
+    "year": "2009",
+    "venue": "Journal of Law and Economics",
+    "coauthors": [],
+    "contribution": "Estimates the effect of juvenile incarceration on recidivism. A says it uses discontinuities in Washington State juvenile sentencing guidelines and finds a deterrent effect.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Like Godfather, Like Son: Exploring the Intergenerational Nature of Crime",
+    "year": "2012",
+    "venue": "Journal of Human Resources",
+    "coauthors": [
+     "Matthew J. Lindquist"
+    ],
+    "contribution": "Documents strong parent–child correlations in criminal convictions in Swedish data and explores the mechanisms behind them, including family and neighborhood channels.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "Subtitle differs: A gives 'Exploring the Intergenerational Nature of Crime', O gives 'Explaining the Intergenerational Nature of Crime'. With one profile each, the correct wording is unresolved.",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The Effect of Education on Criminal Convictions and Incarceration: Causal Evidence from Micro-data",
+    "year": "2015",
+    "venue": "The Economic Journal",
+    "coauthors": [
+     "Helena Holmlund",
+     "Matthew J. Lindquist"
+    ],
+    "contribution": "Uses Swedish microdata to identify a causal crime-reducing effect of education; A specifies that the identifying variation is the Swedish compulsory schooling reform.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The Causal Effect of Military Conscription on Crime",
+    "year": "2019",
+    "venue": "The Economic Journal",
+    "coauthors": [
+     "Matthew J. Lindquist"
+    ],
+    "contribution": "Exploits Swedish conscription variation to estimate how military service affects later criminal behavior.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "A Jury of Her Peers: The Impact of the First Female Jurors on Criminal Convictions",
+    "year": "2019",
+    "venue": "The Economic Journal",
+    "coauthors": [
+     "Shamena Anwar",
+     "Patrick Bayer"
+    ],
+    "contribution": "Studies the introduction of women to juries to estimate how female jurors affected conviction patterns. G says the variation is a staggered introduction in the UK.",
+    "support": [
+     "O",
+     "G"
+    ],
+    "conflict": "O recalls the year and venue with only medium confidence; G gives high confidence.",
+    "support_checked": [
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The Role of Age in Jury Selection and Trial Outcomes",
+    "year": "2014",
+    "venue": "Journal of Law and Economics",
+    "coauthors": [
+     "Shamena Anwar",
+     "Patrick Bayer"
+    ],
+    "contribution": "Examines whether juror age affects selection into juries and criminal trial outcomes.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The Origins of Intergenerational Associations in Crime: Lessons from Swedish Adoption Data",
+    "year": "2013",
+    "venue": "Labour Economics",
+    "coauthors": [
+     "Matthew J. Lindquist"
+    ],
+    "contribution": "Uses adoption data to separate inherited, family-environment and broader social mechanisms in the intergenerational transmission of crime.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Building Criminal Capital behind Bars: Peer Effects in Juvenile Corrections",
+    "year": "2009",
+    "venue": "Quarterly Journal of Economics",
+    "coauthors": [
+     "Patrick Bayer",
+     "David E. Pozen"
+    ],
+    "contribution": "Provides empirical evidence of peer effects among juvenile offenders in correctional facilities.",
+    "support": [
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Crime and Expected Punishment: Changes in Perceptions at the Age of Criminal Majority",
+    "year": "2009",
+    "venue": "American Law and Economics Review",
+    "coauthors": [],
+    "contribution": "Tests whether youths update their perceived sanction risk at the age of criminal majority and finds little updating, which bears on deterrence-based explanations.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "How Punishment Severity Affects Jury Verdicts: Evidence from Two Natural Experiments",
+    "year": "2018",
+    "venue": "American Economic Journal: Economic Policy",
+    "coauthors": [
+     "Anna Bindler"
+    ],
+    "contribution": "Uses historical English reforms that reduced capital punishment to show that juries convict more when penalties are less severe (jury nullification).",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Path Dependency in Jury Decision Making",
+    "year": "2018",
+    "venue": "Journal of the European Economic Association",
+    "coauthors": [
+     "Anna Bindler"
+    ],
+    "contribution": "Uses Old Bailey data to show how a jury's previous verdicts affect its subsequent decisions.",
+    "support": [
+     "G"
+    ],
+    "conflict": "Only G lists this paper, with medium confidence. A lists a different 2018 Bindler paper in AEJ: Economic Policy and a different Bindler JEEA paper (2021, professional police). The JEEA attribution should be checked.",
+    "support_checked": [
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The Persistence of the Criminal Justice Gender Gap: Evidence from 200 Years of Judicial Decisions",
+    "year": "2020",
+    "venue": "Journal of Law and Economics",
+    "coauthors": [
+     "Anna Bindler"
+    ],
+    "contribution": "Documents a long-run gender gap in conviction and sentencing at the Old Bailey and how it evolved.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The Impact of the First Professional Police Forces on Crime",
+    "year": "2021",
+    "venue": "Journal of the European Economic Association",
+    "coauthors": [
+     "Anna Bindler"
+    ],
+    "contribution": "Evaluates the effect of the 1829 introduction of the London Metropolitan Police on crime using historical data.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   }
+  ],
+  "persona": {
+   "summary": "An applied microeconomist and law-and-economics scholar specializing in crime and criminal justice. She combines quasi-experimental identification with rich administrative and historical data: Swedish registers, US court and jury records, and two centuries of Old Bailey records. Her work asks how institutions shape consequential social outcomes. This is an inference from her publication record, not a statement of her views on any candidate.",
+   "research_lens": "Institutional and empirical. Courts, juries, punishment rules, schools, families, military service and police are treated as settings where incentives, information, representation and policy rules shape behavior and life outcomes. Her work often takes a long-run or intergenerational view. She would likely weigh both credible causal identification and whether a body of work changed how economists understand real institutions and their effects on inequality.",
+   "methods_and_evidence": "Design-based empirical strategies: natural experiments, discontinuity designs, instrumental variables and policy-reform variation. These are applied to linked administrative registers and to large historical datasets digitized from archival court records. In deliberation she would likely scrutinize identification, institutional knowledge, outcome measurement, robustness and external validity across countries and periods.",
+   "what_they_value_in_contributions": "Inferred from her record: credible causal evidence on important social questions; creative use of new or historical data; work that reveals how institutions actually work and clarifies mechanisms behind discrimination, inequality or intergenerational persistence; policy relevance for crime, education and justice; and influence that opened up an empirical field rather than producing one-off findings.",
+   "likely_questions_in_deliberation": [
+    "What is the core causal claim, and is the identification strategy truly isolating a causal effect?",
+    "Are the findings robust, and do they replicate or generalize beyond the specific country, institution or period studied?",
+    "Is the institutional setting understood well enough to support a causal interpretation?",
+    "Has the work changed how economists and policymakers understand institutions such as courts, schools or police, rather than only documenting an interesting fact?",
+    "Does the contribution clarify mechanisms, especially where policy implications depend on them?",
+    "Did the work introduce novel, high-quality data or methods that shaped subsequent research?",
+    "Where the work concerns inequality or discrimination, does it distinguish taste, information, institutional constraints and selection?",
+    "Is the contribution broad enough for the prize, and how should credit be shared among contributors?"
+   ],
+   "committee_experience": "Listed as a co-opted member of the Committee for the Prize in Economic Sciences for 2026. None of the profiles knows when her co-opted service began; A suggests it may have started a few years earlier, O explicitly does not know, and G is silent. As a co-opted member she brings field expertise in applied microeconomics, empirical methods, law and economics, and labor and education economics.",
+   "support_note": "All three profiles agree on the core persona: applied micro, crime and law, design-based causal inference, novel administrative and historical data, and policy and institutional relevance. The emphases differ. G stresses uncovering hidden biases and peer effects in the justice system. O stresses mechanisms, institutional detail and whether the work is broad enough for a prize. A adds questions on theory–evidence links and credit sharing. G's claim that she complements the 'broader macro or theoretical expertise' of other committee members is unsupported by the other profiles. All persona elements are inferences from publications."
+  },
+  "disagreements": [
+   "Subtitle of the 2012 Journal of Human Resources paper with Lindquist: A says 'Exploring the Intergenerational Nature of Crime', O says 'Explaining the Intergenerational Nature of Crime'.",
+   "Bindler papers: G attributes 'Path Dependency in Jury Decision Making' (2018) to JEEA. A lists a different 2018 Bindler paper in AEJ: Economic Policy and a 2021 Bindler JEEA paper on professional police. The two profiles do not overlap on any Bindler title.",
+   "Start date of committee service: A suggests it may predate 2026, O says it is unknown, G is silent.",
+   "Jury research scope: G adds jurors' political ideology, which is not mentioned by O, the other profile covering the jury work.",
+   "Gender and diversity in the economics profession is mentioned only by A (low confidence). O frames her gender work around juries and courts.",
+   "Profile A does not mention the Anwar–Bayer jury papers, which O and G treat as among her best-known work. O and G do not mention the Old Bailey police, gender-gap or punishment-severity papers listed by A."
+  ],
+  "caveats": [
+   "Knowledge cutoffs: A roughly 2024–2025, O June 2024, G unstated. None of the profiles reliably covers 2025–2026 work.",
+   "Several works rest on a single profile and should be verified: 'Crime and Expected Punishment' (2009, ALER), 'How Punishment Severity Affects Jury Verdicts' (2018), 'The Persistence of the Criminal Justice Gender Gap' (2020), 'The Impact of the First Professional Police Forces on Crime' (2021), 'The Role of Age in Jury Selection' (2014), the Swedish adoption paper (2013), 'Building Criminal Capital behind Bars' (2009) and 'Path Dependency in Jury Decision Making' (2018).",
+   "Single-profile fields and interests to verify: health consequences of incarceration, economic history as a field, gender in the economics profession, and peer effects as an ongoing interest.",
+   "Prior appointments at the University of Maryland and Queen Mary University of London come from A only.",
+   "Several bibliographic details (years, venues, subtitles) were flagged as medium confidence by the profiles themselves.",
+   "No entries were dropped. No profile suggested a namesake, and all entries are consistent with the Gothenburg affiliation.",
+   "Persona and likely deliberation questions are inferences from her research record, not documented statements or committee behavior."
+  ]
+ },
+ "per_model": {
+  "A": {
+   "persona_summary": "An applied microeconomist specializing in crime and criminal justice. She combines quasi-experimental identification with unusually rich administrative and historical data, notably Swedish registers and two centuries of Old Bailey records.",
+   "identity_note": "Randi Hjalmarsson is a professor of economics at the University of Gothenburg. She previously held positions at the University of Maryland (School of Public Policy) and Queen Mary University of London. She is an applied microeconomist best known for empirical work on the economics of crime and the criminal justice system, using Swedish register data and historical English court records. I know of no namesake in economics who could be confused with her.",
+   "knowledge_limits": "My knowledge reaches roughly through 2024–2025 and comes from memory without verification. Exact publication years, venues and coauthor lists of some papers may be off, and I may be unaware of her most recent working papers. I do not know the start date of her committee service, her editorial roles in detail, or any public statements she has made about the prize. Persona elements are inferences from her published research."
+  },
+  "O": {
+   "persona_summary": "In a prize discussion, Randi Hjalmarsson would plausibly bring the perspective of an applied microeconomist and law-and-economics scholar whose own work asks how institutions affect consequential social outcomes, especially crime, punishment, and legal decision-making. This is an inference from her publication record, not a statement of her views about any particular prize candidate.",
+   "identity_note": "Randi Hjalmarsson is a professor of economics at the Department of Economics, University of Gothenburg. I recognize her as an empirical economist working primarily in law and economics and the economics of crime, with influential work on juries, criminal justice decision-making, education and crime, military service and crime, and intergenerational transmission of criminal behavior. The affiliation matches the person I am describing.",
+   "knowledge_limits": "My knowledge is based on information available to me up to 2024-06, plus the role, date, affiliation, and 2026 committee status supplied in the prompt. I have no web access and cannot verify her 2025-2026 publications, current working papers, exact Nobel committee biography, or any updates to titles and publication details after my cutoff. Some publication years and venues above are marked medium confidence where I remember the work clearly but not the bibliographic detail with full certainty."
+  },
+  "G": {
+   "persona_summary": "An empirical applied microeconomist with deep expertise in the economics of crime, focusing on the causal impacts of legal institutions, penal systems, and jury composition.",
+   "identity_note": "Randi Hjalmarsson is a Professor of Economics at the University of Gothenburg, recognized for her extensive empirical research in the economics of crime, law and economics, and applied microeconomics.",
+   "knowledge_limits": "Specific details of her most recent working papers or grants from 2024-2026, and her exact internal roles or specific advocacy within the Nobel Committee's confidential deliberations."
+  }
+ },
+ "stats": {
+  "fields": 6,
+  "interests": 7,
+  "works": 14,
+  "works_all_models": 0,
+  "works_one_model": 8,
+  "works_not_in_inputs": 0,
+  "works_support_differs": 0,
+  "disagreements": 6,
+  "caveats": 7
+ }
+}

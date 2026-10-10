@@ -1,0 +1,1108 @@
+{
+ "stage": "merge",
+ "member": "tommy-andersson",
+ "name": "Tommy Andersson",
+ "role": "member",
+ "title": "Professor of economics",
+ "affiliation": "Department of Economics, Lund University",
+ "merger": "claude-opus-5-5",
+ "written": "2026-10-09T23:52:19+00:00",
+ "inputs": {
+  "A": {
+   "model": "claude-opus-5-5",
+   "written": "2026-10-09T23:48:20+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "O": {
+   "model": "gpt-5.5-2026-04-23",
+   "written": "2026-10-09T23:48:41+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "G": {
+   "model": "gemini-3.1-pro-preview",
+   "written": "2026-10-09T23:48:19+00:00",
+   "recognized": true,
+   "confidence": "high"
+  }
+ },
+ "missing_inputs": [],
+ "prompt": {
+  "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+  "user_chars": 18533
+ },
+ "attempts": [
+  {
+   "provider": "anthropic",
+   "model_requested": "claude-opus-5-5",
+   "model_reported": "claude-opus-5-5",
+   "request": {
+    "url": "https://api.anthropic.com/v1/messages",
+    "header_names": [
+     "x-api-key",
+     "anthropic-version: 2023-06-01",
+     "content-type"
+    ],
+    "body": {
+     "model": "claude-opus-5-5",
+     "max_tokens": 32000,
+     "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+     "messages": [
+      {
+       "role": "user",
+       "content": "Committee member: Tommy Andersson\nAffiliation: Department of Economics, Lund University\nCommittee role in 2026: member\nTitle as listed by nobelprize.org: Professor of economics\n\nProfile A:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Tommy Andersson, Professor of Economics at Lund University, is a microeconomic theorist working on market design: matching, fair allocation with indivisibilities, auctions, kidney exchange and refugee and housing allocation. He has served on the Economic Sciences Prize Committee in recent years. I am not certain of the exact year he joined, but I believe it was around 2019–2021.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Market design and matching theory\",\n   \"jel_codes\": [\n    \"D47\",\n    \"C78\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Fair allocation, mechanism design and strategy-proofness with indivisible goods\",\n   \"jel_codes\": [\n    \"D63\",\n    \"D71\",\n    \"D82\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Auction theory (ascending and dynamic auctions, Walrasian prices)\",\n   \"jel_codes\": [\n    \"D44\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Health market design (kidney exchange)\",\n   \"jel_codes\": [\n    \"I10\",\n    \"D47\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Allocation of refugees and housing\",\n   \"jel_codes\": [\n    \"J15\",\n    \"R31\",\n    \"D47\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Kidney exchange design, including exchange across the blood-group barrier and work with the Scandinavian kidney exchange programs\",\n   \"period\": \"c. 2017–2024\",\n   \"basis\": \"Publications with Jörgen Kratz and involvement in applied kidney exchange in Scandinavia\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Refugee assignment to landlords and municipalities (static and dynamic matching)\",\n   \"period\": \"c. 2018–2024\",\n   \"basis\": \"Papers with Lars Ehlers and others on Swedish refugee housing\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Time banks and organizing non-monetary exchange\",\n   \"period\": \"c. 2018–2022\",\n   \"basis\": \"Paper on time banks with Cseh, Ehlers and Erlanson\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Fairness and manipulability of allocation rules with money and indivisible goods\",\n   \"period\": \"ongoing\",\n   \"basis\": \"Long-running line of work with Ehlers and Svensson\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Non-Manipulable House Allocation with Rent Control\",\n   \"year\": \"2014\",\n   \"venue\": \"Econometrica\",\n   \"coauthors\": [\n    \"Lars-Gunnar Svensson\"\n   ],\n   \"contribution\": \"Characterizes strategy-proof, fair and efficient mechanisms for allocating houses when rents face upper and lower bounds (rent control).\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Pairwise Kidney Exchange over the Blood Group Barrier\",\n   \"year\": \"2020\",\n   \"venue\": \"Review of Economic Studies\",\n   \"coauthors\": [\n    \"Jörgen Kratz\"\n   ],\n   \"contribution\": \"Designs kidney exchange mechanisms that allow ABO-incompatible transplants, increasing the number of transplants while keeping desirable incentive properties.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Budget-Balance, Fairness and Minimal Manipulability\",\n   \"year\": \"2014\",\n   \"venue\": \"Theoretical Economics\",\n   \"coauthors\": [\n    \"Lars Ehlers\",\n    \"Lars-Gunnar Svensson\"\n   ],\n   \"contribution\": \"Shows that budget-balanced envy-free rules cannot be strategy-proof, and identifies the least manipulable such rules for allocating indivisible objects with money.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Assigning Refugees to Landlords in Sweden: Efficient, Stable, and Maximum Matchings\",\n   \"year\": \"2020\",\n   \"venue\": \"Scandinavian Journal of Economics\",\n   \"coauthors\": [\n    \"Lars Ehlers\"\n   ],\n   \"contribution\": \"Applies matching theory to the practical problem of assigning refugees to housing offered by landlords.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Organizing Time Exchanges: Lessons from Matching Markets\",\n   \"year\": \"2021\",\n   \"venue\": \"American Economic Journal: Microeconomics\",\n   \"coauthors\": [\n    \"Ágnes Cseh\",\n    \"Lars Ehlers\",\n    \"Albin Erlanson\"\n   ],\n   \"contribution\": \"Uses matching-market design to organize time banks, balancing efficiency, fairness and incentive constraints.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Multi-Item Vickrey-English-Dutch Auctions\",\n   \"year\": \"2013\",\n   \"venue\": \"Games and Economic Behavior\",\n   \"coauthors\": [\n    \"Albin Erlanson\"\n   ],\n   \"contribution\": \"Proposes a dynamic auction for unit-demand bidders that reaches the minimum Walrasian equilibrium price from any starting prices.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Least Manipulable Envy-free Rules in Economies with Indivisibilities\",\n   \"year\": \"2014\",\n   \"venue\": \"Mathematical Social Sciences\",\n   \"coauthors\": [\n    \"Lars Ehlers\",\n    \"Lars-Gunnar Svensson\"\n   ],\n   \"contribution\": \"Characterizes envy-free rules that minimize opportunities for manipulation.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Sets in Excess Demand in Simple Ascending Auctions with Unit-Demand Bidders\",\n   \"year\": \"\",\n   \"venue\": \"Annals of Operations Research\",\n   \"coauthors\": [\n    \"Christer Andersson\",\n    \"Adolphus J. J. Talman\"\n   ],\n   \"contribution\": \"Studies which item sets should have their prices raised in ascending auctions so that they converge to Walrasian prices.\",\n   \"confidence\": \"low\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"A Swedish market-design theorist who combines axiomatic mechanism design with practical implementation, notably in kidney exchange and refugee housing in Scandinavia.\",\n  \"research_lens\": \"Mechanism and market design: allocation problems are analysed through axioms such as efficiency, fairness/envy-freeness, strategy-proofness and stability, and through the trade-offs among them. Inferred from his publication record.\",\n  \"methods_and_evidence\": \"Rigorous theorem-proof microeconomic theory, characterization results and algorithm design. This is supplemented by simulations and data from real exchange programs, such as kidney exchange pools, to quantify welfare gains.\",\n  \"what_they_value_in_contributions\": \"Inferred: theoretically clean results that solve real allocation problems and that have been implemented in practice. He likely values clear characterizations of impossibility and possibility frontiers, as well as the bridge from theory to institutions that improve lives (the lineage of Roth–Shapley-style market design).\",\n  \"likely_questions_in_deliberation\": [\n   \"Does the theory lead to a mechanism or institution that has actually been adopted, and what were the measured gains?\",\n   \"How robust are the results to strategic behaviour, and what incentive properties are achieved?\",\n   \"Is the contribution a foundational characterization or an incremental extension?\",\n   \"What trade-offs between efficiency and fairness does the work clarify?\",\n   \"Is credit for the key idea correctly attributed among the candidates?\"\n  ],\n  \"committee_experience\": \"He has been a member of the Committee for the Prize in Economic Sciences for several prize cycles. I am uncertain of his start year (roughly 2019–2021). He is professor at Lund University. The committee's internal deliberations are confidential.\"\n },\n \"knowledge_limits\": \"My knowledge extends to roughly 2024–early 2025. I am unsure of the exact years of his committee appointment and of some publication details (venues and years for the lower-confidence items). I do not know his most recent working papers or any public statements made after that time.\"\n}\n\nProfile O:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Tommy Andersson is the Lund University professor of economics known for work in microeconomic theory, market design, matching theory, mechanism design, and allocation of indivisible resources. The affiliation and title distinguish him from namesakes.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Market design and matching theory, including two-sided matching, assignment, and practical matching-market institutions\",\n   \"jel_codes\": [\n    \"C78\",\n    \"D47\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Mechanism design and strategy-proof allocation of indivisible objects, often with fairness or distributional constraints\",\n   \"jel_codes\": [\n    \"D47\",\n    \"D63\",\n    \"D82\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Applied market design for socially important allocation problems such as kidney exchange, refugee or housing assignment, and school/admission-type allocation\",\n   \"jel_codes\": [\n    \"D47\",\n    \"I18\",\n    \"R23\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Game theory and social choice, especially incentive compatibility, stability, efficiency, and fairness in allocation rules\",\n   \"jel_codes\": [\n    \"C71\",\n    \"C72\",\n    \"D71\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Design of matching mechanisms for real-world allocation problems where money is absent or constrained, including kidney exchange and other public-sector matching problems\",\n   \"period\": \"roughly 2020–2026\",\n   \"basis\": \"His continuing research profile in matching and market design; exact publication dates in the most recent years are not fully available from memory.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Refugee and migrant assignment / placement as a market-design problem, with attention to matching, constraints, and integration-relevant outcomes\",\n   \"period\": \"roughly 2020–2026\",\n   \"basis\": \"A line of work associated with his recent applied market-design agenda at Lund; I am less certain about exact paper titles and dates.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Strategy-proofness, fairness, stability, and efficiency trade-offs in allocation of indivisible goods and positions\",\n   \"period\": \"roughly 2020–2026\",\n   \"basis\": \"This is a persistent theme in his published work and professional profile.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Institutional design for matching markets with distributional goals and operational constraints\",\n   \"period\": \"roughly 2020–2026\",\n   \"basis\": \"Inference from his market-design work and public professional role as an applied microeconomic theorist.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Budget-balance, fairness, and minimal manipulability\",\n   \"year\": \"2014\",\n   \"venue\": \"Theoretical Economics\",\n   \"coauthors\": [\n    \"Lars Ehlers\",\n    \"Lars-Gunnar Svensson\"\n   ],\n   \"contribution\": \"Studies allocation mechanisms under rent or budget constraints and clarifies the incompatibilities and trade-offs among budget balance, fairness, and incentives to manipulate.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Pairwise kidney exchange over the blood group barrier\",\n   \"year\": \"\",\n   \"venue\": \"\",\n   \"coauthors\": [\n    \"Lars-Gunnar Svensson\"\n   ],\n   \"contribution\": \"Applies matching/market-design reasoning to kidney exchange, focusing on how pairwise exchanges can expand feasible transplants despite blood-group compatibility barriers.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Strategy-proof allocation of indivisible goods with single-peaked preferences\",\n   \"year\": \"\",\n   \"venue\": \"\",\n   \"coauthors\": [\n    \"Lars-Gunnar Svensson\"\n   ],\n   \"contribution\": \"Analyzes incentive-compatible allocation rules for indivisible objects under structured preferences, contributing to the theory of strategy-proof matching/allocation.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Non-manipulable assignment of individuals to positions revisited\",\n   \"year\": \"\",\n   \"venue\": \"\",\n   \"coauthors\": [\n    \"Lars-Gunnar Svensson\"\n   ],\n   \"contribution\": \"Revisits assignment mechanisms with an emphasis on non-manipulability / strategy-proofness and the allocation of individuals to positions.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"Tommy Andersson would bring the perspective of an applied microeconomic theorist and market designer: rigorous about incentives and equilibrium properties, but interested in whether abstract mechanisms solve real allocation problems where prices alone are unavailable, unacceptable, or incomplete.\",\n  \"research_lens\": \"His record suggests a lens centered on matching and mechanism design: What is the allocation problem, what are the feasible mechanisms, and which desirable properties—efficiency, stability, fairness, strategy-proofness, budget balance, simplicity, implementability—can or cannot be achieved simultaneously? This persona is an inference from his publications in matching, assignment, kidney exchange, and allocation mechanisms.\",\n  \"methods_and_evidence\": \"His own work relies primarily on formal economic theory: axiomatic analysis, game-theoretic modeling, impossibility and characterization results, and mechanism design. In the applied market-design parts of his work, the theory is tied to institutional details of actual allocation environments, but the core method remains analytical rather than large-scale reduced-form econometrics.\",\n  \"what_they_value_in_contributions\": \"He would likely value contributions that identify a fundamental allocation or incentive problem, provide a clean theoretical solution or impossibility result, and show why the result matters for real institutions. He would also likely appreciate work that translates abstract theory into usable design principles for socially important markets—especially markets without ordinary prices, such as organ exchange, school or position assignment, housing, or refugee placement. This is an inference from his research record, not a stated prize preference.\",\n  \"likely_questions_in_deliberation\": [\n   \"What is the central mechanism-design or allocation insight, and is it conceptually deep rather than merely technically clever?\",\n   \"Does the candidate’s work change how economists think about incentives, stability, fairness, or efficiency in real markets?\",\n   \"Are the assumptions behind the mechanism transparent, and are the results robust to institutional constraints such as priorities, quotas, budgets, or distributional goals?\",\n   \"Has the work led to actual market-design practice or influenced institutions, not only theory?\",\n   \"If the contribution is empirical or applied, does it identify a general principle that travels beyond one setting?\",\n   \"Are there impossibility results or trade-offs that clarify why the proposed design is necessary or why no perfect mechanism exists?\"\n  ],\n  \"committee_experience\": \"Listed for 2026 as a member of the Committee for the Prize in Economic Sciences in Memory of Alfred Nobel. I do not have reliable detail on any earlier years of service or internal committee responsibilities.\"\n },\n \"knowledge_limits\": \"My knowledge is from general pre-2026 memory and does not include live access to Lund University, nobelprize.org, CVs, or publication databases. I recognize Tommy Andersson and his main field with high confidence, but I am less certain about the exact bibliographic details of several individual papers beyond the most prominent title listed. I have therefore kept the representative-works list short and marked uncertain items as medium confidence rather than inventing full citations.\"\n}\n\nProfile G:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Professor of Economics at Lund University, specializing in mechanism design, matching theory, and market design.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Market Design\",\n   \"jel_codes\": [\n    \"D47\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Matching Theory\",\n   \"jel_codes\": [\n    \"C78\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Mechanism Design\",\n   \"jel_codes\": [\n    \"D82\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Refugee matching and resettlement\",\n   \"period\": \"2015-present\",\n   \"basis\": \"Published papers and applied research focusing on mechanism design for assigning refugees to host municipalities or housing.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Resource allocation in healthcare and school choice\",\n   \"period\": \"2010s-present\",\n   \"basis\": \"Contributions to kidney exchange programs and school assignment algorithms.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"\",\n   \"year\": \"\",\n   \"venue\": \"\",\n   \"coauthors\": [\n    \"Lars Ehlers\"\n   ],\n   \"contribution\": \"Developed theoretical frameworks for assigning refugees to localities, accounting for multidimensional constraints, language synergies, and housing capacities.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"\",\n   \"year\": \"\",\n   \"venue\": \"\",\n   \"coauthors\": [],\n   \"contribution\": \"Contributions to the theory of indivisible goods allocation without transfers, focusing on stability, Pareto efficiency, and strategy-proofness.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"A microeconomist focused on market design, Andersson brings an applied mechanism-design perspective to the committee. He deeply values theoretically rigorous research that translates into concrete solutions for real-world resource allocation problems, such as matching refugees, organ donation, or school choice.\",\n  \"research_lens\": \"Microeconomic theory, axiomatic mechanism design, matching markets, and cooperative game theory.\",\n  \"methods_and_evidence\": \"Formal mathematical modeling, algorithmic market design, and applied theoretical frameworks that accommodate specific institutional and legal constraints.\",\n  \"what_they_value_in_contributions\": \"Theoretical depth coupled with clear societal applicability; research that bridges the gap between abstract game theory and operational market design to improve welfare and efficiency.\",\n  \"likely_questions_in_deliberation\": [\n   \"Does this theoretical framework provide actionable solutions for real-world market failures or allocation problems?\",\n   \"How robust are the proposed mechanisms to strategic manipulation and practical implementation constraints?\",\n   \"Has this body of work demonstrably influenced the actual design of institutions?\"\n  ],\n  \"committee_experience\": \"Member of the Prize Committee, providing core expertise in microeconomic theory, game theory, and applied market design.\"\n },\n \"knowledge_limits\": \"I do not have access to the exact titles, publication years, or specific journal venues of his papers from memory without web access. My knowledge of his specific working papers is limited to major themes up to roughly 2023.\"\n}"
+      }
+     ],
+     "output_config": {
+      "format": {
+       "type": "json_schema",
+       "schema": {
+        "type": "object",
+        "properties": {
+         "identity": {
+          "type": "object",
+          "properties": {
+           "name": {
+            "type": "string"
+           },
+           "affiliation": {
+            "type": "string"
+           },
+           "recognized_by": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "name",
+           "affiliation",
+           "recognized_by",
+           "note"
+          ],
+          "additionalProperties": false
+         },
+         "fields": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "field": {
+             "type": "string"
+            },
+            "jel_codes": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "field",
+            "jel_codes",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "recent_interests": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "topic": {
+             "type": "string"
+            },
+            "period": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "topic",
+            "period",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "representative_works": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "year": {
+             "type": "string"
+            },
+            "venue": {
+             "type": "string"
+            },
+            "coauthors": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "contribution": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "conflict": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "title",
+            "year",
+            "venue",
+            "coauthors",
+            "contribution",
+            "support",
+            "conflict"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "persona": {
+          "type": "object",
+          "properties": {
+           "summary": {
+            "type": "string"
+           },
+           "research_lens": {
+            "type": "string"
+           },
+           "methods_and_evidence": {
+            "type": "string"
+           },
+           "what_they_value_in_contributions": {
+            "type": "string"
+           },
+           "likely_questions_in_deliberation": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "committee_experience": {
+            "type": "string"
+           },
+           "support_note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "summary",
+           "research_lens",
+           "methods_and_evidence",
+           "what_they_value_in_contributions",
+           "likely_questions_in_deliberation",
+           "committee_experience",
+           "support_note"
+          ],
+          "additionalProperties": false
+         },
+         "disagreements": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         },
+         "caveats": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         }
+        },
+        "required": [
+         "identity",
+         "fields",
+         "recent_interests",
+         "representative_works",
+         "persona",
+         "disagreements",
+         "caveats"
+        ],
+        "additionalProperties": false
+       }
+      },
+      "effort": "high"
+     }
+    }
+   },
+   "http": [
+    {
+     "attempt": 1,
+     "started": "2026-10-09T23:51:24+00:00",
+     "ended": "2026-10-09T23:52:19+00:00",
+     "seconds": 54.8,
+     "status": 200,
+     "headers": {
+      "request-id": "req_011CfsZWQqJyLt4aZ1aTm7Pc"
+     }
+    }
+   ],
+   "response_raw": {
+    "model": "claude-opus-5-5",
+    "id": "msg_011CfsZWR9AgRV4XsoMQqvax",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "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"
+     },
+     {
+      "type": "text",
+      "text": "{\"identity\":{\"name\":\"Tommy Andersson\",\"affiliation\":\"Department of Economics, Lund University\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him with high confidence as Professor of Economics at Lund University. They describe him as a microeconomic theorist working on market design, matching theory, mechanism design and the allocation of indivisible resources. Profile A adds applied work on kidney exchange, refugee and housing allocation, auctions and time banks. Profile O notes that his affiliation and title distinguish him from namesakes. He is listed as a member of the Committee for the Prize in Economic Sciences in 2026.\"},\"fields\":[{\"field\":\"Market design and matching theory (two-sided matching, assignment, practical matching-market institutions)\",\"jel_codes\":[\"D47\",\"C78\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Profile G lists Market Design (D47) and Matching Theory (C78) as separate fields; these are merged here.\"},{\"field\":\"Mechanism design, fair allocation and strategy-proofness with indivisible goods (often with fairness or distributional constraints)\",\"jel_codes\":[\"D63\",\"D71\",\"D82\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Profile G lists only 'Mechanism Design' (D82). Profiles A and O stress fairness/envy-freeness and strategy-proofness in allocating indivisible objects.\"},{\"field\":\"Applied market design: kidney exchange (health)\",\"jel_codes\":[\"I10\",\"I18\",\"D47\"],\"support\":[\"A\",\"O\"],\"note\":\"Profile A codes this I10/D47 and Profile O codes it I18. Profile O places it within a broader 'applied market design for socially important allocation problems' field. Profile G mentions kidney exchange only under recent interests.\"},{\"field\":\"Applied market design: refugee and housing allocation\",\"jel_codes\":[\"J15\",\"R31\",\"R23\",\"D47\"],\"support\":[\"A\",\"O\"],\"note\":\"Profile A codes this J15/R31/D47 with medium confidence; Profile O codes it R23 within its broader applied field. Profile G covers refugee matching under recent interests.\"},{\"field\":\"School/admission-type allocation\",\"jel_codes\":[\"D47\"],\"support\":[\"O\"],\"note\":\"Profile O names this inside its applied market-design field. Profile G mentions school choice among his interests, but no profile cites a specific school-choice work.\"},{\"field\":\"Game theory and social choice (incentive compatibility, stability, efficiency and fairness of allocation rules)\",\"jel_codes\":[\"C71\",\"C72\",\"D71\"],\"support\":[\"O\"],\"note\":\"Profile O lists this as a separate field. Profile G's research lens mentions cooperative game theory, and Profile A uses D71 under its fair-allocation field.\"},{\"field\":\"Auction theory (ascending and dynamic auctions, Walrasian prices)\",\"jel_codes\":[\"D44\"],\"support\":[\"A\"],\"note\":\"Stated only by Profile A, with high confidence. It rests on A's auction papers.\"}],\"recent_interests\":[{\"topic\":\"Kidney exchange design, including exchange across the blood-group barrier and Scandinavian kidney exchange programs\",\"period\":\"c. 2017–2024 (A); roughly 2020–2026 (O); 2010s–present (G)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Profile A cites papers with Jörgen Kratz and applied involvement in Scandinavian kidney exchange. Profile O frames this as matching for real-world problems where money is absent or constrained. Profile G frames it as resource allocation in healthcare.\"},{\"topic\":\"Refugee assignment to landlords, municipalities and localities (static and dynamic matching)\",\"period\":\"c. 2018–2024 (A); roughly 2020–2026 (O); 2015–present (G)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Profiles A and G link this to work with Lars Ehlers. The profiles give different start dates. Profile O is less certain of the exact titles.\"},{\"topic\":\"Strategy-proofness, fairness, stability and efficiency trade-offs in allocation of indivisible goods (with or without money)\",\"period\":\"ongoing / roughly 2020–2026\",\"support\":[\"A\",\"O\"],\"note\":\"Profile A ties this to a long-running line of work with Ehlers and Svensson. Profile O calls it a persistent theme.\"},{\"topic\":\"Institutional design for matching markets with distributional goals and operational constraints\",\"period\":\"roughly 2020–2026\",\"support\":[\"O\"],\"note\":\"Profile O explicitly calls this an inference from his market-design work.\"},{\"topic\":\"School choice / school assignment algorithms\",\"period\":\"2010s–present\",\"support\":[\"G\"],\"note\":\"Only Profile G lists this as an interest; Profile O mentions school/admission-type allocation as a field. No specific work is cited.\"},{\"topic\":\"Time banks and organizing non-monetary exchange\",\"period\":\"c. 2018–2022\",\"support\":[\"A\"],\"note\":\"Based on Profile A's time-bank paper with Cseh, Ehlers and Erlanson; medium confidence.\"}],\"representative_works\":[{\"title\":\"Budget-Balance, Fairness and Minimal Manipulability\",\"year\":\"2014\",\"venue\":\"Theoretical Economics\",\"coauthors\":[\"Lars Ehlers\",\"Lars-Gunnar Svensson\"],\"contribution\":\"Shows that budget-balanced envy-free rules cannot be strategy-proof. Identifies the least manipulable such rules for allocating indivisible objects with money, clarifying trade-offs among budget balance, fairness and manipulation incentives.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Pairwise Kidney Exchange over the Blood Group Barrier\",\"year\":\"2020\",\"venue\":\"Review of Economic Studies\",\"coauthors\":[\"Jörgen Kratz\"],\"contribution\":\"Designs kidney exchange mechanisms that allow ABO-incompatible transplants, increasing the number of transplants while keeping desirable incentive properties.\",\"support\":[\"A\",\"O\"],\"conflict\":\"Profile A gives Jörgen Kratz as coauthor, with year 2020 and venue Review of Economic Studies (high confidence). Profile O gives Lars-Gunnar Svensson as coauthor and no year or venue (medium confidence). Profile A's version is kept because it gives full bibliographic detail and is consistent with A's recent-interest entry.\"},{\"title\":\"Non-Manipulable House Allocation with Rent Control\",\"year\":\"2014\",\"venue\":\"Econometrica\",\"coauthors\":[\"Lars-Gunnar Svensson\"],\"contribution\":\"Characterizes strategy-proof, fair and efficient mechanisms for allocating houses when rents face upper and lower bounds.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Assigning Refugees to Landlords in Sweden: Efficient, Stable, and Maximum Matchings\",\"year\":\"2020\",\"venue\":\"Scandinavian Journal of Economics\",\"coauthors\":[\"Lars Ehlers\"],\"contribution\":\"Applies matching theory to assigning refugees to housing offered by landlords.\",\"support\":[\"A\",\"G\"],\"conflict\":\"Profile G gives an untitled refugee-assignment work with Lars Ehlers. G describes it as assigning refugees to localities with multidimensional constraints, language synergies and housing capacities. That emphasis differs from A's landlord-housing paper, so G may be referring to a different paper. Profile A rates this entry medium confidence.\"},{\"title\":\"Organizing Time Exchanges: Lessons from Matching Markets\",\"year\":\"2021\",\"venue\":\"American Economic Journal: Microeconomics\",\"coauthors\":[\"Ágnes Cseh\",\"Lars Ehlers\",\"Albin Erlanson\"],\"contribution\":\"Uses matching-market design to organize time banks, balancing efficiency, fairness and incentive constraints.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Multi-Item Vickrey-English-Dutch Auctions\",\"year\":\"2013\",\"venue\":\"Games and Economic Behavior\",\"coauthors\":[\"Albin Erlanson\"],\"contribution\":\"Proposes a dynamic auction for unit-demand bidders that reaches the minimum Walrasian equilibrium price from any starting prices.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Least Manipulable Envy-free Rules in Economies with Indivisibilities\",\"year\":\"2014\",\"venue\":\"Mathematical Social Sciences\",\"coauthors\":[\"Lars Ehlers\",\"Lars-Gunnar Svensson\"],\"contribution\":\"Characterizes envy-free rules that minimize opportunities for manipulation.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Sets in Excess Demand in Simple Ascending Auctions with Unit-Demand Bidders\",\"year\":\"\",\"venue\":\"Annals of Operations Research\",\"coauthors\":[\"Christer Andersson\",\"Adolphus J. J. Talman\"],\"contribution\":\"Studies which item sets should have their prices raised in ascending auctions so that prices converge to Walrasian prices.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Strategy-proof allocation of indivisible goods with single-peaked preferences\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[\"Lars-Gunnar Svensson\"],\"contribution\":\"Analyzes incentive-compatible allocation rules for indivisible objects under structured (single-peaked) preferences.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Non-manipulable assignment of individuals to positions revisited\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[\"Lars-Gunnar Svensson\"],\"contribution\":\"Revisits mechanisms for assigning individuals to positions, with an emphasis on non-manipulability and strategy-proofness.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"(Untitled) Work on allocation of indivisible goods without transfers\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[],\"contribution\":\"Contributions to the theory of allocating indivisible goods without transfers, focusing on stability, Pareto efficiency and strategy-proofness.\",\"support\":[\"G\"],\"conflict\":\"\"}],\"persona\":{\"summary\":\"An applied microeconomic theorist and market designer. He combines rigorous axiomatic mechanism design with attention to whether mechanisms solve real allocation problems where prices are unavailable, unacceptable or incomplete. Examples include kidney exchange, refugee and housing placement, and other public-sector matching.\",\"research_lens\":\"Matching and mechanism design. He frames an allocation problem by its feasible mechanisms and asks which desirable properties can or cannot be achieved together: efficiency, stability, fairness/envy-freeness, strategy-proofness, budget balance and implementability. This lens is inferred from his publication record.\",\"methods_and_evidence\":\"His work is formal, theorem-proof microeconomic theory: axiomatic analysis, characterization and impossibility results, game-theoretic modeling and algorithm design. It is tied to the institutional and legal constraints of actual allocation environments. Profile A adds that this is supplemented by simulations and data from real exchange programs, such as kidney exchange pools, to quantify welfare gains. Profile O stresses that the core method is analytical rather than large-scale reduced-form econometrics.\",\"what_they_value_in_contributions\":\"Inferred from his record rather than stated: theoretically deep, clean results, including clear possibility and impossibility frontiers, that matter for real institutions. He likely values work that bridges abstract theory and operational market design, especially in markets without ordinary prices, and that has been implemented and improved welfare.\",\"likely_questions_in_deliberation\":[\"Has the theory led to a mechanism or institution that was actually adopted, and what were the measured gains?\",\"How robust are the mechanisms to strategic manipulation and to practical constraints such as priorities, quotas, budgets or distributional goals?\",\"Is the contribution a foundational, conceptually deep insight or an incremental or merely technical extension?\",\"What trade-offs or impossibility results among efficiency, fairness, stability and incentives does the work clarify?\",\"Does an applied contribution yield a general principle that travels beyond one setting?\",\"Is credit for the key idea correctly attributed among the candidates?\"],\"committee_experience\":\"Listed as a member of the Committee for the Prize in Economic Sciences in Memory of Alfred Nobel for 2026. Profile A believes he has served for several prize cycles, starting roughly 2019–2021, but is uncertain. Profile O has no reliable detail on earlier service. Profile G states only that he is a member. Internal deliberations are confidential.\",\"support_note\":\"The persona draws on views shared by all three profiles: a theory-plus-application market-design lens and a high value on institutional impact. Profile A uniquely adds simulations and real program data, and a Roth–Shapley lineage framing. Profile O uniquely stresses an analytical rather than econometric approach and robustness to distributional constraints. Profile G uniquely mentions cooperative game theory and school choice. All value statements are inferences from the publication record, not stated prize preferences.\"},\"disagreements\":[\"Coauthor of 'Pairwise Kidney Exchange over the Blood Group Barrier': Profile A says Jörgen Kratz (2020, Review of Economic Studies); Profile O says Lars-Gunnar Svensson, with no year or venue. A's version is kept.\",\"Start of committee service: Profile A estimates roughly 2019–2021 and several cycles; Profile O has no reliable detail on earlier years; Profile G gives no dates.\",\"Start of the refugee-assignment interest: Profile A gives c. 2018–2024, Profile O roughly 2020–2026, and Profile G 2015–present.\",\"Start of the kidney exchange interest: Profile A gives c. 2017–2024, Profile O roughly 2020–2026, and Profile G 2010s–present.\",\"Profile G describes the refugee work with Ehlers as assignment to localities with language synergies. Profile A describes assignment to landlords in Sweden. These may be different papers.\"],\"caveats\":[\"Knowledge cutoffs differ: Profile A runs to roughly 2024–early 2025, Profile G to roughly 2023, and Profile O is general pre-2026 memory. Very recent work may be missing.\",\"Profile G could not supply any paper titles, years or venues. Its representative works are untitled thematic descriptions.\",\"Most works rest on a single profile. Profile A alone gives the Econometrica rent-control paper, the time-exchange, auction and Mathematical Social Sciences papers. 'Sets in Excess Demand…' is low confidence and lacks a year. Profile O alone gives the single-peaked and 'positions revisited' papers, without years or venues. Verify these bibliographic details.\",\"The kidney exchange paper's coauthor conflict should be checked against the published record.\",\"Committee start year is uncertain; only 2026 membership is confirmed by the listing.\",\"No entries were dropped as belonging to a namesake. Profile O notes namesakes exist, and his affiliation and title distinguish him.\",\"School choice appears only in Profile G's interests and Profile O's applied field description, with no supporting work cited.\"]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 8703,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 6605,
+     "output_tokens_details": {
+      "thinking_tokens": 1527
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "response_id": "msg_011CfsZWR9AgRV4XsoMQqvax",
+   "stop": "end_turn",
+   "truncated": false,
+   "refused": false,
+   "usage": {
+    "input": 8703,
+    "output": 6605,
+    "reasoning": 1527,
+    "cached_input": 0
+   },
+   "usage_raw": {
+    "input_tokens": 8703,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6605,
+    "output_tokens_details": {
+     "thinking_tokens": 1527
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+   },
+   "text": "{\"identity\":{\"name\":\"Tommy Andersson\",\"affiliation\":\"Department of Economics, Lund University\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him with high confidence as Professor of Economics at Lund University. They describe him as a microeconomic theorist working on market design, matching theory, mechanism design and the allocation of indivisible resources. Profile A adds applied work on kidney exchange, refugee and housing allocation, auctions and time banks. Profile O notes that his affiliation and title distinguish him from namesakes. He is listed as a member of the Committee for the Prize in Economic Sciences in 2026.\"},\"fields\":[{\"field\":\"Market design and matching theory (two-sided matching, assignment, practical matching-market institutions)\",\"jel_codes\":[\"D47\",\"C78\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Profile G lists Market Design (D47) and Matching Theory (C78) as separate fields; these are merged here.\"},{\"field\":\"Mechanism design, fair allocation and strategy-proofness with indivisible goods (often with fairness or distributional constraints)\",\"jel_codes\":[\"D63\",\"D71\",\"D82\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Profile G lists only 'Mechanism Design' (D82). Profiles A and O stress fairness/envy-freeness and strategy-proofness in allocating indivisible objects.\"},{\"field\":\"Applied market design: kidney exchange (health)\",\"jel_codes\":[\"I10\",\"I18\",\"D47\"],\"support\":[\"A\",\"O\"],\"note\":\"Profile A codes this I10/D47 and Profile O codes it I18. Profile O places it within a broader 'applied market design for socially important allocation problems' field. Profile G mentions kidney exchange only under recent interests.\"},{\"field\":\"Applied market design: refugee and housing allocation\",\"jel_codes\":[\"J15\",\"R31\",\"R23\",\"D47\"],\"support\":[\"A\",\"O\"],\"note\":\"Profile A codes this J15/R31/D47 with medium confidence; Profile O codes it R23 within its broader applied field. Profile G covers refugee matching under recent interests.\"},{\"field\":\"School/admission-type allocation\",\"jel_codes\":[\"D47\"],\"support\":[\"O\"],\"note\":\"Profile O names this inside its applied market-design field. Profile G mentions school choice among his interests, but no profile cites a specific school-choice work.\"},{\"field\":\"Game theory and social choice (incentive compatibility, stability, efficiency and fairness of allocation rules)\",\"jel_codes\":[\"C71\",\"C72\",\"D71\"],\"support\":[\"O\"],\"note\":\"Profile O lists this as a separate field. Profile G's research lens mentions cooperative game theory, and Profile A uses D71 under its fair-allocation field.\"},{\"field\":\"Auction theory (ascending and dynamic auctions, Walrasian prices)\",\"jel_codes\":[\"D44\"],\"support\":[\"A\"],\"note\":\"Stated only by Profile A, with high confidence. It rests on A's auction papers.\"}],\"recent_interests\":[{\"topic\":\"Kidney exchange design, including exchange across the blood-group barrier and Scandinavian kidney exchange programs\",\"period\":\"c. 2017–2024 (A); roughly 2020–2026 (O); 2010s–present (G)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Profile A cites papers with Jörgen Kratz and applied involvement in Scandinavian kidney exchange. Profile O frames this as matching for real-world problems where money is absent or constrained. Profile G frames it as resource allocation in healthcare.\"},{\"topic\":\"Refugee assignment to landlords, municipalities and localities (static and dynamic matching)\",\"period\":\"c. 2018–2024 (A); roughly 2020–2026 (O); 2015–present (G)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Profiles A and G link this to work with Lars Ehlers. The profiles give different start dates. Profile O is less certain of the exact titles.\"},{\"topic\":\"Strategy-proofness, fairness, stability and efficiency trade-offs in allocation of indivisible goods (with or without money)\",\"period\":\"ongoing / roughly 2020–2026\",\"support\":[\"A\",\"O\"],\"note\":\"Profile A ties this to a long-running line of work with Ehlers and Svensson. Profile O calls it a persistent theme.\"},{\"topic\":\"Institutional design for matching markets with distributional goals and operational constraints\",\"period\":\"roughly 2020–2026\",\"support\":[\"O\"],\"note\":\"Profile O explicitly calls this an inference from his market-design work.\"},{\"topic\":\"School choice / school assignment algorithms\",\"period\":\"2010s–present\",\"support\":[\"G\"],\"note\":\"Only Profile G lists this as an interest; Profile O mentions school/admission-type allocation as a field. No specific work is cited.\"},{\"topic\":\"Time banks and organizing non-monetary exchange\",\"period\":\"c. 2018–2022\",\"support\":[\"A\"],\"note\":\"Based on Profile A's time-bank paper with Cseh, Ehlers and Erlanson; medium confidence.\"}],\"representative_works\":[{\"title\":\"Budget-Balance, Fairness and Minimal Manipulability\",\"year\":\"2014\",\"venue\":\"Theoretical Economics\",\"coauthors\":[\"Lars Ehlers\",\"Lars-Gunnar Svensson\"],\"contribution\":\"Shows that budget-balanced envy-free rules cannot be strategy-proof. Identifies the least manipulable such rules for allocating indivisible objects with money, clarifying trade-offs among budget balance, fairness and manipulation incentives.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Pairwise Kidney Exchange over the Blood Group Barrier\",\"year\":\"2020\",\"venue\":\"Review of Economic Studies\",\"coauthors\":[\"Jörgen Kratz\"],\"contribution\":\"Designs kidney exchange mechanisms that allow ABO-incompatible transplants, increasing the number of transplants while keeping desirable incentive properties.\",\"support\":[\"A\",\"O\"],\"conflict\":\"Profile A gives Jörgen Kratz as coauthor, with year 2020 and venue Review of Economic Studies (high confidence). Profile O gives Lars-Gunnar Svensson as coauthor and no year or venue (medium confidence). Profile A's version is kept because it gives full bibliographic detail and is consistent with A's recent-interest entry.\"},{\"title\":\"Non-Manipulable House Allocation with Rent Control\",\"year\":\"2014\",\"venue\":\"Econometrica\",\"coauthors\":[\"Lars-Gunnar Svensson\"],\"contribution\":\"Characterizes strategy-proof, fair and efficient mechanisms for allocating houses when rents face upper and lower bounds.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Assigning Refugees to Landlords in Sweden: Efficient, Stable, and Maximum Matchings\",\"year\":\"2020\",\"venue\":\"Scandinavian Journal of Economics\",\"coauthors\":[\"Lars Ehlers\"],\"contribution\":\"Applies matching theory to assigning refugees to housing offered by landlords.\",\"support\":[\"A\",\"G\"],\"conflict\":\"Profile G gives an untitled refugee-assignment work with Lars Ehlers. G describes it as assigning refugees to localities with multidimensional constraints, language synergies and housing capacities. That emphasis differs from A's landlord-housing paper, so G may be referring to a different paper. Profile A rates this entry medium confidence.\"},{\"title\":\"Organizing Time Exchanges: Lessons from Matching Markets\",\"year\":\"2021\",\"venue\":\"American Economic Journal: Microeconomics\",\"coauthors\":[\"Ágnes Cseh\",\"Lars Ehlers\",\"Albin Erlanson\"],\"contribution\":\"Uses matching-market design to organize time banks, balancing efficiency, fairness and incentive constraints.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Multi-Item Vickrey-English-Dutch Auctions\",\"year\":\"2013\",\"venue\":\"Games and Economic Behavior\",\"coauthors\":[\"Albin Erlanson\"],\"contribution\":\"Proposes a dynamic auction for unit-demand bidders that reaches the minimum Walrasian equilibrium price from any starting prices.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Least Manipulable Envy-free Rules in Economies with Indivisibilities\",\"year\":\"2014\",\"venue\":\"Mathematical Social Sciences\",\"coauthors\":[\"Lars Ehlers\",\"Lars-Gunnar Svensson\"],\"contribution\":\"Characterizes envy-free rules that minimize opportunities for manipulation.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Sets in Excess Demand in Simple Ascending Auctions with Unit-Demand Bidders\",\"year\":\"\",\"venue\":\"Annals of Operations Research\",\"coauthors\":[\"Christer Andersson\",\"Adolphus J. J. Talman\"],\"contribution\":\"Studies which item sets should have their prices raised in ascending auctions so that prices converge to Walrasian prices.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Strategy-proof allocation of indivisible goods with single-peaked preferences\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[\"Lars-Gunnar Svensson\"],\"contribution\":\"Analyzes incentive-compatible allocation rules for indivisible objects under structured (single-peaked) preferences.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Non-manipulable assignment of individuals to positions revisited\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[\"Lars-Gunnar Svensson\"],\"contribution\":\"Revisits mechanisms for assigning individuals to positions, with an emphasis on non-manipulability and strategy-proofness.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"(Untitled) Work on allocation of indivisible goods without transfers\",\"year\":\"\",\"venue\":\"\",\"coauthors\":[],\"contribution\":\"Contributions to the theory of allocating indivisible goods without transfers, focusing on stability, Pareto efficiency and strategy-proofness.\",\"support\":[\"G\"],\"conflict\":\"\"}],\"persona\":{\"summary\":\"An applied microeconomic theorist and market designer. He combines rigorous axiomatic mechanism design with attention to whether mechanisms solve real allocation problems where prices are unavailable, unacceptable or incomplete. Examples include kidney exchange, refugee and housing placement, and other public-sector matching.\",\"research_lens\":\"Matching and mechanism design. He frames an allocation problem by its feasible mechanisms and asks which desirable properties can or cannot be achieved together: efficiency, stability, fairness/envy-freeness, strategy-proofness, budget balance and implementability. This lens is inferred from his publication record.\",\"methods_and_evidence\":\"His work is formal, theorem-proof microeconomic theory: axiomatic analysis, characterization and impossibility results, game-theoretic modeling and algorithm design. It is tied to the institutional and legal constraints of actual allocation environments. Profile A adds that this is supplemented by simulations and data from real exchange programs, such as kidney exchange pools, to quantify welfare gains. Profile O stresses that the core method is analytical rather than large-scale reduced-form econometrics.\",\"what_they_value_in_contributions\":\"Inferred from his record rather than stated: theoretically deep, clean results, including clear possibility and impossibility frontiers, that matter for real institutions. He likely values work that bridges abstract theory and operational market design, especially in markets without ordinary prices, and that has been implemented and improved welfare.\",\"likely_questions_in_deliberation\":[\"Has the theory led to a mechanism or institution that was actually adopted, and what were the measured gains?\",\"How robust are the mechanisms to strategic manipulation and to practical constraints such as priorities, quotas, budgets or distributional goals?\",\"Is the contribution a foundational, conceptually deep insight or an incremental or merely technical extension?\",\"What trade-offs or impossibility results among efficiency, fairness, stability and incentives does the work clarify?\",\"Does an applied contribution yield a general principle that travels beyond one setting?\",\"Is credit for the key idea correctly attributed among the candidates?\"],\"committee_experience\":\"Listed as a member of the Committee for the Prize in Economic Sciences in Memory of Alfred Nobel for 2026. Profile A believes he has served for several prize cycles, starting roughly 2019–2021, but is uncertain. Profile O has no reliable detail on earlier service. Profile G states only that he is a member. Internal deliberations are confidential.\",\"support_note\":\"The persona draws on views shared by all three profiles: a theory-plus-application market-design lens and a high value on institutional impact. Profile A uniquely adds simulations and real program data, and a Roth–Shapley lineage framing. Profile O uniquely stresses an analytical rather than econometric approach and robustness to distributional constraints. Profile G uniquely mentions cooperative game theory and school choice. All value statements are inferences from the publication record, not stated prize preferences.\"},\"disagreements\":[\"Coauthor of 'Pairwise Kidney Exchange over the Blood Group Barrier': Profile A says Jörgen Kratz (2020, Review of Economic Studies); Profile O says Lars-Gunnar Svensson, with no year or venue. A's version is kept.\",\"Start of committee service: Profile A estimates roughly 2019–2021 and several cycles; Profile O has no reliable detail on earlier years; Profile G gives no dates.\",\"Start of the refugee-assignment interest: Profile A gives c. 2018–2024, Profile O roughly 2020–2026, and Profile G 2015–present.\",\"Start of the kidney exchange interest: Profile A gives c. 2017–2024, Profile O roughly 2020–2026, and Profile G 2010s–present.\",\"Profile G describes the refugee work with Ehlers as assignment to localities with language synergies. Profile A describes assignment to landlords in Sweden. These may be different papers.\"],\"caveats\":[\"Knowledge cutoffs differ: Profile A runs to roughly 2024–early 2025, Profile G to roughly 2023, and Profile O is general pre-2026 memory. Very recent work may be missing.\",\"Profile G could not supply any paper titles, years or venues. Its representative works are untitled thematic descriptions.\",\"Most works rest on a single profile. Profile A alone gives the Econometrica rent-control paper, the time-exchange, auction and Mathematical Social Sciences papers. 'Sets in Excess Demand…' is low confidence and lacks a year. Profile O alone gives the single-peaked and 'positions revisited' papers, without years or venues. Verify these bibliographic details.\",\"The kidney exchange paper's coauthor conflict should be checked against the published record.\",\"Committee start year is uncertain; only 2026 membership is confirmed by the listing.\",\"No entries were dropped as belonging to a namesake. Profile O notes namesakes exist, and his affiliation and title distinguish him.\",\"School choice appears only in Profile G's interests and Profile O's applied field description, with no supporting work cited.\"]}",
+   "parsed": {
+    "identity": {
+     "name": "Tommy Andersson",
+     "affiliation": "Department of Economics, Lund University",
+     "recognized_by": [
+      "A",
+      "O",
+      "G"
+     ],
+     "note": "All three profiles recognize him with high confidence as Professor of Economics at Lund University. They describe him as a microeconomic theorist working on market design, matching theory, mechanism design and the allocation of indivisible resources. Profile A adds applied work on kidney exchange, refugee and housing allocation, auctions and time banks. Profile O notes that his affiliation and title distinguish him from namesakes. He is listed as a member of the Committee for the Prize in Economic Sciences in 2026."
+    },
+    "fields": [
+     {
+      "field": "Market design and matching theory (two-sided matching, assignment, practical matching-market institutions)",
+      "jel_codes": [
+       "D47",
+       "C78"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "Profile G lists Market Design (D47) and Matching Theory (C78) as separate fields; these are merged here."
+     },
+     {
+      "field": "Mechanism design, fair allocation and strategy-proofness with indivisible goods (often with fairness or distributional constraints)",
+      "jel_codes": [
+       "D63",
+       "D71",
+       "D82"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "Profile G lists only 'Mechanism Design' (D82). Profiles A and O stress fairness/envy-freeness and strategy-proofness in allocating indivisible objects."
+     },
+     {
+      "field": "Applied market design: kidney exchange (health)",
+      "jel_codes": [
+       "I10",
+       "I18",
+       "D47"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "Profile A codes this I10/D47 and Profile O codes it I18. Profile O places it within a broader 'applied market design for socially important allocation problems' field. Profile G mentions kidney exchange only under recent interests."
+     },
+     {
+      "field": "Applied market design: refugee and housing allocation",
+      "jel_codes": [
+       "J15",
+       "R31",
+       "R23",
+       "D47"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "Profile A codes this J15/R31/D47 with medium confidence; Profile O codes it R23 within its broader applied field. Profile G covers refugee matching under recent interests."
+     },
+     {
+      "field": "School/admission-type allocation",
+      "jel_codes": [
+       "D47"
+      ],
+      "support": [
+       "O"
+      ],
+      "note": "Profile O names this inside its applied market-design field. Profile G mentions school choice among his interests, but no profile cites a specific school-choice work."
+     },
+     {
+      "field": "Game theory and social choice (incentive compatibility, stability, efficiency and fairness of allocation rules)",
+      "jel_codes": [
+       "C71",
+       "C72",
+       "D71"
+      ],
+      "support": [
+       "O"
+      ],
+      "note": "Profile O lists this as a separate field. Profile G's research lens mentions cooperative game theory, and Profile A uses D71 under its fair-allocation field."
+     },
+     {
+      "field": "Auction theory (ascending and dynamic auctions, Walrasian prices)",
+      "jel_codes": [
+       "D44"
+      ],
+      "support": [
+       "A"
+      ],
+      "note": "Stated only by Profile A, with high confidence. It rests on A's auction papers."
+     }
+    ],
+    "recent_interests": [
+     {
+      "topic": "Kidney exchange design, including exchange across the blood-group barrier and Scandinavian kidney exchange programs",
+      "period": "c. 2017–2024 (A); roughly 2020–2026 (O); 2010s–present (G)",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "Profile A cites papers with Jörgen Kratz and applied involvement in Scandinavian kidney exchange. Profile O frames this as matching for real-world problems where money is absent or constrained. Profile G frames it as resource allocation in healthcare."
+     },
+     {
+      "topic": "Refugee assignment to landlords, municipalities and localities (static and dynamic matching)",
+      "period": "c. 2018–2024 (A); roughly 2020–2026 (O); 2015–present (G)",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "Profiles A and G link this to work with Lars Ehlers. The profiles give different start dates. Profile O is less certain of the exact titles."
+     },
+     {
+      "topic": "Strategy-proofness, fairness, stability and efficiency trade-offs in allocation of indivisible goods (with or without money)",
+      "period": "ongoing / roughly 2020–2026",
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "Profile A ties this to a long-running line of work with Ehlers and Svensson. Profile O calls it a persistent theme."
+     },
+     {
+      "topic": "Institutional design for matching markets with distributional goals and operational constraints",
+      "period": "roughly 2020–2026",
+      "support": [
+       "O"
+      ],
+      "note": "Profile O explicitly calls this an inference from his market-design work."
+     },
+     {
+      "topic": "School choice / school assignment algorithms",
+      "period": "2010s–present",
+      "support": [
+       "G"
+      ],
+      "note": "Only Profile G lists this as an interest; Profile O mentions school/admission-type allocation as a field. No specific work is cited."
+     },
+     {
+      "topic": "Time banks and organizing non-monetary exchange",
+      "period": "c. 2018–2022",
+      "support": [
+       "A"
+      ],
+      "note": "Based on Profile A's time-bank paper with Cseh, Ehlers and Erlanson; medium confidence."
+     }
+    ],
+    "representative_works": [
+     {
+      "title": "Budget-Balance, Fairness and Minimal Manipulability",
+      "year": "2014",
+      "venue": "Theoretical Economics",
+      "coauthors": [
+       "Lars Ehlers",
+       "Lars-Gunnar Svensson"
+      ],
+      "contribution": "Shows that budget-balanced envy-free rules cannot be strategy-proof. Identifies the least manipulable such rules for allocating indivisible objects with money, clarifying trade-offs among budget balance, fairness and manipulation incentives.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Pairwise Kidney Exchange over the Blood Group Barrier",
+      "year": "2020",
+      "venue": "Review of Economic Studies",
+      "coauthors": [
+       "Jörgen Kratz"
+      ],
+      "contribution": "Designs kidney exchange mechanisms that allow ABO-incompatible transplants, increasing the number of transplants while keeping desirable incentive properties.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": "Profile A gives Jörgen Kratz as coauthor, with year 2020 and venue Review of Economic Studies (high confidence). Profile O gives Lars-Gunnar Svensson as coauthor and no year or venue (medium confidence). Profile A's version is kept because it gives full bibliographic detail and is consistent with A's recent-interest entry."
+     },
+     {
+      "title": "Non-Manipulable House Allocation with Rent Control",
+      "year": "2014",
+      "venue": "Econometrica",
+      "coauthors": [
+       "Lars-Gunnar Svensson"
+      ],
+      "contribution": "Characterizes strategy-proof, fair and efficient mechanisms for allocating houses when rents face upper and lower bounds.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Assigning Refugees to Landlords in Sweden: Efficient, Stable, and Maximum Matchings",
+      "year": "2020",
+      "venue": "Scandinavian Journal of Economics",
+      "coauthors": [
+       "Lars Ehlers"
+      ],
+      "contribution": "Applies matching theory to assigning refugees to housing offered by landlords.",
+      "support": [
+       "A",
+       "G"
+      ],
+      "conflict": "Profile G gives an untitled refugee-assignment work with Lars Ehlers. G describes it as assigning refugees to localities with multidimensional constraints, language synergies and housing capacities. That emphasis differs from A's landlord-housing paper, so G may be referring to a different paper. Profile A rates this entry medium confidence."
+     },
+     {
+      "title": "Organizing Time Exchanges: Lessons from Matching Markets",
+      "year": "2021",
+      "venue": "American Economic Journal: Microeconomics",
+      "coauthors": [
+       "Ágnes Cseh",
+       "Lars Ehlers",
+       "Albin Erlanson"
+      ],
+      "contribution": "Uses matching-market design to organize time banks, balancing efficiency, fairness and incentive constraints.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Multi-Item Vickrey-English-Dutch Auctions",
+      "year": "2013",
+      "venue": "Games and Economic Behavior",
+      "coauthors": [
+       "Albin Erlanson"
+      ],
+      "contribution": "Proposes a dynamic auction for unit-demand bidders that reaches the minimum Walrasian equilibrium price from any starting prices.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Least Manipulable Envy-free Rules in Economies with Indivisibilities",
+      "year": "2014",
+      "venue": "Mathematical Social Sciences",
+      "coauthors": [
+       "Lars Ehlers",
+       "Lars-Gunnar Svensson"
+      ],
+      "contribution": "Characterizes envy-free rules that minimize opportunities for manipulation.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Sets in Excess Demand in Simple Ascending Auctions with Unit-Demand Bidders",
+      "year": "",
+      "venue": "Annals of Operations Research",
+      "coauthors": [
+       "Christer Andersson",
+       "Adolphus J. J. Talman"
+      ],
+      "contribution": "Studies which item sets should have their prices raised in ascending auctions so that prices converge to Walrasian prices.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Strategy-proof allocation of indivisible goods with single-peaked preferences",
+      "year": "",
+      "venue": "",
+      "coauthors": [
+       "Lars-Gunnar Svensson"
+      ],
+      "contribution": "Analyzes incentive-compatible allocation rules for indivisible objects under structured (single-peaked) preferences.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Non-manipulable assignment of individuals to positions revisited",
+      "year": "",
+      "venue": "",
+      "coauthors": [
+       "Lars-Gunnar Svensson"
+      ],
+      "contribution": "Revisits mechanisms for assigning individuals to positions, with an emphasis on non-manipulability and strategy-proofness.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "(Untitled) Work on allocation of indivisible goods without transfers",
+      "year": "",
+      "venue": "",
+      "coauthors": [],
+      "contribution": "Contributions to the theory of allocating indivisible goods without transfers, focusing on stability, Pareto efficiency and strategy-proofness.",
+      "support": [
+       "G"
+      ],
+      "conflict": ""
+     }
+    ],
+    "persona": {
+     "summary": "An applied microeconomic theorist and market designer. He combines rigorous axiomatic mechanism design with attention to whether mechanisms solve real allocation problems where prices are unavailable, unacceptable or incomplete. Examples include kidney exchange, refugee and housing placement, and other public-sector matching.",
+     "research_lens": "Matching and mechanism design. He frames an allocation problem by its feasible mechanisms and asks which desirable properties can or cannot be achieved together: efficiency, stability, fairness/envy-freeness, strategy-proofness, budget balance and implementability. This lens is inferred from his publication record.",
+     "methods_and_evidence": "His work is formal, theorem-proof microeconomic theory: axiomatic analysis, characterization and impossibility results, game-theoretic modeling and algorithm design. It is tied to the institutional and legal constraints of actual allocation environments. Profile A adds that this is supplemented by simulations and data from real exchange programs, such as kidney exchange pools, to quantify welfare gains. Profile O stresses that the core method is analytical rather than large-scale reduced-form econometrics.",
+     "what_they_value_in_contributions": "Inferred from his record rather than stated: theoretically deep, clean results, including clear possibility and impossibility frontiers, that matter for real institutions. He likely values work that bridges abstract theory and operational market design, especially in markets without ordinary prices, and that has been implemented and improved welfare.",
+     "likely_questions_in_deliberation": [
+      "Has the theory led to a mechanism or institution that was actually adopted, and what were the measured gains?",
+      "How robust are the mechanisms to strategic manipulation and to practical constraints such as priorities, quotas, budgets or distributional goals?",
+      "Is the contribution a foundational, conceptually deep insight or an incremental or merely technical extension?",
+      "What trade-offs or impossibility results among efficiency, fairness, stability and incentives does the work clarify?",
+      "Does an applied contribution yield a general principle that travels beyond one setting?",
+      "Is credit for the key idea correctly attributed among the candidates?"
+     ],
+     "committee_experience": "Listed as a member of the Committee for the Prize in Economic Sciences in Memory of Alfred Nobel for 2026. Profile A believes he has served for several prize cycles, starting roughly 2019–2021, but is uncertain. Profile O has no reliable detail on earlier service. Profile G states only that he is a member. Internal deliberations are confidential.",
+     "support_note": "The persona draws on views shared by all three profiles: a theory-plus-application market-design lens and a high value on institutional impact. Profile A uniquely adds simulations and real program data, and a Roth–Shapley lineage framing. Profile O uniquely stresses an analytical rather than econometric approach and robustness to distributional constraints. Profile G uniquely mentions cooperative game theory and school choice. All value statements are inferences from the publication record, not stated prize preferences."
+    },
+    "disagreements": [
+     "Coauthor of 'Pairwise Kidney Exchange over the Blood Group Barrier': Profile A says Jörgen Kratz (2020, Review of Economic Studies); Profile O says Lars-Gunnar Svensson, with no year or venue. A's version is kept.",
+     "Start of committee service: Profile A estimates roughly 2019–2021 and several cycles; Profile O has no reliable detail on earlier years; Profile G gives no dates.",
+     "Start of the refugee-assignment interest: Profile A gives c. 2018–2024, Profile O roughly 2020–2026, and Profile G 2015–present.",
+     "Start of the kidney exchange interest: Profile A gives c. 2017–2024, Profile O roughly 2020–2026, and Profile G 2010s–present.",
+     "Profile G describes the refugee work with Ehlers as assignment to localities with language synergies. Profile A describes assignment to landlords in Sweden. These may be different papers."
+    ],
+    "caveats": [
+     "Knowledge cutoffs differ: Profile A runs to roughly 2024–early 2025, Profile G to roughly 2023, and Profile O is general pre-2026 memory. Very recent work may be missing.",
+     "Profile G could not supply any paper titles, years or venues. Its representative works are untitled thematic descriptions.",
+     "Most works rest on a single profile. Profile A alone gives the Econometrica rent-control paper, the time-exchange, auction and Mathematical Social Sciences papers. 'Sets in Excess Demand…' is low confidence and lacks a year. Profile O alone gives the single-peaked and 'positions revisited' papers, without years or venues. Verify these bibliographic details.",
+     "The kidney exchange paper's coauthor conflict should be checked against the published record.",
+     "Committee start year is uncertain; only 2026 membership is confirmed by the listing.",
+     "No entries were dropped as belonging to a namesake. Profile O notes namesakes exist, and his affiliation and title distinguish him.",
+     "School choice appears only in Profile G's interests and Profile O's applied field description, with no supporting work cited."
+    ]
+   },
+   "parse_error": null,
+   "error": null,
+   "stop_details": null,
+   "errors": []
+  }
+ ],
+ "valid": true,
+ "errors": [],
+ "profile": {
+  "identity": {
+   "name": "Tommy Andersson",
+   "affiliation": "Department of Economics, Lund University",
+   "recognized_by": [
+    "A",
+    "O",
+    "G"
+   ],
+   "note": "All three profiles recognize him with high confidence as Professor of Economics at Lund University. They describe him as a microeconomic theorist working on market design, matching theory, mechanism design and the allocation of indivisible resources. Profile A adds applied work on kidney exchange, refugee and housing allocation, auctions and time banks. Profile O notes that his affiliation and title distinguish him from namesakes. He is listed as a member of the Committee for the Prize in Economic Sciences in 2026."
+  },
+  "fields": [
+   {
+    "field": "Market design and matching theory (two-sided matching, assignment, practical matching-market institutions)",
+    "jel_codes": [
+     "D47",
+     "C78"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "Profile G lists Market Design (D47) and Matching Theory (C78) as separate fields; these are merged here."
+   },
+   {
+    "field": "Mechanism design, fair allocation and strategy-proofness with indivisible goods (often with fairness or distributional constraints)",
+    "jel_codes": [
+     "D63",
+     "D71",
+     "D82"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "Profile G lists only 'Mechanism Design' (D82). Profiles A and O stress fairness/envy-freeness and strategy-proofness in allocating indivisible objects."
+   },
+   {
+    "field": "Applied market design: kidney exchange (health)",
+    "jel_codes": [
+     "I10",
+     "I18",
+     "D47"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "Profile A codes this I10/D47 and Profile O codes it I18. Profile O places it within a broader 'applied market design for socially important allocation problems' field. Profile G mentions kidney exchange only under recent interests."
+   },
+   {
+    "field": "Applied market design: refugee and housing allocation",
+    "jel_codes": [
+     "J15",
+     "R31",
+     "R23",
+     "D47"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "Profile A codes this J15/R31/D47 with medium confidence; Profile O codes it R23 within its broader applied field. Profile G covers refugee matching under recent interests."
+   },
+   {
+    "field": "School/admission-type allocation",
+    "jel_codes": [
+     "D47"
+    ],
+    "support": [
+     "O"
+    ],
+    "note": "Profile O names this inside its applied market-design field. Profile G mentions school choice among his interests, but no profile cites a specific school-choice work."
+   },
+   {
+    "field": "Game theory and social choice (incentive compatibility, stability, efficiency and fairness of allocation rules)",
+    "jel_codes": [
+     "C71",
+     "C72",
+     "D71"
+    ],
+    "support": [
+     "O"
+    ],
+    "note": "Profile O lists this as a separate field. Profile G's research lens mentions cooperative game theory, and Profile A uses D71 under its fair-allocation field."
+   },
+   {
+    "field": "Auction theory (ascending and dynamic auctions, Walrasian prices)",
+    "jel_codes": [
+     "D44"
+    ],
+    "support": [
+     "A"
+    ],
+    "note": "Stated only by Profile A, with high confidence. It rests on A's auction papers."
+   }
+  ],
+  "recent_interests": [
+   {
+    "topic": "Kidney exchange design, including exchange across the blood-group barrier and Scandinavian kidney exchange programs",
+    "period": "c. 2017–2024 (A); roughly 2020–2026 (O); 2010s–present (G)",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "Profile A cites papers with Jörgen Kratz and applied involvement in Scandinavian kidney exchange. Profile O frames this as matching for real-world problems where money is absent or constrained. Profile G frames it as resource allocation in healthcare."
+   },
+   {
+    "topic": "Refugee assignment to landlords, municipalities and localities (static and dynamic matching)",
+    "period": "c. 2018–2024 (A); roughly 2020–2026 (O); 2015–present (G)",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "Profiles A and G link this to work with Lars Ehlers. The profiles give different start dates. Profile O is less certain of the exact titles."
+   },
+   {
+    "topic": "Strategy-proofness, fairness, stability and efficiency trade-offs in allocation of indivisible goods (with or without money)",
+    "period": "ongoing / roughly 2020–2026",
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "Profile A ties this to a long-running line of work with Ehlers and Svensson. Profile O calls it a persistent theme."
+   },
+   {
+    "topic": "Institutional design for matching markets with distributional goals and operational constraints",
+    "period": "roughly 2020–2026",
+    "support": [
+     "O"
+    ],
+    "note": "Profile O explicitly calls this an inference from his market-design work."
+   },
+   {
+    "topic": "School choice / school assignment algorithms",
+    "period": "2010s–present",
+    "support": [
+     "G"
+    ],
+    "note": "Only Profile G lists this as an interest; Profile O mentions school/admission-type allocation as a field. No specific work is cited."
+   },
+   {
+    "topic": "Time banks and organizing non-monetary exchange",
+    "period": "c. 2018–2022",
+    "support": [
+     "A"
+    ],
+    "note": "Based on Profile A's time-bank paper with Cseh, Ehlers and Erlanson; medium confidence."
+   }
+  ],
+  "representative_works": [
+   {
+    "title": "Budget-Balance, Fairness and Minimal Manipulability",
+    "year": "2014",
+    "venue": "Theoretical Economics",
+    "coauthors": [
+     "Lars Ehlers",
+     "Lars-Gunnar Svensson"
+    ],
+    "contribution": "Shows that budget-balanced envy-free rules cannot be strategy-proof. Identifies the least manipulable such rules for allocating indivisible objects with money, clarifying trade-offs among budget balance, fairness and manipulation incentives.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Pairwise Kidney Exchange over the Blood Group Barrier",
+    "year": "2020",
+    "venue": "Review of Economic Studies",
+    "coauthors": [
+     "Jörgen Kratz"
+    ],
+    "contribution": "Designs kidney exchange mechanisms that allow ABO-incompatible transplants, increasing the number of transplants while keeping desirable incentive properties.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "Profile A gives Jörgen Kratz as coauthor, with year 2020 and venue Review of Economic Studies (high confidence). Profile O gives Lars-Gunnar Svensson as coauthor and no year or venue (medium confidence). Profile A's version is kept because it gives full bibliographic detail and is consistent with A's recent-interest entry.",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Non-Manipulable House Allocation with Rent Control",
+    "year": "2014",
+    "venue": "Econometrica",
+    "coauthors": [
+     "Lars-Gunnar Svensson"
+    ],
+    "contribution": "Characterizes strategy-proof, fair and efficient mechanisms for allocating houses when rents face upper and lower bounds.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Assigning Refugees to Landlords in Sweden: Efficient, Stable, and Maximum Matchings",
+    "year": "2020",
+    "venue": "Scandinavian Journal of Economics",
+    "coauthors": [
+     "Lars Ehlers"
+    ],
+    "contribution": "Applies matching theory to assigning refugees to housing offered by landlords.",
+    "support": [
+     "A",
+     "G"
+    ],
+    "conflict": "Profile G gives an untitled refugee-assignment work with Lars Ehlers. G describes it as assigning refugees to localities with multidimensional constraints, language synergies and housing capacities. That emphasis differs from A's landlord-housing paper, so G may be referring to a different paper. Profile A rates this entry medium confidence.",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": false
+   },
+   {
+    "title": "Organizing Time Exchanges: Lessons from Matching Markets",
+    "year": "2021",
+    "venue": "American Economic Journal: Microeconomics",
+    "coauthors": [
+     "Ágnes Cseh",
+     "Lars Ehlers",
+     "Albin Erlanson"
+    ],
+    "contribution": "Uses matching-market design to organize time banks, balancing efficiency, fairness and incentive constraints.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Multi-Item Vickrey-English-Dutch Auctions",
+    "year": "2013",
+    "venue": "Games and Economic Behavior",
+    "coauthors": [
+     "Albin Erlanson"
+    ],
+    "contribution": "Proposes a dynamic auction for unit-demand bidders that reaches the minimum Walrasian equilibrium price from any starting prices.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Least Manipulable Envy-free Rules in Economies with Indivisibilities",
+    "year": "2014",
+    "venue": "Mathematical Social Sciences",
+    "coauthors": [
+     "Lars Ehlers",
+     "Lars-Gunnar Svensson"
+    ],
+    "contribution": "Characterizes envy-free rules that minimize opportunities for manipulation.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Sets in Excess Demand in Simple Ascending Auctions with Unit-Demand Bidders",
+    "year": "",
+    "venue": "Annals of Operations Research",
+    "coauthors": [
+     "Christer Andersson",
+     "Adolphus J. J. Talman"
+    ],
+    "contribution": "Studies which item sets should have their prices raised in ascending auctions so that prices converge to Walrasian prices.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Strategy-proof allocation of indivisible goods with single-peaked preferences",
+    "year": "",
+    "venue": "",
+    "coauthors": [
+     "Lars-Gunnar Svensson"
+    ],
+    "contribution": "Analyzes incentive-compatible allocation rules for indivisible objects under structured (single-peaked) preferences.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Non-manipulable assignment of individuals to positions revisited",
+    "year": "",
+    "venue": "",
+    "coauthors": [
+     "Lars-Gunnar Svensson"
+    ],
+    "contribution": "Revisits mechanisms for assigning individuals to positions, with an emphasis on non-manipulability and strategy-proofness.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "(Untitled) Work on allocation of indivisible goods without transfers",
+    "year": "",
+    "venue": "",
+    "coauthors": [],
+    "contribution": "Contributions to the theory of allocating indivisible goods without transfers, focusing on stability, Pareto efficiency and strategy-proofness.",
+    "support": [
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [],
+    "in_inputs": false,
+    "support_matches": false
+   }
+  ],
+  "persona": {
+   "summary": "An applied microeconomic theorist and market designer. He combines rigorous axiomatic mechanism design with attention to whether mechanisms solve real allocation problems where prices are unavailable, unacceptable or incomplete. Examples include kidney exchange, refugee and housing placement, and other public-sector matching.",
+   "research_lens": "Matching and mechanism design. He frames an allocation problem by its feasible mechanisms and asks which desirable properties can or cannot be achieved together: efficiency, stability, fairness/envy-freeness, strategy-proofness, budget balance and implementability. This lens is inferred from his publication record.",
+   "methods_and_evidence": "His work is formal, theorem-proof microeconomic theory: axiomatic analysis, characterization and impossibility results, game-theoretic modeling and algorithm design. It is tied to the institutional and legal constraints of actual allocation environments. Profile A adds that this is supplemented by simulations and data from real exchange programs, such as kidney exchange pools, to quantify welfare gains. Profile O stresses that the core method is analytical rather than large-scale reduced-form econometrics.",
+   "what_they_value_in_contributions": "Inferred from his record rather than stated: theoretically deep, clean results, including clear possibility and impossibility frontiers, that matter for real institutions. He likely values work that bridges abstract theory and operational market design, especially in markets without ordinary prices, and that has been implemented and improved welfare.",
+   "likely_questions_in_deliberation": [
+    "Has the theory led to a mechanism or institution that was actually adopted, and what were the measured gains?",
+    "How robust are the mechanisms to strategic manipulation and to practical constraints such as priorities, quotas, budgets or distributional goals?",
+    "Is the contribution a foundational, conceptually deep insight or an incremental or merely technical extension?",
+    "What trade-offs or impossibility results among efficiency, fairness, stability and incentives does the work clarify?",
+    "Does an applied contribution yield a general principle that travels beyond one setting?",
+    "Is credit for the key idea correctly attributed among the candidates?"
+   ],
+   "committee_experience": "Listed as a member of the Committee for the Prize in Economic Sciences in Memory of Alfred Nobel for 2026. Profile A believes he has served for several prize cycles, starting roughly 2019–2021, but is uncertain. Profile O has no reliable detail on earlier service. Profile G states only that he is a member. Internal deliberations are confidential.",
+   "support_note": "The persona draws on views shared by all three profiles: a theory-plus-application market-design lens and a high value on institutional impact. Profile A uniquely adds simulations and real program data, and a Roth–Shapley lineage framing. Profile O uniquely stresses an analytical rather than econometric approach and robustness to distributional constraints. Profile G uniquely mentions cooperative game theory and school choice. All value statements are inferences from the publication record, not stated prize preferences."
+  },
+  "disagreements": [
+   "Coauthor of 'Pairwise Kidney Exchange over the Blood Group Barrier': Profile A says Jörgen Kratz (2020, Review of Economic Studies); Profile O says Lars-Gunnar Svensson, with no year or venue. A's version is kept.",
+   "Start of committee service: Profile A estimates roughly 2019–2021 and several cycles; Profile O has no reliable detail on earlier years; Profile G gives no dates.",
+   "Start of the refugee-assignment interest: Profile A gives c. 2018–2024, Profile O roughly 2020–2026, and Profile G 2015–present.",
+   "Start of the kidney exchange interest: Profile A gives c. 2017–2024, Profile O roughly 2020–2026, and Profile G 2010s–present.",
+   "Profile G describes the refugee work with Ehlers as assignment to localities with language synergies. Profile A describes assignment to landlords in Sweden. These may be different papers."
+  ],
+  "caveats": [
+   "Knowledge cutoffs differ: Profile A runs to roughly 2024–early 2025, Profile G to roughly 2023, and Profile O is general pre-2026 memory. Very recent work may be missing.",
+   "Profile G could not supply any paper titles, years or venues. Its representative works are untitled thematic descriptions.",
+   "Most works rest on a single profile. Profile A alone gives the Econometrica rent-control paper, the time-exchange, auction and Mathematical Social Sciences papers. 'Sets in Excess Demand…' is low confidence and lacks a year. Profile O alone gives the single-peaked and 'positions revisited' papers, without years or venues. Verify these bibliographic details.",
+   "The kidney exchange paper's coauthor conflict should be checked against the published record.",
+   "Committee start year is uncertain; only 2026 membership is confirmed by the listing.",
+   "No entries were dropped as belonging to a namesake. Profile O notes namesakes exist, and his affiliation and title distinguish him.",
+   "School choice appears only in Profile G's interests and Profile O's applied field description, with no supporting work cited."
+  ]
+ },
+ "per_model": {
+  "A": {
+   "persona_summary": "A Swedish market-design theorist who combines axiomatic mechanism design with practical implementation, notably in kidney exchange and refugee housing in Scandinavia.",
+   "identity_note": "Tommy Andersson, Professor of Economics at Lund University, is a microeconomic theorist working on market design: matching, fair allocation with indivisibilities, auctions, kidney exchange and refugee and housing allocation. He has served on the Economic Sciences Prize Committee in recent years. I am not certain of the exact year he joined, but I believe it was around 2019–2021.",
+   "knowledge_limits": "My knowledge extends to roughly 2024–early 2025. I am unsure of the exact years of his committee appointment and of some publication details (venues and years for the lower-confidence items). I do not know his most recent working papers or any public statements made after that time."
+  },
+  "O": {
+   "persona_summary": "Tommy Andersson would bring the perspective of an applied microeconomic theorist and market designer: rigorous about incentives and equilibrium properties, but interested in whether abstract mechanisms solve real allocation problems where prices alone are unavailable, unacceptable, or incomplete.",
+   "identity_note": "Tommy Andersson is the Lund University professor of economics known for work in microeconomic theory, market design, matching theory, mechanism design, and allocation of indivisible resources. The affiliation and title distinguish him from namesakes.",
+   "knowledge_limits": "My knowledge is from general pre-2026 memory and does not include live access to Lund University, nobelprize.org, CVs, or publication databases. I recognize Tommy Andersson and his main field with high confidence, but I am less certain about the exact bibliographic details of several individual papers beyond the most prominent title listed. I have therefore kept the representative-works list short and marked uncertain items as medium confidence rather than inventing full citations."
+  },
+  "G": {
+   "persona_summary": "A microeconomist focused on market design, Andersson brings an applied mechanism-design perspective to the committee. He deeply values theoretically rigorous research that translates into concrete solutions for real-world resource allocation problems, such as matching refugees, organ donation, or school choice.",
+   "identity_note": "Professor of Economics at Lund University, specializing in mechanism design, matching theory, and market design.",
+   "knowledge_limits": "I do not have access to the exact titles, publication years, or specific journal venues of his papers from memory without web access. My knowledge of his specific working papers is limited to major themes up to roughly 2023."
+  }
+ },
+ "stats": {
+  "fields": 7,
+  "interests": 6,
+  "works": 11,
+  "works_all_models": 0,
+  "works_one_model": 8,
+  "works_not_in_inputs": 1,
+  "works_support_differs": 1,
+  "disagreements": 5,
+  "caveats": 7
+ }
+}

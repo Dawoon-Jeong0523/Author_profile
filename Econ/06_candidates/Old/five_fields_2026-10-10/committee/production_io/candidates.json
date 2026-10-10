@@ -1,0 +1,1838 @@
+{
+ "field": "Production, Industrial Organization",
+ "slug": "production_io",
+ "generated": "2026-10-10T19:01:02+00:00",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 9,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models",
+ "options": [
+  {
+   "rank": 1,
+   "field": "Production, Industrial Organization",
+   "option": "for developing methods for the empirical analysis of differentiated-product markets — Ariel Pakes, Steven T. Berry, James Levinsohn",
+   "contribution": "for developing methods for the empirical analysis of differentiated-product markets",
+   "jel_code": "L13",
+   "score": 16.9394,
+   "points_per_model": {
+    "claude-opus-5-5": 5.6667,
+    "gpt-5.5-2026-04-23": 6.1818,
+    "gemini-3.1-pro-preview": 5.0909
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 42,
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Ariel Pakes",
+     "affiliation": "Harvard University",
+     "born": 1949,
+     "weight": 15.1818,
+     "n_nominations": 35,
+     "key": "a pakes"
+    },
+    {
+     "name": "Steven T. Berry",
+     "affiliation": "Yale University",
+     "born": 1959,
+     "weight": 14.0909,
+     "n_nominations": 31,
+     "key": "s berry"
+    },
+    {
+     "name": "James Levinsohn",
+     "affiliation": "Yale University",
+     "born": 1958,
+     "weight": 12.5455,
+     "n_nominations": 27,
+     "key": "j levinsohn"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Ariel Pakes",
+     "affiliation": "Harvard University",
+     "born": 1949,
+     "weight": 15.1818,
+     "n_nominations": 35,
+     "key": "a pakes"
+    },
+    {
+     "name": "Steven T. Berry",
+     "affiliation": "Yale University",
+     "born": 1959,
+     "weight": 14.0909,
+     "n_nominations": 31,
+     "key": "s berry"
+    },
+    {
+     "name": "James Levinsohn",
+     "affiliation": "Yale University",
+     "born": 1958,
+     "weight": 12.5455,
+     "n_nominations": 27,
+     "key": "j levinsohn"
+    },
+    {
+     "name": "John Rust",
+     "affiliation": "Georgetown University",
+     "born": 1955,
+     "weight": 1.4545,
+     "n_nominations": 6,
+     "key": "j rust"
+    },
+    {
+     "name": "Hugo Hopenhayn",
+     "affiliation": "UCLA",
+     "born": 1956,
+     "weight": 1.303,
+     "n_nominations": 4,
+     "key": "h hopenhayn"
+    },
+    {
+     "name": "Amil Petrin",
+     "affiliation": "University of Minnesota",
+     "born": 1968,
+     "weight": 0.9091,
+     "n_nominations": 3,
+     "key": "a petrin"
+    },
+    {
+     "name": "Boyan Jovanovic",
+     "affiliation": "New York University",
+     "born": 1951,
+     "weight": 0.6667,
+     "n_nominations": 2,
+     "key": "b jovanovic"
+    },
+    {
+     "name": "G. Steven Olley",
+     "affiliation": "Cornerstone Research",
+     "born": null,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "g olley"
+    },
+    {
+     "name": "Patrick Bajari",
+     "affiliation": "University of Washington",
+     "born": 1969,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "p bajari"
+    },
+    {
+     "name": "Victor Aguirregabiria",
+     "affiliation": "University of Toronto",
+     "born": null,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "v aguirregabiria"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/jan-teorell/#1",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/per-krusell/#1",
+    "anthropic/per-krusell/#2",
+    "anthropic/per-stromberg/#1",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/richard-friberg/#1",
+    "anthropic/tommy-andersson/#1",
+    "gemini/anna-dreber-almenberg/#2",
+    "gemini/jan-teorell/#2",
+    "gemini/john-hassler/#1",
+    "gemini/kerstin-enflo/#3",
+    "gemini/per-krusell/#1",
+    "gemini/per-krusell/#2",
+    "gemini/per-krusell/#4",
+    "gemini/per-stromberg/#4",
+    "gemini/peter-fredriksson/#3",
+    "gemini/randi-hjalmarsson/#1",
+    "gemini/randi-hjalmarsson/#4",
+    "gemini/richard-friberg/#1",
+    "gemini/richard-friberg/#4",
+    "gemini/timo-boppart/#1",
+    "gemini/tommy-andersson/#1",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/jan-teorell/#1",
+    "openai/jan-teorell/#4",
+    "openai/john-hassler/#1",
+    "openai/john-hassler/#2",
+    "openai/john-hassler/#4",
+    "openai/kerstin-enflo/#1",
+    "openai/per-krusell/#1",
+    "openai/per-krusell/#5",
+    "openai/per-stromberg/#1",
+    "openai/peter-fredriksson/#1",
+    "openai/randi-hjalmarsson/#1",
+    "openai/richard-friberg/#1",
+    "openai/timo-boppart/#1",
+    "openai/tommy-andersson/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "field": "Production, Industrial Organization",
+   "option": "for the empirical analysis of firm dynamics and job creation and destruction — John Van Reenen, Nicholas Bloom, John C. Haltiwanger",
+   "contribution": "for the empirical analysis of firm dynamics and job creation and destruction",
+   "jel_code": "M11",
+   "score": 9.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 3.0,
+    "gpt-5.5-2026-04-23": 2.9091,
+    "gemini-3.1-pro-preview": 3.8182
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 30,
+   "supporters": [
+    "Anna Dreber Almenberg (A, G)",
+    "Jan Teorell (A, G)",
+    "John Hassler (G)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "John Van Reenen",
+     "affiliation": "London School of Economics",
+     "born": 1965,
+     "weight": 7.2121,
+     "n_nominations": 22,
+     "key": "j reenen"
+    },
+    {
+     "name": "Nicholas Bloom",
+     "affiliation": "Stanford University",
+     "born": 1973,
+     "weight": 6.9394,
+     "n_nominations": 21,
+     "key": "n bloom"
+    },
+    {
+     "name": "John C. Haltiwanger",
+     "affiliation": "University of Maryland",
+     "born": 1955,
+     "weight": 1.8182,
+     "n_nominations": 6,
+     "key": "j haltiwanger"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "John Van Reenen",
+     "affiliation": "London School of Economics",
+     "born": 1965,
+     "weight": 7.2121,
+     "n_nominations": 22,
+     "key": "j reenen"
+    },
+    {
+     "name": "Nicholas Bloom",
+     "affiliation": "Stanford University",
+     "born": 1973,
+     "weight": 6.9394,
+     "n_nominations": 21,
+     "key": "n bloom"
+    },
+    {
+     "name": "John C. Haltiwanger",
+     "affiliation": "University of Maryland",
+     "born": 1955,
+     "weight": 1.8182,
+     "n_nominations": 6,
+     "key": "j haltiwanger"
+    },
+    {
+     "name": "Raffaella Sadun",
+     "affiliation": "Harvard Business School",
+     "born": 1974,
+     "weight": 1.6263,
+     "n_nominations": 6,
+     "key": "r sadun"
+    },
+    {
+     "name": "Steven J. Davis",
+     "affiliation": "University of Chicago",
+     "born": 1958,
+     "weight": 1.5455,
+     "n_nominations": 5,
+     "key": "s davis"
+    },
+    {
+     "name": "Chang-Tai Hsieh",
+     "affiliation": "University of Chicago",
+     "born": 1969,
+     "weight": 0.9697,
+     "n_nominations": 3,
+     "key": "c hsieh"
+    },
+    {
+     "name": "Peter J. Klenow",
+     "affiliation": "Stanford University",
+     "born": 1964,
+     "weight": 0.9697,
+     "n_nominations": 3,
+     "key": "p klenow"
+    },
+    {
+     "name": "Lucia Foster",
+     "affiliation": "U.S. Census Bureau",
+     "born": null,
+     "weight": 0.9091,
+     "n_nominations": 3,
+     "key": "l foster"
+    },
+    {
+     "name": "Chad Syverson",
+     "affiliation": "University of Chicago Booth School of Business",
+     "born": 1973,
+     "weight": 0.6364,
+     "n_nominations": 2,
+     "key": "c syverson"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/jan-teorell/#2",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/per-krusell/#3",
+    "anthropic/per-stromberg/#2",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/randi-hjalmarsson/#2",
+    "anthropic/richard-friberg/#5",
+    "anthropic/tommy-andersson/#3",
+    "gemini/anna-dreber-almenberg/#1",
+    "gemini/jan-teorell/#1",
+    "gemini/john-hassler/#2",
+    "gemini/kerstin-enflo/#2",
+    "gemini/per-krusell/#3",
+    "gemini/per-stromberg/#2",
+    "gemini/peter-fredriksson/#1",
+    "gemini/peter-fredriksson/#2",
+    "gemini/randi-hjalmarsson/#2",
+    "gemini/timo-boppart/#2",
+    "openai/kerstin-enflo/#2",
+    "openai/kerstin-enflo/#3",
+    "openai/per-krusell/#3",
+    "openai/per-stromberg/#3",
+    "openai/per-stromberg/#4",
+    "openai/peter-fredriksson/#2",
+    "openai/peter-fredriksson/#4",
+    "openai/randi-hjalmarsson/#3",
+    "openai/timo-boppart/#3",
+    "openai/timo-boppart/#4",
+    "openai/tommy-andersson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "field": "Production, Industrial Organization",
+   "option": "for the development of empirical methods to infer market power, entry and collusion from market data — Timothy F. Bresnahan, John Sutton, Peter C. Reiss",
+   "contribution": "for the development of empirical methods to infer market power, entry and collusion from market data",
+   "jel_code": "L11",
+   "score": 8.1515,
+   "points_per_model": {
+    "claude-opus-5-5": 3.3333,
+    "gpt-5.5-2026-04-23": 3.4545,
+    "gemini-3.1-pro-preview": 1.3636
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 33,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, O)",
+    "John Hassler (G)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Timothy F. Bresnahan",
+     "affiliation": "Stanford University",
+     "born": 1953,
+     "weight": 4.4343,
+     "n_nominations": 18,
+     "key": "t bresnahan"
+    },
+    {
+     "name": "John Sutton",
+     "affiliation": "London School of Economics",
+     "born": 1948,
+     "weight": 3.8081,
+     "n_nominations": 15,
+     "key": "j sutton"
+    },
+    {
+     "name": "Peter C. Reiss",
+     "affiliation": "Stanford University",
+     "born": 1957,
+     "weight": 2.5758,
+     "n_nominations": 9,
+     "key": "p reiss"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Timothy F. Bresnahan",
+     "affiliation": "Stanford University",
+     "born": 1953,
+     "weight": 4.4343,
+     "n_nominations": 18,
+     "key": "t bresnahan"
+    },
+    {
+     "name": "John Sutton",
+     "affiliation": "London School of Economics",
+     "born": 1948,
+     "weight": 3.8081,
+     "n_nominations": 15,
+     "key": "j sutton"
+    },
+    {
+     "name": "Peter C. Reiss",
+     "affiliation": "Stanford University",
+     "born": 1957,
+     "weight": 2.5758,
+     "n_nominations": 9,
+     "key": "p reiss"
+    },
+    {
+     "name": "Robert H. Porter",
+     "affiliation": "Northwestern University",
+     "born": 1955,
+     "weight": 1.7576,
+     "n_nominations": 8,
+     "key": "r porter"
+    },
+    {
+     "name": "Michael D. Whinston",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1959,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m whinston"
+    },
+    {
+     "name": "Glenn Ellison",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1965,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "g ellison"
+    },
+    {
+     "name": "Margaret E. Slade",
+     "affiliation": "University of British Columbia",
+     "born": 1947,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "m slade"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/jan-teorell/#5",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/kerstin-enflo/#3",
+    "anthropic/per-krusell/#4",
+    "anthropic/per-stromberg/#4",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/randi-hjalmarsson/#4",
+    "anthropic/richard-friberg/#2",
+    "anthropic/richard-friberg/#3",
+    "anthropic/tommy-andersson/#4",
+    "gemini/john-hassler/#4",
+    "gemini/kerstin-enflo/#4",
+    "gemini/kerstin-enflo/#5",
+    "gemini/peter-fredriksson/#4",
+    "gemini/peter-fredriksson/#5",
+    "gemini/richard-friberg/#3",
+    "gemini/timo-boppart/#4",
+    "gemini/timo-boppart/#5",
+    "gemini/tommy-andersson/#5",
+    "openai/anna-dreber-almenberg/#3",
+    "openai/jan-teorell/#2",
+    "openai/kerstin-enflo/#4",
+    "openai/per-krusell/#2",
+    "openai/per-stromberg/#2",
+    "openai/per-stromberg/#5",
+    "openai/peter-fredriksson/#3",
+    "openai/randi-hjalmarsson/#2",
+    "openai/richard-friberg/#2",
+    "openai/richard-friberg/#3",
+    "openai/richard-friberg/#5",
+    "openai/timo-boppart/#2",
+    "openai/timo-boppart/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 4,
+   "field": "Production, Industrial Organization",
+   "option": "for the theory of two-sided markets and platform competition — Jean-Charles Rochet, Mark Armstrong, Bruno Jullien",
+   "contribution": "for the theory of two-sided markets and platform competition",
+   "jel_code": "L14",
+   "score": 3.5657,
+   "points_per_model": {
+    "claude-opus-5-5": 2.1111,
+    "gpt-5.5-2026-04-23": 1.4545,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 2,
+   "n_members": 9,
+   "n_nominations": 14,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, O)",
+    "John Hassler (O)",
+    "Per Krusell (A, O)",
+    "Per Strömberg (A)",
+    "Peter Fredriksson (A)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Jean-Charles Rochet",
+     "affiliation": "Toulouse School of Economics",
+     "born": 1957,
+     "weight": 3.5657,
+     "n_nominations": 14,
+     "key": "j rochet"
+    },
+    {
+     "name": "Mark Armstrong",
+     "affiliation": "University of Oxford",
+     "born": 1964,
+     "weight": 3.5657,
+     "n_nominations": 14,
+     "key": "m armstrong"
+    },
+    {
+     "name": "Bruno Jullien",
+     "affiliation": "Toulouse School of Economics",
+     "born": null,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "b jullien"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Jean-Charles Rochet",
+     "affiliation": "Toulouse School of Economics",
+     "born": 1957,
+     "weight": 3.5657,
+     "n_nominations": 14,
+     "key": "j rochet"
+    },
+    {
+     "name": "Mark Armstrong",
+     "affiliation": "University of Oxford",
+     "born": 1964,
+     "weight": 3.5657,
+     "n_nominations": 14,
+     "key": "m armstrong"
+    },
+    {
+     "name": "Bruno Jullien",
+     "affiliation": "Toulouse School of Economics",
+     "born": null,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "b jullien"
+    },
+    {
+     "name": "Julian Wright",
+     "affiliation": "National University of Singapore",
+     "born": 1969,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j wright"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/jan-teorell/#4",
+    "anthropic/per-krusell/#5",
+    "anthropic/per-stromberg/#3",
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/richard-friberg/#4",
+    "anthropic/tommy-andersson/#2",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/jan-teorell/#3",
+    "openai/john-hassler/#3",
+    "openai/per-krusell/#4",
+    "openai/randi-hjalmarsson/#4",
+    "openai/tommy-andersson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "field": "Production, Industrial Organization",
+   "option": "for his analysis of antitrust economics and the strategic behavior of firms — Carl Shapiro, Michael D. Whinston, Michael L. Katz",
+   "contribution": "for his analysis of antitrust economics and the strategic behavior of firms",
+   "jel_code": "L40",
+   "score": 1.4242,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3333,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 0.8182
+   },
+   "n_models": 3,
+   "n_members": 7,
+   "n_nominations": 10,
+   "supporters": [
+    "Jan Teorell (G)",
+    "John Hassler (G)",
+    "Per Krusell (G)",
+    "Peter Fredriksson (A)",
+    "Randi Hjalmarsson (A)",
+    "Richard Friberg (G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Carl Shapiro",
+     "affiliation": "University of California, Berkeley",
+     "born": 1955,
+     "weight": 0.7879,
+     "n_nominations": 6,
+     "key": "c shapiro"
+    },
+    {
+     "name": "Michael D. Whinston",
+     "affiliation": "MIT",
+     "born": 1959,
+     "weight": 0.7273,
+     "n_nominations": 5,
+     "key": "m whinston"
+    },
+    {
+     "name": "Michael L. Katz",
+     "affiliation": "University of California, Berkeley",
+     "born": 1957,
+     "weight": 0.404,
+     "n_nominations": 3,
+     "key": "m katz"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Carl Shapiro",
+     "affiliation": "University of California, Berkeley",
+     "born": 1955,
+     "weight": 0.7879,
+     "n_nominations": 6,
+     "key": "c shapiro"
+    },
+    {
+     "name": "Michael D. Whinston",
+     "affiliation": "MIT",
+     "born": 1959,
+     "weight": 0.7273,
+     "n_nominations": 5,
+     "key": "m whinston"
+    },
+    {
+     "name": "Michael L. Katz",
+     "affiliation": "University of California, Berkeley",
+     "born": 1957,
+     "weight": 0.404,
+     "n_nominations": 3,
+     "key": "m katz"
+    },
+    {
+     "name": "Joseph Farrell",
+     "affiliation": "University of California, Berkeley",
+     "born": 1954,
+     "weight": 0.2929,
+     "n_nominations": 2,
+     "key": "j farrell"
+    },
+    {
+     "name": "Paul L. Joskow",
+     "affiliation": "Massachusetts Institute of Technology, emeritus",
+     "born": 1947,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "p joskow"
+    },
+    {
+     "name": "Patrick Rey",
+     "affiliation": "Toulouse School of Economics",
+     "born": 1959,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "p rey"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/peter-fredriksson/#5",
+    "anthropic/randi-hjalmarsson/#5",
+    "anthropic/tommy-andersson/#5",
+    "gemini/jan-teorell/#4",
+    "gemini/john-hassler/#3",
+    "gemini/per-krusell/#5",
+    "gemini/richard-friberg/#5",
+    "gemini/tommy-andersson/#4",
+    "openai/richard-friberg/#4",
+    "openai/tommy-andersson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "field": "Production, Industrial Organization",
+   "option": "for their analysis of incomplete contracts, financial structure, and the theory of the firm — Mathias Dewatripont, Patrick Bolton",
+   "contribution": "for their analysis of incomplete contracts, financial structure, and the theory of the firm",
+   "jel_code": "D23",
+   "score": 0.8182,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.8182
+   },
+   "n_models": 1,
+   "n_members": 3,
+   "n_nominations": 3,
+   "supporters": [
+    "John Hassler (G)",
+    "Per Strömberg (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "chair",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Mathias Dewatripont",
+     "affiliation": "Université libre de Bruxelles",
+     "born": 1959,
+     "weight": 0.8182,
+     "n_nominations": 3,
+     "key": "m dewatripont"
+    },
+    {
+     "name": "Patrick Bolton",
+     "affiliation": "Imperial College London",
+     "born": 1957,
+     "weight": 0.8182,
+     "n_nominations": 3,
+     "key": "p bolton"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Mathias Dewatripont",
+     "affiliation": "Université libre de Bruxelles",
+     "born": 1959,
+     "weight": 0.8182,
+     "n_nominations": 3,
+     "key": "m dewatripont"
+    },
+    {
+     "name": "Patrick Bolton",
+     "affiliation": "Imperial College London",
+     "born": 1957,
+     "weight": 0.8182,
+     "n_nominations": 3,
+     "key": "p bolton"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/john-hassler/#5",
+    "gemini/per-stromberg/#1",
+    "gemini/tommy-andersson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "field": "Production, Industrial Organization",
+   "option": "for the empirical analysis of market power, markups, and their macroeconomic implications — Jan De Loecker, Jan Eeckhout, Pinelopi Koujianou Goldberg",
+   "contribution": "for the empirical analysis of market power, markups, and their macroeconomic implications",
+   "jel_code": "L11",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 2,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Jan De Loecker",
+     "affiliation": "KU Leuven",
+     "born": 1979,
+     "weight": 0.4545,
+     "n_nominations": 2,
+     "key": "j loecker"
+    },
+    {
+     "name": "Jan Eeckhout",
+     "affiliation": "Universitat Pompeu Fabra",
+     "born": 1970,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j eeckhout"
+    },
+    {
+     "name": "Pinelopi Koujianou Goldberg",
+     "affiliation": "Yale University",
+     "born": 1963,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "p goldberg"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Jan De Loecker",
+     "affiliation": "KU Leuven",
+     "born": 1979,
+     "weight": 0.4545,
+     "n_nominations": 2,
+     "key": "j loecker"
+    },
+    {
+     "name": "Jan Eeckhout",
+     "affiliation": "Universitat Pompeu Fabra",
+     "born": 1970,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j eeckhout"
+    },
+    {
+     "name": "Pinelopi Koujianou Goldberg",
+     "affiliation": "Yale University",
+     "born": 1963,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "p goldberg"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#3",
+    "openai/tommy-andersson/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "field": "Production, Industrial Organization",
+   "option": "for her historical analysis of firm organization, corporate structure, and regional industrial clustering over the long run — Naomi Lamoreaux",
+   "contribution": "for her historical analysis of firm organization, corporate structure, and regional industrial clustering over the long run",
+   "jel_code": "L22",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Naomi Lamoreaux",
+     "affiliation": "Yale University",
+     "born": 1950,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "n lamoreaux"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Naomi Lamoreaux",
+     "affiliation": "Yale University",
+     "born": 1950,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "n lamoreaux"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "field": "Production, Industrial Organization",
+   "option": "for the economic theory of regulation and regulatory capture — Sam Peltzman",
+   "contribution": "for the economic theory of regulation and regulatory capture",
+   "jel_code": "L51",
+   "score": 0.4444,
+   "points_per_model": {
+    "claude-opus-5-5": 0.4444,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Jan Teorell (A)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Sam Peltzman",
+     "affiliation": "University of Chicago",
+     "born": 1940,
+     "weight": 0.4444,
+     "n_nominations": 2,
+     "key": "s peltzman"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Sam Peltzman",
+     "affiliation": "University of Chicago",
+     "born": 1940,
+     "weight": 0.4444,
+     "n_nominations": 2,
+     "key": "s peltzman"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/jan-teorell/#3"
+   ],
+   "flags": [
+    "Sam Peltzman: born 1940 (age 86 in 2026)"
+   ]
+  },
+  {
+   "rank": 10,
+   "field": "Production, Industrial Organization",
+   "option": "for the theory of dynamic capabilities and the boundaries of the firm in strategic management — David J. Teece",
+   "contribution": "for the theory of dynamic capabilities and the boundaries of the firm in strategic management",
+   "jel_code": "D23",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 2,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Jan Teorell (G)",
+    "Randi Hjalmarsson (O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "David J. Teece",
+     "affiliation": "University of California, Berkeley",
+     "born": 1948,
+     "weight": 0.3636,
+     "n_nominations": 2,
+     "key": "d teece"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "David J. Teece",
+     "affiliation": "University of California, Berkeley",
+     "born": 1948,
+     "weight": 0.3636,
+     "n_nominations": 2,
+     "key": "d teece"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/jan-teorell/#3",
+    "openai/randi-hjalmarsson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "field": "Production, Industrial Organization",
+   "option": "for his empirical research on industrial organization, pricing, and merger analysis — Aviv Nevo",
+   "contribution": "for his empirical research on industrial organization, pricing, and merger analysis",
+   "jel_code": "L40",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Aviv Nevo",
+     "affiliation": "University of Pennsylvania",
+     "born": 1964,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "a nevo"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Aviv Nevo",
+     "affiliation": "University of Pennsylvania",
+     "born": 1964,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "a nevo"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/richard-friberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "field": "Production, Industrial Organization",
+   "option": "for her contributions to the industrial organization of internet search and platform markets — Susan Athey",
+   "contribution": "for her contributions to the industrial organization of internet search and platform markets",
+   "jel_code": "L86",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Susan Athey",
+     "affiliation": "Stanford University",
+     "born": 1970,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "s athey"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Susan Athey",
+     "affiliation": "Stanford University",
+     "born": 1970,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "s athey"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/tommy-andersson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "field": "Production, Industrial Organization",
+   "option": "for their analysis of corporate governance and the mechanisms of investor protection — Andrei Shleifer, Robert W. Vishny",
+   "contribution": "for their analysis of corporate governance and the mechanisms of investor protection",
+   "jel_code": "D23",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Per Strömberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Andrei Shleifer",
+     "affiliation": "Harvard University",
+     "born": 1961,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "a shleifer"
+    },
+    {
+     "name": "Robert W. Vishny",
+     "affiliation": "University of Chicago",
+     "born": 1959,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "r vishny"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Andrei Shleifer",
+     "affiliation": "Harvard University",
+     "born": 1961,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "a shleifer"
+    },
+    {
+     "name": "Robert W. Vishny",
+     "affiliation": "University of Chicago",
+     "born": 1959,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "r vishny"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/per-stromberg/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "field": "Production, Industrial Organization",
+   "option": "for their empirical analysis of media markets, ideological segregation, and political economy — Jesse M. Shapiro, Matthew Gentzkow",
+   "contribution": "for their empirical analysis of media markets, ideological segregation, and political economy",
+   "jel_code": "L82",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Jesse M. Shapiro",
+     "affiliation": "Harvard University",
+     "born": 1979,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j shapiro"
+    },
+    {
+     "name": "Matthew Gentzkow",
+     "affiliation": "Stanford University",
+     "born": 1975,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m gentzkow"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Jesse M. Shapiro",
+     "affiliation": "Harvard University",
+     "born": 1979,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j shapiro"
+    },
+    {
+     "name": "Matthew Gentzkow",
+     "affiliation": "Stanford University",
+     "born": 1975,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m gentzkow"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/randi-hjalmarsson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "field": "Production, Industrial Organization",
+   "option": "for structural models of firm-level innovation and the macroeconomic productivity slowdown — Ufuk Akcigit",
+   "contribution": "for structural models of firm-level innovation and the macroeconomic productivity slowdown",
+   "jel_code": "L11",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Ufuk Akcigit",
+     "affiliation": "University of Chicago",
+     "born": 1980,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "u akcigit"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Ufuk Akcigit",
+     "affiliation": "University of Chicago",
+     "born": 1980,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "u akcigit"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/timo-boppart/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "field": "Production, Industrial Organization",
+   "option": "for the theory of irreversible investment under uncertainty — Avinash K. Dixit, Robert S. Pindyck",
+   "contribution": "for the theory of irreversible investment under uncertainty",
+   "jel_code": "D25",
+   "score": 0.202,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1111,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 2,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "John Hassler (O)",
+    "Per Strömberg (A)"
+   ],
+   "roles": [
+    "chair",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Avinash K. Dixit",
+     "affiliation": "Princeton University",
+     "born": 1944,
+     "weight": 0.202,
+     "n_nominations": 2,
+     "key": "a dixit"
+    },
+    {
+     "name": "Robert S. Pindyck",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1945,
+     "weight": 0.202,
+     "n_nominations": 2,
+     "key": "r pindyck"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Avinash K. Dixit",
+     "affiliation": "Princeton University",
+     "born": 1944,
+     "weight": 0.202,
+     "n_nominations": 2,
+     "key": "a dixit"
+    },
+    {
+     "name": "Robert S. Pindyck",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1945,
+     "weight": 0.202,
+     "n_nominations": 2,
+     "key": "r pindyck"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/per-stromberg/#5",
+    "openai/john-hassler/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "field": "Production, Industrial Organization",
+   "option": "for the economic analysis of regulation and restructuring in network and energy industries — Catherine D. Wolfram, Paul L. Joskow, Frank A. Wolak",
+   "contribution": "for the economic analysis of regulation and restructuring in network and energy industries",
+   "jel_code": "L94",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Peter Fredriksson (O)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Catherine D. Wolfram",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1970,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "c wolfram"
+    },
+    {
+     "name": "Paul L. Joskow",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1947,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "p joskow"
+    },
+    {
+     "name": "Frank A. Wolak",
+     "affiliation": "Stanford University",
+     "born": 1954,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "f wolak"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Catherine D. Wolfram",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1970,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "c wolfram"
+    },
+    {
+     "name": "Paul L. Joskow",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1947,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "p joskow"
+    },
+    {
+     "name": "Frank A. Wolak",
+     "affiliation": "Stanford University",
+     "born": 1954,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "f wolak"
+    },
+    {
+     "name": "Nancy L. Rose",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1958,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "n rose"
+    }
+   ],
+   "nomination_ids": [
+    "openai/anna-dreber-almenberg/#5",
+    "openai/peter-fredriksson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "field": "Production, Industrial Organization",
+   "option": "for the integration of machine learning with causal inference in empirical economics — Susan Athey",
+   "contribution": "for the integration of machine learning with causal inference in empirical economics",
+   "jel_code": "L86",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Susan Athey",
+     "affiliation": "Stanford University",
+     "born": 1970,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "s athey"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Susan Athey",
+     "affiliation": "Stanford University",
+     "born": 1970,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "s athey"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 19,
+   "field": "Production, Industrial Organization",
+   "option": "for pioneering field experiments and structural empirical analysis of auction markets — Ali Hortaçsu",
+   "contribution": "for pioneering field experiments and structural empirical analysis of auction markets",
+   "jel_code": "L40",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Ali Hortaçsu",
+     "affiliation": "University of Chicago",
+     "born": 1974,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "a hortacsu"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Ali Hortaçsu",
+     "affiliation": "University of Chicago",
+     "born": 1974,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "a hortacsu"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 20,
+   "field": "Production, Industrial Organization",
+   "option": "for the empirical measurement of market structures and the economics of network industries — Richard Schmalensee",
+   "contribution": "for the empirical measurement of market structures and the economics of network industries",
+   "jel_code": "L11",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Jan Teorell (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Richard Schmalensee",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1944,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "r schmalensee"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Richard Schmalensee",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1944,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "r schmalensee"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/jan-teorell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "field": "Production, Industrial Organization",
+   "option": "for her empirical research on corporate governance, family firms, and organizational economics — Marianne Bertrand",
+   "contribution": "for her empirical research on corporate governance, family firms, and organizational economics",
+   "jel_code": "L21",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Per Strömberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Marianne Bertrand",
+     "affiliation": "University of Chicago",
+     "born": 1970,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "m bertrand"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Marianne Bertrand",
+     "affiliation": "University of Chicago",
+     "born": 1970,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "m bertrand"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/per-stromberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "field": "Production, Industrial Organization",
+   "option": "for their empirical analysis of selection and moral hazard in insurance markets — Amy Finkelstein, Liran Einav",
+   "contribution": "for their empirical analysis of selection and moral hazard in insurance markets",
+   "jel_code": "L11",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Amy Finkelstein",
+     "affiliation": "MIT",
+     "born": 1973,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "a finkelstein"
+    },
+    {
+     "name": "Liran Einav",
+     "affiliation": "Stanford University",
+     "born": 1970,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "l einav"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Amy Finkelstein",
+     "affiliation": "MIT",
+     "born": 1973,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "a finkelstein"
+    },
+    {
+     "name": "Liran Einav",
+     "affiliation": "Stanford University",
+     "born": 1970,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "l einav"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/randi-hjalmarsson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 23,
+   "field": "Production, Industrial Organization",
+   "option": "for the evolutionary theory of firm routines and industrial dynamics — Sidney G. Winter",
+   "contribution": "for the evolutionary theory of firm routines and industrial dynamics",
+   "jel_code": "D22",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Jan Teorell (O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Sidney G. Winter",
+     "affiliation": "University of Pennsylvania, emeritus",
+     "born": 1935,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "s winter"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Sidney G. Winter",
+     "affiliation": "University of Pennsylvania, emeritus",
+     "born": 1935,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "s winter"
+    }
+   ],
+   "nomination_ids": [
+    "openai/jan-teorell/#5"
+   ],
+   "flags": [
+    "Sidney G. Winter: born 1935 (age 91 in 2026)"
+   ]
+  },
+  {
+   "rank": 24,
+   "field": "Production, Industrial Organization",
+   "option": "for the analysis of incentives, relational contracts and the internal organization of firms — George P. Baker, Kevin J. Murphy, Robert Gibbons",
+   "contribution": "for the analysis of incentives, relational contracts and the internal organization of firms",
+   "jel_code": "D23",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "George P. Baker",
+     "affiliation": "Harvard Business School",
+     "born": 1951,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "g baker"
+    },
+    {
+     "name": "Kevin J. Murphy",
+     "affiliation": "University of Southern California",
+     "born": 1958,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "k murphy"
+    },
+    {
+     "name": "Robert Gibbons",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1958,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "r gibbons"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "George P. Baker",
+     "affiliation": "Harvard Business School",
+     "born": 1951,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "g baker"
+    },
+    {
+     "name": "Kevin J. Murphy",
+     "affiliation": "University of Southern California",
+     "born": 1958,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "k murphy"
+    },
+    {
+     "name": "Robert Gibbons",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1958,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "r gibbons"
+    }
+   ],
+   "nomination_ids": [
+    "openai/kerstin-enflo/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+# Step 6: the Econ virtual committee (member x model x batch calls; the 14 fields in three batches of 5/5/4). Models and prices:
+# ../config.yaml. Field names must equal the 14-field names of 04_field_forecast (prize_works_fields14.csv).
+date_context: "It is 9 October 2026. The 2026 prize has not been announced; the announcement is scheduled for Monday 12 October 2026."
+batches_to_ask: [1]                   # 10 Oct 2026 (user): only the five leading fields of the latest field forecast are asked; the
+                                      # other nine fields stay below for the boundary list in the prompt (and for a later extension)
+fields:                               # the 14 fields of the field question; batch 1 = the five leading fields of the Preseen main arm of
+                                      # the latest field run (fields14_nobel, task 9b0a6220, finished 10 Oct 2026 13:51 CDT); batches 2-3
+                                      # by the same ranking. main_pct = that main arm; pool = share of 30 among the asked fields.
+  - name: Macro
+    slug: macro
+    batch: 1
+    jel: "E"
+    prefixes: ["E"]
+    main_pct: 16.9
+    pool: 7
+    definition: "Macro (JEL E): business cycles, money and monetary policy, consumption and saving, fiscal policy, national accounts. Macroeconomic applications of econometric methods belong to Econometrics; banking and financial crises belong to Finance; growth theory belongs to Growth."
+  - name: Trade
+    slug: trade
+    batch: 1
+    jel: "F"
+    prefixes: ["F"]
+    main_pct: 15.6
+    pool: 7
+    definition: "Trade (JEL F): international trade, international finance and open-economy macroeconomics, exchange rates, international factor movements and global value chains."
+  - name: Production, Industrial Organization
+    slug: production_io
+    batch: 1
+    jel: "D2, L, M"
+    prefixes: ["D2", "L", "M"]
+    main_pct: 14.0
+    pool: 6
+    definition: "Production, Industrial Organization (JEL D2, L, M): theory of the firm, transaction costs and organizations, industrial organization, market power and regulation, empirical IO, business economics. Auction design belongs to Games and market structure; contract theory to Information."
+  - name: Public, Law, Political Economy
+    slug: public
+    batch: 1
+    jel: "D7, H, K, P"
+    prefixes: ["D7", "H", "K", "P"]
+    main_pct: 13.3
+    pool: 6
+    definition: "Public, Law, Political Economy (JEL D7, H, K, P): public economics and taxation, social insurance, collective decision making and public choice, law and economics, political economy of policy, economic systems. The institutional origins of prosperity (O43) were awarded in 2024 and belong to Growth; distinct public-economics or political-economy contributions do not carry that penalty."
+  - name: Equilibrium, Welfare
+    slug: equilibrium
+    batch: 1
+    jel: "C6, D5, D6"
+    prefixes: ["C6", "D5", "D6"]
+    main_pct: 9.5
+    pool: 4
+    definition: "Equilibrium, Welfare (JEL C6, D5, D6): general equilibrium theory, welfare economics, social choice, inequality measurement and normative criteria, mathematical and optimization methods of economic theory. Game theory and matching belong to Games and market structure."
+  - name: Information
+    slug: information
+    batch: 2
+    jel: "D8"
+    prefixes: ["D8"]
+    main_pct: 5.9
+    pool: 0
+    definition: "Information (JEL D8): asymmetric information, contract theory, mechanism design, decision making under uncertainty and the economics of information. Mechanism design belongs here; auction and matching design belong to Games and market structure."
+  - name: Resources, Environment
+    slug: resources
+    batch: 2
+    jel: "Q, R"
+    prefixes: ["Q", "R"]
+    main_pct: 6.5
+    pool: 0
+    definition: "Resources, Environment (JEL Q, R): environmental and climate economics, natural resources and energy, agricultural economics, urban, regional and real-estate economics."
+  - name: Behavioural, Experimental
+    slug: behavioural
+    batch: 2
+    jel: "C9, D9"
+    prefixes: ["C9", "D9"]
+    main_pct: 5.7
+    pool: 0
+    definition: "Behavioural, Experimental (JEL C9, D9): behavioural economics, psychological and intertemporal decision making, laboratory and field experiments as methods of economics. An experimental contribution whose core is a question of another field belongs to that field (the 2019 experimental approach to alleviating poverty is Development)."
+  - name: Games, Market Structure
+    slug: games
+    batch: 2
+    jel: "C7, D4"
+    prefixes: ["C7", "D4"]
+    main_pct: 4.6
+    pool: 0
+    definition: "Games, Market Structure (JEL C7, D4): game theory, bargaining, matching, auction theory and market design, market structure and pricing. Auction and matching design belong here; mechanism design and contract theory belong to Information."
+  - name: Econometrics
+    slug: econometrics
+    batch: 2
+    jel: "C0-C5, C8"
+    prefixes: ["C0", "C1", "C2", "C3", "C4", "C5", "C8"]
+    main_pct: 2.9
+    pool: 0
+    definition: "Econometrics (JEL C0-C5, C8): econometric theory and methods, causal inference, time series, microeconometrics, data and estimation methods, including methods for empirical macroeconomics (the 2011 prize for cause and effect in the macroeconomy is Econometrics). Experimental methods belong to Behavioural, Experimental; mathematical methods of economic theory to Equilibrium, Welfare."
+  - name: Labour
+    slug: labour
+    batch: 3
+    jel: "D1, D3, I, J"
+    prefixes: ["D1", "D3", "I", "J"]
+    main_pct: 2.0
+    pool: 0
+    definition: "Labour (JEL D1, D3, I, J): labour markets, household and family economics, consumption, poverty and welfare measured at the household level, income distribution, health and education economics. Search frictions in labour markets are Labour (2010); business-cycle macroeconomics belongs to Macro."
+  - name: Finance
+    slug: finance
+    batch: 3
+    jel: "G"
+    prefixes: ["G"]
+    main_pct: 2.1
+    pool: 0
+    definition: "Finance (JEL G): asset pricing, corporate finance, banking and financial crises, financial markets and institutions, household finance."
+  - name: Development, Economic History
+    slug: development
+    batch: 3
+    jel: "N, O1, O2, O5"
+    prefixes: ["N", "O1", "O2", "O5"]
+    main_pct: 0.6
+    pool: 0
+    definition: "Development, Economic History (JEL N, O1, O2, O5): development economics, poverty, economic history and economywide country studies. Growth theory, innovation and the growth effects of institutions (O43) belong to Growth."
+  - name: Growth
+    slug: growth
+    batch: 3
+    jel: "O3, O4"
+    prefixes: ["O3", "O4"]
+    main_pct: 0.4
+    pool: 0
+    definition: "Growth (JEL O3, O4): economic growth, innovation and technological change, productivity, and the growth effects of institutions (O43)."
+committee:
+  max_nominations: 5                  # per field, ranked
+  max_people: 3
+  max_key_works: 3
+  max_rationale_sentences: 3           # why this contribution and these people, and the main reservation (2 in the first run)
+  borda_points: [5, 4, 3, 2, 1]      # rank 1..5; each model's points divided by its number of valid ballots in the field
+  link_min_overlap: 0.15              # nominations sharing ONE person are merged only if their contribution lines overlap this much (or share 2+ people)
+  json_retries: 1                     # one retry on invalid JSON, then the cell is recorded as missing
+  max_output_tokens: 32000            # cap only; thinking / reasoning tokens count against it on all three providers
+  effort: {anthropic: null, openai: null, gemini: null}    # null = provider default (as in steps 1 and 2)
+integrate:                            # `integrate`: Claude merges the nominations of the three models into candidates, one call per field
+  provider: anthropic                 # claude-opus-5-5 (../config.yaml)
+  json_retries: 2                     # re-asked with the list of errors when the answer is not a valid partition
+  max_output_tokens: 32000
+  effort: null                        # provider default
+  max_defining_works: 4               # per candidate, copied from the key works of its nominations
+  workers: 5                          # fields in parallel (the five asked fields at once)
+pool_total: 30                        # options for the people question, allocated to the fields in proportion to main_pct (largest remainder)
+estimate_assumptions:                 # per call, used by `estimate` until real calls are logged
+  input: 14000
+  output: 9000

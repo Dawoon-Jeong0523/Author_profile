@@ -1,0 +1,41 @@
+# Raw page copies of nobelprize.org (site content (c) Nobel Prize Outreach); the API JSON and the parsed tables stay
+data/raw/*.html
+
+# Step 1: raw provider responses (search results, page excerpts, model drafts) and the call log stay local;
+# the merged profiles in 01_committee/profiles/ are the versionable result
+01_committee/runs/
+01_committee/logs/
+*.tmp
+
+# nobelprize.org committee page copy (site content (c) Nobel Prize Outreach)
+01_committee/source/*.html
+
+# Step 2: raw provider responses and the call log stay local; jel_by_model.csv and results/ are versioned
+02_fields/runs/
+02_fields/logs/
+
+# Record: LaTeX build files stay local; Record.tex, tables/ and Record.pdf are versioned
+record/build/
+
+# Step 4b: Preseen state (question ids, task envelopes) and run logs stay local
+04_field_forecast/preseen_exp/
+04_field_forecast/*.out
+
+# Step 6: raw provider responses, test cells, call log and run logs stay local; ballots, candidates, reviews, pool are versioned
+06_candidates/committee/raw/
+06_candidates/committee/test/
+06_candidates/logs/
+06_candidates/*.out
+
+# Step 6 (10 Oct): the integration's raw calls (prompt, provider responses) and the archived first run's raw cells and
+# call log stay local; integrated.json/.md, ballots, candidates and the pool are versioned
+06_candidates/committee/integrated_raw/
+06_candidates/Old/*/committee/raw/
+06_candidates/Old/*/committee/test/
+06_candidates/Old/*/calls_*.jsonl
+06_candidates/Old/*/*.out
+
+# Step 7: Preseen state (question ids, task envelopes, API responses), run logs and the Wikidata lookup cache stay local
+07_people_forecast/preseen_exp/
+07_people_forecast/*.out
+07_people_forecast/living_cache.json

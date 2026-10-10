@@ -1,0 +1,36 @@
+jel_l2,letter,letter_name,field,works,prizes,first,last,codes,awards,years_since_last
+C2,C,Mathematical and Quantitative Methods,Single Equation Models • Single Variables,4,2.0,2000,2021,"C21, C22, C24, C25",2000 James J. Heckman [C24] | 2000 Daniel L. McFadden [C25] | 2003 Robert F. Engle III [C22] | 2021 Joshua D. Angrist; Guido W. Imbens [C21],5
+C3,C,Mathematical and Quantitative Methods,Multiple or Simultaneous Equation Models • Multiple Variables,3,2.5,1989,2011,"C30, C32",1989 Trygve Haavelmo [C30] | 2003 Clive W.J. Granger [C32] | 2011 Thomas J. Sargent; Christopher A. Sims [C32],15
+C5,C,Mathematical and Quantitative Methods,Econometric Modeling,2,2.0,1969,1980,C51,1969 Ragnar Frisch; Jan Tinbergen [C51] | 1980 Lawrence R. Klein [C51],46
+C6,C,Mathematical and Quantitative Methods,Mathematical Methods • Programming Models • Mathematical and Simulation Modeling,3,3.0,1970,1975,"C61, C67",1970 Paul A. Samuelson [C61] | 1973 Wassily Leontief [C67] | 1975 Leonid Vitaliyevich Kantorovich; Tjalling C. Koopmans [C61],51
+C7,C,Mathematical and Quantitative Methods,Game Theory and Bargaining Theory,3,3.0,1994,2012,"C72, C73, C78",1994 John C. Harsanyi; John F. Nash Jr.; Reinhard Selten [C72] | 2005 Robert J. Aumann; Thomas C. Schelling [C73] | 2012 Alvin E. Roth; Lloyd S. Shapley [C78],14
+C9,C,Mathematical and Quantitative Methods,Design of Experiments,1,0.5,2002,2002,C92,2002 Vernon L. Smith [C92],24
+D0,D,Microeconomics,General,1,0.5,2009,2009,D02,2009 Elinor Ostrom [D02],17
+D1,D,Microeconomics,Household Behavior and Family Economics,2,2.0,1992,2015,"D10, D12",1992 Gary Becker [D10] | 2015 Angus Deaton [D12],11
+D2,D,Microeconomics,Production and Organizations,3,2.5,1978,2009,D23,1978 Herbert Simon [D23] | 1991 Ronald H. Coase [D23] | 2009 Oliver E. Williamson [D23],17
+D4,D,Microeconomics,"Market Structure, Pricing, and Design",1,1.0,2020,2020,D44,2020 Paul R. Milgrom; Robert B. Wilson [D44],6
+D5,D,Microeconomics,General Equilibrium and Disequilibrium,3,3.0,1972,1988,D51,1972 John R. Hicks; Kenneth J. Arrow [D51] | 1983 Gerard Debreu [D51] | 1988 Maurice Allais [D51],38
+D6,D,Microeconomics,Welfare Economics,1,1.0,1998,1998,D63,1998 Amartya Sen [D63],28
+D7,D,Microeconomics,Analysis of Collective Decision-Making,1,1.0,1986,1986,D72,1986 James M. Buchanan Jr. [D72],40
+D8,D,Microeconomics,"Information, Knowledge, and Uncertainty",4,4.0,1996,2016,"D82, D86",1996 James A. Mirrlees; William Vickrey [D82] | 2001 George A. Akerlof; A. Michael Spence; Joseph E. Stiglitz [D82] | 2007 Leonid Hurwicz; Eric S. Maskin; Roger B. Myerson [D82] | 2016 Oliver Hart; Bengt Holmström [D86],10
+D9,D,Microeconomics,Micro-Based Behavioral Economics,2,1.5,2002,2017,D91,2002 Daniel Kahneman [D91] | 2017 Richard H. Thaler [D91],9
+E0,E,Macroeconomics and Monetary Economics,General,1,1.0,1984,1984,E01,1984 Richard Stone [E01],42
+E1,E,Macroeconomics and Monetary Economics,General Aggregative Models,1,1.0,1995,1995,E13,1995 Robert E. Lucas Jr. [E13],31
+E2,E,Macroeconomics and Monetary Economics,"Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy",1,1.0,1985,1985,E21,1985 Franco Modigliani [E21],41
+E3,E,Macroeconomics and Monetary Economics,"Prices, Business Fluctuations, and Cycles",2,2.0,1974,2004,E32,1974 Gunnar Myrdal; Friedrich von Hayek [E32] | 2004 Finn E. Kydland; Edward C. Prescott [E32],22
+E4,E,Macroeconomics and Monetary Economics,Money and Interest Rates,1,1.0,1981,1981,E44,1981 James Tobin [E44],45
+E5,E,Macroeconomics and Monetary Economics,"Monetary Policy, Central Banking, and the Supply of Money and Credit",1,1.0,1976,1976,E52,1976 Milton Friedman [E52],50
+E6,E,Macroeconomics and Monetary Economics,"Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",1,1.0,2006,2006,E61,2006 Edmund S. Phelps [E61],20
+F1,F,International Economics,Trade,2,2.0,1977,2008,"F11, F12",1977 Bertil Ohlin; James E. Meade [F11] | 2008 Paul Krugman [F12],18
+F4,F,International Economics,Macroeconomic Aspects of International Trade and Finance,1,1.0,1999,1999,F41,1999 Robert Mundell [F41],27
+G1,G,Financial Economics,General Financial Markets,3,3.0,1990,2013,"G11, G12, G13",1990 Harry M. Markowitz; Merton H. Miller; William F. Sharpe [G11] | 1997 Robert C. Merton; Myron Scholes [G13] | 2013 Eugene F. Fama; Lars Peter Hansen; Robert J. Shiller [G12],13
+G2,G,Financial Economics,Financial Institutions and Services,1,1.0,2022,2022,G21,2022 Ben Bernanke; Douglas Diamond; Philip Dybvig [G21],4
+J1,J,Labor and Demographic Economics,Demographic Economics,1,1.0,2023,2023,J16,2023 Claudia Goldin [J16],3
+J3,J,Labor and Demographic Economics,"Wages, Compensation, and Labor Costs",1,0.5,2021,2021,J31,2021 David Card [J31],5
+J6,J,Labor and Demographic Economics,"Mobility, Unemployment, Vacancies, and Immigrant Workers",1,1.0,2010,2010,J64,2010 Peter A. Diamond; Dale T. Mortensen; Christopher A. Pissarides [J64],16
+L5,L,Industrial Organization,Regulation and Industrial Policy,2,2.0,1982,2014,L51,1982 George J. Stigler [L51] | 2014 Jean Tirole [L51],12
+N0,N,Economic History,General,1,1.0,1993,1993,N01,1993 Robert W. Fogel; Douglass C. North [N01],33
+N1,N,Economic History,Macroeconomics and Monetary Economics • Industrial Structure • Growth • Fluctuations,1,0.5,2025,2025,N13,2025 Joel Mokyr [N13],1
+O1,O,"Economic Development, Innovation, Technological Change, and Growth",Economic Development,2,2.0,1979,2019,"O10, O12",1979 Theodore W. Schultz; Sir Arthur Lewis [O10] | 2019 Abhijit Banerjee; Esther Duflo; Michael Kremer [O12],7
+O4,O,"Economic Development, Innovation, Technological Change, and Growth",Economic Growth and Aggregate Productivity,5,4.0,1971,2025,"O41, O43, O47",1971 Simon Kuznets [O47] | 1987 Robert M. Solow [O41] | 2018 Paul M. Romer [O41] | 2024 Daron Acemoglu; Simon Johnson; James A. Robinson [O43] | 2025 Philippe Aghion; Peter Howitt [O41],1
+Q5,Q,Agricultural and Natural Resource Economics • Environmental and Ecological Economics,Environmental Economics,1,0.5,2018,2018,Q54,2018 William D. Nordhaus [Q54],8

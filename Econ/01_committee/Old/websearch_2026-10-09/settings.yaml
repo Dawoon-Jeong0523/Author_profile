@@ -1,0 +1,24 @@
+# Step 1 (committee member profiles): call settings. Models and prices: ../config.yaml.
+research:                       # one call per member x model, web search and page reading on
+  max_output_tokens: 32000      # cap only (billed by use); thinking / reasoning tokens count against it
+  effort:                       # reasoning depth; null = provider default (nothing sent)
+    anthropic: high             # output_config.effort (claude-opus-5-5 default is medium)
+    openai: high                # reasoning.effort
+    gemini: high                # generationConfig.thinkingConfig.thinkingLevel (the Gemini 3 default)
+  search:                       # provider tools; see ../llm_providers.py
+    anthropic: {max_searches: 20, max_fetches: 12}      # web_search_20260209 + web_fetch_20260209 max_uses
+    openai: {max_tool_calls: 40}                         # web_search tool; cap on built-in tool calls per response
+    gemini: {url_context: true}                          # google_search (+ url_context to read pages)
+extract:                        # one call per member x model, the same model, no tools, JSON schema
+  max_output_tokens: 32000
+  json_retries: 1               # one retry on invalid JSON, then the cell is recorded as invalid
+  effort: {anthropic: null, openai: null, gemini: null}
+aggregate:                      # one call per member, no tools, JSON schema
+  provider: anthropic           # --aggregator overrides
+  max_output_tokens: 32000
+  json_retries: 1
+  effort: {anthropic: high, openai: null, gemini: null}
+estimate_assumptions:           # per call, used by `profiles.py estimate` until real calls are logged
+  research: {input: 60000, output: 12000, searches: 12}
+  extract: {input: 12000, output: 8000}
+  aggregate: {input: 25000, output: 10000}

@@ -1,0 +1,25 @@
+{
+  "type": "multiple_choice",
+  "title": "Which field of economics will the 2026 Sveriges Riksbank Prize in Economic Sciences recognize?",
+  "description": "The 2026 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel is scheduled to be announced on Monday 12 October 2026, 11:45 CEST at the earliest. The options are the 14 fields of economics of Dolton and Tol (2026), each defined as a group of JEL codes (in brackets) and illustrated by a few keywords. The field of the awarded contribution is read from the official motivation through its JEL code; exactly one option resolves.",
+  "resolution_criteria": "Resolves to the field that contains the primary JEL code of the contribution recognized by the official motivation of the 2026 prize (nobelprize.org). The primary code is the level-3 JEL code of the core of the recognized contribution, determined by the same procedure that coded the prizes of 1969-2025: three language models code the official motivation independently, and their consensus (JEL letter, then two-digit field, then code; a two-model majority, otherwise the highest score) is mapped to the fields by the code groups in the option labels. If the prize is divided between contributions in different fields, the overall motivation of the prize is coded when the announcement gives one; otherwise the contribution with the larger share counts; if the shares are equal, the contribution named first in the announcement counts. If the primary code is in no option (JEL A, B, Y, Z or a general code such as D0), the field named by the majority of the contribution's secondary codes counts; if no field can be assigned, the question is annulled.",
+  "fine_print": "Classification conventions: growth effects of institutions (O43) are Growth; mechanism design (D82) is Information; auction and matching design (D44, C78) is Games and market structure; household, health and education economics are Labour; urban and regional economics are Resources and environment; business economics (M) is Production and industrial organization; economywide country studies (O5) are Development and economic history. The keywords in the option labels are illustrative; the JEL code groups define the fields.",
+  "options": [
+    "Econometrics (JEL C0-C5, C8): econometric theory and methods, causal inference, time series, data and estimation methods",
+    "Equilibrium, Welfare (JEL C6, D5, D6): general equilibrium, welfare economics, social choice, mathematical and optimization methods",
+    "Games, Market Structure (JEL C7, D4): game theory, bargaining, matching, auctions and market design",
+    "Behavioural, Experimental (JEL C9, D9): behavioural economics, psychological and intertemporal decision making, laboratory and field experiments",
+    "Labour (JEL D1, D3, I, J): labour markets, household and family economics, income distribution, health and education economics",
+    "Production, Industrial Organization (JEL D2, L, M): theory of the firm, transaction costs and organizations, industrial organization and regulation, business economics",
+    "Public, Law, Political Economy (JEL D7, H, K, P): public economics and taxation, collective decision making and public choice, law and economics, political economy and economic systems",
+    "Information (JEL D8): asymmetric information, contract theory, mechanism design, decision making under uncertainty",
+    "Macro (JEL E): business cycles, money and monetary policy, consumption and saving, fiscal policy, national accounts",
+    "Trade (JEL F): international trade, international finance and open-economy macroeconomics, exchange rates",
+    "Finance (JEL G): asset pricing, corporate finance, banking and financial crises, financial markets",
+    "Development, Economic History (JEL N, O1, O2, O5): development economics, poverty, economic history, economywide country studies",
+    "Growth (JEL O3, O4): economic growth, innovation and technological change, productivity, institutions and growth",
+    "Resources, Environment (JEL Q, R): environmental and climate economics, natural resources and energy, agriculture, urban and regional economics"
+  ],
+  "options_are_mutually_exclusive": true,
+  "options_are_comprehensive": true
+}
