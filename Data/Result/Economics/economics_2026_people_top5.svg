@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="817.2pt" viewBox="0 0 1008 817.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-10T15:38:15.848518</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 817.2 
+L 1008 817.2 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 519.12 673.2 
+L 927.36 673.2 
+L 927.36 172.8 
+L 519.12 172.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 519.12 673.2 
+L 519.12 172.8 
+" clip-path="url(#p3cda14edb8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="519.12" y="690.558281" transform="rotate(-0 519.12 690.558281)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 621.18 673.2 
+L 621.18 172.8 
+" clip-path="url(#p3cda14edb8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="621.18" y="690.558281" transform="rotate(-0 621.18 690.558281)">5%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 723.24 673.2 
+L 723.24 172.8 
+" clip-path="url(#p3cda14edb8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="723.24" y="690.558281" transform="rotate(-0 723.24 690.558281)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 825.3 673.2 
+L 825.3 172.8 
+" clip-path="url(#p3cda14edb8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="825.3" y="690.558281" transform="rotate(-0 825.3 690.558281)">15%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 927.36 673.2 
+L 927.36 172.8 
+" clip-path="url(#p3cda14edb8)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="927.36" y="690.558281" transform="rotate(-0 927.36 690.558281)">20%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="210.609771" transform="rotate(-0 65.9736 210.609771)">01  Berry · Levinsohn · Pakes</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="231.262232" transform="rotate(-0 65.9736 231.262232)">Structural demand and market-power estimation · Production/IO</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 523.44 192.396084 
+L 855.177924 192.396084 
+Q 859.497924 192.396084 859.497924 196.716084 
+L 859.497924 209.071888 
+Q 859.497924 213.391888 855.177924 213.391888 
+L 523.44 213.391888 
+Q 519.12 213.391888 519.12 209.071888 
+L 519.12 196.716084 
+Q 519.12 192.396084 523.44 192.396084 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 519.12 192.396084 
+L 523.44 192.396084 
+L 523.44 213.391888 
+L 519.12 213.391888 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 523.44 216.191329 
+L 874.15326 216.191329 
+Q 878.47326 216.191329 878.47326 220.511329 
+L 878.47326 232.867133 
+Q 878.47326 237.187133 874.15326 237.187133 
+L 523.44 237.187133 
+Q 519.12 237.187133 519.12 232.867133 
+L 519.12 220.511329 
+Q 519.12 216.191329 523.44 216.191329 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 519.12 216.191329 
+L 523.44 216.191329 
+L 523.44 237.187133 
+L 519.12 237.187133 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="865.329924" y="207.033049" transform="rotate(-0 865.329924 207.033049)">16.7%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="884.30526" y="230.276418" transform="rotate(-0 884.30526 230.276418)">17.6%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="280.656332" transform="rotate(-0 65.9736 280.656332)">02  Woodford · Galí · Gertler</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="301.248246" transform="rotate(-0 65.9736 301.248246)">New Keynesian monetary economics · Macro</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 523.44 262.382098 
+L 772.552272 262.382098 
+Q 776.872272 262.382098 776.872272 266.702098 
+L 776.872272 279.057902 
+Q 776.872272 283.377902 772.552272 283.377902 
+L 523.44 283.377902 
+Q 519.12 283.377902 519.12 279.057902 
+L 519.12 266.702098 
+Q 519.12 262.382098 523.44 262.382098 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 519.12 262.382098 
+L 523.44 262.382098 
+L 523.44 283.377902 
+L 519.12 283.377902 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 523.44 286.177343 
+L 867.033554 286.177343 
+Q 871.353554 286.177343 871.353554 290.497343 
+L 871.353554 302.853147 
+Q 871.353554 307.173147 867.033554 307.173147 
+L 523.44 307.173147 
+Q 519.12 307.173147 519.12 302.853147 
+L 519.12 290.497343 
+Q 519.12 286.177343 523.44 286.177343 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 519.12 286.177343 
+L 523.44 286.177343 
+L 523.44 307.173147 
+L 519.12 307.173147 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="782.704272" y="277.019062" transform="rotate(-0 782.704272 277.019062)">12.6%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="877.185554" y="300.262432" transform="rotate(-0 877.185554 300.262432)">17.3%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="350.642346" transform="rotate(-0 65.9736 350.642346)">03  Melitz · Bernard · Helpman</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="371.23426" transform="rotate(-0 65.9736 371.23426)">Firm heterogeneity in international trade · Trade</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 523.44 332.368112 
+L 679.302185 332.368112 
+Q 683.622185 332.368112 683.622185 336.688112 
+L 683.622185 349.043916 
+Q 683.622185 353.363916 679.302185 353.363916 
+L 523.44 353.363916 
+Q 519.12 353.363916 519.12 349.043916 
+L 519.12 336.688112 
+Q 519.12 332.368112 523.44 332.368112 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 519.12 332.368112 
+L 523.44 332.368112 
+L 523.44 353.363916 
+L 519.12 353.363916 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 523.44 356.163357 
+L 692.884494 356.163357 
+Q 697.204494 356.163357 697.204494 360.483357 
+L 697.204494 372.839161 
+Q 697.204494 377.159161 692.884494 377.159161 
+L 523.44 377.159161 
+Q 519.12 377.159161 519.12 372.839161 
+L 519.12 360.483357 
+Q 519.12 356.163357 523.44 356.163357 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 519.12 356.163357 
+L 523.44 356.163357 
+L 523.44 377.159161 
+L 519.12 377.159161 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="689.454185" y="347.005076" transform="rotate(-0 689.454185 347.005076)">8.1%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="703.036494" y="370.248446" transform="rotate(-0 703.036494 370.248446)">8.7%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="420.62836" transform="rotate(-0 65.9736 420.62836)">04  Dasgupta · Heal</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="441.220274" transform="rotate(-0 65.9736 441.220274)">Sustainability, natural capital, wealth accounting · Equilibrium</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 523.44 402.354126 
+L 642.591239 402.354126 
+Q 646.911239 402.354126 646.911239 406.674126 
+L 646.911239 419.02993 
+Q 646.911239 423.34993 642.591239 423.34993 
+L 523.44 423.34993 
+Q 519.12 423.34993 519.12 419.02993 
+L 519.12 406.674126 
+Q 519.12 402.354126 523.44 402.354126 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 519.12 402.354126 
+L 523.44 402.354126 
+L 523.44 423.34993 
+L 519.12 423.34993 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 523.44 426.149371 
+L 607.648064 426.149371 
+Q 611.968064 426.149371 611.968064 430.469371 
+L 611.968064 442.825175 
+Q 611.968064 447.145175 607.648064 447.145175 
+L 523.44 447.145175 
+Q 519.12 447.145175 519.12 442.825175 
+L 519.12 430.469371 
+Q 519.12 426.149371 523.44 426.149371 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 519.12 426.149371 
+L 523.44 426.149371 
+L 523.44 447.145175 
+L 519.12 447.145175 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="652.743239" y="416.99109" transform="rotate(-0 652.743239 416.99109)">6.3%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="617.800064" y="440.23446" transform="rotate(-0 617.800064 440.23446)">4.5%</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="490.614374" transform="rotate(-0 65.9736 490.614374)">05  Kiyotaki · Moore</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="511.206288" transform="rotate(-0 65.9736 511.206288)">Credit constraints and collateral in fluctuations · Macro</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 523.44 472.34014 
+L 623.444803 472.34014 
+Q 627.764803 472.34014 627.764803 476.66014 
+L 627.764803 489.015944 
+Q 627.764803 493.335944 623.444803 493.335944 
+L 523.44 493.335944 
+Q 519.12 493.335944 519.12 489.015944 
+L 519.12 476.66014 
+Q 519.12 472.34014 523.44 472.34014 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 519.12 472.34014 
+L 523.44 472.34014 
+L 523.44 493.335944 
+L 519.12 493.335944 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 523.44 496.135385 
+L 616.006778 496.135385 
+Q 620.326778 496.135385 620.326778 500.455385 
+L 620.326778 512.811189 
+Q 620.326778 517.131189 616.006778 517.131189 
+L 523.44 517.131189 
+Q 519.12 517.131189 519.12 512.811189 
+L 519.12 500.455385 
+Q 519.12 496.135385 523.44 496.135385 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 519.12 496.135385 
+L 523.44 496.135385 
+L 523.44 517.131189 
+L 519.12 517.131189 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="633.596803" y="486.977104" transform="rotate(-0 633.596803 486.977104)">5.3%</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="626.158778" y="510.220474" transform="rotate(-0 626.158778 510.220474)">5.0%</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="566.189253" transform="rotate(-0 65.9736 566.189253)">···</text>
+   </g>
+   <g id="text_27">
+    <text style="font-style: italic; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="98.6328" y="564.395659" transform="rotate(-0 98.6328 564.395659)">the control's own top five, outside the treatment's top five</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="630.586402" transform="rotate(-0 65.9736 630.586402)">06  Obstfeld · Rogoff</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="651.178316" transform="rotate(-0 65.9736 651.178316)">New open-economy macroeconomics · Trade · control #4</text>
+   </g>
+   <g id="patch_23">
+    <path d="M 523.44 612.312168 
+L 594.188312 612.312168 
+Q 598.508312 612.312168 598.508312 616.632168 
+L 598.508312 628.987972 
+Q 598.508312 633.307972 594.188312 633.307972 
+L 523.44 633.307972 
+Q 519.12 633.307972 519.12 628.987972 
+L 519.12 616.632168 
+Q 519.12 612.312168 523.44 612.312168 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 519.12 612.312168 
+L 523.44 612.312168 
+L 523.44 633.307972 
+L 519.12 633.307972 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 523.44 636.107413 
+L 616.637509 636.107413 
+Q 620.957509 636.107413 620.957509 640.427413 
+L 620.957509 652.783217 
+Q 620.957509 657.103217 616.637509 657.103217 
+L 523.44 657.103217 
+Q 519.12 657.103217 519.12 652.783217 
+L 519.12 640.427413 
+Q 519.12 636.107413 523.44 636.107413 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 519.12 636.107413 
+L 523.44 636.107413 
+L 523.44 657.103217 
+L 519.12 657.103217 
+z
+" clip-path="url(#p3cda14edb8)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="604.340312" y="626.949132" transform="rotate(-0 604.340312 626.949132)">3.9%</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="626.789509" y="650.192502" transform="rotate(-0 626.789509 650.192502)">5.0%</text>
+   </g>
+  </g>
+  <g id="text_32">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="65.52" y="33.598125" transform="rotate(-0 65.52 33.598125)">KNOWLEDGE LAB + PRESEEN</text>
+  </g>
+  <g id="text_33">
+   <text style="font-weight: 700; font-size: 25px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.52" y="70.836094" transform="rotate(-0 65.52 70.836094)">2026 Nobel Prize in Economic Sciences</text>
+  </g>
+  <g id="text_34">
+   <text style="font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.52" y="102.417891" transform="rotate(-0 65.52 102.417891)">Who: top 5 of 30 candidates from the five leading fields, treatment against control</text>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #172f40" transform="translate(65.52 735.018492)">Treatment: 14 context notes (field forecast, age record, awarded prizes, candidates with defining works, the virtual committee's support and</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #172f40" transform="translate(65.52 746.776195)">reasoning), all as assumed true. Control: the same question with no context.</text>
+  </g>
+  <g id="text_36">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556773" transform="translate(65.52 774.618492)">Preseen, 10 Oct 2026, one run per arm. 30 candidates nominated by a virtual committee (personas of the 2026 committee members on three language</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556773" transform="translate(65.52 786.376195)">models) in the five leading fields of the field forecast; conditional on one of them, no "Other".</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_27">
+    <path d="M 529.92 144.6 
+L 546.72 144.6 
+L 546.72 134.64 
+L 529.92 134.64 
+z
+" style="fill: #00876f"/>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="556.32" y="143.76" transform="rotate(-0 556.32 143.76)">Treatment (context notes)</text>
+   </g>
+   <g id="patch_28">
+    <path d="M 739.275 144.6 
+L 756.075 144.6 
+L 756.075 134.64 
+L 739.275 134.64 
+z
+" style="fill: #6250d6"/>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="765.675" y="143.76" transform="rotate(-0 765.675 143.76)">Control (no context)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3cda14edb8">
+   <rect x="519.12" y="172.8" width="408.24" height="500.4"/>
+  </clipPath>
+ </defs>
+</svg>

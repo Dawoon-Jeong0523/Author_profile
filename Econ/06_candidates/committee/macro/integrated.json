@@ -1,0 +1,2427 @@
+{
+ "field": "Macro",
+ "slug": "macro",
+ "generated": "2026-10-10T19:29:38+00:00",
+ "integrator": "claude-opus-5-5",
+ "stamp": "92dd81d92da52bfe",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 11,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "n_nominations": 165,
+ "n_candidates": 26,
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models (max 15)",
+ "warnings": [],
+ "call": {
+  "attempts": 1,
+  "usd": 0.5045,
+  "usage": [
+   {
+    "input": 50897,
+    "output": 15045,
+    "reasoning": 4855,
+    "cached_input": 0
+   }
+  ]
+ },
+ "candidates": [
+  {
+   "rank": 1,
+   "motivation": "for developing the New Keynesian framework of nominal rigidities and welfare-based monetary policy analysis",
+   "jel_code": "E52",
+   "jel_code_mode": "E52",
+   "score": 12.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 4.9091,
+    "gpt-5.5-2026-04-23": 5.0,
+    "gemini-3.1-pro-preview": 2.1818
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 31,
+   "nominations_per_model": {
+    "A": 11,
+    "O": 11,
+    "G": 9
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, O)",
+    "John Hassler (A, G, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (A, G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Michael Woodford",
+     "born": 1955,
+     "affiliation": "Columbia University",
+     "n_nominations": 29,
+     "models": "A O G",
+     "weight": 11.9091
+    },
+    {
+     "name": "Jordi Galí",
+     "born": 1961,
+     "affiliation": "CREI and Universitat Pompeu Fabra",
+     "n_nominations": 22,
+     "models": "A O G",
+     "weight": 9.1818
+    },
+    {
+     "name": "Mark Gertler",
+     "born": 1951,
+     "affiliation": "New York University",
+     "n_nominations": 14,
+     "models": "A O G",
+     "weight": 5.6364
+    }
+   ],
+   "people_others": [
+    {
+     "name": "John B. Taylor",
+     "affiliation": "Stanford University",
+     "born": 1946,
+     "weight": 2.2727,
+     "n_nominations": 5
+    },
+    {
+     "name": "Guillermo A. Calvo",
+     "affiliation": "Columbia University",
+     "born": 1941,
+     "weight": 1.8182,
+     "n_nominations": 4
+    },
+    {
+     "name": "Julio J. Rotemberg",
+     "affiliation": "Harvard Business School",
+     "born": 1953,
+     "weight": 0.9091,
+     "n_nominations": 2
+    },
+    {
+     "name": "Olivier Blanchard",
+     "affiliation": "Peterson Institute for International Economics",
+     "born": 1948,
+     "weight": 0.3636,
+     "n_nominations": 1
+    },
+    {
+     "name": "Nobuhiro Kiyotaki",
+     "affiliation": "Princeton University",
+     "born": 1955,
+     "weight": 0.2727,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Woodford, 2003: Interest and Prices, Princeton University Press",
+     "people": [
+      "Michael Woodford"
+     ],
+     "n_nominations": 13,
+     "models": "A G",
+     "in_nominations": true
+    },
+    {
+     "work": "Clarida, Galí and Gertler, 1999: The Science of Monetary Policy: A New Keynesian Perspective, Journal of Economic Literature",
+     "people": [
+      "Jordi Galí",
+      "Mark Gertler"
+     ],
+     "n_nominations": 14,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Galí and Gertler, 1999: Inflation Dynamics: A Structural Econometric Analysis, Journal of Monetary Economics",
+     "people": [
+      "Jordi Galí",
+      "Mark Gertler"
+     ],
+     "n_nominations": 7,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Galí, 2008: Monetary Policy, Inflation, and the Business Cycle, Princeton University Press",
+     "people": [
+      "Jordi Galí"
+     ],
+     "n_nominations": 8,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nominators see this as the workhorse framework of central banks, linking optimizing price setting, expectations and welfare-based interest-rate rules. It changed both research and policy practice. Reservations concern diffuse attribution (Clarida, Rotemberg, Calvo, Taylor) and the weak empirical fit of the Phillips curve and representative-agent core.",
+   "grouping_note": "Joins Woodford-centred NK nominations with rival third names (Gertler most often; Taylor, Calvo, Rotemberg or Blanchard elsewhere), the Galí-Gertler inflation-dynamics nominations, and n148, which pairs Woodford with Kiyotaki's credit-cycle work that is a separate candidate.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#1",
+    "anthropic/tommy-andersson/#1",
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/per-stromberg/#2",
+    "anthropic/timo-boppart/#1",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/richard-friberg/#1",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/jan-teorell/#1",
+    "anthropic/per-krusell/#1",
+    "openai/john-hassler/#1",
+    "openai/tommy-andersson/#1",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/peter-fredriksson/#1",
+    "openai/per-stromberg/#1",
+    "openai/timo-boppart/#1",
+    "openai/kerstin-enflo/#1",
+    "openai/richard-friberg/#1",
+    "openai/randi-hjalmarsson/#1",
+    "openai/jan-teorell/#1",
+    "openai/per-krusell/#1",
+    "gemini/john-hassler/#2",
+    "gemini/tommy-andersson/#3",
+    "gemini/anna-dreber-almenberg/#5",
+    "gemini/per-stromberg/#3",
+    "gemini/timo-boppart/#3",
+    "gemini/timo-boppart/#5",
+    "gemini/richard-friberg/#3",
+    "gemini/randi-hjalmarsson/#4",
+    "gemini/per-krusell/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "motivation": "for showing how credit constraints and collateral amplify and propagate macroeconomic fluctuations",
+   "jel_code": "E44",
+   "jel_code_mode": "E44",
+   "score": 8.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 3.3636,
+    "gpt-5.5-2026-04-23": 2.2727,
+    "gemini-3.1-pro-preview": 2.8182
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 26,
+   "nominations_per_model": {
+    "A": 10,
+    "O": 7,
+    "G": 9
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (A, G)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G)",
+    "Randi Hjalmarsson (G, O)",
+    "Richard Friberg (A)",
+    "Timo Boppart (A, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Nobuhiro Kiyotaki",
+     "born": 1955,
+     "affiliation": "Princeton University",
+     "n_nominations": 26,
+     "models": "A O G",
+     "weight": 8.4545
+    },
+    {
+     "name": "John Moore",
+     "born": 1954,
+     "affiliation": "University of Edinburgh and London School of Economics",
+     "n_nominations": 26,
+     "models": "A O G",
+     "weight": 8.4545
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Mark Gertler",
+     "affiliation": "New York University",
+     "born": 1951,
+     "weight": 1.1818,
+     "n_nominations": 3
+    },
+    {
+     "name": "Olivier J. Blanchard",
+     "affiliation": "Peterson Institute for International Economics and Massachusetts Institute of Technology",
+     "born": 1948,
+     "weight": 0.3636,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Kiyotaki and Moore, 1997: Credit Cycles, Journal of Political Economy",
+     "people": [
+      "Nobuhiro Kiyotaki",
+      "John Moore"
+     ],
+     "n_nominations": 25,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Kiyotaki and Moore, 2002: Balance-Sheet Contagion, American Economic Review Papers and Proceedings",
+     "people": [
+      "Nobuhiro Kiyotaki",
+      "John Moore"
+     ],
+     "n_nominations": 4,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "A clean general-equilibrium mechanism in which asset prices and borrowing capacity feed back on each other became the core of post-2008 macro-finance models. It is widely seen as deep, general and tractable. Reservations are overlap with the 2022 Bernanke prize, debated quantitative size of amplification, and boundary with Finance.",
+   "grouping_note": "Kiyotaki-Moore nominations joined with variants adding Mark Gertler (n021, n077, n107) or Olivier Blanchard (n102); these third names were left out of the lineup as minority choices.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#2",
+    "anthropic/tommy-andersson/#2",
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/per-stromberg/#1",
+    "anthropic/timo-boppart/#4",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/richard-friberg/#3",
+    "anthropic/jan-teorell/#2",
+    "anthropic/per-krusell/#2",
+    "openai/tommy-andersson/#2",
+    "openai/per-stromberg/#2",
+    "openai/timo-boppart/#2",
+    "openai/kerstin-enflo/#3",
+    "openai/randi-hjalmarsson/#4",
+    "openai/jan-teorell/#2",
+    "openai/per-krusell/#2",
+    "gemini/john-hassler/#3",
+    "gemini/tommy-andersson/#1",
+    "gemini/anna-dreber-almenberg/#4",
+    "gemini/peter-fredriksson/#4",
+    "gemini/per-stromberg/#1",
+    "gemini/kerstin-enflo/#4",
+    "gemini/randi-hjalmarsson/#1",
+    "gemini/jan-teorell/#4",
+    "gemini/per-krusell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "motivation": "for the development of heterogeneous-agent incomplete-markets macroeconomics and methods for solving it with aggregate shocks",
+   "jel_code": "E21",
+   "jel_code_mode": "E21",
+   "score": 4.8182,
+   "points_per_model": {
+    "claude-opus-5-5": 0.4545,
+    "gpt-5.5-2026-04-23": 2.9091,
+    "gemini-3.1-pro-preview": 1.4545
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 10,
+   "n_nominations": 16,
+   "nominations_per_model": {
+    "A": 2,
+    "O": 10,
+    "G": 4
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Jan Teorell (O)",
+    "John Hassler (A, G, O)",
+    "Per Krusell (O)",
+    "Per Strömberg (O)",
+    "Peter Fredriksson (G, O)",
+    "Randi Hjalmarsson (O)",
+    "Richard Friberg (G, O)",
+    "Timo Boppart (A, G, O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Mark Huggett",
+     "born": 1959,
+     "affiliation": "Georgetown University",
+     "n_nominations": 11,
+     "models": "A O",
+     "weight": 3.0
+    },
+    {
+     "name": "Anthony A. Smith Jr.",
+     "born": 1962,
+     "affiliation": "Yale University",
+     "n_nominations": 9,
+     "models": "A O G",
+     "weight": 2.7273
+    },
+    {
+     "name": "Truman Bewley",
+     "born": 1941,
+     "affiliation": "Yale University",
+     "n_nominations": 5,
+     "models": "A O",
+     "weight": 1.4545
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Per Krusell",
+     "affiliation": "Stockholm University",
+     "born": 1959,
+     "weight": 4.4545,
+     "n_nominations": 14
+    },
+    {
+     "name": "Christopher D. Carroll",
+     "affiliation": "Johns Hopkins University",
+     "born": 1958,
+     "weight": 0.3636,
+     "n_nominations": 1
+    },
+    {
+     "name": "Ayşe İmrohoroğlu",
+     "affiliation": "University of Southern California",
+     "born": null,
+     "weight": 0.2727,
+     "n_nominations": 1
+    },
+    {
+     "name": "José-Víctor Ríos-Rull",
+     "affiliation": "University of Pennsylvania",
+     "born": 1958,
+     "weight": 0.2727,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Krusell and Smith, 1998: Income and Wealth Heterogeneity in the Macroeconomy, Journal of Political Economy",
+     "people": [
+      "Anthony A. Smith Jr."
+     ],
+     "n_nominations": 14,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Huggett, 1993: The Risk-Free Rate in Heterogeneous-Agent Incomplete-Insurance Economies, Journal of Economic Dynamics and Control",
+     "people": [
+      "Mark Huggett"
+     ],
+     "n_nominations": 11,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Bewley, 1986: Stationary Monetary Equilibrium with a Continuum of Independently Fluctuating Consumers, in Contributions to Mathematical Economics",
+     "people": [
+      "Truman Bewley"
+     ],
+     "n_nominations": 5,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "These models put uninsured idiosyncratic risk, wealth distributions and aggregate shocks into equilibrium, and the Krusell-Smith method made them quantitatively tractable; they are now standard for distributional policy analysis. The main reservation is attribution, since Aiyagari, a decisive contributor, is deceased.",
+   "grouping_note": "Joins Bewley/Huggett/Krusell-Smith nominations with variants naming Carroll (n067), Ríos-Rull and İmrohoroğlu (n108); Per Krusell, named in most nominations, is a serving committee member and is excluded from the lineup.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#5",
+    "anthropic/timo-boppart/#2",
+    "openai/john-hassler/#2",
+    "openai/tommy-andersson/#3",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/peter-fredriksson/#3",
+    "openai/per-stromberg/#3",
+    "openai/timo-boppart/#3",
+    "openai/richard-friberg/#2",
+    "openai/randi-hjalmarsson/#2",
+    "openai/jan-teorell/#5",
+    "openai/per-krusell/#3",
+    "gemini/john-hassler/#1",
+    "gemini/peter-fredriksson/#2",
+    "gemini/timo-boppart/#1",
+    "gemini/richard-friberg/#4"
+   ],
+   "flags": [
+    "Truman Bewley: born 1941 (age 85 in 2026)",
+    "named in the nominations but cannot be awarded: Per Krusell (member of the 2026 committee; cannot be awarded while serving)"
+   ]
+  },
+  {
+   "rank": 4,
+   "motivation": "for the formulation and analysis of rules for monetary policy and of staggered contracts",
+   "jel_code": "E52",
+   "jel_code_mode": "E52",
+   "score": 3.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 1.7273,
+    "gpt-5.5-2026-04-23": 1.0909,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 10,
+   "n_nominations": 16,
+   "nominations_per_model": {
+    "A": 7,
+    "O": 6,
+    "G": 3
+   },
+   "supporters": [
+    "Jan Teorell (A, G, O)",
+    "John Hassler (O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A)",
+    "Per Strömberg (A)",
+    "Peter Fredriksson (A, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "John B. Taylor",
+     "born": 1946,
+     "affiliation": "Stanford University",
+     "n_nominations": 16,
+     "models": "A O G",
+     "weight": 3.1818
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Guillermo Calvo",
+     "affiliation": "Columbia University",
+     "born": 1941,
+     "weight": 0.1818,
+     "n_nominations": 1
+    },
+    {
+     "name": "Lars E. O. Svensson",
+     "affiliation": "Stockholm School of Economics",
+     "born": 1947,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Taylor, 1993: Discretion versus Policy Rules in Practice, Carnegie-Rochester Conference Series on Public Policy",
+     "people": [
+      "John B. Taylor"
+     ],
+     "n_nominations": 16,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Taylor, 1980: Aggregate Dynamics and Staggered Contracts, Journal of Political Economy",
+     "people": [
+      "John B. Taylor"
+     ],
+     "n_nominations": 9,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Taylor, 1999: A Historical Analysis of Monetary Policy Rules, in Monetary Policy Rules, University of Chicago Press",
+     "people": [
+      "John B. Taylor"
+     ],
+     "n_nominations": 5,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The Taylor rule is a rare case of research that directly reshaped how central banks describe and evaluate policy, and staggered contracts helped found nominal-rigidity models. It provides a transparent benchmark comparable across time and countries. Reservations are that it is a policy summary rather than a full structural theory and that it overlaps with the New Keynesian candidate and the 2004 prize.",
+   "grouping_note": "Taylor-only nominations joined with n039 (adding Calvo) and n075 (adding Svensson on inflation targeting), whose co-nominees appear only once; several nominators note it is an alternative to the New Keynesian candidate.",
+   "nomination_ids": [
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/per-stromberg/#3",
+    "anthropic/kerstin-enflo/#3",
+    "anthropic/richard-friberg/#4",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/jan-teorell/#3",
+    "anthropic/per-krusell/#4",
+    "openai/john-hassler/#4",
+    "openai/peter-fredriksson/#5",
+    "openai/timo-boppart/#5",
+    "openai/kerstin-enflo/#2",
+    "openai/randi-hjalmarsson/#5",
+    "openai/jan-teorell/#3",
+    "gemini/tommy-andersson/#4",
+    "gemini/randi-hjalmarsson/#5",
+    "gemini/jan-teorell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "motivation": "for the narrative identification of the macroeconomic effects of monetary and fiscal policy",
+   "jel_code": "E62",
+   "jel_code_mode": "E62",
+   "score": 2.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.7273,
+    "gpt-5.5-2026-04-23": 1.0,
+    "gemini-3.1-pro-preview": 0.6364
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 6,
+   "n_nominations": 10,
+   "nominations_per_model": {
+    "A": 2,
+    "O": 5,
+    "G": 3
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Kerstin Enflo (G, O)",
+    "Per Krusell (G)",
+    "Per Strömberg (O)",
+    "Peter Fredriksson (G, O)",
+    "Randi Hjalmarsson (A, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Christina D. Romer",
+     "born": 1958,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 6,
+     "models": "A O",
+     "weight": 1.6364
+    },
+    {
+     "name": "David H. Romer",
+     "born": 1958,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 6,
+     "models": "A O",
+     "weight": 1.6364
+    },
+    {
+     "name": "Valerie A. Ramey",
+     "born": 1959,
+     "affiliation": "University of California, San Diego",
+     "n_nominations": 8,
+     "models": "A O G",
+     "weight": 1.7273
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Alan J. Auerbach",
+     "affiliation": "University of California, Berkeley",
+     "born": 1951,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Romer and Romer, 2004: A New Measure of Monetary Shocks: Derivation and Implications, American Economic Review",
+     "people": [
+      "Christina D. Romer",
+      "David H. Romer"
+     ],
+     "n_nominations": 5,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Romer and Romer, 2010: The Macroeconomic Effects of Tax Changes: Estimates Based on a New Measure of Fiscal Shocks, American Economic Review",
+     "people": [
+      "Christina D. Romer",
+      "David H. Romer"
+     ],
+     "n_nominations": 5,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Ramey, 2011: Identifying Government Spending Shocks: It's All in the Timing, Quarterly Journal of Economics",
+     "people": [
+      "Valerie A. Ramey"
+     ],
+     "n_nominations": 8,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Romer and Romer, 1989: Does Monetary Policy Matter? A New Test in the Spirit of Friedman and Schwartz, NBER Macroeconomics Annual",
+     "people": [
+      "Christina D. Romer",
+      "David H. Romer"
+     ],
+     "n_nominations": 4,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They built transparent, documented shock series from archival records and timing information, bringing credible design-based identification into macro policy evaluation. The series are open to replication and re-examination. Reservations are whether narrative shocks are truly exogenous and that multiplier estimates remain sensitive to specification.",
+   "grouping_note": "Joins Romer-Romer, Romer-Romer-Ramey and Ramey-only nominations with n090, which pairs Ramey with Alan J. Auerbach (left out) on fiscal multipliers.",
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/randi-hjalmarsson/#2",
+    "openai/anna-dreber-almenberg/#3",
+    "openai/peter-fredriksson/#4",
+    "openai/per-stromberg/#4",
+    "openai/kerstin-enflo/#5",
+    "openai/randi-hjalmarsson/#3",
+    "gemini/peter-fredriksson/#3",
+    "gemini/kerstin-enflo/#3",
+    "gemini/per-krusell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "motivation": "for the intertemporal analysis of consumption under rational expectations and of labor-market fluctuations",
+   "jel_code": "E21",
+   "jel_code_mode": "E21",
+   "score": 2.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 1.2727,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 1.0
+   },
+   "models": "A G",
+   "n_models": 2,
+   "n_members": 10,
+   "n_nominations": 14,
+   "nominations_per_model": {
+    "A": 10,
+    "O": 0,
+    "G": 4
+   },
+   "supporters": [
+    "Jan Teorell (A)",
+    "John Hassler (A)",
+    "Kerstin Enflo (A)",
+    "Per Krusell (A, G)",
+    "Per Strömberg (A, G)",
+    "Peter Fredriksson (A)",
+    "Randi Hjalmarsson (A, G)",
+    "Richard Friberg (A)",
+    "Timo Boppart (A, G)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Robert E. Hall",
+     "born": 1943,
+     "affiliation": "Stanford University",
+     "n_nominations": 14,
+     "models": "A G",
+     "weight": 2.2727
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Robert J. Barro",
+     "affiliation": "Harvard University",
+     "born": 1944,
+     "weight": 0.2727,
+     "n_nominations": 2
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Hall, 1978: Stochastic Implications of the Life Cycle-Permanent Income Hypothesis, Journal of Political Economy",
+     "people": [
+      "Robert E. Hall"
+     ],
+     "n_nominations": 14,
+     "models": "A G",
+     "in_nominations": true
+    },
+    {
+     "work": "Hall, 2005: Employment Fluctuations with Equilibrium Wage Stickiness, American Economic Review",
+     "people": [
+      "Robert E. Hall"
+     ],
+     "n_nominations": 8,
+     "models": "A G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The Euler-equation random-walk result turned consumption theory into a testable dynamic restriction and founded modern empirical consumption research. Hall's later work on wage stickiness sharpened the unemployment-volatility debate. Reservations are closeness to the Friedman and Modigliani prizes and a contribution spread across topics.",
+   "grouping_note": "Includes n009 and n040, which pair Hall with Barro's debt work (a separate candidate); Barro is left out of this lineup.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#4",
+    "anthropic/tommy-andersson/#4",
+    "anthropic/peter-fredriksson/#5",
+    "anthropic/per-stromberg/#5",
+    "anthropic/timo-boppart/#5",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/richard-friberg/#5",
+    "anthropic/randi-hjalmarsson/#5",
+    "anthropic/jan-teorell/#5",
+    "anthropic/per-krusell/#3",
+    "gemini/per-stromberg/#5",
+    "gemini/timo-boppart/#2",
+    "gemini/randi-hjalmarsson/#3",
+    "gemini/per-krusell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "motivation": "for the analysis of public debt, Ricardian equivalence and tax smoothing in intertemporal macroeconomics",
+   "jel_code": "E62",
+   "jel_code_mode": "E62",
+   "score": 1.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 1.2727,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 6,
+   "n_nominations": 8,
+   "nominations_per_model": {
+    "A": 6,
+    "O": 1,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, G)",
+    "John Hassler (A)",
+    "Per Strömberg (A)",
+    "Peter Fredriksson (A)",
+    "Timo Boppart (A)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Robert J. Barro",
+     "born": 1944,
+     "affiliation": "Harvard University",
+     "n_nominations": 8,
+     "models": "A O G",
+     "weight": 1.7273
+    }
+   ],
+   "people_others": [
+    {
+     "name": "David B. Gordon",
+     "affiliation": "Clemson University",
+     "born": null,
+     "weight": 0.2727,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Barro, 1974: Are Government Bonds Net Wealth?, Journal of Political Economy",
+     "people": [
+      "Robert J. Barro"
+     ],
+     "n_nominations": 8,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Barro, 1979: On the Determination of the Public Debt, Journal of Political Economy",
+     "people": [
+      "Robert J. Barro"
+     ],
+     "n_nominations": 4,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Barro and Gordon, 1983: Rules, Discretion and Reputation in a Model of Monetary Policy, Journal of Monetary Economics",
+     "people": [
+      "Robert J. Barro"
+     ],
+     "n_nominations": 2,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Barro brought intertemporal optimization to fiscal policy and set the benchmark against which deficits and debt management are analysed, with tax smoothing a clean general result. Some nominations add his work on monetary credibility. Reservations are that strict Ricardian equivalence is rejected empirically and the credibility work overlaps the 2004 prize.",
+   "grouping_note": "Debt-neutrality nominations joined with variants adding Barro-Gordon credibility (David B. Gordon named once in n028, left out) and democracy-and-growth (n157).",
+   "nomination_ids": [
+    "anthropic/john-hassler/#3",
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/per-stromberg/#4",
+    "anthropic/timo-boppart/#3",
+    "anthropic/jan-teorell/#4",
+    "openai/anna-dreber-almenberg/#5",
+    "gemini/jan-teorell/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "motivation": "for establishing the microeconomic evidence on price setting and its implications for monetary non-neutrality",
+   "jel_code": "E31",
+   "jel_code_mode": "E31",
+   "score": 1.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3636,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 0.9091
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 2,
+   "n_nominations": 5,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 2,
+    "G": 2
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G, O)",
+    "Richard Friberg (A, G, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Emi Nakamura",
+     "born": 1980,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 5,
+     "models": "A O G",
+     "weight": 1.7273
+    },
+    {
+     "name": "Jón Steinsson",
+     "born": 1976,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 4,
+     "models": "O G",
+     "weight": 1.3636
+    },
+    {
+     "name": "Peter J. Klenow",
+     "born": 1963,
+     "affiliation": "Stanford University",
+     "n_nominations": 2,
+     "models": "A O",
+     "weight": 0.6364
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Mark Bils",
+     "affiliation": "University of Rochester",
+     "born": 1958,
+     "weight": 0.5455,
+     "n_nominations": 2
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Nakamura and Steinsson, 2008: Five Facts about Prices: A Reevaluation of Menu Cost Models, Quarterly Journal of Economics",
+     "people": [
+      "Emi Nakamura",
+      "Jón Steinsson"
+     ],
+     "n_nominations": 5,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Bils and Klenow, 2004: Some Evidence on the Importance of Sticky Prices, Journal of Political Economy",
+     "people": [
+      "Peter J. Klenow"
+     ],
+     "n_nominations": 3,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Klenow and Kryvtsov, 2008: State-Dependent or Time-Dependent Pricing, Quarterly Journal of Economics",
+     "people": [
+      "Peter J. Klenow"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Nakamura and Steinsson, 2018: High-Frequency Identification of Monetary Non-Neutrality, Quarterly Journal of Economics",
+     "people": [
+      "Emi Nakamura",
+      "Jón Steinsson"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "This work confronted price-rigidity theory with granular micro price data and sharper identification, reshaping how monetary transmission is modelled. Its facts are replicable. Reservations are youth, credit spread over many coauthors, and dependence on modelling assumptions to aggregate.",
+   "grouping_note": "Rival lineups: Mark Bils (n037, n069) ties with Klenow and is left out, as is Kryvtsov.",
+   "nomination_ids": [
+    "anthropic/richard-friberg/#2",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/richard-friberg/#3",
+    "gemini/anna-dreber-almenberg/#1",
+    "gemini/richard-friberg/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "motivation": "for the analysis of hysteresis and the persistence of unemployment",
+   "jel_code": "E24",
+   "jel_code_mode": "E32",
+   "score": 1.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 1.5455
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 6,
+   "n_nominations": 6,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 6
+   },
+   "supporters": [
+    "Jan Teorell (G)",
+    "Kerstin Enflo (G)",
+    "Per Strömberg (G)",
+    "Peter Fredriksson (G)",
+    "Randi Hjalmarsson (G)",
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Olivier Blanchard",
+     "born": 1948,
+     "affiliation": "Peterson Institute for International Economics",
+     "n_nominations": 6,
+     "models": "G",
+     "weight": 1.5455
+    },
+    {
+     "name": "Lawrence H. Summers",
+     "born": 1954,
+     "affiliation": "Harvard University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Blanchard and Summers, 1986: Hysteresis and the European Unemployment Problem, NBER Macroeconomics Annual",
+     "people": [
+      "Olivier Blanchard",
+      "Lawrence H. Summers"
+     ],
+     "n_nominations": 6,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Hysteresis links temporary shocks to long-run labor-market outcomes and persistent unemployment, informing labor-market policy. Reservations are that structural factors may dominate long-run labor supply and generalization beyond Europe needs caution.",
+   "grouping_note": "Mostly Blanchard-only nominations; Summers is named only in n139 but coauthors the single defining work.",
+   "nomination_ids": [
+    "gemini/peter-fredriksson/#1",
+    "gemini/per-stromberg/#4",
+    "gemini/timo-boppart/#4",
+    "gemini/kerstin-enflo/#5",
+    "gemini/randi-hjalmarsson/#2",
+    "gemini/jan-teorell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "motivation": "for the search-theoretic foundations of monetary exchange and liquidity",
+   "jel_code": "E40",
+   "jel_code_mode": "E40",
+   "score": 0.9091,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.5455,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "O G",
+   "n_models": 2,
+   "n_members": 3,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 2,
+    "G": 1
+   },
+   "supporters": [
+    "Peter Fredriksson (O)",
+    "Richard Friberg (O)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Nobuhiro Kiyotaki",
+     "born": 1955,
+     "affiliation": "Princeton University",
+     "n_nominations": 2,
+     "models": "O",
+     "weight": 0.5455
+    },
+    {
+     "name": "Randall Wright",
+     "born": 1956,
+     "affiliation": "University of Wisconsin-Madison",
+     "n_nominations": 3,
+     "models": "O G",
+     "weight": 0.9091
+    },
+    {
+     "name": "Ricardo Lagos",
+     "born": 1969,
+     "affiliation": "New York University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [
+    {
+     "name": "John Moore",
+     "affiliation": "University of Edinburgh and London School of Economics",
+     "born": 1954,
+     "weight": 0.3636,
+     "n_nominations": 1
+    },
+    {
+     "name": "Neil Wallace",
+     "affiliation": "Pennsylvania State University",
+     "born": 1939,
+     "weight": 0.3636,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Kiyotaki and Wright, 1989: On Money as a Medium of Exchange, Journal of Political Economy",
+     "people": [
+      "Nobuhiro Kiyotaki",
+      "Randall Wright"
+     ],
+     "n_nominations": 3,
+     "models": "O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Lagos and Wright, 2005: A Unified Framework for Monetary Theory and Policy Analysis, Journal of Political Economy",
+     "people": [
+      "Randall Wright",
+      "Ricardo Lagos"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Kiyotaki and Wright, 1993: A Search-Theoretic Approach to Monetary Economics, American Economic Review",
+     "people": [
+      "Nobuhiro Kiyotaki",
+      "Randall Wright"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work derives money and liquidity from explicit trading frictions rather than assuming them. Its theory is clean and durable. Reservations are abstraction and narrower policy reach with fragmented quantitative validation.",
+   "grouping_note": "n072 also adds John Moore and credit cycles and n117 names Neil Wallace; both left out of the lineup.",
+   "nomination_ids": [
+    "openai/peter-fredriksson/#2",
+    "openai/richard-friberg/#4",
+    "gemini/tommy-andersson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "motivation": "for the historical measurement of top incomes and wealth in national accounts",
+   "jel_code": "E01",
+   "jel_code_mode": "E01",
+   "score": 0.9091,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.9091
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Jan Teorell (G)",
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Thomas Piketty",
+     "born": 1971,
+     "affiliation": "Paris School of Economics",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.9091
+    },
+    {
+     "name": "Emmanuel Saez",
+     "born": 1972,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.9091
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Piketty and Saez, 2003: Income Inequality in the United States, 1913-1998, Quarterly Journal of Economics",
+     "people": [
+      "Thomas Piketty",
+      "Emmanuel Saez"
+     ],
+     "n_nominations": 2,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Piketty, 2001: Les hauts revenus en France au 20e siècle, Grasset",
+     "people": [
+      "Thomas Piketty"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Their long-run archival data construction became durable infrastructure for studying inequality. The reservation is measurement error and comparability across administrative systems.",
+   "grouping_note": "Two nominations of the same pair.",
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#1",
+    "gemini/jan-teorell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "motivation": "for integrating household heterogeneity into the analysis of monetary and fiscal policy (HANK)",
+   "jel_code": "E21",
+   "jel_code_mode": "E21",
+   "score": 0.8182,
+   "points_per_model": {
+    "claude-opus-5-5": 0.2727,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.5455
+   },
+   "models": "A G",
+   "n_models": 2,
+   "n_members": 4,
+   "n_nominations": 5,
+   "nominations_per_model": {
+    "A": 3,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G)",
+    "John Hassler (G)",
+    "Per Krusell (A)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "chair",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Greg Kaplan",
+     "born": 1979,
+     "affiliation": "University of Chicago",
+     "n_nominations": 5,
+     "models": "A G",
+     "weight": 0.8182
+    },
+    {
+     "name": "Benjamin Moll",
+     "born": 1983,
+     "affiliation": "London School of Economics",
+     "n_nominations": 5,
+     "models": "A G",
+     "weight": 0.8182
+    },
+    {
+     "name": "Giovanni L. Violante",
+     "born": 1968,
+     "affiliation": "Princeton University",
+     "n_nominations": 4,
+     "models": "A G",
+     "weight": 0.7273
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Kaplan, Moll and Violante, 2018: Monetary Policy According to HANK, American Economic Review",
+     "people": [
+      "Greg Kaplan",
+      "Benjamin Moll",
+      "Giovanni L. Violante"
+     ],
+     "n_nominations": 5,
+     "models": "A G",
+     "in_nominations": true
+    },
+    {
+     "work": "Kaplan and Violante, 2014: A Model of the Consumption Response to Fiscal Stimulus Payments, Econometrica",
+     "people": [
+      "Greg Kaplan",
+      "Giovanni L. Violante"
+     ],
+     "n_nominations": 2,
+     "models": "A G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "HANK shifted the understanding of policy transmission toward indirect general-equilibrium income effects, disciplined by micro evidence on marginal propensities to consume. It is rapidly becoming a workhorse. The reservations are that the work is young and builds on earlier incomplete-markets tools.",
+   "grouping_note": "All nominations name the same trio; it borders the earlier heterogeneous-agent candidate but is a distinct contribution.",
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#5",
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/per-krusell/#5",
+    "gemini/john-hassler/#4",
+    "gemini/anna-dreber-almenberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "motivation": "for the analysis of monopolistic competition, nominal rigidities and the effects of aggregate demand",
+   "jel_code": "E32",
+   "jel_code_mode": "E32",
+   "score": 0.6364,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 4,
+   "n_nominations": 4,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 1,
+    "G": 2
+   },
+   "supporters": [
+    "John Hassler (O)",
+    "Randi Hjalmarsson (A)",
+    "Richard Friberg (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Olivier Blanchard",
+     "born": 1948,
+     "affiliation": "Peterson Institute for International Economics and MIT",
+     "n_nominations": 4,
+     "models": "A O G",
+     "weight": 0.6364
+    },
+    {
+     "name": "Nobuhiro Kiyotaki",
+     "born": 1955,
+     "affiliation": "Princeton University",
+     "n_nominations": 2,
+     "models": "A O",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Jordi Galí",
+     "affiliation": "CREI, Universitat Pompeu Fabra",
+     "born": 1961,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Blanchard and Kiyotaki, 1987: Monopolistic Competition and the Effects of Aggregate Demand, American Economic Review",
+     "people": [
+      "Olivier Blanchard",
+      "Nobuhiro Kiyotaki"
+     ],
+     "n_nominations": 4,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Kiyotaki, 1988: Multiple Expectational Equilibria under Monopolistic Competition, Quarterly Journal of Economics",
+     "people": [
+      "Nobuhiro Kiyotaki"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They supplied a clear microeconomic mechanism by which imperfect competition and nominal rigidities generate aggregate demand effects, bridging Keynesian questions and general-equilibrium discipline. Reservations are that the contribution is diffuse and has been absorbed into later New Keynesian work.",
+   "grouping_note": "n150 pairs Blanchard with Jordi Galí (left out); n044 also lists Kiyotaki-Moore and Blanchard-Quah work belonging to other candidates.",
+   "nomination_ids": [
+    "anthropic/randi-hjalmarsson/#4",
+    "openai/john-hassler/#3",
+    "gemini/tommy-andersson/#5",
+    "gemini/richard-friberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "motivation": "for the micro-econometric analysis of consumption insurance and labor supply",
+   "jel_code": "E21",
+   "jel_code_mode": "E21",
+   "score": 0.6364,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.6364
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Per Strömberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Richard Blundell",
+     "born": 1952,
+     "affiliation": "UCL",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.6364
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Blundell, Pistaferri, and Preston, 2008: Consumption Inequality and Partial Insurance, American Economic Review",
+     "people": [
+      "Richard Blundell"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Blundell, Duncan, and Meghir, 1998: Estimating Labor Supply Responses Using Tax Reforms, Econometrica",
+     "people": [
+      "Richard Blundell"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Panel-data estimates of consumption insurance and labor supply provide robust parameters for macro models. The main reservation is sensitivity to survey measurement error.",
+   "grouping_note": "Two Blundell nominations citing different works but the same micro-empirical programme.",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#3",
+    "gemini/per-stromberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "motivation": "for dynamic macroeconomic methods and the identification of aggregate demand and supply disturbances",
+   "jel_code": "E32",
+   "jel_code_mode": "E32",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.2727,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Kerstin Enflo (O)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Olivier Blanchard",
+     "born": 1948,
+     "affiliation": "Peterson Institute for International Economics",
+     "n_nominations": 2,
+     "models": "A O",
+     "weight": 0.4545
+    },
+    {
+     "name": "Danny Quah",
+     "born": 1958,
+     "affiliation": "National University of Singapore and London School of Economics",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Blanchard and Quah, 1989: The Dynamic Effects of Aggregate Demand and Supply Disturbances, American Economic Review",
+     "people": [
+      "Olivier Blanchard",
+      "Danny Quah"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Blanchard and Kahn, 1980: The solution of linear difference models under rational expectations, Econometrica",
+     "people": [
+      "Olivier Blanchard"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Blanchard's tools for solving rational-expectations models and decomposing fluctuations into demand and supply shocks are foundational for the analysis of fluctuations. Reservations are that it is a body of work rather than a crisp result, identifying restrictions are contestable, and it borders Econometrics.",
+   "grouping_note": "Joins Blanchard's broad methods nomination (n008, which also cites Blanchard-Kiyotaki) with the Blanchard-Quah identification nomination; Quah is named only in n089.",
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#3",
+    "openai/kerstin-enflo/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "motivation": "for the analysis of uncertainty shocks and their effects on firms and macroeconomic fluctuations",
+   "jel_code": "E32",
+   "jel_code_mode": "E32",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Peter Fredriksson (G)",
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Nicholas Bloom",
+     "born": 1973,
+     "affiliation": "Stanford University",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Bloom, 2009: The Impact of Uncertainty Shocks, Econometrica",
+     "people": [
+      "Nicholas Bloom"
+     ],
+     "n_nominations": 2,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Bloom showed with firm-level data how uncertainty spikes freeze hiring and investment, linking firm behavior to aggregate cycles.",
+   "grouping_note": "Two identical single-person nominations.",
+   "nomination_ids": [
+    "gemini/peter-fredriksson/#5",
+    "gemini/richard-friberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "motivation": "for the development and estimation of quantitative dynamic stochastic general-equilibrium models for policy analysis",
+   "jel_code": "E17",
+   "jel_code_mode": "E17",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "models": "O G",
+   "n_models": 2,
+   "n_members": 2,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 2,
+    "G": 1
+   },
+   "supporters": [
+    "John Hassler (G, O)",
+    "Per Krusell (O)"
+   ],
+   "roles": [
+    "chair",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Lawrence J. Christiano",
+     "born": 1952,
+     "affiliation": "Northwestern University",
+     "n_nominations": 3,
+     "models": "O G",
+     "weight": 0.3636
+    },
+    {
+     "name": "Martin Eichenbaum",
+     "born": 1954,
+     "affiliation": "Northwestern University",
+     "n_nominations": 2,
+     "models": "O G",
+     "weight": 0.1818
+    },
+    {
+     "name": "Frank Smets",
+     "born": 1964,
+     "affiliation": "European Central Bank and Ghent University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Raf Wouters",
+     "affiliation": "National Bank of Belgium",
+     "born": 1962,
+     "weight": 0.1818,
+     "n_nominations": 1
+    },
+    {
+     "name": "Sergio Rebelo",
+     "affiliation": "Northwestern University",
+     "born": 1959,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Christiano, Eichenbaum and Evans, 2005: Nominal rigidities and the dynamic effects of a shock to monetary policy, Journal of Political Economy",
+     "people": [
+      "Lawrence J. Christiano",
+      "Martin Eichenbaum"
+     ],
+     "n_nominations": 3,
+     "models": "O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Smets and Wouters, 2007: Shocks and frictions in US business cycles: A Bayesian DSGE approach, American Economic Review",
+     "people": [
+      "Frank Smets"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Smets and Wouters, 2003: An estimated dynamic stochastic general equilibrium model of the euro area, Journal of the European Economic Association",
+     "people": [
+      "Frank Smets"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "This work turned DSGE models into estimated quantitative systems used for monetary and fiscal policy counterfactuals. Reservations are contested empirical fit and identifying assumptions, and overlap with the broader New Keynesian community.",
+   "grouping_note": "Rival lineups: Rebelo (n060) and Wouters (n109) are left out in favour of Christiano, Eichenbaum and Smets.",
+   "nomination_ids": [
+    "openai/john-hassler/#5",
+    "openai/per-krusell/#4",
+    "gemini/john-hassler/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "motivation": "for the measurement and analysis of long-run productivity growth",
+   "jel_code": "E22",
+   "jel_code_mode": "E22",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Robert J. Gordon",
+     "born": 1940,
+     "affiliation": "Northwestern University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Gordon, 2016: The Rise and Fall of American Growth, Princeton University Press",
+     "people": [
+      "Robert J. Gordon"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "A historically grounded analysis of sequential technological revolutions and long-run growth.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#2"
+   ],
+   "flags": [
+    "Robert J. Gordon: born 1940 (age 86 in 2026)"
+   ]
+  },
+  {
+   "rank": 19,
+   "motivation": "for the theory and evidence on buffer-stock and precautionary household saving",
+   "jel_code": "E21",
+   "jel_code_mode": "E21",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 2,
+    "G": 0
+   },
+   "supporters": [
+    "Jan Teorell (O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Christopher D. Carroll",
+     "born": 1956,
+     "affiliation": "Johns Hopkins University",
+     "n_nominations": 2,
+     "models": "O",
+     "weight": 0.2727
+    },
+    {
+     "name": "David Laibson",
+     "born": 1966,
+     "affiliation": "Harvard University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Carroll, 1997: Buffer-Stock Saving and the Life Cycle/Permanent Income Hypothesis, Quarterly Journal of Economics",
+     "people": [
+      "Christopher D. Carroll"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Laibson, 1997: Golden Eggs and Hyperbolic Discounting, Quarterly Journal of Economics",
+     "people": [
+      "David Laibson"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work improved microfoundations of aggregate consumption by incorporating income risk, liquidity constraints and self-control. Reservations are that it straddles behavioral economics and is narrower than leading macro candidates.",
+   "grouping_note": "Joins Carroll's buffer-stock nomination with n065, which adds Laibson's present-bias work.",
+   "nomination_ids": [
+    "openai/tommy-andersson/#5",
+    "openai/jan-teorell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 20,
+   "motivation": "for the analysis of the gold standard and the propagation of the Great Depression",
+   "jel_code": "E42",
+   "jel_code_mode": "E42",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Kerstin Enflo (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Barry Eichengreen",
+     "born": 1952,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Eichengreen, 1992: Golden Fetters: The Gold Standard and the Great Depression, 1919-1939, Oxford University Press",
+     "people": [
+      "Barry Eichengreen"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Eichengreen and Sachs, 1985: Exchange Rates and Economic Recovery in the 1930s, Journal of Economic History",
+     "people": [
+      "Barry Eichengreen"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Cross-country variation in leaving gold identifies monetary effects in a historically grounded way. It may overlap with Friedman's monetary history and Bernanke.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/kerstin-enflo/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "motivation": "for the quantitative analysis of income risk and heterogeneity in macroeconomics",
+   "jel_code": "E21",
+   "jel_code_mode": "E21",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Per Krusell (G)"
+   ],
+   "roles": [
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Fatih Guvenen",
+     "born": 1973,
+     "affiliation": "University of Minnesota",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Guvenen, 2007: Learning Your Earning: Are Labor Income Shocks Really Very Persistent?, American Economic Review",
+     "people": [
+      "Fatih Guvenen"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Guvenen et al., 2014: The Nature of Countercyclical Income Risk, Journal of Political Economy",
+     "people": [
+      "Fatih Guvenen"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Links large micro datasets on income risk to quantitative incomplete-markets models. The field has not converged on modelling higher-order risk in general equilibrium.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/per-krusell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "motivation": "for the equilibrium analysis of indivisible labor and aggregate hours",
+   "jel_code": "E24",
+   "jel_code_mode": "E24",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Timo Boppart (O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Gary D. Hansen",
+     "born": null,
+     "affiliation": "University of California, Los Angeles",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.1818
+    },
+    {
+     "name": "Richard Rogerson",
+     "born": 1958,
+     "affiliation": "Princeton University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Hansen, 1985: Indivisible Labor and the Business Cycle, Journal of Monetary Economics",
+     "people": [
+      "Gary D. Hansen"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Rogerson, 1988: Indivisible Labor, Lotteries and Equilibrium, Journal of Monetary Economics",
+     "people": [
+      "Richard Rogerson"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Microfoundations for large aggregate labor-supply elasticities via the extensive margin. The prize-level claim is narrower than the major frameworks.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "openai/timo-boppart/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 23,
+   "motivation": "for the dynamic analysis of fiscal policy and generational accounting",
+   "jel_code": "E62",
+   "jel_code_mode": "E62",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Alan J. Auerbach",
+     "born": 1951,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.1818
+    },
+    {
+     "name": "Laurence J. Kotlikoff",
+     "born": 1951,
+     "affiliation": "Boston University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Auerbach and Kotlikoff, 1987: Dynamic Fiscal Policy, Cambridge University Press",
+     "people": [
+      "Alan J. Auerbach",
+      "Laurence J. Kotlikoff"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Auerbach, Gokhale and Kotlikoff, 1991: Generational Accounts: A Meaningful Alternative to Deficit Accounting, Tax Policy and the Economy",
+     "people": [
+      "Alan J. Auerbach",
+      "Laurence J. Kotlikoff"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They turned intergenerational budget constraints into computable tools for evaluating taxes, transfers and debt. Generational accounting has been more influential as a framework than as an accepted policy statistic.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "openai/tommy-andersson/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 24,
+   "motivation": "for the equilibrium analysis of unemployment volatility in search-and-matching macroeconomics",
+   "jel_code": "E24",
+   "jel_code_mode": "E24",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Per Krusell (O)"
+   ],
+   "roles": [
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Robert Shimer",
+     "born": 1968,
+     "affiliation": "University of Chicago",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "Robert E. Hall",
+     "born": 1943,
+     "affiliation": "Stanford University and Hoover Institution",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "Marcus Hagedorn",
+     "born": null,
+     "affiliation": "University of Oslo",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Shimer, 2005: The cyclical behavior of equilibrium unemployment and vacancies, American Economic Review",
+     "people": [
+      "Robert Shimer"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Hall, 2005: Employment fluctuations with equilibrium wage stickiness, American Economic Review",
+     "people": [
+      "Robert E. Hall"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Hagedorn and Manovskii, 2008: The cyclical behavior of equilibrium unemployment and vacancies revisited, American Economic Review",
+     "people": [
+      "Marcus Hagedorn"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Asked whether the canonical search mechanism matches observed unemployment volatility, changing calibration targets. Foundational search theory has already been awarded.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "openai/per-krusell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 25,
+   "motivation": "for the analysis of information rigidities and sticky information in macroeconomic dynamics",
+   "jel_code": "E32",
+   "jel_code_mode": "E32",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Per Strömberg (O)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "N. Gregory Mankiw",
+     "born": 1958,
+     "affiliation": "Harvard University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "Ricardo Reis",
+     "born": 1978,
+     "affiliation": "London School of Economics",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Mankiw and Reis, 2002: Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve, Quarterly Journal of Economics",
+     "people": [
+      "N. Gregory Mankiw",
+      "Ricardo Reis"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Reis, 2006: Inattentive Producers, Review of Economic Studies",
+     "people": [
+      "Ricardo Reis"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "A tractable mechanism through which costly attention shapes inflation and policy transmission. Empirical separation from sticky prices and rational inattention remains a reservation.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "openai/per-stromberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 26,
+   "motivation": "for the analysis of fiscal-monetary interactions and the fiscal theory of the price level",
+   "jel_code": "E62",
+   "jel_code_mode": "E62",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Richard Friberg (O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Eric M. Leeper",
+     "born": 1958,
+     "affiliation": "University of Virginia",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "John H. Cochrane",
+     "born": 1957,
+     "affiliation": "Hoover Institution, Stanford University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Leeper, 1991: \"Equilibria under Active and Passive Monetary and Fiscal Policies\", Journal of Monetary Economics",
+     "people": [
+      "Eric M. Leeper"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Cochrane, 2001: \"Long-Term Debt and Optimal Policy in the Fiscal Theory of the Price Level\", Econometrica",
+     "people": [
+      "John H. Cochrane"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Sharpened how fiscal solvency and monetary regimes jointly determine inflation. Empirical discriminability from conventional accounts is contested.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "openai/richard-friberg/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

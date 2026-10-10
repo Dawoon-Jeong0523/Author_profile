@@ -11,6 +11,7 @@ probabilities with and without those cards. This README shows the forecasts for 
 [Medicine](#physiology-or-medicine-awarded-5-october) ·
 [Physics](#physics-awarded-6-october) ·
 [Chemistry](#chemistry-awarded-7-october) ·
+[Economic Sciences](#economic-sciences-to-be-announced-12-october) ·
 [What we learned](#what-we-learned-so-far) ·
 [What changed between versions](#what-changed-between-versions) ·
 [How the forecasts are made](#how-the-forecasts-are-made) ·
@@ -31,8 +32,13 @@ predictions and the history of the prize); the **control** has no notes. The Med
 are those of the public dashboard (https://dawoon-jeong0523.github.io/Author_profile/): four arms of one question,
 1–2 October. Forecast data: [`Data/Result/`](Data/Result/); figures:
 [`docs/nobel2026/make_figures.py`](docs/nobel2026/make_figures.py).
+Each field below is collapsed: click its summary line to open the figures, tables and set-up. The economics prize
+(announced on 12 October) is forecast in two stages, the field first and then the candidates; see its section.
 
 ### Physiology or Medicine (awarded 5 October)
+
+<details>
+<summary><b>Award:</b> Deisseroth, Hegemann and Nagel (optogenetics) · <b>cards as the main evidence:</b> optogenetics first of 12 named discoveries (7.9 %; "Other" 40.0 %). <i>Click to expand.</i></summary>
 
 ![2026 Medicine: cards as the main evidence, top 5 and the awarded discovery](docs/nobel2026/medicine_2026_top5_vs_award.png)
 
@@ -82,7 +88,13 @@ favourite GLP-1 fell from 20.3 % to 3.0 % and "Other" grew from 31 % to 40 %.
     ([instruction](experiment/preseen_cards_main/instruction/00_instruction.md),
     [definitions](experiment/preseen_cards_main/cards/medicine/00_definitions.md), [cards](experiment/preseen_cards_main/cards/medicine/)).
 
+
+</details>
+
 ### Physics (awarded 6 October)
+
+<details>
+<summary><b>Award:</b> Francis Halzen (IceCube, astrophysical neutrinos) · <b>cards as the main evidence:</b> quantum simulation first (8.7 %), neutrino astronomy 14th of 30 (3.5 %). <i>Click to expand.</i></summary>
 
 ![2026 Physics: cards as the main evidence, top 5 and the awarded discovery](docs/nobel2026/physics_2026_top5_vs_award.png)
 
@@ -138,7 +150,13 @@ nominations of this discovery had named Halzen alone.
     [Medicine outcome](experiment/preseen_30_main_v2/instruction/00_4_medicine_2026.md),
     [option blocks](experiment/preseen_30_main_v2/cards/physics/)).
 
+
+</details>
+
 ### Chemistry (awarded 7 October)
+
+<details>
+<summary><b>Award:</b> Kagan and Soai (non-linear effects and autocatalysis in asymmetric synthesis), not among the 30 options · <b>cards as one main source:</b> sequencing-by-synthesis first (12.5 %). <i>Click to expand.</i></summary>
 
 ![2026 Chemistry: cards as one main source, top 5 and the awarded discovery](Data/Result/Chemistry/chemistry_2026_top5_one_main_source.png)
 
@@ -276,6 +294,41 @@ award; all 30 options with their named people:
   [instruction](experiment/preseen_chem30_main/instruction_demo/00_1_instruction.md) · the other notes as in cards as the main evidence
 - **Control.** The question only.
 
+
+</details>
+
+### Economic Sciences (to be announced 12 October)
+
+<details>
+<summary><b>Field forecast:</b> Macro 16.9 % (treatment) · <b>people forecast:</b> Berry, Levinsohn and Pakes 16.7 % (treatment), 17.6 % (control). <i>Click to expand.</i></summary>
+
+![2026 Economic Sciences: field forecast, treatment against control](docs/nobel2026/economics_2026_fields_top5.png)
+
+![2026 Economic Sciences: people forecast, treatment against control](docs/nobel2026/economics_2026_people_top5.png)
+
+The economics prize is forecast in two stages ([full description](Econ/README.md)):
+
+- **Field first.** Preseen forecasts which of 14 fields of economics (JEL code groups of Dolton and Tol, 2026) the
+  prize recognizes. The treatment gets nine notes on the award record, with field rotation as the primary prior
+  (years since a field's last award, penalties for recently awarded fields), the maturity of unawarded work, the
+  2021-2025 prizes, the 2026 committee and societal context as auxiliary; the control gets none. Treatment: Macro
+  16.9 %, Trade 15.6 %, Production/IO 14.0 %, Public 13.3 %, Equilibrium 9.5 %; the control ranks Econometrics second
+  (14.9 %), because it does not impose rotation.
+- **Candidates from the five leading fields.** A virtual committee — personas of the eleven members of the real 2026
+  committee, each on Claude, GPT and Gemini — nominated up to five contributions per field, each with one to three
+  living people, defining works and a rationale; Claude integrated the nominations of the three models into
+  candidates. Thirty candidates, allocated by field probability (7 / 7 / 6 / 6 / 4), after an eligibility screen
+  (no sitting committee member, no previous laureate, living per Wikidata: two people the models named had died).
+- **People.** Preseen forecasts which of the 30 contributions is recognized (no "Other"). The treatment gets the field
+  forecast, the laureate age record, the prizes already awarded, the candidates with their defining works and the
+  committee's support and reasoning. Both arms put Berry, Levinsohn and Pakes first and Woodford, Galí and Gertler
+  second; the treatment shifts probability from Public to Production/IO and spreads it further down each field.
+
+Forecast data: [`Data/Result/Economics/`](Data/Result/Economics/); figures:
+[`docs/nobel2026/make_econ_figures.py`](docs/nobel2026/make_econ_figures.py).
+
+</details>
+
 ## What we learned so far
 
 - **The context changes the forecast far more than the names on an option.** On the same 30 chemistry discoveries
@@ -394,7 +447,7 @@ runs, data inputs and caveats: **[`docs/author_profiles.md`](docs/author_profile
 Nobel Prize/
 ├── README.md                         this page (Nobel forecasts)
 ├── docs/
-│   ├── nobel2026/                    README figures and make_figures.py
+│   ├── nobel2026/                    README figures, make_figures.py and make_econ_figures.py (economics)
 │   ├── author_profiles.md            documentation of the profile pipeline
 │   └── example/hinton/               figures of the profile example
 ├── Data/
@@ -403,6 +456,7 @@ Nobel Prize/
 │   ├── prizeatlas/                   PrizeAtlas laureate tables (CSV; SOURCE.md)
 │   ├── Li2019/, SciSciNet_Link_NobelLaureates.tsv   laureate publication records
 ├── experiment/                       committee, candidate lists, cards, Preseen runs (see Experiments)
+├── Econ/                             economics forecast: field question, virtual committee of the 2026 members, people question (Econ/README.md)
 ├── handoff/                          context and forecasts for Preseen
 ├── manuscript/                       LaTeX write-up of the 1 October experiment
 ├── pipeline/profile_person.py        name -> author id -> Slurm job -> dashboard + record
@@ -413,7 +467,7 @@ Nobel Prize/
 
 Not versioned (`.gitignore`): `output/` (dashboards, records, per-person folders), `cache/` (shared parquet caches),
 `jobs/logs/`, `Data/prizeatlas/html/`, every `*.parquet` file, Preseen client state (`experiment/**/preseen_exp/`) and
-run logs.
+run logs; in `Econ/`, raw model responses, call logs and Preseen state (`Econ/.gitignore`).
 
 ## Sources and licences
 

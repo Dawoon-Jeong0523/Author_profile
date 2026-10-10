@@ -1,0 +1,1801 @@
+{
+ "field": "Macro",
+ "slug": "macro",
+ "generated": "2026-10-10T19:01:01+00:00",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 9,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models",
+ "options": [
+  {
+   "rank": 1,
+   "field": "Macro",
+   "option": "for developing the New Keynesian framework for the analysis of monetary policy — Michael Woodford, Jordi Galí, Mark Gertler",
+   "contribution": "for developing the New Keynesian framework for the analysis of monetary policy",
+   "jel_code": "E52",
+   "score": 13.5354,
+   "points_per_model": {
+    "claude-opus-5-5": 5.4444,
+    "gpt-5.5-2026-04-23": 5.4545,
+    "gemini-3.1-pro-preview": 2.6364
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 35,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Michael Woodford",
+     "affiliation": "Columbia University",
+     "born": 1955,
+     "weight": 11.3232,
+     "n_nominations": 24,
+     "key": "m woodford"
+    },
+    {
+     "name": "Jordi Galí",
+     "affiliation": "CREI and Universitat Pompeu Fabra",
+     "born": 1961,
+     "weight": 10.9596,
+     "n_nominations": 25,
+     "key": "j gali"
+    },
+    {
+     "name": "Mark Gertler",
+     "affiliation": "New York University",
+     "born": 1951,
+     "weight": 5.2222,
+     "n_nominations": 11,
+     "key": "m gertler"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Michael Woodford",
+     "affiliation": "Columbia University",
+     "born": 1955,
+     "weight": 11.3232,
+     "n_nominations": 24,
+     "key": "m woodford"
+    },
+    {
+     "name": "Jordi Galí",
+     "affiliation": "CREI and Universitat Pompeu Fabra",
+     "born": 1961,
+     "weight": 10.9596,
+     "n_nominations": 25,
+     "key": "j gali"
+    },
+    {
+     "name": "Mark Gertler",
+     "affiliation": "New York University",
+     "born": 1951,
+     "weight": 5.2222,
+     "n_nominations": 11,
+     "key": "m gertler"
+    },
+    {
+     "name": "John B. Taylor",
+     "affiliation": "Stanford University",
+     "born": 1946,
+     "weight": 5.1212,
+     "n_nominations": 15,
+     "key": "j taylor"
+    },
+    {
+     "name": "Julio J. Rotemberg",
+     "affiliation": "Harvard University",
+     "born": 1953,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "j rotemberg"
+    },
+    {
+     "name": "Richard Clarida",
+     "affiliation": "Columbia University",
+     "born": 1957,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "r clarida"
+    },
+    {
+     "name": "Lars E. O. Svensson",
+     "affiliation": "Stockholm School of Economics",
+     "born": 1947,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "l svensson"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/jan-teorell/#1",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/per-krusell/#1",
+    "anthropic/per-stromberg/#2",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/randi-hjalmarsson/#2",
+    "anthropic/richard-friberg/#1",
+    "anthropic/tommy-andersson/#1",
+    "anthropic/tommy-andersson/#3",
+    "gemini/jan-teorell/#2",
+    "gemini/john-hassler/#1",
+    "gemini/john-hassler/#4",
+    "gemini/per-krusell/#1",
+    "gemini/per-krusell/#5",
+    "gemini/peter-fredriksson/#5",
+    "gemini/richard-friberg/#3",
+    "gemini/tommy-andersson/#2",
+    "gemini/tommy-andersson/#3",
+    "gemini/tommy-andersson/#5",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/jan-teorell/#1",
+    "openai/jan-teorell/#3",
+    "openai/john-hassler/#1",
+    "openai/kerstin-enflo/#1",
+    "openai/per-krusell/#1",
+    "openai/per-stromberg/#1",
+    "openai/peter-fredriksson/#1",
+    "openai/randi-hjalmarsson/#1",
+    "openai/randi-hjalmarsson/#4",
+    "openai/richard-friberg/#1",
+    "openai/timo-boppart/#1",
+    "openai/tommy-andersson/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "field": "Macro",
+   "option": "for the empirical identification of the effects of monetary and fiscal policy through narrative and natural-experiment methods — Nobuhiro Kiyotaki, John Moore, Valerie A. Ramey",
+   "contribution": "for the empirical identification of the effects of monetary and fiscal policy through narrative and natural-experiment methods",
+   "jel_code": "E32",
+   "score": 13.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 5.0,
+    "gpt-5.5-2026-04-23": 3.2727,
+    "gemini-3.1-pro-preview": 4.8182
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 47,
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G)",
+    "Richard Friberg (A, G)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Nobuhiro Kiyotaki",
+     "affiliation": "Princeton University",
+     "born": 1955,
+     "weight": 5.3535,
+     "n_nominations": 17,
+     "key": "n kiyotaki"
+    },
+    {
+     "name": "John Moore",
+     "affiliation": "University of Edinburgh and LSE",
+     "born": 1954,
+     "weight": 5.1313,
+     "n_nominations": 16,
+     "key": "j moore"
+    },
+    {
+     "name": "Valerie A. Ramey",
+     "affiliation": "University of California, San Diego",
+     "born": 1959,
+     "weight": 3.8081,
+     "n_nominations": 14,
+     "key": "v ramey"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Nobuhiro Kiyotaki",
+     "affiliation": "Princeton University",
+     "born": 1955,
+     "weight": 5.3535,
+     "n_nominations": 17,
+     "key": "n kiyotaki"
+    },
+    {
+     "name": "John Moore",
+     "affiliation": "University of Edinburgh and LSE",
+     "born": 1954,
+     "weight": 5.1313,
+     "n_nominations": 16,
+     "key": "j moore"
+    },
+    {
+     "name": "Valerie A. Ramey",
+     "affiliation": "University of California, San Diego",
+     "born": 1959,
+     "weight": 3.8081,
+     "n_nominations": 14,
+     "key": "v ramey"
+    },
+    {
+     "name": "Emi Nakamura",
+     "affiliation": "University of California, Berkeley",
+     "born": 1980,
+     "weight": 3.7879,
+     "n_nominations": 12,
+     "key": "e nakamura"
+    },
+    {
+     "name": "Jón Steinsson",
+     "affiliation": "University of California, Berkeley",
+     "born": 1976,
+     "weight": 3.697,
+     "n_nominations": 11,
+     "key": "j steinsson"
+    },
+    {
+     "name": "Christina D. Romer",
+     "affiliation": "University of California, Berkeley",
+     "born": 1958,
+     "weight": 2.6364,
+     "n_nominations": 9,
+     "key": "c romer"
+    },
+    {
+     "name": "David H. Romer",
+     "affiliation": "University of California, Berkeley",
+     "born": 1958,
+     "weight": 2.6364,
+     "n_nominations": 9,
+     "key": "d romer"
+    },
+    {
+     "name": "Olivier Blanchard",
+     "affiliation": "Peterson Institute for International Economics and MIT",
+     "born": 1948,
+     "weight": 1.0808,
+     "n_nominations": 7,
+     "key": "o blanchard"
+    },
+    {
+     "name": "Peter J. Klenow",
+     "affiliation": "Stanford University",
+     "born": 1963,
+     "weight": 0.899,
+     "n_nominations": 4,
+     "key": "p klenow"
+    },
+    {
+     "name": "Mark Gertler",
+     "affiliation": "New York University",
+     "born": 1951,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "m gertler"
+    },
+    {
+     "name": "Alan J. Auerbach",
+     "affiliation": "University of California, Berkeley",
+     "born": 1950,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "a auerbach"
+    },
+    {
+     "name": "Mark Bils",
+     "affiliation": "University of Rochester",
+     "born": 1958,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "m bils"
+    },
+    {
+     "name": "Roberto Perotti",
+     "affiliation": "Bocconi University",
+     "born": 1961,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "r perotti"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/jan-teorell/#2",
+    "anthropic/jan-teorell/#5",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/per-krusell/#3",
+    "anthropic/per-krusell/#5",
+    "anthropic/per-stromberg/#1",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/randi-hjalmarsson/#4",
+    "anthropic/richard-friberg/#2",
+    "anthropic/tommy-andersson/#2",
+    "gemini/anna-dreber-almenberg/#1",
+    "gemini/jan-teorell/#4",
+    "gemini/jan-teorell/#5",
+    "gemini/john-hassler/#2",
+    "gemini/kerstin-enflo/#3",
+    "gemini/kerstin-enflo/#5",
+    "gemini/per-krusell/#3",
+    "gemini/per-stromberg/#1",
+    "gemini/per-stromberg/#2",
+    "gemini/peter-fredriksson/#3",
+    "gemini/peter-fredriksson/#4",
+    "gemini/randi-hjalmarsson/#1",
+    "gemini/richard-friberg/#1",
+    "gemini/richard-friberg/#4",
+    "gemini/richard-friberg/#5",
+    "gemini/timo-boppart/#4",
+    "gemini/tommy-andersson/#1",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/jan-teorell/#5",
+    "openai/john-hassler/#5",
+    "openai/kerstin-enflo/#2",
+    "openai/kerstin-enflo/#4",
+    "openai/kerstin-enflo/#5",
+    "openai/per-krusell/#3",
+    "openai/per-krusell/#4",
+    "openai/per-stromberg/#3",
+    "openai/per-stromberg/#4",
+    "openai/peter-fredriksson/#3",
+    "openai/peter-fredriksson/#4",
+    "openai/peter-fredriksson/#5",
+    "openai/timo-boppart/#3",
+    "openai/tommy-andersson/#3",
+    "openai/tommy-andersson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "field": "Macro",
+   "option": "for the development of computational methods for dynamic macroeconomic models with heterogeneous agents and aggregate shocks — Per Krusell, Mark Huggett, Giovanni L. Violante",
+   "contribution": "for the development of computational methods for dynamic macroeconomic models with heterogeneous agents and aggregate shocks",
+   "jel_code": "E21",
+   "score": 8.0303,
+   "points_per_model": {
+    "claude-opus-5-5": 1.6667,
+    "gpt-5.5-2026-04-23": 3.9091,
+    "gemini-3.1-pro-preview": 2.4545
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 26,
+   "supporters": [
+    "Anna Dreber Almenberg (G, O)",
+    "Jan Teorell (O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Per Krusell",
+     "affiliation": "Stockholm University",
+     "born": 1959,
+     "weight": 3.8788,
+     "n_nominations": 11,
+     "key": "p krusell"
+    },
+    {
+     "name": "Mark Huggett",
+     "affiliation": "Georgetown University",
+     "born": 1959,
+     "weight": 3.7172,
+     "n_nominations": 10,
+     "key": "m huggett"
+    },
+    {
+     "name": "Giovanni L. Violante",
+     "affiliation": "Princeton University",
+     "born": 1967,
+     "weight": 2.8586,
+     "n_nominations": 11,
+     "key": "g violante"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Per Krusell",
+     "affiliation": "Stockholm University",
+     "born": 1959,
+     "weight": 3.8788,
+     "n_nominations": 11,
+     "key": "p krusell"
+    },
+    {
+     "name": "Mark Huggett",
+     "affiliation": "Georgetown University",
+     "born": 1959,
+     "weight": 3.7172,
+     "n_nominations": 10,
+     "key": "m huggett"
+    },
+    {
+     "name": "Giovanni L. Violante",
+     "affiliation": "Princeton University",
+     "born": 1967,
+     "weight": 2.8586,
+     "n_nominations": 11,
+     "key": "g violante"
+    },
+    {
+     "name": "Anthony A. Smith Jr.",
+     "affiliation": "Yale University",
+     "born": null,
+     "weight": 2.5152,
+     "n_nominations": 7,
+     "key": "a smith"
+    },
+    {
+     "name": "Greg Kaplan",
+     "affiliation": "University of Chicago",
+     "born": 1979,
+     "weight": 2.2525,
+     "n_nominations": 9,
+     "key": "g kaplan"
+    },
+    {
+     "name": "Benjamin Moll",
+     "affiliation": "London School of Economics",
+     "born": 1983,
+     "weight": 1.7071,
+     "n_nominations": 7,
+     "key": "b moll"
+    },
+    {
+     "name": "José-Víctor Ríos-Rull",
+     "affiliation": "University of Pennsylvania",
+     "born": 1959,
+     "weight": 1.3636,
+     "n_nominations": 4,
+     "key": "j rull"
+    },
+    {
+     "name": "Truman F. Bewley",
+     "affiliation": "Yale University",
+     "born": 1937,
+     "weight": 1.1717,
+     "n_nominations": 3,
+     "key": "t bewley"
+    },
+    {
+     "name": "Christopher D. Carroll",
+     "affiliation": "Johns Hopkins University",
+     "born": 1957,
+     "weight": 0.7273,
+     "n_nominations": 3,
+     "key": "c carroll"
+    },
+    {
+     "name": "Kjetil Storesletten",
+     "affiliation": "University of Minnesota",
+     "born": 1967,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "k storesletten"
+    },
+    {
+     "name": "Jonathan A. Parker",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1965,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j parker"
+    },
+    {
+     "name": "Pierre-Olivier Gourinchas",
+     "affiliation": "University of California, Berkeley",
+     "born": 1968,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "p gourinchas"
+    },
+    {
+     "name": "Stephen P. Zeldes",
+     "affiliation": "Columbia University",
+     "born": null,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "s zeldes"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/per-krusell/#2",
+    "anthropic/per-stromberg/#5",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/richard-friberg/#3",
+    "anthropic/tommy-andersson/#5",
+    "gemini/anna-dreber-almenberg/#4",
+    "gemini/john-hassler/#3",
+    "gemini/per-krusell/#2",
+    "gemini/per-stromberg/#4",
+    "gemini/peter-fredriksson/#2",
+    "gemini/randi-hjalmarsson/#3",
+    "gemini/timo-boppart/#1",
+    "gemini/timo-boppart/#2",
+    "openai/anna-dreber-almenberg/#3",
+    "openai/jan-teorell/#2",
+    "openai/john-hassler/#2",
+    "openai/kerstin-enflo/#3",
+    "openai/per-krusell/#2",
+    "openai/per-krusell/#5",
+    "openai/per-stromberg/#2",
+    "openai/peter-fredriksson/#2",
+    "openai/randi-hjalmarsson/#2",
+    "openai/richard-friberg/#2",
+    "openai/timo-boppart/#2",
+    "openai/tommy-andersson/#2"
+   ],
+   "flags": [
+    "Per Krusell: member of the 2026 committee (Per Krusell); not eligible while serving"
+   ]
+  },
+  {
+   "rank": 4,
+   "field": "Macro",
+   "option": "for the analysis of macroeconomic labor market dynamics and search frictions — Robert E. Hall, Robert Shimer, Richard Rogerson",
+   "contribution": "for the analysis of macroeconomic labor market dynamics and search frictions",
+   "jel_code": "E21",
+   "score": 2.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 1.0,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 1.0
+   },
+   "n_models": 3,
+   "n_members": 8,
+   "n_nominations": 12,
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Jan Teorell (A, O)",
+    "John Hassler (G)",
+    "Per Krusell (G)",
+    "Peter Fredriksson (A, G)",
+    "Randi Hjalmarsson (A, G)",
+    "Richard Friberg (A)",
+    "Tommy Andersson (A, G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Robert E. Hall",
+     "affiliation": "Stanford University",
+     "born": 1943,
+     "weight": 1.6364,
+     "n_nominations": 10,
+     "key": "r hall"
+    },
+    {
+     "name": "Robert Shimer",
+     "affiliation": "University of Chicago",
+     "born": 1968,
+     "weight": 0.7677,
+     "n_nominations": 4,
+     "key": "r shimer"
+    },
+    {
+     "name": "Richard Rogerson",
+     "affiliation": "Princeton University",
+     "born": 1956,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "r rogerson"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Robert E. Hall",
+     "affiliation": "Stanford University",
+     "born": 1943,
+     "weight": 1.6364,
+     "n_nominations": 10,
+     "key": "r hall"
+    },
+    {
+     "name": "Robert Shimer",
+     "affiliation": "University of Chicago",
+     "born": 1968,
+     "weight": 0.7677,
+     "n_nominations": 4,
+     "key": "r shimer"
+    },
+    {
+     "name": "Richard Rogerson",
+     "affiliation": "Princeton University",
+     "born": 1956,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "r rogerson"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/jan-teorell/#4",
+    "anthropic/peter-fredriksson/#5",
+    "anthropic/randi-hjalmarsson/#5",
+    "anthropic/richard-friberg/#4",
+    "anthropic/tommy-andersson/#4",
+    "gemini/john-hassler/#5",
+    "gemini/per-krusell/#4",
+    "gemini/peter-fredriksson/#1",
+    "gemini/randi-hjalmarsson/#5",
+    "gemini/tommy-andersson/#4",
+    "openai/jan-teorell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "field": "Macro",
+   "option": "for the analysis of credibility, time consistency and central bank independence in monetary policy — Robert J. Barro, Alex Cukierman, Kenneth Rogoff",
+   "contribution": "for the analysis of credibility, time consistency and central bank independence in monetary policy",
+   "jel_code": "E62",
+   "score": 1.5859,
+   "points_per_model": {
+    "claude-opus-5-5": 1.2222,
+    "gpt-5.5-2026-04-23": 0.3636,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 2,
+   "n_members": 6,
+   "n_nominations": 7,
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Jan Teorell (A)",
+    "Per Krusell (A)",
+    "Per Strömberg (A)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Robert J. Barro",
+     "affiliation": "Harvard University",
+     "born": 1944,
+     "weight": 1.5859,
+     "n_nominations": 7,
+     "key": "r barro"
+    },
+    {
+     "name": "Alex Cukierman",
+     "affiliation": "Tel Aviv University and Reichman University",
+     "born": 1938,
+     "weight": 0.3333,
+     "n_nominations": 1,
+     "key": "a cukierman"
+    },
+    {
+     "name": "Kenneth Rogoff",
+     "affiliation": "Harvard University",
+     "born": 1953,
+     "weight": 0.3333,
+     "n_nominations": 1,
+     "key": "k rogoff"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Robert J. Barro",
+     "affiliation": "Harvard University",
+     "born": 1944,
+     "weight": 1.5859,
+     "n_nominations": 7,
+     "key": "r barro"
+    },
+    {
+     "name": "Alex Cukierman",
+     "affiliation": "Tel Aviv University and Reichman University",
+     "born": 1938,
+     "weight": 0.3333,
+     "n_nominations": 1,
+     "key": "a cukierman"
+    },
+    {
+     "name": "Kenneth Rogoff",
+     "affiliation": "Harvard University",
+     "born": 1953,
+     "weight": 0.3333,
+     "n_nominations": 1,
+     "key": "k rogoff"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/jan-teorell/#3",
+    "anthropic/per-krusell/#4",
+    "anthropic/per-stromberg/#4",
+    "anthropic/richard-friberg/#5",
+    "openai/richard-friberg/#4",
+    "openai/timo-boppart/#4"
+   ],
+   "flags": [
+    "Alex Cukierman: born 1938 (age 88 in 2026)"
+   ]
+  },
+  {
+   "rank": 6,
+   "field": "Macro",
+   "option": "for their empirical analysis of household debt and its impact on macroeconomic fluctuations — Atif Mian, Amir Sufi",
+   "contribution": "for their empirical analysis of household debt and its impact on macroeconomic fluctuations",
+   "jel_code": "E21",
+   "score": 1.0606,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3333,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.7273
+   },
+   "n_models": 2,
+   "n_members": 3,
+   "n_nominations": 3,
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Kerstin Enflo (A)",
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Atif Mian",
+     "affiliation": "Princeton University",
+     "born": 1975,
+     "weight": 1.0606,
+     "n_nominations": 3,
+     "key": "a mian"
+    },
+    {
+     "name": "Amir Sufi",
+     "affiliation": "University of Chicago",
+     "born": 1977,
+     "weight": 1.0606,
+     "n_nominations": 3,
+     "key": "a sufi"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Atif Mian",
+     "affiliation": "Princeton University",
+     "born": 1975,
+     "weight": 1.0606,
+     "n_nominations": 3,
+     "key": "a mian"
+    },
+    {
+     "name": "Amir Sufi",
+     "affiliation": "University of Chicago",
+     "born": 1977,
+     "weight": 1.0606,
+     "n_nominations": 3,
+     "key": "a sufi"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/kerstin-enflo/#3",
+    "gemini/anna-dreber-almenberg/#2",
+    "gemini/randi-hjalmarsson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "field": "Macro",
+   "option": "for credible empirical identification of the effects of monetary policy shocks and their transmission — Lawrence J. Christiano, Charles L. Evans, Martin Eichenbaum",
+   "contribution": "for credible empirical identification of the effects of monetary policy shocks and their transmission",
+   "jel_code": "E32",
+   "score": 0.8788,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3333,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 3,
+   "n_members": 4,
+   "n_nominations": 5,
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "John Hassler (O)",
+    "Per Strömberg (A, O)",
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Lawrence J. Christiano",
+     "affiliation": "Northwestern University",
+     "born": 1952,
+     "weight": 0.8788,
+     "n_nominations": 5,
+     "key": "l christiano"
+    },
+    {
+     "name": "Charles L. Evans",
+     "affiliation": "Federal Reserve Bank of Chicago",
+     "born": 1958,
+     "weight": 0.697,
+     "n_nominations": 4,
+     "key": "c evans"
+    },
+    {
+     "name": "Martin Eichenbaum",
+     "affiliation": "Northwestern University",
+     "born": 1954,
+     "weight": 0.697,
+     "n_nominations": 4,
+     "key": "m eichenbaum"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Lawrence J. Christiano",
+     "affiliation": "Northwestern University",
+     "born": 1952,
+     "weight": 0.8788,
+     "n_nominations": 5,
+     "key": "l christiano"
+    },
+    {
+     "name": "Charles L. Evans",
+     "affiliation": "Federal Reserve Bank of Chicago",
+     "born": 1958,
+     "weight": 0.697,
+     "n_nominations": 4,
+     "key": "c evans"
+    },
+    {
+     "name": "Martin Eichenbaum",
+     "affiliation": "Northwestern University",
+     "born": 1954,
+     "weight": 0.697,
+     "n_nominations": 4,
+     "key": "m eichenbaum"
+    },
+    {
+     "name": "Frank Smets",
+     "affiliation": "European Central Bank",
+     "born": 1964,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "f smets"
+    },
+    {
+     "name": "Raf Wouters",
+     "affiliation": "National Bank of Belgium",
+     "born": null,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "r wouters"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/per-stromberg/#3",
+    "gemini/timo-boppart/#5",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/john-hassler/#4",
+    "openai/per-stromberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "field": "Macro",
+   "option": "for the fiscal theory of the price level and the analysis of monetary-fiscal policy interactions — Eric M. Leeper, John H. Cochrane, Michael Woodford",
+   "contribution": "for the fiscal theory of the price level and the analysis of monetary-fiscal policy interactions",
+   "jel_code": "E31",
+   "score": 0.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.7273,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 3,
+   "n_nominations": 3,
+   "supporters": [
+    "John Hassler (O)",
+    "Randi Hjalmarsson (O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Eric M. Leeper",
+     "affiliation": "University of Virginia",
+     "born": 1951,
+     "weight": 0.7273,
+     "n_nominations": 3,
+     "key": "e leeper"
+    },
+    {
+     "name": "John H. Cochrane",
+     "affiliation": "Hoover Institution, Stanford University",
+     "born": 1957,
+     "weight": 0.7273,
+     "n_nominations": 3,
+     "key": "j cochrane"
+    },
+    {
+     "name": "Michael Woodford",
+     "affiliation": "Columbia University",
+     "born": 1955,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m woodford"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Eric M. Leeper",
+     "affiliation": "University of Virginia",
+     "born": 1951,
+     "weight": 0.7273,
+     "n_nominations": 3,
+     "key": "e leeper"
+    },
+    {
+     "name": "John H. Cochrane",
+     "affiliation": "Hoover Institution, Stanford University",
+     "born": 1957,
+     "weight": 0.7273,
+     "n_nominations": 3,
+     "key": "j cochrane"
+    },
+    {
+     "name": "Michael Woodford",
+     "affiliation": "Columbia University",
+     "born": 1955,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m woodford"
+    }
+   ],
+   "nomination_ids": [
+    "openai/john-hassler/#3",
+    "openai/randi-hjalmarsson/#3",
+    "openai/tommy-andersson/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "field": "Macro",
+   "option": "for their pioneering construction of long-run historical data series on income and wealth inequality — Emmanuel Saez, Thomas Piketty, Gabriel Zucman",
+   "contribution": "for their pioneering construction of long-run historical data series on income and wealth inequality",
+   "jel_code": "E01",
+   "score": 0.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.5455
+   },
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Kerstin Enflo (G)",
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Emmanuel Saez",
+     "affiliation": "University of California, Berkeley",
+     "born": 1972,
+     "weight": 0.5455,
+     "n_nominations": 2,
+     "key": "e saez"
+    },
+    {
+     "name": "Thomas Piketty",
+     "affiliation": "Paris School of Economics",
+     "born": 1971,
+     "weight": 0.5455,
+     "n_nominations": 2,
+     "key": "t piketty"
+    },
+    {
+     "name": "Gabriel Zucman",
+     "affiliation": "UC Berkeley / Paris School of Economics",
+     "born": 1986,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "g zucman"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Emmanuel Saez",
+     "affiliation": "University of California, Berkeley",
+     "born": 1972,
+     "weight": 0.5455,
+     "n_nominations": 2,
+     "key": "e saez"
+    },
+    {
+     "name": "Thomas Piketty",
+     "affiliation": "Paris School of Economics",
+     "born": 1971,
+     "weight": 0.5455,
+     "n_nominations": 2,
+     "key": "t piketty"
+    },
+    {
+     "name": "Gabriel Zucman",
+     "affiliation": "UC Berkeley / Paris School of Economics",
+     "born": 1986,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "g zucman"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#2",
+    "gemini/randi-hjalmarsson/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "field": "Macro",
+   "option": "for the historical measurement and analysis of sovereign debt, financial crises, and open-economy macroeconomics — Carmen Reinhart, Kenneth Rogoff",
+   "contribution": "for the historical measurement and analysis of sovereign debt, financial crises, and open-economy macroeconomics",
+   "jel_code": "E32",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Jan Teorell (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Carmen Reinhart",
+     "affiliation": "Harvard Kennedy School",
+     "born": 1955,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "c reinhart"
+    },
+    {
+     "name": "Kenneth Rogoff",
+     "affiliation": "Harvard University",
+     "born": 1953,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "k rogoff"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Carmen Reinhart",
+     "affiliation": "Harvard Kennedy School",
+     "born": 1955,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "c reinhart"
+    },
+    {
+     "name": "Kenneth Rogoff",
+     "affiliation": "Harvard University",
+     "born": 1953,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "k rogoff"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/jan-teorell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "field": "Macro",
+   "option": "for the reconstruction of historical national accounts and the quantitative analysis of long-run economic growth — Stephen Broadberry",
+   "contribution": "for the reconstruction of historical national accounts and the quantitative analysis of long-run economic growth",
+   "jel_code": "E01",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Stephen Broadberry",
+     "affiliation": "University of Oxford",
+     "born": 1956,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "s broadberry"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Stephen Broadberry",
+     "affiliation": "University of Oxford",
+     "born": 1956,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "s broadberry"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "field": "Macro",
+   "option": "for his empirical and theoretical analysis of uncertainty and firm-level risk management — Nicholas Bloom",
+   "contribution": "for his empirical and theoretical analysis of uncertainty and firm-level risk management",
+   "jel_code": "E32",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Nicholas Bloom",
+     "affiliation": "Stanford University",
+     "born": 1973,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "n bloom"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Nicholas Bloom",
+     "affiliation": "Stanford University",
+     "born": 1973,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "n bloom"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/richard-friberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "field": "Macro",
+   "option": "for the empirical synthesis of micro-level consumption behavior with aggregate macroeconomic dynamics — Orazio Attanasio, Richard Blundell",
+   "contribution": "for the empirical synthesis of micro-level consumption behavior with aggregate macroeconomic dynamics",
+   "jel_code": "E21",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Orazio Attanasio",
+     "affiliation": "Yale University",
+     "born": 1959,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "o attanasio"
+    },
+    {
+     "name": "Richard Blundell",
+     "affiliation": "University College London",
+     "born": 1952,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "r blundell"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Orazio Attanasio",
+     "affiliation": "Yale University",
+     "born": 1959,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "o attanasio"
+    },
+    {
+     "name": "Richard Blundell",
+     "affiliation": "University College London",
+     "born": 1952,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "r blundell"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "field": "Macro",
+   "option": "for the measurement of economic uncertainty and its macroeconomic consequences — Nicholas Bloom",
+   "contribution": "for the measurement of economic uncertainty and its macroeconomic consequences",
+   "jel_code": "E32",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Jan Teorell (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Nicholas Bloom",
+     "affiliation": "Stanford University",
+     "born": 1973,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "n bloom"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Nicholas Bloom",
+     "affiliation": "Stanford University",
+     "born": 1973,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "n bloom"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/jan-teorell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "field": "Macro",
+   "option": "for their empirical analysis of job creation, job destruction, and the macroeconomic implications of firm dynamics — John Haltiwanger, Steven Davis",
+   "contribution": "for their empirical analysis of job creation, job destruction, and the macroeconomic implications of firm dynamics",
+   "jel_code": "E24",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Per Strömberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "John Haltiwanger",
+     "affiliation": "University of Maryland",
+     "born": 1952,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j haltiwanger"
+    },
+    {
+     "name": "Steven Davis",
+     "affiliation": "Hoover Institution, Stanford University",
+     "born": 1957,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "s davis"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "John Haltiwanger",
+     "affiliation": "University of Maryland",
+     "born": 1952,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j haltiwanger"
+    },
+    {
+     "name": "Steven Davis",
+     "affiliation": "Hoover Institution, Stanford University",
+     "born": 1957,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "s davis"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/per-stromberg/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "field": "Macro",
+   "option": "for his theoretical analysis of the macroeconomic consequences of non-homothetic preferences and structural change — Kiminori Matsuyama",
+   "contribution": "for his theoretical analysis of the macroeconomic consequences of non-homothetic preferences and structural change",
+   "jel_code": "E21",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Kiminori Matsuyama",
+     "affiliation": "Northwestern University",
+     "born": 1957,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "k matsuyama"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Kiminori Matsuyama",
+     "affiliation": "Northwestern University",
+     "born": 1957,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "k matsuyama"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/timo-boppart/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "field": "Macro",
+   "option": "for the search-theoretic foundations of monetary exchange and liquidity — Nobuhiro Kiyotaki, Randall Wright",
+   "contribution": "for the search-theoretic foundations of monetary exchange and liquidity",
+   "jel_code": "E40",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Richard Friberg (O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Nobuhiro Kiyotaki",
+     "affiliation": "Princeton University",
+     "born": 1955,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "n kiyotaki"
+    },
+    {
+     "name": "Randall Wright",
+     "affiliation": "University of Wisconsin–Madison",
+     "born": 1956,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "r wright"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Nobuhiro Kiyotaki",
+     "affiliation": "Princeton University",
+     "born": 1955,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "n kiyotaki"
+    },
+    {
+     "name": "Randall Wright",
+     "affiliation": "University of Wisconsin–Madison",
+     "born": 1956,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "r wright"
+    }
+   ],
+   "nomination_ids": [
+    "openai/richard-friberg/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "field": "Macro",
+   "option": "for the theory of staggered price setting and nominal non-neutrality — Guillermo A. Calvo",
+   "contribution": "for the theory of staggered price setting and nominal non-neutrality",
+   "jel_code": "E31",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Randi Hjalmarsson (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Guillermo A. Calvo",
+     "affiliation": "Columbia University",
+     "born": 1941,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "g calvo"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Guillermo A. Calvo",
+     "affiliation": "Columbia University",
+     "born": 1941,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "g calvo"
+    }
+   ],
+   "nomination_ids": [
+    "openai/anna-dreber-almenberg/#5",
+    "openai/randi-hjalmarsson/#5"
+   ],
+   "flags": [
+    "Guillermo A. Calvo: born 1941 (age 85 in 2026)"
+   ]
+  },
+  {
+   "rank": 19,
+   "field": "Macro",
+   "option": "for the analysis of information frictions in aggregate price dynamics and monetary transmission — N. Gregory Mankiw, Ricardo Reis",
+   "contribution": "for the analysis of information frictions in aggregate price dynamics and monetary transmission",
+   "jel_code": "E31",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.1818,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Richard Friberg (O)",
+    "Timo Boppart (O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "N. Gregory Mankiw",
+     "affiliation": "Harvard University",
+     "born": 1958,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "n mankiw"
+    },
+    {
+     "name": "Ricardo Reis",
+     "affiliation": "London School of Economics and Political Science",
+     "born": 1978,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "r reis"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "N. Gregory Mankiw",
+     "affiliation": "Harvard University",
+     "born": 1958,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "n mankiw"
+    },
+    {
+     "name": "Ricardo Reis",
+     "affiliation": "London School of Economics and Political Science",
+     "born": 1978,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "r reis"
+    }
+   ],
+   "nomination_ids": [
+    "openai/richard-friberg/#5",
+    "openai/timo-boppart/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 20,
+   "field": "Macro",
+   "option": "for the historical reconstruction of macroeconomic data to understand the volatility of business cycles and the causes of the Great Depression — Christina Romer",
+   "contribution": "for the historical reconstruction of macroeconomic data to understand the volatility of business cycles and the causes of the Great Depression",
+   "jel_code": "E32",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Christina Romer",
+     "affiliation": "University of California, Berkeley",
+     "born": 1958,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "c romer"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Christina Romer",
+     "affiliation": "University of California, Berkeley",
+     "born": 1958,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "c romer"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "field": "Macro",
+   "option": "for contributions to behavioral macroeconomics and bounded rationality — Xavier Gabaix",
+   "contribution": "for contributions to behavioral macroeconomics and bounded rationality",
+   "jel_code": "E70",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Xavier Gabaix",
+     "affiliation": "Harvard University",
+     "born": 1971,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "x gabaix"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Xavier Gabaix",
+     "affiliation": "Harvard University",
+     "born": 1971,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "x gabaix"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "field": "Macro",
+   "option": "for his analysis of financial frictions and their impact on macroeconomic fluctuations — Mark Gertler",
+   "contribution": "for his analysis of financial frictions and their impact on macroeconomic fluctuations",
+   "jel_code": "E32",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Per Strömberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Mark Gertler",
+     "affiliation": "New York University",
+     "born": 1951,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "m gertler"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Mark Gertler",
+     "affiliation": "New York University",
+     "born": 1951,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "m gertler"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/per-stromberg/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

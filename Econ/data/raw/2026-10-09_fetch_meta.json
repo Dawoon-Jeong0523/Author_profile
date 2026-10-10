@@ -1,0 +1,23 @@
+[
+ {
+  "file": "2026-10-09_list_all.html",
+  "url": "https://www.nobelprize.org/prizes/lists/all-prizes-in-economic-sciences/all/",
+  "status": 200,
+  "bytes": 205512,
+  "fetched_utc": "2026-10-09T23:27:20+00:00"
+ },
+ {
+  "file": "2026-10-09_api_nobelPrizes_eco.json",
+  "url": "https://api.nobelprize.org/2.1/nobelPrizes?nobelPrizeCategory=eco&limit=200&sort=asc",
+  "status": 200,
+  "bytes": 78270,
+  "fetched_utc": "2026-10-09T23:27:21+00:00"
+ },
+ {
+  "file": "2026-10-09_api_laureates_eco.json",
+  "url": "https://api.nobelprize.org/2.1/laureates?nobelPrizeCategory=eco&limit=300",
+  "status": 200,
+  "bytes": 393780,
+  "fetched_utc": "2026-10-09T23:27:22+00:00"
+ }
+]

@@ -1,0 +1,60 @@
+{
+ "crawled": "2026-10-09",
+ "sources": [
+  {
+   "file": "2026-10-09_list_all.html",
+   "url": "https://www.nobelprize.org/prizes/lists/all-prizes-in-economic-sciences/all/",
+   "status": 200,
+   "bytes": 205512,
+   "fetched_utc": "2026-10-09T23:27:20+00:00"
+  },
+  {
+   "file": "2026-10-09_api_nobelPrizes_eco.json",
+   "url": "https://api.nobelprize.org/2.1/nobelPrizes?nobelPrizeCategory=eco&limit=200&sort=asc",
+   "status": 200,
+   "bytes": 78270,
+   "fetched_utc": "2026-10-09T23:27:21+00:00"
+  },
+  {
+   "file": "2026-10-09_api_laureates_eco.json",
+   "url": "https://api.nobelprize.org/2.1/laureates?nobelPrizeCategory=eco&limit=300",
+   "status": 200,
+   "bytes": 393780,
+   "fetched_utc": "2026-10-09T23:27:22+00:00"
+  }
+ ],
+ "page_intro": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel has been awarded 57 times to 99 laureates between 1969 and 2025. Click on the links to get more information.",
+ "n_prizes": 57,
+ "n_laureates": 99,
+ "checks": [
+  {
+   "year": 2025,
+   "check": "top motivation page = API",
+   "ok": true,
+   "detail": "page: 'for having explained innovation-driven economic growth' | api: 'for having explained innovation-driven economic growth'"
+  },
+  {
+   "check": "prize years page = API",
+   "ok": true,
+   "detail": "page 57 years, API 57 awarded years"
+  },
+  {
+   "check": "laureate count page = API",
+   "ok": true,
+   "detail": "page 99, API 99"
+  },
+  {
+   "check": "counts = page intro",
+   "ok": true,
+   "detail": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel has been awarded 57 times to 99 laureates between 1969 and 2025. Click on the links to get more information."
+  },
+  {
+   "check": "every page motivation equals the API text",
+   "ok": true,
+   "detail": "99 of 99 equal"
+  }
+ ],
+ "source_notes": [
+  "2005, Robert J. Aumann: the API affiliation name reads \"University of Jerusalem, Center for RationalityHebrew\" (kept as given)"
+ ]
+}

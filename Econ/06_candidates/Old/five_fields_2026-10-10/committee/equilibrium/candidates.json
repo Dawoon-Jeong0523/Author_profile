@@ -1,0 +1,1764 @@
+{
+ "field": "Equilibrium, Welfare",
+ "slug": "equilibrium",
+ "generated": "2026-10-10T19:01:02+00:00",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 9,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models",
+ "options": [
+  {
+   "rank": 1,
+   "field": "Equilibrium, Welfare",
+   "option": "for the axiomatic theory of fair allocation and cost sharing — Marc Fleurbaey, John E. Roemer, Hervé Moulin",
+   "contribution": "for the axiomatic theory of fair allocation and cost sharing",
+   "jel_code": "D63",
+   "score": 12.0101,
+   "points_per_model": {
+    "claude-opus-5-5": 3.5556,
+    "gpt-5.5-2026-04-23": 4.2727,
+    "gemini-3.1-pro-preview": 4.1818
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 46,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Marc Fleurbaey",
+     "affiliation": "Paris School of Economics",
+     "born": 1961,
+     "weight": 5.798,
+     "n_nominations": 24,
+     "key": "m fleurbaey"
+    },
+    {
+     "name": "John E. Roemer",
+     "affiliation": "Yale University",
+     "born": 1945,
+     "weight": 5.6162,
+     "n_nominations": 23,
+     "key": "j roemer"
+    },
+    {
+     "name": "Hervé Moulin",
+     "affiliation": "University of Glasgow",
+     "born": 1950,
+     "weight": 4.9394,
+     "n_nominations": 17,
+     "key": "h moulin"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Marc Fleurbaey",
+     "affiliation": "Paris School of Economics",
+     "born": 1961,
+     "weight": 5.798,
+     "n_nominations": 24,
+     "key": "m fleurbaey"
+    },
+    {
+     "name": "John E. Roemer",
+     "affiliation": "Yale University",
+     "born": 1945,
+     "weight": 5.6162,
+     "n_nominations": 23,
+     "key": "j roemer"
+    },
+    {
+     "name": "Hervé Moulin",
+     "affiliation": "University of Glasgow",
+     "born": 1950,
+     "weight": 4.9394,
+     "n_nominations": 17,
+     "key": "h moulin"
+    },
+    {
+     "name": "William Thomson",
+     "affiliation": "University of Rochester",
+     "born": 1949,
+     "weight": 3.7576,
+     "n_nominations": 12,
+     "key": "w thomson"
+    },
+    {
+     "name": "Hal R. Varian",
+     "affiliation": "University of California, Berkeley",
+     "born": 1947,
+     "weight": 2.6364,
+     "n_nominations": 7,
+     "key": "h varian"
+    },
+    {
+     "name": "François Maniquet",
+     "affiliation": "Université catholique de Louvain",
+     "born": 1965,
+     "weight": 1.0,
+     "n_nominations": 7,
+     "key": "f maniquet"
+    },
+    {
+     "name": "H. Peyton Young",
+     "affiliation": "University of Oxford",
+     "born": 1945,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "h young"
+    },
+    {
+     "name": "Duncan K. Foley",
+     "affiliation": "New School for Social Research",
+     "born": 1942,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "d foley"
+    },
+    {
+     "name": "Salvador Barberà",
+     "affiliation": "Universitat Autònoma de Barcelona",
+     "born": 1946,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "s barbera"
+    },
+    {
+     "name": "John A. Weymark",
+     "affiliation": "Vanderbilt University",
+     "born": 1949,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "j weymark"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/jan-teorell/#5",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/per-stromberg/#3",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/randi-hjalmarsson/#2",
+    "anthropic/richard-friberg/#3",
+    "anthropic/richard-friberg/#5",
+    "anthropic/tommy-andersson/#1",
+    "anthropic/tommy-andersson/#4",
+    "gemini/jan-teorell/#2",
+    "gemini/jan-teorell/#3",
+    "gemini/jan-teorell/#4",
+    "gemini/john-hassler/#5",
+    "gemini/kerstin-enflo/#4",
+    "gemini/per-stromberg/#2",
+    "gemini/per-stromberg/#4",
+    "gemini/peter-fredriksson/#3",
+    "gemini/peter-fredriksson/#4",
+    "gemini/randi-hjalmarsson/#1",
+    "gemini/richard-friberg/#5",
+    "gemini/timo-boppart/#4",
+    "gemini/timo-boppart/#5",
+    "gemini/tommy-andersson/#1",
+    "gemini/tommy-andersson/#2",
+    "gemini/tommy-andersson/#3",
+    "gemini/tommy-andersson/#4",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/jan-teorell/#2",
+    "openai/jan-teorell/#3",
+    "openai/john-hassler/#2",
+    "openai/john-hassler/#5",
+    "openai/kerstin-enflo/#4",
+    "openai/kerstin-enflo/#5",
+    "openai/per-krusell/#5",
+    "openai/per-stromberg/#3",
+    "openai/per-stromberg/#5",
+    "openai/peter-fredriksson/#1",
+    "openai/peter-fredriksson/#5",
+    "openai/randi-hjalmarsson/#3",
+    "openai/randi-hjalmarsson/#4",
+    "openai/richard-friberg/#5",
+    "openai/timo-boppart/#3",
+    "openai/timo-boppart/#5",
+    "openai/tommy-andersson/#1"
+   ],
+   "flags": [
+    "resembles an awarded motivation: 1975 Leonid Vitaliyevich Kantorovich; Tjalling C. Koopmans: \"for their contributions to th (word overlap 0.40)"
+   ]
+  },
+  {
+   "rank": 2,
+   "field": "Equilibrium, Welfare",
+   "option": "for the analysis of the structure and limits of general equilibrium theory — Andreu Mas-Colell, Hugo Sonnenschein, Yves Balasko",
+   "contribution": "for the analysis of the structure and limits of general equilibrium theory",
+   "jel_code": "D51",
+   "score": 7.8485,
+   "points_per_model": {
+    "claude-opus-5-5": 3.6667,
+    "gpt-5.5-2026-04-23": 3.7273,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 3,
+   "n_members": 10,
+   "n_nominations": 21,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Andreu Mas-Colell",
+     "affiliation": "Universitat Pompeu Fabra",
+     "born": 1944,
+     "weight": 6.9394,
+     "n_nominations": 18,
+     "key": "a colell"
+    },
+    {
+     "name": "Hugo Sonnenschein",
+     "affiliation": "University of Chicago",
+     "born": 1940,
+     "weight": 4.8081,
+     "n_nominations": 12,
+     "key": "h sonnenschein"
+    },
+    {
+     "name": "Yves Balasko",
+     "affiliation": "University of York, emeritus",
+     "born": 1945,
+     "weight": 0.3636,
+     "n_nominations": 2,
+     "key": "y balasko"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Andreu Mas-Colell",
+     "affiliation": "Universitat Pompeu Fabra",
+     "born": 1944,
+     "weight": 6.9394,
+     "n_nominations": 18,
+     "key": "a colell"
+    },
+    {
+     "name": "Hugo Sonnenschein",
+     "affiliation": "University of Chicago",
+     "born": 1940,
+     "weight": 4.8081,
+     "n_nominations": 12,
+     "key": "h sonnenschein"
+    },
+    {
+     "name": "Yves Balasko",
+     "affiliation": "University of York, emeritus",
+     "born": 1945,
+     "weight": 0.3636,
+     "n_nominations": 2,
+     "key": "y balasko"
+    },
+    {
+     "name": "Jean-Michel Grandmont",
+     "affiliation": "CREST-CNRS",
+     "born": 1939,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j grandmont"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/jan-teorell/#4",
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/per-krusell/#1",
+    "anthropic/per-stromberg/#2",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/richard-friberg/#1",
+    "anthropic/tommy-andersson/#2",
+    "gemini/timo-boppart/#1",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/kerstin-enflo/#2",
+    "openai/per-krusell/#2",
+    "openai/per-stromberg/#2",
+    "openai/peter-fredriksson/#4",
+    "openai/randi-hjalmarsson/#1",
+    "openai/richard-friberg/#1",
+    "openai/richard-friberg/#2",
+    "openai/timo-boppart/#1",
+    "openai/tommy-andersson/#4",
+    "openai/tommy-andersson/#5"
+   ],
+   "flags": [
+    "Hugo Sonnenschein: born 1940 (age 86 in 2026)",
+    "resembles an awarded motivation: 1972 John R. Hicks; Kenneth J. Arrow: \"for their pioneering contributions to general econo (word overlap 0.50)"
+   ]
+  },
+  {
+   "rank": 3,
+   "field": "Equilibrium, Welfare",
+   "option": "for the theory of general equilibrium with incomplete financial markets and its welfare implications — John Geanakoplos, Herakles Polemarchakis, Martine Quinzii",
+   "contribution": "for the theory of general equilibrium with incomplete financial markets and its welfare implications",
+   "jel_code": "D52",
+   "score": 6.5758,
+   "points_per_model": {
+    "claude-opus-5-5": 1.6667,
+    "gpt-5.5-2026-04-23": 2.9091,
+    "gemini-3.1-pro-preview": 2.0
+   },
+   "n_models": 3,
+   "n_members": 9,
+   "n_nominations": 18,
+   "supporters": [
+    "Jan Teorell (O)",
+    "John Hassler (G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (O)",
+    "Richard Friberg (A, G)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "John Geanakoplos",
+     "affiliation": "Yale University",
+     "born": 1955,
+     "weight": 5.3939,
+     "n_nominations": 15,
+     "key": "j geanakoplos"
+    },
+    {
+     "name": "Herakles Polemarchakis",
+     "affiliation": "University of Warwick",
+     "born": 1947,
+     "weight": 3.6667,
+     "n_nominations": 9,
+     "key": "h polemarchakis"
+    },
+    {
+     "name": "Martine Quinzii",
+     "affiliation": "University of California, Davis",
+     "born": 1945,
+     "weight": 2.0909,
+     "n_nominations": 6,
+     "key": "m quinzii"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "John Geanakoplos",
+     "affiliation": "Yale University",
+     "born": 1955,
+     "weight": 5.3939,
+     "n_nominations": 15,
+     "key": "j geanakoplos"
+    },
+    {
+     "name": "Herakles Polemarchakis",
+     "affiliation": "University of Warwick",
+     "born": 1947,
+     "weight": 3.6667,
+     "n_nominations": 9,
+     "key": "h polemarchakis"
+    },
+    {
+     "name": "Martine Quinzii",
+     "affiliation": "University of California, Davis",
+     "born": 1945,
+     "weight": 2.0909,
+     "n_nominations": 6,
+     "key": "m quinzii"
+    },
+    {
+     "name": "Michael Magill",
+     "affiliation": "University of Southern California",
+     "born": 1946,
+     "weight": 1.6364,
+     "n_nominations": 5,
+     "key": "m magill"
+    },
+    {
+     "name": "Truman F. Bewley",
+     "affiliation": "Yale University",
+     "born": 1941,
+     "weight": 1.1818,
+     "n_nominations": 3,
+     "key": "t bewley"
+    },
+    {
+     "name": "Darrell Duffie",
+     "affiliation": "Stanford University",
+     "born": 1954,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "d duffie"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/per-krusell/#2",
+    "anthropic/per-stromberg/#1",
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/richard-friberg/#2",
+    "gemini/john-hassler/#1",
+    "gemini/john-hassler/#2",
+    "gemini/per-krusell/#2",
+    "gemini/per-stromberg/#1",
+    "gemini/peter-fredriksson/#5",
+    "gemini/richard-friberg/#3",
+    "openai/jan-teorell/#1",
+    "openai/john-hassler/#3",
+    "openai/per-krusell/#1",
+    "openai/per-stromberg/#1",
+    "openai/peter-fredriksson/#3",
+    "openai/randi-hjalmarsson/#2",
+    "openai/timo-boppart/#2",
+    "openai/tommy-andersson/#3"
+   ],
+   "flags": [
+    "resembles an awarded motivation: 1972 John R. Hicks; Kenneth J. Arrow: \"for their pioneering contributions to general econo (word overlap 0.50)"
+   ]
+  },
+  {
+   "rank": 4,
+   "field": "Equilibrium, Welfare",
+   "option": "for axiomatic measures of poverty, inequality and social welfare — James E. Foster, Anthony F. Shorrocks, François Bourguignon",
+   "contribution": "for axiomatic measures of poverty, inequality and social welfare",
+   "jel_code": "D63",
+   "score": 4.9091,
+   "points_per_model": {
+    "claude-opus-5-5": 2.0,
+    "gpt-5.5-2026-04-23": 2.5455,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 20,
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, O)",
+    "John Hassler (O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, O)",
+    "Randi Hjalmarsson (A)",
+    "Richard Friberg (O)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "James E. Foster",
+     "affiliation": "George Washington University",
+     "born": 1955,
+     "weight": 4.303,
+     "n_nominations": 17,
+     "key": "j foster"
+    },
+    {
+     "name": "Anthony F. Shorrocks",
+     "affiliation": "Global Economic Perspectives",
+     "born": 1946,
+     "weight": 3.1313,
+     "n_nominations": 14,
+     "key": "a shorrocks"
+    },
+    {
+     "name": "François Bourguignon",
+     "affiliation": "Paris School of Economics",
+     "born": 1945,
+     "weight": 1.7273,
+     "n_nominations": 6,
+     "key": "f bourguignon"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "James E. Foster",
+     "affiliation": "George Washington University",
+     "born": 1955,
+     "weight": 4.303,
+     "n_nominations": 17,
+     "key": "j foster"
+    },
+    {
+     "name": "Anthony F. Shorrocks",
+     "affiliation": "Global Economic Perspectives",
+     "born": 1946,
+     "weight": 3.1313,
+     "n_nominations": 14,
+     "key": "a shorrocks"
+    },
+    {
+     "name": "François Bourguignon",
+     "affiliation": "Paris School of Economics",
+     "born": 1945,
+     "weight": 1.7273,
+     "n_nominations": 6,
+     "key": "f bourguignon"
+    },
+    {
+     "name": "Sabina Alkire",
+     "affiliation": "University of Oxford",
+     "born": 1969,
+     "weight": 0.9697,
+     "n_nominations": 4,
+     "key": "s alkire"
+    },
+    {
+     "name": "Frank A. Cowell",
+     "affiliation": "London School of Economics",
+     "born": 1947,
+     "weight": 0.8788,
+     "n_nominations": 3,
+     "key": "f cowell"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/jan-teorell/#3",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/per-krusell/#5",
+    "anthropic/per-stromberg/#4",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/randi-hjalmarsson/#5",
+    "anthropic/tommy-andersson/#3",
+    "gemini/anna-dreber-almenberg/#3",
+    "gemini/per-krusell/#5",
+    "openai/anna-dreber-almenberg/#3",
+    "openai/jan-teorell/#4",
+    "openai/john-hassler/#4",
+    "openai/kerstin-enflo/#1",
+    "openai/per-krusell/#4",
+    "openai/per-stromberg/#4",
+    "openai/peter-fredriksson/#2",
+    "openai/richard-friberg/#4",
+    "openai/timo-boppart/#4",
+    "openai/tommy-andersson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "field": "Equilibrium, Welfare",
+   "option": "for constructing long-run series on the distribution of income and wealth — Thomas Piketty, Emmanuel Saez, Gabriel Zucman",
+   "contribution": "for constructing long-run series on the distribution of income and wealth",
+   "jel_code": "D63",
+   "score": 2.2929,
+   "points_per_model": {
+    "claude-opus-5-5": 1.1111,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 1.1818
+   },
+   "n_models": 2,
+   "n_members": 4,
+   "n_nominations": 5,
+   "supporters": [
+    "Jan Teorell (A, G)",
+    "Kerstin Enflo (A)",
+    "Peter Fredriksson (G)",
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Thomas Piketty",
+     "affiliation": "Paris School of Economics",
+     "born": 1971,
+     "weight": 2.2929,
+     "n_nominations": 5,
+     "key": "t piketty"
+    },
+    {
+     "name": "Emmanuel Saez",
+     "affiliation": "University of California, Berkeley",
+     "born": 1972,
+     "weight": 1.5657,
+     "n_nominations": 3,
+     "key": "e saez"
+    },
+    {
+     "name": "Gabriel Zucman",
+     "affiliation": "Paris School of Economics and UC Berkeley",
+     "born": 1986,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "g zucman"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Thomas Piketty",
+     "affiliation": "Paris School of Economics",
+     "born": 1971,
+     "weight": 2.2929,
+     "n_nominations": 5,
+     "key": "t piketty"
+    },
+    {
+     "name": "Emmanuel Saez",
+     "affiliation": "University of California, Berkeley",
+     "born": 1972,
+     "weight": 1.5657,
+     "n_nominations": 3,
+     "key": "e saez"
+    },
+    {
+     "name": "Gabriel Zucman",
+     "affiliation": "Paris School of Economics and UC Berkeley",
+     "born": 1986,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "g zucman"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/jan-teorell/#1",
+    "anthropic/kerstin-enflo/#1",
+    "gemini/jan-teorell/#1",
+    "gemini/peter-fredriksson/#2",
+    "gemini/richard-friberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "field": "Equilibrium, Welfare",
+   "option": "for the development of applied general equilibrium models for policy analysis — John B. Shoven, John Whalley, Peter B. Dixon",
+   "contribution": "for the development of applied general equilibrium models for policy analysis",
+   "jel_code": "C68",
+   "score": 1.9091,
+   "points_per_model": {
+    "claude-opus-5-5": 1.0,
+    "gpt-5.5-2026-04-23": 0.6364,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 3,
+   "n_members": 6,
+   "n_nominations": 9,
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A)",
+    "Richard Friberg (A)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "John B. Shoven",
+     "affiliation": "Stanford University",
+     "born": 1947,
+     "weight": 1.9091,
+     "n_nominations": 9,
+     "key": "j shoven"
+    },
+    {
+     "name": "John Whalley",
+     "affiliation": "University of Western Ontario",
+     "born": 1947,
+     "weight": 1.9091,
+     "n_nominations": 9,
+     "key": "j whalley"
+    },
+    {
+     "name": "Peter B. Dixon",
+     "affiliation": "Victoria University, Melbourne",
+     "born": 1943,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "p dixon"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "John B. Shoven",
+     "affiliation": "Stanford University",
+     "born": 1947,
+     "weight": 1.9091,
+     "n_nominations": 9,
+     "key": "j shoven"
+    },
+    {
+     "name": "John Whalley",
+     "affiliation": "University of Western Ontario",
+     "born": 1947,
+     "weight": 1.9091,
+     "n_nominations": 9,
+     "key": "j whalley"
+    },
+    {
+     "name": "Peter B. Dixon",
+     "affiliation": "Victoria University, Melbourne",
+     "born": 1943,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "p dixon"
+    },
+    {
+     "name": "Kenneth L. Judd",
+     "affiliation": "Hoover Institution, Stanford University",
+     "born": 1953,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "k judd"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/kerstin-enflo/#3",
+    "anthropic/per-krusell/#4",
+    "anthropic/per-stromberg/#5",
+    "anthropic/richard-friberg/#4",
+    "anthropic/tommy-andersson/#5",
+    "gemini/per-krusell/#3",
+    "openai/anna-dreber-almenberg/#5",
+    "openai/kerstin-enflo/#3",
+    "openai/per-krusell/#3"
+   ],
+   "flags": [
+    "resembles an awarded motivation: 1972 John R. Hicks; Kenneth J. Arrow: \"for their pioneering contributions to general econo (word overlap 0.50)"
+   ]
+  },
+  {
+   "rank": 7,
+   "field": "Equilibrium, Welfare",
+   "option": "for impossibility theorems on strategy-proof collective choice — Allan Gibbard, Mark A. Satterthwaite, Salvador Barberà",
+   "contribution": "for impossibility theorems on strategy-proof collective choice",
+   "jel_code": "D71",
+   "score": 1.4848,
+   "points_per_model": {
+    "claude-opus-5-5": 0.6667,
+    "gpt-5.5-2026-04-23": 0.8182,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 2,
+   "n_members": 4,
+   "n_nominations": 5,
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Jan Teorell (A, O)",
+    "John Hassler (O)",
+    "Richard Friberg (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Allan Gibbard",
+     "affiliation": "University of Michigan",
+     "born": 1942,
+     "weight": 1.4848,
+     "n_nominations": 5,
+     "key": "a gibbard"
+    },
+    {
+     "name": "Mark A. Satterthwaite",
+     "affiliation": "Northwestern University",
+     "born": 1945,
+     "weight": 1.4848,
+     "n_nominations": 5,
+     "key": "m satterthwaite"
+    },
+    {
+     "name": "Salvador Barberà",
+     "affiliation": "Universitat Autònoma de Barcelona",
+     "born": 1946,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "s barbera"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Allan Gibbard",
+     "affiliation": "University of Michigan",
+     "born": 1942,
+     "weight": 1.4848,
+     "n_nominations": 5,
+     "key": "a gibbard"
+    },
+    {
+     "name": "Mark A. Satterthwaite",
+     "affiliation": "Northwestern University",
+     "born": 1945,
+     "weight": 1.4848,
+     "n_nominations": 5,
+     "key": "m satterthwaite"
+    },
+    {
+     "name": "Salvador Barberà",
+     "affiliation": "Universitat Autònoma de Barcelona",
+     "born": 1946,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "s barbera"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/jan-teorell/#2",
+    "openai/jan-teorell/#5",
+    "openai/john-hassler/#1",
+    "openai/richard-friberg/#3"
+   ],
+   "flags": [
+    "most frequent code D71 is outside the field's groups"
+   ]
+  },
+  {
+   "rank": 8,
+   "field": "Equilibrium, Welfare",
+   "option": "for his theoretical analysis of social and economic networks and their implications for general equilibrium — Matthew O. Jackson",
+   "contribution": "for his theoretical analysis of social and economic networks and their implications for general equilibrium",
+   "jel_code": "D50",
+   "score": 1.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 1.0909
+   },
+   "n_models": 1,
+   "n_members": 4,
+   "n_nominations": 4,
+   "supporters": [
+    "John Hassler (G)",
+    "Kerstin Enflo (G)",
+    "Per Krusell (G)",
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Matthew O. Jackson",
+     "affiliation": "Stanford University",
+     "born": 1962,
+     "weight": 1.0909,
+     "n_nominations": 4,
+     "key": "m jackson"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Matthew O. Jackson",
+     "affiliation": "Stanford University",
+     "born": 1962,
+     "weight": 1.0909,
+     "n_nominations": 4,
+     "key": "m jackson"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/john-hassler/#3",
+    "gemini/kerstin-enflo/#3",
+    "gemini/per-krusell/#4",
+    "gemini/timo-boppart/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "field": "Equilibrium, Welfare",
+   "option": "for fundamental contributions to the rigorous formulation and application of recursive methods in economic theory — Nancy L. Stokey",
+   "contribution": "for fundamental contributions to the rigorous formulation and application of recursive methods in economic theory",
+   "jel_code": "C61",
+   "score": 0.899,
+   "points_per_model": {
+    "claude-opus-5-5": 0.4444,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 2,
+   "n_members": 2,
+   "n_nominations": 3,
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Per Krusell (A, G)"
+   ],
+   "roles": [
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Nancy L. Stokey",
+     "affiliation": "University of Chicago",
+     "born": 1950,
+     "weight": 0.899,
+     "n_nominations": 3,
+     "key": "n stokey"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Nancy L. Stokey",
+     "affiliation": "University of Chicago",
+     "born": 1950,
+     "weight": 0.899,
+     "n_nominations": 3,
+     "key": "n stokey"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/per-krusell/#3",
+    "gemini/per-krusell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "field": "Equilibrium, Welfare",
+   "option": "for his contributions to welfare economics, particularly regarding the natural environment and population — Partha Dasgupta",
+   "contribution": "for his contributions to welfare economics, particularly regarding the natural environment and population",
+   "jel_code": "D60",
+   "score": 0.7677,
+   "points_per_model": {
+    "claude-opus-5-5": 0.2222,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 3,
+   "n_members": 2,
+   "n_nominations": 4,
+   "supporters": [
+    "Per Strömberg (G)",
+    "Randi Hjalmarsson (A, G, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Partha Dasgupta",
+     "affiliation": "University of Cambridge",
+     "born": 1942,
+     "weight": 0.7677,
+     "n_nominations": 4,
+     "key": "p dasgupta"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Partha Dasgupta",
+     "affiliation": "University of Cambridge",
+     "born": 1942,
+     "weight": 0.7677,
+     "n_nominations": 4,
+     "key": "p dasgupta"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/randi-hjalmarsson/#4",
+    "gemini/per-stromberg/#3",
+    "gemini/randi-hjalmarsson/#4",
+    "openai/randi-hjalmarsson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "field": "Equilibrium, Welfare",
+   "option": "for the experimental analysis of social preferences, fairness, and cooperation — Ernst Fehr, Matthew Rabin",
+   "contribution": "for the experimental analysis of social preferences, fairness, and cooperation",
+   "jel_code": "D63",
+   "score": 0.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.7273
+   },
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Ernst Fehr",
+     "affiliation": "University of Zurich",
+     "born": 1956,
+     "weight": 0.7273,
+     "n_nominations": 2,
+     "key": "e fehr"
+    },
+    {
+     "name": "Matthew Rabin",
+     "affiliation": "Harvard University",
+     "born": 1962,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m rabin"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Ernst Fehr",
+     "affiliation": "University of Zurich",
+     "born": 1956,
+     "weight": 0.7273,
+     "n_nominations": 2,
+     "key": "e fehr"
+    },
+    {
+     "name": "Matthew Rabin",
+     "affiliation": "Harvard University",
+     "born": 1962,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m rabin"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#1",
+    "gemini/randi-hjalmarsson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "field": "Equilibrium, Welfare",
+   "option": "for their foundational contributions to behavioral welfare economics — B. Douglas Bernheim, Matthew Rabin",
+   "contribution": "for their foundational contributions to behavioral welfare economics",
+   "jel_code": "D60",
+   "score": 0.6364,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.6364
+   },
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "B. Douglas Bernheim",
+     "affiliation": "Stanford University",
+     "born": 1958,
+     "weight": 0.6364,
+     "n_nominations": 2,
+     "key": "b bernheim"
+    },
+    {
+     "name": "Matthew Rabin",
+     "affiliation": "Harvard University",
+     "born": 1962,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "m rabin"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "B. Douglas Bernheim",
+     "affiliation": "Stanford University",
+     "born": 1958,
+     "weight": 0.6364,
+     "n_nominations": 2,
+     "key": "b bernheim"
+    },
+    {
+     "name": "Matthew Rabin",
+     "affiliation": "Harvard University",
+     "born": 1962,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "m rabin"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#4",
+    "gemini/richard-friberg/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "field": "Equilibrium, Welfare",
+   "option": "for the measurement of intergenerational mobility and its geographic determinants using administrative data — Nathaniel Hendren, Patrick Kline, Raj Chetty",
+   "contribution": "for the measurement of intergenerational mobility and its geographic determinants using administrative data",
+   "jel_code": "D63",
+   "score": 0.5556,
+   "points_per_model": {
+    "claude-opus-5-5": 0.5556,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Randi Hjalmarsson (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Nathaniel Hendren",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1984,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "n hendren"
+    },
+    {
+     "name": "Patrick Kline",
+     "affiliation": "University of California, Berkeley",
+     "born": 1979,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "p kline"
+    },
+    {
+     "name": "Raj Chetty",
+     "affiliation": "Harvard University",
+     "born": 1979,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "r chetty"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Nathaniel Hendren",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1984,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "n hendren"
+    },
+    {
+     "name": "Patrick Kline",
+     "affiliation": "University of California, Berkeley",
+     "born": 1979,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "p kline"
+    },
+    {
+     "name": "Raj Chetty",
+     "affiliation": "Harvard University",
+     "born": 1979,
+     "weight": 0.5556,
+     "n_nominations": 1,
+     "key": "r chetty"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/randi-hjalmarsson/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "field": "Equilibrium, Welfare",
+   "option": "for his mathematical and axiomatic methods in economic theory and bounded rationality — Ariel Rubinstein",
+   "contribution": "for his mathematical and axiomatic methods in economic theory and bounded rationality",
+   "jel_code": "C62",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 1,
+   "n_members": 5,
+   "n_nominations": 5,
+   "supporters": [
+    "Jan Teorell (G)",
+    "Kerstin Enflo (G)",
+    "Per Strömberg (G)",
+    "Randi Hjalmarsson (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Ariel Rubinstein",
+     "affiliation": "Tel Aviv University",
+     "born": 1951,
+     "weight": 0.4545,
+     "n_nominations": 5,
+     "key": "a rubinstein"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Ariel Rubinstein",
+     "affiliation": "Tel Aviv University",
+     "born": 1951,
+     "weight": 0.4545,
+     "n_nominations": 5,
+     "key": "a rubinstein"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/jan-teorell/#5",
+    "gemini/kerstin-enflo/#5",
+    "gemini/per-stromberg/#5",
+    "gemini/randi-hjalmarsson/#5",
+    "gemini/tommy-andersson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "field": "Equilibrium, Welfare",
+   "option": "for the development of quantitative spatial equilibrium models that integrate economic geography, trade, and regional disparities — Esteban Rossi-Hansberg, Stephen Redding",
+   "contribution": "for the development of quantitative spatial equilibrium models that integrate economic geography, trade, and regional disparities",
+   "jel_code": "D58",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Esteban Rossi-Hansberg",
+     "affiliation": "University of Chicago",
+     "born": 1973,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "e hansberg"
+    },
+    {
+     "name": "Stephen Redding",
+     "affiliation": "Princeton University",
+     "born": null,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "s redding"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Esteban Rossi-Hansberg",
+     "affiliation": "University of Chicago",
+     "born": 1973,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "e hansberg"
+    },
+    {
+     "name": "Stephen Redding",
+     "affiliation": "Princeton University",
+     "born": null,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "s redding"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "field": "Equilibrium, Welfare",
+   "option": "for the measurement and analysis of intergenerational economic mobility — Gary Solon",
+   "contribution": "for the measurement and analysis of intergenerational economic mobility",
+   "jel_code": "D63",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Peter Fredriksson (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Gary Solon",
+     "affiliation": "University of Michigan / University of Arizona",
+     "born": 1954,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "g solon"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Gary Solon",
+     "affiliation": "University of Michigan / University of Arizona",
+     "born": 1954,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "g solon"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/peter-fredriksson/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "field": "Equilibrium, Welfare",
+   "option": "for pioneering experimental methods to test economic equilibrium and market mechanisms — Charles R. Plott",
+   "contribution": "for pioneering experimental methods to test economic equilibrium and market mechanisms",
+   "jel_code": "C62",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Charles R. Plott",
+     "affiliation": "Caltech",
+     "born": 1938,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "c plott"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Charles R. Plott",
+     "affiliation": "Caltech",
+     "born": 1938,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "c plott"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#2"
+   ],
+   "flags": [
+    "Charles R. Plott: born 1938 (age 88 in 2026)"
+   ]
+  },
+  {
+   "rank": 18,
+   "field": "Equilibrium, Welfare",
+   "option": "for his comprehensive measurement and analysis of global income inequality over the long run — Branko Milanovic",
+   "contribution": "for his comprehensive measurement and analysis of global income inequality over the long run",
+   "jel_code": "D63",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Branko Milanovic",
+     "affiliation": "City University of New York",
+     "born": 1953,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "b milanovic"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Branko Milanovic",
+     "affiliation": "City University of New York",
+     "born": 1953,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "b milanovic"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 19,
+   "field": "Equilibrium, Welfare",
+   "option": "for his application of structural and empirical methods to welfare economics, tax policy, and labor supply — Richard Blundell",
+   "contribution": "for his application of structural and empirical methods to welfare economics, tax policy, and labor supply",
+   "jel_code": "D60",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Richard Blundell",
+     "affiliation": "UCL",
+     "born": 1952,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "r blundell"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Richard Blundell",
+     "affiliation": "UCL",
+     "born": 1952,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "r blundell"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/randi-hjalmarsson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 20,
+   "field": "Equilibrium, Welfare",
+   "option": "for his general equilibrium models of risk-sharing and financial contracting in developing economies — Robert M. Townsend",
+   "contribution": "for his general equilibrium models of risk-sharing and financial contracting in developing economies",
+   "jel_code": "D52",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Robert M. Townsend",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1948,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "r townsend"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Robert M. Townsend",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1948,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "r townsend"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/timo-boppart/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "field": "Equilibrium, Welfare",
+   "option": "for his contributions to dynamic choice theory and the foundations of economic behavior — David M. Kreps",
+   "contribution": "for his contributions to dynamic choice theory and the foundations of economic behavior",
+   "jel_code": "D60",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "John Hassler (G)"
+   ],
+   "roles": [
+    "chair"
+   ],
+   "people": [
+    {
+     "name": "David M. Kreps",
+     "affiliation": "Stanford University",
+     "born": 1950,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "d kreps"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "David M. Kreps",
+     "affiliation": "Stanford University",
+     "born": 1950,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "d kreps"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/john-hassler/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "field": "Equilibrium, Welfare",
+   "option": "for his contributions to microeconomic theory, fairness, and the economics of information — Hal Varian",
+   "contribution": "for his contributions to microeconomic theory, fairness, and the economics of information",
+   "jel_code": "D63",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Hal Varian",
+     "affiliation": "UC Berkeley / Google",
+     "born": 1947,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "h varian"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Hal Varian",
+     "affiliation": "UC Berkeley / Google",
+     "born": 1947,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "h varian"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/richard-friberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 23,
+   "field": "Equilibrium, Welfare",
+   "option": "for developing numerical methods for solving dynamic economic models — Kenneth L. Judd",
+   "contribution": "for developing numerical methods for solving dynamic economic models",
+   "jel_code": "C63",
+   "score": 0.1111,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1111,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Peter Fredriksson (A)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Kenneth L. Judd",
+     "affiliation": "Stanford University (Hoover Institution)",
+     "born": 1953,
+     "weight": 0.1111,
+     "n_nominations": 1,
+     "key": "k judd"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Kenneth L. Judd",
+     "affiliation": "Stanford University (Hoover Institution)",
+     "born": 1953,
+     "weight": 0.1111,
+     "n_nominations": 1,
+     "key": "k judd"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/peter-fredriksson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 24,
+   "field": "Equilibrium, Welfare",
+   "option": "for the formalization of fairness and reference-dependent preferences in economic theory — Matthew Rabin",
+   "contribution": "for the formalization of fairness and reference-dependent preferences in economic theory",
+   "jel_code": "D60",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Matthew Rabin",
+     "affiliation": "Harvard University",
+     "born": 1962,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "m rabin"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Matthew Rabin",
+     "affiliation": "Harvard University",
+     "born": 1962,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "m rabin"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "field": "Trade",
+ "slug": "trade",
+ "generated": "2026-10-10T19:01:01+00:00",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 9,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models",
+ "options": [
+  {
+   "rank": 1,
+   "field": "Trade",
+   "option": "for the analysis of firm heterogeneity in international trade — Marc J. Melitz, Elhanan Helpman, Samuel Kortum",
+   "contribution": "for the analysis of firm heterogeneity in international trade",
+   "jel_code": "F12",
+   "score": 32.9798,
+   "points_per_model": {
+    "claude-opus-5-5": 10.8889,
+    "gpt-5.5-2026-04-23": 10.3636,
+    "gemini-3.1-pro-preview": 11.7273
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 102,
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Marc J. Melitz",
+     "affiliation": "Harvard University",
+     "born": 1968,
+     "weight": 13.9394,
+     "n_nominations": 31,
+     "key": "m melitz"
+    },
+    {
+     "name": "Elhanan Helpman",
+     "affiliation": "Harvard University",
+     "born": 1946,
+     "weight": 8.7778,
+     "n_nominations": 28,
+     "key": "e helpman"
+    },
+    {
+     "name": "Samuel Kortum",
+     "affiliation": "Yale University",
+     "born": 1960,
+     "weight": 6.5556,
+     "n_nominations": 18,
+     "key": "s kortum"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Marc J. Melitz",
+     "affiliation": "Harvard University",
+     "born": 1968,
+     "weight": 13.9394,
+     "n_nominations": 31,
+     "key": "m melitz"
+    },
+    {
+     "name": "Elhanan Helpman",
+     "affiliation": "Harvard University",
+     "born": 1946,
+     "weight": 8.7778,
+     "n_nominations": 28,
+     "key": "e helpman"
+    },
+    {
+     "name": "Samuel Kortum",
+     "affiliation": "Yale University",
+     "born": 1960,
+     "weight": 6.5556,
+     "n_nominations": 18,
+     "key": "s kortum"
+    },
+    {
+     "name": "Jonathan Eaton",
+     "affiliation": "Pennsylvania State University",
+     "born": 1950,
+     "weight": 6.2828,
+     "n_nominations": 17,
+     "key": "j eaton"
+    },
+    {
+     "name": "David H. Autor",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1967,
+     "weight": 6.0606,
+     "n_nominations": 20,
+     "key": "d autor"
+    },
+    {
+     "name": "Gordon H. Hanson",
+     "affiliation": "Harvard University",
+     "born": 1964,
+     "weight": 5.9697,
+     "n_nominations": 20,
+     "key": "g hanson"
+    },
+    {
+     "name": "Gene M. Grossman",
+     "affiliation": "Princeton University",
+     "born": 1955,
+     "weight": 5.7778,
+     "n_nominations": 24,
+     "key": "g grossman"
+    },
+    {
+     "name": "David Dorn",
+     "affiliation": "University of Zurich",
+     "born": 1979,
+     "weight": 5.2424,
+     "n_nominations": 16,
+     "key": "d dorn"
+    },
+    {
+     "name": "Andrew B. Bernard",
+     "affiliation": "Dartmouth College",
+     "born": 1963,
+     "weight": 4.2929,
+     "n_nominations": 9,
+     "key": "a bernard"
+    },
+    {
+     "name": "Pol Antràs",
+     "affiliation": "Harvard University",
+     "born": 1975,
+     "weight": 2.2727,
+     "n_nominations": 12,
+     "key": "p antras"
+    },
+    {
+     "name": "J. Bradford Jensen",
+     "affiliation": "Georgetown University",
+     "born": null,
+     "weight": 1.3636,
+     "n_nominations": 3,
+     "key": "j jensen"
+    },
+    {
+     "name": "Andrés Rodríguez-Clare",
+     "affiliation": "University of California, Berkeley",
+     "born": 1967,
+     "weight": 1.0909,
+     "n_nominations": 4,
+     "key": "a clare"
+    },
+    {
+     "name": "Arnaud Costinot",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1978,
+     "weight": 1.0909,
+     "n_nominations": 4,
+     "key": "a costinot"
+    },
+    {
+     "name": "Stephen J. Redding",
+     "affiliation": "Princeton University",
+     "born": 1970,
+     "weight": 1.0909,
+     "n_nominations": 3,
+     "key": "s redding"
+    },
+    {
+     "name": "Costas Arkolakis",
+     "affiliation": "Yale University",
+     "born": 1979,
+     "weight": 0.8182,
+     "n_nominations": 3,
+     "key": "c arkolakis"
+    },
+    {
+     "name": "Esteban Rossi-Hansberg",
+     "affiliation": "University of Chicago",
+     "born": 1973,
+     "weight": 0.5455,
+     "n_nominations": 3,
+     "key": "e hansberg"
+    },
+    {
+     "name": "Stephen R. Yeaple",
+     "affiliation": "Pennsylvania State University",
+     "born": null,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "s yeaple"
+    },
+    {
+     "name": "Robert C. Feenstra",
+     "affiliation": "University of California, Davis",
+     "born": 1956,
+     "weight": 0.1818,
+     "n_nominations": 2,
+     "key": "r feenstra"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/jan-teorell/#1",
+    "anthropic/jan-teorell/#2",
+    "anthropic/jan-teorell/#4",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/kerstin-enflo/#3",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/per-krusell/#1",
+    "anthropic/per-krusell/#2",
+    "anthropic/per-krusell/#4",
+    "anthropic/per-stromberg/#1",
+    "anthropic/per-stromberg/#2",
+    "anthropic/per-stromberg/#4",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/randi-hjalmarsson/#2",
+    "anthropic/randi-hjalmarsson/#4",
+    "anthropic/richard-friberg/#1",
+    "anthropic/richard-friberg/#4",
+    "anthropic/richard-friberg/#5",
+    "anthropic/tommy-andersson/#1",
+    "anthropic/tommy-andersson/#2",
+    "anthropic/tommy-andersson/#4",
+    "anthropic/tommy-andersson/#5",
+    "gemini/anna-dreber-almenberg/#1",
+    "gemini/anna-dreber-almenberg/#2",
+    "gemini/anna-dreber-almenberg/#4",
+    "gemini/anna-dreber-almenberg/#5",
+    "gemini/jan-teorell/#1",
+    "gemini/jan-teorell/#2",
+    "gemini/jan-teorell/#5",
+    "gemini/john-hassler/#1",
+    "gemini/john-hassler/#2",
+    "gemini/john-hassler/#4",
+    "gemini/kerstin-enflo/#2",
+    "gemini/kerstin-enflo/#4",
+    "gemini/kerstin-enflo/#5",
+    "gemini/per-krusell/#1",
+    "gemini/per-krusell/#2",
+    "gemini/per-krusell/#4",
+    "gemini/per-stromberg/#1",
+    "gemini/per-stromberg/#2",
+    "gemini/per-stromberg/#3",
+    "gemini/peter-fredriksson/#1",
+    "gemini/peter-fredriksson/#2",
+    "gemini/peter-fredriksson/#3",
+    "gemini/peter-fredriksson/#4",
+    "gemini/randi-hjalmarsson/#1",
+    "gemini/randi-hjalmarsson/#2",
+    "gemini/randi-hjalmarsson/#4",
+    "gemini/randi-hjalmarsson/#5",
+    "gemini/richard-friberg/#1",
+    "gemini/richard-friberg/#3",
+    "gemini/richard-friberg/#4",
+    "gemini/timo-boppart/#1",
+    "gemini/timo-boppart/#2",
+    "gemini/timo-boppart/#3",
+    "gemini/timo-boppart/#4",
+    "gemini/timo-boppart/#5",
+    "gemini/tommy-andersson/#1",
+    "gemini/tommy-andersson/#2",
+    "gemini/tommy-andersson/#3",
+    "gemini/tommy-andersson/#4",
+    "gemini/tommy-andersson/#5",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/anna-dreber-almenberg/#5",
+    "openai/jan-teorell/#1",
+    "openai/jan-teorell/#2",
+    "openai/jan-teorell/#3",
+    "openai/jan-teorell/#5",
+    "openai/john-hassler/#1",
+    "openai/john-hassler/#4",
+    "openai/kerstin-enflo/#1",
+    "openai/kerstin-enflo/#3",
+    "openai/kerstin-enflo/#4",
+    "openai/per-krusell/#1",
+    "openai/per-krusell/#2",
+    "openai/per-krusell/#4",
+    "openai/per-stromberg/#1",
+    "openai/per-stromberg/#2",
+    "openai/peter-fredriksson/#1",
+    "openai/peter-fredriksson/#2",
+    "openai/peter-fredriksson/#3",
+    "openai/peter-fredriksson/#4",
+    "openai/randi-hjalmarsson/#1",
+    "openai/randi-hjalmarsson/#4",
+    "openai/randi-hjalmarsson/#5",
+    "openai/richard-friberg/#1",
+    "openai/richard-friberg/#3",
+    "openai/timo-boppart/#1",
+    "openai/timo-boppart/#2",
+    "openai/timo-boppart/#3",
+    "openai/timo-boppart/#4",
+    "openai/tommy-andersson/#1",
+    "openai/tommy-andersson/#3",
+    "openai/tommy-andersson/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "field": "Trade",
+   "option": "for the foundations of modern open-economy macroeconomics — Maurice Obstfeld, Kenneth Rogoff",
+   "contribution": "for the foundations of modern open-economy macroeconomics",
+   "jel_code": "F41",
+   "score": 5.3232,
+   "points_per_model": {
+    "claude-opus-5-5": 2.7778,
+    "gpt-5.5-2026-04-23": 1.6364,
+    "gemini-3.1-pro-preview": 0.9091
+   },
+   "n_models": 3,
+   "n_members": 10,
+   "n_nominations": 22,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, G)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Maurice Obstfeld",
+     "affiliation": "University of California, Berkeley",
+     "born": 1952,
+     "weight": 5.3232,
+     "n_nominations": 22,
+     "key": "m obstfeld"
+    },
+    {
+     "name": "Kenneth Rogoff",
+     "affiliation": "Harvard University",
+     "born": 1953,
+     "weight": 5.0505,
+     "n_nominations": 21,
+     "key": "k rogoff"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Maurice Obstfeld",
+     "affiliation": "University of California, Berkeley",
+     "born": 1952,
+     "weight": 5.3232,
+     "n_nominations": 22,
+     "key": "m obstfeld"
+    },
+    {
+     "name": "Kenneth Rogoff",
+     "affiliation": "Harvard University",
+     "born": 1953,
+     "weight": 5.0505,
+     "n_nominations": 21,
+     "key": "k rogoff"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/jan-teorell/#3",
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/per-krusell/#3",
+    "anthropic/per-stromberg/#3",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/richard-friberg/#3",
+    "anthropic/tommy-andersson/#3",
+    "gemini/jan-teorell/#3",
+    "gemini/john-hassler/#3",
+    "gemini/per-krusell/#3",
+    "gemini/peter-fredriksson/#5",
+    "openai/anna-dreber-almenberg/#3",
+    "openai/jan-teorell/#4",
+    "openai/john-hassler/#3",
+    "openai/kerstin-enflo/#5",
+    "openai/per-stromberg/#4",
+    "openai/peter-fredriksson/#5",
+    "openai/randi-hjalmarsson/#3",
+    "openai/richard-friberg/#4",
+    "openai/tommy-andersson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "field": "Trade",
+   "option": "for the structural gravity theory of international trade and the analysis of trade costs — James E. Anderson, Eric van Wincoop, Yoto V. Yotov",
+   "contribution": "for the structural gravity theory of international trade and the analysis of trade costs",
+   "jel_code": "F14",
+   "score": 2.7879,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3333,
+    "gpt-5.5-2026-04-23": 2.2727,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 3,
+   "n_members": 9,
+   "n_nominations": 10,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (G)",
+    "John Hassler (O)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (O)",
+    "Per Strömberg (O)",
+    "Randi Hjalmarsson (O)",
+    "Richard Friberg (O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "James E. Anderson",
+     "affiliation": "Boston College",
+     "born": 1940,
+     "weight": 2.7879,
+     "n_nominations": 10,
+     "key": "j anderson"
+    },
+    {
+     "name": "Eric van Wincoop",
+     "affiliation": "University of Virginia",
+     "born": 1963,
+     "weight": 2.6061,
+     "n_nominations": 9,
+     "key": "e wincoop"
+    },
+    {
+     "name": "Yoto V. Yotov",
+     "affiliation": "Drexel University",
+     "born": 1971,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "y yotov"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "James E. Anderson",
+     "affiliation": "Boston College",
+     "born": 1940,
+     "weight": 2.7879,
+     "n_nominations": 10,
+     "key": "j anderson"
+    },
+    {
+     "name": "Eric van Wincoop",
+     "affiliation": "University of Virginia",
+     "born": 1963,
+     "weight": 2.6061,
+     "n_nominations": 9,
+     "key": "e wincoop"
+    },
+    {
+     "name": "Yoto V. Yotov",
+     "affiliation": "Drexel University",
+     "born": 1971,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "y yotov"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#3",
+    "gemini/jan-teorell/#4",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/john-hassler/#2",
+    "openai/kerstin-enflo/#2",
+    "openai/per-krusell/#3",
+    "openai/per-stromberg/#3",
+    "openai/randi-hjalmarsson/#2",
+    "openai/richard-friberg/#5",
+    "openai/tommy-andersson/#2"
+   ],
+   "flags": [
+    "James E. Anderson: born 1940 (age 86 in 2026)"
+   ]
+  },
+  {
+   "rank": 4,
+   "field": "Trade",
+   "option": "for the identification and analysis of the global financial cycle — Hélène Rey, Pierre-Olivier Gourinchas, Carmen M. Reinhart",
+   "contribution": "for the identification and analysis of the global financial cycle",
+   "jel_code": "F32",
+   "score": 1.4646,
+   "points_per_model": {
+    "claude-opus-5-5": 0.5556,
+    "gpt-5.5-2026-04-23": 0.3636,
+    "gemini-3.1-pro-preview": 0.5455
+   },
+   "n_models": 3,
+   "n_members": 8,
+   "n_nominations": 13,
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "Jan Teorell (A)",
+    "John Hassler (G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A)",
+    "Randi Hjalmarsson (A)",
+    "Timo Boppart (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Hélène Rey",
+     "affiliation": "London Business School",
+     "born": 1970,
+     "weight": 1.3535,
+     "n_nominations": 12,
+     "key": "h rey"
+    },
+    {
+     "name": "Pierre-Olivier Gourinchas",
+     "affiliation": "International Monetary Fund and University of California, Berkeley",
+     "born": 1968,
+     "weight": 0.3838,
+     "n_nominations": 4,
+     "key": "p gourinchas"
+    },
+    {
+     "name": "Carmen M. Reinhart",
+     "affiliation": "Harvard Kennedy School",
+     "born": 1955,
+     "weight": 0.202,
+     "n_nominations": 2,
+     "key": "c reinhart"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Hélène Rey",
+     "affiliation": "London Business School",
+     "born": 1970,
+     "weight": 1.3535,
+     "n_nominations": 12,
+     "key": "h rey"
+    },
+    {
+     "name": "Pierre-Olivier Gourinchas",
+     "affiliation": "International Monetary Fund and University of California, Berkeley",
+     "born": 1968,
+     "weight": 0.3838,
+     "n_nominations": 4,
+     "key": "p gourinchas"
+    },
+    {
+     "name": "Carmen M. Reinhart",
+     "affiliation": "Harvard Kennedy School",
+     "born": 1955,
+     "weight": 0.202,
+     "n_nominations": 2,
+     "key": "c reinhart"
+    },
+    {
+     "name": "Guillermo A. Calvo",
+     "affiliation": "Columbia University",
+     "born": 1941,
+     "weight": 0.202,
+     "n_nominations": 2,
+     "key": "g calvo"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/jan-teorell/#5",
+    "anthropic/per-krusell/#5",
+    "anthropic/per-stromberg/#5",
+    "anthropic/peter-fredriksson/#5",
+    "anthropic/randi-hjalmarsson/#5",
+    "gemini/anna-dreber-almenberg/#3",
+    "gemini/john-hassler/#5",
+    "gemini/per-krusell/#5",
+    "gemini/per-stromberg/#5",
+    "openai/john-hassler/#5",
+    "openai/per-krusell/#5",
+    "openai/per-stromberg/#5",
+    "openai/timo-boppart/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "field": "Trade",
+   "option": "for the micro-founded analysis of exchange-rate pass-through, invoicing currency and the dominant currency paradigm — Gita Gopinath, Charles Engel, Linda S. Goldberg",
+   "contribution": "for the micro-founded analysis of exchange-rate pass-through, invoicing currency and the dominant currency paradigm",
+   "jel_code": "F31",
+   "score": 1.3535,
+   "points_per_model": {
+    "claude-opus-5-5": 0.4444,
+    "gpt-5.5-2026-04-23": 0.3636,
+    "gemini-3.1-pro-preview": 0.5455
+   },
+   "n_models": 3,
+   "n_members": 2,
+   "n_nominations": 4,
+   "supporters": [
+    "Per Strömberg (G)",
+    "Richard Friberg (A, G, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Gita Gopinath",
+     "affiliation": "International Monetary Fund and Harvard University",
+     "born": 1971,
+     "weight": 1.3535,
+     "n_nominations": 4,
+     "key": "g gopinath"
+    },
+    {
+     "name": "Charles Engel",
+     "affiliation": "University of Wisconsin-Madison",
+     "born": null,
+     "weight": 0.4444,
+     "n_nominations": 1,
+     "key": "c engel"
+    },
+    {
+     "name": "Linda S. Goldberg",
+     "affiliation": "Federal Reserve Bank of New York",
+     "born": 1959,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "l goldberg"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Gita Gopinath",
+     "affiliation": "International Monetary Fund and Harvard University",
+     "born": 1971,
+     "weight": 1.3535,
+     "n_nominations": 4,
+     "key": "g gopinath"
+    },
+    {
+     "name": "Charles Engel",
+     "affiliation": "University of Wisconsin-Madison",
+     "born": null,
+     "weight": 0.4444,
+     "n_nominations": 1,
+     "key": "c engel"
+    },
+    {
+     "name": "Linda S. Goldberg",
+     "affiliation": "Federal Reserve Bank of New York",
+     "born": 1959,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "l goldberg"
+    },
+    {
+     "name": "Pinelopi Koujianou Goldberg",
+     "affiliation": "Yale University",
+     "born": 1963,
+     "weight": 0.3636,
+     "n_nominations": 1,
+     "key": "p goldberg"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/richard-friberg/#2",
+    "gemini/per-stromberg/#4",
+    "gemini/richard-friberg/#2",
+    "openai/richard-friberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "field": "Trade",
+   "option": "for his innovative use of historical data and spatial general equilibrium models to quantify the impact of transport infrastructure on market integration and welfare — Dave Donaldson",
+   "contribution": "for his innovative use of historical data and spatial general equilibrium models to quantify the impact of transport infrastructure on market integration and welfare",
+   "jel_code": "F15",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Dave Donaldson",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1978,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "d donaldson"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Dave Donaldson",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1978,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "d donaldson"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "field": "Trade",
+   "option": "for their quantitative historical analysis of global market integration and the trade-migration nexus during the first wave of globalization — Jeffrey G. Williamson, Kevin O'Rourke",
+   "contribution": "for their quantitative historical analysis of global market integration and the trade-migration nexus during the first wave of globalization",
+   "jel_code": "F02",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Jeffrey G. Williamson",
+     "affiliation": "Harvard University",
+     "born": 1935,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j williamson"
+    },
+    {
+     "name": "Kevin O'Rourke",
+     "affiliation": "NYU Abu Dhabi",
+     "born": 1963,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "k rourke"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Jeffrey G. Williamson",
+     "affiliation": "Harvard University",
+     "born": 1935,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j williamson"
+    },
+    {
+     "name": "Kevin O'Rourke",
+     "affiliation": "NYU Abu Dhabi",
+     "born": 1963,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "k rourke"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#3"
+   ],
+   "flags": [
+    "Jeffrey G. Williamson: born 1935 (age 91 in 2026)"
+   ]
+  },
+  {
+   "rank": 8,
+   "field": "Trade",
+   "option": "for their empirical research on how trade liberalization impacts inequality and informal labor markets in developing countries — Nina Pavcnik, Pinelopi Goldberg",
+   "contribution": "for their empirical research on how trade liberalization impacts inequality and informal labor markets in developing countries",
+   "jel_code": "F14",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Nina Pavcnik",
+     "affiliation": "Dartmouth College",
+     "born": 1971,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "n pavcnik"
+    },
+    {
+     "name": "Pinelopi Goldberg",
+     "affiliation": "Yale University",
+     "born": 1963,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "p goldberg"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Nina Pavcnik",
+     "affiliation": "Dartmouth College",
+     "born": 1971,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "n pavcnik"
+    },
+    {
+     "name": "Pinelopi Goldberg",
+     "affiliation": "Yale University",
+     "born": 1963,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "p goldberg"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/randi-hjalmarsson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "field": "Trade",
+   "option": "for his empirical contributions to open-economy macroeconomics and the law of one price — Charles Engel",
+   "contribution": "for his empirical contributions to open-economy macroeconomics and the law of one price",
+   "jel_code": "F31",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Charles Engel",
+     "affiliation": "University of Wisconsin-Madison",
+     "born": 1956,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "c engel"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Charles Engel",
+     "affiliation": "University of Wisconsin-Madison",
+     "born": 1956,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "c engel"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/richard-friberg/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

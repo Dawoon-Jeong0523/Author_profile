@@ -1,0 +1,1548 @@
+{
+ "field": "Public, Law, Political Economy",
+ "slug": "public",
+ "generated": "2026-10-10T19:01:02+00:00",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 9,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models",
+ "options": [
+  {
+   "rank": 1,
+   "field": "Public, Law, Political Economy",
+   "option": "for integrating empirical evidence on behavioral responses into the theory of optimal taxation — Emmanuel Saez, Raj Chetty, Thomas Piketty",
+   "contribution": "for integrating empirical evidence on behavioral responses into the theory of optimal taxation",
+   "jel_code": "H21",
+   "score": 16.5051,
+   "points_per_model": {
+    "claude-opus-5-5": 3.7778,
+    "gpt-5.5-2026-04-23": 7.1818,
+    "gemini-3.1-pro-preview": 5.5455
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 51,
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Emmanuel Saez",
+     "affiliation": "University of California, Berkeley",
+     "born": 1972,
+     "weight": 10.9394,
+     "n_nominations": 28,
+     "key": "e saez"
+    },
+    {
+     "name": "Raj Chetty",
+     "affiliation": "Harvard University",
+     "born": 1979,
+     "weight": 8.303,
+     "n_nominations": 23,
+     "key": "r chetty"
+    },
+    {
+     "name": "Thomas Piketty",
+     "affiliation": "Paris School of Economics and EHESS",
+     "born": 1971,
+     "weight": 4.6162,
+     "n_nominations": 13,
+     "key": "t piketty"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Emmanuel Saez",
+     "affiliation": "University of California, Berkeley",
+     "born": 1972,
+     "weight": 10.9394,
+     "n_nominations": 28,
+     "key": "e saez"
+    },
+    {
+     "name": "Raj Chetty",
+     "affiliation": "Harvard University",
+     "born": 1979,
+     "weight": 8.303,
+     "n_nominations": 23,
+     "key": "r chetty"
+    },
+    {
+     "name": "Thomas Piketty",
+     "affiliation": "Paris School of Economics and EHESS",
+     "born": 1971,
+     "weight": 4.6162,
+     "n_nominations": 13,
+     "key": "t piketty"
+    },
+    {
+     "name": "Amy Finkelstein",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1973,
+     "weight": 3.3636,
+     "n_nominations": 10,
+     "key": "a finkelstein"
+    },
+    {
+     "name": "Henrik Kleven",
+     "affiliation": "Princeton University",
+     "born": 1973,
+     "weight": 2.3939,
+     "n_nominations": 7,
+     "key": "h kleven"
+    },
+    {
+     "name": "Jonathan Gruber",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1965,
+     "weight": 2.0,
+     "n_nominations": 7,
+     "key": "j gruber"
+    },
+    {
+     "name": "Gabriel Zucman",
+     "affiliation": "University of California, Berkeley and Paris School of Economics",
+     "born": 1986,
+     "weight": 1.8182,
+     "n_nominations": 6,
+     "key": "g zucman"
+    },
+    {
+     "name": "Liran Einav",
+     "affiliation": "Stanford University",
+     "born": 1973,
+     "weight": 1.0909,
+     "n_nominations": 3,
+     "key": "l einav"
+    },
+    {
+     "name": "Stefanie Stantcheva",
+     "affiliation": "Harvard University",
+     "born": 1986,
+     "weight": 1.0909,
+     "n_nominations": 3,
+     "key": "s stantcheva"
+    },
+    {
+     "name": "Joel Slemrod",
+     "affiliation": "University of Michigan",
+     "born": 1951,
+     "weight": 0.7677,
+     "n_nominations": 5,
+     "key": "j slemrod"
+    },
+    {
+     "name": "Nathaniel Hendren",
+     "affiliation": "Massachusetts Institute of Technology",
+     "born": 1984,
+     "weight": 0.7273,
+     "n_nominations": 2,
+     "key": "n hendren"
+    },
+    {
+     "name": "Janet Currie",
+     "affiliation": "Princeton University",
+     "born": 1960,
+     "weight": 0.5455,
+     "n_nominations": 2,
+     "key": "j currie"
+    },
+    {
+     "name": "John N. Friedman",
+     "affiliation": "Brown University",
+     "born": 1980,
+     "weight": 0.5455,
+     "n_nominations": 2,
+     "key": "j friedman"
+    },
+    {
+     "name": "Katherine Baicker",
+     "affiliation": "University of Chicago",
+     "born": 1971,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "k baicker"
+    },
+    {
+     "name": "Dina Pomeranz",
+     "affiliation": "University of Zurich",
+     "born": 1977,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "d pomeranz"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/jan-teorell/#4",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/per-krusell/#2",
+    "anthropic/per-stromberg/#2",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/randi-hjalmarsson/#2",
+    "anthropic/richard-friberg/#1",
+    "anthropic/tommy-andersson/#2",
+    "gemini/anna-dreber-almenberg/#2",
+    "gemini/anna-dreber-almenberg/#5",
+    "gemini/john-hassler/#4",
+    "gemini/kerstin-enflo/#1",
+    "gemini/per-krusell/#4",
+    "gemini/per-stromberg/#2",
+    "gemini/per-stromberg/#5",
+    "gemini/peter-fredriksson/#1",
+    "gemini/peter-fredriksson/#2",
+    "gemini/peter-fredriksson/#5",
+    "gemini/randi-hjalmarsson/#3",
+    "gemini/randi-hjalmarsson/#4",
+    "gemini/richard-friberg/#1",
+    "gemini/richard-friberg/#2",
+    "gemini/richard-friberg/#3",
+    "gemini/timo-boppart/#1",
+    "gemini/timo-boppart/#3",
+    "gemini/tommy-andersson/#1",
+    "gemini/tommy-andersson/#4",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/jan-teorell/#3",
+    "openai/john-hassler/#1",
+    "openai/john-hassler/#4",
+    "openai/kerstin-enflo/#1",
+    "openai/kerstin-enflo/#3",
+    "openai/kerstin-enflo/#5",
+    "openai/per-krusell/#1",
+    "openai/per-krusell/#5",
+    "openai/per-stromberg/#1",
+    "openai/per-stromberg/#2",
+    "openai/peter-fredriksson/#1",
+    "openai/peter-fredriksson/#2",
+    "openai/peter-fredriksson/#5",
+    "openai/randi-hjalmarsson/#2",
+    "openai/randi-hjalmarsson/#3",
+    "openai/richard-friberg/#1",
+    "openai/richard-friberg/#3",
+    "openai/timo-boppart/#2",
+    "openai/timo-boppart/#3",
+    "openai/timo-boppart/#4",
+    "openai/tommy-andersson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "field": "Public, Law, Political Economy",
+   "option": "for developing political economics as the analysis of how political institutions shape economic policy — Torsten Persson, Guido Tabellini, Timothy Besley",
+   "contribution": "for developing political economics as the analysis of how political institutions shape economic policy",
+   "jel_code": "D72",
+   "score": 12.303,
+   "points_per_model": {
+    "claude-opus-5-5": 4.6667,
+    "gpt-5.5-2026-04-23": 4.0,
+    "gemini-3.1-pro-preview": 3.6364
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 38,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Torsten Persson",
+     "affiliation": "Stockholm University",
+     "born": 1954,
+     "weight": 10.8586,
+     "n_nominations": 30,
+     "key": "t persson"
+    },
+    {
+     "name": "Guido Tabellini",
+     "affiliation": "Bocconi University",
+     "born": 1956,
+     "weight": 8.5859,
+     "n_nominations": 24,
+     "key": "g tabellini"
+    },
+    {
+     "name": "Timothy Besley",
+     "affiliation": "London School of Economics",
+     "born": 1960,
+     "weight": 4.0808,
+     "n_nominations": 15,
+     "key": "t besley"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Torsten Persson",
+     "affiliation": "Stockholm University",
+     "born": 1954,
+     "weight": 10.8586,
+     "n_nominations": 30,
+     "key": "t persson"
+    },
+    {
+     "name": "Guido Tabellini",
+     "affiliation": "Bocconi University",
+     "born": 1956,
+     "weight": 8.5859,
+     "n_nominations": 24,
+     "key": "g tabellini"
+    },
+    {
+     "name": "Timothy Besley",
+     "affiliation": "London School of Economics",
+     "born": 1960,
+     "weight": 4.0808,
+     "n_nominations": 15,
+     "key": "t besley"
+    },
+    {
+     "name": "Stephen Coate",
+     "affiliation": "Cornell University",
+     "born": 1962,
+     "weight": 0.5354,
+     "n_nominations": 4,
+     "key": "s coate"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/jan-teorell/#1",
+    "anthropic/jan-teorell/#2",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/per-krusell/#1",
+    "anthropic/per-stromberg/#3",
+    "anthropic/per-stromberg/#5",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/peter-fredriksson/#4",
+    "anthropic/randi-hjalmarsson/#4",
+    "anthropic/randi-hjalmarsson/#5",
+    "anthropic/richard-friberg/#2",
+    "anthropic/tommy-andersson/#3",
+    "gemini/jan-teorell/#1",
+    "gemini/jan-teorell/#2",
+    "gemini/john-hassler/#1",
+    "gemini/kerstin-enflo/#2",
+    "gemini/kerstin-enflo/#3",
+    "gemini/per-krusell/#3",
+    "gemini/per-stromberg/#3",
+    "gemini/peter-fredriksson/#4",
+    "gemini/richard-friberg/#4",
+    "gemini/timo-boppart/#2",
+    "gemini/timo-boppart/#5",
+    "gemini/tommy-andersson/#2",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/jan-teorell/#1",
+    "openai/jan-teorell/#2",
+    "openai/john-hassler/#2",
+    "openai/kerstin-enflo/#2",
+    "openai/per-krusell/#4",
+    "openai/per-stromberg/#3",
+    "openai/peter-fredriksson/#3",
+    "openai/randi-hjalmarsson/#4",
+    "openai/richard-friberg/#2",
+    "openai/timo-boppart/#1",
+    "openai/tommy-andersson/#3",
+    "openai/tommy-andersson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "field": "Public, Law, Political Economy",
+   "option": "for founding and developing the economic analysis of law — Steven Shavell, Richard A. Posner, A. Mitchell Polinsky",
+   "contribution": "for founding and developing the economic analysis of law",
+   "jel_code": "K13",
+   "score": 4.8586,
+   "points_per_model": {
+    "claude-opus-5-5": 2.2222,
+    "gpt-5.5-2026-04-23": 2.2727,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 21,
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "Jan Teorell (A, O)",
+    "John Hassler (O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Steven Shavell",
+     "affiliation": "Harvard University",
+     "born": 1946,
+     "weight": 4.6364,
+     "n_nominations": 20,
+     "key": "s shavell"
+    },
+    {
+     "name": "Richard A. Posner",
+     "affiliation": "University of Chicago",
+     "born": 1939,
+     "weight": 2.9495,
+     "n_nominations": 11,
+     "key": "r posner"
+    },
+    {
+     "name": "A. Mitchell Polinsky",
+     "affiliation": "Stanford University",
+     "born": 1948,
+     "weight": 2.7677,
+     "n_nominations": 12,
+     "key": "a polinsky"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Steven Shavell",
+     "affiliation": "Harvard University",
+     "born": 1946,
+     "weight": 4.6364,
+     "n_nominations": 20,
+     "key": "s shavell"
+    },
+    {
+     "name": "Richard A. Posner",
+     "affiliation": "University of Chicago",
+     "born": 1939,
+     "weight": 2.9495,
+     "n_nominations": 11,
+     "key": "r posner"
+    },
+    {
+     "name": "A. Mitchell Polinsky",
+     "affiliation": "Stanford University",
+     "born": 1948,
+     "weight": 2.7677,
+     "n_nominations": 12,
+     "key": "a polinsky"
+    },
+    {
+     "name": "Guido Calabresi",
+     "affiliation": "Yale University",
+     "born": 1932,
+     "weight": 1.8081,
+     "n_nominations": 8,
+     "key": "g calabresi"
+    },
+    {
+     "name": "Louis Kaplow",
+     "affiliation": "Harvard University",
+     "born": 1956,
+     "weight": 0.6364,
+     "n_nominations": 3,
+     "key": "l kaplow"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/jan-teorell/#5",
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/per-krusell/#5",
+    "anthropic/per-stromberg/#4",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/richard-friberg/#3",
+    "anthropic/tommy-andersson/#4",
+    "gemini/randi-hjalmarsson/#2",
+    "openai/anna-dreber-almenberg/#3",
+    "openai/jan-teorell/#4",
+    "openai/john-hassler/#3",
+    "openai/kerstin-enflo/#4",
+    "openai/per-krusell/#3",
+    "openai/per-stromberg/#5",
+    "openai/peter-fredriksson/#4",
+    "openai/randi-hjalmarsson/#1",
+    "openai/richard-friberg/#5",
+    "openai/timo-boppart/#5",
+    "openai/tommy-andersson/#4"
+   ],
+   "flags": [
+    "Richard A. Posner: born 1939 (age 87 in 2026)"
+   ]
+  },
+  {
+   "rank": 4,
+   "field": "Public, Law, Political Economy",
+   "option": "for showing how legal institutions and investor protection shape financial development and corporate governance — Andrei Shleifer, Rafael La Porta, Florencio Lopez-de-Silanes",
+   "contribution": "for showing how legal institutions and investor protection shape financial development and corporate governance",
+   "jel_code": "K22",
+   "score": 3.6162,
+   "points_per_model": {
+    "claude-opus-5-5": 1.8889,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 1.4545
+   },
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 17,
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (G)",
+    "Kerstin Enflo (A, G)",
+    "Per Krusell (G)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A)",
+    "Randi Hjalmarsson (G)",
+    "Richard Friberg (A, G)",
+    "Timo Boppart (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Andrei Shleifer",
+     "affiliation": "Harvard University",
+     "born": 1961,
+     "weight": 3.6162,
+     "n_nominations": 17,
+     "key": "a shleifer"
+    },
+    {
+     "name": "Rafael La Porta",
+     "affiliation": "Brown University",
+     "born": 1960,
+     "weight": 2.8889,
+     "n_nominations": 11,
+     "key": "r porta"
+    },
+    {
+     "name": "Florencio Lopez-de-Silanes",
+     "affiliation": "SKEMA Business School",
+     "born": 1966,
+     "weight": 2.5253,
+     "n_nominations": 8,
+     "key": "f silanes"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Andrei Shleifer",
+     "affiliation": "Harvard University",
+     "born": 1961,
+     "weight": 3.6162,
+     "n_nominations": 17,
+     "key": "a shleifer"
+    },
+    {
+     "name": "Rafael La Porta",
+     "affiliation": "Brown University",
+     "born": 1960,
+     "weight": 2.8889,
+     "n_nominations": 11,
+     "key": "r porta"
+    },
+    {
+     "name": "Florencio Lopez-de-Silanes",
+     "affiliation": "SKEMA Business School",
+     "born": 1966,
+     "weight": 2.5253,
+     "n_nominations": 8,
+     "key": "f silanes"
+    },
+    {
+     "name": "Robert W. Vishny",
+     "affiliation": "University of Chicago",
+     "born": 1959,
+     "weight": 0.5455,
+     "n_nominations": 4,
+     "key": "r vishny"
+    },
+    {
+     "name": "Raymond Fisman",
+     "affiliation": "Boston University",
+     "born": 1969,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "r fisman"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/jan-teorell/#3",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/per-stromberg/#1",
+    "anthropic/peter-fredriksson/#5",
+    "anthropic/richard-friberg/#4",
+    "gemini/jan-teorell/#3",
+    "gemini/john-hassler/#5",
+    "gemini/kerstin-enflo/#5",
+    "gemini/per-krusell/#5",
+    "gemini/per-stromberg/#1",
+    "gemini/randi-hjalmarsson/#5",
+    "gemini/richard-friberg/#5",
+    "gemini/timo-boppart/#4",
+    "gemini/tommy-andersson/#5",
+    "openai/jan-teorell/#5",
+    "openai/per-stromberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "field": "Public, Law, Political Economy",
+   "option": "for the development of dynamic overlapping-generations models for the quantitative evaluation of fiscal policy — Alan J. Auerbach, Laurence J. Kotlikoff",
+   "contribution": "for the development of dynamic overlapping-generations models for the quantitative evaluation of fiscal policy",
+   "jel_code": "H30",
+   "score": 1.5859,
+   "points_per_model": {
+    "claude-opus-5-5": 0.2222,
+    "gpt-5.5-2026-04-23": 0.5455,
+    "gemini-3.1-pro-preview": 0.8182
+   },
+   "n_models": 3,
+   "n_members": 3,
+   "n_nominations": 5,
+   "supporters": [
+    "John Hassler (G)",
+    "Per Krusell (A, G, O)",
+    "Richard Friberg (O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Alan J. Auerbach",
+     "affiliation": "University of California, Berkeley",
+     "born": 1951,
+     "weight": 1.5859,
+     "n_nominations": 5,
+     "key": "a auerbach"
+    },
+    {
+     "name": "Laurence J. Kotlikoff",
+     "affiliation": "Boston University",
+     "born": 1951,
+     "weight": 1.5859,
+     "n_nominations": 5,
+     "key": "l kotlikoff"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Alan J. Auerbach",
+     "affiliation": "University of California, Berkeley",
+     "born": 1951,
+     "weight": 1.5859,
+     "n_nominations": 5,
+     "key": "a auerbach"
+    },
+    {
+     "name": "Laurence J. Kotlikoff",
+     "affiliation": "Boston University",
+     "born": 1951,
+     "weight": 1.5859,
+     "n_nominations": 5,
+     "key": "l kotlikoff"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/per-krusell/#4",
+    "gemini/john-hassler/#2",
+    "gemini/per-krusell/#1",
+    "openai/per-krusell/#2",
+    "openai/richard-friberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "field": "Public, Law, Political Economy",
+   "option": "for establishing the impossibility of non-dictatorial strategy-proof social choice — Allan Gibbard, Mark A. Satterthwaite",
+   "contribution": "for establishing the impossibility of non-dictatorial strategy-proof social choice",
+   "jel_code": "D71",
+   "score": 1.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 1.0,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 2,
+   "n_members": 3,
+   "n_nominations": 4,
+   "supporters": [
+    "Kerstin Enflo (A)",
+    "Richard Friberg (A)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Allan Gibbard",
+     "affiliation": "University of Michigan",
+     "born": 1942,
+     "weight": 1.4545,
+     "n_nominations": 4,
+     "key": "a gibbard"
+    },
+    {
+     "name": "Mark A. Satterthwaite",
+     "affiliation": "Northwestern University",
+     "born": 1945,
+     "weight": 1.4545,
+     "n_nominations": 4,
+     "key": "m satterthwaite"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Allan Gibbard",
+     "affiliation": "University of Michigan",
+     "born": 1942,
+     "weight": 1.4545,
+     "n_nominations": 4,
+     "key": "a gibbard"
+    },
+    {
+     "name": "Mark A. Satterthwaite",
+     "affiliation": "Northwestern University",
+     "born": 1945,
+     "weight": 1.4545,
+     "n_nominations": 4,
+     "key": "m satterthwaite"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/kerstin-enflo/#3",
+    "anthropic/richard-friberg/#5",
+    "anthropic/tommy-andersson/#1",
+    "openai/tommy-andersson/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "field": "Public, Law, Political Economy",
+   "option": "for the development of the New Dynamic Public Finance framework — Aleh Tsyvinski, Mikhail Golosov, Narayana R. Kocherlakota",
+   "contribution": "for the development of the New Dynamic Public Finance framework",
+   "jel_code": "H21",
+   "score": 1.0606,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3333,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.6364
+   },
+   "n_models": 3,
+   "n_members": 2,
+   "n_nominations": 4,
+   "supporters": [
+    "John Hassler (G, O)",
+    "Per Krusell (A, G)"
+   ],
+   "roles": [
+    "chair",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Aleh Tsyvinski",
+     "affiliation": "Yale University",
+     "born": 1977,
+     "weight": 1.0606,
+     "n_nominations": 4,
+     "key": "a tsyvinski"
+    },
+    {
+     "name": "Mikhail Golosov",
+     "affiliation": "University of Chicago",
+     "born": 1977,
+     "weight": 1.0606,
+     "n_nominations": 4,
+     "key": "m golosov"
+    },
+    {
+     "name": "Narayana R. Kocherlakota",
+     "affiliation": "University of Rochester",
+     "born": 1963,
+     "weight": 0.4242,
+     "n_nominations": 2,
+     "key": "n kocherlakota"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Aleh Tsyvinski",
+     "affiliation": "Yale University",
+     "born": 1977,
+     "weight": 1.0606,
+     "n_nominations": 4,
+     "key": "a tsyvinski"
+    },
+    {
+     "name": "Mikhail Golosov",
+     "affiliation": "University of Chicago",
+     "born": 1977,
+     "weight": 1.0606,
+     "n_nominations": 4,
+     "key": "m golosov"
+    },
+    {
+     "name": "Narayana R. Kocherlakota",
+     "affiliation": "University of Rochester",
+     "born": 1963,
+     "weight": 0.4242,
+     "n_nominations": 2,
+     "key": "n kocherlakota"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/per-krusell/#3",
+    "gemini/john-hassler/#3",
+    "gemini/per-krusell/#2",
+    "openai/john-hassler/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "field": "Public, Law, Political Economy",
+   "option": "for their pioneering empirical and quasi-experimental research on the economics of crime, deterrence, and criminal justice institutions — Steven D. Levitt, Philip J. Cook, Isaac Ehrlich",
+   "contribution": "for their pioneering empirical and quasi-experimental research on the economics of crime, deterrence, and criminal justice institutions",
+   "jel_code": "K42",
+   "score": 0.8788,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3333,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 3,
+   "n_members": 1,
+   "n_nominations": 3,
+   "supporters": [
+    "Randi Hjalmarsson (A, G, O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Steven D. Levitt",
+     "affiliation": "University of Chicago",
+     "born": 1967,
+     "weight": 0.8788,
+     "n_nominations": 3,
+     "key": "s levitt"
+    },
+    {
+     "name": "Philip J. Cook",
+     "affiliation": "Duke University",
+     "born": 1946,
+     "weight": 0.7879,
+     "n_nominations": 2,
+     "key": "p cook"
+    },
+    {
+     "name": "Isaac Ehrlich",
+     "affiliation": "University at Buffalo, SUNY",
+     "born": 1938,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "i ehrlich"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Steven D. Levitt",
+     "affiliation": "University of Chicago",
+     "born": 1967,
+     "weight": 0.8788,
+     "n_nominations": 3,
+     "key": "s levitt"
+    },
+    {
+     "name": "Philip J. Cook",
+     "affiliation": "Duke University",
+     "born": 1946,
+     "weight": 0.7879,
+     "n_nominations": 2,
+     "key": "p cook"
+    },
+    {
+     "name": "Isaac Ehrlich",
+     "affiliation": "University at Buffalo, SUNY",
+     "born": 1938,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "i ehrlich"
+    },
+    {
+     "name": "John J. Donohue III",
+     "affiliation": "Stanford Law School",
+     "born": 1953,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "j donohue"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/randi-hjalmarsson/#3",
+    "gemini/randi-hjalmarsson/#1",
+    "openai/randi-hjalmarsson/#5"
+   ],
+   "flags": [
+    "Isaac Ehrlich: born 1938 (age 88 in 2026)"
+   ]
+  },
+  {
+   "rank": 9,
+   "field": "Public, Law, Political Economy",
+   "option": "for his contributions to public economics, particularly the analysis of taxation and labor supply — Richard Blundell",
+   "contribution": "for his contributions to public economics, particularly the analysis of taxation and labor supply",
+   "jel_code": "H24",
+   "score": 0.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.5455
+   },
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "supporters": [
+    "Peter Fredriksson (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Richard Blundell",
+     "affiliation": "University College London",
+     "born": 1952,
+     "weight": 0.5455,
+     "n_nominations": 2,
+     "key": "r blundell"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Richard Blundell",
+     "affiliation": "University College London",
+     "born": 1952,
+     "weight": 0.5455,
+     "n_nominations": 2,
+     "key": "r blundell"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/peter-fredriksson/#3",
+    "gemini/tommy-andersson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 10,
+   "field": "Public, Law, Political Economy",
+   "option": "for pioneering large-scale field experiments and randomized controlled trials in political economy — Alan S. Gerber, Donald P. Green",
+   "contribution": "for pioneering large-scale field experiments and randomized controlled trials in political economy",
+   "jel_code": "D72",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Alan S. Gerber",
+     "affiliation": "Yale University",
+     "born": 1964,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "a gerber"
+    },
+    {
+     "name": "Donald P. Green",
+     "affiliation": "Columbia University",
+     "born": 1961,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "d green"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Alan S. Gerber",
+     "affiliation": "Yale University",
+     "born": 1964,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "a gerber"
+    },
+    {
+     "name": "Donald P. Green",
+     "affiliation": "Columbia University",
+     "born": 1961,
+     "weight": 0.4545,
+     "n_nominations": 1,
+     "key": "d green"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "field": "Public, Law, Political Economy",
+   "option": "for the analysis of cooperation and punishment in the provision of public goods — Ernst Fehr, Simon Gächter",
+   "contribution": "for the analysis of cooperation and punishment in the provision of public goods",
+   "jel_code": "H41",
+   "score": 0.4444,
+   "points_per_model": {
+    "claude-opus-5-5": 0.4444,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (A)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Ernst Fehr",
+     "affiliation": "University of Zurich",
+     "born": 1956,
+     "weight": 0.4444,
+     "n_nominations": 1,
+     "key": "e fehr"
+    },
+    {
+     "name": "Simon Gächter",
+     "affiliation": "University of Nottingham",
+     "born": 1965,
+     "weight": 0.4444,
+     "n_nominations": 1,
+     "key": "s gachter"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Ernst Fehr",
+     "affiliation": "University of Zurich",
+     "born": 1956,
+     "weight": 0.4444,
+     "n_nominations": 1,
+     "key": "e fehr"
+    },
+    {
+     "name": "Simon Gächter",
+     "affiliation": "University of Nottingham",
+     "born": 1965,
+     "weight": 0.4444,
+     "n_nominations": 1,
+     "key": "s gachter"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "field": "Public, Law, Political Economy",
+   "option": "for the robust empirical analysis of the political economy of media and information — Jesse Shapiro, Matthew Gentzkow",
+   "contribution": "for the robust empirical analysis of the political economy of media and information",
+   "jel_code": "D72",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Jesse Shapiro",
+     "affiliation": "Harvard University",
+     "born": 1979,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j shapiro"
+    },
+    {
+     "name": "Matthew Gentzkow",
+     "affiliation": "Stanford University",
+     "born": 1975,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m gentzkow"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Jesse Shapiro",
+     "affiliation": "Harvard University",
+     "born": 1979,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "j shapiro"
+    },
+    {
+     "name": "Matthew Gentzkow",
+     "affiliation": "Stanford University",
+     "born": 1975,
+     "weight": 0.2727,
+     "n_nominations": 1,
+     "key": "m gentzkow"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "field": "Public, Law, Political Economy",
+   "option": "for the application of randomized controlled trials to the economics of crime and social policy — Jens Ludwig",
+   "contribution": "for the application of randomized controlled trials to the economics of crime and social policy",
+   "jel_code": "K42",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Jens Ludwig",
+     "affiliation": "University of Chicago",
+     "born": 1968,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j ludwig"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Jens Ludwig",
+     "affiliation": "University of Chicago",
+     "born": 1968,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j ludwig"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "field": "Public, Law, Political Economy",
+   "option": "for the analysis of federalism, rule of law, and the political foundations of markets — Barry R. Weingast",
+   "contribution": "for the analysis of federalism, rule of law, and the political foundations of markets",
+   "jel_code": "D71",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Jan Teorell (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Barry R. Weingast",
+     "affiliation": "Stanford University",
+     "born": 1952,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "b weingast"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Barry R. Weingast",
+     "affiliation": "Stanford University",
+     "born": 1952,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "b weingast"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/jan-teorell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "field": "Public, Law, Political Economy",
+   "option": "for his quantitative historical analysis of electoral politics, public spending, and political accountability — James Snyder Jr.",
+   "contribution": "for his quantitative historical analysis of electoral politics, public spending, and political accountability",
+   "jel_code": "D72",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Kerstin Enflo (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "James Snyder Jr.",
+     "affiliation": "Harvard University",
+     "born": 1959,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j snyder"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "James Snyder Jr.",
+     "affiliation": "Harvard University",
+     "born": 1959,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j snyder"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/kerstin-enflo/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "field": "Public, Law, Political Economy",
+   "option": "for his empirical analysis of the effects of taxation on corporate and household financial decisions — James Poterba",
+   "contribution": "for his empirical analysis of the effects of taxation on corporate and household financial decisions",
+   "jel_code": "H24",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Per Strömberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "James Poterba",
+     "affiliation": "MIT",
+     "born": 1958,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j poterba"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "James Poterba",
+     "affiliation": "MIT",
+     "born": 1958,
+     "weight": 0.1818,
+     "n_nominations": 1,
+     "key": "j poterba"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/per-stromberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "field": "Public, Law, Political Economy",
+   "option": "for the design of incentive-compatible mechanisms for public goods — John O. Ledyard, Theodore Groves",
+   "contribution": "for the design of incentive-compatible mechanisms for public goods",
+   "jel_code": "H41",
+   "score": 0.1111,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1111,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "John O. Ledyard",
+     "affiliation": "Caltech",
+     "born": 1940,
+     "weight": 0.1111,
+     "n_nominations": 1,
+     "key": "j ledyard"
+    },
+    {
+     "name": "Theodore Groves",
+     "affiliation": "University of California, San Diego",
+     "born": 1941,
+     "weight": 0.1111,
+     "n_nominations": 1,
+     "key": "t groves"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "John O. Ledyard",
+     "affiliation": "Caltech",
+     "born": 1940,
+     "weight": 0.1111,
+     "n_nominations": 1,
+     "key": "j ledyard"
+    },
+    {
+     "name": "Theodore Groves",
+     "affiliation": "University of California, San Diego",
+     "born": 1941,
+     "weight": 0.1111,
+     "n_nominations": 1,
+     "key": "t groves"
+    }
+   ],
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#5"
+   ],
+   "flags": [
+    "John O. Ledyard: born 1940 (age 86 in 2026)",
+    "Theodore Groves: born 1941 (age 85 in 2026)"
+   ]
+  },
+  {
+   "rank": 18,
+   "field": "Public, Law, Political Economy",
+   "option": "for the economic analysis of corruption and its impact on public administration — Susan Rose-Ackerman",
+   "contribution": "for the economic analysis of corruption and its impact on public administration",
+   "jel_code": "D73",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Jan Teorell (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Susan Rose-Ackerman",
+     "affiliation": "Yale University",
+     "born": 1942,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "s ackerman"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Susan Rose-Ackerman",
+     "affiliation": "Yale University",
+     "born": 1942,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "s ackerman"
+    }
+   ],
+   "nomination_ids": [
+    "gemini/jan-teorell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 19,
+   "field": "Public, Law, Political Economy",
+   "option": "for the analysis of rent seeking and directly unproductive profit-seeking activities — Anne O. Krueger, Jagdish N. Bhagwati",
+   "contribution": "for the analysis of rent seeking and directly unproductive profit-seeking activities",
+   "jel_code": "D72",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "supporters": [
+    "Anna Dreber Almenberg (O)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Anne O. Krueger",
+     "affiliation": "Johns Hopkins University and Stanford University",
+     "born": 1934,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "a krueger"
+    },
+    {
+     "name": "Jagdish N. Bhagwati",
+     "affiliation": "Columbia University",
+     "born": 1934,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "j bhagwati"
+    }
+   ],
+   "people_all": [
+    {
+     "name": "Anne O. Krueger",
+     "affiliation": "Johns Hopkins University and Stanford University",
+     "born": 1934,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "a krueger"
+    },
+    {
+     "name": "Jagdish N. Bhagwati",
+     "affiliation": "Columbia University",
+     "born": 1934,
+     "weight": 0.0909,
+     "n_nominations": 1,
+     "key": "j bhagwati"
+    }
+   ],
+   "nomination_ids": [
+    "openai/anna-dreber-almenberg/#5"
+   ],
+   "flags": [
+    "Anne O. Krueger: born 1934 (age 92 in 2026)",
+    "Jagdish N. Bhagwati: born 1934 (age 92 in 2026)"
+   ]
+  }
+ ]
+}

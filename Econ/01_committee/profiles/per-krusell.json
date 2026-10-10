@@ -1,0 +1,1242 @@
+{
+ "stage": "merge",
+ "member": "per-krusell",
+ "name": "Per Krusell",
+ "role": "secretary",
+ "title": "Professor of economics",
+ "affiliation": "Institute for International Economic Studies (IIES), Stockholm University",
+ "merger": "claude-opus-5-5",
+ "written": "2026-10-09T23:54:51+00:00",
+ "inputs": {
+  "A": {
+   "model": "claude-opus-5-5",
+   "written": "2026-10-09T23:50:10+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "O": {
+   "model": "gpt-5.5-2026-04-23",
+   "written": "2026-10-09T23:51:24+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "G": {
+   "model": "gemini-3.1-pro-preview",
+   "written": "2026-10-09T23:50:03+00:00",
+   "recognized": true,
+   "confidence": "high"
+  }
+ },
+ "missing_inputs": [],
+ "prompt": {
+  "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+  "user_chars": 24325
+ },
+ "attempts": [
+  {
+   "provider": "anthropic",
+   "model_requested": "claude-opus-5-5",
+   "model_reported": "claude-opus-5-5",
+   "request": {
+    "url": "https://api.anthropic.com/v1/messages",
+    "header_names": [
+     "x-api-key",
+     "anthropic-version: 2023-06-01",
+     "content-type"
+    ],
+    "body": {
+     "model": "claude-opus-5-5",
+     "max_tokens": 32000,
+     "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+     "messages": [
+      {
+       "role": "user",
+       "content": "Committee member: Per Krusell\nAffiliation: Institute for International Economic Studies (IIES), Stockholm University\nCommittee role in 2026: secretary\nTitle as listed by nobelprize.org: Professor of economics\n\nProfile A:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Per Krusell, Swedish macroeconomist at IIES, Stockholm University, also long affiliated with CEPR and NBER. He has written extensively on heterogeneous-agent macroeconomics, technological change and inequality, time-inconsistent preferences, labor-market flows, and climate-economy modeling. He has served on the Economic Sciences prize committee for many years; 2026 role as secretary per the prompt.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Macroeconomics: quantitative general-equilibrium and heterogeneous-agent models\",\n   \"jel_codes\": [\n    \"E21\",\n    \"E24\",\n    \"E32\",\n    \"D31\",\n    \"D52\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Economic growth and technological change (investment-specific technical change, capital-skill complementarity)\",\n   \"jel_codes\": [\n    \"O33\",\n    \"O41\",\n    \"O47\",\n    \"J31\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Climate and environmental macroeconomics (integrated assessment, carbon taxation)\",\n   \"jel_codes\": [\n    \"Q54\",\n    \"Q58\",\n    \"H23\",\n    \"E62\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Public finance and political economy in macro (optimal taxation, time consistency, vested interests)\",\n   \"jel_codes\": [\n    \"H21\",\n    \"E62\",\n    \"D72\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Behavioral macro and decision theory (quasi-hyperbolic discounting, temptation)\",\n   \"jel_codes\": [\n    \"D91\",\n    \"D15\",\n    \"E21\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Labor-market macro (search frictions, gross worker flows)\",\n   \"jel_codes\": [\n    \"J64\",\n    \"E24\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Climate-economy modeling with regional heterogeneity (e.g. 'climate change around the world'), carbon pricing, and distributional/regional effects of warming\",\n   \"period\": \"c. 2015-2024\",\n   \"basis\": \"Work with Anthony Smith and with Hassler and colleagues at IIES; public lectures on climate macro\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Automation, AI, and the labor market/income distribution through the lens of macro models with capital-labor substitution\",\n   \"period\": \"c. 2018-2024\",\n   \"basis\": \"Talks and working papers; continuation of capital-skill complementarity line\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Heterogeneous-agent macro and wealth inequality, including critiques of simple accounting laws of capital accumulation\",\n   \"period\": \"c. 2015-2022\",\n   \"basis\": \"Krusell-Smith work on Piketty's laws and continued heterogeneity work\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Energy and resource use in growth models (energy-saving technical change, fossil fuel scarcity)\",\n   \"period\": \"c. 2018-2023\",\n   \"basis\": \"Hassler, Krusell and Olovsson line of work on directed technical change in energy\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Income and Wealth Heterogeneity in the Macroeconomy\",\n   \"year\": \"1998\",\n   \"venue\": \"Journal of Political Economy\",\n   \"coauthors\": [\n    \"Anthony A. Smith Jr.\"\n   ],\n   \"contribution\": \"Introduced the approximate-aggregation solution method for incomplete-markets models with aggregate risk. It became the workhorse algorithm of heterogeneous-agent macroeconomics.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Capital-Skill Complementarity and Inequality: A Macroeconomic Analysis\",\n   \"year\": \"2000\",\n   \"venue\": \"Econometrica\",\n   \"coauthors\": [\n    \"Lee E. Ohanian\",\n    \"José-Víctor Ríos-Rull\",\n    \"Giovanni L. Violante\"\n   ],\n   \"contribution\": \"Showed that falling equipment prices combined with capital-skill complementarity can account for much of the rise in the US skill premium.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Long-Run Implications of Investment-Specific Technological Change\",\n   \"year\": \"1997\",\n   \"venue\": \"American Economic Review\",\n   \"coauthors\": [\n    \"Jeremy Greenwood\",\n    \"Zvi Hercowitz\"\n   ],\n   \"contribution\": \"Quantified the role of investment-specific technical change, measured through relative equipment prices, in postwar US growth.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Optimal Taxes on Fossil Fuel in General Equilibrium\",\n   \"year\": \"2014\",\n   \"venue\": \"Econometrica\",\n   \"coauthors\": [\n    \"Mikhail Golosov\",\n    \"John Hassler\",\n    \"Aleh Tsyvinski\"\n   ],\n   \"contribution\": \"Derived a simple closed-form formula for the optimal carbon tax in a dynamic general-equilibrium climate-economy model.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Consumption-Savings Decisions with Quasi-Geometric Discounting\",\n   \"year\": \"2003\",\n   \"venue\": \"Econometrica\",\n   \"coauthors\": [\n    \"Anthony A. Smith Jr.\"\n   ],\n   \"contribution\": \"Analyzed equilibria and indeterminacy in savings problems with time-inconsistent (quasi-hyperbolic) preferences.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Vested Interests in a Positive Theory of Stagnation and Growth\",\n   \"year\": \"1996\",\n   \"venue\": \"Review of Economic Studies\",\n   \"coauthors\": [\n    \"José-Víctor Ríos-Rull\"\n   ],\n   \"contribution\": \"Built a political-economy growth model in which vested interests in existing technologies block adoption of new ones.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Is Piketty's 'Second Law of Capitalism' Fundamental?\",\n   \"year\": \"2015\",\n   \"venue\": \"Journal of Political Economy\",\n   \"coauthors\": [\n    \"Anthony A. Smith Jr.\"\n   ],\n   \"contribution\": \"Argued from standard growth theory that capital-income ratios need not explode as growth slows, so the simple accounting law is not fundamental.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Gross Worker Flows over the Business Cycle\",\n   \"year\": \"2017\",\n   \"venue\": \"American Economic Review\",\n   \"coauthors\": [\n    \"Toshihiko Mukoyama\",\n    \"Richard Rogerson\",\n    \"Ayşegül Şahin\"\n   ],\n   \"contribution\": \"Developed a model of flows among employment, unemployment, and nonparticipation that matches cyclical labor-market dynamics.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"A leading quantitative macroeconomist who combines rigorous dynamic general-equilibrium theory with calibrated quantitative evaluation. His work spans heterogeneous agents, technology and inequality, behavioral time inconsistency, and climate economics. He is a long-serving member of the prize committee; in 2026 he is the secretary.\",\n  \"research_lens\": \"He views questions through general-equilibrium, dynamic macro models with explicit micro foundations. He asks how individual heterogeneity, technology, and policy aggregate up, and whether a mechanism survives general-equilibrium feedback. This is inferred from his body of work.\",\n  \"methods_and_evidence\": \"His own work relies on dynamic optimization and recursive equilibrium theory, numerical solution methods, calibration to macro and micro moments, and quantitative counterfactual and policy experiments. He also seeks analytical tractability where possible, as in the closed-form carbon tax formula.\",\n  \"what_they_value_in_contributions\": \"Inferred from his record:\\n- Contributions that create tools or frameworks others widely adopt, as the Krusell-Smith method did.\\n- Tight links between theory and quantitative measurement.\\n- Policy-relevant insights derived from internally consistent models.\\n- Work that clarifies big questions such as inequality, growth, and climate with disciplined models rather than accounting identities or loose reasoning.\",\n  \"likely_questions_in_deliberation\": [\n   \"Does the result hold up in general equilibrium, or is it a partial-equilibrium effect?\",\n   \"Has this framework become a workhorse that shaped how the field models the problem?\",\n   \"How does the theory map into quantitative magnitudes, and are those magnitudes credible?\",\n   \"What are the welfare and policy implications, and are they robust to heterogeneity across agents or regions?\",\n   \"Is the contribution attributable to the nominated individuals, and how does it relate to predecessors?\",\n   \"Does the work speak to long-run issues such as growth, technology, inequality, or climate?\"\n  ],\n  \"committee_experience\": \"He has been a member of the prize committee for many years, likely since the mid-2000s, and has served in leading roles, including, I believe, as chair. He presented the climate side of the 2018 prize to Nordhaus and Romer, closely related to his own research. Exact years and roles beyond the stated 2026 secretary role are uncertain.\"\n },\n \"knowledge_limits\": \"My knowledge comes from training data reaching roughly 2024–early 2025. I am uncertain about the exact years of his committee membership and chairmanship, his most recent working papers, and any public statements after that period. Coauthor lists and years are given as recalled; venue details for some works may be imprecise. Persona elements are inferences from his published research, not from known statements about prize preferences.\"\n}\n\nProfile O:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Per Krusell is a macroeconomist at the Institute for International Economic Studies, Stockholm University. He is best known for quantitative dynamic macroeconomics, especially heterogeneous-agent general-equilibrium models, inequality, fiscal and political economy, and climate-economy macroeconomics. The 2026 committee role as secretary is taken from the user-provided Nobel listing.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Macroeconomics; dynamic general equilibrium; quantitative macroeconomic theory\",\n   \"jel_codes\": [\n    \"E13\",\n    \"E17\",\n    \"E32\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Heterogeneous-agent macroeconomics; income and wealth distribution; incomplete markets\",\n   \"jel_codes\": [\n    \"D31\",\n    \"D52\",\n    \"E21\",\n    \"E44\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Economic growth, technical change, and capital-skill complementarity\",\n   \"jel_codes\": [\n    \"O41\",\n    \"O33\",\n    \"J24\",\n    \"E22\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Fiscal policy, taxation, welfare, and time consistency in macroeconomic models\",\n   \"jel_codes\": [\n    \"E62\",\n    \"H21\",\n    \"H23\",\n    \"D61\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Political economy of macroeconomic policy and redistribution\",\n   \"jel_codes\": [\n    \"D72\",\n    \"D78\",\n    \"H50\",\n    \"E60\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Climate economics and environmental policy in general equilibrium\",\n   \"jel_codes\": [\n    \"Q54\",\n    \"Q58\",\n    \"H23\",\n    \"E13\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Climate-change economics in dynamic general equilibrium: optimal carbon/fossil-fuel taxation, climate damages, discounting, and macroeconomic feedbacks\",\n   \"period\": \"2010s through at least the early 2020s\",\n   \"basis\": \"Coauthored work including 'Optimal Taxes on Fossil Fuel in General Equilibrium' and related climate-economy research with John Hassler, Conny Olovsson, Mikhail Golosov, and Aleh Tsyvinski.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Directed technical change and resource scarcity, especially energy-saving innovation in response to fossil-fuel scarcity or climate policy\",\n   \"period\": \"Published work around 2021; research program active in the preceding decade\",\n   \"basis\": \"Coauthored publication 'Directed Technical Change as a Response to Natural Resource Scarcity' with Hassler and Olovsson.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Quantitative heterogeneous-agent macroeconomics and the aggregate implications of idiosyncratic risk, wealth inequality, and market incompleteness\",\n   \"period\": \"Continuing influence from the late 1990s onward; I do not know whether this was an active publication focus in 2021-2024\",\n   \"basis\": \"His Krusell-Smith work remains central to modern heterogeneous-agent macro and informs how his later work is interpreted.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Macroeconomic policy evaluation using structurally specified, calibrated or computational general-equilibrium models\",\n   \"period\": \"Long-running research style; still relevant to his climate and policy work through the early 2020s\",\n   \"basis\": \"Representative works on business-cycle welfare, optimal taxation, quasi-geometric discounting, and climate policy.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Income and Wealth Heterogeneity in the Macroeconomy\",\n   \"year\": \"1998\",\n   \"venue\": \"Journal of Political Economy\",\n   \"coauthors\": [\n    \"Anthony A. Smith Jr.\"\n   ],\n   \"contribution\": \"A foundational quantitative heterogeneous-agent macro paper; introduced a widely used computational approach for economies with idiosyncratic risk, incomplete markets, and aggregate shocks, often referred to as the Krusell-Smith method.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"On the Size of U.S. Government: Political Economy in the Neoclassical Growth Model\",\n   \"year\": \"1999\",\n   \"venue\": \"American Economic Review\",\n   \"coauthors\": [\n    \"José-Víctor Ríos-Rull\"\n   ],\n   \"contribution\": \"Embeds voting and redistribution into a neoclassical growth framework to study government size and political-economy determinants of fiscal outcomes.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Capital-Skill Complementarity and Inequality: A Macroeconomic Analysis\",\n   \"year\": \"2000\",\n   \"venue\": \"Econometrica\",\n   \"coauthors\": [\n    \"Lee E. Ohanian\",\n    \"José-Víctor Ríos-Rull\",\n    \"Giovanni L. Violante\"\n   ],\n   \"contribution\": \"A major quantitative macro analysis of rising wage inequality, emphasizing the interaction between capital deepening, skilled labor, and technological change.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Equilibrium Welfare and Government Policy with Quasi-Geometric Discounting\",\n   \"year\": \"2002\",\n   \"venue\": \"Journal of Economic Theory\",\n   \"coauthors\": [\n    \"Burhanettin Kuruscu\",\n    \"Anthony A. Smith Jr.\"\n   ],\n   \"contribution\": \"Studies welfare and policy when agents have present-biased preferences, linking macro policy evaluation to time-inconsistent individual behavior.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Revisiting the Welfare Effects of Eliminating Business Cycles\",\n   \"year\": \"2009\",\n   \"venue\": \"Review of Economic Dynamics\",\n   \"coauthors\": [\n    \"Toshihiko Mukoyama\",\n    \"Ayşegül Şahin\"\n   ],\n   \"contribution\": \"Reassesses the welfare costs of aggregate fluctuations in a richer model with idiosyncratic risk and labor-market considerations, showing how heterogeneity can matter for classic macro welfare calculations.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Optimal Taxes on Fossil Fuel in General Equilibrium\",\n   \"year\": \"2014\",\n   \"venue\": \"Econometrica\",\n   \"coauthors\": [\n    \"Mikhail Golosov\",\n    \"John Hassler\",\n    \"Aleh Tsyvinski\"\n   ],\n   \"contribution\": \"Derives and quantifies optimal fossil-fuel taxes in a dynamic general-equilibrium climate-economy model, connecting environmental externalities to macro public finance.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Directed Technical Change as a Response to Natural Resource Scarcity\",\n   \"year\": \"2021\",\n   \"venue\": \"Journal of Political Economy\",\n   \"coauthors\": [\n    \"John Hassler\",\n    \"Conny Olovsson\"\n   ],\n   \"contribution\": \"Analyzes how scarcity of natural resources can direct innovation toward resource-saving technologies, linking growth theory, energy use, and environmental macroeconomics.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"Krusell would likely approach a prize discussion as a quantitative macroeconomic theorist: attentive to whether a contribution changed the profession’s core models, computational methods, and understanding of aggregate policy tradeoffs. This is an inference from his research record, especially his work on heterogeneous-agent macro, inequality, policy design, and climate-economy general equilibrium.\",\n  \"research_lens\": \"His lens is structural and general-equilibrium. He tends to ask how individual heterogeneity, incentives, technology, and policy constraints aggregate into macroeconomic outcomes. He is likely to value contributions that are not only elegant theoretically but also quantitatively disciplined and usable for counterfactual policy analysis.\",\n  \"methods_and_evidence\": \"His own work relies heavily on dynamic programming, recursive competitive equilibrium, calibrated or quantitatively implemented general-equilibrium models, numerical solution methods, welfare analysis, and mechanism-based interpretation. In climate work, he applies macro-public-finance tools to environmental externalities and long-run damages. He is not primarily identified with reduced-form empirical microeconometrics, so his comparative advantage in deliberation would likely be assessing theoretical depth, quantitative macro relevance, and model credibility.\",\n  \"what_they_value_in_contributions\": \"Based on his publications, he would plausibly value work that creates durable tools for the profession; clarifies mechanisms rather than only documenting correlations; connects theory to quantitatively meaningful magnitudes; changes how economists evaluate policy; and travels across subfields, for example from macro theory into inequality, public finance, labor, or climate economics. He may be especially receptive to contributions whose importance is demonstrated by widespread adoption in frontier research and policy analysis.\",\n  \"likely_questions_in_deliberation\": [\n   \"Did the work change the set of models or computational methods that economists actually use?\",\n   \"Is the mechanism robust in general equilibrium, or does it rely on a partial-equilibrium intuition that disappears once prices, policy, and expectations adjust?\",\n   \"Are the magnitudes quantitatively important, not just theoretically possible?\",\n   \"Does the contribution handle heterogeneity, risk, and distributional consequences in a credible way?\",\n   \"Can the framework be used for welfare or policy counterfactuals, and are those counterfactuals disciplined by data or transparent calibration?\",\n   \"Has the work had broad and lasting influence across macroeconomics or adjacent fields?\",\n   \"If the candidate contribution is empirical, what is the economic mechanism, and can it be integrated into a coherent model of behavior and equilibrium?\"\n  ],\n  \"committee_experience\": \"The prompt identifies him as secretary of the 2026 Committee for the Prize in Economic Sciences in Memory of Alfred Nobel. I do not have reliable independent information, from memory alone, on the full chronology of his Nobel committee service before 2026.\"\n },\n \"knowledge_limits\": \"This profile is based on my stored knowledge up to 2024-06 plus the user-provided 2026 committee role and listing. I have no web access here and cannot verify the current Nobel committee page, his latest CV, or publications after mid-2024. I am confident about his identity and core research profile. Some bibliographic details, especially exact years or venues for less central papers and the most recent climate/technical-change work, are given with medium rather than high confidence where my memory may be incomplete.\"\n}\n\nProfile G:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Per Krusell is a prominent macroeconomist at IIES, Stockholm University, renowned for foundational contributions to quantitative macroeconomics, heterogeneous agent models, and climate economics.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Macroeconomics\",\n   \"jel_codes\": [\n    \"E1\",\n    \"E2\",\n    \"E3\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Climate Economics\",\n   \"jel_codes\": [\n    \"Q54\",\n    \"Q58\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Economic Growth and Inequality\",\n   \"jel_codes\": [\n    \"O33\",\n    \"O40\",\n    \"D31\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Macroeconomics of Climate Change\",\n   \"period\": \"2015-2026\",\n   \"basis\": \"Published multiple papers integrating climate models into dynamic spatial macro frameworks and assessing optimal climate policy.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Inequality and Heterogeneous Agents\",\n   \"period\": \"Ongoing\",\n   \"basis\": \"Continues to develop macroeconomic frameworks that incorporate wealth distribution, uninsurable risk, and labor market frictions.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Income and Wealth Heterogeneity in the Macroeconomy\",\n   \"year\": \"1998\",\n   \"venue\": \"Journal of Political Economy\",\n   \"coauthors\": [\n    \"Anthony A. Smith, Jr.\"\n   ],\n   \"contribution\": \"Developed the Krusell-Smith algorithm to solve dynamic stochastic general equilibrium models with heterogeneous agents and aggregate shocks, a cornerstone of modern quantitative macroeconomics.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Capital-Skill Complementarity and Inequality: A Macroeconomic Analysis\",\n   \"year\": \"2000\",\n   \"venue\": \"Econometrica\",\n   \"coauthors\": [\n    \"Lee E. Ohanian\",\n    \"Jose-Victor Rios-Rull\",\n    \"Giovanni L. Violante\"\n   ],\n   \"contribution\": \"Demonstrated that capital-skill complementarity combined with the declining price of equipment capital explains the rise in the college wage premium.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Optimal Taxes on Fossil Fuel in General Equilibrium\",\n   \"year\": \"2014\",\n   \"venue\": \"Econometrica\",\n   \"coauthors\": [\n    \"Mikhail Golosov\",\n    \"John Hassler\",\n    \"Aleh Tsyvinski\"\n   ],\n   \"contribution\": \"Constructed a tractable dynamic stochastic general equilibrium model with a climate module to derive a closed-form formula for the optimal carbon tax.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective\",\n   \"year\": \"2020\",\n   \"venue\": \"Journal of Political Economy\",\n   \"coauthors\": [\n    \"Timo Boppart\"\n   ],\n   \"contribution\": \"Presented a growth model with a preference specification that generates a secular decline in hours worked, matching historical macro data.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"Per Krusell is a highly rigorous quantitative macroeconomist who has revolutionized the integration of heterogeneous agents and climate dynamics into general equilibrium models. As committee secretary, he brings a deep appreciation for structural modeling, computational tractability, and scaling micro-level phenomena to aggregate outcomes.\",\n  \"research_lens\": \"Focuses on aggregate dynamics driven by micro-level heterogeneity, technological change, and environmental constraints through the lens of dynamic stochastic general equilibrium models.\",\n  \"methods_and_evidence\": \"Relies heavily on structural quantitative modeling, dynamic programming, and numerical methods. Values theoretical elegance paired with computational feasibility to match aggregate macroeconomic data.\",\n  \"what_they_value_in_contributions\": \"Values foundational methodological breakthroughs that make previously intractable aggregate problems solvable. Appreciates research that yields clear quantitative policy implications derived from robust general equilibrium frameworks.\",\n  \"likely_questions_in_deliberation\": [\n   \"Does this empirical finding have a robust general equilibrium counterpart, or does its significance diminish in the aggregate?\",\n   \"What is the specific computational or methodological innovation that makes this framework tractable for other researchers?\",\n   \"Have the authors properly accounted for the macroeconomic feedback loops between growth and this specific friction?\"\n  ],\n  \"committee_experience\": \"Has extensive experience on the Prize Committee, having served as a member and chair before becoming secretary. Deeply familiar with the prize process and highly influential in recognizing advances in macroeconomics, growth, and climate economics.\"\n },\n \"knowledge_limits\": \"My knowledge of his specific recent working papers from 2024 to 2026 is limited. I lack access to his private committee deliberations and the internal administrative dynamics of his specific role as secretary.\"\n}"
+      }
+     ],
+     "output_config": {
+      "format": {
+       "type": "json_schema",
+       "schema": {
+        "type": "object",
+        "properties": {
+         "identity": {
+          "type": "object",
+          "properties": {
+           "name": {
+            "type": "string"
+           },
+           "affiliation": {
+            "type": "string"
+           },
+           "recognized_by": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "name",
+           "affiliation",
+           "recognized_by",
+           "note"
+          ],
+          "additionalProperties": false
+         },
+         "fields": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "field": {
+             "type": "string"
+            },
+            "jel_codes": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "field",
+            "jel_codes",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "recent_interests": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "topic": {
+             "type": "string"
+            },
+            "period": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "topic",
+            "period",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "representative_works": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "year": {
+             "type": "string"
+            },
+            "venue": {
+             "type": "string"
+            },
+            "coauthors": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "contribution": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "conflict": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "title",
+            "year",
+            "venue",
+            "coauthors",
+            "contribution",
+            "support",
+            "conflict"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "persona": {
+          "type": "object",
+          "properties": {
+           "summary": {
+            "type": "string"
+           },
+           "research_lens": {
+            "type": "string"
+           },
+           "methods_and_evidence": {
+            "type": "string"
+           },
+           "what_they_value_in_contributions": {
+            "type": "string"
+           },
+           "likely_questions_in_deliberation": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "committee_experience": {
+            "type": "string"
+           },
+           "support_note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "summary",
+           "research_lens",
+           "methods_and_evidence",
+           "what_they_value_in_contributions",
+           "likely_questions_in_deliberation",
+           "committee_experience",
+           "support_note"
+          ],
+          "additionalProperties": false
+         },
+         "disagreements": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         },
+         "caveats": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         }
+        },
+        "required": [
+         "identity",
+         "fields",
+         "recent_interests",
+         "representative_works",
+         "persona",
+         "disagreements",
+         "caveats"
+        ],
+        "additionalProperties": false
+       }
+      },
+      "effort": "high"
+     }
+    }
+   },
+   "http": [
+    {
+     "attempt": 1,
+     "started": "2026-10-09T23:54:01+00:00",
+     "ended": "2026-10-09T23:54:51+00:00",
+     "seconds": 50.4,
+     "status": 200,
+     "headers": {
+      "request-id": "req_011CfsZhwkitxWANtu2mDw8H"
+     }
+    }
+   ],
+   "response_raw": {
+    "model": "claude-opus-5-5",
+    "id": "msg_011CfsZhxEVmBLCWAhNjwf9H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "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"
+     },
+     {
+      "type": "text",
+      "text": "{\"identity\":{\"name\":\"Per Krusell\",\"affiliation\":\"Institute for International Economic Studies (IIES), Stockholm University\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him with high confidence as a Swedish macroeconomist at IIES, Stockholm University. They describe his work as quantitative dynamic general-equilibrium macroeconomics, especially heterogeneous-agent models, plus inequality and technological change, fiscal and political economy, and climate-economy macroeconomics. Profile A also notes long affiliations with CEPR and NBER. His 2026 role as committee secretary comes from the provided listing.\"},\"fields\":[{\"field\":\"Macroeconomics: quantitative dynamic general equilibrium and macroeconomic theory\",\"jel_codes\":[\"E13\",\"E17\",\"E21\",\"E24\",\"E32\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three list macroeconomics as the core field. G gives only the broad codes E1, E2 and E3.\"},{\"field\":\"Heterogeneous-agent macroeconomics: income and wealth distribution, incomplete markets\",\"jel_codes\":[\"D31\",\"D52\",\"E21\",\"E44\"],\"support\":[\"A\",\"O\"],\"note\":\"A folds this into its quantitative macro field and O lists it separately. G's 'Economic Growth and Inequality' field (D31) and its identity note also stress heterogeneous agents.\"},{\"field\":\"Economic growth and technological change: investment-specific technical change, capital-skill complementarity, inequality\",\"jel_codes\":[\"O33\",\"O40\",\"O41\",\"O47\",\"J24\",\"J31\",\"E22\",\"D31\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"G frames this as 'Economic Growth and Inequality'.\"},{\"field\":\"Climate and environmental macroeconomics: integrated assessment, carbon and fossil-fuel taxation in general equilibrium\",\"jel_codes\":[\"Q54\",\"Q58\",\"H23\",\"E62\",\"E13\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"\"},{\"field\":\"Fiscal policy and public finance in macro: optimal taxation, welfare, time consistency\",\"jel_codes\":[\"H21\",\"H23\",\"E62\",\"D61\"],\"support\":[\"A\",\"O\"],\"note\":\"A rates this medium confidence and O high.\"},{\"field\":\"Political economy of macroeconomic policy and redistribution, including vested interests\",\"jel_codes\":[\"D72\",\"D78\",\"H50\",\"E60\"],\"support\":[\"A\",\"O\"],\"note\":\"A combines this with public finance in a single field; O lists it separately.\"},{\"field\":\"Behavioral macro and decision theory: quasi-hyperbolic/quasi-geometric discounting, temptation\",\"jel_codes\":[\"D91\",\"D15\",\"E21\"],\"support\":[\"A\"],\"note\":\"Only A lists it as a field. O cites a quasi-geometric discounting paper among his representative works.\"},{\"field\":\"Labor-market macro: search frictions, gross worker flows\",\"jel_codes\":[\"J64\",\"E24\"],\"support\":[\"A\"],\"note\":\"Only A lists it as a field. G mentions labor-market frictions in his recent interests, and O cites a business-cycle welfare paper with labor-market elements.\"}],\"recent_interests\":[{\"topic\":\"Climate-economy macroeconomics: optimal carbon/fossil-fuel taxation, climate damages, regional/spatial heterogeneity and distributional effects of warming\",\"period\":\"c. 2010s–2020s (A: c. 2015–2024; O: 2010s through at least early 2020s; G: 2015–2026)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Coauthors named are Hassler, Olovsson, Golosov, Tsyvinski and Smith. A and G mention regional/spatial climate models.\"},{\"topic\":\"Directed technical change and energy/natural-resource scarcity (energy-saving innovation)\",\"period\":\"c. 2018–2023 (O: publication around 2021)\",\"support\":[\"A\",\"O\"],\"note\":\"Work with Hassler and Olovsson.\"},{\"topic\":\"Heterogeneous-agent macro and wealth inequality, including critiques of Piketty-style accounting laws\",\"period\":\"Ongoing since the late 1990s (A: c. 2015–2022)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"G calls this ongoing and adds labor-market frictions. O is unsure whether it was an active publication focus in 2021–2024. A ties it to the Krusell–Smith Piketty work.\"},{\"topic\":\"Automation, AI and the labor market/income distribution via capital-labor substitution\",\"period\":\"c. 2018–2024\",\"support\":[\"A\"],\"note\":\"Single-profile item (medium confidence), based on talks and working papers.\"},{\"topic\":\"Macroeconomic policy evaluation with structural, calibrated or computational general-equilibrium models\",\"period\":\"Long-running, through the early 2020s\",\"support\":[\"O\"],\"note\":\"Single-profile item describing his research style.\"}],\"representative_works\":[{\"title\":\"Income and Wealth Heterogeneity in the Macroeconomy\",\"year\":\"1998\",\"venue\":\"Journal of Political Economy\",\"coauthors\":[\"Anthony A. Smith Jr.\"],\"contribution\":\"Introduced the Krusell–Smith approximate-aggregation method for incomplete-markets models with aggregate risk. It became the workhorse of heterogeneous-agent macroeconomics.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Capital-Skill Complementarity and Inequality: A Macroeconomic Analysis\",\"year\":\"2000\",\"venue\":\"Econometrica\",\"coauthors\":[\"Lee E. Ohanian\",\"José-Víctor Ríos-Rull\",\"Giovanni L. Violante\"],\"contribution\":\"Showed that falling equipment prices combined with capital-skill complementarity can account for much of the rise in the US skill premium.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Optimal Taxes on Fossil Fuel in General Equilibrium\",\"year\":\"2014\",\"venue\":\"Econometrica\",\"coauthors\":[\"Mikhail Golosov\",\"John Hassler\",\"Aleh Tsyvinski\"],\"contribution\":\"Derived a simple closed-form optimal carbon tax formula in a dynamic general-equilibrium climate-economy model.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Long-Run Implications of Investment-Specific Technological Change\",\"year\":\"1997\",\"venue\":\"American Economic Review\",\"coauthors\":[\"Jeremy Greenwood\",\"Zvi Hercowitz\"],\"contribution\":\"Quantified the role of investment-specific technical change, measured through relative equipment prices, in postwar US growth.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Vested Interests in a Positive Theory of Stagnation and Growth\",\"year\":\"1996\",\"venue\":\"Review of Economic Studies\",\"coauthors\":[\"José-Víctor Ríos-Rull\"],\"contribution\":\"Political-economy growth model in which vested interests in existing technologies block adoption of new ones.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"On the Size of U.S. Government: Political Economy in the Neoclassical Growth Model\",\"year\":\"1999\",\"venue\":\"American Economic Review\",\"coauthors\":[\"José-Víctor Ríos-Rull\"],\"contribution\":\"Embeds voting and redistribution in a neoclassical growth model to study the political-economy determinants of government size.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Equilibrium Welfare and Government Policy with Quasi-Geometric Discounting\",\"year\":\"2002\",\"venue\":\"Journal of Economic Theory\",\"coauthors\":[\"Burhanettin Kuruscu\",\"Anthony A. Smith Jr.\"],\"contribution\":\"Studies welfare and policy when agents have present-biased preferences.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Consumption-Savings Decisions with Quasi-Geometric Discounting\",\"year\":\"2003\",\"venue\":\"Econometrica\",\"coauthors\":[\"Anthony A. Smith Jr.\"],\"contribution\":\"Analyzed equilibria and indeterminacy in savings problems with time-inconsistent (quasi-hyperbolic) preferences.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Revisiting the Welfare Effects of Eliminating Business Cycles\",\"year\":\"2009\",\"venue\":\"Review of Economic Dynamics\",\"coauthors\":[\"Toshihiko Mukoyama\",\"Ayşegül Şahin\"],\"contribution\":\"Reassesses the welfare cost of business cycles in a model with idiosyncratic risk and labor-market elements, showing that heterogeneity matters.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Is Piketty's 'Second Law of Capitalism' Fundamental?\",\"year\":\"2015\",\"venue\":\"Journal of Political Economy\",\"coauthors\":[\"Anthony A. Smith Jr.\"],\"contribution\":\"Argued from standard growth theory that capital-income ratios need not explode as growth slows.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Gross Worker Flows over the Business Cycle\",\"year\":\"2017\",\"venue\":\"American Economic Review\",\"coauthors\":[\"Toshihiko Mukoyama\",\"Richard Rogerson\",\"Ayşegül Şahin\"],\"contribution\":\"Model of flows among employment, unemployment and nonparticipation that matches cyclical labor-market dynamics.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective\",\"year\":\"2020\",\"venue\":\"Journal of Political Economy\",\"coauthors\":[\"Timo Boppart\"],\"contribution\":\"Growth model with preferences that generate a secular decline in hours worked, consistent with historical data.\",\"support\":[\"G\"],\"conflict\":\"\"},{\"title\":\"Directed Technical Change as a Response to Natural Resource Scarcity\",\"year\":\"2021\",\"venue\":\"Journal of Political Economy\",\"coauthors\":[\"John Hassler\",\"Conny Olovsson\"],\"contribution\":\"Shows how natural-resource scarcity directs innovation toward resource-saving technologies, linking growth theory, energy and environmental macro.\",\"support\":[\"O\"],\"conflict\":\"\"}],\"persona\":{\"summary\":\"A leading quantitative macroeconomist who combines rigorous dynamic general-equilibrium theory with disciplined quantitative evaluation. His work spans heterogeneous agents and inequality, technology and growth, fiscal and political economy, time-inconsistent preferences, and climate economics. He is an experienced member of the prize committee and serves as secretary in 2026. The persona is inferred from his research record.\",\"research_lens\":\"Structural and general-equilibrium. He asks how individual heterogeneity, incentives, technology and policy constraints aggregate into macroeconomic outcomes, and whether a mechanism survives general-equilibrium feedback.\",\"methods_and_evidence\":\"Dynamic programming and recursive equilibrium theory, numerical solution methods, and calibration to macro and micro moments. He runs quantitative counterfactual, welfare and policy experiments, and seeks analytical tractability where possible, as in the closed-form carbon tax. He is not primarily identified with reduced-form microeconometrics (O).\",\"what_they_value_in_contributions\":\"- Durable tools or frameworks that the profession widely adopts, as with the Krusell–Smith method.\\n- Methodological breakthroughs that make intractable problems solvable.\\n- Tight links between theory and credible quantitative magnitudes.\\n- Mechanisms rather than correlations or accounting identities.\\n- Policy-relevant and welfare implications from internally consistent models.\\n- Broad influence across subfields such as inequality, public finance, labor and climate.\",\"likely_questions_in_deliberation\":[\"Does the result hold in general equilibrium, or is it a partial-equilibrium effect that fades once prices, policy and expectations adjust?\",\"Did the work change the models or computational methods economists actually use, i.e., is it a workhorse?\",\"Are the magnitudes quantitatively important and credible, not just theoretically possible?\",\"Does the contribution handle heterogeneity, risk and distributional consequences credibly, including across agents or regions?\",\"Can the framework support disciplined welfare or policy counterfactuals?\",\"If the contribution is empirical, what is the economic mechanism and can it be integrated into a coherent equilibrium model?\",\"Is the contribution attributable to the nominated individuals, and how does it relate to predecessors?\",\"Does the work speak to long-run issues such as growth, technology, inequality or climate?\"],\"committee_experience\":\"He has served on the prize committee for many years and, according to A and G, as chair before becoming secretary in 2026. A suggests membership since roughly the mid-2000s and says he presented the climate side of the 2018 prize (Nordhaus and Romer). O has no reliable information on his service before 2026.\",\"support_note\":\"All three profiles share the research lens, methods and values, with A and O most detailed. The likely questions merge all three. Committee history comes from A (tentative: 'I believe' he was chair; mid-2000s start; 2018 presentation) and G (member and chair before secretary). O declines to state a chronology. The persona does not predict his prize preferences.\"},\"disagreements\":[\"Period of climate interest: A gives c. 2015–2024, O the 2010s through the early 2020s, and G 2015–2026. G's endpoint extends beyond the knowledge cutoffs stated by A and O.\",\"Status of heterogeneous-agent work: G calls it ongoing, while O is unsure it was an active publication focus in 2021–2024.\",\"Committee history: A and G say he served as chair (A tentatively), while O claims no knowledge of service before 2026. A's mid-2000s start and 2018 presentation are A-only.\",\"No profiles conflict on titles, years, venues or coauthors of shared works.\"],\"caveats\":[\"Many representative works rest on a single profile and should be verified. A-only: 1996 RES, 1997 AER, 2003 Econometrica, 2015 JPE, 2017 AER. O-only: 1999 AER, 2002 JET, 2009 RED, 2021 JPE. G-only: 2020 JPE with Boppart.\",\"The single-profile fields (behavioral macro, labor-market macro) and interests (automation/AI from A; structural policy evaluation from O) are medium confidence.\",\"Committee chronology and the chair role are uncertain; verify them against official Nobel records. Only the 2026 secretary role is confirmed by the provided listing.\",\"Knowledge cutoffs: A is about 2024–early 2025 and O is mid-2024. G gives no explicit cutoff but admits limited knowledge of 2024–2026 work. Recent working papers are not covered reliably.\",\"G's fields and JEL codes are coarse (E1–E3).\",\"No namesake issues were identified and no entries were dropped.\",\"The persona is inferred from publications, not from known statements about prize preferences.\"]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 11106,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 6314,
+     "output_tokens_details": {
+      "thinking_tokens": 1325
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "response_id": "msg_011CfsZhxEVmBLCWAhNjwf9H",
+   "stop": "end_turn",
+   "truncated": false,
+   "refused": false,
+   "usage": {
+    "input": 11106,
+    "output": 6314,
+    "reasoning": 1325,
+    "cached_input": 0
+   },
+   "usage_raw": {
+    "input_tokens": 11106,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6314,
+    "output_tokens_details": {
+     "thinking_tokens": 1325
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+   },
+   "text": "{\"identity\":{\"name\":\"Per Krusell\",\"affiliation\":\"Institute for International Economic Studies (IIES), Stockholm University\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him with high confidence as a Swedish macroeconomist at IIES, Stockholm University. They describe his work as quantitative dynamic general-equilibrium macroeconomics, especially heterogeneous-agent models, plus inequality and technological change, fiscal and political economy, and climate-economy macroeconomics. Profile A also notes long affiliations with CEPR and NBER. His 2026 role as committee secretary comes from the provided listing.\"},\"fields\":[{\"field\":\"Macroeconomics: quantitative dynamic general equilibrium and macroeconomic theory\",\"jel_codes\":[\"E13\",\"E17\",\"E21\",\"E24\",\"E32\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three list macroeconomics as the core field. G gives only the broad codes E1, E2 and E3.\"},{\"field\":\"Heterogeneous-agent macroeconomics: income and wealth distribution, incomplete markets\",\"jel_codes\":[\"D31\",\"D52\",\"E21\",\"E44\"],\"support\":[\"A\",\"O\"],\"note\":\"A folds this into its quantitative macro field and O lists it separately. G's 'Economic Growth and Inequality' field (D31) and its identity note also stress heterogeneous agents.\"},{\"field\":\"Economic growth and technological change: investment-specific technical change, capital-skill complementarity, inequality\",\"jel_codes\":[\"O33\",\"O40\",\"O41\",\"O47\",\"J24\",\"J31\",\"E22\",\"D31\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"G frames this as 'Economic Growth and Inequality'.\"},{\"field\":\"Climate and environmental macroeconomics: integrated assessment, carbon and fossil-fuel taxation in general equilibrium\",\"jel_codes\":[\"Q54\",\"Q58\",\"H23\",\"E62\",\"E13\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"\"},{\"field\":\"Fiscal policy and public finance in macro: optimal taxation, welfare, time consistency\",\"jel_codes\":[\"H21\",\"H23\",\"E62\",\"D61\"],\"support\":[\"A\",\"O\"],\"note\":\"A rates this medium confidence and O high.\"},{\"field\":\"Political economy of macroeconomic policy and redistribution, including vested interests\",\"jel_codes\":[\"D72\",\"D78\",\"H50\",\"E60\"],\"support\":[\"A\",\"O\"],\"note\":\"A combines this with public finance in a single field; O lists it separately.\"},{\"field\":\"Behavioral macro and decision theory: quasi-hyperbolic/quasi-geometric discounting, temptation\",\"jel_codes\":[\"D91\",\"D15\",\"E21\"],\"support\":[\"A\"],\"note\":\"Only A lists it as a field. O cites a quasi-geometric discounting paper among his representative works.\"},{\"field\":\"Labor-market macro: search frictions, gross worker flows\",\"jel_codes\":[\"J64\",\"E24\"],\"support\":[\"A\"],\"note\":\"Only A lists it as a field. G mentions labor-market frictions in his recent interests, and O cites a business-cycle welfare paper with labor-market elements.\"}],\"recent_interests\":[{\"topic\":\"Climate-economy macroeconomics: optimal carbon/fossil-fuel taxation, climate damages, regional/spatial heterogeneity and distributional effects of warming\",\"period\":\"c. 2010s–2020s (A: c. 2015–2024; O: 2010s through at least early 2020s; G: 2015–2026)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"Coauthors named are Hassler, Olovsson, Golosov, Tsyvinski and Smith. A and G mention regional/spatial climate models.\"},{\"topic\":\"Directed technical change and energy/natural-resource scarcity (energy-saving innovation)\",\"period\":\"c. 2018–2023 (O: publication around 2021)\",\"support\":[\"A\",\"O\"],\"note\":\"Work with Hassler and Olovsson.\"},{\"topic\":\"Heterogeneous-agent macro and wealth inequality, including critiques of Piketty-style accounting laws\",\"period\":\"Ongoing since the late 1990s (A: c. 2015–2022)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"G calls this ongoing and adds labor-market frictions. O is unsure whether it was an active publication focus in 2021–2024. A ties it to the Krusell–Smith Piketty work.\"},{\"topic\":\"Automation, AI and the labor market/income distribution via capital-labor substitution\",\"period\":\"c. 2018–2024\",\"support\":[\"A\"],\"note\":\"Single-profile item (medium confidence), based on talks and working papers.\"},{\"topic\":\"Macroeconomic policy evaluation with structural, calibrated or computational general-equilibrium models\",\"period\":\"Long-running, through the early 2020s\",\"support\":[\"O\"],\"note\":\"Single-profile item describing his research style.\"}],\"representative_works\":[{\"title\":\"Income and Wealth Heterogeneity in the Macroeconomy\",\"year\":\"1998\",\"venue\":\"Journal of Political Economy\",\"coauthors\":[\"Anthony A. Smith Jr.\"],\"contribution\":\"Introduced the Krusell–Smith approximate-aggregation method for incomplete-markets models with aggregate risk. It became the workhorse of heterogeneous-agent macroeconomics.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Capital-Skill Complementarity and Inequality: A Macroeconomic Analysis\",\"year\":\"2000\",\"venue\":\"Econometrica\",\"coauthors\":[\"Lee E. Ohanian\",\"José-Víctor Ríos-Rull\",\"Giovanni L. Violante\"],\"contribution\":\"Showed that falling equipment prices combined with capital-skill complementarity can account for much of the rise in the US skill premium.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Optimal Taxes on Fossil Fuel in General Equilibrium\",\"year\":\"2014\",\"venue\":\"Econometrica\",\"coauthors\":[\"Mikhail Golosov\",\"John Hassler\",\"Aleh Tsyvinski\"],\"contribution\":\"Derived a simple closed-form optimal carbon tax formula in a dynamic general-equilibrium climate-economy model.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"Long-Run Implications of Investment-Specific Technological Change\",\"year\":\"1997\",\"venue\":\"American Economic Review\",\"coauthors\":[\"Jeremy Greenwood\",\"Zvi Hercowitz\"],\"contribution\":\"Quantified the role of investment-specific technical change, measured through relative equipment prices, in postwar US growth.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Vested Interests in a Positive Theory of Stagnation and Growth\",\"year\":\"1996\",\"venue\":\"Review of Economic Studies\",\"coauthors\":[\"José-Víctor Ríos-Rull\"],\"contribution\":\"Political-economy growth model in which vested interests in existing technologies block adoption of new ones.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"On the Size of U.S. Government: Political Economy in the Neoclassical Growth Model\",\"year\":\"1999\",\"venue\":\"American Economic Review\",\"coauthors\":[\"José-Víctor Ríos-Rull\"],\"contribution\":\"Embeds voting and redistribution in a neoclassical growth model to study the political-economy determinants of government size.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Equilibrium Welfare and Government Policy with Quasi-Geometric Discounting\",\"year\":\"2002\",\"venue\":\"Journal of Economic Theory\",\"coauthors\":[\"Burhanettin Kuruscu\",\"Anthony A. Smith Jr.\"],\"contribution\":\"Studies welfare and policy when agents have present-biased preferences.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Consumption-Savings Decisions with Quasi-Geometric Discounting\",\"year\":\"2003\",\"venue\":\"Econometrica\",\"coauthors\":[\"Anthony A. Smith Jr.\"],\"contribution\":\"Analyzed equilibria and indeterminacy in savings problems with time-inconsistent (quasi-hyperbolic) preferences.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Revisiting the Welfare Effects of Eliminating Business Cycles\",\"year\":\"2009\",\"venue\":\"Review of Economic Dynamics\",\"coauthors\":[\"Toshihiko Mukoyama\",\"Ayşegül Şahin\"],\"contribution\":\"Reassesses the welfare cost of business cycles in a model with idiosyncratic risk and labor-market elements, showing that heterogeneity matters.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Is Piketty's 'Second Law of Capitalism' Fundamental?\",\"year\":\"2015\",\"venue\":\"Journal of Political Economy\",\"coauthors\":[\"Anthony A. Smith Jr.\"],\"contribution\":\"Argued from standard growth theory that capital-income ratios need not explode as growth slows.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Gross Worker Flows over the Business Cycle\",\"year\":\"2017\",\"venue\":\"American Economic Review\",\"coauthors\":[\"Toshihiko Mukoyama\",\"Richard Rogerson\",\"Ayşegül Şahin\"],\"contribution\":\"Model of flows among employment, unemployment and nonparticipation that matches cyclical labor-market dynamics.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective\",\"year\":\"2020\",\"venue\":\"Journal of Political Economy\",\"coauthors\":[\"Timo Boppart\"],\"contribution\":\"Growth model with preferences that generate a secular decline in hours worked, consistent with historical data.\",\"support\":[\"G\"],\"conflict\":\"\"},{\"title\":\"Directed Technical Change as a Response to Natural Resource Scarcity\",\"year\":\"2021\",\"venue\":\"Journal of Political Economy\",\"coauthors\":[\"John Hassler\",\"Conny Olovsson\"],\"contribution\":\"Shows how natural-resource scarcity directs innovation toward resource-saving technologies, linking growth theory, energy and environmental macro.\",\"support\":[\"O\"],\"conflict\":\"\"}],\"persona\":{\"summary\":\"A leading quantitative macroeconomist who combines rigorous dynamic general-equilibrium theory with disciplined quantitative evaluation. His work spans heterogeneous agents and inequality, technology and growth, fiscal and political economy, time-inconsistent preferences, and climate economics. He is an experienced member of the prize committee and serves as secretary in 2026. The persona is inferred from his research record.\",\"research_lens\":\"Structural and general-equilibrium. He asks how individual heterogeneity, incentives, technology and policy constraints aggregate into macroeconomic outcomes, and whether a mechanism survives general-equilibrium feedback.\",\"methods_and_evidence\":\"Dynamic programming and recursive equilibrium theory, numerical solution methods, and calibration to macro and micro moments. He runs quantitative counterfactual, welfare and policy experiments, and seeks analytical tractability where possible, as in the closed-form carbon tax. He is not primarily identified with reduced-form microeconometrics (O).\",\"what_they_value_in_contributions\":\"- Durable tools or frameworks that the profession widely adopts, as with the Krusell–Smith method.\\n- Methodological breakthroughs that make intractable problems solvable.\\n- Tight links between theory and credible quantitative magnitudes.\\n- Mechanisms rather than correlations or accounting identities.\\n- Policy-relevant and welfare implications from internally consistent models.\\n- Broad influence across subfields such as inequality, public finance, labor and climate.\",\"likely_questions_in_deliberation\":[\"Does the result hold in general equilibrium, or is it a partial-equilibrium effect that fades once prices, policy and expectations adjust?\",\"Did the work change the models or computational methods economists actually use, i.e., is it a workhorse?\",\"Are the magnitudes quantitatively important and credible, not just theoretically possible?\",\"Does the contribution handle heterogeneity, risk and distributional consequences credibly, including across agents or regions?\",\"Can the framework support disciplined welfare or policy counterfactuals?\",\"If the contribution is empirical, what is the economic mechanism and can it be integrated into a coherent equilibrium model?\",\"Is the contribution attributable to the nominated individuals, and how does it relate to predecessors?\",\"Does the work speak to long-run issues such as growth, technology, inequality or climate?\"],\"committee_experience\":\"He has served on the prize committee for many years and, according to A and G, as chair before becoming secretary in 2026. A suggests membership since roughly the mid-2000s and says he presented the climate side of the 2018 prize (Nordhaus and Romer). O has no reliable information on his service before 2026.\",\"support_note\":\"All three profiles share the research lens, methods and values, with A and O most detailed. The likely questions merge all three. Committee history comes from A (tentative: 'I believe' he was chair; mid-2000s start; 2018 presentation) and G (member and chair before secretary). O declines to state a chronology. The persona does not predict his prize preferences.\"},\"disagreements\":[\"Period of climate interest: A gives c. 2015–2024, O the 2010s through the early 2020s, and G 2015–2026. G's endpoint extends beyond the knowledge cutoffs stated by A and O.\",\"Status of heterogeneous-agent work: G calls it ongoing, while O is unsure it was an active publication focus in 2021–2024.\",\"Committee history: A and G say he served as chair (A tentatively), while O claims no knowledge of service before 2026. A's mid-2000s start and 2018 presentation are A-only.\",\"No profiles conflict on titles, years, venues or coauthors of shared works.\"],\"caveats\":[\"Many representative works rest on a single profile and should be verified. A-only: 1996 RES, 1997 AER, 2003 Econometrica, 2015 JPE, 2017 AER. O-only: 1999 AER, 2002 JET, 2009 RED, 2021 JPE. G-only: 2020 JPE with Boppart.\",\"The single-profile fields (behavioral macro, labor-market macro) and interests (automation/AI from A; structural policy evaluation from O) are medium confidence.\",\"Committee chronology and the chair role are uncertain; verify them against official Nobel records. Only the 2026 secretary role is confirmed by the provided listing.\",\"Knowledge cutoffs: A is about 2024–early 2025 and O is mid-2024. G gives no explicit cutoff but admits limited knowledge of 2024–2026 work. Recent working papers are not covered reliably.\",\"G's fields and JEL codes are coarse (E1–E3).\",\"No namesake issues were identified and no entries were dropped.\",\"The persona is inferred from publications, not from known statements about prize preferences.\"]}",
+   "parsed": {
+    "identity": {
+     "name": "Per Krusell",
+     "affiliation": "Institute for International Economic Studies (IIES), Stockholm University",
+     "recognized_by": [
+      "A",
+      "O",
+      "G"
+     ],
+     "note": "All three profiles recognize him with high confidence as a Swedish macroeconomist at IIES, Stockholm University. They describe his work as quantitative dynamic general-equilibrium macroeconomics, especially heterogeneous-agent models, plus inequality and technological change, fiscal and political economy, and climate-economy macroeconomics. Profile A also notes long affiliations with CEPR and NBER. His 2026 role as committee secretary comes from the provided listing."
+    },
+    "fields": [
+     {
+      "field": "Macroeconomics: quantitative dynamic general equilibrium and macroeconomic theory",
+      "jel_codes": [
+       "E13",
+       "E17",
+       "E21",
+       "E24",
+       "E32"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "All three list macroeconomics as the core field. G gives only the broad codes E1, E2 and E3."
+     },
+     {
+      "field": "Heterogeneous-agent macroeconomics: income and wealth distribution, incomplete markets",
+      "jel_codes": [
+       "D31",
+       "D52",
+       "E21",
+       "E44"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "A folds this into its quantitative macro field and O lists it separately. G's 'Economic Growth and Inequality' field (D31) and its identity note also stress heterogeneous agents."
+     },
+     {
+      "field": "Economic growth and technological change: investment-specific technical change, capital-skill complementarity, inequality",
+      "jel_codes": [
+       "O33",
+       "O40",
+       "O41",
+       "O47",
+       "J24",
+       "J31",
+       "E22",
+       "D31"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "G frames this as 'Economic Growth and Inequality'."
+     },
+     {
+      "field": "Climate and environmental macroeconomics: integrated assessment, carbon and fossil-fuel taxation in general equilibrium",
+      "jel_codes": [
+       "Q54",
+       "Q58",
+       "H23",
+       "E62",
+       "E13"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": ""
+     },
+     {
+      "field": "Fiscal policy and public finance in macro: optimal taxation, welfare, time consistency",
+      "jel_codes": [
+       "H21",
+       "H23",
+       "E62",
+       "D61"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "A rates this medium confidence and O high."
+     },
+     {
+      "field": "Political economy of macroeconomic policy and redistribution, including vested interests",
+      "jel_codes": [
+       "D72",
+       "D78",
+       "H50",
+       "E60"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "A combines this with public finance in a single field; O lists it separately."
+     },
+     {
+      "field": "Behavioral macro and decision theory: quasi-hyperbolic/quasi-geometric discounting, temptation",
+      "jel_codes": [
+       "D91",
+       "D15",
+       "E21"
+      ],
+      "support": [
+       "A"
+      ],
+      "note": "Only A lists it as a field. O cites a quasi-geometric discounting paper among his representative works."
+     },
+     {
+      "field": "Labor-market macro: search frictions, gross worker flows",
+      "jel_codes": [
+       "J64",
+       "E24"
+      ],
+      "support": [
+       "A"
+      ],
+      "note": "Only A lists it as a field. G mentions labor-market frictions in his recent interests, and O cites a business-cycle welfare paper with labor-market elements."
+     }
+    ],
+    "recent_interests": [
+     {
+      "topic": "Climate-economy macroeconomics: optimal carbon/fossil-fuel taxation, climate damages, regional/spatial heterogeneity and distributional effects of warming",
+      "period": "c. 2010s–2020s (A: c. 2015–2024; O: 2010s through at least early 2020s; G: 2015–2026)",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "Coauthors named are Hassler, Olovsson, Golosov, Tsyvinski and Smith. A and G mention regional/spatial climate models."
+     },
+     {
+      "topic": "Directed technical change and energy/natural-resource scarcity (energy-saving innovation)",
+      "period": "c. 2018–2023 (O: publication around 2021)",
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "Work with Hassler and Olovsson."
+     },
+     {
+      "topic": "Heterogeneous-agent macro and wealth inequality, including critiques of Piketty-style accounting laws",
+      "period": "Ongoing since the late 1990s (A: c. 2015–2022)",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "G calls this ongoing and adds labor-market frictions. O is unsure whether it was an active publication focus in 2021–2024. A ties it to the Krusell–Smith Piketty work."
+     },
+     {
+      "topic": "Automation, AI and the labor market/income distribution via capital-labor substitution",
+      "period": "c. 2018–2024",
+      "support": [
+       "A"
+      ],
+      "note": "Single-profile item (medium confidence), based on talks and working papers."
+     },
+     {
+      "topic": "Macroeconomic policy evaluation with structural, calibrated or computational general-equilibrium models",
+      "period": "Long-running, through the early 2020s",
+      "support": [
+       "O"
+      ],
+      "note": "Single-profile item describing his research style."
+     }
+    ],
+    "representative_works": [
+     {
+      "title": "Income and Wealth Heterogeneity in the Macroeconomy",
+      "year": "1998",
+      "venue": "Journal of Political Economy",
+      "coauthors": [
+       "Anthony A. Smith Jr."
+      ],
+      "contribution": "Introduced the Krusell–Smith approximate-aggregation method for incomplete-markets models with aggregate risk. It became the workhorse of heterogeneous-agent macroeconomics.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Capital-Skill Complementarity and Inequality: A Macroeconomic Analysis",
+      "year": "2000",
+      "venue": "Econometrica",
+      "coauthors": [
+       "Lee E. Ohanian",
+       "José-Víctor Ríos-Rull",
+       "Giovanni L. Violante"
+      ],
+      "contribution": "Showed that falling equipment prices combined with capital-skill complementarity can account for much of the rise in the US skill premium.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Optimal Taxes on Fossil Fuel in General Equilibrium",
+      "year": "2014",
+      "venue": "Econometrica",
+      "coauthors": [
+       "Mikhail Golosov",
+       "John Hassler",
+       "Aleh Tsyvinski"
+      ],
+      "contribution": "Derived a simple closed-form optimal carbon tax formula in a dynamic general-equilibrium climate-economy model.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Long-Run Implications of Investment-Specific Technological Change",
+      "year": "1997",
+      "venue": "American Economic Review",
+      "coauthors": [
+       "Jeremy Greenwood",
+       "Zvi Hercowitz"
+      ],
+      "contribution": "Quantified the role of investment-specific technical change, measured through relative equipment prices, in postwar US growth.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Vested Interests in a Positive Theory of Stagnation and Growth",
+      "year": "1996",
+      "venue": "Review of Economic Studies",
+      "coauthors": [
+       "José-Víctor Ríos-Rull"
+      ],
+      "contribution": "Political-economy growth model in which vested interests in existing technologies block adoption of new ones.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "On the Size of U.S. Government: Political Economy in the Neoclassical Growth Model",
+      "year": "1999",
+      "venue": "American Economic Review",
+      "coauthors": [
+       "José-Víctor Ríos-Rull"
+      ],
+      "contribution": "Embeds voting and redistribution in a neoclassical growth model to study the political-economy determinants of government size.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Equilibrium Welfare and Government Policy with Quasi-Geometric Discounting",
+      "year": "2002",
+      "venue": "Journal of Economic Theory",
+      "coauthors": [
+       "Burhanettin Kuruscu",
+       "Anthony A. Smith Jr."
+      ],
+      "contribution": "Studies welfare and policy when agents have present-biased preferences.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Consumption-Savings Decisions with Quasi-Geometric Discounting",
+      "year": "2003",
+      "venue": "Econometrica",
+      "coauthors": [
+       "Anthony A. Smith Jr."
+      ],
+      "contribution": "Analyzed equilibria and indeterminacy in savings problems with time-inconsistent (quasi-hyperbolic) preferences.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Revisiting the Welfare Effects of Eliminating Business Cycles",
+      "year": "2009",
+      "venue": "Review of Economic Dynamics",
+      "coauthors": [
+       "Toshihiko Mukoyama",
+       "Ayşegül Şahin"
+      ],
+      "contribution": "Reassesses the welfare cost of business cycles in a model with idiosyncratic risk and labor-market elements, showing that heterogeneity matters.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Is Piketty's 'Second Law of Capitalism' Fundamental?",
+      "year": "2015",
+      "venue": "Journal of Political Economy",
+      "coauthors": [
+       "Anthony A. Smith Jr."
+      ],
+      "contribution": "Argued from standard growth theory that capital-income ratios need not explode as growth slows.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Gross Worker Flows over the Business Cycle",
+      "year": "2017",
+      "venue": "American Economic Review",
+      "coauthors": [
+       "Toshihiko Mukoyama",
+       "Richard Rogerson",
+       "Ayşegül Şahin"
+      ],
+      "contribution": "Model of flows among employment, unemployment and nonparticipation that matches cyclical labor-market dynamics.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective",
+      "year": "2020",
+      "venue": "Journal of Political Economy",
+      "coauthors": [
+       "Timo Boppart"
+      ],
+      "contribution": "Growth model with preferences that generate a secular decline in hours worked, consistent with historical data.",
+      "support": [
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Directed Technical Change as a Response to Natural Resource Scarcity",
+      "year": "2021",
+      "venue": "Journal of Political Economy",
+      "coauthors": [
+       "John Hassler",
+       "Conny Olovsson"
+      ],
+      "contribution": "Shows how natural-resource scarcity directs innovation toward resource-saving technologies, linking growth theory, energy and environmental macro.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     }
+    ],
+    "persona": {
+     "summary": "A leading quantitative macroeconomist who combines rigorous dynamic general-equilibrium theory with disciplined quantitative evaluation. His work spans heterogeneous agents and inequality, technology and growth, fiscal and political economy, time-inconsistent preferences, and climate economics. He is an experienced member of the prize committee and serves as secretary in 2026. The persona is inferred from his research record.",
+     "research_lens": "Structural and general-equilibrium. He asks how individual heterogeneity, incentives, technology and policy constraints aggregate into macroeconomic outcomes, and whether a mechanism survives general-equilibrium feedback.",
+     "methods_and_evidence": "Dynamic programming and recursive equilibrium theory, numerical solution methods, and calibration to macro and micro moments. He runs quantitative counterfactual, welfare and policy experiments, and seeks analytical tractability where possible, as in the closed-form carbon tax. He is not primarily identified with reduced-form microeconometrics (O).",
+     "what_they_value_in_contributions": "- Durable tools or frameworks that the profession widely adopts, as with the Krusell–Smith method.\n- Methodological breakthroughs that make intractable problems solvable.\n- Tight links between theory and credible quantitative magnitudes.\n- Mechanisms rather than correlations or accounting identities.\n- Policy-relevant and welfare implications from internally consistent models.\n- Broad influence across subfields such as inequality, public finance, labor and climate.",
+     "likely_questions_in_deliberation": [
+      "Does the result hold in general equilibrium, or is it a partial-equilibrium effect that fades once prices, policy and expectations adjust?",
+      "Did the work change the models or computational methods economists actually use, i.e., is it a workhorse?",
+      "Are the magnitudes quantitatively important and credible, not just theoretically possible?",
+      "Does the contribution handle heterogeneity, risk and distributional consequences credibly, including across agents or regions?",
+      "Can the framework support disciplined welfare or policy counterfactuals?",
+      "If the contribution is empirical, what is the economic mechanism and can it be integrated into a coherent equilibrium model?",
+      "Is the contribution attributable to the nominated individuals, and how does it relate to predecessors?",
+      "Does the work speak to long-run issues such as growth, technology, inequality or climate?"
+     ],
+     "committee_experience": "He has served on the prize committee for many years and, according to A and G, as chair before becoming secretary in 2026. A suggests membership since roughly the mid-2000s and says he presented the climate side of the 2018 prize (Nordhaus and Romer). O has no reliable information on his service before 2026.",
+     "support_note": "All three profiles share the research lens, methods and values, with A and O most detailed. The likely questions merge all three. Committee history comes from A (tentative: 'I believe' he was chair; mid-2000s start; 2018 presentation) and G (member and chair before secretary). O declines to state a chronology. The persona does not predict his prize preferences."
+    },
+    "disagreements": [
+     "Period of climate interest: A gives c. 2015–2024, O the 2010s through the early 2020s, and G 2015–2026. G's endpoint extends beyond the knowledge cutoffs stated by A and O.",
+     "Status of heterogeneous-agent work: G calls it ongoing, while O is unsure it was an active publication focus in 2021–2024.",
+     "Committee history: A and G say he served as chair (A tentatively), while O claims no knowledge of service before 2026. A's mid-2000s start and 2018 presentation are A-only.",
+     "No profiles conflict on titles, years, venues or coauthors of shared works."
+    ],
+    "caveats": [
+     "Many representative works rest on a single profile and should be verified. A-only: 1996 RES, 1997 AER, 2003 Econometrica, 2015 JPE, 2017 AER. O-only: 1999 AER, 2002 JET, 2009 RED, 2021 JPE. G-only: 2020 JPE with Boppart.",
+     "The single-profile fields (behavioral macro, labor-market macro) and interests (automation/AI from A; structural policy evaluation from O) are medium confidence.",
+     "Committee chronology and the chair role are uncertain; verify them against official Nobel records. Only the 2026 secretary role is confirmed by the provided listing.",
+     "Knowledge cutoffs: A is about 2024–early 2025 and O is mid-2024. G gives no explicit cutoff but admits limited knowledge of 2024–2026 work. Recent working papers are not covered reliably.",
+     "G's fields and JEL codes are coarse (E1–E3).",
+     "No namesake issues were identified and no entries were dropped.",
+     "The persona is inferred from publications, not from known statements about prize preferences."
+    ]
+   },
+   "parse_error": null,
+   "error": null,
+   "stop_details": null,
+   "errors": []
+  }
+ ],
+ "valid": true,
+ "errors": [],
+ "profile": {
+  "identity": {
+   "name": "Per Krusell",
+   "affiliation": "Institute for International Economic Studies (IIES), Stockholm University",
+   "recognized_by": [
+    "A",
+    "O",
+    "G"
+   ],
+   "note": "All three profiles recognize him with high confidence as a Swedish macroeconomist at IIES, Stockholm University. They describe his work as quantitative dynamic general-equilibrium macroeconomics, especially heterogeneous-agent models, plus inequality and technological change, fiscal and political economy, and climate-economy macroeconomics. Profile A also notes long affiliations with CEPR and NBER. His 2026 role as committee secretary comes from the provided listing."
+  },
+  "fields": [
+   {
+    "field": "Macroeconomics: quantitative dynamic general equilibrium and macroeconomic theory",
+    "jel_codes": [
+     "E13",
+     "E17",
+     "E21",
+     "E24",
+     "E32"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "All three list macroeconomics as the core field. G gives only the broad codes E1, E2 and E3."
+   },
+   {
+    "field": "Heterogeneous-agent macroeconomics: income and wealth distribution, incomplete markets",
+    "jel_codes": [
+     "D31",
+     "D52",
+     "E21",
+     "E44"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "A folds this into its quantitative macro field and O lists it separately. G's 'Economic Growth and Inequality' field (D31) and its identity note also stress heterogeneous agents."
+   },
+   {
+    "field": "Economic growth and technological change: investment-specific technical change, capital-skill complementarity, inequality",
+    "jel_codes": [
+     "O33",
+     "O40",
+     "O41",
+     "O47",
+     "J24",
+     "J31",
+     "E22",
+     "D31"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "G frames this as 'Economic Growth and Inequality'."
+   },
+   {
+    "field": "Climate and environmental macroeconomics: integrated assessment, carbon and fossil-fuel taxation in general equilibrium",
+    "jel_codes": [
+     "Q54",
+     "Q58",
+     "H23",
+     "E62",
+     "E13"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": ""
+   },
+   {
+    "field": "Fiscal policy and public finance in macro: optimal taxation, welfare, time consistency",
+    "jel_codes": [
+     "H21",
+     "H23",
+     "E62",
+     "D61"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "A rates this medium confidence and O high."
+   },
+   {
+    "field": "Political economy of macroeconomic policy and redistribution, including vested interests",
+    "jel_codes": [
+     "D72",
+     "D78",
+     "H50",
+     "E60"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "A combines this with public finance in a single field; O lists it separately."
+   },
+   {
+    "field": "Behavioral macro and decision theory: quasi-hyperbolic/quasi-geometric discounting, temptation",
+    "jel_codes": [
+     "D91",
+     "D15",
+     "E21"
+    ],
+    "support": [
+     "A"
+    ],
+    "note": "Only A lists it as a field. O cites a quasi-geometric discounting paper among his representative works."
+   },
+   {
+    "field": "Labor-market macro: search frictions, gross worker flows",
+    "jel_codes": [
+     "J64",
+     "E24"
+    ],
+    "support": [
+     "A"
+    ],
+    "note": "Only A lists it as a field. G mentions labor-market frictions in his recent interests, and O cites a business-cycle welfare paper with labor-market elements."
+   }
+  ],
+  "recent_interests": [
+   {
+    "topic": "Climate-economy macroeconomics: optimal carbon/fossil-fuel taxation, climate damages, regional/spatial heterogeneity and distributional effects of warming",
+    "period": "c. 2010s–2020s (A: c. 2015–2024; O: 2010s through at least early 2020s; G: 2015–2026)",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "Coauthors named are Hassler, Olovsson, Golosov, Tsyvinski and Smith. A and G mention regional/spatial climate models."
+   },
+   {
+    "topic": "Directed technical change and energy/natural-resource scarcity (energy-saving innovation)",
+    "period": "c. 2018–2023 (O: publication around 2021)",
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "Work with Hassler and Olovsson."
+   },
+   {
+    "topic": "Heterogeneous-agent macro and wealth inequality, including critiques of Piketty-style accounting laws",
+    "period": "Ongoing since the late 1990s (A: c. 2015–2022)",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "G calls this ongoing and adds labor-market frictions. O is unsure whether it was an active publication focus in 2021–2024. A ties it to the Krusell–Smith Piketty work."
+   },
+   {
+    "topic": "Automation, AI and the labor market/income distribution via capital-labor substitution",
+    "period": "c. 2018–2024",
+    "support": [
+     "A"
+    ],
+    "note": "Single-profile item (medium confidence), based on talks and working papers."
+   },
+   {
+    "topic": "Macroeconomic policy evaluation with structural, calibrated or computational general-equilibrium models",
+    "period": "Long-running, through the early 2020s",
+    "support": [
+     "O"
+    ],
+    "note": "Single-profile item describing his research style."
+   }
+  ],
+  "representative_works": [
+   {
+    "title": "Income and Wealth Heterogeneity in the Macroeconomy",
+    "year": "1998",
+    "venue": "Journal of Political Economy",
+    "coauthors": [
+     "Anthony A. Smith Jr."
+    ],
+    "contribution": "Introduced the Krusell–Smith approximate-aggregation method for incomplete-markets models with aggregate risk. It became the workhorse of heterogeneous-agent macroeconomics.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Capital-Skill Complementarity and Inequality: A Macroeconomic Analysis",
+    "year": "2000",
+    "venue": "Econometrica",
+    "coauthors": [
+     "Lee E. Ohanian",
+     "José-Víctor Ríos-Rull",
+     "Giovanni L. Violante"
+    ],
+    "contribution": "Showed that falling equipment prices combined with capital-skill complementarity can account for much of the rise in the US skill premium.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Optimal Taxes on Fossil Fuel in General Equilibrium",
+    "year": "2014",
+    "venue": "Econometrica",
+    "coauthors": [
+     "Mikhail Golosov",
+     "John Hassler",
+     "Aleh Tsyvinski"
+    ],
+    "contribution": "Derived a simple closed-form optimal carbon tax formula in a dynamic general-equilibrium climate-economy model.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Long-Run Implications of Investment-Specific Technological Change",
+    "year": "1997",
+    "venue": "American Economic Review",
+    "coauthors": [
+     "Jeremy Greenwood",
+     "Zvi Hercowitz"
+    ],
+    "contribution": "Quantified the role of investment-specific technical change, measured through relative equipment prices, in postwar US growth.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Vested Interests in a Positive Theory of Stagnation and Growth",
+    "year": "1996",
+    "venue": "Review of Economic Studies",
+    "coauthors": [
+     "José-Víctor Ríos-Rull"
+    ],
+    "contribution": "Political-economy growth model in which vested interests in existing technologies block adoption of new ones.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "On the Size of U.S. Government: Political Economy in the Neoclassical Growth Model",
+    "year": "1999",
+    "venue": "American Economic Review",
+    "coauthors": [
+     "José-Víctor Ríos-Rull"
+    ],
+    "contribution": "Embeds voting and redistribution in a neoclassical growth model to study the political-economy determinants of government size.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Equilibrium Welfare and Government Policy with Quasi-Geometric Discounting",
+    "year": "2002",
+    "venue": "Journal of Economic Theory",
+    "coauthors": [
+     "Burhanettin Kuruscu",
+     "Anthony A. Smith Jr."
+    ],
+    "contribution": "Studies welfare and policy when agents have present-biased preferences.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Consumption-Savings Decisions with Quasi-Geometric Discounting",
+    "year": "2003",
+    "venue": "Econometrica",
+    "coauthors": [
+     "Anthony A. Smith Jr."
+    ],
+    "contribution": "Analyzed equilibria and indeterminacy in savings problems with time-inconsistent (quasi-hyperbolic) preferences.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Revisiting the Welfare Effects of Eliminating Business Cycles",
+    "year": "2009",
+    "venue": "Review of Economic Dynamics",
+    "coauthors": [
+     "Toshihiko Mukoyama",
+     "Ayşegül Şahin"
+    ],
+    "contribution": "Reassesses the welfare cost of business cycles in a model with idiosyncratic risk and labor-market elements, showing that heterogeneity matters.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Is Piketty's 'Second Law of Capitalism' Fundamental?",
+    "year": "2015",
+    "venue": "Journal of Political Economy",
+    "coauthors": [
+     "Anthony A. Smith Jr."
+    ],
+    "contribution": "Argued from standard growth theory that capital-income ratios need not explode as growth slows.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Gross Worker Flows over the Business Cycle",
+    "year": "2017",
+    "venue": "American Economic Review",
+    "coauthors": [
+     "Toshihiko Mukoyama",
+     "Richard Rogerson",
+     "Ayşegül Şahin"
+    ],
+    "contribution": "Model of flows among employment, unemployment and nonparticipation that matches cyclical labor-market dynamics.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective",
+    "year": "2020",
+    "venue": "Journal of Political Economy",
+    "coauthors": [
+     "Timo Boppart"
+    ],
+    "contribution": "Growth model with preferences that generate a secular decline in hours worked, consistent with historical data.",
+    "support": [
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Directed Technical Change as a Response to Natural Resource Scarcity",
+    "year": "2021",
+    "venue": "Journal of Political Economy",
+    "coauthors": [
+     "John Hassler",
+     "Conny Olovsson"
+    ],
+    "contribution": "Shows how natural-resource scarcity directs innovation toward resource-saving technologies, linking growth theory, energy and environmental macro.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   }
+  ],
+  "persona": {
+   "summary": "A leading quantitative macroeconomist who combines rigorous dynamic general-equilibrium theory with disciplined quantitative evaluation. His work spans heterogeneous agents and inequality, technology and growth, fiscal and political economy, time-inconsistent preferences, and climate economics. He is an experienced member of the prize committee and serves as secretary in 2026. The persona is inferred from his research record.",
+   "research_lens": "Structural and general-equilibrium. He asks how individual heterogeneity, incentives, technology and policy constraints aggregate into macroeconomic outcomes, and whether a mechanism survives general-equilibrium feedback.",
+   "methods_and_evidence": "Dynamic programming and recursive equilibrium theory, numerical solution methods, and calibration to macro and micro moments. He runs quantitative counterfactual, welfare and policy experiments, and seeks analytical tractability where possible, as in the closed-form carbon tax. He is not primarily identified with reduced-form microeconometrics (O).",
+   "what_they_value_in_contributions": "- Durable tools or frameworks that the profession widely adopts, as with the Krusell–Smith method.\n- Methodological breakthroughs that make intractable problems solvable.\n- Tight links between theory and credible quantitative magnitudes.\n- Mechanisms rather than correlations or accounting identities.\n- Policy-relevant and welfare implications from internally consistent models.\n- Broad influence across subfields such as inequality, public finance, labor and climate.",
+   "likely_questions_in_deliberation": [
+    "Does the result hold in general equilibrium, or is it a partial-equilibrium effect that fades once prices, policy and expectations adjust?",
+    "Did the work change the models or computational methods economists actually use, i.e., is it a workhorse?",
+    "Are the magnitudes quantitatively important and credible, not just theoretically possible?",
+    "Does the contribution handle heterogeneity, risk and distributional consequences credibly, including across agents or regions?",
+    "Can the framework support disciplined welfare or policy counterfactuals?",
+    "If the contribution is empirical, what is the economic mechanism and can it be integrated into a coherent equilibrium model?",
+    "Is the contribution attributable to the nominated individuals, and how does it relate to predecessors?",
+    "Does the work speak to long-run issues such as growth, technology, inequality or climate?"
+   ],
+   "committee_experience": "He has served on the prize committee for many years and, according to A and G, as chair before becoming secretary in 2026. A suggests membership since roughly the mid-2000s and says he presented the climate side of the 2018 prize (Nordhaus and Romer). O has no reliable information on his service before 2026.",
+   "support_note": "All three profiles share the research lens, methods and values, with A and O most detailed. The likely questions merge all three. Committee history comes from A (tentative: 'I believe' he was chair; mid-2000s start; 2018 presentation) and G (member and chair before secretary). O declines to state a chronology. The persona does not predict his prize preferences."
+  },
+  "disagreements": [
+   "Period of climate interest: A gives c. 2015–2024, O the 2010s through the early 2020s, and G 2015–2026. G's endpoint extends beyond the knowledge cutoffs stated by A and O.",
+   "Status of heterogeneous-agent work: G calls it ongoing, while O is unsure it was an active publication focus in 2021–2024.",
+   "Committee history: A and G say he served as chair (A tentatively), while O claims no knowledge of service before 2026. A's mid-2000s start and 2018 presentation are A-only.",
+   "No profiles conflict on titles, years, venues or coauthors of shared works."
+  ],
+  "caveats": [
+   "Many representative works rest on a single profile and should be verified. A-only: 1996 RES, 1997 AER, 2003 Econometrica, 2015 JPE, 2017 AER. O-only: 1999 AER, 2002 JET, 2009 RED, 2021 JPE. G-only: 2020 JPE with Boppart.",
+   "The single-profile fields (behavioral macro, labor-market macro) and interests (automation/AI from A; structural policy evaluation from O) are medium confidence.",
+   "Committee chronology and the chair role are uncertain; verify them against official Nobel records. Only the 2026 secretary role is confirmed by the provided listing.",
+   "Knowledge cutoffs: A is about 2024–early 2025 and O is mid-2024. G gives no explicit cutoff but admits limited knowledge of 2024–2026 work. Recent working papers are not covered reliably.",
+   "G's fields and JEL codes are coarse (E1–E3).",
+   "No namesake issues were identified and no entries were dropped.",
+   "The persona is inferred from publications, not from known statements about prize preferences."
+  ]
+ },
+ "per_model": {
+  "A": {
+   "persona_summary": "A leading quantitative macroeconomist who combines rigorous dynamic general-equilibrium theory with calibrated quantitative evaluation. His work spans heterogeneous agents, technology and inequality, behavioral time inconsistency, and climate economics. He is a long-serving member of the prize committee; in 2026 he is the secretary.",
+   "identity_note": "Per Krusell, Swedish macroeconomist at IIES, Stockholm University, also long affiliated with CEPR and NBER. He has written extensively on heterogeneous-agent macroeconomics, technological change and inequality, time-inconsistent preferences, labor-market flows, and climate-economy modeling. He has served on the Economic Sciences prize committee for many years; 2026 role as secretary per the prompt.",
+   "knowledge_limits": "My knowledge comes from training data reaching roughly 2024–early 2025. I am uncertain about the exact years of his committee membership and chairmanship, his most recent working papers, and any public statements after that period. Coauthor lists and years are given as recalled; venue details for some works may be imprecise. Persona elements are inferences from his published research, not from known statements about prize preferences."
+  },
+  "O": {
+   "persona_summary": "Krusell would likely approach a prize discussion as a quantitative macroeconomic theorist: attentive to whether a contribution changed the profession’s core models, computational methods, and understanding of aggregate policy tradeoffs. This is an inference from his research record, especially his work on heterogeneous-agent macro, inequality, policy design, and climate-economy general equilibrium.",
+   "identity_note": "Per Krusell is a macroeconomist at the Institute for International Economic Studies, Stockholm University. He is best known for quantitative dynamic macroeconomics, especially heterogeneous-agent general-equilibrium models, inequality, fiscal and political economy, and climate-economy macroeconomics. The 2026 committee role as secretary is taken from the user-provided Nobel listing.",
+   "knowledge_limits": "This profile is based on my stored knowledge up to 2024-06 plus the user-provided 2026 committee role and listing. I have no web access here and cannot verify the current Nobel committee page, his latest CV, or publications after mid-2024. I am confident about his identity and core research profile. Some bibliographic details, especially exact years or venues for less central papers and the most recent climate/technical-change work, are given with medium rather than high confidence where my memory may be incomplete."
+  },
+  "G": {
+   "persona_summary": "Per Krusell is a highly rigorous quantitative macroeconomist who has revolutionized the integration of heterogeneous agents and climate dynamics into general equilibrium models. As committee secretary, he brings a deep appreciation for structural modeling, computational tractability, and scaling micro-level phenomena to aggregate outcomes.",
+   "identity_note": "Per Krusell is a prominent macroeconomist at IIES, Stockholm University, renowned for foundational contributions to quantitative macroeconomics, heterogeneous agent models, and climate economics.",
+   "knowledge_limits": "My knowledge of his specific recent working papers from 2024 to 2026 is limited. I lack access to his private committee deliberations and the internal administrative dynamics of his specific role as secretary."
+  }
+ },
+ "stats": {
+  "fields": 8,
+  "interests": 5,
+  "works": 13,
+  "works_all_models": 3,
+  "works_one_model": 10,
+  "works_not_in_inputs": 0,
+  "works_support_differs": 0,
+  "disagreements": 4,
+  "caveats": 7
+ }
+}

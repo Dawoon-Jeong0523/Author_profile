@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="961.2pt" viewBox="0 0 1008 961.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-10T15:38:15.023073</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 961.2 
+L 1008 961.2 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 519.12 817.2 
+L 927.36 817.2 
+L 927.36 172.8 
+L 519.12 172.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 519.12 817.2 
+L 519.12 172.8 
+" clip-path="url(#pcd10815124)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="519.12" y="834.558281" transform="rotate(-0 519.12 834.558281)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 621.18 817.2 
+L 621.18 172.8 
+" clip-path="url(#pcd10815124)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="621.18" y="834.558281" transform="rotate(-0 621.18 834.558281)">5%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 723.24 817.2 
+L 723.24 172.8 
+" clip-path="url(#pcd10815124)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="723.24" y="834.558281" transform="rotate(-0 723.24 834.558281)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 825.3 817.2 
+L 825.3 172.8 
+" clip-path="url(#pcd10815124)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="825.3" y="834.558281" transform="rotate(-0 825.3 834.558281)">15%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 927.36 817.2 
+L 927.36 172.8 
+" clip-path="url(#pcd10815124)" style="fill: none; stroke: #e4e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556773" x="927.36" y="834.558281" transform="rotate(-0 927.36 834.558281)">20%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="210.881621" transform="rotate(-0 65.9736 210.881621)">01  Macro</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="231.610003" transform="rotate(-0 65.9736 231.610003)">JEL E · last awarded 2006 (20 years before 2026)</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 523.44 192.519344 
+L 859.460702 192.519344 
+Q 863.780702 192.519344 863.780702 196.839344 
+L 863.780702 209.327213 
+Q 863.780702 213.647213 859.460702 213.647213 
+L 523.44 213.647213 
+Q 519.12 213.647213 519.12 209.327213 
+L 519.12 196.839344 
+Q 519.12 192.519344 523.44 192.519344 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 519.12 192.519344 
+L 523.44 192.519344 
+L 523.44 213.647213 
+L 519.12 213.647213 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 523.44 216.464262 
+L 876.34755 216.464262 
+Q 880.66755 216.464262 880.66755 220.784262 
+L 880.66755 233.272131 
+Q 880.66755 237.592131 876.34755 237.592131 
+L 523.44 237.592131 
+Q 519.12 237.592131 519.12 233.272131 
+L 519.12 220.784262 
+Q 519.12 216.464262 523.44 216.464262 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 519.12 216.464262 
+L 523.44 216.464262 
+L 523.44 237.592131 
+L 519.12 237.592131 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="869.612702" y="207.222341" transform="rotate(-0 869.612702 207.222341)">16.9%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="886.49955" y="230.615384" transform="rotate(-0 886.49955 230.615384)">17.7%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="281.307851" transform="rotate(-0 65.9736 281.307851)">02  Trade</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="302.036232" transform="rotate(-0 65.9736 302.036232)">JEL F · last awarded 2008 (18 years before 2026)</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 523.44 262.945574 
+L 833.566039 262.945574 
+Q 837.886039 262.945574 837.886039 267.265574 
+L 837.886039 279.753443 
+Q 837.886039 284.073443 833.566039 284.073443 
+L 523.44 284.073443 
+Q 519.12 284.073443 519.12 279.753443 
+L 519.12 267.265574 
+Q 519.12 262.945574 523.44 262.945574 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 519.12 262.945574 
+L 523.44 262.945574 
+L 523.44 284.073443 
+L 519.12 284.073443 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 523.44 286.890492 
+L 655.808137 286.890492 
+Q 660.128137 286.890492 660.128137 291.210492 
+L 660.128137 303.698361 
+Q 660.128137 308.018361 655.808137 308.018361 
+L 523.44 308.018361 
+Q 519.12 308.018361 519.12 303.698361 
+L 519.12 291.210492 
+Q 519.12 286.890492 523.44 286.890492 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 519.12 286.890492 
+L 523.44 286.890492 
+L 523.44 308.018361 
+L 519.12 308.018361 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="843.718039" y="277.648571" transform="rotate(-0 843.718039 277.648571)">15.6%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="665.960137" y="301.041614" transform="rotate(-0 665.960137 301.041614)">6.9%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="351.73408" transform="rotate(-0 65.9736 351.73408)">03  Production, Industrial Organization</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="372.462462" transform="rotate(-0 65.9736 372.462462)">JEL D2, L, M · last awarded 2014 (12 years before 2026)</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 523.44 333.371803 
+L 800.059741 333.371803 
+Q 804.379741 333.371803 804.379741 337.691803 
+L 804.379741 350.179672 
+Q 804.379741 354.499672 800.059741 354.499672 
+L 523.44 354.499672 
+Q 519.12 354.499672 519.12 350.179672 
+L 519.12 337.691803 
+Q 519.12 333.371803 523.44 333.371803 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 519.12 333.371803 
+L 523.44 333.371803 
+L 523.44 354.499672 
+L 519.12 354.499672 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 523.44 357.316721 
+L 804.080905 357.316721 
+Q 808.400905 357.316721 808.400905 361.636721 
+L 808.400905 374.12459 
+Q 808.400905 378.44459 804.080905 378.44459 
+L 523.44 378.44459 
+Q 519.12 378.44459 519.12 374.12459 
+L 519.12 361.636721 
+Q 519.12 357.316721 523.44 357.316721 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 519.12 357.316721 
+L 523.44 357.316721 
+L 523.44 378.44459 
+L 519.12 378.44459 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="810.211741" y="348.0748" transform="rotate(-0 810.211741 348.0748)">14.0%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="814.232905" y="371.467843" transform="rotate(-0 814.232905 371.467843)">14.2%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="422.16031" transform="rotate(-0 65.9736 422.16031)">04  Public, Law, Political Economy</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="442.888691" transform="rotate(-0 65.9736 442.888691)">JEL D7, H, K, P · last awarded 2009 (17 years before 2026)</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 523.44 403.798033 
+L 787.14711 403.798033 
+Q 791.46711 403.798033 791.46711 408.118033 
+L 791.46711 420.605902 
+Q 791.46711 424.925902 787.14711 424.925902 
+L 523.44 424.925902 
+Q 519.12 424.925902 519.12 420.605902 
+L 519.12 408.118033 
+Q 519.12 403.798033 523.44 403.798033 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 519.12 403.798033 
+L 523.44 403.798033 
+L 523.44 424.925902 
+L 519.12 424.925902 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 523.44 427.742951 
+L 578.797744 427.742951 
+Q 583.117744 427.742951 583.117744 432.062951 
+L 583.117744 444.55082 
+Q 583.117744 448.87082 578.797744 448.87082 
+L 523.44 448.87082 
+Q 519.12 448.87082 519.12 444.55082 
+L 519.12 432.062951 
+Q 519.12 427.742951 523.44 427.742951 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 519.12 427.742951 
+L 523.44 427.742951 
+L 523.44 448.87082 
+L 519.12 448.87082 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="797.29911" y="418.50103" transform="rotate(-0 797.29911 418.50103)">13.3%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="588.949744" y="441.894073" transform="rotate(-0 588.949744 441.894073)">3.1%</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="492.586539" transform="rotate(-0 65.9736 492.586539)">05  Equilibrium, Welfare</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="513.314921" transform="rotate(-0 65.9736 513.314921)">JEL C6, D5, D6 · last awarded 1998 (28 years before 2026)</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 523.44 474.224262 
+L 709.116116 474.224262 
+Q 713.436116 474.224262 713.436116 478.544262 
+L 713.436116 491.032131 
+Q 713.436116 495.352131 709.116116 495.352131 
+L 523.44 495.352131 
+Q 519.12 495.352131 519.12 491.032131 
+L 519.12 478.544262 
+Q 519.12 474.224262 523.44 474.224262 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 519.12 474.224262 
+L 523.44 474.224262 
+L 523.44 495.352131 
+L 519.12 495.352131 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 523.44 498.16918 
+L 591.675674 498.16918 
+Q 595.995674 498.16918 595.995674 502.48918 
+L 595.995674 514.977049 
+Q 595.995674 519.297049 591.675674 519.297049 
+L 523.44 519.297049 
+Q 519.12 519.297049 519.12 514.977049 
+L 519.12 502.48918 
+Q 519.12 498.16918 523.44 498.16918 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 519.12 498.16918 
+L 523.44 498.16918 
+L 523.44 519.297049 
+L 519.12 519.297049 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="719.268116" y="488.927259" transform="rotate(-0 719.268116 488.927259)">9.5%</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="601.827674" y="512.320302" transform="rotate(-0 601.827674 512.320302)">3.8%</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="568.632449" transform="rotate(-0 65.9736 568.632449)">···</text>
+   </g>
+   <g id="text_27">
+    <text style="font-style: italic; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="98.6328" y="566.838855" transform="rotate(-0 98.6328 566.838855)">the control's own top five, outside the treatment's top five</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="633.438998" transform="rotate(-0 65.9736 633.438998)">10  Econometrics</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="654.16738" transform="rotate(-0 65.9736 654.16738)">JEL C0-C5, C8 · last awarded 2021 (5 years before 2026) · control #2</text>
+   </g>
+   <g id="patch_23">
+    <path d="M 523.44 615.076721 
+L 574.84598 615.076721 
+Q 579.16598 615.076721 579.16598 619.396721 
+L 579.16598 631.88459 
+Q 579.16598 636.20459 574.84598 636.20459 
+L 523.44 636.20459 
+Q 519.12 636.20459 519.12 631.88459 
+L 519.12 619.396721 
+Q 519.12 615.076721 523.44 615.076721 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 519.12 615.076721 
+L 523.44 615.076721 
+L 523.44 636.20459 
+L 519.12 636.20459 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 523.44 639.021639 
+L 819.238856 639.021639 
+Q 823.558856 639.021639 823.558856 643.341639 
+L 823.558856 655.829508 
+Q 823.558856 660.149508 819.238856 660.149508 
+L 523.44 660.149508 
+Q 519.12 660.149508 519.12 655.829508 
+L 519.12 643.341639 
+Q 519.12 639.021639 523.44 639.021639 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 519.12 639.021639 
+L 523.44 639.021639 
+L 523.44 660.149508 
+L 519.12 660.149508 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="584.99798" y="629.779718" transform="rotate(-0 584.99798 629.779718)">2.9%</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="829.390856" y="653.172761" transform="rotate(-0 829.390856 653.172761)">14.9%</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="703.865228" transform="rotate(-0 65.9736 703.865228)">07  Information</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="724.593609" transform="rotate(-0 65.9736 724.593609)">JEL D8 · last awarded 2016 (10 years before 2026) · control #4</text>
+   </g>
+   <g id="patch_27">
+    <path d="M 523.44 685.502951 
+L 635.14507 685.502951 
+Q 639.46507 685.502951 639.46507 689.822951 
+L 639.46507 702.31082 
+Q 639.46507 706.63082 635.14507 706.63082 
+L 523.44 706.63082 
+Q 519.12 706.63082 519.12 702.31082 
+L 519.12 689.822951 
+Q 519.12 685.502951 523.44 685.502951 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 519.12 685.502951 
+L 523.44 685.502951 
+L 523.44 706.63082 
+L 519.12 706.63082 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 523.44 709.447869 
+L 693.856105 709.447869 
+Q 698.176105 709.447869 698.176105 713.767869 
+L 698.176105 726.255738 
+Q 698.176105 730.575738 693.856105 730.575738 
+L 523.44 730.575738 
+Q 519.12 730.575738 519.12 726.255738 
+L 519.12 713.767869 
+Q 519.12 709.447869 523.44 709.447869 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 519.12 709.447869 
+L 523.44 709.447869 
+L 523.44 730.575738 
+L 519.12 730.575738 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="645.29707" y="700.205948" transform="rotate(-0 645.29707 700.205948)">5.9%</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="704.008105" y="723.598991" transform="rotate(-0 704.008105 723.598991)">8.8%</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.9736" y="774.291457" transform="rotate(-0 65.9736 774.291457)">09  Games, Market Structure</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.9736" y="795.019839" transform="rotate(-0 65.9736 795.019839)">JEL C7, D4 · last awarded 2020 (6 years before 2026) · control #5</text>
+   </g>
+   <g id="patch_31">
+    <path d="M 523.44 755.92918 
+L 609.146305 755.92918 
+Q 613.466305 755.92918 613.466305 760.24918 
+L 613.466305 772.737049 
+Q 613.466305 777.057049 609.146305 777.057049 
+L 523.44 777.057049 
+Q 519.12 777.057049 519.12 772.737049 
+L 519.12 760.24918 
+Q 519.12 755.92918 523.44 755.92918 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 519.12 755.92918 
+L 523.44 755.92918 
+L 523.44 777.057049 
+L 519.12 777.057049 
+z
+" clip-path="url(#pcd10815124)" style="fill: #00876f"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 523.44 779.874098 
+L 683.213288 779.874098 
+Q 687.533288 779.874098 687.533288 784.194098 
+L 687.533288 796.681967 
+Q 687.533288 801.001967 683.213288 801.001967 
+L 523.44 801.001967 
+Q 519.12 801.001967 519.12 796.681967 
+L 519.12 784.194098 
+Q 519.12 779.874098 523.44 779.874098 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 519.12 779.874098 
+L 523.44 779.874098 
+L 523.44 801.001967 
+L 519.12 801.001967 
+z
+" clip-path="url(#pcd10815124)" style="fill: #6250d6"/>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="619.298305" y="770.632177" transform="rotate(-0 619.298305 770.632177)">4.6%</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="693.365288" y="794.02522" transform="rotate(-0 693.365288 794.02522)">8.3%</text>
+   </g>
+  </g>
+  <g id="text_40">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f74" x="65.52" y="33.598125" transform="rotate(-0 65.52 33.598125)">KNOWLEDGE LAB + PRESEEN</text>
+  </g>
+  <g id="text_41">
+   <text style="font-weight: 700; font-size: 25px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="65.52" y="70.836094" transform="rotate(-0 65.52 70.836094)">2026 Nobel Prize in Economic Sciences</text>
+  </g>
+  <g id="text_42">
+   <text style="font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556773" x="65.52" y="102.417891" transform="rotate(-0 65.52 102.417891)">Field forecast: top 5 of 14 fields of economics, treatment against control</text>
+  </g>
+  <g id="text_43">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #172f40" transform="translate(65.52 879.018492)">Treatment: nine context notes on the award record (field rotation applied strongly, maturity of unawarded work, recent prizes, the 2026 committee),</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #172f40" transform="translate(65.52 890.776195)">all as assumed true. Control: the same question with no context.</text>
+  </g>
+  <g id="text_44">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556773" transform="translate(65.52 918.618492)">Preseen, 10 Oct 2026, one run per arm. Question: "Which field of economics will the 2026 Nobel Prize in Economic Sciences recognize?", 14 fields</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556773" transform="translate(65.52 930.376195)">defined by JEL code groups (Dolton and Tol 2026), no "Other".</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_35">
+    <path d="M 529.92 144.6 
+L 546.72 144.6 
+L 546.72 134.64 
+L 529.92 134.64 
+z
+" style="fill: #00876f"/>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="556.32" y="143.76" transform="rotate(-0 556.32 143.76)">Treatment (context notes)</text>
+   </g>
+   <g id="patch_36">
+    <path d="M 739.275 144.6 
+L 756.075 144.6 
+L 756.075 134.64 
+L 739.275 134.64 
+z
+" style="fill: #6250d6"/>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172f40" x="765.675" y="143.76" transform="rotate(-0 765.675 143.76)">Control (no context)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcd10815124">
+   <rect x="519.12" y="172.8" width="408.24" height="644.4"/>
+  </clipPath>
+ </defs>
+</svg>

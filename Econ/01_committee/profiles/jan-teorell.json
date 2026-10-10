@@ -1,0 +1,1154 @@
+{
+ "stage": "merge",
+ "member": "jan-teorell",
+ "name": "Jan Teorell",
+ "role": "co-opted member",
+ "title": "Professor of political science",
+ "affiliation": "Department of Political Science, Stockholm University",
+ "merger": "claude-opus-5-5",
+ "written": "2026-10-09T23:54:35+00:00",
+ "inputs": {
+  "A": {
+   "model": "claude-opus-5-5",
+   "written": "2026-10-09T23:49:33+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "O": {
+   "model": "gpt-5.5-2026-04-23",
+   "written": "2026-10-09T23:51:22+00:00",
+   "recognized": true,
+   "confidence": "high"
+  },
+  "G": {
+   "model": "gemini-3.1-pro-preview",
+   "written": "2026-10-09T23:49:42+00:00",
+   "recognized": true,
+   "confidence": "high"
+  }
+ },
+ "missing_inputs": [],
+ "prompt": {
+  "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+  "user_chars": 25102
+ },
+ "attempts": [
+  {
+   "provider": "anthropic",
+   "model_requested": "claude-opus-5-5",
+   "model_reported": "claude-opus-5-5",
+   "request": {
+    "url": "https://api.anthropic.com/v1/messages",
+    "header_names": [
+     "x-api-key",
+     "anthropic-version: 2023-06-01",
+     "content-type"
+    ],
+    "body": {
+     "model": "claude-opus-5-5",
+     "max_tokens": 32000,
+     "system": "You merge three profiles of the same prize-committee member into one integrated profile. Three different language\nmodels (A, O and G) wrote them independently from their own knowledge, without web access, so each profile can\ncontain errors, gaps or outdated information.\n\n- Use only what the three profiles say. Do not add facts, works, years, coauthors or roles from your own knowledge.\n- For every field, interest and work, list in \"support\" the letters of the profiles that state it (A, O, G). Merge\n  entries that describe the same thing (the same work under slightly different titles, the same field in other\n  words); keep the title, year and venue that most profiles agree on.\n- Where the profiles disagree on a detail (a year, a venue, a coauthor, a role), keep the better-supported version and\n  describe the disagreement in that entry's \"conflict\" and in \"disagreements\"; otherwise \"conflict\" is \"\".\n- Keep entries that only one profile states, with that single letter. Drop an entry only if it clearly belongs to a\n  different person (a namesake) or contradicts the member's affiliation, and say so in \"caveats\".\n- Write the integrated persona from what the profiles share; where they diverge, keep the better-supported view and\n  name the alternative in \"support_note\". Keep the persona grounded in the record; do not predict whom the member\n  will support for the 2026 prize.\n- \"caveats\": what a reader should check before relying on the profile (single-profile or low-confidence items,\n  knowledge cutoffs, possible namesakes, a profile that did not recognize the person).",
+     "messages": [
+      {
+       "role": "user",
+       "content": "Committee member: Jan Teorell\nAffiliation: Department of Political Science, Stockholm University\nCommittee role in 2026: co-opted member\nTitle as listed by nobelprize.org: Professor of political science\n\nProfile A:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Jan Teorell is a Swedish political scientist working in comparative politics, now at Stockholm University and earlier at Lund University. He is known for empirical research on democratization and authoritarian regimes, quality of government, and the measurement of democracy. He is one of the principal investigators of the Varieties of Democracy (V-Dem) project and is associated with the Quality of Government (QoG) Institute at the University of Gothenburg. He is a political scientist, not an economist. His co-opted seat on the economics prize committee most plausibly reflects expertise in political economy and institutions; that reading is my inference.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Comparative politics: democratization, regime change and authoritarian regime types\",\n   \"jel_codes\": [\n    \"P16\",\n    \"D72\",\n    \"P48\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Quality of government, corruption, bureaucracy and state capacity\",\n   \"jel_codes\": [\n    \"D73\",\n    \"H11\",\n    \"O17\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Measurement of democracy and political institutions (V-Dem, expert-coded indicators)\",\n   \"jel_codes\": [\n    \"C43\",\n    \"C83\",\n    \"P16\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Historical political economy and state-building, especially Sweden and Europe\",\n   \"jel_codes\": [\n    \"N43\",\n    \"N44\",\n    \"H10\"\n   ],\n   \"confidence\": \"medium\"\n  },\n  {\n   \"field\": \"Political participation and democratic theory\",\n   \"jel_codes\": [\n    \"D72\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Historical state-building and the development of impartial, meritocratic administration (e.g., Sweden's path to low corruption)\",\n   \"period\": \"2015–present\",\n   \"basis\": \"Work with Bo Rothstein and others on 'getting to Sweden' and historical bureaucratic reform\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Long-run measurement of democracy and political regimes going back to the 18th–19th centuries (Historical V-Dem)\",\n   \"period\": \"2018–present\",\n   \"basis\": \"V-Dem's historical extension and related publications\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Causes and consequences of democratization and autocratization, including electoral manipulation and regime dynamics\",\n   \"period\": \"ongoing\",\n   \"basis\": \"Continuation of his core research program\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Methodology of expert surveys and latent-variable measurement of institutions\",\n   \"period\": \"ongoing\",\n   \"basis\": \"V-Dem methodology work with coauthors\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Determinants of Democratization: Explaining Regime Change in the World, 1972–2006\",\n   \"year\": \"2010\",\n   \"venue\": \"Cambridge University Press\",\n   \"coauthors\": [],\n   \"contribution\": \"Large-N study of the determinants of democratic transitions and backsliding. It weighs structural factors (modernization, economic crises, natural resources) against international diffusion and domestic mobilization.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"What Is Quality of Government? A Theory of Impartial Government Institutions\",\n   \"year\": \"2008\",\n   \"venue\": \"Governance\",\n   \"coauthors\": [\n    \"Bo Rothstein\"\n   ],\n   \"contribution\": \"Defines quality of government as impartiality in the exercise of public authority. This became a widely used concept for studying corruption and institutional performance.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Conceptualizing and Measuring Democracy: A New Approach\",\n   \"year\": \"2011\",\n   \"venue\": \"Perspectives on Politics\",\n   \"coauthors\": [\n    \"Michael Coppedge\",\n    \"John Gerring\",\n    \"Staffan I. Lindberg\",\n    \"others\"\n   ],\n   \"contribution\": \"Founding statement of the V-Dem approach: democracy is treated as multidimensional and measured with disaggregated indicators.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Varieties of Democracy: Measuring Two Centuries of Political Change\",\n   \"year\": \"2020\",\n   \"venue\": \"Cambridge University Press\",\n   \"coauthors\": [\n    \"Michael Coppedge\",\n    \"John Gerring\",\n    \"Adam Glynn\",\n    \"Carl Henrik Knutsen\",\n    \"Staffan I. Lindberg\",\n    \"Daniel Pemstein\",\n    \"Brigitte Seim\",\n    \"Svend-Erik Skaaning\"\n   ],\n   \"contribution\": \"Book-length account of the V-Dem project's conceptual framework, measurement model and data.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Pathways from Authoritarianism\",\n   \"year\": \"2007\",\n   \"venue\": \"Journal of Democracy\",\n   \"coauthors\": [\n    \"Axel Hadenius\"\n   ],\n   \"contribution\": \"Typology of authoritarian regimes (military, monarchic, limited multiparty, etc.) and how each type relates to subsequent democratization.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Authoritarian Regime Types Revisited: Updated Data in Comparative Perspective\",\n   \"year\": \"2013\",\n   \"venue\": \"Contemporary Politics\",\n   \"coauthors\": [\n    \"Michael Wahman\",\n    \"Axel Hadenius\"\n   ],\n   \"contribution\": \"Updated authoritarian regime-type dataset, widely used in comparative research.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"The Merit of Meritocratization: Politics, Bureaucracy, and the Institutional Deterrents of Corruption\",\n   \"year\": \"2012\",\n   \"venue\": \"Political Research Quarterly\",\n   \"coauthors\": [\n    \"Carl Dahlström\",\n    \"Victor Lapuente\"\n   ],\n   \"contribution\": \"Cross-national evidence, based on the QoG expert survey, that meritocratic recruitment of bureaucrats is associated with lower corruption.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Political Participation and Three Theories of Democracy: A Research Inventory and Agenda\",\n   \"year\": \"2006\",\n   \"venue\": \"European Journal of Political Research\",\n   \"coauthors\": [],\n   \"contribution\": \"Links concepts of political participation to responsive, participatory and deliberative models of democracy.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"A comparative political scientist whose career centers on why countries become and stay democratic, and why some states govern impartially and with little corruption. He brings to an economics committee the perspective of political institutions, state capacity and the large-scale measurement of regimes.\",\n  \"research_lens\": \"Institutions as both outcomes and causes. He asks how regimes and bureaucracies emerge historically and how they shape development and governance. This makes him attentive to work on political economy, institutions and growth, state capacity, and corruption (inference from his record).\",\n  \"methods_and_evidence\": \"His work relies on large-N cross-national panel data and on carefully conceptualized, expert-coded indicators with explicit latent-variable measurement models (V-Dem). It also uses historical-comparative and archival evidence, notably Swedish state-building. He is attentive to concept validity and data quality as much as to identification.\",\n  \"what_they_value_in_contributions\": \"Inferred from his work: conceptual clarity, valid and transparent measurement, and broad comparative or long-run evidence. He likely also values public data infrastructure that enables cumulative research, and findings that travel across countries and time rather than resting on a single context.\",\n  \"likely_questions_in_deliberation\": [\n   \"Are the key concepts (democracy, institutions, state capacity, corruption) defined and measured in a valid way, and how robust are results to alternative measures?\",\n   \"Does the evidence generalize beyond particular countries or periods, and how does it fare against long-run historical data?\",\n   \"Is causation between institutions and economic outcomes convincingly established, or could reverse causality and historical confounding explain the pattern?\",\n   \"How has the work influenced neighbouring disciplines such as political science and history, and policy?\",\n   \"Did the contribution create durable data or frameworks that others build on?\"\n  ],\n  \"committee_experience\": \"Co-opted (non-voting-class) member for 2026 as listed. I do not reliably know when his service on the committee began or what other roles he holds at the Royal Swedish Academy of Sciences.\"\n },\n \"knowledge_limits\": \"My knowledge comes from training data running to roughly 2024–2025. I have no information on his precise committee tenure, any internal views, or publications after about 2024. Some details are uncertain: co-author lists and years for certain works, and the exact timing of his move from Lund to Stockholm University. I have not attributed any stated views on specific economics prize candidates.\"\n}\n\nProfile O:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Jan Teorell is recognized as the Swedish comparative political scientist identified here by the Department of Political Science, Stockholm University affiliation and the Nobel listing. He is known for work on democratization, authoritarian regimes, political participation, corruption, quality of government, state capacity, and major cross-national democracy data projects such as V-Dem. My prior knowledge also associates him with Lund University and the Quality of Government/V-Dem research communities; I rely on the prompt for his 2026 Stockholm University affiliation and committee role.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Comparative politics, democratization, authoritarian regimes, and regime change\",\n   \"jel_codes\": [\n    \"D72\",\n    \"P16\",\n    \"P48\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Quality of government, corruption, bureaucratic impartiality, and public administration\",\n   \"jel_codes\": [\n    \"D73\",\n    \"H11\",\n    \"H83\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Political economy of institutions, state capacity, and development\",\n   \"jel_codes\": [\n    \"O43\",\n    \"P16\",\n    \"H11\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Measurement of democracy and governance; cross-national political data infrastructure\",\n   \"jel_codes\": [\n    \"C81\",\n    \"D72\",\n    \"P48\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Political participation and democratic theory\",\n   \"jel_codes\": [\n    \"D72\",\n    \"D71\"\n   ],\n   \"confidence\": \"medium\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Measurement of democracy, democratic principles, and long-run regime characteristics through the Varieties of Democracy project\",\n   \"period\": \"roughly 2019-2024, with continuing relevance to 2026 inferred from V-Dem involvement\",\n   \"basis\": \"Coauthorship in V-Dem publications and datasets, including the 2020 Cambridge University Press volume on measuring two centuries of political change.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Democratization, autocratization, and the institutional pathways by which regimes change\",\n   \"period\": \"continuing research agenda through the 2010s and early 2020s\",\n   \"basis\": \"Long-standing work on determinants of democratization and V-Dem-based comparative regime research; specific 2025-2026 activity not independently verified.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"topic\": \"Quality of government, impartial institutions, meritocratic bureaucracy, and corruption control\",\n   \"period\": \"continuing agenda, with main influential publications earlier but still central to his profile\",\n   \"basis\": \"Work with Bo Rothstein and with Carl Dahlström and Victor Lapuente on impartiality, merit recruitment, and corruption.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"State capacity and governance as empirical, cross-national concepts relevant to political and economic outcomes\",\n   \"period\": \"roughly 2019-2024 as an extension of the QoG/V-Dem institutional research agenda\",\n   \"basis\": \"His broader body of work and the research networks/datasets with which he is associated; less tied to a single recent title I can verify from memory.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Determinants of Democratization: Explaining Regime Change in the World, 1972-2006\",\n   \"year\": \"2010\",\n   \"venue\": \"Cambridge University Press\",\n   \"coauthors\": [],\n   \"contribution\": \"A major monograph using cross-national evidence to explain regime change and democratization, emphasizing institutional and structural determinants rather than a single cultural or economic cause.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"What Is Quality of Government? A Theory of Impartial Government Institutions\",\n   \"year\": \"2008\",\n   \"venue\": \"Governance\",\n   \"coauthors\": [\n    \"Bo Rothstein\"\n   ],\n   \"contribution\": \"Proposes impartiality in the exercise of public authority as a core definition of quality of government, influential in comparative work on corruption, governance, and state institutions.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"The Merit of Meritocratization: Politics, Bureaucracy, and the Institutional Deterrents of Corruption\",\n   \"year\": \"2012\",\n   \"venue\": \"Political Research Quarterly\",\n   \"coauthors\": [\n    \"Carl Dahlström\",\n    \"Victor Lapuente\"\n   ],\n   \"contribution\": \"Shows how meritocratic recruitment and separation between political and bureaucratic careers can deter corruption; representative of his institutional approach to governance quality.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Pathways from Authoritarianism\",\n   \"year\": \"2007\",\n   \"venue\": \"Journal of Democracy\",\n   \"coauthors\": [\n    \"Axel Hadenius\"\n   ],\n   \"contribution\": \"Compares how different authoritarian regime types tend to move toward, or fail to move toward, democracy, highlighting institutional pathways out of authoritarian rule.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Cultural and Economic Prerequisites of Democracy: Reassessing Recent Evidence\",\n   \"year\": \"2005\",\n   \"venue\": \"Studies in Comparative International Development\",\n   \"coauthors\": [\n    \"Axel Hadenius\"\n   ],\n   \"contribution\": \"Reevaluates claims about cultural and economic preconditions for democracy with comparative evidence, part of his broader effort to identify determinants of democratization.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Political Participation and Three Theories of Democracy: A Research Inventory and Agenda\",\n   \"year\": \"2006\",\n   \"venue\": \"European Journal of Political Research\",\n   \"coauthors\": [],\n   \"contribution\": \"Connects forms of political participation to different democratic theories and maps an agenda for empirical participation research.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"V-Dem: A New Way to Measure Democracy\",\n   \"year\": \"2014\",\n   \"venue\": \"Journal of Democracy\",\n   \"coauthors\": [\n    \"Michael Coppedge\",\n    \"John Gerring\",\n    \"Staffan I. Lindberg\",\n    \"Svend-Erik Skaaning\",\n    \"David Altman\",\n    \"and other V-Dem collaborators\"\n   ],\n   \"contribution\": \"Introduces the Varieties of Democracy approach to measuring multiple dimensions of democracy using expert-coded indicators and transparent aggregation procedures.\",\n   \"confidence\": \"medium\"\n  },\n  {\n   \"title\": \"Varieties of Democracy: Measuring Two Centuries of Political Change\",\n   \"year\": \"2020\",\n   \"venue\": \"Cambridge University Press\",\n   \"coauthors\": [\n    \"Michael Coppedge\",\n    \"John Gerring\",\n    \"Carl Henrik Knutsen\",\n    \"Staffan I. Lindberg\",\n    \"Svend-Erik Skaaning\",\n    \"and other V-Dem collaborators\"\n   ],\n   \"contribution\": \"Book-length presentation of the V-Dem measurement framework, data, and approach to studying democratic institutions over long historical spans.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"Teorell would bring the perspective of a comparative political scientist whose work sits close to political economy: institutions, democracy, bureaucracy, corruption, state capacity, and the empirical measurement of political regimes. For an economics-prize discussion, he would plausibly be especially attentive to contributions that changed how scholars conceptualize and measure institutions or identify their effects on economic and political outcomes.\",\n  \"research_lens\": \"Grounded in his record, his lens is institutional and comparative. He tends to ask how political regimes, bureaucratic rules, impartiality, and participation structures shape aggregate outcomes, and how those institutions can be compared across countries and over time. As an inference for prize deliberations, he would likely connect economics work on development, political economy, public economics, and institutions to questions about democracy, state quality, and credible measurement.\",\n  \"methods_and_evidence\": \"His own work relies heavily on cross-national comparative analysis, large datasets, regime typologies, expert-coded indicators, historical coverage, and theoretically explicit concepts such as impartiality, meritocracy, democracy, and authoritarian regime type. He would likely value transparent measurement, robustness across samples and specifications, careful treatment of endogeneity, and clarity about the mechanisms linking institutions to outcomes.\",\n  \"what_they_value_in_contributions\": \"Based on his publications, he would likely value contributions that combine conceptual clarity with empirical reach: defining an important institutional object, making it measurable, showing why it matters, and creating tools or evidence that other researchers can build on. He may be particularly receptive to work that improves the empirical study of institutions, governance, corruption, state capacity, democratization, or political constraints on economic performance.\",\n  \"likely_questions_in_deliberation\": [\n   \"Is the central concept clearly defined, or is it an ambiguous label for many different institutional features?\",\n   \"How convincing is the identification strategy, especially given reverse causality between institutions, development, and political outcomes?\",\n   \"Does the contribution travel beyond a small set of countries, periods, or institutional settings?\",\n   \"Did the work create durable data, measures, or theoretical distinctions that changed subsequent research practice?\",\n   \"Are the mechanisms political and institutional, not merely correlations between prosperity and good governance?\",\n   \"How does the work handle measurement error, expert coding, aggregation, and comparability over time?\",\n   \"Has the contribution influenced both economics and adjacent fields such as political science, public administration, and development studies?\"\n  ],\n  \"committee_experience\": \"The prompt states that in 2026 he is a co-opted member of the Committee for the Prize in Economic Sciences in Memory of Alfred Nobel. I do not independently know his earlier Nobel committee service. As a co-opted political scientist, his likely role is to add expertise on political institutions, governance, democracy, corruption, and the political-economy boundary rather than to represent a narrow economics subfield.\"\n },\n \"knowledge_limits\": \"I have no web access and rely on memory plus the user-provided 2026 committee information. My general knowledge reaches June 2024, so I cannot independently verify publications, affiliations, committee service, or public statements after that date. Coauthor lists for large V-Dem works are especially long; I have given partial coauthor lists rather than attempting a complete list from memory. I have avoided private information and have not inferred any views outside his professional record.\"\n}\n\nProfile G:\n{\n \"identity\": {\n  \"recognized\": true,\n  \"confidence\": \"high\",\n  \"note\": \"Jan Teorell is a prominent Swedish comparative political scientist. He is a key founder of the Varieties of Democracy (V-Dem) project and a leading scholar on state capacity, democratization, and the Quality of Government.\"\n },\n \"fields\": [\n  {\n   \"field\": \"Comparative Politics\",\n   \"jel_codes\": [\n    \"P16\",\n    \"P51\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Political Economy of Institutions\",\n   \"jel_codes\": [\n    \"D72\",\n    \"D73\",\n    \"O43\"\n   ],\n   \"confidence\": \"high\"\n  },\n  {\n   \"field\": \"Democratization and State-Building\",\n   \"jel_codes\": [\n    \"N40\",\n    \"N43\",\n    \"N44\"\n   ],\n   \"confidence\": \"high\"\n  }\n ],\n \"recent_interests\": [\n  {\n   \"topic\": \"Historical democratization and state-building\",\n   \"period\": \"2018-2026\",\n   \"basis\": \"Extensive research on the historical origins of the Swedish state, institutional reforms, and comparative European institutional development.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"topic\": \"Measurement of democratic institutions\",\n   \"period\": \"2010s-2026\",\n   \"basis\": \"Ongoing foundational involvement as a Principal Investigator for the Varieties of Democracy (V-Dem) project, refining measures of democracy and autocracy.\",\n   \"confidence\": \"high\"\n  }\n ],\n \"representative_works\": [\n  {\n   \"title\": \"Varieties of Democracy: Measuring Two Centuries of Political Change\",\n   \"year\": \"2020\",\n   \"venue\": \"Cambridge University Press\",\n   \"coauthors\": [\n    \"Michael Coppedge\",\n    \"John Gerring\",\n    \"Adam Glynn\",\n    \"Carl Henrik Knutsen\",\n    \"Staffan I. Lindberg\",\n    \"Daniel Pemstein\",\n    \"Brigitte Seim\",\n    \"Svend-Erik Skaaning\"\n   ],\n   \"contribution\": \"Co-authored a comprehensive book presenting the methodology and empirical findings of the massive V-Dem project, fundamentally changing how democracy is measured over time.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Determinants of Democratization: Explaining Regime Change in the World, 1972-2006\",\n   \"year\": \"2010\",\n   \"venue\": \"Cambridge University Press\",\n   \"coauthors\": [],\n   \"contribution\": \"Provided a definitive large-N comparative analysis testing structural, strategic, and international theories of global democratization.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"What Is Quality of Government? A Theory of Impartiality in the Exercise of Public Power\",\n   \"year\": \"2008\",\n   \"venue\": \"Governance\",\n   \"coauthors\": [\n    \"Bo Rothstein\"\n   ],\n   \"contribution\": \"Developed a widely cited and influential conceptualization of institutional quality centered on the impartial exercise of public power, distinguishing it from democratic access.\",\n   \"confidence\": \"high\"\n  },\n  {\n   \"title\": \"Measuring electoral democracy with V-Dem data: Introducing a new polyarchy index\",\n   \"year\": \"2016\",\n   \"venue\": \"Journal of Peace Research\",\n   \"coauthors\": [\n    \"Michael Coppedge\",\n    \"Staffan I. Lindberg\",\n    \"Svend-Erik Skaaning\"\n   ],\n   \"contribution\": \"Introduced the V-Dem electoral democracy (polyarchy) index, providing a robust, multidimensional quantitative measure of democratic institutions.\",\n   \"confidence\": \"medium\"\n  }\n ],\n \"persona\": {\n  \"summary\": \"Jan Teorell is a rigorous comparativist bridging political science and political economy. As a driving force behind the V-Dem and Quality of Government (QoG) projects, his expertise lies in the precise definition, large-scale measurement, and historical evaluation of political institutions.\",\n  \"research_lens\": \"Evaluates economic and political development through the lens of state capacity, impartial administration, and multidimensional democratic institutions. He views institutional evolution as deeply rooted in historical state-building processes rather than simplistic structural transitions.\",\n  \"methods_and_evidence\": \"Relies heavily on large-N cross-national databases, comparative historical panel data, and meticulous methodological approaches to quantifying qualitative institutional features. His own work is highly empirical, focusing on validity and reliability in measurement.\",\n  \"what_they_value_in_contributions\": \"Values massive collaborative data collection efforts, precise empirical operationalization of abstract institutional concepts (like impartiality or polyarchy), interdisciplinary relevance to both political science and economics, and deep historical context.\",\n  \"likely_questions_in_deliberation\": [\n   \"How robust and historically valid is the candidate's measurement of institutions, and does it capture the nuanced realities of state capacity?\",\n   \"Do the theoretical mechanisms of regime change proposed by this economic model align with the comparative political history of those countries?\",\n   \"Does the candidate's research adequately distinguish between democratic accountability (how power is accessed) and the impartial administration of the state (how power is exercised)?\"\n  ],\n  \"committee_experience\": \"As a co-opted political scientist, Teorell acts as a bridge between economic theory and political science. He is likely brought in to provide authoritative subject-matter expertise on political institutions, historically grounded political economy, and the validity of institutional datasets when evaluating relevant candidates.\"\n },\n \"knowledge_limits\": \"My knowledge extends up to early 2024. I do not have access to his specific 2025-2026 publications, unpublished working papers, or private committee deliberations.\"\n}"
+      }
+     ],
+     "output_config": {
+      "format": {
+       "type": "json_schema",
+       "schema": {
+        "type": "object",
+        "properties": {
+         "identity": {
+          "type": "object",
+          "properties": {
+           "name": {
+            "type": "string"
+           },
+           "affiliation": {
+            "type": "string"
+           },
+           "recognized_by": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "name",
+           "affiliation",
+           "recognized_by",
+           "note"
+          ],
+          "additionalProperties": false
+         },
+         "fields": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "field": {
+             "type": "string"
+            },
+            "jel_codes": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "field",
+            "jel_codes",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "recent_interests": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "topic": {
+             "type": "string"
+            },
+            "period": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "note": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "topic",
+            "period",
+            "support",
+            "note"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "representative_works": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "year": {
+             "type": "string"
+            },
+            "venue": {
+             "type": "string"
+            },
+            "coauthors": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "contribution": {
+             "type": "string"
+            },
+            "support": {
+             "type": "array",
+             "items": {
+              "type": "string"
+             }
+            },
+            "conflict": {
+             "type": "string"
+            }
+           },
+           "required": [
+            "title",
+            "year",
+            "venue",
+            "coauthors",
+            "contribution",
+            "support",
+            "conflict"
+           ],
+           "additionalProperties": false
+          }
+         },
+         "persona": {
+          "type": "object",
+          "properties": {
+           "summary": {
+            "type": "string"
+           },
+           "research_lens": {
+            "type": "string"
+           },
+           "methods_and_evidence": {
+            "type": "string"
+           },
+           "what_they_value_in_contributions": {
+            "type": "string"
+           },
+           "likely_questions_in_deliberation": {
+            "type": "array",
+            "items": {
+             "type": "string"
+            }
+           },
+           "committee_experience": {
+            "type": "string"
+           },
+           "support_note": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "summary",
+           "research_lens",
+           "methods_and_evidence",
+           "what_they_value_in_contributions",
+           "likely_questions_in_deliberation",
+           "committee_experience",
+           "support_note"
+          ],
+          "additionalProperties": false
+         },
+         "disagreements": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         },
+         "caveats": {
+          "type": "array",
+          "items": {
+           "type": "string"
+          }
+         }
+        },
+        "required": [
+         "identity",
+         "fields",
+         "recent_interests",
+         "representative_works",
+         "persona",
+         "disagreements",
+         "caveats"
+        ],
+        "additionalProperties": false
+       }
+      },
+      "effort": "high"
+     }
+    }
+   },
+   "http": [
+    {
+     "attempt": 1,
+     "started": "2026-10-09T23:53:42+00:00",
+     "ended": "2026-10-09T23:54:35+00:00",
+     "seconds": 53.3,
+     "status": 200,
+     "headers": {
+      "request-id": "req_011CfsZgYvG4jHA9frNuB5vS"
+     }
+    }
+   ],
+   "response_raw": {
+    "model": "claude-opus-5-5",
+    "id": "msg_011CfsZgZSmTXvcEzMfqJkf3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+     {
+      "type": "thinking",
+      "thinking": "",
+      "signature": "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"
+     },
+     {
+      "type": "text",
+      "text": "{\"identity\":{\"name\":\"Jan Teorell\",\"affiliation\":\"Department of Political Science, Stockholm University\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him with high confidence as a Swedish comparative political scientist working on democratization, authoritarian regimes, quality of government, corruption, state capacity and the measurement of democracy. All three link him to the Varieties of Democracy (V-Dem) project. A calls him one of its principal investigators; G calls him a key founder and a Principal Investigator. A and O also link him to Lund University before Stockholm University. A, O and G link him to the Quality of Government (QoG) research community; A specifies the QoG Institute at the University of Gothenburg. A stresses that he is a political scientist, not an economist, and reads his co-opted seat as reflecting expertise in political economy and institutions; A labels this as inference. His 2026 role as co-opted member comes from the committee listing.\"},\"fields\":[{\"field\":\"Comparative politics: democratization, regime change and authoritarian regime types\",\"jel_codes\":[\"P16\",\"D72\",\"P48\",\"P51\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"A and O describe this in nearly identical terms. G lists 'Comparative Politics' (P16, P51) and treats democratization together with state-building.\"},{\"field\":\"Quality of government, corruption, bureaucratic impartiality and public administration\",\"jel_codes\":[\"D73\",\"H11\",\"H83\",\"O17\"],\"support\":[\"A\",\"O\"],\"note\":\"A includes state capacity in this field. O adds public administration (H83). G's 'Political Economy of Institutions' field also carries D73.\"},{\"field\":\"Political economy of institutions, state capacity and development\",\"jel_codes\":[\"O43\",\"P16\",\"H11\",\"D72\",\"D73\"],\"support\":[\"O\",\"G\"],\"note\":\"O and G list this as a separate field. A treats state capacity under quality of government and calls the political-economy reading of his committee seat an inference.\"},{\"field\":\"Measurement of democracy and political institutions (V-Dem, expert-coded indicators, cross-national data infrastructure)\",\"jel_codes\":[\"C43\",\"C83\",\"C81\",\"P16\",\"D72\",\"P48\"],\"support\":[\"A\",\"O\"],\"note\":\"G does not list this as a field but treats it as a central recent interest and representative work.\"},{\"field\":\"Historical political economy and state-building, especially Sweden and Europe\",\"jel_codes\":[\"N43\",\"N44\",\"N40\",\"H10\"],\"support\":[\"A\",\"G\"],\"note\":\"A rates this medium confidence; G rates it high, under 'Democratization and State-Building'.\"},{\"field\":\"Political participation and democratic theory\",\"jel_codes\":[\"D72\",\"D71\"],\"support\":[\"A\",\"O\"],\"note\":\"Both profiles rate this medium confidence.\"}],\"recent_interests\":[{\"topic\":\"Measurement of democracy and long-run regime characteristics through V-Dem, including the historical extension back to the 18th–19th centuries\",\"period\":\"2010s–present (A: 2018–present for Historical V-Dem; O: roughly 2019–2024; G: 2010s–2026)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three tie this to his V-Dem role and the 2020 Cambridge University Press volume. The profiles give different period bounds.\"},{\"topic\":\"Historical state-building and the development of impartial, meritocratic administration (e.g., Sweden's path to low corruption; comparative European institutional development)\",\"period\":\"A: 2015–present; G: 2018–2026\",\"support\":[\"A\",\"G\"],\"note\":\"A links this to work with Bo Rothstein and others on 'getting to Sweden'. G cites research on the historical origins of the Swedish state. The start years differ.\"},{\"topic\":\"Causes and consequences of democratization and autocratization, including electoral manipulation and the institutional pathways of regime change\",\"period\":\"ongoing (2010s–early 2020s per O)\",\"support\":[\"A\",\"O\"],\"note\":\"Both describe this as a continuation of his core agenda. O notes that specific 2025–2026 activity is unverified.\"},{\"topic\":\"Methodology of expert surveys and latent-variable measurement of institutions\",\"period\":\"ongoing\",\"support\":[\"A\"],\"note\":\"A links this to V-Dem methodology work with coauthors. It is closely related to the V-Dem measurement interest above.\"},{\"topic\":\"Quality of government, impartial institutions, meritocratic bureaucracy and corruption control\",\"period\":\"continuing agenda; main publications earlier\",\"support\":[\"O\"],\"note\":\"Based on work with Rothstein and with Dahlström and Lapuente. A and G cover this mainly through fields and works rather than as a recent interest.\"},{\"topic\":\"State capacity and governance as empirical cross-national concepts relevant to political and economic outcomes\",\"period\":\"roughly 2019–2024\",\"support\":[\"O\"],\"note\":\"O rates this medium confidence and says it is not tied to a specific recent title.\"}],\"representative_works\":[{\"title\":\"Determinants of Democratization: Explaining Regime Change in the World, 1972–2006\",\"year\":\"2010\",\"venue\":\"Cambridge University Press\",\"coauthors\":[],\"contribution\":\"Single-authored large-N monograph on the determinants of democratic transitions and backsliding. It weighs structural factors (modernization, economic crises, natural resources) against international diffusion, strategic factors and domestic mobilization.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"What Is Quality of Government? A Theory of Impartial Government Institutions\",\"year\":\"2008\",\"venue\":\"Governance\",\"coauthors\":[\"Bo Rothstein\"],\"contribution\":\"Defines quality of government as impartiality in the exercise of public authority and distinguishes it from democratic access to power. It became a widely used concept in research on corruption and institutional performance.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"G gives the subtitle as 'A Theory of Impartiality in the Exercise of Public Power'; A and O give 'A Theory of Impartial Government Institutions', which is kept.\"},{\"title\":\"Varieties of Democracy: Measuring Two Centuries of Political Change\",\"year\":\"2020\",\"venue\":\"Cambridge University Press\",\"coauthors\":[\"Michael Coppedge\",\"John Gerring\",\"Adam Glynn\",\"Carl Henrik Knutsen\",\"Staffan I. Lindberg\",\"Daniel Pemstein\",\"Brigitte Seim\",\"Svend-Erik Skaaning\"],\"contribution\":\"Book-length account of the V-Dem project's conceptual framework, measurement model and data covering long historical spans.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"A and G list the same eight coauthors. O gives a partial list (Coppedge, Gerring, Knutsen, Lindberg, Skaaning, 'and other V-Dem collaborators'). This is a difference in completeness, not a contradiction.\"},{\"title\":\"Pathways from Authoritarianism\",\"year\":\"2007\",\"venue\":\"Journal of Democracy\",\"coauthors\":[\"Axel Hadenius\"],\"contribution\":\"Typology of authoritarian regimes (military, monarchic, limited multiparty, etc.) and how each type relates to later democratization.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"The Merit of Meritocratization: Politics, Bureaucracy, and the Institutional Deterrents of Corruption\",\"year\":\"2012\",\"venue\":\"Political Research Quarterly\",\"coauthors\":[\"Carl Dahlström\",\"Victor Lapuente\"],\"contribution\":\"Cross-national evidence, based on the QoG expert survey, that meritocratic recruitment and the separation of political and bureaucratic careers are associated with lower corruption.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Political Participation and Three Theories of Democracy: A Research Inventory and Agenda\",\"year\":\"2006\",\"venue\":\"European Journal of Political Research\",\"coauthors\":[],\"contribution\":\"Links concepts of political participation to responsive, participatory and deliberative models of democracy and maps an agenda for empirical participation research.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Conceptualizing and Measuring Democracy: A New Approach\",\"year\":\"2011\",\"venue\":\"Perspectives on Politics\",\"coauthors\":[\"Michael Coppedge\",\"John Gerring\",\"Staffan I. Lindberg\",\"others\"],\"contribution\":\"Founding statement of the V-Dem approach: democracy is treated as multidimensional and measured with disaggregated indicators.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Authoritarian Regime Types Revisited: Updated Data in Comparative Perspective\",\"year\":\"2013\",\"venue\":\"Contemporary Politics\",\"coauthors\":[\"Michael Wahman\",\"Axel Hadenius\"],\"contribution\":\"Updated authoritarian regime-type dataset, widely used in comparative research.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Cultural and Economic Prerequisites of Democracy: Reassessing Recent Evidence\",\"year\":\"2005\",\"venue\":\"Studies in Comparative International Development\",\"coauthors\":[\"Axel Hadenius\"],\"contribution\":\"Re-examines claims about cultural and economic preconditions for democracy with comparative evidence.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"V-Dem: A New Way to Measure Democracy\",\"year\":\"2014\",\"venue\":\"Journal of Democracy\",\"coauthors\":[\"Michael Coppedge\",\"John Gerring\",\"Staffan I. Lindberg\",\"Svend-Erik Skaaning\",\"David Altman\",\"and other V-Dem collaborators\"],\"contribution\":\"Introduces the V-Dem approach of measuring multiple dimensions of democracy with expert-coded indicators and transparent aggregation.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Measuring electoral democracy with V-Dem data: Introducing a new polyarchy index\",\"year\":\"2016\",\"venue\":\"Journal of Peace Research\",\"coauthors\":[\"Michael Coppedge\",\"Staffan I. Lindberg\",\"Svend-Erik Skaaning\"],\"contribution\":\"Introduces the V-Dem electoral democracy (polyarchy) index, a multidimensional quantitative measure of democratic institutions.\",\"support\":[\"G\"],\"conflict\":\"\"}],\"persona\":{\"summary\":\"A comparative political scientist whose work sits close to political economy. His research asks why countries become and stay democratic, why some states govern impartially and with little corruption, and how political regimes can be measured at scale and over long periods. On an economics committee he brings the perspective of political institutions, bureaucracy, state capacity and institutional measurement.\",\"research_lens\":\"He treats institutions as both outcomes and causes. He asks how regimes and impartial bureaucracies emerge historically, especially through Swedish and European state-building. He also asks how regimes, participation structures and administrative rules shape political and economic outcomes across countries and over time. All three profiles infer that this makes him attentive to economics work on development, political economy, state capacity, corruption and institutions. G also stresses a distinction between how power is accessed (democratic accountability) and how it is exercised (impartial administration).\",\"methods_and_evidence\":\"His work relies on large-N cross-national panel data, regime typologies and expert-coded indicators with explicit measurement and aggregation models (V-Dem). It also draws on historical-comparative evidence, notably on Swedish state-building. He gives concept validity, measurement reliability and data quality as much weight as identification. O adds attention to robustness across samples and to endogeneity between institutions and development.\",\"what_they_value_in_contributions\":\"Inferred from his record: conceptual clarity and valid, transparent operationalization of abstract institutional concepts such as impartiality, meritocracy, polyarchy and regime type. He likely values evidence that travels across countries and long historical periods, and durable public data or frameworks that enable cumulative research. Interdisciplinary relevance across economics, political science, history and public administration also matters to him.\",\"likely_questions_in_deliberation\":[\"Are key concepts such as democracy, institutions, state capacity and corruption clearly defined and validly measured, and how robust are results to alternative measures, measurement error and comparability over time?\",\"Does the evidence generalize beyond particular countries or periods, and does it fit long-run historical and comparative political evidence?\",\"Is causation between institutions and economic outcomes convincingly established, or could reverse causality and historical confounding explain the pattern?\",\"Did the contribution create durable data, measures or conceptual distinctions that changed later research practice?\",\"Has the work influenced neighbouring disciplines such as political science, public administration, history and development studies, as well as policy?\",\"Does the work distinguish democratic accountability (access to power) from impartial administration (exercise of power)?\"],\"committee_experience\":\"Listed as a co-opted member of the economics prize committee for 2026. None of the profiles knows when his committee service began or what other Academy roles he holds. The profiles infer that his role is to add expertise on political institutions, governance, democracy, corruption and the political-economy boundary rather than to represent a narrow economics subfield.\",\"support_note\":\"The summary, lens, methods and values are shared by A, O and G. The emphasis on historical state-building as a lens comes mainly from A and G. The access-versus-exercise-of-power question comes from G. The questions on endogeneity and measurement error draw especially on O, with A also raising reverse causality. G frames him as a 'driving force' behind both V-Dem and QoG; A and O describe narrower roles (A: one of V-Dem's principal investigators, associated with QoG). The narrower description is kept. A's description of the co-opted seat as 'non-voting-class' is not stated by the other profiles and is not adopted.\"},\"disagreements\":[\"Subtitle of the 2008 Governance article with Bo Rothstein: A and O give 'A Theory of Impartial Government Institutions'; G gives 'A Theory of Impartiality in the Exercise of Public Power'. The A/O version is kept.\",\"Role in V-Dem: A calls him one of its principal investigators; G calls him a key founder and Principal Investigator; O describes coauthorship and involvement without a specific title.\",\"Role in QoG: A says he is associated with the QoG Institute at Gothenburg; G calls him a driving force behind the QoG project.\",\"Coauthor list for the 2020 V-Dem book: A and G list eight coauthors; O gives a partial list.\",\"Period of the historical state-building interest: A gives 2015–present; G gives 2018–2026.\",\"Period of the V-Dem measurement interest: A gives 2018–present (historical extension); O gives roughly 2019–2024; G gives 2010s–2026.\",\"A characterizes the co-opted seat as 'non-voting-class'; O and G do not make this claim.\"],\"caveats\":[\"Several works rest on a single profile: 'Conceptualizing and Measuring Democracy' (2011) and 'Authoritarian Regime Types Revisited' (2013) on A, 'Cultural and Economic Prerequisites of Democracy' (2005) and 'V-Dem: A New Way to Measure Democracy' (2014) on O, and the 2016 Journal of Peace Research polyarchy-index article on G. Their years, venues and coauthors should be verified.\",\"Coauthor lists for large V-Dem publications are long and incomplete in all profiles.\",\"Knowledge cutoffs: A roughly 2024–2025, O June 2024, G early 2024. G's period end of 2026 for recent interests extends past its own cutoff. None of the profiles knows publications from 2025–2026.\",\"His move from Lund University to Stockholm University is mentioned by A and O; A notes the timing is uncertain.\",\"No profile knows his committee tenure before 2026. A's 'non-voting-class' description of co-opted membership is unsupported by the other profiles and should be checked.\",\"Persona elements about what he values and likely deliberation questions are inferences from his publication record, not documented statements.\",\"No namesake issues were identified, and no entries were dropped.\"]}"
+     }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+     "input_tokens": 10771,
+     "cache_creation_input_tokens": 0,
+     "cache_read_input_tokens": 0,
+     "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+     },
+     "output_tokens": 6562,
+     "output_tokens_details": {
+      "thinking_tokens": 1245
+     },
+     "service_tier": "standard",
+     "inference_geo": "global"
+    },
+    "diagnostics": null
+   },
+   "response_id": "msg_011CfsZgZSmTXvcEzMfqJkf3",
+   "stop": "end_turn",
+   "truncated": false,
+   "refused": false,
+   "usage": {
+    "input": 10771,
+    "output": 6562,
+    "reasoning": 1245,
+    "cached_input": 0
+   },
+   "usage_raw": {
+    "input_tokens": 10771,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6562,
+    "output_tokens_details": {
+     "thinking_tokens": 1245
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+   },
+   "text": "{\"identity\":{\"name\":\"Jan Teorell\",\"affiliation\":\"Department of Political Science, Stockholm University\",\"recognized_by\":[\"A\",\"O\",\"G\"],\"note\":\"All three profiles recognize him with high confidence as a Swedish comparative political scientist working on democratization, authoritarian regimes, quality of government, corruption, state capacity and the measurement of democracy. All three link him to the Varieties of Democracy (V-Dem) project. A calls him one of its principal investigators; G calls him a key founder and a Principal Investigator. A and O also link him to Lund University before Stockholm University. A, O and G link him to the Quality of Government (QoG) research community; A specifies the QoG Institute at the University of Gothenburg. A stresses that he is a political scientist, not an economist, and reads his co-opted seat as reflecting expertise in political economy and institutions; A labels this as inference. His 2026 role as co-opted member comes from the committee listing.\"},\"fields\":[{\"field\":\"Comparative politics: democratization, regime change and authoritarian regime types\",\"jel_codes\":[\"P16\",\"D72\",\"P48\",\"P51\"],\"support\":[\"A\",\"O\",\"G\"],\"note\":\"A and O describe this in nearly identical terms. G lists 'Comparative Politics' (P16, P51) and treats democratization together with state-building.\"},{\"field\":\"Quality of government, corruption, bureaucratic impartiality and public administration\",\"jel_codes\":[\"D73\",\"H11\",\"H83\",\"O17\"],\"support\":[\"A\",\"O\"],\"note\":\"A includes state capacity in this field. O adds public administration (H83). G's 'Political Economy of Institutions' field also carries D73.\"},{\"field\":\"Political economy of institutions, state capacity and development\",\"jel_codes\":[\"O43\",\"P16\",\"H11\",\"D72\",\"D73\"],\"support\":[\"O\",\"G\"],\"note\":\"O and G list this as a separate field. A treats state capacity under quality of government and calls the political-economy reading of his committee seat an inference.\"},{\"field\":\"Measurement of democracy and political institutions (V-Dem, expert-coded indicators, cross-national data infrastructure)\",\"jel_codes\":[\"C43\",\"C83\",\"C81\",\"P16\",\"D72\",\"P48\"],\"support\":[\"A\",\"O\"],\"note\":\"G does not list this as a field but treats it as a central recent interest and representative work.\"},{\"field\":\"Historical political economy and state-building, especially Sweden and Europe\",\"jel_codes\":[\"N43\",\"N44\",\"N40\",\"H10\"],\"support\":[\"A\",\"G\"],\"note\":\"A rates this medium confidence; G rates it high, under 'Democratization and State-Building'.\"},{\"field\":\"Political participation and democratic theory\",\"jel_codes\":[\"D72\",\"D71\"],\"support\":[\"A\",\"O\"],\"note\":\"Both profiles rate this medium confidence.\"}],\"recent_interests\":[{\"topic\":\"Measurement of democracy and long-run regime characteristics through V-Dem, including the historical extension back to the 18th–19th centuries\",\"period\":\"2010s–present (A: 2018–present for Historical V-Dem; O: roughly 2019–2024; G: 2010s–2026)\",\"support\":[\"A\",\"O\",\"G\"],\"note\":\"All three tie this to his V-Dem role and the 2020 Cambridge University Press volume. The profiles give different period bounds.\"},{\"topic\":\"Historical state-building and the development of impartial, meritocratic administration (e.g., Sweden's path to low corruption; comparative European institutional development)\",\"period\":\"A: 2015–present; G: 2018–2026\",\"support\":[\"A\",\"G\"],\"note\":\"A links this to work with Bo Rothstein and others on 'getting to Sweden'. G cites research on the historical origins of the Swedish state. The start years differ.\"},{\"topic\":\"Causes and consequences of democratization and autocratization, including electoral manipulation and the institutional pathways of regime change\",\"period\":\"ongoing (2010s–early 2020s per O)\",\"support\":[\"A\",\"O\"],\"note\":\"Both describe this as a continuation of his core agenda. O notes that specific 2025–2026 activity is unverified.\"},{\"topic\":\"Methodology of expert surveys and latent-variable measurement of institutions\",\"period\":\"ongoing\",\"support\":[\"A\"],\"note\":\"A links this to V-Dem methodology work with coauthors. It is closely related to the V-Dem measurement interest above.\"},{\"topic\":\"Quality of government, impartial institutions, meritocratic bureaucracy and corruption control\",\"period\":\"continuing agenda; main publications earlier\",\"support\":[\"O\"],\"note\":\"Based on work with Rothstein and with Dahlström and Lapuente. A and G cover this mainly through fields and works rather than as a recent interest.\"},{\"topic\":\"State capacity and governance as empirical cross-national concepts relevant to political and economic outcomes\",\"period\":\"roughly 2019–2024\",\"support\":[\"O\"],\"note\":\"O rates this medium confidence and says it is not tied to a specific recent title.\"}],\"representative_works\":[{\"title\":\"Determinants of Democratization: Explaining Regime Change in the World, 1972–2006\",\"year\":\"2010\",\"venue\":\"Cambridge University Press\",\"coauthors\":[],\"contribution\":\"Single-authored large-N monograph on the determinants of democratic transitions and backsliding. It weighs structural factors (modernization, economic crises, natural resources) against international diffusion, strategic factors and domestic mobilization.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"\"},{\"title\":\"What Is Quality of Government? A Theory of Impartial Government Institutions\",\"year\":\"2008\",\"venue\":\"Governance\",\"coauthors\":[\"Bo Rothstein\"],\"contribution\":\"Defines quality of government as impartiality in the exercise of public authority and distinguishes it from democratic access to power. It became a widely used concept in research on corruption and institutional performance.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"G gives the subtitle as 'A Theory of Impartiality in the Exercise of Public Power'; A and O give 'A Theory of Impartial Government Institutions', which is kept.\"},{\"title\":\"Varieties of Democracy: Measuring Two Centuries of Political Change\",\"year\":\"2020\",\"venue\":\"Cambridge University Press\",\"coauthors\":[\"Michael Coppedge\",\"John Gerring\",\"Adam Glynn\",\"Carl Henrik Knutsen\",\"Staffan I. Lindberg\",\"Daniel Pemstein\",\"Brigitte Seim\",\"Svend-Erik Skaaning\"],\"contribution\":\"Book-length account of the V-Dem project's conceptual framework, measurement model and data covering long historical spans.\",\"support\":[\"A\",\"O\",\"G\"],\"conflict\":\"A and G list the same eight coauthors. O gives a partial list (Coppedge, Gerring, Knutsen, Lindberg, Skaaning, 'and other V-Dem collaborators'). This is a difference in completeness, not a contradiction.\"},{\"title\":\"Pathways from Authoritarianism\",\"year\":\"2007\",\"venue\":\"Journal of Democracy\",\"coauthors\":[\"Axel Hadenius\"],\"contribution\":\"Typology of authoritarian regimes (military, monarchic, limited multiparty, etc.) and how each type relates to later democratization.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"The Merit of Meritocratization: Politics, Bureaucracy, and the Institutional Deterrents of Corruption\",\"year\":\"2012\",\"venue\":\"Political Research Quarterly\",\"coauthors\":[\"Carl Dahlström\",\"Victor Lapuente\"],\"contribution\":\"Cross-national evidence, based on the QoG expert survey, that meritocratic recruitment and the separation of political and bureaucratic careers are associated with lower corruption.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Political Participation and Three Theories of Democracy: A Research Inventory and Agenda\",\"year\":\"2006\",\"venue\":\"European Journal of Political Research\",\"coauthors\":[],\"contribution\":\"Links concepts of political participation to responsive, participatory and deliberative models of democracy and maps an agenda for empirical participation research.\",\"support\":[\"A\",\"O\"],\"conflict\":\"\"},{\"title\":\"Conceptualizing and Measuring Democracy: A New Approach\",\"year\":\"2011\",\"venue\":\"Perspectives on Politics\",\"coauthors\":[\"Michael Coppedge\",\"John Gerring\",\"Staffan I. Lindberg\",\"others\"],\"contribution\":\"Founding statement of the V-Dem approach: democracy is treated as multidimensional and measured with disaggregated indicators.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Authoritarian Regime Types Revisited: Updated Data in Comparative Perspective\",\"year\":\"2013\",\"venue\":\"Contemporary Politics\",\"coauthors\":[\"Michael Wahman\",\"Axel Hadenius\"],\"contribution\":\"Updated authoritarian regime-type dataset, widely used in comparative research.\",\"support\":[\"A\"],\"conflict\":\"\"},{\"title\":\"Cultural and Economic Prerequisites of Democracy: Reassessing Recent Evidence\",\"year\":\"2005\",\"venue\":\"Studies in Comparative International Development\",\"coauthors\":[\"Axel Hadenius\"],\"contribution\":\"Re-examines claims about cultural and economic preconditions for democracy with comparative evidence.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"V-Dem: A New Way to Measure Democracy\",\"year\":\"2014\",\"venue\":\"Journal of Democracy\",\"coauthors\":[\"Michael Coppedge\",\"John Gerring\",\"Staffan I. Lindberg\",\"Svend-Erik Skaaning\",\"David Altman\",\"and other V-Dem collaborators\"],\"contribution\":\"Introduces the V-Dem approach of measuring multiple dimensions of democracy with expert-coded indicators and transparent aggregation.\",\"support\":[\"O\"],\"conflict\":\"\"},{\"title\":\"Measuring electoral democracy with V-Dem data: Introducing a new polyarchy index\",\"year\":\"2016\",\"venue\":\"Journal of Peace Research\",\"coauthors\":[\"Michael Coppedge\",\"Staffan I. Lindberg\",\"Svend-Erik Skaaning\"],\"contribution\":\"Introduces the V-Dem electoral democracy (polyarchy) index, a multidimensional quantitative measure of democratic institutions.\",\"support\":[\"G\"],\"conflict\":\"\"}],\"persona\":{\"summary\":\"A comparative political scientist whose work sits close to political economy. His research asks why countries become and stay democratic, why some states govern impartially and with little corruption, and how political regimes can be measured at scale and over long periods. On an economics committee he brings the perspective of political institutions, bureaucracy, state capacity and institutional measurement.\",\"research_lens\":\"He treats institutions as both outcomes and causes. He asks how regimes and impartial bureaucracies emerge historically, especially through Swedish and European state-building. He also asks how regimes, participation structures and administrative rules shape political and economic outcomes across countries and over time. All three profiles infer that this makes him attentive to economics work on development, political economy, state capacity, corruption and institutions. G also stresses a distinction between how power is accessed (democratic accountability) and how it is exercised (impartial administration).\",\"methods_and_evidence\":\"His work relies on large-N cross-national panel data, regime typologies and expert-coded indicators with explicit measurement and aggregation models (V-Dem). It also draws on historical-comparative evidence, notably on Swedish state-building. He gives concept validity, measurement reliability and data quality as much weight as identification. O adds attention to robustness across samples and to endogeneity between institutions and development.\",\"what_they_value_in_contributions\":\"Inferred from his record: conceptual clarity and valid, transparent operationalization of abstract institutional concepts such as impartiality, meritocracy, polyarchy and regime type. He likely values evidence that travels across countries and long historical periods, and durable public data or frameworks that enable cumulative research. Interdisciplinary relevance across economics, political science, history and public administration also matters to him.\",\"likely_questions_in_deliberation\":[\"Are key concepts such as democracy, institutions, state capacity and corruption clearly defined and validly measured, and how robust are results to alternative measures, measurement error and comparability over time?\",\"Does the evidence generalize beyond particular countries or periods, and does it fit long-run historical and comparative political evidence?\",\"Is causation between institutions and economic outcomes convincingly established, or could reverse causality and historical confounding explain the pattern?\",\"Did the contribution create durable data, measures or conceptual distinctions that changed later research practice?\",\"Has the work influenced neighbouring disciplines such as political science, public administration, history and development studies, as well as policy?\",\"Does the work distinguish democratic accountability (access to power) from impartial administration (exercise of power)?\"],\"committee_experience\":\"Listed as a co-opted member of the economics prize committee for 2026. None of the profiles knows when his committee service began or what other Academy roles he holds. The profiles infer that his role is to add expertise on political institutions, governance, democracy, corruption and the political-economy boundary rather than to represent a narrow economics subfield.\",\"support_note\":\"The summary, lens, methods and values are shared by A, O and G. The emphasis on historical state-building as a lens comes mainly from A and G. The access-versus-exercise-of-power question comes from G. The questions on endogeneity and measurement error draw especially on O, with A also raising reverse causality. G frames him as a 'driving force' behind both V-Dem and QoG; A and O describe narrower roles (A: one of V-Dem's principal investigators, associated with QoG). The narrower description is kept. A's description of the co-opted seat as 'non-voting-class' is not stated by the other profiles and is not adopted.\"},\"disagreements\":[\"Subtitle of the 2008 Governance article with Bo Rothstein: A and O give 'A Theory of Impartial Government Institutions'; G gives 'A Theory of Impartiality in the Exercise of Public Power'. The A/O version is kept.\",\"Role in V-Dem: A calls him one of its principal investigators; G calls him a key founder and Principal Investigator; O describes coauthorship and involvement without a specific title.\",\"Role in QoG: A says he is associated with the QoG Institute at Gothenburg; G calls him a driving force behind the QoG project.\",\"Coauthor list for the 2020 V-Dem book: A and G list eight coauthors; O gives a partial list.\",\"Period of the historical state-building interest: A gives 2015–present; G gives 2018–2026.\",\"Period of the V-Dem measurement interest: A gives 2018–present (historical extension); O gives roughly 2019–2024; G gives 2010s–2026.\",\"A characterizes the co-opted seat as 'non-voting-class'; O and G do not make this claim.\"],\"caveats\":[\"Several works rest on a single profile: 'Conceptualizing and Measuring Democracy' (2011) and 'Authoritarian Regime Types Revisited' (2013) on A, 'Cultural and Economic Prerequisites of Democracy' (2005) and 'V-Dem: A New Way to Measure Democracy' (2014) on O, and the 2016 Journal of Peace Research polyarchy-index article on G. Their years, venues and coauthors should be verified.\",\"Coauthor lists for large V-Dem publications are long and incomplete in all profiles.\",\"Knowledge cutoffs: A roughly 2024–2025, O June 2024, G early 2024. G's period end of 2026 for recent interests extends past its own cutoff. None of the profiles knows publications from 2025–2026.\",\"His move from Lund University to Stockholm University is mentioned by A and O; A notes the timing is uncertain.\",\"No profile knows his committee tenure before 2026. A's 'non-voting-class' description of co-opted membership is unsupported by the other profiles and should be checked.\",\"Persona elements about what he values and likely deliberation questions are inferences from his publication record, not documented statements.\",\"No namesake issues were identified, and no entries were dropped.\"]}",
+   "parsed": {
+    "identity": {
+     "name": "Jan Teorell",
+     "affiliation": "Department of Political Science, Stockholm University",
+     "recognized_by": [
+      "A",
+      "O",
+      "G"
+     ],
+     "note": "All three profiles recognize him with high confidence as a Swedish comparative political scientist working on democratization, authoritarian regimes, quality of government, corruption, state capacity and the measurement of democracy. All three link him to the Varieties of Democracy (V-Dem) project. A calls him one of its principal investigators; G calls him a key founder and a Principal Investigator. A and O also link him to Lund University before Stockholm University. A, O and G link him to the Quality of Government (QoG) research community; A specifies the QoG Institute at the University of Gothenburg. A stresses that he is a political scientist, not an economist, and reads his co-opted seat as reflecting expertise in political economy and institutions; A labels this as inference. His 2026 role as co-opted member comes from the committee listing."
+    },
+    "fields": [
+     {
+      "field": "Comparative politics: democratization, regime change and authoritarian regime types",
+      "jel_codes": [
+       "P16",
+       "D72",
+       "P48",
+       "P51"
+      ],
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "A and O describe this in nearly identical terms. G lists 'Comparative Politics' (P16, P51) and treats democratization together with state-building."
+     },
+     {
+      "field": "Quality of government, corruption, bureaucratic impartiality and public administration",
+      "jel_codes": [
+       "D73",
+       "H11",
+       "H83",
+       "O17"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "A includes state capacity in this field. O adds public administration (H83). G's 'Political Economy of Institutions' field also carries D73."
+     },
+     {
+      "field": "Political economy of institutions, state capacity and development",
+      "jel_codes": [
+       "O43",
+       "P16",
+       "H11",
+       "D72",
+       "D73"
+      ],
+      "support": [
+       "O",
+       "G"
+      ],
+      "note": "O and G list this as a separate field. A treats state capacity under quality of government and calls the political-economy reading of his committee seat an inference."
+     },
+     {
+      "field": "Measurement of democracy and political institutions (V-Dem, expert-coded indicators, cross-national data infrastructure)",
+      "jel_codes": [
+       "C43",
+       "C83",
+       "C81",
+       "P16",
+       "D72",
+       "P48"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "G does not list this as a field but treats it as a central recent interest and representative work."
+     },
+     {
+      "field": "Historical political economy and state-building, especially Sweden and Europe",
+      "jel_codes": [
+       "N43",
+       "N44",
+       "N40",
+       "H10"
+      ],
+      "support": [
+       "A",
+       "G"
+      ],
+      "note": "A rates this medium confidence; G rates it high, under 'Democratization and State-Building'."
+     },
+     {
+      "field": "Political participation and democratic theory",
+      "jel_codes": [
+       "D72",
+       "D71"
+      ],
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "Both profiles rate this medium confidence."
+     }
+    ],
+    "recent_interests": [
+     {
+      "topic": "Measurement of democracy and long-run regime characteristics through V-Dem, including the historical extension back to the 18th–19th centuries",
+      "period": "2010s–present (A: 2018–present for Historical V-Dem; O: roughly 2019–2024; G: 2010s–2026)",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "note": "All three tie this to his V-Dem role and the 2020 Cambridge University Press volume. The profiles give different period bounds."
+     },
+     {
+      "topic": "Historical state-building and the development of impartial, meritocratic administration (e.g., Sweden's path to low corruption; comparative European institutional development)",
+      "period": "A: 2015–present; G: 2018–2026",
+      "support": [
+       "A",
+       "G"
+      ],
+      "note": "A links this to work with Bo Rothstein and others on 'getting to Sweden'. G cites research on the historical origins of the Swedish state. The start years differ."
+     },
+     {
+      "topic": "Causes and consequences of democratization and autocratization, including electoral manipulation and the institutional pathways of regime change",
+      "period": "ongoing (2010s–early 2020s per O)",
+      "support": [
+       "A",
+       "O"
+      ],
+      "note": "Both describe this as a continuation of his core agenda. O notes that specific 2025–2026 activity is unverified."
+     },
+     {
+      "topic": "Methodology of expert surveys and latent-variable measurement of institutions",
+      "period": "ongoing",
+      "support": [
+       "A"
+      ],
+      "note": "A links this to V-Dem methodology work with coauthors. It is closely related to the V-Dem measurement interest above."
+     },
+     {
+      "topic": "Quality of government, impartial institutions, meritocratic bureaucracy and corruption control",
+      "period": "continuing agenda; main publications earlier",
+      "support": [
+       "O"
+      ],
+      "note": "Based on work with Rothstein and with Dahlström and Lapuente. A and G cover this mainly through fields and works rather than as a recent interest."
+     },
+     {
+      "topic": "State capacity and governance as empirical cross-national concepts relevant to political and economic outcomes",
+      "period": "roughly 2019–2024",
+      "support": [
+       "O"
+      ],
+      "note": "O rates this medium confidence and says it is not tied to a specific recent title."
+     }
+    ],
+    "representative_works": [
+     {
+      "title": "Determinants of Democratization: Explaining Regime Change in the World, 1972–2006",
+      "year": "2010",
+      "venue": "Cambridge University Press",
+      "coauthors": [],
+      "contribution": "Single-authored large-N monograph on the determinants of democratic transitions and backsliding. It weighs structural factors (modernization, economic crises, natural resources) against international diffusion, strategic factors and domestic mobilization.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "What Is Quality of Government? A Theory of Impartial Government Institutions",
+      "year": "2008",
+      "venue": "Governance",
+      "coauthors": [
+       "Bo Rothstein"
+      ],
+      "contribution": "Defines quality of government as impartiality in the exercise of public authority and distinguishes it from democratic access to power. It became a widely used concept in research on corruption and institutional performance.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": "G gives the subtitle as 'A Theory of Impartiality in the Exercise of Public Power'; A and O give 'A Theory of Impartial Government Institutions', which is kept."
+     },
+     {
+      "title": "Varieties of Democracy: Measuring Two Centuries of Political Change",
+      "year": "2020",
+      "venue": "Cambridge University Press",
+      "coauthors": [
+       "Michael Coppedge",
+       "John Gerring",
+       "Adam Glynn",
+       "Carl Henrik Knutsen",
+       "Staffan I. Lindberg",
+       "Daniel Pemstein",
+       "Brigitte Seim",
+       "Svend-Erik Skaaning"
+      ],
+      "contribution": "Book-length account of the V-Dem project's conceptual framework, measurement model and data covering long historical spans.",
+      "support": [
+       "A",
+       "O",
+       "G"
+      ],
+      "conflict": "A and G list the same eight coauthors. O gives a partial list (Coppedge, Gerring, Knutsen, Lindberg, Skaaning, 'and other V-Dem collaborators'). This is a difference in completeness, not a contradiction."
+     },
+     {
+      "title": "Pathways from Authoritarianism",
+      "year": "2007",
+      "venue": "Journal of Democracy",
+      "coauthors": [
+       "Axel Hadenius"
+      ],
+      "contribution": "Typology of authoritarian regimes (military, monarchic, limited multiparty, etc.) and how each type relates to later democratization.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "The Merit of Meritocratization: Politics, Bureaucracy, and the Institutional Deterrents of Corruption",
+      "year": "2012",
+      "venue": "Political Research Quarterly",
+      "coauthors": [
+       "Carl Dahlström",
+       "Victor Lapuente"
+      ],
+      "contribution": "Cross-national evidence, based on the QoG expert survey, that meritocratic recruitment and the separation of political and bureaucratic careers are associated with lower corruption.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Political Participation and Three Theories of Democracy: A Research Inventory and Agenda",
+      "year": "2006",
+      "venue": "European Journal of Political Research",
+      "coauthors": [],
+      "contribution": "Links concepts of political participation to responsive, participatory and deliberative models of democracy and maps an agenda for empirical participation research.",
+      "support": [
+       "A",
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Conceptualizing and Measuring Democracy: A New Approach",
+      "year": "2011",
+      "venue": "Perspectives on Politics",
+      "coauthors": [
+       "Michael Coppedge",
+       "John Gerring",
+       "Staffan I. Lindberg",
+       "others"
+      ],
+      "contribution": "Founding statement of the V-Dem approach: democracy is treated as multidimensional and measured with disaggregated indicators.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Authoritarian Regime Types Revisited: Updated Data in Comparative Perspective",
+      "year": "2013",
+      "venue": "Contemporary Politics",
+      "coauthors": [
+       "Michael Wahman",
+       "Axel Hadenius"
+      ],
+      "contribution": "Updated authoritarian regime-type dataset, widely used in comparative research.",
+      "support": [
+       "A"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Cultural and Economic Prerequisites of Democracy: Reassessing Recent Evidence",
+      "year": "2005",
+      "venue": "Studies in Comparative International Development",
+      "coauthors": [
+       "Axel Hadenius"
+      ],
+      "contribution": "Re-examines claims about cultural and economic preconditions for democracy with comparative evidence.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "V-Dem: A New Way to Measure Democracy",
+      "year": "2014",
+      "venue": "Journal of Democracy",
+      "coauthors": [
+       "Michael Coppedge",
+       "John Gerring",
+       "Staffan I. Lindberg",
+       "Svend-Erik Skaaning",
+       "David Altman",
+       "and other V-Dem collaborators"
+      ],
+      "contribution": "Introduces the V-Dem approach of measuring multiple dimensions of democracy with expert-coded indicators and transparent aggregation.",
+      "support": [
+       "O"
+      ],
+      "conflict": ""
+     },
+     {
+      "title": "Measuring electoral democracy with V-Dem data: Introducing a new polyarchy index",
+      "year": "2016",
+      "venue": "Journal of Peace Research",
+      "coauthors": [
+       "Michael Coppedge",
+       "Staffan I. Lindberg",
+       "Svend-Erik Skaaning"
+      ],
+      "contribution": "Introduces the V-Dem electoral democracy (polyarchy) index, a multidimensional quantitative measure of democratic institutions.",
+      "support": [
+       "G"
+      ],
+      "conflict": ""
+     }
+    ],
+    "persona": {
+     "summary": "A comparative political scientist whose work sits close to political economy. His research asks why countries become and stay democratic, why some states govern impartially and with little corruption, and how political regimes can be measured at scale and over long periods. On an economics committee he brings the perspective of political institutions, bureaucracy, state capacity and institutional measurement.",
+     "research_lens": "He treats institutions as both outcomes and causes. He asks how regimes and impartial bureaucracies emerge historically, especially through Swedish and European state-building. He also asks how regimes, participation structures and administrative rules shape political and economic outcomes across countries and over time. All three profiles infer that this makes him attentive to economics work on development, political economy, state capacity, corruption and institutions. G also stresses a distinction between how power is accessed (democratic accountability) and how it is exercised (impartial administration).",
+     "methods_and_evidence": "His work relies on large-N cross-national panel data, regime typologies and expert-coded indicators with explicit measurement and aggregation models (V-Dem). It also draws on historical-comparative evidence, notably on Swedish state-building. He gives concept validity, measurement reliability and data quality as much weight as identification. O adds attention to robustness across samples and to endogeneity between institutions and development.",
+     "what_they_value_in_contributions": "Inferred from his record: conceptual clarity and valid, transparent operationalization of abstract institutional concepts such as impartiality, meritocracy, polyarchy and regime type. He likely values evidence that travels across countries and long historical periods, and durable public data or frameworks that enable cumulative research. Interdisciplinary relevance across economics, political science, history and public administration also matters to him.",
+     "likely_questions_in_deliberation": [
+      "Are key concepts such as democracy, institutions, state capacity and corruption clearly defined and validly measured, and how robust are results to alternative measures, measurement error and comparability over time?",
+      "Does the evidence generalize beyond particular countries or periods, and does it fit long-run historical and comparative political evidence?",
+      "Is causation between institutions and economic outcomes convincingly established, or could reverse causality and historical confounding explain the pattern?",
+      "Did the contribution create durable data, measures or conceptual distinctions that changed later research practice?",
+      "Has the work influenced neighbouring disciplines such as political science, public administration, history and development studies, as well as policy?",
+      "Does the work distinguish democratic accountability (access to power) from impartial administration (exercise of power)?"
+     ],
+     "committee_experience": "Listed as a co-opted member of the economics prize committee for 2026. None of the profiles knows when his committee service began or what other Academy roles he holds. The profiles infer that his role is to add expertise on political institutions, governance, democracy, corruption and the political-economy boundary rather than to represent a narrow economics subfield.",
+     "support_note": "The summary, lens, methods and values are shared by A, O and G. The emphasis on historical state-building as a lens comes mainly from A and G. The access-versus-exercise-of-power question comes from G. The questions on endogeneity and measurement error draw especially on O, with A also raising reverse causality. G frames him as a 'driving force' behind both V-Dem and QoG; A and O describe narrower roles (A: one of V-Dem's principal investigators, associated with QoG). The narrower description is kept. A's description of the co-opted seat as 'non-voting-class' is not stated by the other profiles and is not adopted."
+    },
+    "disagreements": [
+     "Subtitle of the 2008 Governance article with Bo Rothstein: A and O give 'A Theory of Impartial Government Institutions'; G gives 'A Theory of Impartiality in the Exercise of Public Power'. The A/O version is kept.",
+     "Role in V-Dem: A calls him one of its principal investigators; G calls him a key founder and Principal Investigator; O describes coauthorship and involvement without a specific title.",
+     "Role in QoG: A says he is associated with the QoG Institute at Gothenburg; G calls him a driving force behind the QoG project.",
+     "Coauthor list for the 2020 V-Dem book: A and G list eight coauthors; O gives a partial list.",
+     "Period of the historical state-building interest: A gives 2015–present; G gives 2018–2026.",
+     "Period of the V-Dem measurement interest: A gives 2018–present (historical extension); O gives roughly 2019–2024; G gives 2010s–2026.",
+     "A characterizes the co-opted seat as 'non-voting-class'; O and G do not make this claim."
+    ],
+    "caveats": [
+     "Several works rest on a single profile: 'Conceptualizing and Measuring Democracy' (2011) and 'Authoritarian Regime Types Revisited' (2013) on A, 'Cultural and Economic Prerequisites of Democracy' (2005) and 'V-Dem: A New Way to Measure Democracy' (2014) on O, and the 2016 Journal of Peace Research polyarchy-index article on G. Their years, venues and coauthors should be verified.",
+     "Coauthor lists for large V-Dem publications are long and incomplete in all profiles.",
+     "Knowledge cutoffs: A roughly 2024–2025, O June 2024, G early 2024. G's period end of 2026 for recent interests extends past its own cutoff. None of the profiles knows publications from 2025–2026.",
+     "His move from Lund University to Stockholm University is mentioned by A and O; A notes the timing is uncertain.",
+     "No profile knows his committee tenure before 2026. A's 'non-voting-class' description of co-opted membership is unsupported by the other profiles and should be checked.",
+     "Persona elements about what he values and likely deliberation questions are inferences from his publication record, not documented statements.",
+     "No namesake issues were identified, and no entries were dropped."
+    ]
+   },
+   "parse_error": null,
+   "error": null,
+   "stop_details": null,
+   "errors": []
+  }
+ ],
+ "valid": true,
+ "errors": [],
+ "profile": {
+  "identity": {
+   "name": "Jan Teorell",
+   "affiliation": "Department of Political Science, Stockholm University",
+   "recognized_by": [
+    "A",
+    "O",
+    "G"
+   ],
+   "note": "All three profiles recognize him with high confidence as a Swedish comparative political scientist working on democratization, authoritarian regimes, quality of government, corruption, state capacity and the measurement of democracy. All three link him to the Varieties of Democracy (V-Dem) project. A calls him one of its principal investigators; G calls him a key founder and a Principal Investigator. A and O also link him to Lund University before Stockholm University. A, O and G link him to the Quality of Government (QoG) research community; A specifies the QoG Institute at the University of Gothenburg. A stresses that he is a political scientist, not an economist, and reads his co-opted seat as reflecting expertise in political economy and institutions; A labels this as inference. His 2026 role as co-opted member comes from the committee listing."
+  },
+  "fields": [
+   {
+    "field": "Comparative politics: democratization, regime change and authoritarian regime types",
+    "jel_codes": [
+     "P16",
+     "D72",
+     "P48",
+     "P51"
+    ],
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "A and O describe this in nearly identical terms. G lists 'Comparative Politics' (P16, P51) and treats democratization together with state-building."
+   },
+   {
+    "field": "Quality of government, corruption, bureaucratic impartiality and public administration",
+    "jel_codes": [
+     "D73",
+     "H11",
+     "H83",
+     "O17"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "A includes state capacity in this field. O adds public administration (H83). G's 'Political Economy of Institutions' field also carries D73."
+   },
+   {
+    "field": "Political economy of institutions, state capacity and development",
+    "jel_codes": [
+     "O43",
+     "P16",
+     "H11",
+     "D72",
+     "D73"
+    ],
+    "support": [
+     "O",
+     "G"
+    ],
+    "note": "O and G list this as a separate field. A treats state capacity under quality of government and calls the political-economy reading of his committee seat an inference."
+   },
+   {
+    "field": "Measurement of democracy and political institutions (V-Dem, expert-coded indicators, cross-national data infrastructure)",
+    "jel_codes": [
+     "C43",
+     "C83",
+     "C81",
+     "P16",
+     "D72",
+     "P48"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "G does not list this as a field but treats it as a central recent interest and representative work."
+   },
+   {
+    "field": "Historical political economy and state-building, especially Sweden and Europe",
+    "jel_codes": [
+     "N43",
+     "N44",
+     "N40",
+     "H10"
+    ],
+    "support": [
+     "A",
+     "G"
+    ],
+    "note": "A rates this medium confidence; G rates it high, under 'Democratization and State-Building'."
+   },
+   {
+    "field": "Political participation and democratic theory",
+    "jel_codes": [
+     "D72",
+     "D71"
+    ],
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "Both profiles rate this medium confidence."
+   }
+  ],
+  "recent_interests": [
+   {
+    "topic": "Measurement of democracy and long-run regime characteristics through V-Dem, including the historical extension back to the 18th–19th centuries",
+    "period": "2010s–present (A: 2018–present for Historical V-Dem; O: roughly 2019–2024; G: 2010s–2026)",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "note": "All three tie this to his V-Dem role and the 2020 Cambridge University Press volume. The profiles give different period bounds."
+   },
+   {
+    "topic": "Historical state-building and the development of impartial, meritocratic administration (e.g., Sweden's path to low corruption; comparative European institutional development)",
+    "period": "A: 2015–present; G: 2018–2026",
+    "support": [
+     "A",
+     "G"
+    ],
+    "note": "A links this to work with Bo Rothstein and others on 'getting to Sweden'. G cites research on the historical origins of the Swedish state. The start years differ."
+   },
+   {
+    "topic": "Causes and consequences of democratization and autocratization, including electoral manipulation and the institutional pathways of regime change",
+    "period": "ongoing (2010s–early 2020s per O)",
+    "support": [
+     "A",
+     "O"
+    ],
+    "note": "Both describe this as a continuation of his core agenda. O notes that specific 2025–2026 activity is unverified."
+   },
+   {
+    "topic": "Methodology of expert surveys and latent-variable measurement of institutions",
+    "period": "ongoing",
+    "support": [
+     "A"
+    ],
+    "note": "A links this to V-Dem methodology work with coauthors. It is closely related to the V-Dem measurement interest above."
+   },
+   {
+    "topic": "Quality of government, impartial institutions, meritocratic bureaucracy and corruption control",
+    "period": "continuing agenda; main publications earlier",
+    "support": [
+     "O"
+    ],
+    "note": "Based on work with Rothstein and with Dahlström and Lapuente. A and G cover this mainly through fields and works rather than as a recent interest."
+   },
+   {
+    "topic": "State capacity and governance as empirical cross-national concepts relevant to political and economic outcomes",
+    "period": "roughly 2019–2024",
+    "support": [
+     "O"
+    ],
+    "note": "O rates this medium confidence and says it is not tied to a specific recent title."
+   }
+  ],
+  "representative_works": [
+   {
+    "title": "Determinants of Democratization: Explaining Regime Change in the World, 1972–2006",
+    "year": "2010",
+    "venue": "Cambridge University Press",
+    "coauthors": [],
+    "contribution": "Single-authored large-N monograph on the determinants of democratic transitions and backsliding. It weighs structural factors (modernization, economic crises, natural resources) against international diffusion, strategic factors and domestic mobilization.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "What Is Quality of Government? A Theory of Impartial Government Institutions",
+    "year": "2008",
+    "venue": "Governance",
+    "coauthors": [
+     "Bo Rothstein"
+    ],
+    "contribution": "Defines quality of government as impartiality in the exercise of public authority and distinguishes it from democratic access to power. It became a widely used concept in research on corruption and institutional performance.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "G gives the subtitle as 'A Theory of Impartiality in the Exercise of Public Power'; A and O give 'A Theory of Impartial Government Institutions', which is kept.",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": false
+   },
+   {
+    "title": "Varieties of Democracy: Measuring Two Centuries of Political Change",
+    "year": "2020",
+    "venue": "Cambridge University Press",
+    "coauthors": [
+     "Michael Coppedge",
+     "John Gerring",
+     "Adam Glynn",
+     "Carl Henrik Knutsen",
+     "Staffan I. Lindberg",
+     "Daniel Pemstein",
+     "Brigitte Seim",
+     "Svend-Erik Skaaning"
+    ],
+    "contribution": "Book-length account of the V-Dem project's conceptual framework, measurement model and data covering long historical spans.",
+    "support": [
+     "A",
+     "O",
+     "G"
+    ],
+    "conflict": "A and G list the same eight coauthors. O gives a partial list (Coppedge, Gerring, Knutsen, Lindberg, Skaaning, 'and other V-Dem collaborators'). This is a difference in completeness, not a contradiction.",
+    "support_checked": [
+     "A",
+     "O",
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Pathways from Authoritarianism",
+    "year": "2007",
+    "venue": "Journal of Democracy",
+    "coauthors": [
+     "Axel Hadenius"
+    ],
+    "contribution": "Typology of authoritarian regimes (military, monarchic, limited multiparty, etc.) and how each type relates to later democratization.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "The Merit of Meritocratization: Politics, Bureaucracy, and the Institutional Deterrents of Corruption",
+    "year": "2012",
+    "venue": "Political Research Quarterly",
+    "coauthors": [
+     "Carl Dahlström",
+     "Victor Lapuente"
+    ],
+    "contribution": "Cross-national evidence, based on the QoG expert survey, that meritocratic recruitment and the separation of political and bureaucratic careers are associated with lower corruption.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Political Participation and Three Theories of Democracy: A Research Inventory and Agenda",
+    "year": "2006",
+    "venue": "European Journal of Political Research",
+    "coauthors": [],
+    "contribution": "Links concepts of political participation to responsive, participatory and deliberative models of democracy and maps an agenda for empirical participation research.",
+    "support": [
+     "A",
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A",
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Conceptualizing and Measuring Democracy: A New Approach",
+    "year": "2011",
+    "venue": "Perspectives on Politics",
+    "coauthors": [
+     "Michael Coppedge",
+     "John Gerring",
+     "Staffan I. Lindberg",
+     "others"
+    ],
+    "contribution": "Founding statement of the V-Dem approach: democracy is treated as multidimensional and measured with disaggregated indicators.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Authoritarian Regime Types Revisited: Updated Data in Comparative Perspective",
+    "year": "2013",
+    "venue": "Contemporary Politics",
+    "coauthors": [
+     "Michael Wahman",
+     "Axel Hadenius"
+    ],
+    "contribution": "Updated authoritarian regime-type dataset, widely used in comparative research.",
+    "support": [
+     "A"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "A"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Cultural and Economic Prerequisites of Democracy: Reassessing Recent Evidence",
+    "year": "2005",
+    "venue": "Studies in Comparative International Development",
+    "coauthors": [
+     "Axel Hadenius"
+    ],
+    "contribution": "Re-examines claims about cultural and economic preconditions for democracy with comparative evidence.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "V-Dem: A New Way to Measure Democracy",
+    "year": "2014",
+    "venue": "Journal of Democracy",
+    "coauthors": [
+     "Michael Coppedge",
+     "John Gerring",
+     "Staffan I. Lindberg",
+     "Svend-Erik Skaaning",
+     "David Altman",
+     "and other V-Dem collaborators"
+    ],
+    "contribution": "Introduces the V-Dem approach of measuring multiple dimensions of democracy with expert-coded indicators and transparent aggregation.",
+    "support": [
+     "O"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "O"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   },
+   {
+    "title": "Measuring electoral democracy with V-Dem data: Introducing a new polyarchy index",
+    "year": "2016",
+    "venue": "Journal of Peace Research",
+    "coauthors": [
+     "Michael Coppedge",
+     "Staffan I. Lindberg",
+     "Svend-Erik Skaaning"
+    ],
+    "contribution": "Introduces the V-Dem electoral democracy (polyarchy) index, a multidimensional quantitative measure of democratic institutions.",
+    "support": [
+     "G"
+    ],
+    "conflict": "",
+    "support_checked": [
+     "G"
+    ],
+    "in_inputs": true,
+    "support_matches": true
+   }
+  ],
+  "persona": {
+   "summary": "A comparative political scientist whose work sits close to political economy. His research asks why countries become and stay democratic, why some states govern impartially and with little corruption, and how political regimes can be measured at scale and over long periods. On an economics committee he brings the perspective of political institutions, bureaucracy, state capacity and institutional measurement.",
+   "research_lens": "He treats institutions as both outcomes and causes. He asks how regimes and impartial bureaucracies emerge historically, especially through Swedish and European state-building. He also asks how regimes, participation structures and administrative rules shape political and economic outcomes across countries and over time. All three profiles infer that this makes him attentive to economics work on development, political economy, state capacity, corruption and institutions. G also stresses a distinction between how power is accessed (democratic accountability) and how it is exercised (impartial administration).",
+   "methods_and_evidence": "His work relies on large-N cross-national panel data, regime typologies and expert-coded indicators with explicit measurement and aggregation models (V-Dem). It also draws on historical-comparative evidence, notably on Swedish state-building. He gives concept validity, measurement reliability and data quality as much weight as identification. O adds attention to robustness across samples and to endogeneity between institutions and development.",
+   "what_they_value_in_contributions": "Inferred from his record: conceptual clarity and valid, transparent operationalization of abstract institutional concepts such as impartiality, meritocracy, polyarchy and regime type. He likely values evidence that travels across countries and long historical periods, and durable public data or frameworks that enable cumulative research. Interdisciplinary relevance across economics, political science, history and public administration also matters to him.",
+   "likely_questions_in_deliberation": [
+    "Are key concepts such as democracy, institutions, state capacity and corruption clearly defined and validly measured, and how robust are results to alternative measures, measurement error and comparability over time?",
+    "Does the evidence generalize beyond particular countries or periods, and does it fit long-run historical and comparative political evidence?",
+    "Is causation between institutions and economic outcomes convincingly established, or could reverse causality and historical confounding explain the pattern?",
+    "Did the contribution create durable data, measures or conceptual distinctions that changed later research practice?",
+    "Has the work influenced neighbouring disciplines such as political science, public administration, history and development studies, as well as policy?",
+    "Does the work distinguish democratic accountability (access to power) from impartial administration (exercise of power)?"
+   ],
+   "committee_experience": "Listed as a co-opted member of the economics prize committee for 2026. None of the profiles knows when his committee service began or what other Academy roles he holds. The profiles infer that his role is to add expertise on political institutions, governance, democracy, corruption and the political-economy boundary rather than to represent a narrow economics subfield.",
+   "support_note": "The summary, lens, methods and values are shared by A, O and G. The emphasis on historical state-building as a lens comes mainly from A and G. The access-versus-exercise-of-power question comes from G. The questions on endogeneity and measurement error draw especially on O, with A also raising reverse causality. G frames him as a 'driving force' behind both V-Dem and QoG; A and O describe narrower roles (A: one of V-Dem's principal investigators, associated with QoG). The narrower description is kept. A's description of the co-opted seat as 'non-voting-class' is not stated by the other profiles and is not adopted."
+  },
+  "disagreements": [
+   "Subtitle of the 2008 Governance article with Bo Rothstein: A and O give 'A Theory of Impartial Government Institutions'; G gives 'A Theory of Impartiality in the Exercise of Public Power'. The A/O version is kept.",
+   "Role in V-Dem: A calls him one of its principal investigators; G calls him a key founder and Principal Investigator; O describes coauthorship and involvement without a specific title.",
+   "Role in QoG: A says he is associated with the QoG Institute at Gothenburg; G calls him a driving force behind the QoG project.",
+   "Coauthor list for the 2020 V-Dem book: A and G list eight coauthors; O gives a partial list.",
+   "Period of the historical state-building interest: A gives 2015–present; G gives 2018–2026.",
+   "Period of the V-Dem measurement interest: A gives 2018–present (historical extension); O gives roughly 2019–2024; G gives 2010s–2026.",
+   "A characterizes the co-opted seat as 'non-voting-class'; O and G do not make this claim."
+  ],
+  "caveats": [
+   "Several works rest on a single profile: 'Conceptualizing and Measuring Democracy' (2011) and 'Authoritarian Regime Types Revisited' (2013) on A, 'Cultural and Economic Prerequisites of Democracy' (2005) and 'V-Dem: A New Way to Measure Democracy' (2014) on O, and the 2016 Journal of Peace Research polyarchy-index article on G. Their years, venues and coauthors should be verified.",
+   "Coauthor lists for large V-Dem publications are long and incomplete in all profiles.",
+   "Knowledge cutoffs: A roughly 2024–2025, O June 2024, G early 2024. G's period end of 2026 for recent interests extends past its own cutoff. None of the profiles knows publications from 2025–2026.",
+   "His move from Lund University to Stockholm University is mentioned by A and O; A notes the timing is uncertain.",
+   "No profile knows his committee tenure before 2026. A's 'non-voting-class' description of co-opted membership is unsupported by the other profiles and should be checked.",
+   "Persona elements about what he values and likely deliberation questions are inferences from his publication record, not documented statements.",
+   "No namesake issues were identified, and no entries were dropped."
+  ]
+ },
+ "per_model": {
+  "A": {
+   "persona_summary": "A comparative political scientist whose career centers on why countries become and stay democratic, and why some states govern impartially and with little corruption. He brings to an economics committee the perspective of political institutions, state capacity and the large-scale measurement of regimes.",
+   "identity_note": "Jan Teorell is a Swedish political scientist working in comparative politics, now at Stockholm University and earlier at Lund University. He is known for empirical research on democratization and authoritarian regimes, quality of government, and the measurement of democracy. He is one of the principal investigators of the Varieties of Democracy (V-Dem) project and is associated with the Quality of Government (QoG) Institute at the University of Gothenburg. He is a political scientist, not an economist. His co-opted seat on the economics prize committee most plausibly reflects expertise in political economy and institutions; that reading is my inference.",
+   "knowledge_limits": "My knowledge comes from training data running to roughly 2024–2025. I have no information on his precise committee tenure, any internal views, or publications after about 2024. Some details are uncertain: co-author lists and years for certain works, and the exact timing of his move from Lund to Stockholm University. I have not attributed any stated views on specific economics prize candidates."
+  },
+  "O": {
+   "persona_summary": "Teorell would bring the perspective of a comparative political scientist whose work sits close to political economy: institutions, democracy, bureaucracy, corruption, state capacity, and the empirical measurement of political regimes. For an economics-prize discussion, he would plausibly be especially attentive to contributions that changed how scholars conceptualize and measure institutions or identify their effects on economic and political outcomes.",
+   "identity_note": "Jan Teorell is recognized as the Swedish comparative political scientist identified here by the Department of Political Science, Stockholm University affiliation and the Nobel listing. He is known for work on democratization, authoritarian regimes, political participation, corruption, quality of government, state capacity, and major cross-national democracy data projects such as V-Dem. My prior knowledge also associates him with Lund University and the Quality of Government/V-Dem research communities; I rely on the prompt for his 2026 Stockholm University affiliation and committee role.",
+   "knowledge_limits": "I have no web access and rely on memory plus the user-provided 2026 committee information. My general knowledge reaches June 2024, so I cannot independently verify publications, affiliations, committee service, or public statements after that date. Coauthor lists for large V-Dem works are especially long; I have given partial coauthor lists rather than attempting a complete list from memory. I have avoided private information and have not inferred any views outside his professional record."
+  },
+  "G": {
+   "persona_summary": "Jan Teorell is a rigorous comparativist bridging political science and political economy. As a driving force behind the V-Dem and Quality of Government (QoG) projects, his expertise lies in the precise definition, large-scale measurement, and historical evaluation of political institutions.",
+   "identity_note": "Jan Teorell is a prominent Swedish comparative political scientist. He is a key founder of the Varieties of Democracy (V-Dem) project and a leading scholar on state capacity, democratization, and the Quality of Government.",
+   "knowledge_limits": "My knowledge extends up to early 2024. I do not have access to his specific 2025-2026 publications, unpublished working papers, or private committee deliberations."
+  }
+ },
+ "stats": {
+  "fields": 6,
+  "interests": 6,
+  "works": 11,
+  "works_all_models": 2,
+  "works_one_model": 5,
+  "works_not_in_inputs": 0,
+  "works_support_differs": 1,
+  "disagreements": 7,
+  "caveats": 7
+ }
+}

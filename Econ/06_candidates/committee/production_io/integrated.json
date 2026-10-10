@@ -1,0 +1,2492 @@
+{
+ "field": "Production, Industrial Organization",
+ "slug": "production_io",
+ "generated": "2026-10-10T19:29:41+00:00",
+ "integrator": "claude-opus-5-5",
+ "stamp": "5e3abc28139526a4",
+ "models": {
+  "anthropic": "claude-opus-5-5",
+  "openai": "gpt-5.5-2026-04-23",
+  "gemini": "gemini-3.1-pro-preview"
+ },
+ "valid_ballots_per_model": {
+  "claude-opus-5-5": 11,
+  "gpt-5.5-2026-04-23": 11,
+  "gemini-3.1-pro-preview": 11
+ },
+ "n_nominations": 165,
+ "n_candidates": 28,
+ "normalization": "Borda 5..1 per ballot; each model's points divided by its number of valid ballots in the field, summed over models (max 15)",
+ "warnings": [],
+ "call": {
+  "attempts": 1,
+  "usd": 0.5074,
+  "usage": [
+   {
+    "input": 46297,
+    "output": 16113,
+    "reasoning": 6348,
+    "cached_input": 0
+   }
+  ]
+ },
+ "candidates": [
+  {
+   "rank": 1,
+   "motivation": "for developing structural methods for the empirical analysis of demand and market power in differentiated-product markets",
+   "jel_code": "L13",
+   "jel_code_mode": "L13",
+   "score": 14.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 5.0,
+    "gpt-5.5-2026-04-23": 5.0,
+    "gemini-3.1-pro-preview": 4.4545
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 33,
+   "nominations_per_model": {
+    "A": 11,
+    "O": 11,
+    "G": 11
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (A, G, O)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A, G, O)",
+    "Per Strömberg (A, G, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G, O)",
+    "Timo Boppart (A, G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Steven Berry",
+     "born": 1959,
+     "affiliation": "Yale University",
+     "n_nominations": 33,
+     "models": "A O G",
+     "weight": 14.4545
+    },
+    {
+     "name": "James Levinsohn",
+     "born": 1958,
+     "affiliation": "Yale University",
+     "n_nominations": 26,
+     "models": "A O G",
+     "weight": 11.8182
+    },
+    {
+     "name": "Ariel Pakes",
+     "born": 1949,
+     "affiliation": "Harvard University",
+     "n_nominations": 33,
+     "models": "A O G",
+     "weight": 14.4545
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Berry, Levinsohn and Pakes, 1995: Automobile Prices in Market Equilibrium, Econometrica",
+     "people": [
+      "Steven Berry",
+      "James Levinsohn",
+      "Ariel Pakes"
+     ],
+     "n_nominations": 33,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Berry, 1994: Estimating Discrete-Choice Models of Product Differentiation, RAND Journal of Economics",
+     "people": [
+      "Steven Berry"
+     ],
+     "n_nominations": 19,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Berry, Levinsohn and Pakes, 2004: Differentiated Products Demand Systems from a Combination of Micro and Macro Data, Journal of Political Economy",
+     "people": [
+      "Steven Berry",
+      "James Levinsohn",
+      "Ariel Pakes"
+     ],
+     "n_nominations": 4,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Olley and Pakes, 1996: The Dynamics of Productivity in the Telecommunications Equipment Industry, Econometrica",
+     "people": [
+      "Ariel Pakes"
+     ],
+     "n_nominations": 9,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "BLP is described as the workhorse of empirical IO, used daily in merger review and antitrust worldwide, combining equilibrium modelling with estimation and with clear attribution. The recurring reservation is sensitivity to instruments, conduct and computational assumptions, and closeness to econometrics.",
+   "grouping_note": "Joins all BLP nominations, including several that name only Berry and Pakes and some that also mention Olley-Pakes or Ericson-Pakes dynamics, which have separate candidates of their own.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#1",
+    "anthropic/tommy-andersson/#1",
+    "anthropic/anna-dreber-almenberg/#1",
+    "anthropic/peter-fredriksson/#1",
+    "anthropic/per-stromberg/#1",
+    "anthropic/timo-boppart/#1",
+    "anthropic/kerstin-enflo/#1",
+    "anthropic/richard-friberg/#1",
+    "anthropic/randi-hjalmarsson/#1",
+    "anthropic/jan-teorell/#1",
+    "anthropic/per-krusell/#1",
+    "openai/john-hassler/#1",
+    "openai/tommy-andersson/#1",
+    "openai/anna-dreber-almenberg/#1",
+    "openai/peter-fredriksson/#1",
+    "openai/per-stromberg/#1",
+    "openai/timo-boppart/#1",
+    "openai/kerstin-enflo/#1",
+    "openai/richard-friberg/#1",
+    "openai/randi-hjalmarsson/#1",
+    "openai/jan-teorell/#1",
+    "openai/per-krusell/#1",
+    "gemini/john-hassler/#1",
+    "gemini/tommy-andersson/#1",
+    "gemini/anna-dreber-almenberg/#2",
+    "gemini/peter-fredriksson/#1",
+    "gemini/per-stromberg/#3",
+    "gemini/timo-boppart/#1",
+    "gemini/kerstin-enflo/#2",
+    "gemini/richard-friberg/#1",
+    "gemini/randi-hjalmarsson/#1",
+    "gemini/jan-teorell/#3",
+    "gemini/per-krusell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 2,
+   "motivation": "for measuring management practices and their effects on productivity across firms and countries",
+   "jel_code": "M11",
+   "jel_code_mode": "M11",
+   "score": 7.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 2.7273,
+    "gpt-5.5-2026-04-23": 1.3636,
+    "gemini-3.1-pro-preview": 3.3636
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 11,
+   "n_nominations": 26,
+   "nominations_per_model": {
+    "A": 11,
+    "O": 6,
+    "G": 9
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, G, O)",
+    "Jan Teorell (A, G, O)",
+    "John Hassler (A, G)",
+    "Kerstin Enflo (A, G, O)",
+    "Per Krusell (A)",
+    "Per Strömberg (A, G)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, G, O)",
+    "Richard Friberg (A, G)",
+    "Timo Boppart (A, G)",
+    "Tommy Andersson (A, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Nicholas Bloom",
+     "born": 1973,
+     "affiliation": "Stanford University",
+     "n_nominations": 26,
+     "models": "A O G",
+     "weight": 7.4545
+    },
+    {
+     "name": "John Van Reenen",
+     "born": 1965,
+     "affiliation": "London School of Economics",
+     "n_nominations": 26,
+     "models": "A O G",
+     "weight": 7.4545
+    },
+    {
+     "name": "Raffaella Sadun",
+     "born": 1974,
+     "affiliation": "Harvard Business School",
+     "n_nominations": 6,
+     "models": "A O",
+     "weight": 1.3636
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Bloom and Van Reenen, 2007: Measuring and Explaining Management Practices Across Firms and Countries, Quarterly Journal of Economics",
+     "people": [
+      "Nicholas Bloom",
+      "John Van Reenen"
+     ],
+     "n_nominations": 26,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Bloom, Eifert, Mahajan, McKenzie and Roberts, 2013: Does Management Matter? Evidence from India, Quarterly Journal of Economics",
+     "people": [
+      "Nicholas Bloom"
+     ],
+     "n_nominations": 15,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Bloom, Sadun and Van Reenen, 2012: Americans Do IT Better: US Multinationals and the Productivity Miracle, American Economic Review",
+     "people": [
+      "Nicholas Bloom",
+      "John Van Reenen",
+      "Raffaella Sadun"
+     ],
+     "n_nominations": 5,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The World Management Survey created durable measurement infrastructure, backed by a field experiment, linking management to productivity dispersion. The main reservations are the youth of the candidates, survey-based measurement and limited causal settings.",
+   "grouping_note": "Most nominations name Bloom and Van Reenen only; Sadun is added in several.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#4",
+    "anthropic/tommy-andersson/#5",
+    "anthropic/anna-dreber-almenberg/#2",
+    "anthropic/peter-fredriksson/#3",
+    "anthropic/per-stromberg/#3",
+    "anthropic/timo-boppart/#4",
+    "anthropic/kerstin-enflo/#2",
+    "anthropic/richard-friberg/#4",
+    "anthropic/randi-hjalmarsson/#3",
+    "anthropic/jan-teorell/#2",
+    "anthropic/per-krusell/#4",
+    "openai/tommy-andersson/#5",
+    "openai/anna-dreber-almenberg/#3",
+    "openai/peter-fredriksson/#3",
+    "openai/kerstin-enflo/#3",
+    "openai/randi-hjalmarsson/#3",
+    "openai/jan-teorell/#4",
+    "gemini/john-hassler/#3",
+    "gemini/anna-dreber-almenberg/#1",
+    "gemini/peter-fredriksson/#2",
+    "gemini/per-stromberg/#2",
+    "gemini/timo-boppart/#2",
+    "gemini/kerstin-enflo/#1",
+    "gemini/richard-friberg/#3",
+    "gemini/randi-hjalmarsson/#2",
+    "gemini/jan-teorell/#1"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 3,
+   "motivation": "for the analysis of endogenous sunk costs and the bounds approach to market structure",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 4.8182,
+   "points_per_model": {
+    "claude-opus-5-5": 1.9091,
+    "gpt-5.5-2026-04-23": 1.8182,
+    "gemini-3.1-pro-preview": 1.0909
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 8,
+   "n_nominations": 18,
+   "nominations_per_model": {
+    "A": 7,
+    "O": 5,
+    "G": 6
+   },
+   "supporters": [
+    "Jan Teorell (A, O)",
+    "John Hassler (A, G, O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, G)",
+    "Randi Hjalmarsson (A, G)",
+    "Richard Friberg (G)",
+    "Timo Boppart (A, G, O)",
+    "Tommy Andersson (A, G, O)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "John Sutton",
+     "born": 1948,
+     "affiliation": "London School of Economics",
+     "n_nominations": 18,
+     "models": "A O G",
+     "weight": 4.8182
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Sutton, 1991: Sunk Costs and Market Structure, MIT Press",
+     "people": [
+      "John Sutton"
+     ],
+     "n_nominations": 18,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Sutton, 1998: Technology and Market Structure, MIT Press",
+     "people": [
+      "John Sutton"
+     ],
+     "n_nominations": 12,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Sutton, 2007: Market Structure: Theory and Evidence, in Handbook of Industrial Organization",
+     "people": [
+      "John Sutton"
+     ],
+     "n_nominations": 4,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Sutton derived robust bounds on concentration that hold across game forms and explained why concentration need not fall as markets grow, linking theory to cross-industry evidence. The main reservation is that his influence on current empirical and policy practice is smaller than that of structural IO.",
+   "grouping_note": "Joins all single-name Sutton nominations; joint nominations with Bresnahan and Reiss are placed in the entry candidate.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#2",
+    "anthropic/tommy-andersson/#3",
+    "anthropic/timo-boppart/#3",
+    "anthropic/kerstin-enflo/#3",
+    "anthropic/randi-hjalmarsson/#5",
+    "anthropic/jan-teorell/#3",
+    "anthropic/per-krusell/#2",
+    "openai/john-hassler/#2",
+    "openai/tommy-andersson/#2",
+    "openai/timo-boppart/#2",
+    "openai/kerstin-enflo/#2",
+    "openai/jan-teorell/#2",
+    "gemini/john-hassler/#4",
+    "gemini/tommy-andersson/#3",
+    "gemini/timo-boppart/#3",
+    "gemini/richard-friberg/#5",
+    "gemini/randi-hjalmarsson/#5",
+    "gemini/per-krusell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 4,
+   "motivation": "for the theory of two-sided markets and platform competition",
+   "jel_code": "L14",
+   "jel_code_mode": "L14",
+   "score": 4.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 2.0,
+    "gpt-5.5-2026-04-23": 1.9091,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 10,
+   "n_nominations": 18,
+   "nominations_per_model": {
+    "A": 8,
+    "O": 9,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A, O)",
+    "John Hassler (O)",
+    "Kerstin Enflo (A, O)",
+    "Per Krusell (A, O)",
+    "Per Strömberg (A, O)",
+    "Peter Fredriksson (A, G, O)",
+    "Randi Hjalmarsson (A, O)",
+    "Richard Friberg (A, O)",
+    "Timo Boppart (O)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Jean-Charles Rochet",
+     "born": 1957,
+     "affiliation": "Toulouse School of Economics",
+     "n_nominations": 18,
+     "models": "A O G",
+     "weight": 4.1818
+    },
+    {
+     "name": "Mark Armstrong",
+     "born": 1964,
+     "affiliation": "University of Oxford",
+     "n_nominations": 17,
+     "models": "A O",
+     "weight": 3.9091
+    },
+    {
+     "name": "Bruno Jullien",
+     "born": 1961,
+     "affiliation": "Toulouse School of Economics",
+     "n_nominations": 3,
+     "models": "O",
+     "weight": 0.6364
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Geoffrey G. Parker",
+     "affiliation": "Dartmouth College",
+     "born": 1965,
+     "weight": 0.1818,
+     "n_nominations": 1
+    },
+    {
+     "name": "David S. Evans",
+     "affiliation": "Global Economics Group and University College London",
+     "born": 1954,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Rochet and Tirole, 2003: Platform Competition in Two-Sided Markets, Journal of the European Economic Association",
+     "people": [
+      "Jean-Charles Rochet"
+     ],
+     "n_nominations": 18,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Armstrong, 2006: Competition in Two-Sided Markets, RAND Journal of Economics",
+     "people": [
+      "Mark Armstrong"
+     ],
+     "n_nominations": 17,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Caillaud and Jullien, 2003: Chicken and Egg: Competition among Intermediation Service Providers, RAND Journal of Economics",
+     "people": [
+      "Bruno Jullien"
+     ],
+     "n_nominations": 3,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Rochet and Tirole, 2006: Two-Sided Markets: A Progress Report, RAND Journal of Economics",
+     "people": [
+      "Jean-Charles Rochet"
+     ],
+     "n_nominations": 4,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Platform theory is seen as central to digital markets, payments and competition policy. The main reservation is overlap with Tirole's 2014 prize and limited empirical validation.",
+   "grouping_note": "Third names vary (Jullien, Evans, Parker); David S. Evans and Geoffrey G. Parker are left out, and Tirole, a prior laureate, is not named.",
+   "nomination_ids": [
+    "anthropic/tommy-andersson/#2",
+    "anthropic/anna-dreber-almenberg/#3",
+    "anthropic/peter-fredriksson/#2",
+    "anthropic/per-stromberg/#2",
+    "anthropic/kerstin-enflo/#5",
+    "anthropic/richard-friberg/#3",
+    "anthropic/randi-hjalmarsson/#4",
+    "anthropic/per-krusell/#5",
+    "openai/john-hassler/#3",
+    "openai/anna-dreber-almenberg/#4",
+    "openai/peter-fredriksson/#4",
+    "openai/per-stromberg/#4",
+    "openai/timo-boppart/#3",
+    "openai/kerstin-enflo/#4",
+    "openai/richard-friberg/#5",
+    "openai/randi-hjalmarsson/#4",
+    "openai/per-krusell/#2",
+    "gemini/peter-fredriksson/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 5,
+   "motivation": "for the empirical analysis of productivity dispersion, firm dynamics and reallocation using microdata",
+   "jel_code": "L25",
+   "jel_code_mode": "L25",
+   "score": 2.0,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 1.9091,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "models": "O G",
+   "n_models": 2,
+   "n_members": 7,
+   "n_nominations": 8,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 7,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (O)",
+    "Per Krusell (O)",
+    "Per Strömberg (O)",
+    "Peter Fredriksson (O)",
+    "Richard Friberg (O)",
+    "Timo Boppart (G, O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "John C. Haltiwanger",
+     "born": 1955,
+     "affiliation": "University of Maryland",
+     "n_nominations": 7,
+     "models": "O",
+     "weight": 1.9091
+    },
+    {
+     "name": "Lucia Foster",
+     "born": null,
+     "affiliation": "U.S. Census Bureau",
+     "n_nominations": 6,
+     "models": "O",
+     "weight": 1.6364
+    },
+    {
+     "name": "Chad Syverson",
+     "born": 1972,
+     "affiliation": "University of Chicago",
+     "n_nominations": 5,
+     "models": "O G",
+     "weight": 1.0909
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Steven J. Davis",
+     "affiliation": "University of Chicago Booth School of Business and Hoover Institution",
+     "born": 1958,
+     "weight": 0.9091,
+     "n_nominations": 3
+    },
+    {
+     "name": "Chang-Tai Hsieh",
+     "affiliation": "University of Chicago",
+     "born": 1970,
+     "weight": 0.2727,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Foster, Haltiwanger and Krizan, 2001: Aggregate Productivity Growth: Lessons from Microeconomic Evidence, in New Developments in Productivity Analysis",
+     "people": [
+      "John C. Haltiwanger",
+      "Lucia Foster"
+     ],
+     "n_nominations": 6,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Foster, Haltiwanger and Syverson, 2008: Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?, American Economic Review",
+     "people": [
+      "John C. Haltiwanger",
+      "Lucia Foster",
+      "Chad Syverson"
+     ],
+     "n_nominations": 3,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Davis, Haltiwanger and Schuh, 1996: Job Creation and Destruction, MIT Press",
+     "people": [
+      "John C. Haltiwanger"
+     ],
+     "n_nominations": 4,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Syverson, 2011: What Determines Productivity?, Journal of Economic Literature",
+     "people": [
+      "Chad Syverson"
+     ],
+     "n_nominations": 4,
+     "models": "O G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Using administrative microdata, this work showed how aggregate productivity and employment emerge from entry, exit and reallocation across heterogeneous establishments. The reservation is that it is a cumulative, measurement-based programme with diffuse credit and hard causal identification.",
+   "grouping_note": "Joins job-flow nominations (with Steven J. Davis) and productivity-dispersion nominations (with Syverson); Davis and Chang-Tai Hsieh are left out of the lineup.",
+   "nomination_ids": [
+    "openai/tommy-andersson/#4",
+    "openai/anna-dreber-almenberg/#2",
+    "openai/peter-fredriksson/#2",
+    "openai/per-stromberg/#2",
+    "openai/timo-boppart/#4",
+    "openai/richard-friberg/#4",
+    "openai/per-krusell/#3",
+    "gemini/timo-boppart/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 6,
+   "motivation": "for the empirical analysis of entry and competition in concentrated markets",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 1.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 1.0,
+    "gpt-5.5-2026-04-23": 0.5455,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 5,
+   "n_nominations": 6,
+   "nominations_per_model": {
+    "A": 4,
+    "O": 2,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Per Strömberg (A)",
+    "Randi Hjalmarsson (A)",
+    "Richard Friberg (A, O)",
+    "Tommy Andersson (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Timothy F. Bresnahan",
+     "born": 1953,
+     "affiliation": "Stanford University",
+     "n_nominations": 6,
+     "models": "A O",
+     "weight": 1.5455
+    },
+    {
+     "name": "Peter C. Reiss",
+     "born": 1957,
+     "affiliation": "Stanford University",
+     "n_nominations": 5,
+     "models": "A O",
+     "weight": 1.4545
+    }
+   ],
+   "people_others": [
+    {
+     "name": "John Sutton",
+     "affiliation": "London School of Economics",
+     "born": 1948,
+     "weight": 0.7273,
+     "n_nominations": 3
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Bresnahan and Reiss, 1991: Entry and Competition in Concentrated Markets, Journal of Political Economy",
+     "people": [
+      "Timothy F. Bresnahan",
+      "Peter C. Reiss"
+     ],
+     "n_nominations": 6,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Bresnahan and Reiss, 1990: Entry in Monopoly Markets, Review of Economic Studies",
+     "people": [
+      "Timothy F. Bresnahan",
+      "Peter C. Reiss"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Bresnahan and Reiss gave a transparent identification strategy inferring competitive conduct from entry and market size, replicated across many industries. Its impact is seen as narrower than BLP and the joint nominations as less unified.",
+   "grouping_note": "n025, n037 and n093 also name John Sutton, who has his own candidate and is left out of this lineup; n037 also cites Bresnahan 1982, which anchors the separate NEIO candidate.",
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#4",
+    "anthropic/per-stromberg/#5",
+    "anthropic/richard-friberg/#2",
+    "anthropic/randi-hjalmarsson/#2",
+    "openai/tommy-andersson/#3",
+    "openai/richard-friberg/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 7,
+   "motivation": "for the economic analysis of regulation and restructuring in network industries, especially electricity",
+   "jel_code": "L51",
+   "jel_code_mode": "L51",
+   "score": 1.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.6364,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 6,
+   "n_nominations": 8,
+   "nominations_per_model": {
+    "A": 3,
+    "O": 5,
+    "G": 0
+   },
+   "supporters": [
+    "Jan Teorell (O)",
+    "John Hassler (A, O)",
+    "Kerstin Enflo (O)",
+    "Per Krusell (O)",
+    "Peter Fredriksson (A, O)",
+    "Tommy Andersson (A)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Paul L. Joskow",
+     "born": 1947,
+     "affiliation": "Massachusetts Institute of Technology",
+     "n_nominations": 8,
+     "models": "A O",
+     "weight": 1.0909
+    },
+    {
+     "name": "Richard Schmalensee",
+     "born": 1944,
+     "affiliation": "Massachusetts Institute of Technology",
+     "n_nominations": 5,
+     "models": "A O",
+     "weight": 0.8182
+    },
+    {
+     "name": "Nancy L. Rose",
+     "born": 1961,
+     "affiliation": "Massachusetts Institute of Technology",
+     "n_nominations": 2,
+     "models": "O",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Severin Borenstein",
+     "affiliation": "University of California, Berkeley",
+     "born": 1957,
+     "weight": 0.0909,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Joskow and Schmalensee, 1983: Markets for Power, MIT Press",
+     "people": [
+      "Paul L. Joskow",
+      "Richard Schmalensee"
+     ],
+     "n_nominations": 3,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Joskow, 1997: \"Restructuring, Competition and Regulatory Reform in the U.S. Electricity Sector\", Journal of Economic Perspectives",
+     "people": [
+      "Paul L. Joskow"
+     ],
+     "n_nominations": 3,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Joskow and Rose, 1989: \"The Effects of Economic Regulation\", in Handbook of Industrial Organization",
+     "people": [
+      "Paul L. Joskow",
+      "Nancy L. Rose"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Their work shaped electricity-market restructuring and is highly relevant to decarbonization policy. Reservations are that the contribution is applied and less sharply delineated, and overlaps with Tirole's 2014 prize.",
+   "grouping_note": "Lineups vary between Joskow alone, Joskow-Schmalensee and Joskow-Rose-Borenstein; Severin Borenstein is left out.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#3",
+    "anthropic/tommy-andersson/#4",
+    "anthropic/peter-fredriksson/#4",
+    "openai/john-hassler/#5",
+    "openai/peter-fredriksson/#5",
+    "openai/kerstin-enflo/#5",
+    "openai/jan-teorell/#5",
+    "openai/per-krusell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 8,
+   "motivation": "for the analysis of network effects, compatibility and standards",
+   "jel_code": "L14",
+   "jel_code_mode": "L14",
+   "score": 1.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.6364,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 4,
+   "n_nominations": 5,
+   "nominations_per_model": {
+    "A": 3,
+    "O": 2,
+    "G": 0
+   },
+   "supporters": [
+    "Jan Teorell (A, O)",
+    "John Hassler (O)",
+    "Kerstin Enflo (A)",
+    "Per Krusell (A)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Michael L. Katz",
+     "born": 1951,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 5,
+     "models": "A O",
+     "weight": 1.0909
+    },
+    {
+     "name": "Carl Shapiro",
+     "born": 1955,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 5,
+     "models": "A O",
+     "weight": 1.0909
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Hal R. Varian",
+     "affiliation": "Google and University of California, Berkeley",
+     "born": 1947,
+     "weight": 0.1818,
+     "n_nominations": 1
+    },
+    {
+     "name": "Joseph Farrell",
+     "affiliation": "University of California, Berkeley",
+     "born": null,
+     "weight": 0.1818,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Katz and Shapiro, 1985: Network Externalities, Competition, and Compatibility, American Economic Review",
+     "people": [
+      "Michael L. Katz",
+      "Carl Shapiro"
+     ],
+     "n_nominations": 5,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Katz and Shapiro, 1986: Technology Adoption in the Presence of Network Externalities, Journal of Political Economy",
+     "people": [
+      "Michael L. Katz",
+      "Carl Shapiro"
+     ],
+     "n_nominations": 4,
+     "models": "A O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "This work is foundational for technology adoption, standards competition and digital-market policy. Reservations are shared credit with Farrell and Saloner and closeness to platform economics and Tirole's prize.",
+   "grouping_note": "Joseph Farrell (n049) and Hal R. Varian (n059) are each named once and left out of the lineup.",
+   "nomination_ids": [
+    "anthropic/kerstin-enflo/#4",
+    "anthropic/jan-teorell/#4",
+    "anthropic/per-krusell/#3",
+    "openai/john-hassler/#4",
+    "openai/jan-teorell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 9,
+   "motivation": "for the theoretical analysis of exclusionary practices, collusion and antitrust policy",
+   "jel_code": "L40",
+   "jel_code_mode": "L40",
+   "score": 1.0,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0909,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.9091
+   },
+   "models": "A G",
+   "n_models": 2,
+   "n_members": 6,
+   "n_nominations": 7,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 6
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)",
+    "John Hassler (A, G)",
+    "Kerstin Enflo (G)",
+    "Per Krusell (G)",
+    "Peter Fredriksson (G)",
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Michael D. Whinston",
+     "born": 1959,
+     "affiliation": "MIT",
+     "n_nominations": 7,
+     "models": "A G",
+     "weight": 1.0
+    },
+    {
+     "name": "B. Douglas Bernheim",
+     "born": 1955,
+     "affiliation": "Stanford University",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Whinston, 1990: Tying, Foreclosure, and Exclusion, American Economic Review",
+     "people": [
+      "Michael D. Whinston"
+     ],
+     "n_nominations": 4,
+     "models": "A G",
+     "in_nominations": true
+    },
+    {
+     "work": "Bernheim and Whinston, 1990: Multimarket Contact and Collusive Behavior, RAND Journal of Economics",
+     "people": [
+      "Michael D. Whinston",
+      "B. Douglas Bernheim"
+     ],
+     "n_nominations": 3,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Bernheim and Whinston, 1986: Menu Auctions, Resource Allocation, and Economic Influence, Quarterly Journal of Economics",
+     "people": [
+      "Michael D. Whinston",
+      "B. Douglas Bernheim"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Whinston's game-theoretic models of tying, exclusion and multimarket collusion are said to shape antitrust standards. The reservation is that the contribution is dispersed across topics and largely theoretical.",
+   "grouping_note": "Most nominations name Whinston alone; Bernheim appears only in n005.",
+   "nomination_ids": [
+    "anthropic/john-hassler/#5",
+    "gemini/john-hassler/#5",
+    "gemini/anna-dreber-almenberg/#5",
+    "gemini/peter-fredriksson/#4",
+    "gemini/kerstin-enflo/#5",
+    "gemini/richard-friberg/#2",
+    "gemini/per-krusell/#5"
+   ],
+   "flags": [
+    "resembles an awarded motivation: 2014 Jean Tirole: \"for his analysis of market power and regulation\" [L51] (word overlap 0.40)"
+   ]
+  },
+  {
+   "rank": 10,
+   "motivation": "for models of firm selection, entry, exit and industry dynamics",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 1.0,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.3636,
+    "gemini-3.1-pro-preview": 0.6364
+   },
+   "models": "O G",
+   "n_models": 2,
+   "n_members": 4,
+   "n_nominations": 4,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 2,
+    "G": 2
+   },
+   "supporters": [
+    "Kerstin Enflo (G)",
+    "Per Krusell (G)",
+    "Per Strömberg (O)",
+    "Randi Hjalmarsson (O)"
+   ],
+   "roles": [
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Hugo A. Hopenhayn",
+     "born": 1959,
+     "affiliation": "University of California, Los Angeles",
+     "n_nominations": 3,
+     "models": "O G",
+     "weight": 0.7273
+    },
+    {
+     "name": "Boyan Jovanovic",
+     "born": 1951,
+     "affiliation": "New York University",
+     "n_nominations": 2,
+     "models": "O G",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Ariel Pakes",
+     "affiliation": "Harvard University",
+     "born": 1949,
+     "weight": 0.2727,
+     "n_nominations": 1
+    },
+    {
+     "name": "Richard Ericson",
+     "affiliation": "Columbia University",
+     "born": null,
+     "weight": 0.2727,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Hopenhayn, 1992: Entry, Exit, and Firm Dynamics in Long Run Equilibrium, Econometrica",
+     "people": [
+      "Hugo A. Hopenhayn"
+     ],
+     "n_nominations": 3,
+     "models": "O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Jovanovic, 1982: Selection and the Evolution of Industry, Econometrica",
+     "people": [
+      "Boyan Jovanovic"
+     ],
+     "n_nominations": 2,
+     "models": "O G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "These canonical models of learning, selection, entry and exit underpin the analysis of productivity dispersion and are central to quantitative macro and IO. The reservation is that their influence is embedded in later empirical and computational literatures.",
+   "grouping_note": "n078 also names Ericson and Pakes, whose dynamic oligopoly framework forms a separate candidate; they are left out here.",
+   "nomination_ids": [
+    "openai/per-stromberg/#3",
+    "openai/randi-hjalmarsson/#5",
+    "gemini/kerstin-enflo/#3",
+    "gemini/per-krusell/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 11,
+   "motivation": "for founding the new empirical industrial organization and the identification of market power",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 1.0,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 1.0
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 4,
+   "n_nominations": 4,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 4
+   },
+   "supporters": [
+    "John Hassler (G)",
+    "Per Krusell (G)",
+    "Peter Fredriksson (G)",
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "chair",
+    "co-opted",
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Timothy F. Bresnahan",
+     "born": 1953,
+     "affiliation": "Stanford University",
+     "n_nominations": 4,
+     "models": "G",
+     "weight": 1.0
+    },
+    {
+     "name": "Robert H. Porter",
+     "born": 1955,
+     "affiliation": "Northwestern University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Bresnahan, 1982: The Oligopoly Solution Concept is Identified, Economics Letters",
+     "people": [
+      "Timothy F. Bresnahan"
+     ],
+     "n_nominations": 4,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Porter, 1983: A Study of Cartel Stability: The Joint Executive Committee, 1880-1886, Bell Journal of Economics",
+     "people": [
+      "Robert H. Porter"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "These nominations credit Bresnahan with showing how market power and conduct can be identified without cost data, laying the groundwork for modern structural IO. No major reservation is raised.",
+   "grouping_note": "Porter appears only in n112 and is also in the separate Green-Porter collusion candidate.",
+   "nomination_ids": [
+    "gemini/john-hassler/#2",
+    "gemini/peter-fredriksson/#5",
+    "gemini/randi-hjalmarsson/#3",
+    "gemini/per-krusell/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 12,
+   "motivation": "for the analysis of relational contracts and incentives inside organizations",
+   "jel_code": "D23",
+   "jel_code_mode": "D23",
+   "score": 0.8182,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.2727,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "A O G",
+   "n_models": 3,
+   "n_members": 3,
+   "n_nominations": 5,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 2,
+    "G": 2
+   },
+   "supporters": [
+    "Per Krusell (O)",
+    "Per Strömberg (A, G, O)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "member",
+    "secretary"
+   ],
+   "people": [
+    {
+     "name": "Robert Gibbons",
+     "born": 1958,
+     "affiliation": "MIT",
+     "n_nominations": 5,
+     "models": "A O G",
+     "weight": 0.8182
+    },
+    {
+     "name": "George P. Baker",
+     "born": 1959,
+     "affiliation": "Harvard Business School",
+     "n_nominations": 3,
+     "models": "A O",
+     "weight": 0.4545
+    },
+    {
+     "name": "Kevin J. Murphy",
+     "born": 1958,
+     "affiliation": "University of Southern California",
+     "n_nominations": 3,
+     "models": "A O",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Baker, Gibbons and Murphy, 2002: Relational Contracts and the Theory of the Firm, Quarterly Journal of Economics",
+     "people": [
+      "Robert Gibbons",
+      "George P. Baker",
+      "Kevin J. Murphy"
+     ],
+     "n_nominations": 4,
+     "models": "A O G",
+     "in_nominations": true
+    },
+    {
+     "work": "Baker, Gibbons and Murphy, 1994: Subjective Performance Measures in Optimal Incentive Contracts, Quarterly Journal of Economics",
+     "people": [
+      "Robert Gibbons",
+      "George P. Baker",
+      "Kevin J. Murphy"
+     ],
+     "n_nominations": 3,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Gibbons, 2005: Four Formal(izable) Theories of the Firm?, Journal of Economic Behavior & Organization",
+     "people": [
+      "Robert Gibbons"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "This work makes informal incentives and repeated relationships central to firm governance and boundaries. The reservation is its proximity to contract theory and the Holmström and Williamson prizes.",
+   "grouping_note": "Two nominations name Gibbons alone; the others name the Baker-Gibbons-Murphy team.",
+   "nomination_ids": [
+    "anthropic/per-stromberg/#4",
+    "openai/per-stromberg/#5",
+    "openai/per-krusell/#4",
+    "gemini/tommy-andersson/#4",
+    "gemini/per-stromberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 13,
+   "motivation": "for methods to estimate production functions and productivity from firm-level data",
+   "jel_code": "D24",
+   "jel_code_mode": "D24",
+   "score": 0.7273,
+   "points_per_model": {
+    "claude-opus-5-5": 0.3636,
+    "gpt-5.5-2026-04-23": 0.3636,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A O",
+   "n_models": 2,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Randi Hjalmarsson (O)",
+    "Timo Boppart (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Ariel Pakes",
+     "born": 1949,
+     "affiliation": "Harvard University",
+     "n_nominations": 2,
+     "models": "A O",
+     "weight": 0.7273
+    },
+    {
+     "name": "G. Steven Olley",
+     "born": null,
+     "affiliation": "unknown",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.3636
+    },
+    {
+     "name": "James Levinsohn",
+     "born": 1958,
+     "affiliation": "Yale University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Amil Petrin",
+     "affiliation": "University of Minnesota",
+     "born": null,
+     "weight": 0.3636,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Olley and Pakes, 1996: The Dynamics of Productivity in the Telecommunications Equipment Industry, Econometrica",
+     "people": [
+      "Ariel Pakes",
+      "G. Steven Olley"
+     ],
+     "n_nominations": 2,
+     "models": "A O",
+     "in_nominations": true
+    },
+    {
+     "work": "Levinsohn and Petrin, 2003: \"Estimating Production Functions Using Inputs to Control for Unobservables\", Review of Economic Studies",
+     "people": [
+      "James Levinsohn"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "These methods underpin micro-founded productivity measurement, reallocation accounting and policy evaluation with plant-level data. The reservation is that credit is diffuse and overlaps with the BLP case.",
+   "grouping_note": "Joins the Olley-Pakes nomination with the Pakes-Levinsohn-Petrin one; Amil Petrin is left out of the lineup on a tie with Levinsohn.",
+   "nomination_ids": [
+    "anthropic/timo-boppart/#2",
+    "openai/randi-hjalmarsson/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 14,
+   "motivation": "for the empirical analysis of contracting and organizational form, notably franchising",
+   "jel_code": "L24",
+   "jel_code_mode": "L24",
+   "score": 0.6364,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.6364
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Per Strömberg (G)",
+    "Randi Hjalmarsson (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Francine Lafontaine",
+     "born": 1960,
+     "affiliation": "University of Michigan",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.6364
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Kathryn Shaw",
+     "affiliation": "Stanford University",
+     "born": 1955,
+     "weight": 0.1818,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Lafontaine, 1992: Agency Theory and Franchising: Some Empirical Results, RAND Journal of Economics",
+     "people": [
+      "Francine Lafontaine"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Lafontaine and Slade, 2007: Retail Contracting, AER",
+     "people": [
+      "Francine Lafontaine"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "She tests contracting theory with detailed franchise-contract data, opening the black box of organizational rules. No major reservation is raised.",
+   "grouping_note": "n154 also names Kathryn Shaw, who has a separate personnel-economics candidate and is left out here.",
+   "nomination_ids": [
+    "gemini/per-stromberg/#1",
+    "gemini/randi-hjalmarsson/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 15,
+   "motivation": "for contributions to the industrial organization of platform markets, market design and machine learning in IO",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 0.5455,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.5455
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 2
+   },
+   "supporters": [
+    "Jan Teorell (G)",
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "co-opted",
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Susan Athey",
+     "born": 1970,
+     "affiliation": "Stanford University",
+     "n_nominations": 2,
+     "models": "G",
+     "weight": 0.5455
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Athey, S., & Ellison, G., 2011: Position Auctions with Consumer Search, Quarterly Journal of Economics",
+     "people": [
+      "Susan Athey"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Athey & Imbens, 2016: Recursive partitioning for heterogeneous causal effects, PNAS",
+     "people": [
+      "Susan Athey"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Athey is credited with joining mechanism design and empirical IO in platform markets and improving causal inference in large datasets. The focus is mostly on modern digital economies.",
+   "grouping_note": "Joins two Athey nominations that stress platforms and machine learning respectively.",
+   "nomination_ids": [
+    "gemini/tommy-andersson/#2",
+    "gemini/jan-teorell/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 16,
+   "motivation": "for the theory of dynamic capabilities and the strategic management of the firm",
+   "jel_code": "D23",
+   "jel_code_mode": "L20",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.4545
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 3,
+   "n_nominations": 3,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 3
+   },
+   "supporters": [
+    "Jan Teorell (G)",
+    "Kerstin Enflo (G)",
+    "Timo Boppart (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "David J. Teece",
+     "born": 1948,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 3,
+     "models": "G",
+     "weight": 0.4545
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Teece, Pisano, and Shuen, 1997: Dynamic capabilities and strategic management, Strategic Management Journal",
+     "people": [
+      "David J. Teece"
+     ],
+     "n_nominations": 3,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Teece's dynamic capabilities explain how firms innovate and adapt to technological change. The framework is conceptual and hard to formalize or test at scale.",
+   "grouping_note": "Three nominations with the same person and work.",
+   "nomination_ids": [
+    "gemini/timo-boppart/#4",
+    "gemini/kerstin-enflo/#4",
+    "gemini/jan-teorell/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 17,
+   "motivation": "for making dynamic industry equilibrium and forward-looking firm decisions empirically tractable",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 0.4545,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.4545,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 2,
+    "G": 0
+   },
+   "supporters": [
+    "Richard Friberg (O)",
+    "Timo Boppart (O)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Ariel Pakes",
+     "born": 1949,
+     "affiliation": "Harvard University",
+     "n_nominations": 2,
+     "models": "O",
+     "weight": 0.4545
+    },
+    {
+     "name": "Richard Ericson",
+     "born": null,
+     "affiliation": "Columbia University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "John Rust",
+     "born": 1955,
+     "affiliation": "Georgetown University",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [
+    {
+     "name": "Patrick Bajari",
+     "affiliation": "University of Washington",
+     "born": 1968,
+     "weight": 0.3636,
+     "n_nominations": 1
+    }
+   ],
+   "defining_works": [
+    {
+     "work": "Ericson and Pakes, 1995: Markov-Perfect Industry Dynamics: A Framework for Empirical Work, Review of Economic Studies",
+     "people": [
+      "Ariel Pakes",
+      "Richard Ericson"
+     ],
+     "n_nominations": 2,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Rust, 1987: \"Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher\", Econometrica",
+     "people": [
+      "John Rust"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "Pakes and McGuire, 1994: Computing Markov-Perfect Nash Equilibria: Numerical Implications of a Dynamic Differentiated Product Model, RAND Journal of Economics",
+     "people": [
+      "Ariel Pakes"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work made investment, entry, exit and dynamic strategic conduct estimable and computable, enabling policy counterfactuals. Reservations are computational demands, model dependence and overlap with the BLP nomination through Pakes.",
+   "grouping_note": "Joins two dynamic structural IO nominations with different co-nominees; Patrick Bajari is left out of the lineup.",
+   "nomination_ids": [
+    "openai/timo-boppart/#5",
+    "openai/richard-friberg/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 18,
+   "motivation": "for the comparative analysis of legal origins and the economic consequences of regulation",
+   "jel_code": "L51",
+   "jel_code_mode": "L51",
+   "score": 0.3636,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.3636
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Jan Teorell (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Andrei Shleifer",
+     "born": 1961,
+     "affiliation": "Harvard University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    },
+    {
+     "name": "Rafael La Porta",
+     "born": 1960,
+     "affiliation": "Brown University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    },
+    {
+     "name": "Florencio Lopez de Silanes",
+     "born": 1966,
+     "affiliation": "SKEMA Business School",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.3636
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "La Porta, Lopez-de-Silanes, Shleifer, & Vishny, 1998: Law and Finance, Journal of Political Economy",
+     "people": [
+      "Andrei Shleifer",
+      "Rafael La Porta",
+      "Florencio Lopez de Silanes"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    },
+    {
+     "work": "Djankov, La Porta, Lopez-de-Silanes, & Shleifer, 2002: The Regulation of Entry, Quarterly Journal of Economics",
+     "people": [
+      "Andrei Shleifer",
+      "Rafael La Porta",
+      "Florencio Lopez de Silanes"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Their large data collection on entry regulation and legal systems is highly influential across political economy. The exogeneity of legal origins is heavily contested.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/jan-teorell/#2"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 19,
+   "motivation": "for the empirical analysis of media markets and the use of text as data",
+   "jel_code": "L82",
+   "jel_code_mode": "L82",
+   "score": 0.2727,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.2727
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Matthew Gentzkow",
+     "born": 1975,
+     "affiliation": "Stanford University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.2727
+    },
+    {
+     "name": "Jesse M. Shapiro",
+     "born": 1979,
+     "affiliation": "Harvard University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.2727
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Gentzkow and Shapiro, 2010: What Drives Media Slant? Evidence from U.S. Daily Newspapers, Econometrica",
+     "people": [
+      "Matthew Gentzkow",
+      "Jesse M. Shapiro"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work pioneers transparent measurement of media slant with large text datasets and sets a high reproducibility standard. No reservation is raised.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#3"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 20,
+   "motivation": "for the theory and empirical analysis of collusion under imperfect monitoring",
+   "jel_code": "L13",
+   "jel_code_mode": "L13",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.1818,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 2,
+   "n_nominations": 2,
+   "nominations_per_model": {
+    "A": 2,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (A)",
+    "Peter Fredriksson (A)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Robert H. Porter",
+     "born": 1955,
+     "affiliation": "Northwestern University",
+     "n_nominations": 2,
+     "models": "A",
+     "weight": 0.1818
+    },
+    {
+     "name": "Edward J. Green",
+     "born": null,
+     "affiliation": "Pennsylvania State University",
+     "n_nominations": 2,
+     "models": "A",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Green and Porter, 1984: Noncooperative Collusion under Imperfect Price Information, Econometrica",
+     "people": [
+      "Robert H. Porter",
+      "Edward J. Green"
+     ],
+     "n_nominations": 2,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Porter, 1983: A Study of Cartel Stability: The Joint Executive Committee, 1880-1886, Bell Journal of Economics",
+     "people": [
+      "Robert H. Porter"
+     ],
+     "n_nominations": 2,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work links repeated-game theory of price wars to a falsifiable empirical test that informs antitrust. Its scope is narrow and the evidence rests on a single historical cartel.",
+   "grouping_note": "Two identical-lineup nominations; Porter also appears in the NEIO candidate with Bresnahan.",
+   "nomination_ids": [
+    "anthropic/anna-dreber-almenberg/#5",
+    "anthropic/peter-fredriksson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 21,
+   "motivation": "for structural demand estimation using granular scanner data",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Aviv Nevo",
+     "born": null,
+     "affiliation": "University of Pennsylvania",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Nevo, 2001: Measuring Market Power in the Ready-to-Eat Cereal Industry, Econometrica",
+     "people": [
+      "Aviv Nevo"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Nevo showed how to apply structural demand estimation to large scanner datasets to measure market power. Robustness to specification choices remains a question.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/anna-dreber-almenberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 22,
+   "motivation": "for empirical models of selection and imperfect competition in insurance markets",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 0.1818,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.1818
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Richard Friberg (G)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Liran Einav",
+     "born": 1970,
+     "affiliation": "Stanford University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.1818
+    },
+    {
+     "name": "Amy Finkelstein",
+     "born": 1973,
+     "affiliation": "Massachusetts Institute of Technology",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.1818
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Einav, Finkelstein, and Cullen, 2010: Estimating Welfare in Insurance Markets Using Variation in Prices, Quarterly Journal of Economics",
+     "people": [
+      "Liran Einav",
+      "Amy Finkelstein"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "They imported structural IO tools into public finance to identify adverse selection and moral hazard. No reservation is raised.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/richard-friberg/#4"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 23,
+   "motivation": "for the economic theory of regulation and interest-group influence on regulators",
+   "jel_code": "L51",
+   "jel_code_mode": "L51",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0909,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Jan Teorell (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Sam Peltzman",
+     "born": 1940,
+     "affiliation": "University of Chicago",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Peltzman, 1976: Toward a More General Theory of Regulation, Journal of Law and Economics",
+     "people": [
+      "Sam Peltzman"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Peltzman, 1975: The Effects of Automobile Safety Regulation, Journal of Political Economy",
+     "people": [
+      "Sam Peltzman"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "This work treats regulators as political institutions shaped by interest groups. It is close to Stigler's 1982 prize.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/jan-teorell/#5"
+   ],
+   "flags": [
+    "Sam Peltzman: born 1940 (age 86 in 2026)"
+   ]
+  },
+  {
+   "rank": 24,
+   "motivation": "for the analysis of consumer search, price dispersion and obfuscation in retail markets",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0909,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Richard Friberg (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Glenn Ellison",
+     "born": 1965,
+     "affiliation": "MIT",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.0909
+    },
+    {
+     "name": "Hal R. Varian",
+     "born": 1947,
+     "affiliation": "University of California, Berkeley",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Varian, 1980: A Model of Sales, American Economic Review",
+     "people": [
+      "Hal R. Varian"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    },
+    {
+     "work": "Ellison and Ellison, 2009: Search, Obfuscation, and Price Elasticities on the Internet, Econometrica",
+     "people": [
+      "Glenn Ellison"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work is central to understanding price dispersion and e-commerce. Foundations are partly Diamond's and the pairing is less canonical.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/richard-friberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 25,
+   "motivation": "for the theory of contestable markets and industry cost structure",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0909,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "A",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 1,
+    "O": 0,
+    "G": 0
+   },
+   "supporters": [
+    "Timo Boppart (A)"
+   ],
+   "roles": [
+    "co-opted"
+   ],
+   "people": [
+    {
+     "name": "Robert D. Willig",
+     "born": 1947,
+     "affiliation": "Princeton University",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.0909
+    },
+    {
+     "name": "John C. Panzar",
+     "born": null,
+     "affiliation": "Northwestern University",
+     "n_nominations": 1,
+     "models": "A",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Baumol, Panzar and Willig, 1982: Contestable Markets and the Theory of Industry Structure, Harcourt Brace Jovanovich",
+     "people": [
+      "Robert D. Willig",
+      "John C. Panzar"
+     ],
+     "n_nominations": 1,
+     "models": "A",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The theory shaped regulatory thinking on natural monopoly and multiproduct costs. Its empirical relevance is contested and Baumol is deceased.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "anthropic/timo-boppart/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 26,
+   "motivation": "for the empirical analysis of human resource management and insider econometrics",
+   "jel_code": "M50",
+   "jel_code_mode": "M50",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Per Strömberg (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Kathryn Shaw",
+     "born": 1954,
+     "affiliation": "Stanford University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Ichniowski, Shaw, and Prennushi, 1997: The Effects of Human Resource Management Practices on Productivity: A Study of Steel Finishing Lines, American Economic Review",
+     "people": [
+      "Kathryn Shaw"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Shaw uses detailed plant-level data to analyze incentive structures and productivity. No reservation is raised.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/per-stromberg/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 27,
+   "motivation": "for contributions to contract theory and the theory of the firm",
+   "jel_code": "D23",
+   "jel_code_mode": "D23",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0,
+    "gemini-3.1-pro-preview": 0.0909
+   },
+   "models": "G",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 0,
+    "G": 1
+   },
+   "supporters": [
+    "Tommy Andersson (G)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Patrick Bolton",
+     "born": 1957,
+     "affiliation": "Imperial College London / Columbia University",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.0909
+    },
+    {
+     "name": "Mathias Dewatripont",
+     "born": 1959,
+     "affiliation": "Université libre de Bruxelles",
+     "n_nominations": 1,
+     "models": "G",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "Bolton, P., & Dewatripont, M., 2005: Contract Theory, MIT Press",
+     "people": [
+      "Patrick Bolton",
+      "Mathias Dewatripont"
+     ],
+     "n_nominations": 1,
+     "models": "G",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "Their synthesis of contract theory maps incentive constraints within hierarchies with outstanding clarity. Contract theory belongs mainly to another field.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "gemini/tommy-andersson/#5"
+   ],
+   "flags": []
+  },
+  {
+   "rank": 28,
+   "motivation": "for the empirical measurement of markups and market power from production data",
+   "jel_code": "L11",
+   "jel_code_mode": "L11",
+   "score": 0.0909,
+   "points_per_model": {
+    "claude-opus-5-5": 0.0,
+    "gpt-5.5-2026-04-23": 0.0909,
+    "gemini-3.1-pro-preview": 0.0
+   },
+   "models": "O",
+   "n_models": 1,
+   "n_members": 1,
+   "n_nominations": 1,
+   "nominations_per_model": {
+    "A": 0,
+    "O": 1,
+    "G": 0
+   },
+   "supporters": [
+    "Anna Dreber Almenberg (O)"
+   ],
+   "roles": [
+    "member"
+   ],
+   "people": [
+    {
+     "name": "Jan De Loecker",
+     "born": 1977,
+     "affiliation": "KU Leuven",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    },
+    {
+     "name": "Jan Eeckhout",
+     "born": 1968,
+     "affiliation": "Universitat Pompeu Fabra",
+     "n_nominations": 1,
+     "models": "O",
+     "weight": 0.0909
+    }
+   ],
+   "people_others": [],
+   "defining_works": [
+    {
+     "work": "De Loecker and Warzynski, 2012: Markups and Firm-Level Export Status, American Economic Review",
+     "people": [
+      "Jan De Loecker"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    },
+    {
+     "work": "De Loecker, Eeckhout and Unger, 2020: The Rise of Market Power and the Macroeconomic Implications, Quarterly Journal of Economics",
+     "people": [
+      "Jan De Loecker",
+      "Jan Eeckhout"
+     ],
+     "n_nominations": 1,
+     "models": "O",
+     "in_nominations": true
+    }
+   ],
+   "reasoning": "The work reopened markup measurement and linked IO to macro concerns about concentration. Estimates are sensitive to production-function assumptions and are under active robustness debate.",
+   "grouping_note": "",
+   "nomination_ids": [
+    "openai/anna-dreber-almenberg/#5"
+   ],
+   "flags": []
+  }
+ ]
+}

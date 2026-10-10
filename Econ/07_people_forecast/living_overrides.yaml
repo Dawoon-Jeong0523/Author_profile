@@ -1,0 +1,41 @@
+# Manual decisions on living_check.csv (10 October 2026), after a targeted Wikidata search for the rows that needed a
+# look. status: living | deceased. The notebook combines this file with living_check.csv: Wikidata DECEASED rows count
+# as deceased unless overridden here; rows listed here as deceased count as deceased with the given year.
+John Moore:
+  status: living
+  qid: Q1700375
+  note: "check_living matched John Bassett Moore (jurist, 1860-1947); the economist is John Hardman Moore, b. 1954-05-07, no date of death"
+Raj Chetty:
+  status: living
+  qid: Q1153274
+  note: "first candidate was a professor of English; the economist Q1153274 b. 1979-08-04, no date of death"
+Anthony A. Smith Jr.:
+  status: living
+  qid: Q41800076
+  note: "no match under the full name; Anthony A. Smith (economist, Yale), b. 1959, no date of death"
+Florencio Lopez-de-Silanes:
+  status: living
+  qid: Q1429409
+  note: "found as Florencio Lopez de Silanes (Mexican economist), b. 1966-02-16, no date of death"
+Herakles Polemarchakis:
+  status: living
+  qid: Q102965374
+  note: "Herakles M. Polemarchakis (Ph.D. Harvard 1977), no date of death"
+John Sutton:
+  status: living
+  qid: ""
+  note: "no Wikidata item for the economist (LSE, b. 1948); no death known to the editor; not verified"
+Mark Armstrong:
+  status: living
+  qid: ""
+  note: "no Wikidata item for the economist (Oxford, b. 1964); no death known to the editor; not verified"
+Hugo Sonnenschein:
+  status: deceased
+  qid: Q1967627
+  died: "2021"
+  note: "Wikidata d. 2021-07-15; also stated by the Preseen field-forecast write-up (University of Chicago memorial)"
+Jonathan Eaton:
+  status: deceased
+  qid: Q29469841
+  died: "2024"
+  note: "Wikidata d. 2024; Yale memorial cited by the Preseen field-forecast write-up"
