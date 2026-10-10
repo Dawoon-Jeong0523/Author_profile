@@ -70,7 +70,8 @@ the primary JEL code of the 2026 motivation, coded the same way.
 6. **The 2026 committee**: roster, roles and field coverage from the member profiles, a limited adjustment.
 7. **The paper's evidence and its limits**: its coefficients and fit are not probabilities for 2026.
 
-**Results** (Preseen, 10 October; one run per arm; [write-ups](04_field_forecast/results/)):
+**Results** (Preseen, 10 October; one run per arm; Preseen reports: [treatment](preseen_report/Treatment_field.pdf),
+[control](preseen_report/Control_field.pdf); [write-ups](04_field_forecast/results/)):
 
 ![2026 economics field forecast: treatment against control](../docs/nobel2026/economics_2026_fields_top5.png)
 
@@ -151,11 +152,14 @@ Options are matched by contribution; the people named need not match the laureat
 stage 1); age and timing; the prizes already awarded; per field, the candidate combinations with the people's years of
 birth and their defining works; per field, the virtual committee's support and reasoning. **Control**: no notes.
 
-**Results** (Preseen, 10 October 2026, 15:03-15:37 CDT; one run per arm;
+**Results** (Preseen, 10 October 2026, 15:03-15:37 CDT; one run per arm; Preseen reports:
+[treatment](preseen_report/Treatment_candidate.pdf), [control](preseen_report/Control_candidate.pdf);
 [forecast table](../Data/Result/Economics/nobel_economics_2026_people.csv),
 [write-ups](07_people_forecast/results/)):
 
-![2026 economics people forecast: treatment against control](../docs/nobel2026/economics_2026_people_top5.png)
+![2026 economics people forecast: top 5 candidates of the treatment](../docs/nobel2026/economics_2026_people_top5_treatment.png)
+
+With the control's probability beside each candidate: [figure](../docs/nobel2026/economics_2026_people_top5.png).
 
 | Treatment rank | Candidate | Treatment | Control (rank) |
 |---:|---|---:|---:|
@@ -217,6 +221,7 @@ birth and their defining works; per field, the virtual committee's support and r
 | [`05_laureates/`](05_laureates/README.md) | age at the award of the 99 laureates |
 | [`06_candidates/`](06_candidates/README.md) | stage 2: virtual committee, Claude integration, candidate pool |
 | [`07_people_forecast/`](07_people_forecast/README.md) | stage 3: context notes, question, living check, run script |
+| [`preseen_report/`](preseen_report/) | the Preseen reports (PDF) of the four runs: field and people questions, treatment and control |
 | [`record/`](record/) | detailed record of the work (LaTeX) |
 
 ## References

@@ -28,6 +28,7 @@ ECON = ROOT / "Econ"
 DATA = ROOT / "Data" / "Result" / "Economics"
 OUT = Path(__file__).resolve().parent
 INK, MUTED, BRAND, GRID = "#172F40", "#556773", "#087F74", "#E4E9EC"
+NEUTRAL = "#8AA4B4"          # the repo's secondary bar colour: the options after the leader in single-series charts
 TREAT, CONTROL = "#00876f", "#6250d6"
 TOP_N = 5
 
@@ -221,6 +222,69 @@ def people_figure():
          ("Treatment (context notes)", "Control (no context)"))
 
 
+def people_treatment_figure():
+    """Top 5 candidates of the treatment arm only: candidate combination, then **field**: finding."""
+    runs = load_runs(ECON / "07_people_forecast" / "preseen_exp" / "people30")
+    if runs is None:
+        print("people question: runs not complete yet; treatment figure skipped")
+        return
+    df = table(runs)
+    parts = df.option.str.extract(r"^(.*) — (.*) \((.*)\)$")
+    df["contribution"], df["people"], df["field"] = parts[0], parts[1], parts[2]
+    surname = lambda n: n.split()[-1] if not n.endswith("Jr.") else n.split()[-2]
+    top = df[df.treatment_rank <= TOP_N]
+    n, xmax = len(top), 20
+    notes = ["Treatment: 14 context notes (the field forecast, the laureate age record, the prizes already awarded, the candidates "
+             "with their defining works, the virtual committee's support and reasoning), all as assumed true.",
+             "Preseen, 10 Oct 2026, one run. 30 candidates nominated by a virtual committee (personas of the 2026 committee members on "
+             "three language models) in the five leading fields of the field forecast; conditional on one of them, no \"Other\"."]
+    k_notes = len(notes)
+    foot = 0.3 + 0.55 * k_notes + 0.6
+    height = 1.85 + 0.85 * n + foot
+    with plt.rc_context({"font.family": "DejaVu Sans", "svg.fonttype": "none"}):
+        fig = plt.figure(figsize=(14, height), facecolor="white")
+        fig.text(0.065, 1 - 0.34 / height, "KNOWLEDGE LAB + PRESEEN", fontsize=12, weight="bold", color=BRAND, va="top")
+        fig.text(0.065, 1 - 0.72 / height, "2026 Nobel Prize in Economic Sciences", fontsize=25, weight="bold", color=INK, va="top")
+        fig.text(0.065, 1 - 1.28 / height, "Who: top 5 of 30 candidates, with their field and finding", fontsize=13.5, color=MUTED, va="top")
+        ax = fig.add_axes([0.515, foot / height, 0.405, (0.85 * n - 0.05) / height])
+        ax.set_ylim(n - 0.45, -0.65)
+        ax.set_xlim(0, xmax)
+        ax.set_xticks(range(0, xmax + 1, 5))
+        ax.xaxis.set_major_formatter(PercentFormatter(xmax=100, decimals=0))
+        ax.tick_params(axis="x", length=0, pad=9, labelsize=11, colors=MUTED)
+        ax.set_yticks([])
+        ax.grid(axis="x", color=GRID, linewidth=0.8, zorder=0)
+        for sp in ax.spines.values():
+            sp.set_visible(False)
+        fig.canvas.draw()
+        renderer = fig.canvas.get_renderer()
+        trans = ax.get_yaxis_transform()
+        for i, r in enumerate(top.itertuples()):
+            first = r.treatment_rank == 1
+            people = " · ".join(surname(x.strip()) for x in r.people.split(","))
+            ax.text(-1.11, i - 0.12, f"{r.treatment_rank:02d}  {people}", transform=trans, ha="left", va="center",
+                    fontsize=15.5, weight="bold" if first else "normal", color=INK)
+            fld = ax.text(-1.11, i + 0.19, FIELD_SHORT[r.field], transform=trans, ha="left", va="center", fontsize=11.5,
+                          weight="bold", color=INK)
+            bb = fld.get_window_extent(renderer=renderer)                      # continue the line right after the bold field
+            x_axes = ax.transAxes.inverted().transform((bb.x1, bb.y0))[0]
+            ax.text(x_axes, i + 0.19, f": {short_contribution(r.contribution)}", transform=trans, ha="left", va="center",
+                    fontsize=11.5, color=MUTED)
+            hbar(ax, i, r.treatment, 0.43, TREAT if first else NEUTRAL)
+            ax.text(r.treatment + xmax / 60, i, f"{r.treatment:.1f}%", ha="left", va="center", fontsize=19 if first else 17,
+                    weight="bold" if first else "normal", color=INK)
+        for k, note in enumerate(notes):
+            fig.text(0.065, (0.3 + 0.55 * (k_notes - 1 - k) + 0.25) / height, textwrap.fill(note, width=150),
+                     fontsize=10.5, color=INK if k == 0 else MUTED, va="center")
+        stem = "economics_2026_people_top5_treatment"
+        for folder in (OUT, DATA):
+            for suffix in ("png", "svg"):
+                fig.savefig(folder / f"{stem}.{suffix}", dpi=200, facecolor="white")
+            print(f"{(folder / stem).relative_to(ROOT)}.png / .svg")
+        plt.close(fig)
+
+
 if __name__ == "__main__":
     fields_figure()
     people_figure()
+    people_treatment_figure()
