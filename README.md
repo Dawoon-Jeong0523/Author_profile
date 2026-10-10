@@ -302,8 +302,6 @@ award; all 30 options with their named people:
 <details>
 <summary><b>Field forecast:</b> Macro 16.9 % · <b>people forecast:</b> Berry, Levinsohn and Pakes 16.7 % (structural demand and market-power estimation). <i>Click to expand.</i></summary>
 
-![2026 Economic Sciences: field forecast, treatment against control](docs/nobel2026/economics_2026_fields_top5.png)
-
 ![2026 Economic Sciences: people forecast, top 5 candidates](docs/nobel2026/economics_2026_people_top5_treatment.png)
 
 **Preseen reports:** field question — [treatment](Econ/preseen_report/Treatment_field.pdf) ·
