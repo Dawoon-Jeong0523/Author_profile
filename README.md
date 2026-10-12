@@ -11,7 +11,7 @@ probabilities with and without those cards. This README shows the forecasts for 
 [Medicine](#physiology-or-medicine-awarded-5-october) ·
 [Physics](#physics-awarded-6-october) ·
 [Chemistry](#chemistry-awarded-7-october) ·
-[Economic Sciences](#economic-sciences-to-be-announced-12-october) ·
+[Economic Sciences](#economic-sciences-awarded-12-october) ·
 [What we learned](#what-we-learned-so-far) ·
 [What changed between versions](#what-changed-between-versions) ·
 [How the forecasts are made](#how-the-forecasts-are-made) ·
@@ -33,7 +33,7 @@ are those of the public dashboard (https://dawoon-jeong0523.github.io/Author_pro
 1–2 October. Forecast data: [`Data/Result/`](Data/Result/); figures:
 [`docs/nobel2026/make_figures.py`](docs/nobel2026/make_figures.py).
 Each field below is collapsed: click its summary line to open the figures, tables and set-up. The economics prize
-(announced on 12 October) is forecast in two stages, the field first and then the candidates; see its section.
+(awarded on 12 October) is forecast in two stages, the field first and then the candidates; see its section.
 
 ### Physiology or Medicine (awarded 5 October)
 
@@ -297,12 +297,37 @@ award; all 30 options with their named people:
 
 </details>
 
-### Economic Sciences (to be announced 12 October)
+### Economic Sciences (awarded 12 October)
 
 <details>
-<summary><b>Field forecast:</b> Macro 16.9 % · <b>people forecast:</b> Berry, Levinsohn and Pakes 16.7 % (structural demand and market-power estimation). <i>Click to expand.</i></summary>
+<summary><b>Award:</b> Hall and Woodford (microeconomic foundations of macroeconomic stabilisation) · <b>field forecast:</b> Macro first (16.9 %) · <b>people forecast:</b> Woodford in the second of 30 options, with Galí and Gertler (12.6 %); Hall alone 28th. <i>Click to expand.</i></summary>
 
-![2026 Economic Sciences: people forecast, top 5 candidates](docs/nobel2026/economics_2026_people_top5_treatment.png)
+![2026 Economic Sciences: people forecast, top 5 candidates and the options naming a laureate](docs/nobel2026/economics_2026_people_top5_vs_award.png)
+
+**Award:** Robert E. Hall and Michael Woodford, in equal shares, "for microeconomic foundations of macroeconomic
+stabilisation" — in the words of the Academy's press release, "for demonstrating how economic models could be
+reconstructed to revitalise stabilisation policy".
+
+This time one of the two laureates was inside Preseen's top 5, but in a different combination: the treatment's
+second option, **Woodford + Galí + Gertler — Macro: New Keynesian monetary economics (12.6 %)**. So Michael Woodford,
+and macroeconomic stabilisation as the prize-winning contribution, were a near miss. With Arna, we changed the
+prediction model for this prize to a two-stage design — (1) field prediction, then (2) candidate prediction within the
+top fields — and the field stage had already put Macro at the top (16.9 %). What we missed was the combination: Robert
+Hall did not appear in any of our top-5 configurations, and the committee paired Woodford with him rather than with
+Galí and Gertler.
+
+- **Field question: Macro**, first in both arms (treatment 16.9 %, control 17.7 %; log scores −1.78 and −1.73 against
+  −2.64 for a uniform forecast).
+- **People question:** Woodford's option with Galí and Gertler was second in both arms (treatment 12.6 %, control
+  17.3 %); it covers Woodford's half of the motivation and is the nearest of the 30 options, a partial match. Hall was
+  in the pool alone, for consumption under rational expectations and labour-market fluctuations: 28th in the treatment
+  (1.1 %), 15th in the control (1.9 %). The treatment's reservations, verbatim: "Two separate strands make the motivation
+  less compact; consumption and expectations overlap; advanced age".
+- **Virtual committee:** Woodford was named in 29 of 165 macro nominations, by all eleven personas; Hall in 15, by ten,
+  mostly at rank 4 or 5 and alone. No ballot named the two together: the committee saw both halves of the prize as
+  separate contributions.
+
+Details, scores and the resolution of both questions: [Econ/README.md](Econ/README.md#outcome-12-october-2026).
 
 **Preseen reports:** field question — [treatment](Econ/preseen_report/Treatment_field.pdf) ·
 [control](Econ/preseen_report/Control_field.pdf); people question —
@@ -327,6 +352,9 @@ The economics prize is forecast in two stages ([full description](Econ/README.md
   committee's support and reasoning. Both arms put Berry, Levinsohn and Pakes first and Woodford, Galí and Gertler
   second; the treatment shifts probability from Public to Production/IO and spreads it further down each field.
 
+The figures and tables were made on 10 October, before the announcement; the comparison chart without the award
+marks: [figure](docs/nobel2026/economics_2026_people_top5_treatment.png).
+
 Forecast data: [`Data/Result/Economics/`](Data/Result/Economics/); figures:
 [`docs/nobel2026/make_econ_figures.py`](docs/nobel2026/make_econ_figures.py).
 
@@ -344,9 +372,14 @@ Forecast data: [`Data/Result/Economics/`](Data/Result/Economics/); figures:
   fixed weight on patents, theoretical discoveries without patents fell too.
 - **Name the people the evidence supports, not three by default.** Physics went to one person; the committee had said
   so in half of its nominations.
+- **The pairing is part of the forecast.** Economics joined two lines of work, Hall's on consumption and Woodford's on
+  price setting and monetary policy, under one motivation. Our virtual committee nominated both, but separately:
+  Woodford with Galí and Gertler (second of 30), Hall alone (28th). Options built one contribution at a time cannot
+  express a pairing across contributions unless some ballot proposes it.
 - **Where the awarded discoveries stood.** Medicine's optogenetics was the first named option when the cards were the
   main evidence, but sixth without them; Physics' neutrino astronomy ranked 9th to 14th under every condition;
-  Chemistry's non-linear effects and autocatalysis were outside every list.
+  Chemistry's non-linear effects and autocatalysis were outside every list; in Economics the field (Macro) was first in
+  both arms, and one laureate, Woodford, was in the second option, with other partners.
 - **A list without "Other" cannot score a surprise.** The 30-option questions forecast which listed discovery wins,
   given that one does; the Chemistry award fell outside the list, so all five forecasts of 6 October are annulled, and
   only the 12 + Other question of 1–2 October can be scored. The one signal we had (a 2021 Nobel Symposium on
@@ -461,7 +494,7 @@ Nobel Prize/
 ├── experiment/                       committee, candidate lists, cards, Preseen runs (see Experiments)
 ├── Econ/                             economics forecast: field question, virtual committee of the 2026 members, people question (Econ/README.md)
 ├── handoff/                          context and forecasts for Preseen
-├── manuscript/                       LaTeX write-up of the 1 October experiment
+├── manuscript/                       nobel2026_pipeline.tex/.pdf: models, content and usage of the whole pipeline (four prizes); LaTeX write-up of the 1 October experiment
 ├── pipeline/profile_person.py        name -> author id -> Slurm job -> dashboard + record
 ├── notebook/                         author_profile.ipynb, nobel_laureate_papers.ipynb, prizeatlas_crawl.ipynb, np_common.py
 ├── jobs/                             Slurm runners

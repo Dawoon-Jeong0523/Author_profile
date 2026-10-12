@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """make_econ_figures.py: README figures of the 2026 economics forecast, treatment against control.
 
-    $PY docs/nobel2026/make_econ_figures.py     # -> docs/nobel2026/economics_2026_{fields,people}_top5.{png,svg}
+    $PY docs/nobel2026/make_econ_figures.py     # -> docs/nobel2026/economics_2026_{fields,people}_top5.{png,svg},
+                                                #    economics_2026_people_top5_{treatment,vs_award}.{png,svg}
                                                 #    (+ copies and the data CSVs in Data/Result/Economics/)
 
 Each figure shows the top five options of the treatment arm with the control's probability beside it, then the
@@ -10,6 +11,11 @@ Data: the Preseen run files of Econ/04_field_forecast/preseen_exp/fields14_nobel
 Prize in Economic Sciences ...") and Econ/07_people_forecast/preseen_exp/people30 (people question; skipped until both
 arms are complete). Layout and ink colours follow make_figures.py; the two arm colours (teal #00876f treatment, violet
 #6250d6 control) pass the dataviz palette validator (lightness, chroma, CVD and normal-vision separation, contrast).
+
+After the announcement (12 Oct 2026: Robert E. Hall and Michael Woodford) the treatment chart is also drawn against the
+award (economics_2026_people_top5_vs_award): the options that name a laureate are drawn in the award colour of
+make_figures.py (#C2410C; passes the validator against the teal leader) and, when outside the top 5, shown below a gap
+with their rank. No option named the awarded pair, so each laureate's option is tagged with the laureate it names.
 """
 import json
 import re
@@ -30,7 +36,9 @@ OUT = Path(__file__).resolve().parent
 INK, MUTED, BRAND, GRID = "#172F40", "#556773", "#087F74", "#E4E9EC"
 NEUTRAL = "#8AA4B4"          # the repo's secondary bar colour: the options after the leader in single-series charts
 TREAT, CONTROL = "#00876f", "#6250d6"
+AWARD = "#C2410C"          # awarded option, as in make_figures.py
 TOP_N = 5
+LAUREATES = ["Robert E. Hall", "Michael Woodford"]   # 2026, "for microeconomic foundations of macroeconomic stabilisation"
 
 
 def load_runs(run_dir):
@@ -222,8 +230,11 @@ def people_figure():
          ("Treatment (context notes)", "Control (no context)"))
 
 
-def people_treatment_figure():
-    """Top 5 candidates of the treatment arm only: candidate combination, then **field**: finding."""
+def people_treatment_figure(award=False):
+    """Top 5 candidates of the treatment arm only: candidate combination, then **field**: finding.
+
+    award=True: the options naming a laureate (LAUREATES) in the award colour with a tag, those outside the top 5 below a
+    gap with their rank -> economics_2026_people_top5_vs_award."""
     runs = load_runs(ECON / "07_people_forecast" / "preseen_exp" / "people30")
     if runs is None:
         print("people question: runs not complete yet; treatment figure skipped")
@@ -232,12 +243,25 @@ def people_treatment_figure():
     parts = df.option.str.extract(r"^(.*) — (.*) \((.*)\)$")
     df["contribution"], df["people"], df["field"] = parts[0], parts[1], parts[2]
     surname = lambda n: n.split()[-1] if not n.endswith("Jr.") else n.split()[-2]
+    names = lambda s: [x.strip() for x in s.split(",")]
+    df["laureates"] = df.people.map(lambda s: [x for x in names(s) if x in LAUREATES]) if award else [[]] * len(df)
     top = df[df.treatment_rank <= TOP_N]
-    n, xmax = len(top), 20
-    notes = ["Treatment: 14 context notes (the field forecast, the laureate age record, the prizes already awarded, the candidates "
-             "with their defining works, the virtual committee's support and reasoning), all as assumed true.",
-             "Preseen, 10 Oct 2026, one run. 30 candidates nominated by a virtual committee (personas of the 2026 committee members on "
-             "three language models) in the five leading fields of the field forecast; conditional on one of them, no \"Other\"."]
+    extra = df[(df.treatment_rank > TOP_N) & df.laureates.map(bool)]
+    rows = list(top.itertuples()) + ([None] if len(extra) else []) + list(extra.itertuples())
+    n, xmax = len(rows), 20
+    if award:
+        notes = ["Awarded 12 Oct 2026: Robert E. Hall and Michael Woodford, \"for microeconomic foundations of macroeconomic "
+                 "stabilisation\". No option named the pair: Woodford's option (02) paired him with Galí and Gertler, and Hall's own "
+                 "option (28) described his work on consumption and labour-market fluctuations.",
+                 "Treatment: Preseen, 10 Oct 2026, one run, 14 context notes. 30 candidates nominated by a virtual committee (personas of "
+                 "the 2026 committee members on three language models) in the five leading fields of the field forecast; no \"Other\"."]
+        subtitle = "Who: top 5 of 30 candidates, and the options naming a laureate"
+    else:
+        notes = ["Treatment: 14 context notes (the field forecast, the laureate age record, the prizes already awarded, the candidates "
+                 "with their defining works, the virtual committee's support and reasoning), all as assumed true.",
+                 "Preseen, 10 Oct 2026, one run. 30 candidates nominated by a virtual committee (personas of the 2026 committee members on "
+                 "three language models) in the five leading fields of the field forecast; conditional on one of them, no \"Other\"."]
+        subtitle = "Who: top 5 of 30 candidates, with their field and finding"
     k_notes = len(notes)
     foot = 0.3 + 0.55 * k_notes + 0.6
     height = 1.85 + 0.85 * n + foot
@@ -245,7 +269,7 @@ def people_treatment_figure():
         fig = plt.figure(figsize=(14, height), facecolor="white")
         fig.text(0.065, 1 - 0.34 / height, "KNOWLEDGE LAB + PRESEEN", fontsize=12, weight="bold", color=BRAND, va="top")
         fig.text(0.065, 1 - 0.72 / height, "2026 Nobel Prize in Economic Sciences", fontsize=25, weight="bold", color=INK, va="top")
-        fig.text(0.065, 1 - 1.28 / height, "Who: top 5 of 30 candidates, with their field and finding", fontsize=13.5, color=MUTED, va="top")
+        fig.text(0.065, 1 - 1.28 / height, subtitle, fontsize=13.5, color=MUTED, va="top")
         ax = fig.add_axes([0.515, foot / height, 0.405, (0.85 * n - 0.05) / height])
         ax.set_ylim(n - 0.45, -0.65)
         ax.set_xlim(0, xmax)
@@ -259,24 +283,33 @@ def people_treatment_figure():
         fig.canvas.draw()
         renderer = fig.canvas.get_renderer()
         trans = ax.get_yaxis_transform()
-        for i, r in enumerate(top.itertuples()):
-            first = r.treatment_rank == 1
+        for i, r in enumerate(rows):
+            if r is None:
+                ax.text(-1.11, i, "···", transform=trans, ha="left", va="center", fontsize=18, color=MUTED)
+                continue
+            first, named = r.treatment_rank == 1, bool(r.laureates)
+            ink = AWARD if named else INK
             people = " · ".join(surname(x.strip()) for x in r.people.split(","))
-            ax.text(-1.11, i - 0.12, f"{r.treatment_rank:02d}  {people}", transform=trans, ha="left", va="center",
-                    fontsize=15.5, weight="bold" if first else "normal", color=INK)
+            who = ax.text(-1.11, i - 0.12, f"{r.treatment_rank:02d}  {people}", transform=trans, ha="left", va="center",
+                          fontsize=15.5, weight="bold" if (first or named) else "normal", color=ink)
+            if named:                                                          # tag right after the names
+                bb = who.get_window_extent(renderer=renderer)
+                x_axes = ax.transAxes.inverted().transform((bb.x1, bb.y0))[0]
+                ax.text(x_axes, i - 0.12, "   ◀ laureate " + " and ".join(surname(x) for x in r.laureates), transform=trans,
+                        ha="left", va="center", fontsize=11.5, weight="bold", color=AWARD)
             fld = ax.text(-1.11, i + 0.19, FIELD_SHORT[r.field], transform=trans, ha="left", va="center", fontsize=11.5,
-                          weight="bold", color=INK)
+                          weight="bold", color=ink)
             bb = fld.get_window_extent(renderer=renderer)                      # continue the line right after the bold field
             x_axes = ax.transAxes.inverted().transform((bb.x1, bb.y0))[0]
             ax.text(x_axes, i + 0.19, f": {short_contribution(r.contribution)}", transform=trans, ha="left", va="center",
-                    fontsize=11.5, color=MUTED)
-            hbar(ax, i, r.treatment, 0.43, TREAT if first else NEUTRAL)
+                    fontsize=11.5, color=AWARD if named else MUTED, weight="bold" if named else "normal")
+            hbar(ax, i, r.treatment, 0.43, AWARD if named else TREAT if first else NEUTRAL)
             ax.text(r.treatment + xmax / 60, i, f"{r.treatment:.1f}%", ha="left", va="center", fontsize=19 if first else 17,
-                    weight="bold" if first else "normal", color=INK)
+                    weight="bold" if (first or named) else "normal", color=ink)
         for k, note in enumerate(notes):
             fig.text(0.065, (0.3 + 0.55 * (k_notes - 1 - k) + 0.25) / height, textwrap.fill(note, width=150),
                      fontsize=10.5, color=INK if k == 0 else MUTED, va="center")
-        stem = "economics_2026_people_top5_treatment"
+        stem = "economics_2026_people_top5_vs_award" if award else "economics_2026_people_top5_treatment"
         for folder in (OUT, DATA):
             for suffix in ("png", "svg"):
                 fig.savefig(folder / f"{stem}.{suffix}", dpi=200, facecolor="white")
@@ -288,3 +321,4 @@ if __name__ == "__main__":
     fields_figure()
     people_figure()
     people_treatment_figure()
+    people_treatment_figure(award=True)
