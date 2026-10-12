@@ -1,7 +1,8 @@
 # Forecasting the 2026 Nobel Prize in Economic Sciences: field first, then candidates
 
-> **State on 10 October 2026.** Both forecasts are done; the outcome (announcement on Monday 12 October 2026, 11:45
-> CEST) is to be added. Working notes of the build: [`NOTES.md`](NOTES.md).
+> **Awarded 12 October 2026: Robert E. Hall and Michael Woodford.** The forecasts below were made on 10 October and are
+> unchanged; the outcome, where the laureates stood at each stage and the scores are in
+> [Outcome](#outcome-12-october-2026). Working notes of the build: [`NOTES.md`](NOTES.md).
 
 **Knowledge Lab (University of Chicago) + [Preseen](https://preseen.com).** The economics prize is forecast in two
 stages. First, Preseen's AI forecaster predicts **which field of economics** the prize will recognize, among 14 fields
@@ -13,6 +14,7 @@ the prize will recognize. Each Preseen question is run twice: a **control** with
 our context notes.
 
 **Contents** —
+[Outcome](#outcome-12-october-2026) ·
 [Overview](#overview) ·
 [Stage 1: the field](#stage-1-which-field) ·
 [Stage 2: candidates](#stage-2-candidates-from-the-five-leading-fields) ·
@@ -21,6 +23,74 @@ our context notes.
 [Limitations](#limitations) ·
 [Layout](#layout) ·
 [References](#references)
+
+---
+
+## Outcome (12 October 2026)
+
+**Award.** Robert E. Hall (Stanford University, born 1943) and Michael Woodford (Columbia University, born 1955), in
+equal shares, "for microeconomic foundations of macroeconomic stabilisation" (official motivation, Nobel Prize API).
+The Academy's [press release](https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/) opens: they are
+awarded "for demonstrating how economic models could be reconstructed to revitalise stabilisation policy". It describes
+models built on the forward-looking decisions of households (Hall: consumption and demand) and firms (Woodford: price
+setting and monetary policy), not on statistical links between aggregate variables.
+
+![2026 economics people forecast: top 5 candidates of the treatment and the options naming a laureate](../docs/nobel2026/economics_2026_people_top5_vs_award.png)
+
+**Reading.** This time one of the two laureates was inside Preseen's top 5, but in a different combination:
+
+> (Preseen result) **#2 (12.6 %): Woodford + Galí + Gertler — Macro: New Keynesian monetary economics**
+
+So Michael Woodford, and macroeconomic stabilisation as the prize-winning contribution, were a near miss. With Arna,
+we changed the prediction model for this prize to a two-stage design — (1) field prediction, then (2) candidate
+prediction within the top fields — and the field stage had already put Macro at the top (16.9 %). What we missed was
+the combination: Robert Hall did not appear in any of our top-5 configurations, and the committee paired Woodford
+with him rather than with Galí and Gertler.
+
+**Where the laureates stood at each stage:**
+
+| Stage | Michael Woodford | Robert E. Hall |
+|---|---|---|
+| 1. Field question | Macro first in both arms: treatment 16.9 %, control 17.7 % (first run, with the formal prize name in the title: 16.8 %, first, and 14.5 %, second) | the same field |
+| 2. Virtual committee (165 macro nominations) | named in 29, by all 11 personas on all three models; his candidate, the New Keynesian framework with Galí and Gertler, first in Macro (score 12.1 of 15) | named in 15, by 10 of the 11 personas, mostly at rank 4 or 5 and alone, for consumption under rational expectations and labour-market fluctuations; that candidate sixth of 26 in Macro (score 2.3 of 15); once with Shimer and Hagedorn for unemployment volatility (24th) |
+| Pool of 30 | Macro option 1 (with Galí and Gertler) | Macro option 6, alone |
+| 3. People question | option with Galí and Gertler: treatment 12.6 % (2nd of 30), control 17.3 % (2nd) | his own option: treatment 1.1 % (28th), control 1.9 % (15th) |
+
+No ballot named Hall and Woodford together. The virtual committee saw both halves of the prize, but as two separate
+contributions: Woodford's price setting and monetary policy as the leading macro candidate, Hall's consumption work as a
+solo candidate low on most ballots. The real committee joined a demand-side and a supply-side line of work under one
+motivation. Our nominations were grouped by contribution, so a pairing across two lines of work could become an option
+only if some ballot had proposed it.
+
+**Why Hall ranked low.** The treatment's reservations, verbatim: "Two separate strands make the motivation less
+compact; consumption and expectations overlap; advanced age" (83, from the birth year in the notes). The committee's
+reasoning had named closeness to the Friedman (1976) and Modigliani (1985) prizes and a contribution spread across
+topics. Before 2026, 6 of 99 laureates had been 80 or older at the award
+([age record](05_laureates/prompt/01_age_at_award.md)). The real motivation did not award the consumption result
+alone, but as one half of a joint programme with Woodford.
+
+**How the questions resolve.**
+
+- **Field question: Macro.** The motivation is about macroeconomic stabilisation, which falls under JEL E
+  (macroeconomics and monetary economics), so the field question resolves to Macro.
+- **People question: nearest option 2, a partial match.** Options are matched by contribution. Option 2 — "developing
+  the New Keynesian framework of nominal rigidities and welfare-based monetary policy analysis" — covers Woodford's half
+  of the motivation. Hall's option — "the intertemporal analysis of consumption under rational expectations and of
+  labor-market fluctuations" — covers part of Hall's half. Each names one laureate, and under the question's tie rule
+  (the most laureates, then the most specific statement of the recognized contribution) option 2 is the nearer match.
+  We report it as a near miss, not a hit: the awarded pair was not among the options.
+
+**Scores** (log score ln p; higher is better; one run per arm):
+
+| Question | Resolves to | Treatment | Control | Uniform |
+|---|---|---:|---:|---:|
+| Field (14 fields) | Macro | −1.78 (16.9 %) | −1.73 (17.7 %) | −2.64 (7.1 %) |
+| People (30 options), read as option 2 | Woodford, Galí, Gertler — New Keynesian | −2.07 (12.6 %) | −1.76 (17.3 %) | −3.40 (3.3 %) |
+
+Both arms beat a uniform forecast at both stages. The control scored a little better at both: it put slightly more on
+Macro and clearly more on the New Keynesian option (17.3 % against 12.6 %), while the treatment spread probability
+further down each field's list. Both arms cited the same recognitions of Woodford: the 2024 Nemmers Prize, the 2025
+BBVA award with Blanchard and Galí, and Clarivate's 2026 citation laureates.
 
 ---
 
@@ -41,11 +111,12 @@ flowchart LR
     Q --> C3["control: no context"]
 ```
 
-| Stage | Question | Status (10 October 2026) |
+| Stage | Question | Status (12 October 2026) |
 |---|---|---|
 | 1. Field | "Which field of economics will the 2026 Nobel Prize in Economic Sciences recognize?" (14 options, no Other) | done; treatment top five: Macro 16.9 %, Trade 15.6 %, Production/IO 14.0 %, Public 13.3 %, Equilibrium 9.5 % |
 | 2. Candidates | virtual committee in the five leading fields | done; 30 candidates |
 | 3. People | "Which contribution will the 2026 Nobel Prize in Economic Sciences be awarded for?" (30 options, no Other) | done; treatment top three: Berry, Levinsohn, Pakes 16.7 %, Woodford, Galí, Gertler 12.6 %, Melitz, Bernard, Helpman 8.1 % |
+| Outcome | Hall and Woodford, "for microeconomic foundations of macroeconomic stabilisation" | field: Macro, first in both arms; people: Woodford in the treatment's second option (with Galí and Gertler), Hall alone 28th of 30 |
 
 ## Stage 1: which field?
 
@@ -150,14 +221,16 @@ Options are matched by contribution; the people named need not match the laureat
 stage 1); age and timing; the prizes already awarded; per field, the candidate combinations with the people's years of
 birth and their defining works; per field, the virtual committee's support and reasoning. **Control**: no notes.
 
-**Results** (Preseen, 10 October 2026, 15:03-15:37 CDT; one run per arm; Preseen reports:
+**Results** (Preseen, 10 October 2026, 15:03-15:37 CDT, before the announcement; one run per arm; Preseen reports:
 [treatment](preseen_report/Treatment_candidate.pdf), [control](preseen_report/Control_candidate.pdf);
 [forecast table](../Data/Result/Economics/nobel_economics_2026_people.csv),
 [write-ups](07_people_forecast/results/)):
 
 ![2026 economics people forecast: top 5 candidates of the treatment](../docs/nobel2026/economics_2026_people_top5_treatment.png)
 
-With the control's probability beside each candidate: [figure](../docs/nobel2026/economics_2026_people_top5.png).
+With the control's probability beside each candidate: [figure](../docs/nobel2026/economics_2026_people_top5.png). The
+awarded laureates are marked in the figure of the [Outcome](#outcome-12-october-2026) section; the options ranked 2
+and 28 in the table below name a laureate.
 
 | Treatment rank | Candidate | Treatment | Control (rank) |
 |---:|---|---:|---:|
@@ -167,6 +240,7 @@ With the control's probability beside each candidate: [figure](../docs/nobel2026
 | 4 | Dasgupta, Heal — sustainability and natural capital (Equilibrium) | **6.3** | 4.5 (6) |
 | 5 | Kiyotaki, Moore — credit constraints and collateral (Macro) | **5.3** | 5.0 (5) |
 | 6 | Obstfeld, Rogoff — new open-economy macroeconomics (Trade) | 3.9 | 5.0 (4) |
+| 28 | Hall — consumption under rational expectations and labour-market fluctuations (Macro) | 1.1 | 1.9 (15) |
 
 - **The arms agree on the leaders** (rank correlation 0.66; 11.5 percentage points apart, against about 29 at the field
   stage): both put the empirical IO of Berry, Levinsohn and Pakes first, New Keynesian economics second and
@@ -207,6 +281,9 @@ With the control's probability beside each candidate: [figure](../docs/nobel2026
 - Years of birth are those stated by the models, and the living check is a screen, not a verification of every
   person. The models nominated two people who have died.
 - One run per arm: differences of a few percentage points between runs are within noise.
+- Options are built one contribution at a time. A prize that joins two lines of work under one motivation, as in 2026
+  (Hall's consumption and Woodford's price setting), can appear as an option only if a ballot proposes the pairing;
+  the integration step merged nominations of the same contribution, not complementary ones.
 
 ## Layout
 
@@ -221,11 +298,13 @@ With the control's probability beside each candidate: [figure](../docs/nobel2026
 | [`07_people_forecast/`](07_people_forecast/README.md) | stage 3: context notes, question, living check, run script |
 | [`preseen_report/`](preseen_report/) | the Preseen reports (PDF) of the four runs: field and people questions, treatment and control |
 | [`record/`](record/) | detailed record of the work (LaTeX) |
+| [`../manuscript/nobel2026_pipeline.pdf`](../manuscript/nobel2026_pipeline.pdf) | models, content and usage of the whole Nobel pipeline (all four prizes), with the economics outcome |
 
 ## References
 
 - Peter J. Dolton and Richard S. J. Tol, "The Process and Dynamics of the Nobel Memorial Prize in Economics,
   1969-2025", arXiv:2603.20767v1 (21 March 2026).
 - Prize record and motivations: [nobelprize.org](https://www.nobelprize.org/prizes/lists/all-prizes-in-economic-sciences/)
-  and the Nobel Prize API 2.1.
+  and the Nobel Prize API 2.1; the 2026 prize: [press release](https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/)
+  and `https://api.nobelprize.org/2.1/nobelPrizes?nobelPrizeYear=2026&nobelPrizeCategory=eco`.
 - JEL classification: American Economic Association, [JEL codes](https://www.aeaweb.org/econlit/jelCodes.php).
